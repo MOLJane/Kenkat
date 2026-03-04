@@ -1,806 +1,216 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Kay’s Page</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Kay’s Page</title>
 
-  <!-- Auto-refresh the whole page every 15 minutes -->
-  <meta http-equiv="refresh" content="900">
+<meta http-equiv="refresh" content="900">
 
-  <style>
-    :root{
-      --bg: #f6f6f4;
-      --card: #ffffff;
-      --ink: #1a1a1a;
-      --muted: #555;
-      --line: #ddd;
-      --shadow: 0 2px 10px rgba(0,0,0,.08);
-      --radius: 14px<section class="grid-top">
-  <!-- LEFT: HEADLINES -->
-  <div class="card">
-    <h2>Top Headlines</h2>
-    <div class="news-grid" id="newsGrid"></div>
-    <div class="status" id="newsStatus">Loading headlines…</div>
-  </div>
+<style>
 
-  <!-- RIGHT: PHOTOS + CALENDAR + NOTES + MORE PHOTOS -->
-  <div style="display:grid; gap:14px;">
+:root{
+  --bg: #f6f6f4;
+  --card: #ffffff;
+  --ink: #1a1a1a;
+  --muted: #555;
+  --line: #ddd;
+  --shadow: 0 2px 10px rgba(0,0,0,.08);
+  --radius: 14px;
+  --pad: 14px;
 
-    <!-- Small rotating photo strip (PublicAlbum carousel) -->
-    <div class="card photo-frame">
-      <h2>Family Photos</h2>
-
-      <div class="pa-carousel-widget" style="width:100%; height:220px; display:none;"
-        data-link="https://photos.app.goo.gl/Jrg1whxbyx1g26EAA"
-        data-title="Kay Photos"
-        data-description="">
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczN4u8AzrmSwAnXM4kG0WYxIuU-fNCQJjgutq42cq9tk8ZEyiVNwJ2f0N1b_RIAcdFH6sZDHEqk8Bk5c3xzZL7Dd1rDB2-RjmocaOtaRsk8OqblK4K4=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczP7DsNBScPHD9wEtydNWcDrnqgyRViAJBVn18c_PHjdNysE-kmlQjLNfqtL6X9hQndtXUhJXJM-yUXtJEgr1ASca_B8WJjb_F2Nh3mT8PPi7JvW4PM=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczOfOULnmiKuRul8FyD19tbprZ-v-KNrXdJMIZ5rntaStscqrruDk1Iqazn9C8aOTxD2z624fFTGnv3Q96EapEAzIAEhANCrFC4Ut71EnPzxfT0GGzg=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczOekhT3Va6D-CJvSv9IskUu2SSSdOVGJZfVn2vRkn99PUTpXlgZD1SzJL6s41-o0hMrK-cRdysHUvQdJ39vgo9xYUw991h1g0KPo-2ITxsvyZ787-M=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczNL4O-3isNTPv2CtaKCiOYSWNeVPjTsACd_Ds1CF6YnDWsJJ3L8aV6OyOxsowzcf3Vwuo5YlJPCJBi9bxF7CVtHtxfb8MsDh1SHmI2GcGMJlcX42V0=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczOy0L-KunXP4bbvt5qvjPKp8p5v8YlIYzsB0lPuF30gu7Qeq9khGXZsfsTloSSxg27_TC_Eoy_lmL-EOhZvkqByKUlPC1HT-2BRpBdvPFbhXfbCg9I=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczNCmVLSAzUnCVqWYHoW18LMFqWcwHRA7U8NkOTGppGWDXVNN22fZAtr_reB5v_V8obDXNW8ssbL_r7lwjzBhb4ludGzFWiJOgja_41Jp5U4kK0_bkY=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczM-JYW5d-PmnbU670-lOsA75HHPZ5mwaQwT2jfKtAwMtwuOu76exbaVIJTIUN4HdWk1AfcKwlxHyA8GslrLNxIOOk89pQv-pL7Icr5XAPZ3W-jCiAw=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczOafCZ9baBsxA5Iz6p25S2hWPzVHTyUzbDie4797YWVavVVtqbbt1iq1XuPaLkRLIT_ynFlg7RlArdLhlxluNCJKJq7NqLWdQUGRmguj_CqedfQt-s=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczNQJ6J3UaEQfRzz8kN7fY4AnURcTUf2DJy-PWlERtAeBBO1fY_rMYNIawx-3y3bzVve3R5QuMGPr7jPBAQcIOWSyY0zeqO6JjkeKfHxhW61TfxQg-U=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczPTCGiXzbaKDGOcbIDanM_kwgK5WxVPvNZ2qiAIDYLzGDOJpDijl_IyesKzNdX-FDLodzupJK-8Roy88LKyNigIdhVpGatcTXm-xHK6-xcCm7wmh2w=w1920-h1080"></object>
-      </div>
-
-      <div class="status">A few favourites.</div>
-    </div>
-
-    <!-- Calendar -->
-    <div class="card">
-      <h2>Calendar</h2>
-      <iframe class="calendar" id="calendarFrame"
-        src="https://calendar.google.com/calendar/embed?src=en.canadian%23holiday%40group.v.calendar.google.com&ctz=America%2FSt_Johns&mode=MONTH"
-        loading="lazy">
-      </iframe>
-      <div class="status">
-        To show Kay’s own calendar: Google Calendar → Settings → her calendar → “Integrate calendar” → copy Embed URL → replace the src above.
-      </div>
-    </div>
-
-    <!-- Notes -->
-    <div class="card">
-      <h2>Phone Numbers / Notes</h2>
-      <div class="muted"></div>
-      <textarea class="notes" id="notesBox" placeholder="Type numbers here. It saves automatically on this computer."></textarea>
-      <div class="status" id="notesStatus">Saved locally.</div>
-    </div>
-
-    <!-- Family album  -->
-<div class="card">
-  <h2>Family Album</h2>
-  <div class="muted">Click the photo to see all family pictures.</div>
-
-  <a href="https://photos.app.goo.gl/JjsBHXuXaDUNkNSJ6"
-     target="_blank"
-     rel="noopener noreferrer">
-
-    <img src="Barry Family.JPG"
-         alt="Barry Family"
-         style="
-           width:100%;
-           border-radius:12px;
-           margin-top:10px;
-           box-shadow:0 2px 8px rgba(0,0,0,.15);
-           cursor:pointer;
-         ">
-  </a>
-
-</div>
-
-  </div>
-</section>;
-      --pad: 14px;
-
-      /* senior-friendly sizing */
-      --h1: 34px;
-      --h2: 20px;
-      --body: 18px;
-      --small: 15px;
-    }
-
-    * { box-sizing: border-box; }
-    body{
-      margin:0;
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-      color: var(--ink);
-      background: var(--bg);
-    }
-
-    .wrap{
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 14px;
-      display: grid;
-      gap: 14px;
-    }
-
-    header.hero{
-      position: relative;
-      border-radius: var(--radius);
-      overflow: hidden;
-      background: #000;
-      box-shadow: var(--shadow);
-      min-height: 175px;
-    }
-
-    header.hero::before{
-      content:"";
-      position:absolute;
-      inset:0;
-      background:
-        linear-gradient(to bottom, rgba(0,0,0,.40), rgba(0,0,0,.58)),
-        url("beach2.jpeg") center/cover no-repeat;
-      filter: saturate(1.05);
-      transform: scale(1.02);
-    }
-
-    .hero-content{
-      position: relative;
-      padding: 18px 18px 16px;
-      display:flex;
-      align-items:flex-end;
-      justify-content: space-between;
-      gap: 12px;
-      min-height: 175px;
-    }
-
-    .titleblock{
-      display:flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-
-    .site-title{
-      margin:0;
-      font-size: var(--h1);
-      letter-spacing: .2px;
-      color: #fff;
-      text-shadow: 0 2px 12px rgba(0,0,0,.35);
-    }
-
-    .today{
-      margin:0;
-      font-size: var(--h2);
-      color: rgba(255,255,255,.92);
-      text-shadow: 0 2px 12px rgba(0,0,0,.35);
-    }
-
-    .weatherline{
-      margin: 2px 0 0 0;
-      font-size: 18px;
-      color: rgba(255,255,255,.95);
-      text-shadow: 0 2px 12px rgba(0,0,0,.35);
-    }
-
-    .controls{
-      display:flex;
-      gap: 8px;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: flex-end;
-    }
-
-    .pill{
-      border: 1px solid rgba(255,255,255,.35);
-      background: rgba(255,255,255,.14);
-      color: #fff;
-      padding: 8px 10px;
-      border-radius: 999px;
-      font-size: var(--small);
-      backdrop-filter: blur(6px);
-      cursor: pointer;
-      user-select: none;
-      text-decoration: none;
-      display:inline-block;
-      text-align:center;
-    }
-    .pill:active { transform: translateY(1px); }
-
-    /* Top buttons row */
-    .topbar{
-      display: grid;
-      gap: 10px;
-    }
-
-    .rowbar{
-      display: grid;
-      grid-template-columns: repeat(7, minmax(0, 1fr));
-      gap: 10px;
-    }
-
-    @media (max-width: 1100px){
-      .rowbar{ grid-template-columns: repeat(4, minmax(0,1fr)); }
-    }
-    @media (max-width: 700px){
-      .rowbar{ grid-template-columns: repeat(2, minmax(0,1fr)); }
-    }
-
-    .bigbtn{
-      display: block;
-      text-align: center;
-      background: #ffffff;
-      border: 1px solid #ddd;
-      padding: 14px 10px;
-      border-radius: 12px;
-      font-size: 20px;
-      text-decoration: none;
-      color: #111;
-      box-shadow: 0 2px 6px rgba(0,0,0,.08);
-      user-select: none;
-      line-height: 1.15;
-    }
-    .bigbtn:hover{ background:#f3f3f3; }
-    .bigbtn:active{ transform: translateY(1px); }
-
-    .grid-top{
-      display:grid;
-      gap: 14px;
-      grid-template-columns: 1.2fr .8fr;
-      align-items: start;
-    }
-    @media (max-width: 980px){
-      .grid-top { grid-template-columns: 1fr; }
-    }
-
-    .card{
-      background: var(--card);
-      border: 1px solid var(--line);
-      border-radius: var(--radius);
-      box-shadow: var(--shadow);
-      padding: var(--pad);
-    }
-
-    .card h2{
-      margin: 0 0 10px 0;
-      font-size: 22px;
-    }
-
-    .muted{
-      color: var(--muted);
-      font-size: var(--body);
-      line-height: 1.35;
-    }
-
-    /* News grid default: 3 columns, but we will DEFAULT to 2 via .two-across on pageRoot */
-    .news-grid{
-      display:grid;
-      gap: 12px;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-    }
-    .two-across .news-grid{
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-    @media (max-width: 980px){
-      .news-grid{ grid-template-columns: repeat(2, minmax(0,1fr)); }
-    }
-    @media (max-width: 620px){
-      .news-grid{ grid-template-columns: 1fr; }
-    }
-
-    .news-item{
-      border: 1px solid var(--line);
-      border-radius: 12px;
-      overflow:hidden;
-      background: #fff;
-      display:flex;
-      flex-direction: column;
-      min-height: 200px;
-    }
-
-    .news-thumb{
-      width: 100%;
-      height: 130px;
-      background: #e9e9e9;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      overflow:hidden;
-    }
-    .news-thumb img{
-      width:100%;
-      height:100%;
-      object-fit: cover;
-      display:block;
-    }
-
-    .news-body{
-      padding: 10px 12px 12px;
-      display:flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-
-    .news-title{
-      font-size: 18px;
-      line-height: 1.2;
-      margin:0;
-    }
-    .news-title a{
-      color: var(--ink);
-      text-decoration: none;
-    }
-    .news-title a:hover{ text-decoration: underline; }
-
-    .news-snippet{
-      margin:0;
-      color: var(--muted);
-      font-size: 16px;
-      line-height: 1.25;
-    }
-
-    .news-meta{
-      margin-top:auto;
-      font-size: 14px;
-      color: #666;
-    }
-
-    iframe.calendar{
-      width:100%;
-      height: 420px;
-      border:0;
-      border-radius: 12px;
-      background:#fff;
-    }
-
-    textarea.notes{
-      width:100%;
-      min-height: 180px;
-      border-radius: 12px;
-      border: 1px solid var(--line);
-      padding: 12px;
-      font-size: 18px;
-      line-height: 1.3;
-      resize: vertical;
-      outline: none;
-    }
-
-    .status{
-      font-size: 15px;
-      color: #666;
-      margin-top: 8px;
-      min-height: 20px;
-    }
-
-    .footerhint{
-      font-size: 14px;
-      color: #666;
-      text-align:center;
-      padding: 8px 0 18px;
-    }
-    
-    .photo-frame {
-  padding: 8px;
+  /* senior-friendly sizing */
+  --h1: 34px;
+  --h2: 20px;
+  --body: 18px;
+  --small: 15px;
 }
-.photo-embed {
-  width: 100%;
-  height: 220px;          /* adjust 180–260 */
-  border: 0;
-  border-radius: 12px;
+
+* { box-sizing: border-box; }
+
+body{
+  margin:0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+.wrap{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 14px;
+  display: grid;
+  gap: 14px;
+}
+
+header.hero{
+  position: relative;
+  border-radius: var(--radius);
   overflow: hidden;
-}  
-  .card img:hover{
+  background: #000;
+  box-shadow: var(--shadow);
+  min-height: 175px;
+}
+
+header.hero::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:
+    linear-gradient(to bottom, rgba(0,0,0,.40), rgba(0,0,0,.58)),
+    url("beach2.jpeg") center/cover no-repeat;
+  filter: saturate(1.05);
+  transform: scale(1.02);
+}
+
+.hero-content{
+  position: relative;
+  padding: 18px 18px 16px;
+  display:flex;
+  align-items:flex-end;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 175px;
+}
+
+.titleblock{
+  display:flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.site-title{
+  margin:0;
+  font-size: var(--h1);
+  letter-spacing: .2px;
+  color: #fff;
+  text-shadow: 0 2px 12px rgba(0,0,0,.35);
+}
+
+.today{
+  margin:0;
+  font-size: var(--h2);
+  color: rgba(255,255,255,.92);
+  text-shadow: 0 2px 12px rgba(0,0,0,.35);
+}
+
+.weatherline{
+  margin: 2px 0 0 0;
+  font-size: 18px;
+  color: rgba(255,255,255,.95);
+  text-shadow: 0 2px 12px rgba(0,0,0,.35);
+}
+
+.controls{
+  display:flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.pill{
+  border: 1px solid rgba(255,255,255,.35);
+  background: rgba(255,255,255,.14);
+  color: #fff;
+  padding: 8px 10px;
+  border-radius: 999px;
+  font-size: var(--small);
+  backdrop-filter: blur(6px);
+  cursor: pointer;
+  user-select: none;
+  text-decoration: none;
+}
+
+.pill:active { transform: translateY(1px); }
+
+.topbar{
+  display: grid;
+  gap: 10px;
+}
+
+.rowbar{
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 10px;
+}
+
+@media (max-width: 1100px){
+  .rowbar{ grid-template-columns: repeat(4, minmax(0,1fr)); }
+}
+
+@media (max-width: 700px){
+  .rowbar{ grid-template-columns: repeat(2, minmax(0,1fr)); }
+}
+
+.bigbtn{
+  display: block;
+  text-align: center;
+  background: #ffffff;
+  border: 1px solid #ddd;
+  padding: 14px 10px;
+  border-radius: 12px;
+  font-size: 20px;
+  text-decoration: none;
+  color: #111;
+  box-shadow: 0 2px 6px rgba(0,0,0,.08);
+}
+
+.bigbtn:hover{ background:#f3f3f3; }
+
+.grid-top{
+  display:grid;
+  gap: 14px;
+  grid-template-columns: 1.2fr .8fr;
+  align-items: start;
+}
+
+@media (max-width: 980px){
+  .grid-top { grid-template-columns: 1fr; }
+}
+
+.card{
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: var(--pad);
+}
+
+.card h2{
+  margin: 0 0 10px 0;
+  font-size: 22px;
+}
+
+.muted{
+  color: var(--muted);
+  font-size: var(--body);
+}
+
+iframe.calendar{
+  width:100%;
+  height: 420px;
+  border:0;
+  border-radius: 12px;
+  background:#fff;
+}
+
+textarea.notes{
+  width:100%;
+  min-height: 180px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  padding: 12px;
+  font-size: 18px;
+}
+
+.photo-frame{
+  padding:8px;
+}
+
+.card img:hover{
   transform: scale(1.02);
   transition: transform .2s ease;
 }
-  </style>
-</head>
 
-<body>
-  <!-- default to 2 columns -->
-  <div class="wrap two-across" id="pageRoot">
-    <header class="hero">
-      <div class="hero-content">
-        <div class="titleblock">
-          <h1 class="site-title">Kay’s Page</h1>
-          <p class="today" id="todayText">Loading date…</p>
-          <p class="weatherline" id="weatherLine">Loading weather…</p>
-        </div>
-
-        <div class="controls">
-          <a class="pill" href="./" title="Return to Kay’s Page">Home</a>
-          <div class="pill" id="toggleColumnsBtn" title="Switch headline columns">Toggle 2/3 columns</div>
-          <div class="pill" id="refreshBtn" title="Refresh">Refresh</div>
-        </div>
-      </div>
-    </header>
-
-    <!-- One row of big buttons -->
-    <section class="topbar">
-      <div class="rowbar">
-        <a class="bigbtn" href="./">🏠 Home</a>
-
-        <!-- Bell TV CBC channel -->
-        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://tv.bell.ca/card/channel/CBCNH">📺 CBC (Bell)</a>
-
-        <!-- VOCM local news -->
-        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://vocm.com/">📰 VOCM News</a>
-
-        <!-- CBC web news/player -->
-        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://www.cbc.ca/news">🟥 CBC News</a>
-
-        <!-- Messenger -->
-        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://www.messenger.com/">💬 Messenger</a>
-
-        <!-- Classical (simple) -->
-        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/results?search_query=classical+music+live">🎵 Classical</a>
-
-        <!-- Weather Network (button) -->
-        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://www.theweathernetwork.com/ca/weather/newfoundland-and-labrador/st-johns">🌦️ Weather</a>
-      </div>
-    </section>
-
-<section class="grid-top">
-  <!-- LEFT: HEADLINES -->
-  <div class="card">
-    <h2>Top Headlines</h2>
-    <div class="news-grid" id="newsGrid"></div>
-    <div class="status" id="newsStatus">Loading headlines…</div>
-  </div>
-
-  <!-- RIGHT: PHOTOS + CALENDAR + NOTES + MORE PHOTOS -->
-  <div style="display:grid; gap:14px;">
-
-    <!-- Small rotating photo strip (PublicAlbum carousel) -->
-    <div class="card photo-frame">
-      <h2>Family Photos</h2>
-
-      <div class="pa-carousel-widget" style="width:100%; height:220px; display:none;"
-        data-link="https://photos.app.goo.gl/Jrg1whxbyx1g26EAA"
-        data-title="Kay Photos"
-        data-description="">
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczN4u8AzrmSwAnXM4kG0WYxIuU-fNCQJjgutq42cq9tk8ZEyiVNwJ2f0N1b_RIAcdFH6sZDHEqk8Bk5c3xzZL7Dd1rDB2-RjmocaOtaRsk8OqblK4K4=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczP7DsNBScPHD9wEtydNWcDrnqgyRViAJBVn18c_PHjdNysE-kmlQjLNfqtL6X9hQndtXUhJXJM-yUXtJEgr1ASca_B8WJjb_F2Nh3mT8PPi7JvW4PM=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczOfOULnmiKuRul8FyD19tbprZ-v-KNrXdJMIZ5rntaStscqrruDk1Iqazn9C8aOTxD2z624fFTGnv3Q96EapEAzIAEhANCrFC4Ut71EnPzxfT0GGzg=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczOekhT3Va6D-CJvSv9IskUu2SSSdOVGJZfVn2vRkn99PUTpXlgZD1SzJL6s41-o0hMrK-cRdysHUvQdJ39vgo9xYUw991h1g0KPo-2ITxsvyZ787-M=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczNL4O-3isNTPv2CtaKCiOYSWNeVPjTsACd_Ds1CF6YnDWsJJ3L8aV6OyOxsowzcf3Vwuo5YlJPCJBi9bxF7CVtHtxfb8MsDh1SHmI2GcGMJlcX42V0=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczOy0L-KunXP4bbvt5qvjPKp8p5v8YlIYzsB0lPuF30gu7Qeq9khGXZsfsTloSSxg27_TC_Eoy_lmL-EOhZvkqByKUlPC1HT-2BRpBdvPFbhXfbCg9I=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczNCmVLSAzUnCVqWYHoW18LMFqWcwHRA7U8NkOTGppGWDXVNN22fZAtr_reB5v_V8obDXNW8ssbL_r7lwjzBhb4ludGzFWiJOgja_41Jp5U4kK0_bkY=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczM-JYW5d-PmnbU670-lOsA75HHPZ5mwaQwT2jfKtAwMtwuOu76exbaVIJTIUN4HdWk1AfcKwlxHyA8GslrLNxIOOk89pQv-pL7Icr5XAPZ3W-jCiAw=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczOafCZ9baBsxA5Iz6p25S2hWPzVHTyUzbDie4797YWVavVVtqbbt1iq1XuPaLkRLIT_ynFlg7RlArdLhlxluNCJKJq7NqLWdQUGRmguj_CqedfQt-s=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczNQJ6J3UaEQfRzz8kN7fY4AnURcTUf2DJy-PWlERtAeBBO1fY_rMYNIawx-3y3bzVve3R5QuMGPr7jPBAQcIOWSyY0zeqO6JjkeKfHxhW61TfxQg-U=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/pw/AP1GczPTCGiXzbaKDGOcbIDanM_kwgK5WxVPvNZ2qiAIDYLzGDOJpDijl_IyesKzNdX-FDLodzupJK-8Roy88LKyNigIdhVpGatcTXm-xHK6-xcCm7wmh2w=w1920-h1080"></object>
-      </div>
-
-      <div class="status">A few favourites.</div>
-    </div>
-
-    <!-- Calendar -->
-    <div class="card">
-      <h2>Calendar</h2>
-      <iframe class="calendar" id="calendarFrame"
-        src="https://calendar.google.com/calendar/embed?src=en.canadian%23holiday%40group.v.calendar.google.com&ctz=America%2FSt_Johns&mode=MONTH"
-        loading="lazy">
-      </iframe>
-      <div class="status">
-        To show Kay’s own calendar: Google Calendar → Settings → her calendar → “Integrate calendar” → copy Embed URL → replace the src above.
-      </div>
-    </div>
-
-    <!-- Notes -->
-    <div class="card">
-      <h2>Phone Numbers / Notes</h2>
-      <div class="muted">Type numbers here. It saves automatically on this computer.</div>
-      <textarea class="notes" id="notesBox" placeholder="Example:
-Doctor: 555-555-5555
-Jane: 555-555-5555
-Pharmacy: 555-555-5555"></textarea>
-      <div class="status" id="notesStatus">Saved locally.</div>
-    </div>
-
-    <!-- Large album button -->
-    <div class="card">
-      <h2>More Photos</h2>
-      <div class="muted">Click to see the full album.</div>
-      <a class="bigbtn" target="_blank" rel="noopener noreferrer"
-         href="https://photos.app.goo.gl/JjsBHXuXaDUNkNSJ6">
-        📷 Kathleen Family Album
-      </a>
-    </div>
-
-  </div>
-</section>
-
-    <div class="footerhint">
-      Big buttons • Weather • Headlines • Calendar • Notes
-    </div>
-  </div>
-
-<script>
-/* =======================
-   PAGE SELF-HEALING
-   ======================= */
-/* Cache-busting reload every 15 minutes (matches meta refresh) */
-setTimeout(() => {
-  const url = new URL(window.location.href);
-  url.searchParams.set("v", Date.now().toString());
-  window.location.replace(url.toString());
-}, 15 * 60 * 1000);
-
-/* =======================
-   DATE + WEATHER
-   ======================= */
-function formatDate(d){
-  try{
-    return new Intl.DateTimeFormat(undefined, { weekday:"long", year:"numeric", month:"long", day:"numeric" }).format(d);
-  }catch(e){
-    return d.toDateString();
-  }
-}
-
-function initDate(){
-  document.getElementById("todayText").textContent = formatDate(new Date());
-  setInterval(() => {
-    document.getElementById("todayText").textContent = formatDate(new Date());
-  }, 60 * 1000);
-}
-
-// St. John's, NL coordinates
-const STJ_LAT = 47.5615;
-const STJ_LON = -52.7126;
-
-// Open-Meteo (no key)
-async function loadWeather(){
-  const el = document.getElementById("weatherLine");
-  try{
-    const url =
-      "https://api.open-meteo.com/v1/forecast"
-      + "?latitude=" + encodeURIComponent(STJ_LAT)
-      + "&longitude=" + encodeURIComponent(STJ_LON)
-      + "&current=temperature_2m,weather_code,wind_speed_10m"
-      + "&temperature_unit=celsius"
-      + "&wind_speed_unit=kmh"
-      + "&timezone=America%2FSt_Johns";
-
-    const res = await fetch(url);
-    if(!res.ok) throw new Error("Weather HTTP " + res.status);
-    const data = await res.json();
-
-    const t = data?.current?.temperature_2m;
-    const w = data?.current?.weather_code;
-    const wind = data?.current?.wind_speed_10m;
-
-    const desc = weatherCodeToText(w);
-    el.textContent = `St. John’s: ${Math.round(t)}°C • ${desc}${(wind!=null ? " • Wind " + Math.round(wind) + " km/h" : "")}`;
-  } catch(e){
-    el.textContent = "St. John’s: Weather";
-  }
-}
-
-function weatherCodeToText(code){
-  const m = {
-    0:"Clear",
-    1:"Mainly clear", 2:"Partly cloudy", 3:"Cloudy",
-    45:"Fog", 48:"Fog",
-    51:"Drizzle", 53:"Drizzle", 55:"Drizzle",
-    56:"Freezing drizzle", 57:"Freezing drizzle",
-    61:"Rain", 63:"Rain", 65:"Heavy rain",
-    66:"Freezing rain", 67:"Freezing rain",
-    71:"Snow", 73:"Snow", 75:"Heavy snow",
-    77:"Snow",
-    80:"Showers", 81:"Showers", 82:"Heavy showers",
-    85:"Snow showers", 86:"Heavy snow showers",
-    95:"Thunderstorm",
-    96:"Thunderstorm", 99:"Thunderstorm"
-  };
-  return (code in m) ? m[code] : "Weather";
-}
-
-/* =======================
-   NOTES (local save)
-   ======================= */
-function initNotes(){
-  const notes = document.getElementById("notesBox");
-  const status = document.getElementById("notesStatus");
-  const KEY = "kays_page_notes_v4";
-
-  notes.value = localStorage.getItem(KEY) || "";
-
-  let t = null;
-  notes.addEventListener("input", () => {
-    status.textContent = "Saving…";
-    clearTimeout(t);
-    t = setTimeout(() => {
-      localStorage.setItem(KEY, notes.value);
-      status.textContent = "Saved.";
-    }, 250);
-  });
-}
-
-/* =======================
-   NEWS FEEDS
-   ======================= */
-const FEEDS = {
-  canada: [
-    { name: "CBC Top Stories", url: "http://rss.cbc.ca/lineup/topstories.xml" }
-  ],
-  nl: [
-    { name: "CBC Newfoundland & Labrador", url: "http://rss.cbc.ca/lineup/canada-newfoundland.xml" },
-    { name: "VOCM", url: "https://vocm.com/feed/" }
-  ],
-  world: [
-    { name: "BBC World", url: "http://feeds.bbci.co.uk/news/rss.xml?edition=int" },
-    { name: "CNN Top Stories", url: "http://rss.cnn.com/rss/cnn_topstories.rss" }
-  ]
-};
-
-// Choose how many headlines you want (total = sum)
-const MIX = { canada: 6, nl: 6, world: 6 };
-const SNIPPET_LEN = 240;
-
-// rss2json endpoint (no key) — can be blocked by some extensions
-function rss2jsonUrl(rssUrl){
-  return "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(rssUrl);
-}
-
-function stripHtml(s){
-  if(!s) return "";
-  return s.replace(/<[^>]*>/g, " ").replace(/\s+/g," ").trim();
-}
-
-function chooseImage(item){
-  if(item && item.enclosure && item.enclosure.link) return item.enclosure.link;
-  if(item && item.thumbnail) return item.thumbnail;
-  return null;
-}
-
-async function fetchFeed(feed){
-  // cache buster per request
-  const url = rss2jsonUrl(feed.url) + "&_=" + Date.now();
-  const res = await fetch(url, { cache: "no-store" });
-  if(!res.ok) throw new Error(`HTTP ${res.status}`);
-  const data = await res.json();
-  if(data.status !== "ok") throw new Error(data.message || "Feed error");
-
-  return (data.items || []).map(it => ({
-    source: feed.name,
-    title: it.title || "",
-    link: it.link || "#",
-    snippet: stripHtml(it.description || it.content || "").slice(0, SNIPPET_LEN),
-    pubDate: it.pubDate ? new Date(it.pubDate) : null,
-    image: chooseImage(it)
-  }));
-}
-
-function pickTop(items, n){ return items.slice(0, n); }
-
-function newsCard(item){
-  const el = document.createElement("div");
-  el.className = "news-item";
-
-  const thumb = document.createElement("div");
-  thumb.className = "news-thumb";
-
-  if(item.image){
-    const img = document.createElement("img");
-    img.src = item.image;
-    img.alt = "";
-    img.loading = "lazy";
-    thumb.appendChild(img);
-  } else {
-    thumb.innerHTML = "<div style='font-size:40px; opacity:.35'>📰</div>";
-  }
-
-  const body = document.createElement("div");
-  body.className = "news-body";
-
-  const h = document.createElement("p");
-  h.className = "news-title";
-
-  const a = document.createElement("a");
-  a.href = item.link;             // opens in same tab
-  a.textContent = item.title || "(no title)";
-  h.appendChild(a);
-
-  const snip = document.createElement("p");
-  snip.className = "news-snippet";
-  snip.textContent = item.snippet ? (item.snippet + (item.snippet.length >= SNIPPET_LEN ? "…" : "")) : "";
-
-  const meta = document.createElement("div");
-  meta.className = "news-meta";
-  const d = item.pubDate ? item.pubDate : null;
-  meta.textContent = item.source + (d ? (" • " + new Intl.DateTimeFormat(undefined, { month:"short", day:"numeric" }).format(d)) : "");
-
-  body.appendChild(h);
-  body.appendChild(snip);
-  body.appendChild(meta);
-
-  el.appendChild(thumb);
-  el.appendChild(body);
-  return el;
-}
-
-/* Retry strategy:
-   - If blocked by extension: it may never work in normal mode
-   - But we keep it calm and retry a few times, then leave "Loading headlines…" */
-async function loadHeadlinesWithRetries(){
-  const grid = document.getElementById("newsGrid");
-  const status = document.getElementById("newsStatus");
-
-  // Keep message calm for Mom
-  status.textContent = "Loading headlines…";
-  grid.innerHTML = "";
-
-  const maxAttempts = 3;
-  for(let attempt=1; attempt<=maxAttempts; attempt++){
-    try{
-      const tasks = [];
-      for(const group of Object.keys(FEEDS)){
-        for(const f of FEEDS[group]) tasks.push(fetchFeed(f).then(items => ({group, items})));
-      }
-      const results = await Promise.all(tasks);
-
-      const grouped = { canada: [], nl: [], world: [] };
-      for(const r of results){
-        if(grouped[r.group]) grouped[r.group].push(...r.items);
-      }
-
-      const chosen = [
-        ...pickTop(grouped.canada, MIX.canada),
-        ...pickTop(grouped.nl, MIX.nl),
-        ...pickTop(grouped.world, MIX.world)
-      ].filter(x => x && x.link && x.title);
-
-      for(const item of chosen){
-        grid.appendChild(newsCard(item));
-      }
-
-      status.textContent = chosen.length ? "Headlines updated." : "Headlines updated.";
-      return;
-    } catch(e){
-      // short backoff then retry
-      await new Promise(r => setTimeout(r, 1200 * attempt));
-    }
-  }
-
-  // After retries, keep it non-alarming
-  status.textContent = "Loading headlines…";
-}
-
-/* =======================
-   CONTROLS
-   ======================= */
-function initControls(){
-  const root = document.getElementById("pageRoot");
-
-  document.getElementById("toggleColumnsBtn").addEventListener("click", () => {
-    root.classList.toggle("two-across");
-  });
-
-  document.getElementById("refreshBtn").addEventListener("click", () => {
-    loadWeather();
-    loadHeadlinesWithRetries();
-  });
-}
-
-initDate();
-initNotes();
-initControls();
-loadWeather();
-loadHeadlinesWithRetries();
-</script>
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-carousel-widget" style="width:640px; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/Jrg1whxbyx1g26EAA"
-  data-title="Kay · Aug 9, 2012 – Sep 6, 2023 📸"
-  data-description="Shared album · Tap to view!">
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczN4u8AzrmSwAnXM4kG0WYxIuU-fNCQJjgutq42cq9tk8ZEyiVNwJ2f0N1b_RIAcdFH6sZDHEqk8Bk5c3xzZL7Dd1rDB2-RjmocaOtaRsk8OqblK4K4=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczP7DsNBScPHD9wEtydNWcDrnqgyRViAJBVn18c_PHjdNysE-kmlQjLNfqtL6X9hQndtXUhJXJM-yUXtJEgr1ASca_B8WJjb_F2Nh3mT8PPi7JvW4PM=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczOfOULnmiKuRul8FyD19tbprZ-v-KNrXdJMIZ5rntaStscqrruDk1Iqazn9C8aOTxD2z624fFTGnv3Q96EapEAzIAEhANCrFC4Ut71EnPzxfT0GGzg=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczOekhT3Va6D-CJvSv9IskUu2SSSdOVGJZfVn2vRkn99PUTpXlgZD1SzJL6s41-o0hMrK-cRdysHUvQdJ39vgo9xYUw991h1g0KPo-2ITxsvyZ787-M=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczNL4O-3isNTPv2CtaKCiOYSWNeVPjTsACd_Ds1CF6YnDWsJJ3L8aV6OyOxsowzcf3Vwuo5YlJPCJBi9bxF7CVtHtxfb8MsDh1SHmI2GcGMJlcX42V0=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczOy0L-KunXP4bbvt5qvjPKp8p5v8YlIYzsB0lPuF30gu7Qeq9khGXZsfsTloSSxg27_TC_Eoy_lmL-EOhZvkqByKUlPC1HT-2BRpBdvPFbhXfbCg9I=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczNCmVLSAzUnCVqWYHoW18LMFqWcwHRA7U8NkOTGppGWDXVNN22fZAtr_reB5v_V8obDXNW8ssbL_r7lwjzBhb4ludGzFWiJOgja_41Jp5U4kK0_bkY=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczM-JYW5d-PmnbU670-lOsA75HHPZ5mwaQwT2jfKtAwMtwuOu76exbaVIJTIUN4HdWk1AfcKwlxHyA8GslrLNxIOOk89pQv-pL7Icr5XAPZ3W-jCiAw=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczOafCZ9baBsxA5Iz6p25S2hWPzVHTyUzbDie4797YWVavVVtqbbt1iq1XuPaLkRLIT_ynFlg7RlArdLhlxluNCJKJq7NqLWdQUGRmguj_CqedfQt-s=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczNQJ6J3UaEQfRzz8kN7fY4AnURcTUf2DJy-PWlERtAeBBO1fY_rMYNIawx-3y3bzVve3R5QuMGPr7jPBAQcIOWSyY0zeqO6JjkeKfHxhW61TfxQg-U=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczPTCGiXzbaKDGOcbIDanM_kwgK5WxVPvNZ2qiAIDYLzGDOJpDijl_IyesKzNdX-FDLodzupJK-8Roy88LKyNigIdhVpGatcTXm-xHK6-xcCm7wmh2w=w1920-h1080"></object>
-</div>
-</body>
-</html>
-
+</style>
