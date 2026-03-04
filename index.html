@@ -16,7 +16,76 @@
       --muted: #555;
       --line: #ddd;
       --shadow: 0 2px 10px rgba(0,0,0,.08);
-      --radius: 14px;
+      --radius: 14px<section class="grid-top">
+  <!-- LEFT: HEADLINES -->
+  <div class="card">
+    <h2>Top Headlines</h2>
+    <div class="news-grid" id="newsGrid"></div>
+    <div class="status" id="newsStatus">Loading headlines…</div>
+  </div>
+
+  <!-- RIGHT: PHOTOS + CALENDAR + NOTES + MORE PHOTOS -->
+  <div style="display:grid; gap:14px;">
+
+    <!-- Small rotating photo strip (PublicAlbum carousel) -->
+    <div class="card photo-frame">
+      <h2>Family Photos</h2>
+
+      <div class="pa-carousel-widget" style="width:100%; height:220px; display:none;"
+        data-link="https://photos.app.goo.gl/Jrg1whxbyx1g26EAA"
+        data-title="Kay Photos"
+        data-description="">
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczN4u8AzrmSwAnXM4kG0WYxIuU-fNCQJjgutq42cq9tk8ZEyiVNwJ2f0N1b_RIAcdFH6sZDHEqk8Bk5c3xzZL7Dd1rDB2-RjmocaOtaRsk8OqblK4K4=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczP7DsNBScPHD9wEtydNWcDrnqgyRViAJBVn18c_PHjdNysE-kmlQjLNfqtL6X9hQndtXUhJXJM-yUXtJEgr1ASca_B8WJjb_F2Nh3mT8PPi7JvW4PM=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczOfOULnmiKuRul8FyD19tbprZ-v-KNrXdJMIZ5rntaStscqrruDk1Iqazn9C8aOTxD2z624fFTGnv3Q96EapEAzIAEhANCrFC4Ut71EnPzxfT0GGzg=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczOekhT3Va6D-CJvSv9IskUu2SSSdOVGJZfVn2vRkn99PUTpXlgZD1SzJL6s41-o0hMrK-cRdysHUvQdJ39vgo9xYUw991h1g0KPo-2ITxsvyZ787-M=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczNL4O-3isNTPv2CtaKCiOYSWNeVPjTsACd_Ds1CF6YnDWsJJ3L8aV6OyOxsowzcf3Vwuo5YlJPCJBi9bxF7CVtHtxfb8MsDh1SHmI2GcGMJlcX42V0=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczOy0L-KunXP4bbvt5qvjPKp8p5v8YlIYzsB0lPuF30gu7Qeq9khGXZsfsTloSSxg27_TC_Eoy_lmL-EOhZvkqByKUlPC1HT-2BRpBdvPFbhXfbCg9I=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczNCmVLSAzUnCVqWYHoW18LMFqWcwHRA7U8NkOTGppGWDXVNN22fZAtr_reB5v_V8obDXNW8ssbL_r7lwjzBhb4ludGzFWiJOgja_41Jp5U4kK0_bkY=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczM-JYW5d-PmnbU670-lOsA75HHPZ5mwaQwT2jfKtAwMtwuOu76exbaVIJTIUN4HdWk1AfcKwlxHyA8GslrLNxIOOk89pQv-pL7Icr5XAPZ3W-jCiAw=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczOafCZ9baBsxA5Iz6p25S2hWPzVHTyUzbDie4797YWVavVVtqbbt1iq1XuPaLkRLIT_ynFlg7RlArdLhlxluNCJKJq7NqLWdQUGRmguj_CqedfQt-s=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczNQJ6J3UaEQfRzz8kN7fY4AnURcTUf2DJy-PWlERtAeBBO1fY_rMYNIawx-3y3bzVve3R5QuMGPr7jPBAQcIOWSyY0zeqO6JjkeKfHxhW61TfxQg-U=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczPTCGiXzbaKDGOcbIDanM_kwgK5WxVPvNZ2qiAIDYLzGDOJpDijl_IyesKzNdX-FDLodzupJK-8Roy88LKyNigIdhVpGatcTXm-xHK6-xcCm7wmh2w=w1920-h1080"></object>
+      </div>
+
+      <div class="status">A few favourites.</div>
+    </div>
+
+    <!-- Calendar -->
+    <div class="card">
+      <h2>Calendar</h2>
+      <iframe class="calendar" id="calendarFrame"
+        src="https://calendar.google.com/calendar/embed?src=en.canadian%23holiday%40group.v.calendar.google.com&ctz=America%2FSt_Johns&mode=MONTH"
+        loading="lazy">
+      </iframe>
+      <div class="status">
+        To show Kay’s own calendar: Google Calendar → Settings → her calendar → “Integrate calendar” → copy Embed URL → replace the src above.
+      </div>
+    </div>
+
+    <!-- Notes -->
+    <div class="card">
+      <h2>Phone Numbers / Notes</h2>
+      <div class="muted">Type numbers here. It saves automatically on this computer.</div>
+      <textarea class="notes" id="notesBox" placeholder="Example:
+Doctor: 555-555-5555
+Jane: 555-555-5555
+Pharmacy: 555-555-5555"></textarea>
+      <div class="status" id="notesStatus">Saved locally.</div>
+    </div>
+
+    <!-- Large album button -->
+    <div class="card">
+      <h2>More Photos</h2>
+      <div class="muted">Click to see the full album.</div>
+      <a class="bigbtn" target="_blank" rel="noopener noreferrer"
+         href="https://photos.app.goo.gl/JjsBHXuXaDUNkNSJ6">
+        📷 Kathleen Family Album
+      </a>
+    </div>
+
+  </div>
+</section>;
       --pad: 14px;
 
       /* senior-friendly sizing */
@@ -295,7 +364,18 @@
       text-align:center;
       padding: 8px 0 18px;
     }
-  </style>
+    
+    .photo-frame {
+  padding: 8px;
+}
+.photo-embed {
+  width: 100%;
+  height: 220px;          /* adjust 180–260 */
+  border: 0;
+  border-radius: 12px;
+  overflow: hidden;
+}  
+</style>
 </head>
 
 <body>
@@ -316,23 +396,6 @@
         </div>
       </div>
     </header>
-<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-carousel-widget" style="width:640px; height:480px; display:none;"
-  data-link="https://photos.app.goo.gl/Jrg1whxbyx1g26EAA"
-  data-title="Kay · Aug 9, 2012 – Sep 6, 2023 📸"
-  data-description="Shared album · Tap to view!">
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczN4u8AzrmSwAnXM4kG0WYxIuU-fNCQJjgutq42cq9tk8ZEyiVNwJ2f0N1b_RIAcdFH6sZDHEqk8Bk5c3xzZL7Dd1rDB2-RjmocaOtaRsk8OqblK4K4=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczP7DsNBScPHD9wEtydNWcDrnqgyRViAJBVn18c_PHjdNysE-kmlQjLNfqtL6X9hQndtXUhJXJM-yUXtJEgr1ASca_B8WJjb_F2Nh3mT8PPi7JvW4PM=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczOfOULnmiKuRul8FyD19tbprZ-v-KNrXdJMIZ5rntaStscqrruDk1Iqazn9C8aOTxD2z624fFTGnv3Q96EapEAzIAEhANCrFC4Ut71EnPzxfT0GGzg=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczOekhT3Va6D-CJvSv9IskUu2SSSdOVGJZfVn2vRkn99PUTpXlgZD1SzJL6s41-o0hMrK-cRdysHUvQdJ39vgo9xYUw991h1g0KPo-2ITxsvyZ787-M=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczNL4O-3isNTPv2CtaKCiOYSWNeVPjTsACd_Ds1CF6YnDWsJJ3L8aV6OyOxsowzcf3Vwuo5YlJPCJBi9bxF7CVtHtxfb8MsDh1SHmI2GcGMJlcX42V0=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczOy0L-KunXP4bbvt5qvjPKp8p5v8YlIYzsB0lPuF30gu7Qeq9khGXZsfsTloSSxg27_TC_Eoy_lmL-EOhZvkqByKUlPC1HT-2BRpBdvPFbhXfbCg9I=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczNCmVLSAzUnCVqWYHoW18LMFqWcwHRA7U8NkOTGppGWDXVNN22fZAtr_reB5v_V8obDXNW8ssbL_r7lwjzBhb4ludGzFWiJOgja_41Jp5U4kK0_bkY=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczM-JYW5d-PmnbU670-lOsA75HHPZ5mwaQwT2jfKtAwMtwuOu76exbaVIJTIUN4HdWk1AfcKwlxHyA8GslrLNxIOOk89pQv-pL7Icr5XAPZ3W-jCiAw=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczOafCZ9baBsxA5Iz6p25S2hWPzVHTyUzbDie4797YWVavVVtqbbt1iq1XuPaLkRLIT_ynFlg7RlArdLhlxluNCJKJq7NqLWdQUGRmguj_CqedfQt-s=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczNQJ6J3UaEQfRzz8kN7fY4AnURcTUf2DJy-PWlERtAeBBO1fY_rMYNIawx-3y3bzVve3R5QuMGPr7jPBAQcIOWSyY0zeqO6JjkeKfHxhW61TfxQg-U=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczPTCGiXzbaKDGOcbIDanM_kwgK5WxVPvNZ2qiAIDYLzGDOJpDijl_IyesKzNdX-FDLodzupJK-8Roy88LKyNigIdhVpGatcTXm-xHK6-xcCm7wmh2w=w1920-h1080"></object>
-</div>
 
     <!-- One row of big buttons -->
     <section class="topbar">
@@ -359,41 +422,76 @@
       </div>
     </section>
 
-    <section class="grid-top">
-      <!-- LEFT: HEADLINES -->
-      <div class="card">
-        <h2>Top Headlines</h2>
-        <div class="news-grid" id="newsGrid"></div>
-        <div class="status" id="newsStatus">Loading headlines…</div>
+<section class="grid-top">
+  <!-- LEFT: HEADLINES -->
+  <div class="card">
+    <h2>Top Headlines</h2>
+    <div class="news-grid" id="newsGrid"></div>
+    <div class="status" id="newsStatus">Loading headlines…</div>
+  </div>
+
+  <!-- RIGHT: PHOTOS + CALENDAR + NOTES + MORE PHOTOS -->
+  <div style="display:grid; gap:14px;">
+
+    <!-- Small rotating photo strip (PublicAlbum carousel) -->
+    <div class="card photo-frame">
+      <h2>Family Photos</h2>
+
+      <div class="pa-carousel-widget" style="width:100%; height:220px; display:none;"
+        data-link="https://photos.app.goo.gl/Jrg1whxbyx1g26EAA"
+        data-title="Kay Photos"
+        data-description="">
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczN4u8AzrmSwAnXM4kG0WYxIuU-fNCQJjgutq42cq9tk8ZEyiVNwJ2f0N1b_RIAcdFH6sZDHEqk8Bk5c3xzZL7Dd1rDB2-RjmocaOtaRsk8OqblK4K4=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczP7DsNBScPHD9wEtydNWcDrnqgyRViAJBVn18c_PHjdNysE-kmlQjLNfqtL6X9hQndtXUhJXJM-yUXtJEgr1ASca_B8WJjb_F2Nh3mT8PPi7JvW4PM=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczOfOULnmiKuRul8FyD19tbprZ-v-KNrXdJMIZ5rntaStscqrruDk1Iqazn9C8aOTxD2z624fFTGnv3Q96EapEAzIAEhANCrFC4Ut71EnPzxfT0GGzg=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczOekhT3Va6D-CJvSv9IskUu2SSSdOVGJZfVn2vRkn99PUTpXlgZD1SzJL6s41-o0hMrK-cRdysHUvQdJ39vgo9xYUw991h1g0KPo-2ITxsvyZ787-M=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczNL4O-3isNTPv2CtaKCiOYSWNeVPjTsACd_Ds1CF6YnDWsJJ3L8aV6OyOxsowzcf3Vwuo5YlJPCJBi9bxF7CVtHtxfb8MsDh1SHmI2GcGMJlcX42V0=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczOy0L-KunXP4bbvt5qvjPKp8p5v8YlIYzsB0lPuF30gu7Qeq9khGXZsfsTloSSxg27_TC_Eoy_lmL-EOhZvkqByKUlPC1HT-2BRpBdvPFbhXfbCg9I=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczNCmVLSAzUnCVqWYHoW18LMFqWcwHRA7U8NkOTGppGWDXVNN22fZAtr_reB5v_V8obDXNW8ssbL_r7lwjzBhb4ludGzFWiJOgja_41Jp5U4kK0_bkY=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczM-JYW5d-PmnbU670-lOsA75HHPZ5mwaQwT2jfKtAwMtwuOu76exbaVIJTIUN4HdWk1AfcKwlxHyA8GslrLNxIOOk89pQv-pL7Icr5XAPZ3W-jCiAw=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczOafCZ9baBsxA5Iz6p25S2hWPzVHTyUzbDie4797YWVavVVtqbbt1iq1XuPaLkRLIT_ynFlg7RlArdLhlxluNCJKJq7NqLWdQUGRmguj_CqedfQt-s=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczNQJ6J3UaEQfRzz8kN7fY4AnURcTUf2DJy-PWlERtAeBBO1fY_rMYNIawx-3y3bzVve3R5QuMGPr7jPBAQcIOWSyY0zeqO6JjkeKfHxhW61TfxQg-U=w1920-h1080"></object>
+        <object data="https://lh3.googleusercontent.com/pw/AP1GczPTCGiXzbaKDGOcbIDanM_kwgK5WxVPvNZ2qiAIDYLzGDOJpDijl_IyesKzNdX-FDLodzupJK-8Roy88LKyNigIdhVpGatcTXm-xHK6-xcCm7wmh2w=w1920-h1080"></object>
       </div>
 
-      <!-- RIGHT: CALENDAR + NOTES -->
-      <div style="display:grid; gap:14px;">
-        <div class="card">
-          <h2>Calendar</h2>
+      <div class="status">A few favourites.</div>
+    </div>
 
-          <!-- Replace src= with Kay's actual calendar embed URL when ready -->
-          <iframe class="calendar" id="calendarFrame"
-            src="https://calendar.google.com/calendar/embed?src=en.canadian%23holiday%40group.v.calendar.google.com&ctz=America%2FSt_Johns&mode=MONTH"
-            loading="lazy">
-          </iframe>
+    <!-- Calendar -->
+    <div class="card">
+      <h2>Calendar</h2>
+      <iframe class="calendar" id="calendarFrame"
+        src="https://calendar.google.com/calendar/embed?src=en.canadian%23holiday%40group.v.calendar.google.com&ctz=America%2FSt_Johns&mode=MONTH"
+        loading="lazy">
+      </iframe>
+      <div class="status">
+        To show Kay’s own calendar: Google Calendar → Settings → her calendar → “Integrate calendar” → copy Embed URL → replace the src above.
+      </div>
+    </div>
 
-          <div class="status">
-            To show Kay’s own calendar: Google Calendar → Settings → her calendar → “Integrate calendar” → copy Embed URL → replace the src above.
-          </div>
-        </div>
-
-        <div class="card">
-          <h2>Phone Numbers / Notes</h2>
-          <div class="muted">Type numbers here. It saves automatically on this computer.</div>
-          <textarea class="notes" id="notesBox" placeholder="Example:
+    <!-- Notes -->
+    <div class="card">
+      <h2>Phone Numbers / Notes</h2>
+      <div class="muted">Type numbers here. It saves automatically on this computer.</div>
+      <textarea class="notes" id="notesBox" placeholder="Example:
 Doctor: 555-555-5555
 Jane: 555-555-5555
 Pharmacy: 555-555-5555"></textarea>
-          <div class="status" id="notesStatus">Saved locally.</div>
-        </div>
-      </div>
-    </section>
+      <div class="status" id="notesStatus">Saved locally.</div>
+    </div>
+
+    <!-- Large album button -->
+    <div class="card">
+      <h2>More Photos</h2>
+      <div class="muted">Click to see the full album.</div>
+      <a class="bigbtn" target="_blank" rel="noopener noreferrer"
+         href="https://photos.app.goo.gl/JjsBHXuXaDUNkNSJ6">
+        📷 Kathleen Family Album
+      </a>
+    </div>
+
+  </div>
+</section>
 
     <div class="footerhint">
       Big buttons • Weather • Headlines • Calendar • Notes
@@ -673,5 +771,23 @@ initControls();
 loadWeather();
 loadHeadlinesWithRetries();
 </script>
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-carousel-widget" style="width:640px; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/Jrg1whxbyx1g26EAA"
+  data-title="Kay · Aug 9, 2012 – Sep 6, 2023 📸"
+  data-description="Shared album · Tap to view!">
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczN4u8AzrmSwAnXM4kG0WYxIuU-fNCQJjgutq42cq9tk8ZEyiVNwJ2f0N1b_RIAcdFH6sZDHEqk8Bk5c3xzZL7Dd1rDB2-RjmocaOtaRsk8OqblK4K4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczP7DsNBScPHD9wEtydNWcDrnqgyRViAJBVn18c_PHjdNysE-kmlQjLNfqtL6X9hQndtXUhJXJM-yUXtJEgr1ASca_B8WJjb_F2Nh3mT8PPi7JvW4PM=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOfOULnmiKuRul8FyD19tbprZ-v-KNrXdJMIZ5rntaStscqrruDk1Iqazn9C8aOTxD2z624fFTGnv3Q96EapEAzIAEhANCrFC4Ut71EnPzxfT0GGzg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOekhT3Va6D-CJvSv9IskUu2SSSdOVGJZfVn2vRkn99PUTpXlgZD1SzJL6s41-o0hMrK-cRdysHUvQdJ39vgo9xYUw991h1g0KPo-2ITxsvyZ787-M=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczNL4O-3isNTPv2CtaKCiOYSWNeVPjTsACd_Ds1CF6YnDWsJJ3L8aV6OyOxsowzcf3Vwuo5YlJPCJBi9bxF7CVtHtxfb8MsDh1SHmI2GcGMJlcX42V0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOy0L-KunXP4bbvt5qvjPKp8p5v8YlIYzsB0lPuF30gu7Qeq9khGXZsfsTloSSxg27_TC_Eoy_lmL-EOhZvkqByKUlPC1HT-2BRpBdvPFbhXfbCg9I=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczNCmVLSAzUnCVqWYHoW18LMFqWcwHRA7U8NkOTGppGWDXVNN22fZAtr_reB5v_V8obDXNW8ssbL_r7lwjzBhb4ludGzFWiJOgja_41Jp5U4kK0_bkY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczM-JYW5d-PmnbU670-lOsA75HHPZ5mwaQwT2jfKtAwMtwuOu76exbaVIJTIUN4HdWk1AfcKwlxHyA8GslrLNxIOOk89pQv-pL7Icr5XAPZ3W-jCiAw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOafCZ9baBsxA5Iz6p25S2hWPzVHTyUzbDie4797YWVavVVtqbbt1iq1XuPaLkRLIT_ynFlg7RlArdLhlxluNCJKJq7NqLWdQUGRmguj_CqedfQt-s=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczNQJ6J3UaEQfRzz8kN7fY4AnURcTUf2DJy-PWlERtAeBBO1fY_rMYNIawx-3y3bzVve3R5QuMGPr7jPBAQcIOWSyY0zeqO6JjkeKfHxhW61TfxQg-U=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPTCGiXzbaKDGOcbIDanM_kwgK5WxVPvNZ2qiAIDYLzGDOJpDijl_IyesKzNdX-FDLodzupJK-8Roy88LKyNigIdhVpGatcTXm-xHK6-xcCm7wmh2w=w1920-h1080"></object>
+</div>
 </body>
 </html>
+
