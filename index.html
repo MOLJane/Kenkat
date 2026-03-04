@@ -1,9 +1,11 @@
+
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Kay’s Page</title>
+
   <style>
     :root{
       --bg: #f6f6f4;
@@ -44,7 +46,7 @@
       overflow: hidden;
       background: #000;
       box-shadow: var(--shadow);
-      min-height: 170px;
+      min-height: 175px;
     }
 
     header.hero::before{
@@ -52,7 +54,7 @@
       position:absolute;
       inset:0;
       background:
-        linear-gradient(to bottom, rgba(0,0,0,.40), rgba(0,0,0,.55)),
+        linear-gradient(to bottom, rgba(0,0,0,.40), rgba(0,0,0,.58)),
         url("beach2.jpeg") center/cover no-repeat;
       filter: saturate(1.05);
       transform: scale(1.02);
@@ -65,7 +67,7 @@
       align-items:flex-end;
       justify-content: space-between;
       gap: 12px;
-      min-height: 170px;
+      min-height: 175px;
     }
 
     .titleblock{
@@ -89,6 +91,13 @@
       text-shadow: 0 2px 12px rgba(0,0,0,.35);
     }
 
+    .weatherline{
+      margin: 2px 0 0 0;
+      font-size: 18px;
+      color: rgba(255,255,255,.95);
+      text-shadow: 0 2px 12px rgba(0,0,0,.35);
+    }
+
     .controls{
       display:flex;
       gap: 8px;
@@ -107,8 +116,55 @@
       backdrop-filter: blur(6px);
       cursor: pointer;
       user-select: none;
+      text-decoration: none;
+      display:inline-block;
+      text-align:center;
     }
     .pill:active { transform: translateY(1px); }
+
+    /* Top controls: 2 rows (buttons + calls) */
+    .topbar{
+      display: grid;
+      gap: 10px;
+    }
+
+    /* 7 across on wide screens (buttons row), 5 across on calls row */
+    .rowbar7{
+      display: grid;
+      grid-template-columns: repeat(7, minmax(0, 1fr));
+      gap: 10px;
+    }
+    .rowbar5{
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    @media (max-width: 1100px){
+      .rowbar7{ grid-template-columns: repeat(4, minmax(0,1fr)); }
+      .rowbar5{ grid-template-columns: repeat(3, minmax(0,1fr)); }
+    }
+    @media (max-width: 700px){
+      .rowbar7{ grid-template-columns: repeat(2, minmax(0,1fr)); }
+      .rowbar5{ grid-template-columns: repeat(2, minmax(0,1fr)); }
+    }
+
+    .bigbtn{
+      display: block;
+      text-align: center;
+      background: #ffffff;
+      border: 1px solid #ddd;
+      padding: 14px 10px;
+      border-radius: 12px;
+      font-size: 20px;
+      text-decoration: none;
+      color: #111;
+      box-shadow: 0 2px 6px rgba(0,0,0,.08);
+      user-select: none;
+      line-height: 1.15;
+    }
+    .bigbtn:hover{ background:#f3f3f3; }
+    .bigbtn:active{ transform: translateY(1px); }
 
     .grid-top{
       display:grid;
@@ -116,7 +172,6 @@
       grid-template-columns: 1.2fr .8fr;
       align-items: start;
     }
-
     @media (max-width: 980px){
       .grid-top { grid-template-columns: 1fr; }
     }
@@ -144,13 +199,11 @@
     .news-grid{
       display:grid;
       gap: 12px;
-      grid-template-columns: repeat(3, minmax(0, 1fr)); /* default 3 across */
+      grid-template-columns: repeat(3, minmax(0, 1fr));
     }
-
     .two-across .news-grid{
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
-
     @media (max-width: 980px){
       .news-grid{ grid-template-columns: repeat(2, minmax(0,1fr)); }
     }
@@ -165,12 +218,12 @@
       background: #fff;
       display:flex;
       flex-direction: column;
-      min-height: 190px;
+      min-height: 200px;
     }
 
     .news-thumb{
       width: 100%;
-      height: 120px;
+      height: 130px;
       background: #e9e9e9;
       display:flex;
       align-items:center;
@@ -196,7 +249,6 @@
       line-height: 1.2;
       margin:0;
     }
-
     .news-title a{
       color: var(--ink);
       text-decoration: none;
@@ -249,18 +301,6 @@
       background: #fafafa;
     }
 
-    .btn{
-      display:inline-block;
-      margin-top: 10px;
-      padding: 10px 12px;
-      border-radius: 10px;
-      border: 1px solid #ccc;
-      background:#fff;
-      color:#111;
-      text-decoration:none;
-      font-size: 16px;
-    }
-
     .footerhint{
       font-size: 14px;
       color: #666;
@@ -277,14 +317,51 @@
         <div class="titleblock">
           <h1 class="site-title">Kay’s Page</h1>
           <p class="today" id="todayText">Loading date…</p>
+          <p class="weatherline" id="weatherLine">Loading weather…</p>
         </div>
 
         <div class="controls">
+          <a class="pill" href="./" title="Return to Kay’s Page">Home</a>
           <div class="pill" id="toggleColumnsBtn" title="Switch grid columns">Toggle 2/3 columns</div>
           <div class="pill" id="refreshBtn" title="Refresh the headlines">Refresh headlines</div>
         </div>
       </div>
     </header>
+
+    <!-- TWO ROWS under header -->
+    <section class="topbar">
+      <!-- Row 1: Buttons -->
+      <div class="rowbar7">
+        <a class="bigbtn" href="./">🏠 Home</a>
+
+        <!-- Bell TV CBC News channel -->
+        <a class="bigbtn" href="https://tv.bell.ca/card/channel/CBCNH">📺 CBC (Bell)</a>
+
+        <!-- CBC web player/news -->
+        <a class="bigbtn" href="https://www.cbc.ca/player/news">🟥 CBC Web</a>
+
+        <!-- Messenger -->
+        <a class="bigbtn" href="https://www.messenger.com/">💬 Messenger</a>
+
+        <!-- Classical music (YouTube search – simplest) -->
+        <a class="bigbtn" href="https://www.youtube.com/results?search_query=classical+music+live">🎵 Classical</a>
+
+        <!-- Old movies (Internet Archive) -->
+        <a class="bigbtn" href="https://archive.org/details/moviesandfilms">🎬 Old Movies</a>
+
+        <!-- Weather Network button (opens in same tab) -->
+        <a class="bigbtn" href="https://www.theweathernetwork.com/ca/weather/newfoundland-and-labrador/st-johns">🌦️ Weather</a>
+      </div>
+
+      <!-- Row 2: Jami calls (single click attempt) -->
+      <div class="rowbar5">
+        <a class="bigbtn" href="jami://call/estellevoy">📞 Estelle</a>
+        <a class="bigbtn" href="jami://call/cofexeter">📞 Clare</a>
+        <a class="bigbtn" href="jami://call/annmarieb">📞 Annmarie</a>
+        <a class="bigbtn" href="jami://call/melizab">📞 Elizabeth</a>
+        <a class="bigbtn" href="jami://call/Jane_phony">📞 Jane</a>
+      </div>
+    </section>
 
     <section class="grid-top">
       <!-- LEFT: HEADLINES -->
@@ -298,13 +375,16 @@
       <div style="display:grid; gap:14px;">
         <div class="card">
           <h2>Calendar</h2>
+
           <!-- Replace src= with Kay's actual calendar embed URL when ready -->
           <iframe class="calendar" id="calendarFrame"
-            src="https://calendar.google.com/calendar/embed?src=kenkatbarry%40gmail.com&ctz=America%2FSt_Johns&mode=MONTH"
+            src="https://calendar.google.com/calendar/embed?src=en.canadian%23holiday%40group.v.calendar.google.com&ctz=America%2FSt_Johns&mode=MONTH"
             loading="lazy">
           </iframe>
 
-          <div class="status">Once you copy Kay’s Google Calendar embed link, we’ll paste it here.</div>
+          <div class="status">
+            To show Kay’s own calendar: in Google Calendar → Settings → her calendar → “Integrate calendar” → copy Embed URL → replace the src above.
+          </div>
         </div>
 
         <div class="card">
@@ -318,36 +398,119 @@ Pharmacy: 555-555-5555"></textarea>
         </div>
 
         <div class="card">
-          <h2>CBC News TV</h2>
+          <h2>TV</h2>
           <div class="tv-box">
             <div class="muted">
-              Placeholder for streaming TV. Many live TV pages block embedding inside another page.
-              If embedding isn’t allowed, the best reliable option is a big “Watch” button that opens the stream.
+              Many TV sites block “embedded video” inside another page even when logged in.
+              The reliable senior-friendly method is a single big button (above).
             </div>
-
-            <!-- Placeholder button (works now). We can replace later if we find an embeddable stream URL. -->
-            <a class="btn" target="_blank" rel="noopener noreferrer"
-               href="https://www.cbc.ca/player/news">
-              Watch CBC News (opens in browser)
-            </a>
-
-            <div class="status">Later: if you have a specific CBC live URL (Gem/Bell/etc.), send it and we’ll test embed feasibility.</div>
+            <div class="status">If Bell ever provides an embeddable player URL, we can try it here.</div>
           </div>
         </div>
       </div>
     </section>
 
     <div class="footerhint">
-      Built for easy reading • Large text • Click a headline to open it
+      Senior-friendly • Big buttons • News opens in this same tab (use Home to return)
     </div>
   </div>
 
 <script>
-/**
- * Feeds (mix of Canada, Newfoundland & Labrador, World).
- * NOTE: Some browsers block network calls from file:/// pages. If headlines don't load:
- * run a local web server (instructions below).
- */
+/* =======================
+   DATE + WEATHER
+   ======================= */
+
+function formatDate(d){
+  try{
+    return new Intl.DateTimeFormat(undefined, { weekday:"long", year:"numeric", month:"long", day:"numeric" }).format(d);
+  }catch(e){
+    return d.toDateString();
+  }
+}
+
+function initDate(){
+  document.getElementById("todayText").textContent = formatDate(new Date());
+  setInterval(() => {
+    document.getElementById("todayText").textContent = formatDate(new Date());
+  }, 60 * 1000);
+}
+
+// St. John's, NL coordinates
+const STJ_LAT = 47.5615;
+const STJ_LON = -52.7126;
+
+// Open-Meteo (no key)
+async function loadWeather(){
+  const el = document.getElementById("weatherLine");
+  try{
+    const url =
+      "https://api.open-meteo.com/v1/forecast"
+      + "?latitude=" + encodeURIComponent(STJ_LAT)
+      + "&longitude=" + encodeURIComponent(STJ_LON)
+      + "&current=temperature_2m,weather_code,wind_speed_10m"
+      + "&temperature_unit=celsius"
+      + "&wind_speed_unit=kmh"
+      + "&timezone=America%2FSt_Johns";
+
+    const res = await fetch(url);
+    if(!res.ok) throw new Error("Weather HTTP " + res.status);
+    const data = await res.json();
+
+    const t = data?.current?.temperature_2m;
+    const w = data?.current?.weather_code;
+    const wind = data?.current?.wind_speed_10m;
+
+    const desc = weatherCodeToText(w);
+    el.textContent = `St. John’s: ${Math.round(t)}°C • ${desc}${(wind!=null ? " • Wind " + Math.round(wind) + " km/h" : "")}`;
+  } catch(e){
+    el.textContent = "St. John’s: Weather unavailable (try refresh).";
+  }
+}
+
+function weatherCodeToText(code){
+  // Open-Meteo weather code mapping (simplified)
+  const m = {
+    0:"Clear",
+    1:"Mainly clear", 2:"Partly cloudy", 3:"Cloudy",
+    45:"Fog", 48:"Rime fog",
+    51:"Light drizzle", 53:"Drizzle", 55:"Heavy drizzle",
+    56:"Freezing drizzle", 57:"Heavy freezing drizzle",
+    61:"Light rain", 63:"Rain", 65:"Heavy rain",
+    66:"Freezing rain", 67:"Heavy freezing rain",
+    71:"Light snow", 73:"Snow", 75:"Heavy snow",
+    77:"Snow grains",
+    80:"Light showers", 81:"Showers", 82:"Heavy showers",
+    85:"Snow showers", 86:"Heavy snow showers",
+    95:"Thunderstorm",
+    96:"Thunderstorm w/ hail", 99:"Thunderstorm w/ hail"
+  };
+  return (code in m) ? m[code] : "Weather";
+}
+
+/* =======================
+   NOTES (local save)
+   ======================= */
+function initNotes(){
+  const notes = document.getElementById("notesBox");
+  const status = document.getElementById("notesStatus");
+  const KEY = "kays_page_notes_v3";
+
+  notes.value = localStorage.getItem(KEY) || "";
+
+  let t = null;
+  notes.addEventListener("input", () => {
+    status.textContent = "Saving…";
+    clearTimeout(t);
+    t = setTimeout(() => {
+      localStorage.setItem(KEY, notes.value);
+      status.textContent = "Saved locally.";
+    }, 250);
+  });
+}
+
+/* =======================
+   NEWS FEEDS
+   ======================= */
 const FEEDS = {
   canada: [
     { name: "CBC Top Stories", url: "http://rss.cbc.ca/lineup/topstories.xml" }
@@ -362,12 +525,13 @@ const FEEDS = {
   ]
 };
 
-// More headlines (12 total)
-const MIX = { canada: 4, nl: 4, world: 4 };
+// More headlines: 18 total (6/6/6). Adjust if you want fewer.
+const MIX = { canada: 6, nl: 6, world: 6 };
 
 // Longer snippets
-const SNIPPET_LEN = 220;
+const SNIPPET_LEN = 260;
 
+// rss2json endpoint (no key)
 function rss2jsonUrl(rssUrl){
   return "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(rssUrl);
 }
@@ -375,14 +539,6 @@ function rss2jsonUrl(rssUrl){
 function stripHtml(s){
   if(!s) return "";
   return s.replace(/<[^>]*>/g, " ").replace(/\s+/g," ").trim();
-}
-
-function formatDate(d){
-  try{
-    return new Intl.DateTimeFormat(undefined, { weekday:"long", year:"numeric", month:"long", day:"numeric" }).format(d);
-  }catch(e){
-    return d.toDateString();
-  }
 }
 
 function chooseImage(item){
@@ -431,8 +587,10 @@ function newsCard(item){
 
   const h = document.createElement("p");
   h.className = "news-title";
+
   const a = document.createElement("a");
   a.href = item.link;
+  // open IN SAME TAB (as requested)
   a.textContent = item.title || "(no title)";
   h.appendChild(a);
 
@@ -484,33 +642,8 @@ async function loadHeadlines(){
 
     status.textContent = chosen.length ? "Headlines updated." : "No headlines returned (try Refresh).";
   } catch (err){
-    status.textContent = "Couldn’t load headlines. If you opened this as a file (file:///), run a local web server. (" + err.message + ")";
+    status.textContent = "Couldn’t load headlines. (" + err.message + ")";
   }
-}
-
-function initDate(){
-  document.getElementById("todayText").textContent = formatDate(new Date());
-  setInterval(() => {
-    document.getElementById("todayText").textContent = formatDate(new Date());
-  }, 60 * 1000);
-}
-
-function initNotes(){
-  const notes = document.getElementById("notesBox");
-  const status = document.getElementById("notesStatus");
-  const KEY = "kays_page_notes_v2";
-
-  notes.value = localStorage.getItem(KEY) || "";
-
-  let t = null;
-  notes.addEventListener("input", () => {
-    status.textContent = "Saving…";
-    clearTimeout(t);
-    t = setTimeout(() => {
-      localStorage.setItem(KEY, notes.value);
-      status.textContent = "Saved locally.";
-    }, 250);
-  });
 }
 
 function initControls(){
@@ -520,12 +653,14 @@ function initControls(){
   });
   document.getElementById("refreshBtn").addEventListener("click", () => {
     loadHeadlines();
+    loadWeather();
   });
 }
 
 initDate();
 initNotes();
 initControls();
+loadWeather();
 loadHeadlines();
 </script>
 </body>
