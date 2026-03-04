@@ -603,7 +603,8 @@ Elizabeth:"></textarea>
       h.className = "news-title";
 
       const a = document.createElement("a");
-      a.href = item.link;   // same tab
+      a.href = item.link; 
+      a.target = "_blank";   
       a.textContent = item.title || "(no title)";
       h.appendChild(a);
 
