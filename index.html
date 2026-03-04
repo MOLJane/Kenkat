@@ -1,10 +1,12 @@
-
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Kay’s Page</title>
+
+  <!-- Auto-refresh the whole page every 15 minutes -->
+  <meta http-equiv="refresh" content="900">
 
   <style>
     :root{
@@ -122,31 +124,23 @@
     }
     .pill:active { transform: translateY(1px); }
 
-    /* Top controls: 2 rows (buttons + calls) */
+    /* Top buttons row */
     .topbar{
       display: grid;
       gap: 10px;
     }
 
-    /* 7 across on wide screens (buttons row), 5 across on calls row */
-    .rowbar7{
+    .rowbar{
       display: grid;
       grid-template-columns: repeat(7, minmax(0, 1fr));
       gap: 10px;
     }
-    .rowbar5{
-      display: grid;
-      grid-template-columns: repeat(5, minmax(0, 1fr));
-      gap: 10px;
-    }
 
     @media (max-width: 1100px){
-      .rowbar7{ grid-template-columns: repeat(4, minmax(0,1fr)); }
-      .rowbar5{ grid-template-columns: repeat(3, minmax(0,1fr)); }
+      .rowbar{ grid-template-columns: repeat(4, minmax(0,1fr)); }
     }
     @media (max-width: 700px){
-      .rowbar7{ grid-template-columns: repeat(2, minmax(0,1fr)); }
-      .rowbar5{ grid-template-columns: repeat(2, minmax(0,1fr)); }
+      .rowbar{ grid-template-columns: repeat(2, minmax(0,1fr)); }
     }
 
     .bigbtn{
@@ -195,11 +189,11 @@
       line-height: 1.35;
     }
 
-    /* News grid */
+    /* News grid default: 3 columns, but we will DEFAULT to 2 via .two-across on pageRoot */
     .news-grid{
       display:grid;
       gap: 12px;
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-template-columns: repeat(3, minmax(0, 1fr));
     }
     .two-across .news-grid{
       grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -278,7 +272,7 @@
 
     textarea.notes{
       width:100%;
-      min-height: 160px;
+      min-height: 180px;
       border-radius: 12px;
       border: 1px solid var(--line);
       padding: 12px;
@@ -292,13 +286,7 @@
       font-size: 15px;
       color: #666;
       margin-top: 8px;
-    }
-
-    .tv-box{
-      border: 1px dashed #bbb;
-      border-radius: 12px;
-      padding: 12px;
-      background: #fafafa;
+      min-height: 20px;
     }
 
     .footerhint{
@@ -311,7 +299,8 @@
 </head>
 
 <body>
-  <div class="wrap" id="pageRoot">
+  <!-- default to 2 columns -->
+  <div class="wrap two-across" id="pageRoot">
     <header class="hero">
       <div class="hero-content">
         <div class="titleblock">
@@ -322,37 +311,35 @@
 
         <div class="controls">
           <a class="pill" href="./" title="Return to Kay’s Page">Home</a>
-          <div class="pill" id="toggleColumnsBtn" title="Switch grid columns">Toggle 2/3 columns</div>
-          <div class="pill" id="refreshBtn" title="Refresh the headlines">Refresh headlines</div>
+          <div class="pill" id="toggleColumnsBtn" title="Switch headline columns">Toggle 2/3 columns</div>
+          <div class="pill" id="refreshBtn" title="Refresh">Refresh</div>
         </div>
       </div>
     </header>
 
-    <!-- TWO ROWS under header -->
+    <!-- One row of big buttons -->
     <section class="topbar">
-      <!-- Row 1: Buttons -->
-      <div class="rowbar7">
+      <div class="rowbar">
         <a class="bigbtn" href="./">🏠 Home</a>
 
-        <!-- Bell TV CBC News channel -->
-        <a class="bigbtn" href="https://tv.bell.ca/card/channel/CBCNH">📺 CBC (Bell)</a>
+        <!-- Bell TV CBC channel -->
+        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://tv.bell.ca/card/channel/CBCNH">📺 CBC (Bell)</a>
 
-        <!-- CBC web player/news -->
-        <a class="bigbtn" href="https://www.cbc.ca/player/news">🟥 CBC Web</a>
+        <!-- VOCM local news -->
+        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://vocm.com/">📰 VOCM News</a>
+
+        <!-- CBC web news/player -->
+        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://www.cbc.ca/news">🟥 CBC News</a>
 
         <!-- Messenger -->
-        <a class="bigbtn" href="https://www.messenger.com/">💬 Messenger</a>
+        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://www.messenger.com/">💬 Messenger</a>
 
-        <!-- Classical music (YouTube search – simplest) -->
-        <a class="bigbtn" href="https://www.youtube.com/results?search_query=classical+music+live">🎵 Classical</a>
+        <!-- Classical (simple) -->
+        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/results?search_query=classical+music+live">🎵 Classical</a>
 
-        <!-- Old movies (Internet Archive) -->
-        <a class="bigbtn" href="https://archive.org/details/moviesandfilms">🎬 Old Movies</a>
-
-        <!-- Weather Network button (opens in same tab) -->
-        <a class="bigbtn" href="https://www.theweathernetwork.com/ca/weather/newfoundland-and-labrador/st-johns">🌦️ Weather</a>
+        <!-- Weather Network (button) -->
+        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://www.theweathernetwork.com/ca/weather/newfoundland-and-labrador/st-johns">🌦️ Weather</a>
       </div>
-
     </section>
 
     <section class="grid-top">
@@ -363,7 +350,7 @@
         <div class="status" id="newsStatus">Loading headlines…</div>
       </div>
 
-      <!-- RIGHT: CALENDAR, NOTES, TV PLACEHOLDER -->
+      <!-- RIGHT: CALENDAR + NOTES -->
       <div style="display:grid; gap:14px;">
         <div class="card">
           <h2>Calendar</h2>
@@ -375,33 +362,41 @@
           </iframe>
 
           <div class="status">
-            To show Kay’s own calendar: in Google Calendar → Settings → her calendar → “Integrate calendar” → copy Embed URL → replace the src above.
+            To show Kay’s own calendar: Google Calendar → Settings → her calendar → “Integrate calendar” → copy Embed URL → replace the src above.
           </div>
         </div>
 
         <div class="card">
           <h2>Phone Numbers / Notes</h2>
           <div class="muted">Type numbers here. It saves automatically on this computer.</div>
-          <textarea class="notes" id="notesBox" rows=8 placeholder="Example:
+          <textarea class="notes" id="notesBox" placeholder="Example:
 Doctor: 555-555-5555
 Jane: 555-555-5555
 Pharmacy: 555-555-5555"></textarea>
           <div class="status" id="notesStatus">Saved locally.</div>
         </div>
-
       </div>
     </section>
 
     <div class="footerhint">
-      Senior-friendly • Big buttons • News opens in this same tab (use Home to return)
+      Big buttons • Weather • Headlines • Calendar • Notes
     </div>
   </div>
 
 <script>
 /* =======================
+   PAGE SELF-HEALING
+   ======================= */
+/* Cache-busting reload every 15 minutes (matches meta refresh) */
+setTimeout(() => {
+  const url = new URL(window.location.href);
+  url.searchParams.set("v", Date.now().toString());
+  window.location.replace(url.toString());
+}, 15 * 60 * 1000);
+
+/* =======================
    DATE + WEATHER
    ======================= */
-
 function formatDate(d){
   try{
     return new Intl.DateTimeFormat(undefined, { weekday:"long", year:"numeric", month:"long", day:"numeric" }).format(d);
@@ -445,26 +440,25 @@ async function loadWeather(){
     const desc = weatherCodeToText(w);
     el.textContent = `St. John’s: ${Math.round(t)}°C • ${desc}${(wind!=null ? " • Wind " + Math.round(wind) + " km/h" : "")}`;
   } catch(e){
-    el.textContent = "St. John’s: Weather unavailable (try refresh).";
+    el.textContent = "St. John’s: Weather";
   }
 }
 
 function weatherCodeToText(code){
-  // Open-Meteo weather code mapping (simplified)
   const m = {
     0:"Clear",
     1:"Mainly clear", 2:"Partly cloudy", 3:"Cloudy",
-    45:"Fog", 48:"Rime fog",
-    51:"Light drizzle", 53:"Drizzle", 55:"Heavy drizzle",
-    56:"Freezing drizzle", 57:"Heavy freezing drizzle",
-    61:"Light rain", 63:"Rain", 65:"Heavy rain",
-    66:"Freezing rain", 67:"Heavy freezing rain",
-    71:"Light snow", 73:"Snow", 75:"Heavy snow",
-    77:"Snow grains",
-    80:"Light showers", 81:"Showers", 82:"Heavy showers",
+    45:"Fog", 48:"Fog",
+    51:"Drizzle", 53:"Drizzle", 55:"Drizzle",
+    56:"Freezing drizzle", 57:"Freezing drizzle",
+    61:"Rain", 63:"Rain", 65:"Heavy rain",
+    66:"Freezing rain", 67:"Freezing rain",
+    71:"Snow", 73:"Snow", 75:"Heavy snow",
+    77:"Snow",
+    80:"Showers", 81:"Showers", 82:"Heavy showers",
     85:"Snow showers", 86:"Heavy snow showers",
     95:"Thunderstorm",
-    96:"Thunderstorm w/ hail", 99:"Thunderstorm w/ hail"
+    96:"Thunderstorm", 99:"Thunderstorm"
   };
   return (code in m) ? m[code] : "Weather";
 }
@@ -475,7 +469,7 @@ function weatherCodeToText(code){
 function initNotes(){
   const notes = document.getElementById("notesBox");
   const status = document.getElementById("notesStatus");
-  const KEY = "kays_page_notes_v3";
+  const KEY = "kays_page_notes_v4";
 
   notes.value = localStorage.getItem(KEY) || "";
 
@@ -485,7 +479,7 @@ function initNotes(){
     clearTimeout(t);
     t = setTimeout(() => {
       localStorage.setItem(KEY, notes.value);
-      status.textContent = "Saved locally.";
+      status.textContent = "Saved.";
     }, 250);
   });
 }
@@ -507,13 +501,11 @@ const FEEDS = {
   ]
 };
 
-// More headlines: 18 total (6/6/6). Adjust if you want fewer.
+// Choose how many headlines you want (total = sum)
 const MIX = { canada: 6, nl: 6, world: 6 };
+const SNIPPET_LEN = 240;
 
-// Longer snippets
-const SNIPPET_LEN = 260;
-
-// rss2json endpoint (no key)
+// rss2json endpoint (no key) — can be blocked by some extensions
 function rss2jsonUrl(rssUrl){
   return "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(rssUrl);
 }
@@ -530,7 +522,9 @@ function chooseImage(item){
 }
 
 async function fetchFeed(feed){
-  const res = await fetch(rss2jsonUrl(feed.url));
+  // cache buster per request
+  const url = rss2jsonUrl(feed.url) + "&_=" + Date.now();
+  const res = await fetch(url, { cache: "no-store" });
   if(!res.ok) throw new Error(`HTTP ${res.status}`);
   const data = await res.json();
   if(data.status !== "ok") throw new Error(data.message || "Feed error");
@@ -571,8 +565,7 @@ function newsCard(item){
   h.className = "news-title";
 
   const a = document.createElement("a");
-  a.href = item.link;
-  // open IN SAME TAB (as requested)
+  a.href = item.link;             // opens in same tab
   a.textContent = item.title || "(no title)";
   h.appendChild(a);
 
@@ -594,48 +587,66 @@ function newsCard(item){
   return el;
 }
 
-async function loadHeadlines(){
+/* Retry strategy:
+   - If blocked by extension: it may never work in normal mode
+   - But we keep it calm and retry a few times, then leave "Loading headlines…" */
+async function loadHeadlinesWithRetries(){
   const grid = document.getElementById("newsGrid");
   const status = document.getElementById("newsStatus");
-  grid.innerHTML = "";
+
+  // Keep message calm for Mom
   status.textContent = "Loading headlines…";
+  grid.innerHTML = "";
 
-  try{
-    const tasks = [];
-    for(const group of Object.keys(FEEDS)){
-      for(const f of FEEDS[group]) tasks.push(fetchFeed(f).then(items => ({group, items})));
+  const maxAttempts = 3;
+  for(let attempt=1; attempt<=maxAttempts; attempt++){
+    try{
+      const tasks = [];
+      for(const group of Object.keys(FEEDS)){
+        for(const f of FEEDS[group]) tasks.push(fetchFeed(f).then(items => ({group, items})));
+      }
+      const results = await Promise.all(tasks);
+
+      const grouped = { canada: [], nl: [], world: [] };
+      for(const r of results){
+        if(grouped[r.group]) grouped[r.group].push(...r.items);
+      }
+
+      const chosen = [
+        ...pickTop(grouped.canada, MIX.canada),
+        ...pickTop(grouped.nl, MIX.nl),
+        ...pickTop(grouped.world, MIX.world)
+      ].filter(x => x && x.link && x.title);
+
+      for(const item of chosen){
+        grid.appendChild(newsCard(item));
+      }
+
+      status.textContent = chosen.length ? "Headlines updated." : "Headlines updated.";
+      return;
+    } catch(e){
+      // short backoff then retry
+      await new Promise(r => setTimeout(r, 1200 * attempt));
     }
-    const results = await Promise.all(tasks);
-
-    const grouped = { canada: [], nl: [], world: [] };
-    for(const r of results){
-      if(grouped[r.group]) grouped[r.group].push(...r.items);
-    }
-
-    const chosen = [
-      ...pickTop(grouped.canada, MIX.canada),
-      ...pickTop(grouped.nl, MIX.nl),
-      ...pickTop(grouped.world, MIX.world)
-    ].filter(x => x && x.link && x.title);
-
-    for(const item of chosen){
-      grid.appendChild(newsCard(item));
-    }
-
-    status.textContent = chosen.length ? "Headlines updated." : "No headlines returned (try Refresh).";
-  } catch (err){
-    status.textContent = "Couldn’t load headlines. (" + err.message + ")";
   }
+
+  // After retries, keep it non-alarming
+  status.textContent = "Loading headlines…";
 }
 
+/* =======================
+   CONTROLS
+   ======================= */
 function initControls(){
   const root = document.getElementById("pageRoot");
+
   document.getElementById("toggleColumnsBtn").addEventListener("click", () => {
     root.classList.toggle("two-across");
   });
+
   document.getElementById("refreshBtn").addEventListener("click", () => {
-    loadHeadlines();
     loadWeather();
+    loadHeadlinesWithRetries();
   });
 }
 
@@ -643,7 +654,7 @@ initDate();
 initNotes();
 initControls();
 loadWeather();
-loadHeadlines();
+loadHeadlinesWithRetries();
 </script>
 </body>
 </html>
