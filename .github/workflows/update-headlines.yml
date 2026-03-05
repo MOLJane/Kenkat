@@ -1,4 +1,3 @@
-
 name: Update headlines.json
 
 on:
@@ -15,24 +14,73 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Build headlines.json
+      - name: Install dependencies
         run: |
-          python3 scripts/build_headlines.py
+          python -m pip install --upgrade pip
+          pip install feedparser
 
-      - name: Commit and push if changed
+      - name: Build data/headlines.json
         run: |
-          if git diff --quiet; then
-            echo "No changes"
-            exit 0
-          fi
+          python - <<'PY'
+          import json, os, time
+          import feedparser
+
+          FEEDS = [
+            {"group":"canada","name":"CBC Top Stories","url":"https://www.cbc.ca/webfeed/rss/rss-topstories"},
+            {"group":"nl","name":"CBC Newfoundland & Labrador","url":"https://www.cbc.ca/webfeed/rss/rss-canada-newfoundland"},
+            {"group":"nl","name":"VOCM","url":"https://vocm.com/feed/"},
+            {"group":"world","name":"BBC World","url":"https://feeds.bbci.co.uk/news/rss.xml?edition=int"},
+            {"group":"world","name":"CNN Top Stories","url":"https://rss.cnn.com/rss/cnn_topstories.rss"},
+          ]
+
+          MIX = {"canada":7, "nl":7, "world":7}
+
+          def clean(s):
+            return (s or "").replace("\n"," ").strip()
+
+          out = {"generated_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "headlines":[]}
+
+          grouped = {"canada":[], "nl":[], "world":[]}
+          for f in FEEDS:
+            d = feedparser.parse(f["url"])
+            if getattr(d, "bozo", 0):
+              # skip broken feeds but do not fail job
+              continue
+            for e in (d.entries or []):
+              title = clean(getattr(e, "title", ""))
+              link  = clean(getattr(e, "link", ""))
+              if not title or not link:
+                continue
+              grouped[f["group"]].append({
+                "source": f["name"],
+                "title": title,
+                "link": link,
+                "published": clean(getattr(e, "published", ""))[:60]
+              })
+
+          # take top N per group
+          for g in ("canada","nl","world"):
+            out["headlines"].extend(grouped[g][:MIX[g]])
+
+          os.makedirs("data", exist_ok=True)
+          with open("data/headlines.json", "w", encoding="utf-8") as fp:
+            json.dump(out, fp, ensure_ascii=False, indent=2)
+          print("Wrote", len(out["headlines"]), "headlines to data/headlines.json")
+          PY
+
+      - name: Commit and push (if changed)
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/headlines.json
+          git diff --cached --quiet && echo "No changes." && exit 0
           git commit -m "Update headlines.json"
           git push
