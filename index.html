@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -543,9 +544,7 @@ Elizabeth:"></textarea>
     }
 
     /* =======================
-       NEWS FEEDS (BULLETPROOF)
-       - Try AllOrigins + XML parsing first
-       - If blocked, fallback to rss2json
+       NEWS FEEDS (ROBUST)
        ======================= */
 
     const FEEDS = {
@@ -577,9 +576,17 @@ Elizabeth:"></textarea>
       ]);
     }
 
-    /* ---------- AllOrigins path ---------- */
     function allOriginsUrl(url){
       return "https://api.allorigins.win/raw?url=" + encodeURIComponent(url);
+    }
+
+    function rss2jsonUrl(rssUrl){
+      return "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(rssUrl);
+    }
+
+    function jinaUrl(url){
+      // keep scheme
+      return "https://r.jina.ai/" + url;
     }
 
     function pickFirstText(el, selector){
@@ -588,7 +595,6 @@ Elizabeth:"></textarea>
     }
 
     function pickLink(item){
-      // RSS <link>text</link> OR Atom <link href="...">
       const linkEl = item.querySelector("link");
       if(!linkEl) return "";
       const href = linkEl.getAttribute("href");
@@ -602,37 +608,33 @@ Elizabeth:"></textarea>
     }
 
     function pickImage(item){
-      // media:content url=""
       const media = item.querySelector("media\\:content[url], content[url]");
       if(media && media.getAttribute("url")) return media.getAttribute("url");
 
-      // enclosure url=""
       const enclosure = item.querySelector("enclosure[url]");
       if(enclosure) return enclosure.getAttribute("url");
 
-      // sometimes in <description> as <img src="...">
       const descHtml = item.querySelector("description")?.textContent || "";
       return pickImageFromDescription(descHtml);
     }
 
-    async function fetchFeedAllOrigins(feed){
-      const res = await withTimeout(fetch(allOriginsUrl(feed.url), { cache: "no-store" }), 8000);
-      if(!res.ok) throw new Error(`AllOrigins HTTP ${res.status}`);
-      const xmlText = await res.text();
-
+    function parseXmlToItems(feed, xmlText){
       const doc = new DOMParser().parseFromString(xmlText, "text/xml");
-      // detect parser error (Firefox/Chrome differ, so check broadly)
       if(doc.querySelector("parsererror")) throw new Error("XML parse error");
 
       const items = Array.from(doc.querySelectorAll("item"));
-      const entries = items.length ? items : Array.from(doc.querySelectorAll("entry")); // Atom fallback
+      const entries = items.length ? items : Array.from(doc.querySelectorAll("entry"));
       if(!entries.length) throw new Error("No items");
 
       return entries.map(it => {
         const title = pickFirstText(it, "title");
         const link = pickLink(it);
 
-        const descHtml = pickFirstText(it, "description") || pickFirstText(it, "summary") || pickFirstText(it, "content");
+        const descHtml =
+          pickFirstText(it, "description") ||
+          pickFirstText(it, "summary") ||
+          pickFirstText(it, "content");
+
         const snippet = stripHtml(descHtml).slice(0, SNIPPET_LEN);
 
         const pub = pickFirstText(it, "pubDate") || pickFirstText(it, "updated") || pickFirstText(it, "published");
@@ -644,26 +646,27 @@ Elizabeth:"></textarea>
           link,
           snippet,
           pubDate,
-          image: pickImage(it)
+          image: pickImage(it) || pickImageFromDescription(descHtml)
         };
       });
     }
 
-    /* ---------- rss2json fallback ---------- */
-    function rss2jsonUrl(rssUrl){
-      return "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(rssUrl);
+    async function fetchFeedAllOrigins(feed){
+      const res = await withTimeout(fetch(allOriginsUrl(feed.url), { cache: "no-store" }), 9000);
+      if(!res.ok) throw new Error(`AllOrigins HTTP ${res.status}`);
+      const xmlText = await res.text();
+      return parseXmlToItems(feed, xmlText);
     }
 
     function chooseImageFromRss2Json(item){
       if(item && item.enclosure && item.enclosure.link) return item.enclosure.link;
       if(item && item.thumbnail) return item.thumbnail;
-      // sometimes description contains an <img>
       return pickImageFromDescription(item?.description || item?.content || "");
     }
 
     async function fetchFeedRss2Json(feed){
       const url = rss2jsonUrl(feed.url) + "&_=" + Date.now();
-      const res = await withTimeout(fetch(url, { cache: "no-store" }), 8000);
+      const res = await withTimeout(fetch(url, { cache: "no-store" }), 9000);
       if(!res.ok) throw new Error(`rss2json HTTP ${res.status}`);
       const data = await res.json();
       if(data.status !== "ok") throw new Error(data.message || "rss2json error");
@@ -678,82 +681,36 @@ Elizabeth:"></textarea>
       }));
     }
 
-function parseXmlToItems(feed, xmlText){
-  const doc = new DOMParser().parseFromString(xmlText, "text/xml");
-  if(doc.querySelector("parsererror")) throw new Error("XML parse error");
+    async function fetchFeedSmart(feed){
+      // 1) Direct
+      try{
+        const res = await withTimeout(fetch(feed.url, { cache:"no-store" }), 5000);
+        if(res.ok){
+          const xmlText = await res.text();
+          return parseXmlToItems(feed, xmlText);
+        }
+      }catch(e){}
 
-  const items = Array.from(doc.querySelectorAll("item"));
-  const entries = items.length ? items : Array.from(doc.querySelectorAll("entry")); // Atom fallback
-  if(!entries.length) throw new Error("No items");
+      // 2) AllOrigins
+      try{
+        return await fetchFeedAllOrigins(feed);
+      }catch(e){}
 
-  return entries.map(it => {
-    const title = pickFirstText(it, "title");
-    const link = pickLink(it);
+      // 3) rss2json
+      try{
+        return await fetchFeedRss2Json(feed);
+      }catch(e){}
 
-    const descHtml =
-      pickFirstText(it, "description") ||
-      pickFirstText(it, "summary") ||
-      pickFirstText(it, "content");
+      // 4) Jina proxy
+      try{
+        const res = await withTimeout(fetch(jinaUrl(feed.url), { cache:"no-store" }), 9000);
+        if(!res.ok) throw new Error("Jina HTTP " + res.status);
+        const xmlText = await res.text();
+        return parseXmlToItems(feed, xmlText);
+      }catch(e){}
 
-    const snippet = stripHtml(descHtml).slice(0, SNIPPET_LEN);
-
-    const pub = pickFirstText(it, "pubDate") || pickFirstText(it, "updated") || pickFirstText(it, "published");
-    const pubDate = pub ? new Date(pub) : null;
-
-    return {
-      source: feed.name,
-      title,
-      link,
-      snippet,
-      pubDate,
-      image: pickImage(it) || pickImageFromDescription(descHtml)
-    };
-  });
-}
-    
-async function fetchFeedSmart(feed){
-  // Strategy order:
-  // 1) Direct fetch (rarely works due to CORS, but cheap to try)
-  // 2) AllOrigins (usually works)
-  // 3) rss2json (sometimes rate-limited/blocked)
-  // 4) Jina proxy (often works when others fail)
-  const errs = [];
-
-  // 1) Direct (only if CORS allows)
-  try{
-    const res = await withTimeout(fetch(feed.url, { cache:"no-store" }), 5000);
-    if(res.ok){
-      const xmlText = await res.text();
-      return parseXmlToItems(feed, xmlText);
+      throw new Error("All strategies failed");
     }
-  }catch(e){ errs.push(e); }
-
-  // 2) AllOrigins
-  try{
-    return await fetchFeedAllOrigins(feed);
-  }catch(e){ errs.push(e); }
-
-  // 3) rss2json
-  try{
-    return await fetchFeedRss2Json(feed);
-  }catch(e){ errs.push(e); }
-
-  // 4) Jina
-  try{
-    const res = await withTimeout(fetch(jinaUrl(feed.url), { cache:"no-store" }), 8000);
-    if(!res.ok) throw new Error("Jina HTTP " + res.status);
-    const xmlText = await res.text();
-    return parseXmlToItems(feed, xmlText);
-  }catch(e){ errs.push(e); }
-
-  throw new Error("All strategies failed");
-}
-
-   function jinaUrl(url){
-  // Jina AI proxy: returns the remote content as text
-  // Works surprisingly often when CORS proxies are blocked.
-  return "https://r.jina.ai/http://" + url.replace(/^https?:\/\//, "");
-} 
 
     function pickTop(items, n){ return items.slice(0, n); }
 
@@ -837,50 +794,46 @@ async function fetchFeedSmart(feed){
             grid.appendChild(newsCard(item));
           }
 
-          status.textContent = "Headlines updated.";
+          status.textContent = chosen.length ? "Headlines updated." : "Headlines updated.";
           return;
         } catch(e){
           await new Promise(r => setTimeout(r, 1200 * attempt));
         }
       }
 
-      // If both AllOrigins and rss2json are blocked, don’t scare Kay.
-      status.textContent = "Headlines are unavailable right now. Press Refresh.";
+      // Calm fallback: direct site links
+      status.innerHTML = `
+        Headlines are unavailable right now.<br>
+        <a href="https://www.cbc.ca/news" target="_blank" rel="noopener noreferrer">CBC News</a> •
+        <a href="https://vocm.com/" target="_blank" rel="noopener noreferrer">VOCM</a> •
+        <a href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">BBC</a> •
+        <a href="https://www.cnn.com/" target="_blank" rel="noopener noreferrer">CNN</a>
+      `;
     }
 
-status.innerHTML = `
-  Headlines are unavailable right now.<br>
-  <a href="https://www.cbc.ca/news" target="_blank" rel="noopener noreferrer">CBC News</a> •
-  <a href="https://vocm.com/" target="_blank" rel="noopener noreferrer">VOCM</a> •
-  <a href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">BBC</a> •
-  <a href="https://www.cnn.com/" target="_blank" rel="noopener noreferrer">CNN</a>
-`;
-    
     /* =======================
        PHOTO FALLBACK IMPROVEMENT
        ======================= */
-function initPhotoFallback(){
-  const fallback = document.getElementById("photoFallback");
-  const widget = document.querySelector(".pa-carousel-widget");
-  if(!fallback || !widget) return;
+    function initPhotoFallback(){
+      const fallback = document.getElementById("photoFallback");
+      const widget = document.querySelector(".pa-carousel-widget");
+      if(!fallback || !widget) return;
 
-  // Keep fallback visible until the widget is truly visible
-  const start = Date.now();
-  const maxWaitMs = 12000; // give it time on slow machines
+      const start = Date.now();
+      const maxWaitMs = 12000;
 
-  const timer = setInterval(() => {
-    const visible = getComputedStyle(widget).display !== "none";
-    if(visible){
-      fallback.style.display = "none";
-      clearInterval(timer);
-      return;
+      const timer = setInterval(() => {
+        const visible = getComputedStyle(widget).display !== "none";
+        if(visible){
+          fallback.style.display = "none";
+          clearInterval(timer);
+          return;
+        }
+        if(Date.now() - start > maxWaitMs){
+          clearInterval(timer);
+        }
+      }, 300);
     }
-    if(Date.now() - start > maxWaitMs){
-      // Give up silently and keep fallback visible
-      clearInterval(timer);
-    }
-  }, 300);
-}
 
     /* =======================
        CONTROLS
