@@ -31,49 +31,45 @@ jobs:
         run: |
           python - <<'PY'
           import json, os, time
-          import feedparser
+import feedparser
 
-          FEEDS = [
-            {"group":"canada","name":"CBC Top Stories","url":"https://www.cbc.ca/webfeed/rss/rss-topstories"},
-            {"group":"nl","name":"CBC Newfoundland & Labrador","url":"https://www.cbc.ca/webfeed/rss/rss-canada-newfoundland"},
-            {"group":"nl","name":"VOCM","url":"https://vocm.com/feed/"},
-            {"group":"world","name":"BBC World","url":"https://feeds.bbci.co.uk/news/rss.xml?edition=int"},
-            {"group":"world","name":"CNN Top Stories","url":"https://rss.cnn.com/rss/cnn_topstories.rss"},
-          ]
+FEEDS = [
+  {"group":"canada","name":"CBC Top Stories","url":"https://www.cbc.ca/webfeed/rss/rss-topstories"},
+  {"group":"nl","name":"CBC Newfoundland & Labrador","url":"https://www.cbc.ca/webfeed/rss/rss-canada-newfoundland"},
+  {"group":"nl","name":"VOCM","url":"https://vocm.com/feed/"},
+  {"group":"world","name":"BBC World","url":"https://feeds.bbci.co.uk/news/rss.xml"},
+]
 
-          MIX = {"canada":7, "nl":7, "world":7}
+MIX = {"canada":7,"nl":7,"world":7}
 
-          def clean(s):
-            return (s or "").replace("\n"," ").strip()
+out = {
+  "generated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+  "headlines":[]
+}
 
-          out = {"generated_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "headlines":[]}
+grouped = {"canada":[],"nl":[],"world":[]}
 
-          grouped = {"canada":[], "nl":[], "world":[]}
-          for f in FEEDS:
-            d = feedparser.parse(f["url"])
-            if getattr(d, "bozo", 0):
-              # skip broken feeds but do not fail job
-              continue
-            for e in (d.entries or []):
-              title = clean(getattr(e, "title", ""))
-              link  = clean(getattr(e, "link", ""))
-              if not title or not link:
-                continue
-              grouped[f["group"]].append({
-                "source": f["name"],
-                "title": title,
-                "link": link,
-                "published": clean(getattr(e, "published", ""))[:60]
-              })
+for f in FEEDS:
+  try:
+    d = feedparser.parse(f["url"])
+    for e in d.entries[:10]:
+      grouped[f["group"]].append({
+        "source":f["name"],
+        "title":e.get("title",""),
+        "link":e.get("link","")
+      })
+  except Exception:
+    pass
 
-          # take top N per group
-          for g in ("canada","nl","world"):
-            out["headlines"].extend(grouped[g][:MIX[g]])
+for g in ["canada","nl","world"]:
+  out["headlines"].extend(grouped[g][:MIX[g]])
 
-          os.makedirs("data", exist_ok=True)
-          with open("data/headlines.json", "w", encoding="utf-8") as fp:
-            json.dump(out, fp, ensure_ascii=False, indent=2)
-          print("Wrote", len(out["headlines"]), "headlines to data/headlines.json")
+os.makedirs("data",exist_ok=True)
+
+with open("data/headlines.json","w",encoding="utf-8") as f:
+  json.dump(out,f,indent=2)
+
+print("Generated",len(out["headlines"]),"headlines")
           PY
 
       - name: Commit and push (if changed)
