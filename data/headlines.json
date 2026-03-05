@@ -1,55 +1,7 @@
 {
-  "generated_at": "2026-03-05T21:27:08.148930+00:00",
+  "generated_at": "2026-03-05T22:29:04.155774+00:00",
   "count": 12,
   "items": [
-    {
-      "source": "BBC World",
-      "title": "PM stands by decision not to join strikes on Iran and sends more jets to Qatar",
-      "link": "https://www.bbc.com/news/articles/cdr2214nmk8o?at_medium=RSS&at_campaign=rss",
-      "snippet": "The PM said the best way forward was a \"negotiated settlement with Iran where they give up their nuclear ambitions\".",
-      "pub": "Thu, 05 Mar 2026 19:01:46 GMT",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8099/live/27003160-18b4-11f1-97ba-493bedc7637b.jpg"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran's high-risk war strategy seems to centre on endurance and deterrence",
-      "link": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Tehran's approach appears to rest on a belief it can absorb strikes longer than its adversaries sustain pain and costs, writes BBC Persian's Amir Azimi.",
-      "pub": "Thu, 05 Mar 2026 18:40:22 GMT",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/651c/live/72da95e0-18ae-11f1-8a24-35cedd1a21de.jpg"
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran school and nearby military base struck multiple times, satellite image reveals",
-      "link": "https://www.bbc.com/news/articles/c5yqqyly9n0o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Iranian authorities say the attack, which took place on Saturday, killed 168 people.",
-      "pub": "Thu, 05 Mar 2026 17:46:24 GMT",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3d7/live/21061ec0-18c1-11f1-b048-c9424b2cf5fd.png"
-    },
-    {
-      "source": "BBC World",
-      "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
-      "link": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Iranian Kurdish opposition groups in exile in northern Iraq tell the BBC they have plans to cross the border but deny already doing so.",
-      "pub": "Thu, 05 Mar 2026 21:20:49 GMT",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/902e/live/22cb9620-18b9-11f1-97ba-493bedc7637b.jpg"
-    },
-    {
-      "source": "BBC World",
-      "title": "Labour MP 'voluntarily suspends herself' after husband arrested in China spy probe",
-      "link": "https://www.bbc.com/news/articles/cvg8edz1ng2o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Joani Reid said she had temporarily stood down from the party after her husband was arrested on suspicion of spying for China.",
-      "pub": "Thu, 05 Mar 2026 20:35:22 GMT",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/146d/live/1f10e010-1861-11f1-9120-a910fc22c6ac.jpg"
-    },
-    {
-      "source": "BBC World",
-      "title": "Covid inquiry chair defends £200m cost and four-year process on final day",
-      "link": "https://www.bbc.com/news/articles/c98qq8y6235o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Baroness Heather Hallett said completing the hearings in under four years was an achievement but critics have questioned its cost.",
-      "pub": "Thu, 05 Mar 2026 17:04:55 GMT",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bced/live/6b8bb060-18b5-11f1-97ba-493bedc7637b.jpg"
-    },
     {
       "source": "VOCM",
       "title": "‘It’s a Sad Thing,’ Speaker Ready to Revoke Speaking Privileges if MHAs Don’t Tone Down the Chirping",
@@ -97,10 +49,58 @@
       "snippet": "Gas prices have increased across most of Canada in response to the war in Iran, but just where they will go depends largely on how long the war lasts....",
       "pub": "Thu, 05 Mar 2026 14:59:40 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/gas-pump-fuel-price-pricing-adjustment-gasoline.jpg"
+    },
+    {
+      "source": "BBC World",
+      "title": "PM stands by decision not to join strikes on Iran and sends more jets to Qatar",
+      "link": "https://www.bbc.com/news/articles/cdr2214nmk8o?at_medium=RSS&at_campaign=rss",
+      "snippet": "The PM said the best way forward was a \"negotiated settlement with Iran where they give up their nuclear ambitions\".",
+      "pub": "Thu, 05 Mar 2026 19:01:46 GMT",
+      "image": ""
+    },
+    {
+      "source": "BBC World",
+      "title": "'This is war': BBC speaks to Iranians at border",
+      "link": "https://www.bbc.com/news/videos/czx4r6zq7wxo?at_medium=RSS&at_campaign=rss",
+      "snippet": "Iranians fleeing their country have told the BBC what life under bombardment has been like.",
+      "pub": "Thu, 05 Mar 2026 18:36:37 GMT",
+      "image": ""
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran's high-risk war strategy seems to centre on endurance and deterrence",
+      "link": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Tehran's approach appears to rest on a belief it can absorb strikes longer than its adversaries sustain pain and costs, writes BBC Persian's Amir Azimi.",
+      "pub": "Thu, 05 Mar 2026 18:40:22 GMT",
+      "image": ""
+    },
+    {
+      "source": "BBC World",
+      "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
+      "link": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Iranian Kurdish opposition groups in exile in northern Iraq tell the BBC they have plans to cross the border but deny already doing so.",
+      "pub": "Thu, 05 Mar 2026 21:20:49 GMT",
+      "image": ""
+    },
+    {
+      "source": "BBC World",
+      "title": "Labour MP 'voluntarily suspends herself' after husband arrested in China spy probe",
+      "link": "https://www.bbc.com/news/articles/cvg8edz1ng2o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Joani Reid said she had temporarily stood down from the party after her husband was arrested on suspicion of spying for China.",
+      "pub": "Thu, 05 Mar 2026 20:35:22 GMT",
+      "image": ""
+    },
+    {
+      "source": "BBC World",
+      "title": "Covid inquiry chair defends £200m cost and four-year process on final day",
+      "link": "https://www.bbc.com/news/articles/c98qq8y6235o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Baroness Heather Hallett said completing the hearings in under four years was an achievement but critics have questioned its cost.",
+      "pub": "Thu, 05 Mar 2026 17:04:55 GMT",
+      "image": ""
     }
   ],
   "errors": [
-    "CBC Top Stories: The read operation timed out",
-    "CBC Newfoundland & Labrador: The read operation timed out"
+    "CBC Top Stories failed: The read operation timed out",
+    "CBC Newfoundland & Labrador failed: The read operation timed out"
   ]
 }
