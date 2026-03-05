@@ -3,73 +3,173 @@ name: Update headlines.json
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "*/30 * * * *"  # every 30 minutes
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-headlines
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 3
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.x"
 
-      - name: Install dependencies
+      - name: Build data/headlines.json (fast + timeout-safe)
+        shell: bash
         run: |
-          python -m pip install --upgrade pip
-          pip install feedparser
+          python - << 'PY'
+          import json, os, re, sys, time
+          import urllib.request
+          import urllib.error
+          import xml.etree.ElementTree as ET
+          from datetime import datetime
 
-      - name: Build data/headlines.json
-        run: |
-          python - <<'PY'
-          import json, os, time
-import feedparser
+          OUT_DIR = "data"
+          OUT_PATH = os.path.join(OUT_DIR, "headlines.json")
 
-FEEDS = [
-  {"group":"canada","name":"CBC Top Stories","url":"https://www.cbc.ca/webfeed/rss/rss-topstories"},
-  {"group":"nl","name":"CBC Newfoundland & Labrador","url":"https://www.cbc.ca/webfeed/rss/rss-canada-newfoundland"},
-  {"group":"nl","name":"VOCM","url":"https://vocm.com/feed/"},
-  {"group":"world","name":"BBC World","url":"https://feeds.bbci.co.uk/news/rss.xml"},
-]
+          # Keep it simple & reliable:
+          FEEDS = [
+            ("CBC Top Stories", "https://www.cbc.ca/webfeed/rss/rss-topstories"),
+            ("CBC Newfoundland & Labrador", "https://www.cbc.ca/webfeed/rss/rss-canada-newfoundland"),
+            ("BBC World", "https://feeds.bbci.co.uk/news/rss.xml?edition=int"),
+            ("VOCM", "https://vocm.com/feed/"),
+          ]
 
-MIX = {"canada":7,"nl":7,"world":7}
+          # Total timeout safety:
+          # - each feed has a hard timeout
+          # - failures are skipped, not fatal
+          PER_FEED_TIMEOUT_SEC = 7
+          MAX_ITEMS_PER_FEED = 6
+          SNIPPET_LEN = 180
 
-out = {
-  "generated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-  "headlines":[]
-}
+          def strip_html(s: str) -> str:
+            if not s:
+              return ""
+            s = re.sub(r"<[^>]+>", " ", s)
+            s = re.sub(r"\s+", " ", s).strip()
+            return s
 
-grouped = {"canada":[],"nl":[],"world":[]}
+          def fetch_url(url: str, timeout: int) -> bytes:
+            req = urllib.request.Request(
+              url,
+              headers={
+                "User-Agent": "Mozilla/5.0 (GitHub Actions headlines bot)"
+              },
+            )
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+              return resp.read()
 
-for f in FEEDS:
-  try:
-    d = feedparser.parse(f["url"])
-    for e in d.entries[:10]:
-      grouped[f["group"]].append({
-        "source":f["name"],
-        "title":e.get("title",""),
-        "link":e.get("link","")
-      })
-  except Exception:
-    pass
+          def first_text(elem, tag_names):
+            # searches direct children by localname
+            for child in list(elem):
+              lname = child.tag.split("}")[-1]
+              if lname in tag_names:
+                return (child.text or "").strip()
+            return ""
 
-for g in ["canada","nl","world"]:
-  out["headlines"].extend(grouped[g][:MIX[g]])
+          def find_link(elem):
+            # RSS: <link>text</link>
+            # Atom: <link href="..."/>
+            for child in list(elem):
+              lname = child.tag.split("}")[-1]
+              if lname == "link":
+                href = child.attrib.get("href", "").strip()
+                if href:
+                  return href
+                txt = (child.text or "").strip()
+                if txt:
+                  return txt
+            return ""
 
-os.makedirs("data",exist_ok=True)
+          def find_description(elem):
+            # RSS: description
+            # Atom: summary/content
+            for key in ("description", "summary", "content"):
+              txt = first_text(elem, {key})
+              if txt:
+                return txt
+            return ""
 
-with open("data/headlines.json","w",encoding="utf-8") as f:
-  json.dump(out,f,indent=2)
+          def parse_items(xml_bytes: bytes):
+            root = ET.fromstring(xml_bytes)
 
-print("Generated",len(out["headlines"]),"headlines")
+            # RSS items:
+            items = root.findall(".//item")
+            if items:
+              return items
+
+            # Atom entries:
+            entries = root.findall(".//{*}entry")
+            return entries
+
+          def parse_pubdate(s: str):
+            s = (s or "").strip()
+            if not s:
+              return ""
+            # keep as raw string (avoid fragile date parsing)
+            return s[:60]
+
+          all_items = []
+          errors = []
+
+          for name, url in FEEDS:
+            try:
+              xml_bytes = fetch_url(url, PER_FEED_TIMEOUT_SEC)
+              entries = parse_items(xml_bytes)
+              if not entries:
+                raise Exception("No items found")
+
+              for it in entries[:MAX_ITEMS_PER_FEED]:
+                title = first_text(it, {"title"}) or "(no title)"
+                link  = find_link(it) or url
+                desc  = find_description(it)
+                snippet = strip_html(desc)[:SNIPPET_LEN]
+
+                # RSS pubDate or Atom updated/published:
+                pub = first_text(it, {"pubDate"}) or first_text(it, {"updated"}) or first_text(it, {"published"})
+                pub = parse_pubdate(pub)
+
+                all_items.append({
+                  "source": name,
+                  "title": title,
+                  "link": link,
+                  "snippet": snippet,
+                  "pub": pub,
+                })
+
+            except Exception as e:
+              errors.append(f"{name}: {e}")
+
+          # If everything failed, still write a file so the page has something to show.
+          os.makedirs(OUT_DIR, exist_ok=True)
+
+          payload = {
+            "generated_at": datetime.utcnow().isoformat() + "Z",
+            "count": len(all_items),
+            "items": all_items,
+            "errors": errors,
+          }
+
+          with open(OUT_PATH, "w", encoding="utf-8") as f:
+            json.dump(payload, f, ensure_ascii=False, indent=2)
+
+          print(f"Wrote {OUT_PATH} with {len(all_items)} items")
+          if errors:
+            print("Some feeds failed (non-fatal):")
+            for e in errors:
+              print(" -", e)
           PY
 
       - name: Commit and push (if changed)
@@ -77,6 +177,6 @@ print("Generated",len(out["headlines"]),"headlines")
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/headlines.json
-          git diff --cached --quiet && echo "No changes." && exit 0
+          git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Update headlines.json"
           git push
