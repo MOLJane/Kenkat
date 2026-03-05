@@ -380,7 +380,7 @@
             <object data="https://lh3.googleusercontent.com/pw/AP1GczNL4O-3isNTPv2CtaKCiOYSWNeVPjTsACd_Ds1CF6YnDWsJJ3L8aV6OyOxsowzcf3Vwuo5YlJPCJBi9bxF7CVtHtxfb8MsDh1SHmI2GcGMJlcX42V0=w1920-h1080"></object>
           </div>
 
-          <div id="photoFallback" style="display:none; margin-top:10px;">
+          <div id="photoFallback" style="display:block; margin-top:10px;">
             <img id="fallbackImg" src="Barry Family.JPG" alt="Family photo"
                  style="width:100%; height:220px; object-fit:cover; border-radius:12px;">
           </div>
@@ -442,7 +442,7 @@ Elizabeth:"></textarea>
   </div>
 
   <!-- PublicAlbum loader (must exist ONCE) -->
-  <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+  <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" defer></script>
 
   <script>
     /* =======================
@@ -678,14 +678,82 @@ Elizabeth:"></textarea>
       }));
     }
 
-    async function fetchFeedSmart(feed){
-      try{
-        return await fetchFeedAllOrigins(feed);
-      }catch(e1){
-        // fallback
-        return await fetchFeedRss2Json(feed);
-      }
+function parseXmlToItems(feed, xmlText){
+  const doc = new DOMParser().parseFromString(xmlText, "text/xml");
+  if(doc.querySelector("parsererror")) throw new Error("XML parse error");
+
+  const items = Array.from(doc.querySelectorAll("item"));
+  const entries = items.length ? items : Array.from(doc.querySelectorAll("entry")); // Atom fallback
+  if(!entries.length) throw new Error("No items");
+
+  return entries.map(it => {
+    const title = pickFirstText(it, "title");
+    const link = pickLink(it);
+
+    const descHtml =
+      pickFirstText(it, "description") ||
+      pickFirstText(it, "summary") ||
+      pickFirstText(it, "content");
+
+    const snippet = stripHtml(descHtml).slice(0, SNIPPET_LEN);
+
+    const pub = pickFirstText(it, "pubDate") || pickFirstText(it, "updated") || pickFirstText(it, "published");
+    const pubDate = pub ? new Date(pub) : null;
+
+    return {
+      source: feed.name,
+      title,
+      link,
+      snippet,
+      pubDate,
+      image: pickImage(it) || pickImageFromDescription(descHtml)
+    };
+  });
+}
+    
+async function fetchFeedSmart(feed){
+  // Strategy order:
+  // 1) Direct fetch (rarely works due to CORS, but cheap to try)
+  // 2) AllOrigins (usually works)
+  // 3) rss2json (sometimes rate-limited/blocked)
+  // 4) Jina proxy (often works when others fail)
+  const errs = [];
+
+  // 1) Direct (only if CORS allows)
+  try{
+    const res = await withTimeout(fetch(feed.url, { cache:"no-store" }), 5000);
+    if(res.ok){
+      const xmlText = await res.text();
+      return parseXmlToItems(feed, xmlText);
     }
+  }catch(e){ errs.push(e); }
+
+  // 2) AllOrigins
+  try{
+    return await fetchFeedAllOrigins(feed);
+  }catch(e){ errs.push(e); }
+
+  // 3) rss2json
+  try{
+    return await fetchFeedRss2Json(feed);
+  }catch(e){ errs.push(e); }
+
+  // 4) Jina
+  try{
+    const res = await withTimeout(fetch(jinaUrl(feed.url), { cache:"no-store" }), 8000);
+    if(!res.ok) throw new Error("Jina HTTP " + res.status);
+    const xmlText = await res.text();
+    return parseXmlToItems(feed, xmlText);
+  }catch(e){ errs.push(e); }
+
+  throw new Error("All strategies failed");
+}
+
+   function jinaUrl(url){
+  // Jina AI proxy: returns the remote content as text
+  // Works surprisingly often when CORS proxies are blocked.
+  return "https://r.jina.ai/http://" + url.replace(/^https?:\/\//, "");
+} 
 
     function pickTop(items, n){ return items.slice(0, n); }
 
@@ -780,23 +848,39 @@ Elizabeth:"></textarea>
       status.textContent = "Headlines are unavailable right now. Press Refresh.";
     }
 
+status.innerHTML = `
+  Headlines are unavailable right now.<br>
+  <a href="https://www.cbc.ca/news" target="_blank" rel="noopener noreferrer">CBC News</a> •
+  <a href="https://vocm.com/" target="_blank" rel="noopener noreferrer">VOCM</a> •
+  <a href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">BBC</a> •
+  <a href="https://www.cnn.com/" target="_blank" rel="noopener noreferrer">CNN</a>
+`;
+    
     /* =======================
        PHOTO FALLBACK IMPROVEMENT
        ======================= */
-    function initPhotoFallback(){
-      const fallback = document.getElementById("photoFallback");
-      if(!fallback) return;
+function initPhotoFallback(){
+  const fallback = document.getElementById("photoFallback");
+  const widget = document.querySelector(".pa-carousel-widget");
+  if(!fallback || !widget) return;
 
-      setTimeout(() => {
-        const widget = document.querySelector(".pa-carousel-widget");
-        if(!widget) return;
+  // Keep fallback visible until the widget is truly visible
+  const start = Date.now();
+  const maxWaitMs = 12000; // give it time on slow machines
 
-        const stillHidden = (getComputedStyle(widget).display === "none");
-        if(stillHidden){
-          fallback.style.display = "block";
-        }
-      }, 3000);
+  const timer = setInterval(() => {
+    const visible = getComputedStyle(widget).display !== "none";
+    if(visible){
+      fallback.style.display = "none";
+      clearInterval(timer);
+      return;
     }
+    if(Date.now() - start > maxWaitMs){
+      // Give up silently and keep fallback visible
+      clearInterval(timer);
+    }
+  }, 300);
+}
 
     /* =======================
        CONTROLS
