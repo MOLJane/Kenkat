@@ -5,336 +5,88 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Kay’s Page</title>
 
-  <!-- Auto-refresh the whole page every 15 minutes -->
-  <meta http-equiv="refresh" content="900">
+  <!-- Gentle auto-refresh every 20 minutes (helps stale caches) -->
+  <meta http-equiv="refresh" content="1200">
 
   <style>
     :root{
-      --bg: #f6f6f4;
-      --card: #ffffff;
-      --ink: #1a1a1a;
-      --muted: #555;
-      --line: #ddd;
-      --shadow: 0 2px 10px rgba(0,0,0,.08);
-      --radius: 14px;
-      --pad: 14px;
+      --bg:#f6f6f4; --card:#fff; --ink:#1a1a1a; --muted:#555; --line:#ddd;
+      --shadow:0 2px 10px rgba(0,0,0,.08); --radius:14px; --pad:14px;
+      --h1:34px; --h2:20px; --body:18px; --small:15px;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg)}
+    .wrap{max-width:1200px;margin:0 auto;padding:14px;display:grid;gap:14px}
+    header.hero{position:relative;border-radius:var(--radius);overflow:hidden;background:#000;box-shadow:var(--shadow);min-height:175px}
+    header.hero::before{content:"";position:absolute;inset:0;
+      background:linear-gradient(to bottom, rgba(0,0,0,.40), rgba(0,0,0,.58)), url("beach2.jpeg") center/cover no-repeat;
+      filter:saturate(1.05);transform:scale(1.02)}
+    .hero-content{position:relative;padding:18px;display:flex;align-items:flex-end;justify-content:space-between;gap:12px;min-height:175px}
+    .titleblock{display:flex;flex-direction:column;gap:6px}
+    .site-title{margin:0;font-size:var(--h1);letter-spacing:.2px;color:#fff;text-shadow:0 2px 12px rgba(0,0,0,.35)}
+    .today{margin:0;font-size:var(--h2);color:rgba(255,255,255,.92);text-shadow:0 2px 12px rgba(0,0,0,.35)}
+    .weatherline{margin:2px 0 0 0;font-size:18px;color:rgba(255,255,255,.95);text-shadow:0 2px 12px rgba(0,0,0,.35)}
+    .controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center;justify-content:flex-end}
+    .pill{border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.14);color:#fff;padding:8px 10px;border-radius:999px;
+      font-size:var(--small);backdrop-filter:blur(6px);cursor:pointer;user-select:none;text-decoration:none;display:inline-block;text-align:center}
+    .pill:active{transform:translateY(1px)}
+    .topbar{display:grid;gap:10px}
+    .rowbar{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:10px}
+    @media (max-width:1100px){.rowbar{grid-template-columns:repeat(4,minmax(0,1fr));}}
+    @media (max-width:700px){.rowbar{grid-template-columns:repeat(2,minmax(0,1fr));}}
+    .bigbtn{display:block;text-align:center;background:#fff;border:1px solid #ddd;padding:14px 10px;border-radius:12px;font-size:20px;
+      text-decoration:none;color:#111;box-shadow:0 2px 6px rgba(0,0,0,.08);user-select:none;line-height:1.15}
+    .bigbtn:hover{background:#f3f3f3}.bigbtn:active{transform:translateY(1px)}
+    .grid-top{display:grid;gap:14px;grid-template-columns:1.2fr .8fr;align-items:start}
+    @media (max-width:980px){.grid-top{grid-template-columns:1fr}}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:var(--pad)}
+    .card h2{margin:0 0 10px 0;font-size:22px}
+    .muted{color:var(--muted);font-size:var(--body);line-height:1.35}
 
-      /* senior-friendly sizing */
-      --h1: 34px;
-      --h2: 20px;
-      --body: 18px;
-      --small: 15px;
-    }
+    .news-grid{display:grid;gap:12px;grid-template-columns:repeat(3,minmax(0,1fr))}
+    .two-across .news-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+    @media (max-width:980px){.news-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+    @media (max-width:620px){.news-grid{grid-template-columns:1fr}}
+    .news-item{border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#fff;display:flex;flex-direction:column;min-height:200px}
+    .news-thumb{width:100%;height:130px;background:#e9e9e9;display:flex;align-items:center;justify-content:center;overflow:hidden}
+    .news-thumb img{width:100%;height:100%;object-fit:cover;display:block}
+    .news-body{padding:10px 12px 12px;display:flex;flex-direction:column;gap:6px}
+    .news-title{font-size:18px;line-height:1.2;margin:0}
+    .news-title a{color:var(--ink);text-decoration:none}
+    .news-title a:hover{text-decoration:underline}
+    .news-snippet{margin:0;color:var(--muted);font-size:16px;line-height:1.25}
+    .news-meta{margin-top:auto;font-size:14px;color:#666}
+    iframe.calendar{width:100%;height:420px;border:0;border-radius:12px;background:#fff}
+    textarea.notes{width:100%;min-height:220px;border-radius:12px;border:1px solid var(--line);padding:12px;font-size:18px;line-height:1.3;resize:vertical;outline:none}
+    .status{font-size:15px;color:#666;margin-top:8px;min-height:20px}
+    .footerhint{font-size:14px;color:#666;text-align:center;padding:8px 0 18px}
 
-    * { box-sizing: border-box; }
-    body{
-      margin:0;
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-      color: var(--ink);
-      background: var(--bg);
-    }
+    /* Favourites strip */
+    .fav-wrap{display:flex;gap:10px;align-items:center}
+    .fav-frame{flex:1;border-radius:12px;overflow:hidden;background:#e9e9e9;position:relative;height:220px}
+    .fav-frame img{width:100%;height:100%;object-fit:cover;display:none}
+    .fav-frame .fav-fallback{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#666;font-size:18px}
 
-    .wrap{
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 14px;
-      display: grid;
-      gap: 14px;
-    }
-
-    header.hero{
-      position: relative;
-      border-radius: var(--radius);
-      overflow: hidden;
-      background: #000;
-      box-shadow: var(--shadow);
-      min-height: 175px;
-    }
-
-    header.hero::before{
-      content:"";
-      position:absolute;
-      inset:0;
-      background:
-        linear-gradient(to bottom, rgba(0,0,0,.40), rgba(0,0,0,.58)),
-        url("beach2.jpeg") center/cover no-repeat;
-      filter: saturate(1.05);
-      transform: scale(1.02);
-    }
-
-    .hero-content{
-      position: relative;
-      padding: 18px 18px 16px;
-      display:flex;
-      align-items:flex-end;
-      justify-content: space-between;
-      gap: 12px;
-      min-height: 175px;
-    }
-
-    .titleblock{
-      display:flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-
-    .site-title{
-      margin:0;
-      font-size: var(--h1);
-      letter-spacing: .2px;
-      color: #fff;
-      text-shadow: 0 2px 12px rgba(0,0,0,.35);
-    }
-
-    .today{
-      margin:0;
-      font-size: var(--h2);
-      color: rgba(255,255,255,.92);
-      text-shadow: 0 2px 12px rgba(0,0,0,.35);
-    }
-
-    .weatherline{
-      margin: 2px 0 0 0;
-      font-size: 18px;
-      color: rgba(255,255,255,.95);
-      text-shadow: 0 2px 12px rgba(0,0,0,.35);
-    }
-
-    .controls{
-      display:flex;
-      gap: 8px;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: flex-end;
-    }
-
-    .pill{
-      border: 1px solid rgba(255,255,255,.35);
-      background: rgba(255,255,255,.14);
-      color: #fff;
-      padding: 8px 10px;
-      border-radius: 999px;
-      font-size: var(--small);
-      backdrop-filter: blur(6px);
-      cursor: pointer;
-      user-select: none;
-      text-decoration: none;
-      display:inline-block;
-      text-align:center;
-    }
-    .pill:active { transform: translateY(1px); }
-
-    /* Top buttons row */
-    .topbar{ display: grid; gap: 10px; }
-
-    .rowbar{
-      display: grid;
-      grid-template-columns: repeat(7, minmax(0, 1fr));
-      gap: 10px;
-    }
-
-    @media (max-width: 1100px){
-      .rowbar{ grid-template-columns: repeat(4, minmax(0,1fr)); }
-    }
-    @media (max-width: 700px){
-      .rowbar{ grid-template-columns: repeat(2, minmax(0,1fr)); }
-    }
-
-    .bigbtn{
-      display: block;
-      text-align: center;
-      background: #ffffff;
-      border: 1px solid #ddd;
-      padding: 14px 10px;
-      border-radius: 12px;
-      font-size: 20px;
-      text-decoration: none;
-      color: #111;
-      box-shadow: 0 2px 6px rgba(0,0,0,.08);
-      user-select: none;
-      line-height: 1.15;
-    }
-    .bigbtn:hover{ background:#f3f3f3; }
-    .bigbtn:active{ transform: translateY(1px); }
-
-    .grid-top{
-      display:grid;
-      gap: 14px;
-      grid-template-columns: 1.2fr .8fr;
-      align-items: start;
-    }
-    @media (max-width: 980px){
-      .grid-top { grid-template-columns: 1fr; }
-    }
-
-    .card{
-      background: var(--card);
-      border: 1px solid var(--line);
-      border-radius: var(--radius);
-      box-shadow: var(--shadow);
-      padding: var(--pad);
-    }
-
-    .card h2{
-      margin: 0 0 10px 0;
-      font-size: 22px;
-    }
-
-    .muted{
-      color: var(--muted);
-      font-size: var(--body);
-      line-height: 1.35;
-    }
-
-    /* News grid default: 3 columns, but default to 2 via .two-across */
-    .news-grid{
-      display:grid;
-      gap: 12px;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-    }
-    .two-across .news-grid{
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-    @media (max-width: 980px){
-      .news-grid{ grid-template-columns: repeat(2, minmax(0,1fr)); }
-    }
-    @media (max-width: 620px){
-      .news-grid{ grid-template-columns: 1fr; }
-    }
-
-    .news-item{
-      border: 1px solid var(--line);
-      border-radius: 12px;
-      overflow:hidden;
-      background: #fff;
-      display:flex;
-      flex-direction: column;
-      min-height: 200px;
-    }
-
-    .news-thumb{
-      width: 100%;
-      height: 130px;
-      background: #e9e9e9;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      overflow:hidden;
-    }
-    .news-thumb img{
-      width:100%;
-      height:100%;
-      object-fit: cover;
-      display:block;
-    }
-
-    .news-body{
-      padding: 10px 12px 12px;
-      display:flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-
-    .news-title{
-      font-size: 18px;
-      line-height: 1.2;
-      margin:0;
-    }
-    .news-title a{
-      color: var(--ink);
-      text-decoration: none;
-    }
-    .news-title a:hover{ text-decoration: underline; }
-
-    .news-snippet{
-      margin:0;
-      color: var(--muted);
-      font-size: 16px;
-      line-height: 1.25;
-    }
-
-    .news-meta{
-      margin-top:auto;
-      font-size: 14px;
-      color: #666;
-    }
-
-    iframe.calendar{
-      width:100%;
-      height: 420px;
-      border:0;
-      border-radius: 12px;
-      background:#fff;
-    }
-
-    textarea.notes{
-      width:100%;
-      min-height: 220px;
-      border-radius: 12px;
-      border: 1px solid var(--line);
-      padding: 12px;
-      font-size: 18px;
-      line-height: 1.3;
-      resize: vertical;
-      outline: none;
-    }
-
-    .status{
-      font-size: 15px;
-      color: #666;
-      margin-top: 8px;
-      min-height: 20px;
-    }
-
-    .footerhint{
-      font-size: 14px;
-      color: #666;
-      text-align:center;
-      padding: 8px 0 18px;
-    }
-
-    /* local photo carousel */
-    .local-carousel{
-      border-radius: 12px;
-      overflow: hidden;
-      background: #eee;
-    }
-
-    .album-stack{
-      display:grid;
-      gap:18px;
-    }
-
-    .album-link img{
-      display:block;
-      width:100%;
-      border-radius:12px;
-      margin-top:10px;
-      box-shadow:0 2px 8px rgba(0,0,0,.15);
-      cursor:pointer;
-    }
-    .album-link img:hover{
-      transform: scale(1.01);
-      transition: transform .2s ease;
-    }
+    /* Album tiles */
+    .album-stack{display:grid;gap:18px}
+    .album-link img{display:block;width:100%;border-radius:12px;margin-top:10px;box-shadow:0 2px 8px rgba(0,0,0,.15);cursor:pointer}
+    .album-link img:hover{transform:scale(1.01);transition:transform .2s ease}
   </style>
 </head>
 
 <body>
-  <!-- default to 2 columns -->
   <div class="wrap two-across" id="pageRoot">
     <header class="hero">
       <div class="hero-content">
         <div class="titleblock">
           <h1 class="site-title">Kay’s Page</h1>
           <p class="today" id="todayText">Loading date…</p>
-          <p class="weatherline" id="weatherLine">Weather: open the Weather button above</p>
+          <p class="weatherline" id="weatherLine">Loading weather…</p>
         </div>
-
         <div class="controls">
           <a class="pill" href="./" title="Return to Kay’s Page">Home</a>
           <div class="pill" id="toggleColumnsBtn" title="Switch headline columns">Toggle 2/3 columns</div>
-          <div class="pill" id="refreshBtn" title="Refresh headlines/weather">Refresh</div>
+          <div class="pill" id="refreshBtn" title="Refresh">Refresh</div>
         </div>
       </div>
     </header>
@@ -352,39 +104,38 @@
     </section>
 
     <section class="grid-top">
-      <!-- LEFT: HEADLINES -->
+      <!-- LEFT -->
       <div class="card">
         <h2>Top Headlines</h2>
         <div class="news-grid" id="newsGrid"></div>
         <div class="status" id="newsStatus">Loading headlines…</div>
       </div>
 
-      <!-- RIGHT: PHOTOS + CALENDAR + NOTES + ALBUMS -->
+      <!-- RIGHT -->
       <div style="display:grid; gap:14px;">
-
         <div class="card">
           <h2>Family Photos</h2>
-          <div class="local-carousel">
-            <img id="localCarouselImg" src="Barry Family.JPG" alt="Family photo"
-                 style="width:100%; height:220px; object-fit:cover;">
+          <div class="fav-wrap">
+            <div class="fav-frame" id="favFrame">
+              <div class="fav-fallback" id="favFallback">No favourites yet.</div>
+              <img id="favImg" alt="Favourite photo">
+            </div>
           </div>
-          <div class="status" id="carouselStatus">Loading photos…</div>
+          <div class="status">Rotates through fav1.jpg … fav10.jpg (only shows the ones that exist).</div>
         </div>
 
         <div class="card">
           <h2>Calendar</h2>
-          <!-- Public calendar embed (works without login) -->
           <iframe class="calendar" id="calendarFrame"
             src="https://calendar.google.com/calendar/embed?src=kenkatbarry%40gmail.com&ctz=America%2FSt_Johns&mode=MONTH&showTitle=0&showTabs=0&showCalendars=0&showPrint=0"
-            loading="lazy">
-          </iframe>
+            loading="lazy"></iframe>
+          <div class="status">If blank: hard refresh once (Ctrl+Shift+R). Also check it’s actually “Public”.</div>
         </div>
 
         <div class="card">
           <h2>Phone Numbers / Notes</h2>
           <div class="muted">Type numbers here. It saves automatically on this computer.</div>
-          <textarea class="notes" id="notesBox" placeholder="Example:
-Doctor:
+          <textarea class="notes" id="notesBox" placeholder="Doctor:
 Pharmacy:
 Jane:
 Clare:
@@ -398,445 +149,368 @@ Elizabeth:"></textarea>
           <div class="card">
             <h2>Kay’s Album</h2>
             <div class="muted">Click the photo to open the album.</div>
-            <a class="album-link"
-               href="https://photos.app.goo.gl/JjsBHXuXaDUNkNSJ6"
-               target="_blank" rel="noopener noreferrer">
+            <a class="album-link" href="https://photos.app.goo.gl/JjsBHXuXaDUNkNSJ6" target="_blank" rel="noopener noreferrer">
               <img src="Barry Family.JPG" alt="Barry Family">
             </a>
           </div>
-
           <div class="card">
             <h2>Family Album</h2>
             <div class="muted">Click the photo to open the album.</div>
-            <a class="album-link"
-               href="https://photos.app.goo.gl/Sq9NeQQtiAMys9LK6"
-               target="_blank" rel="noopener noreferrer">
+            <a class="album-link" href="https://photos.app.goo.gl/Sq9NeQQtiAMys9LK6" target="_blank" rel="noopener noreferrer">
               <img src="Barry Misc.JPG" alt="Barry Misc">
             </a>
           </div>
         </div>
-
       </div>
     </section>
 
-    <div class="footerhint">
-      Big buttons • Headlines • Calendar • Notes • Photos
-    </div>
+    <div class="footerhint">Big buttons • Weather • Headlines • Calendar • Notes • Photos</div>
   </div>
 
-  <script>
-    /* =======================
-       PAGE SELF-HEALING
-       ======================= */
-    setTimeout(() => {
-      const url = new URL(window.location.href);
-      url.searchParams.set("v", Date.now().toString());
-      window.location.replace(url.toString());
-    }, 15 * 60 * 1000);
-
-    /* =======================
-       DATE
-       ======================= */
-    function formatDate(d){
-      try{
-        return new Intl.DateTimeFormat(undefined, { weekday:"long", year:"numeric", month:"long", day:"numeric" }).format(d);
-      }catch(e){
-        return d.toDateString();
-      }
-    }
-    function initDate(){
-      const el = document.getElementById("todayText");
-      el.textContent = formatDate(new Date());
-      setInterval(() => { el.textContent = formatDate(new Date()); }, 60 * 1000);
-    }
-
-    /* =======================
-       WEATHER (best-effort; never blocks page)
-       ======================= */
-    const STJ_LAT = 47.5615;
-    const STJ_LON = -52.7126;
-
-    function weatherCodeToText(code){
-      const m = {
-        0:"Clear", 1:"Mainly clear", 2:"Partly cloudy", 3:"Cloudy",
-        45:"Fog", 48:"Fog",
-        51:"Drizzle", 53:"Drizzle", 55:"Drizzle",
-        56:"Freezing drizzle", 57:"Freezing drizzle",
-        61:"Rain", 63:"Rain", 65:"Heavy rain",
-        66:"Freezing rain", 67:"Freezing rain",
-        71:"Snow", 73:"Snow", 75:"Heavy snow", 77:"Snow",
-        80:"Showers", 81:"Showers", 82:"Heavy showers",
-        85:"Snow showers", 86:"Heavy snow showers",
-        95:"Thunderstorm", 96:"Thunderstorm", 99:"Thunderstorm"
-      };
-      return (code in m) ? m[code] : "Weather";
-    }
-
-    function withTimeout(promise, ms){
-      return Promise.race([
-        promise,
-        new Promise((_, reject) => setTimeout(() => reject(new Error("timeout")), ms))
-      ]);
-    }
-
-    async function loadWeather(){
-      const el = document.getElementById("weatherLine");
-      try{
-        const url =
-          "https://api.open-meteo.com/v1/forecast"
-          + "?latitude=" + encodeURIComponent(STJ_LAT)
-          + "&longitude=" + encodeURIComponent(STJ_LON)
-          + "&current=temperature_2m,weather_code,wind_speed_10m"
-          + "&temperature_unit=celsius"
-          + "&wind_speed_unit=kmh"
-          + "&timezone=America%2FSt_Johns";
-
-        const res = await withTimeout(fetch(url, { cache: "no-store" }), 7000);
-        if(!res.ok) throw new Error("Weather HTTP " + res.status);
-        const data = await res.json();
-
-        const t = data?.current?.temperature_2m;
-        const w = data?.current?.weather_code;
-        const wind = data?.current?.wind_speed_10m;
-
-        const desc = weatherCodeToText(w);
-        if(typeof t === "number"){
-          el.textContent = `St. John’s: ${Math.round(t)}°C • ${desc}${(wind!=null ? " • Wind " + Math.round(wind) + " km/h" : "")}`;
-        } else {
-          el.textContent = "Weather: open the Weather button above";
-        }
-      } catch(e){
-        el.textContent = "Weather: open the Weather button above";
-      }
-    }
-
-    /* =======================
-       NOTES (local save)
-       ======================= */
-    function initNotes(){
-      const notes = document.getElementById("notesBox");
-      const status = document.getElementById("notesStatus");
-      const KEY = "kays_page_notes_v7";
-
-      notes.value = localStorage.getItem(KEY) || "";
-
-      let t = null;
-      notes.addEventListener("input", () => {
-        status.textContent = "Saving…";
-        clearTimeout(t);
-        t = setTimeout(() => {
-          localStorage.setItem(KEY, notes.value);
-          status.textContent = "Saved.";
-        }, 250);
-      });
-    }
-
-    /* =======================
-       LOCAL PHOTO CAROUSEL (fav1.jpg..fav10.jpg)
-       - does NOT error if some are missing
-       - silently uses only the ones that exist
-       ======================= */
-    function fileExists(url){
-      return new Promise(resolve => {
-        const img = new Image();
-        img.onload = () => resolve(true);
-        img.onerror = () => resolve(false);
-        img.src = url + "?v=" + Date.now(); // mild cache bust
-      });
-    }
-
-    async function initLocalCarousel(){
-      const imgEl = document.getElementById("localCarouselImg");
-      const statusEl = document.getElementById("carouselStatus");
-      const candidates = [];
-      for(let i=1;i<=10;i++) candidates.push(`fav${i}.jpg`);
-
-      const available = [];
-      // Check sequentially (gentler on slow machines / networks)
-      for(const f of candidates){
-        // If you haven't uploaded it yet, this returns false and we skip it.
-        const ok = await fileExists(f);
-        if(ok) available.push(f);
-      }
-
-      if(!available.length){
-        statusEl.textContent = "Add fav1.jpg, fav2.jpg, … to show favourites.";
-        return;
-      }
-
-      let idx = 0;
-      imgEl.src = available[0];
-
-      statusEl.textContent = `Showing ${available.length} favourite photo${available.length===1?"":"s"}.`;
-
-      setInterval(() => {
-        idx = (idx + 1) % available.length;
-        imgEl.src = available[idx] + "?v=" + Date.now();
-      }, 6500);
-    }
-
-    /* =======================
-       HEADLINES (most reliable we can do on pure GitHub Pages)
-       Strategy order per feed:
-       1) Direct fetch (rare)
-       2) AllOrigins raw
-       3) corsproxy.io
-       4) Jina proxy
-       If all fail: show calm fallback links (never stuck on “Loading…”)
-       ======================= */
-
-    const FEEDS = {
-      canada: [
-        { name: "CBC Top Stories", url: "https://www.cbc.ca/webfeed/rss/rss-topstories" }
-      ],
-      nl: [
-        { name: "CBC Newfoundland & Labrador", url: "https://www.cbc.ca/webfeed/rss/rss-canada-newfoundland" },
-        { name: "VOCM", url: "https://vocm.com/feed/" }
-      ],
-      world: [
-        { name: "BBC World", url: "https://feeds.bbci.co.uk/news/rss.xml?edition=int" },
-        { name: "CNN Top Stories", url: "https://rss.cnn.com/rss/cnn_topstories.rss" }
-      ]
-    };
-
-    const MIX = { canada: 7, nl: 7, world: 7 };
-    const SNIPPET_LEN = 240;
-
-    function stripHtml(s){
-      if(!s) return "";
-      return s.replace(/<[^>]*>/g, " ").replace(/\s+/g," ").trim();
-    }
-
-    function pickFirstText(el, selector){
-      const n = el.querySelector(selector);
-      return n ? (n.textContent || "").trim() : "";
-    }
-
-    function pickLink(item){
-      const linkEl = item.querySelector("link");
-      if(!linkEl) return "";
-      const href = linkEl.getAttribute("href");
-      return (href && href.trim()) ? href.trim() : (linkEl.textContent || "").trim();
-    }
-
-    function pickImageFromDescription(html){
-      if(!html) return null;
-      const m = html.match(/<img[^>]+src=["']([^"']+)["']/i);
-      return m ? m[1] : null;
-    }
-
-    function pickImage(item){
-      const media = item.querySelector("media\\:content[url], content[url]");
-      if(media && media.getAttribute("url")) return media.getAttribute("url");
-
-      const enclosure = item.querySelector("enclosure[url]");
-      if(enclosure) return enclosure.getAttribute("url");
-
-      const descHtml = item.querySelector("description")?.textContent || "";
-      return pickImageFromDescription(descHtml);
-    }
-
-    function parseXmlToItems(feed, xmlText){
-      const doc = new DOMParser().parseFromString(xmlText, "text/xml");
-      if(doc.querySelector("parsererror")) throw new Error("XML parse error");
-
-      const items = Array.from(doc.querySelectorAll("item"));
-      const entries = items.length ? items : Array.from(doc.querySelectorAll("entry")); // Atom fallback
-      if(!entries.length) throw new Error("No items");
-
-      return entries.map(it => {
-        const title = pickFirstText(it, "title");
-        const link = pickLink(it);
-
-        const descHtml =
-          pickFirstText(it, "description") ||
-          pickFirstText(it, "summary") ||
-          pickFirstText(it, "content");
-
-        const snippet = stripHtml(descHtml).slice(0, SNIPPET_LEN);
-
-        const pub = pickFirstText(it, "pubDate") || pickFirstText(it, "updated") || pickFirstText(it, "published");
-        const pubDate = pub ? new Date(pub) : null;
-
-        return {
-          source: feed.name,
-          title,
-          link,
-          snippet,
-          pubDate,
-          image: pickImage(it) || pickImageFromDescription(descHtml)
-        };
-      });
-    }
-
-    function allOriginsUrl(url){
-      return "https://api.allorigins.win/raw?url=" + encodeURIComponent(url);
-    }
-    function corsproxyUrl(url){
-      // corsproxy.io expects: https://corsproxy.io/?<encoded-url>
-      return "https://corsproxy.io/?" + encodeURIComponent(url);
-    }
-    function jinaUrl(url){
-      // Jina proxy: returns remote content as text
-      return "https://r.jina.ai/http://" + url.replace(/^https?:\/\//, "");
-    }
-
-    async function fetchTextSmart(url){
-      const tries = [
-        { name:"direct",     u: url },
-        { name:"allorigins", u: allOriginsUrl(url) },
-        { name:"corsproxy",  u: corsproxyUrl(url) },
-        { name:"jina",       u: jinaUrl(url) }
-      ];
-
-      let lastErr = null;
-      for(const t of tries){
-        try{
-          const res = await withTimeout(fetch(t.u, { cache:"no-store" }), 9000);
-          if(!res.ok) throw new Error(`${t.name} HTTP ${res.status}`);
-          const text = await res.text();
-          // quick sanity check (avoid HTML error pages)
-          if(text.length < 50) throw new Error(`${t.name} empty`);
-          return text;
-        } catch(e){
-          lastErr = e;
-        }
-      }
-      throw lastErr || new Error("fetch failed");
-    }
-
-    async function fetchFeedSmart(feed){
-      const xmlText = await fetchTextSmart(feed.url);
-      return parseXmlToItems(feed, xmlText);
-    }
-
-    function pickTop(items, n){ return items.slice(0, n); }
-
-    function newsCard(item){
-      const el = document.createElement("div");
-      el.className = "news-item";
-
-      const thumb = document.createElement("div");
-      thumb.className = "news-thumb";
-
-      if(item.image){
-        const img = document.createElement("img");
-        img.src = item.image;
-        img.alt = "";
-        img.loading = "lazy";
-        thumb.appendChild(img);
-      } else {
-        thumb.innerHTML = "<div style='font-size:40px; opacity:.35'>📰</div>";
-      }
-
-      const body = document.createElement("div");
-      body.className = "news-body";
-
-      const h = document.createElement("p");
-      h.className = "news-title";
-
-      const a = document.createElement("a");
-      a.href = item.link || "#";
-      a.target = "_blank";
-      a.rel = "noopener noreferrer";
-      a.textContent = item.title || "(no title)";
-      h.appendChild(a);
-
-      const snip = document.createElement("p");
-      snip.className = "news-snippet";
-      snip.textContent = item.snippet ? (item.snippet + (item.snippet.length >= SNIPPET_LEN ? "…" : "")) : "";
-
-      const meta = document.createElement("div");
-      meta.className = "news-meta";
-      const d = item.pubDate ? item.pubDate : null;
-      meta.textContent = item.source + (d ? (" • " + new Intl.DateTimeFormat(undefined, { month:"short", day:"numeric" }).format(d)) : "");
-
-      body.appendChild(h);
-      body.appendChild(snip);
-      body.appendChild(meta);
-
-      el.appendChild(thumb);
-      el.appendChild(body);
-      return el;
-    }
-
-    function showFallbackHeadlineLinks(statusEl){
-      statusEl.innerHTML = `
-        Headlines are unavailable right now.<br>
-        <a href="https://www.cbc.ca/news" target="_blank" rel="noopener noreferrer">CBC News</a> •
-        <a href="https://vocm.com/" target="_blank" rel="noopener noreferrer">VOCM</a> •
-        <a href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">BBC</a> •
-        <a href="https://www.cnn.com/" target="_blank" rel="noopener noreferrer">CNN</a>
-      `;
-    }
-
-    async function loadHeadlines(){
-      const grid = document.getElementById("newsGrid");
-      const status = document.getElementById("newsStatus");
-
-      status.textContent = "Loading headlines…";
-      grid.innerHTML = "";
-
-      try{
-        const tasks = [];
-        for(const group of Object.keys(FEEDS)){
-          for(const f of FEEDS[group]){
-            tasks.push(fetchFeedSmart(f).then(items => ({group, items})));
-          }
-        }
-
-        // Don't let one slow feed block forever
-        const results = await withTimeout(Promise.all(tasks), 18000);
-
-        const grouped = { canada: [], nl: [], world: [] };
-        for(const r of results){
-          if(grouped[r.group]) grouped[r.group].push(...r.items);
-        }
-
-        const chosen = [
-          ...pickTop(grouped.canada, MIX.canada),
-          ...pickTop(grouped.nl, MIX.nl),
-          ...pickTop(grouped.world, MIX.world)
-        ].filter(x => x && x.link && x.title);
-
-        if(!chosen.length){
-          showFallbackHeadlineLinks(status);
-          return;
-        }
-
-        for(const item of chosen){
-          grid.appendChild(newsCard(item));
-        }
-
-        status.textContent = "Headlines updated.";
-      } catch(e){
-        showFallbackHeadlineLinks(status);
-      }
-    }
-
-    /* =======================
-       CONTROLS
-       ======================= */
-    function initControls(){
-      const root = document.getElementById("pageRoot");
-
-      document.getElementById("toggleColumnsBtn").addEventListener("click", () => {
-        root.classList.toggle("two-across");
-      });
-
-      document.getElementById("refreshBtn").addEventListener("click", () => {
-        loadWeather();
-        loadHeadlines();
-      });
-    }
-
-    /* boot */
-    initDate();
-    initNotes();
-    initControls();
+<script>
+/* =======================
+   PAGE SELF-HEALING
+   ======================= */
+setTimeout(() => {
+  const url = new URL(window.location.href);
+  url.searchParams.set("v", Date.now().toString());
+  window.location.replace(url.toString());
+}, 20 * 60 * 1000);
+
+/* =======================
+   DATE
+   ======================= */
+function formatDate(d){
+  try{
+    return new Intl.DateTimeFormat(undefined, { weekday:"long", year:"numeric", month:"long", day:"numeric" }).format(d);
+  }catch(e){ return d.toDateString(); }
+}
+function initDate(){
+  document.getElementById("todayText").textContent = formatDate(new Date());
+  setInterval(() => document.getElementById("todayText").textContent = formatDate(new Date()), 60*1000);
+}
+
+/* =======================
+   WEATHER (best-effort)
+   ======================= */
+const STJ_LAT=47.5615, STJ_LON=-52.7126;
+function weatherCodeToText(code){
+  const m={0:"Clear",1:"Mainly clear",2:"Partly cloudy",3:"Cloudy",45:"Fog",48:"Fog",51:"Drizzle",53:"Drizzle",55:"Drizzle",
+    56:"Freezing drizzle",57:"Freezing drizzle",61:"Rain",63:"Rain",65:"Heavy rain",66:"Freezing rain",67:"Freezing rain",
+    71:"Snow",73:"Snow",75:"Heavy snow",77:"Snow",80:"Showers",81:"Showers",82:"Heavy showers",85:"Snow showers",86:"Heavy snow showers",
+    95:"Thunderstorm",96:"Thunderstorm",99:"Thunderstorm"};
+  return (code in m)?m[code]:"Weather";
+}
+async function loadWeather(){
+  const el=document.getElementById("weatherLine");
+  try{
+    const url="https://api.open-meteo.com/v1/forecast"
+      + "?latitude="+encodeURIComponent(STJ_LAT)
+      + "&longitude="+encodeURIComponent(STJ_LON)
+      + "&current=temperature_2m,weather_code,wind_speed_10m"
+      + "&temperature_unit=celsius&wind_speed_unit=kmh&timezone=America%2FSt_Johns";
+    const res=await fetch(url, {cache:"no-store"});
+    if(!res.ok) throw new Error("weather http "+res.status);
+    const data=await res.json();
+    const t=data?.current?.temperature_2m, w=data?.current?.weather_code, wind=data?.current?.wind_speed_10m;
+    el.textContent=`St. John’s: ${Math.round(t)}°C • ${weatherCodeToText(w)}${(wind!=null ? " • Wind "+Math.round(wind)+" km/h" : "")}`;
+  }catch(e){
+    el.textContent="St. John’s: Weather";
+  }
+}
+
+/* =======================
+   NOTES (local save)
+   ======================= */
+function initNotes(){
+  const notes=document.getElementById("notesBox");
+  const status=document.getElementById("notesStatus");
+  const KEY="kays_page_notes_v7";
+  notes.value=localStorage.getItem(KEY)||"";
+  let t=null;
+  notes.addEventListener("input", ()=>{
+    status.textContent="Saving…";
+    clearTimeout(t);
+    t=setTimeout(()=>{ localStorage.setItem(KEY, notes.value); status.textContent="Saved."; }, 250);
+  });
+}
+
+/* =======================
+   FAVOURITES (local files fav1.jpg..fav10.jpg)
+   - NO black boxes: we only display once an image successfully loads
+   - If none exist, shows "No favourites yet."
+   ======================= */
+async function loadFavourites(){
+  const imgEl=document.getElementById("favImg");
+  const fallback=document.getElementById("favFallback");
+
+  const candidates=[];
+  for(let i=1;i<=10;i++) candidates.push(`fav${i}.jpg`);
+
+  // Find loadable images by trying to load them (same-origin 404 is fine)
+  const available=[];
+  await Promise.all(candidates.map(src => new Promise(resolve=>{
+    const img=new Image();
+    img.onload=()=>{ available.push(src); resolve(); };
+    img.onerror=()=>resolve();
+    img.src=src + "?v=" + Date.now(); // bust cache if you just uploaded
+  })));
+
+  if(!available.length){
+    imgEl.style.display="none";
+    fallback.style.display="flex";
+    return;
+  }
+
+  fallback.style.display="none";
+  imgEl.style.display="block";
+
+  let idx=0;
+  const show = (src)=>{
+    // swap with fade-less simplicity (avoid animations on older GPUs)
+    imgEl.src = src;
+  };
+
+  show(available[idx]);
+
+  setInterval(()=>{
+    idx=(idx+1)%available.length;
+    show(available[idx]);
+  }, 9000);
+}
+
+/* =======================
+   HEADLINES
+   CRITICAL CHANGE:
+   - First try your own cached JSON: ./data/headlines.json (generated by GitHub Action below)
+   - If missing, try live proxies (best-effort)
+   ======================= */
+
+const MIX = { canada: 7, nl: 7, world: 7 };
+const SNIPPET_LEN = 220;
+
+function stripHtml(s){
+  if(!s) return "";
+  return s.replace(/<[^>]*>/g, " ").replace(/\s+/g," ").trim();
+}
+
+function newsCard(item){
+  const el=document.createElement("div");
+  el.className="news-item";
+
+  const thumb=document.createElement("div");
+  thumb.className="news-thumb";
+
+  if(item.image){
+    const img=document.createElement("img");
+    img.src=item.image;
+    img.alt="";
+    img.loading="lazy";
+    thumb.appendChild(img);
+  }else{
+    thumb.innerHTML="<div style='font-size:40px; opacity:.35'>📰</div>";
+  }
+
+  const body=document.createElement("div");
+  body.className="news-body";
+
+  const h=document.createElement("p");
+  h.className="news-title";
+
+  const a=document.createElement("a");
+  a.href=item.link || "#";
+  a.target="_blank";
+  a.rel="noopener noreferrer";
+  a.textContent=item.title || "(no title)";
+  h.appendChild(a);
+
+  const snip=document.createElement("p");
+  snip.className="news-snippet";
+  snip.textContent=item.snippet ? (item.snippet + (item.snippet.length >= SNIPPET_LEN ? "…" : "")) : "";
+
+  const meta=document.createElement("div");
+  meta.className="news-meta";
+  meta.textContent=item.source || "";
+
+  body.appendChild(h); body.appendChild(snip); body.appendChild(meta);
+
+  el.appendChild(thumb); el.appendChild(body);
+  return el;
+}
+
+function renderHeadlines(items){
+  const grid=document.getElementById("newsGrid");
+  const status=document.getElementById("newsStatus");
+  grid.innerHTML="";
+  for(const it of items) grid.appendChild(newsCard(it));
+  status.textContent="Headlines updated.";
+}
+
+function renderHeadlineFallback(){
+  const status=document.getElementById("newsStatus");
+  status.innerHTML = `
+    Headlines aren’t loading right now.<br>
+    <a href="https://www.cbc.ca/news" target="_blank" rel="noopener noreferrer">CBC News</a> •
+    <a href="https://vocm.com/" target="_blank" rel="noopener noreferrer">VOCM</a> •
+    <a href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">BBC</a> •
+    <a href="https://www.cnn.com/" target="_blank" rel="noopener noreferrer">CNN</a>
+  `;
+}
+
+async function loadHeadlinesFromLocal(){
+  // Generated by GitHub Action (recommended)
+  const url = "./data/headlines.json?v=" + Date.now();
+  const res = await fetch(url, { cache:"no-store" });
+  if(!res.ok) throw new Error("no local headlines");
+  const data = await res.json();
+  if(!Array.isArray(data.items) || !data.items.length) throw new Error("empty local headlines");
+  return data.items;
+}
+
+/* Best-effort live feed fallback (may be blocked on some machines/networks) */
+const FEEDS = {
+  canada: [{ name:"CBC Top Stories", url:"https://www.cbc.ca/webfeed/rss/rss-topstories" }],
+  nl: [
+    { name:"CBC Newfoundland & Labrador", url:"https://www.cbc.ca/webfeed/rss/rss-canada-newfoundland" },
+    { name:"VOCM", url:"https://vocm.com/feed/" }
+  ],
+  world: [
+    { name:"BBC World", url:"https://feeds.bbci.co.uk/news/rss.xml?edition=int" },
+    { name:"CNN Top Stories", url:"https://rss.cnn.com/rss/cnn_topstories.rss" }
+  ]
+};
+
+function withTimeout(promise, ms){
+  return Promise.race([promise, new Promise((_,rej)=>setTimeout(()=>rej(new Error("timeout")), ms))]);
+}
+
+function pickImageFromDescription(html){
+  if(!html) return null;
+  const m = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+  return m ? m[1] : null;
+}
+
+function allOriginsUrl(url){ return "https://api.allorigins.win/raw?url="+encodeURIComponent(url); }
+function corsProxyIo(url){ return "https://corsproxy.io/?"+encodeURIComponent(url); }
+function jinaUrl(url){ return "https://r.jina.ai/http://" + url.replace(/^https?:\/\//,""); }
+
+function parseXmlToItems(feed, xmlText){
+  const doc = new DOMParser().parseFromString(xmlText, "text/xml");
+  if(doc.querySelector("parsererror")) throw new Error("XML parse error");
+  const items = Array.from(doc.querySelectorAll("item"));
+  const entries = items.length ? items : Array.from(doc.querySelectorAll("entry"));
+  if(!entries.length) throw new Error("No items");
+
+  const pickFirst=(it, sel)=> (it.querySelector(sel)?.textContent || "").trim();
+  const pickLink=(it)=>{
+    const linkEl=it.querySelector("link");
+    if(!linkEl) return "";
+    const href=linkEl.getAttribute("href");
+    return (href && href.trim()) ? href.trim() : (linkEl.textContent || "").trim();
+  };
+  const pickImg=(it, descHtml)=>{
+    const media = it.querySelector("media\\:content[url], content[url]");
+    if(media && media.getAttribute("url")) return media.getAttribute("url");
+    const enclosure = it.querySelector("enclosure[url]");
+    if(enclosure) return enclosure.getAttribute("url");
+    return pickImageFromDescription(descHtml);
+  };
+
+  return entries.map(it=>{
+    const title=pickFirst(it,"title");
+    const link=pickLink(it);
+    const descHtml=pickFirst(it,"description") || pickFirst(it,"summary") || pickFirst(it,"content");
+    const snippet=stripHtml(descHtml).slice(0,SNIPPET_LEN);
+    return { source: feed.name, title, link, snippet, image: pickImg(it, descHtml) };
+  });
+}
+
+async function fetchVia(url){
+  const res = await withTimeout(fetch(url, {cache:"no-store"}), 8000);
+  if(!res.ok) throw new Error("http "+res.status);
+  return await res.text();
+}
+
+async function fetchFeedSmart(feed){
+  const tries = [
+    () => fetchVia(feed.url),                       // direct (rare)
+    () => fetchVia(allOriginsUrl(feed.url)),
+    () => fetchVia(corsProxyIo(feed.url)),
+    () => fetchVia(jinaUrl(feed.url)),
+  ];
+  let lastErr=null;
+  for(const t of tries){
+    try{
+      const xml = await t();
+      return parseXmlToItems(feed, xml);
+    }catch(e){ lastErr=e; }
+  }
+  throw lastErr || new Error("feed failed");
+}
+
+function pickTop(items, n){ return items.slice(0,n); }
+
+async function loadHeadlinesLive(){
+  const tasks=[];
+  for(const group of Object.keys(FEEDS)){
+    for(const f of FEEDS[group]) tasks.push(fetchFeedSmart(f).then(items=>({group, items})));
+  }
+  const results = await Promise.all(tasks);
+  const grouped={canada:[], nl:[], world:[]};
+  for(const r of results){ if(grouped[r.group]) grouped[r.group].push(...r.items); }
+
+  const chosen=[
+    ...pickTop(grouped.canada, MIX.canada),
+    ...pickTop(grouped.nl, MIX.nl),
+    ...pickTop(grouped.world, MIX.world),
+  ].filter(x=>x && x.title && x.link);
+
+  if(!chosen.length) throw new Error("no headlines");
+  return chosen;
+}
+
+async function loadHeadlines(){
+  const status=document.getElementById("newsStatus");
+  status.textContent="Loading headlines…";
+
+  // 1) Local JSON (recommended)
+  try{
+    const items = await loadHeadlinesFromLocal();
+    renderHeadlines(items);
+    return;
+  }catch(e){
+    // fall through
+  }
+
+  // 2) Live best-effort
+  try{
+    const items = await loadHeadlinesLive();
+    renderHeadlines(items);
+    return;
+  }catch(e){
+    renderHeadlineFallback();
+  }
+}
+
+/* =======================
+   CONTROLS
+   ======================= */
+function initControls(){
+  const root=document.getElementById("pageRoot");
+  document.getElementById("toggleColumnsBtn").addEventListener("click", ()=> root.classList.toggle("two-across"));
+  document.getElementById("refreshBtn").addEventListener("click", ()=>{
     loadWeather();
-    initLocalCarousel();
     loadHeadlines();
-  </script>
+  });
+}
+
+/* boot */
+initDate();
+initNotes();
+initControls();
+loadWeather();
+loadFavourites();
+loadHeadlines();
+</script>
 </body>
 </html>
