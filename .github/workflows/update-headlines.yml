@@ -30,8 +30,9 @@ jobs:
         shell: bash
         run: |
           python - << 'PY'
-          import json, os, re, urllib.request, xml.etree.ElementTree as ET
-          from datetime import datetime
+          import json, os, re, urllib.request
+          import xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
 
           OUT_DIR = "data"
           OUT_PATH = os.path.join(OUT_DIR, "headlines.json")
@@ -47,7 +48,13 @@ jobs:
           MAX_ITEMS_PER_FEED = 6
           SNIPPET_LEN = 180
 
+          # og:image fallback (keep small so the job stays fast)
+          ENABLE_OG_IMAGE = True
+          OG_MAX = 10
+          OG_TIMEOUT_SEC = 6
+
           IMG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.I)
+          OG_RE  = re.compile(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', re.I)
 
           def strip_html(s: str) -> str:
             if not s:
@@ -63,6 +70,9 @@ jobs:
             )
             with urllib.request.urlopen(req, timeout=timeout) as resp:
               return resp.read()
+
+          def fetch_text(url: str, timeout: int) -> str:
+            return fetch_url(url, timeout).decode("utf-8", errors="replace")
 
           def localname(tag: str) -> str:
             return tag.split("}")[-1] if "}" in tag else tag
@@ -86,10 +96,12 @@ jobs:
             return ""
 
           def find_description_html(elem):
-            for key in ("description", "summary", "content"):
-              txt = find_first_child_text(elem, {key})
-              if txt:
-                return txt
+            # Try content:encoded (namespace or not), then description/summary/content
+            for child in list(elem):
+              if localname(child.tag) in ("encoded", "description", "summary", "content"):
+                txt = (child.text or "").strip()
+                if txt:
+                  return txt
             return ""
 
           def image_from_description(html):
@@ -99,28 +111,28 @@ jobs:
             return m.group(1).strip() if m else None
 
           def find_image(elem, desc_html):
-            # media:content url="..."
+            # 1) media:thumbnail url="..."
+            for child in list(elem):
+              if localname(child.tag) == "thumbnail":
+                url = (child.attrib.get("url") or "").strip()
+                if url:
+                  return url
+
+            # 2) media:content url="..."
             for child in list(elem):
               if localname(child.tag) == "content":
                 url = (child.attrib.get("url") or "").strip()
                 if url:
                   return url
 
-            # Look for any tag ending in ":content" or "media:content"
-            for child in list(elem):
-              if localname(child.tag) == "content" and "media" in child.tag:
-                url = (child.attrib.get("url") or "").strip()
-                if url:
-                  return url
-
-            # enclosure url="..."
+            # 3) enclosure url="..."
             for child in list(elem):
               if localname(child.tag) == "enclosure":
                 url = (child.attrib.get("url") or "").strip()
                 if url:
                   return url
 
-            # fallback: <img src> inside description
+            # 4) fallback: <img src> inside description
             return image_from_description(desc_html)
 
           def parse_items(xml_bytes: bytes):
@@ -128,8 +140,16 @@ jobs:
             items = root.findall(".//item")
             if items:
               return items, "rss"
-            entries = root.findall(".//{*}entry")
+            entries = root.findall(".//{*}entry")  # atom
             return entries, "atom"
+
+          def og_image(url: str):
+            try:
+              html = fetch_text(url, OG_TIMEOUT_SEC)
+              m = OG_RE.search(html)
+              return m.group(1).strip() if m else None
+            except Exception:
+              return None
 
           all_items = []
           errors = []
@@ -155,7 +175,7 @@ jobs:
                 )
                 pub = (pub or "").strip()[:60]
 
-                image = find_image(it, desc_html)
+                image = find_image(it, desc_html) or ""
 
                 all_items.append({
                   "source": name,
@@ -163,15 +183,31 @@ jobs:
                   "link": link,
                   "snippet": snippet,
                   "pub": pub,
-                  "image": image or ""
+                  "image": image
                 })
 
             except Exception as e:
               errors.append(f"{name}: {e}")
 
+          # Fill missing images using og:image (limited)
+          if ENABLE_OG_IMAGE:
+            filled = 0
+            for item in all_items:
+              if filled >= OG_MAX:
+                break
+              if item.get("image"):
+                continue
+              link = item.get("link") or ""
+              if not link.startswith("http"):
+                continue
+              img = og_image(link)
+              if img:
+                item["image"] = img
+                filled += 1
+
           os.makedirs(OUT_DIR, exist_ok=True)
           payload = {
-            "generated_at": datetime.utcnow().isoformat() + "Z",
+            "generated_at": datetime.now(timezone.utc).isoformat(),
             "count": len(all_items),
             "items": all_items,
             "errors": errors,
