@@ -307,6 +307,23 @@
       transform: scale(1.01);
       transition: transform .2s ease;
     }
+    .album-stack{
+  display:grid;
+  gap:18px;              /* a touch more separation */
+}
+
+.album-stack .card h2{
+  margin-bottom:6px;     /* tighter title spacing */
+}
+
+.album-link img{
+  display:block;         /* prevents weird inline gaps */
+  width:100%;
+  border-radius:12px;
+  margin-top:10px;
+  box-shadow:0 2px 8px rgba(0,0,0,.15);
+  cursor:pointer;
+}
   </style>
 </head>
 
@@ -401,6 +418,7 @@ Elizabeth:"></textarea>
           <div class="status" id="notesStatus">Saved locally.</div>
         </div>
 
+        <div class="album-stack">
         <!-- Big clickable album image -->
         <div class="card">
           <h2>Family Album</h2>
@@ -432,6 +450,7 @@ Elizabeth:"></textarea>
         </div>
 
       </div>
+    </div>
     </section>
 
     <div class="footerhint">
