@@ -175,7 +175,7 @@ el.className="news-item"
 const thumb=document.createElement("div")
 thumb.className="news-thumb"
 
-if(item.image){
+if(item.image && item.image.length > 5){
 const img=document.createElement("img")
 img.src=item.image
 thumb.appendChild(img)
