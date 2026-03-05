@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Kay’s Page</title>
 
-  <!-- Gentle auto-refresh every 20 minutes (helps stale caches) -->
+  <!-- Gentle auto-refresh every 20 minutes -->
   <meta http-equiv="refresh" content="1200">
 
   <style>
@@ -17,6 +17,7 @@
     *{box-sizing:border-box}
     body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg)}
     .wrap{max-width:1200px;margin:0 auto;padding:14px;display:grid;gap:14px}
+
     header.hero{position:relative;border-radius:var(--radius);overflow:hidden;background:#000;box-shadow:var(--shadow);min-height:175px}
     header.hero::before{content:"";position:absolute;inset:0;
       background:linear-gradient(to bottom, rgba(0,0,0,.40), rgba(0,0,0,.58)), url("beach2.jpeg") center/cover no-repeat;
@@ -27,35 +28,61 @@
     .today{margin:0;font-size:var(--h2);color:rgba(255,255,255,.92);text-shadow:0 2px 12px rgba(0,0,0,.35)}
     .weatherline{margin:2px 0 0 0;font-size:18px;color:rgba(255,255,255,.95);text-shadow:0 2px 12px rgba(0,0,0,.35)}
     .controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center;justify-content:flex-end}
-    .pill{border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.14);color:#fff;padding:8px 10px;border-radius:999px;
-      font-size:var(--small);backdrop-filter:blur(6px);cursor:pointer;user-select:none;text-decoration:none;display:inline-block;text-align:center}
+
+    .pill{
+      border:1px solid rgba(255,255,255,.35);
+      background:rgba(255,255,255,.14);
+      color:#fff;padding:8px 10px;border-radius:999px;font-size:var(--small);
+      backdrop-filter:blur(6px);cursor:pointer;user-select:none;text-decoration:none;display:inline-block;text-align:center
+    }
     .pill:active{transform:translateY(1px)}
+
     .topbar{display:grid;gap:10px}
     .rowbar{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:10px}
     @media (max-width:1100px){.rowbar{grid-template-columns:repeat(4,minmax(0,1fr));}}
     @media (max-width:700px){.rowbar{grid-template-columns:repeat(2,minmax(0,1fr));}}
-    .bigbtn{display:block;text-align:center;background:#fff;border:1px solid #ddd;padding:14px 10px;border-radius:12px;font-size:20px;
-      text-decoration:none;color:#111;box-shadow:0 2px 6px rgba(0,0,0,.08);user-select:none;line-height:1.15}
-    .bigbtn:hover{background:#f3f3f3}.bigbtn:active{transform:translateY(1px)}
+
+    .bigbtn{
+      display:block;text-align:center;background:#fff;border:1px solid #ddd;padding:14px 10px;border-radius:12px;font-size:20px;
+      text-decoration:none;color:#111;box-shadow:0 2px 6px rgba(0,0,0,.08);user-select:none;line-height:1.15
+    }
+    .bigbtn:hover{background:#f3f3f3}
+    .bigbtn:active{transform:translateY(1px)}
+
     .grid-top{display:grid;gap:14px;grid-template-columns:1.2fr .8fr;align-items:start}
     @media (max-width:980px){.grid-top{grid-template-columns:1fr}}
+
     .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:var(--pad)}
     .card h2{margin:0 0 10px 0;font-size:22px}
     .muted{color:var(--muted);font-size:var(--body);line-height:1.35}
 
+    /* Headlines grid */
     .news-grid{display:grid;gap:12px;grid-template-columns:repeat(3,minmax(0,1fr))}
     .two-across .news-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
     @media (max-width:980px){.news-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
     @media (max-width:620px){.news-grid{grid-template-columns:1fr}}
+
     .news-item{border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#fff;display:flex;flex-direction:column;min-height:200px}
     .news-thumb{width:100%;height:130px;background:#e9e9e9;display:flex;align-items:center;justify-content:center;overflow:hidden}
     .news-thumb img{width:100%;height:100%;object-fit:cover;display:block}
+
+    /* If a feed has no image, show a clean "source tile" instead of blank */
+    .news-thumb.fallback{
+      background:#1a1a1a;
+      color:#fff;
+      font-weight:700;
+      font-size:22px;
+      letter-spacing:.5px;
+    }
+    .news-thumb.fallback span{opacity:.92}
+
     .news-body{padding:10px 12px 12px;display:flex;flex-direction:column;gap:6px}
     .news-title{font-size:18px;line-height:1.2;margin:0}
     .news-title a{color:var(--ink);text-decoration:none}
     .news-title a:hover{text-decoration:underline}
     .news-snippet{margin:0;color:var(--muted);font-size:16px;line-height:1.25}
     .news-meta{margin-top:auto;font-size:14px;color:#666}
+
     iframe.calendar{width:100%;height:420px;border:0;border-radius:12px;background:#fff}
     textarea.notes{width:100%;min-height:220px;border-radius:12px;border:1px solid var(--line);padding:12px;font-size:18px;line-height:1.3;resize:vertical;outline:none}
     .status{font-size:15px;color:#666;margin-top:8px;min-height:20px}
@@ -126,6 +153,7 @@
           <iframe class="calendar" id="calendarFrame"
             src="https://calendar.google.com/calendar/embed?src=kenkatbarry%40gmail.com&ctz=America%2FSt_Johns&mode=MONTH&showTitle=0&showTabs=0&showCalendars=0&showPrint=0"
             loading="lazy"></iframe>
+          <div class="status">If blank: hard refresh once (Ctrl+Shift+R). Also confirm the calendar is Public.</div>
         </div>
 
         <div class="card">
@@ -149,6 +177,7 @@ Elizabeth:"></textarea>
               <img src="Barry Family.JPG" alt="Barry Family">
             </a>
           </div>
+
           <div class="card">
             <h2>Family Album</h2>
             <div class="muted">Click the photo to open the album.</div>
@@ -157,7 +186,6 @@ Elizabeth:"></textarea>
             </a>
           </div>
         </div>
-
       </div>
     </section>
 
@@ -165,18 +193,14 @@ Elizabeth:"></textarea>
   </div>
 
 <script>
-/* =======================
-   PAGE SELF-HEALING
-   ======================= */
+/* Cache-busting reload every 20 minutes */
 setTimeout(() => {
   const url = new URL(window.location.href);
   url.searchParams.set("v", Date.now().toString());
   window.location.replace(url.toString());
 }, 20 * 60 * 1000);
 
-/* =======================
-   DATE
-   ======================= */
+/* DATE */
 function formatDate(d){
   try{
     return new Intl.DateTimeFormat(undefined, { weekday:"long", year:"numeric", month:"long", day:"numeric" }).format(d);
@@ -187,9 +211,7 @@ function initDate(){
   setInterval(() => document.getElementById("todayText").textContent = formatDate(new Date()), 60*1000);
 }
 
-/* =======================
-   WEATHER (best-effort)
-   ======================= */
+/* WEATHER (best effort) */
 const STJ_LAT=47.5615, STJ_LON=-52.7126;
 function weatherCodeToText(code){
   const m={0:"Clear",1:"Mainly clear",2:"Partly cloudy",3:"Cloudy",45:"Fog",48:"Fog",51:"Drizzle",53:"Drizzle",55:"Drizzle",
@@ -216,13 +238,11 @@ async function loadWeather(){
   }
 }
 
-/* =======================
-   NOTES (local save)
-   ======================= */
+/* NOTES (local save) */
 function initNotes(){
   const notes=document.getElementById("notesBox");
   const status=document.getElementById("notesStatus");
-  const KEY="kays_page_notes_v7";
+  const KEY="kays_page_notes_v8";
   notes.value=localStorage.getItem(KEY)||"";
   let t=null;
   notes.addEventListener("input", ()=>{
@@ -232,10 +252,7 @@ function initNotes(){
   });
 }
 
-/* =======================
-   FAVOURITES (fav1.jpg..fav10.jpg)
-   - Only shows images that successfully load
-   ======================= */
+/* FAVOURITES (local fav1.jpg..fav10.jpg) */
 async function loadFavourites(){
   const imgEl=document.getElementById("favImg");
   const fallback=document.getElementById("favFallback");
@@ -248,7 +265,7 @@ async function loadFavourites(){
     const img=new Image();
     img.onload=()=>{ available.push(src); resolve(); };
     img.onerror=()=>resolve();
-    img.src=src + "?v=" + Date.now(); // bust cache after upload
+    img.src=src + "?v=" + Date.now();
   })));
 
   if(!available.length){
@@ -261,63 +278,60 @@ async function loadFavourites(){
   imgEl.style.display="block";
 
   let idx=0;
-  imgEl.src = available[idx];
+  const show=(src)=>{ imgEl.src = src; };
+  show(available[idx]);
+
   setInterval(()=>{
     idx=(idx+1)%available.length;
-    imgEl.src = available[idx];
+    show(available[idx]);
   }, 9000);
 }
 
-/* =======================
-   HEADLINES
-   - FIRST: ./data/headlines.json (generated by workflow)
-   - FALLBACK: links only (don’t scare Kay)
-   ======================= */
-const SNIPPET_LEN = 220;
-
-function stripHtml(s){
-  if(!s) return "";
-  return s.replace(/<[^>]*>/g, " ").replace(/\s+/g," ").trim();
-}
+/* HEADLINES (reliable): load from ./data/headlines.json */
+function safeText(s){ return (s||"").toString(); }
 
 function newsCard(item){
-  const el = document.createElement("div");
-  el.className = "news-item";
+  const el=document.createElement("div");
+  el.className="news-item";
 
-  const thumb = document.createElement("div");
-  thumb.className = "news-thumb";
+  const thumb=document.createElement("div");
+  thumb.className="news-thumb";
 
-  // Only show image if it looks real (prevents broken image icons)
-  if(item.image && item.image.length > 5){
-    const img = document.createElement("img");
-    img.src = item.image;
-    img.alt = "";
-    img.loading = "lazy";
+  const imgUrl = (item.image || "").trim();
+
+  if(imgUrl){
+    const img=document.createElement("img");
+    img.src=imgUrl;
+    img.alt="";
+    img.loading="lazy";
     thumb.appendChild(img);
   } else {
-    thumb.innerHTML = "<div style='font-size:40px; opacity:.35'>📰</div>";
+    thumb.classList.add("fallback");
+    const label=document.createElement("span");
+    label.textContent=(item.source || "News").replace("Top Stories","").trim();
+    thumb.appendChild(label);
   }
 
-  const body = document.createElement("div");
-  body.className = "news-body";
+  const body=document.createElement("div");
+  body.className="news-body";
 
-  const h = document.createElement("p");
-  h.className = "news-title";
+  const h=document.createElement("p");
+  h.className="news-title";
 
-  const a = document.createElement("a");
-  a.href = item.link || "#";
-  a.target = "_blank";
-  a.rel = "noopener noreferrer";
-  a.textContent = item.title || "(no title)";
+  const a=document.createElement("a");
+  a.href=item.link || "#";
+  a.target="_blank";
+  a.rel="noopener noreferrer";
+  a.textContent=item.title || "(no title)";
   h.appendChild(a);
 
-  const snip = document.createElement("p");
-  snip.className = "news-snippet";
-  snip.textContent = item.snippet || "";
+  const snip=document.createElement("p");
+  snip.className="news-snippet";
+  snip.textContent=item.snippet || "";
 
-  const meta = document.createElement("div");
-  meta.className = "news-meta";
-  meta.textContent = item.source || "";
+  const meta=document.createElement("div");
+  meta.className="news-meta";
+  meta.textContent=item.source || "";
 
   body.appendChild(h);
   body.appendChild(snip);
@@ -328,59 +342,50 @@ function newsCard(item){
   return el;
 }
 
-/* THIS WAS THE MISSING PIECE */
-function renderHeadlines(items){
-  const grid = document.getElementById("newsGrid");
-  const status = document.getElementById("newsStatus");
-
-  grid.innerHTML = "";
-  items.forEach(item => grid.appendChild(newsCard(item)));
-
-  status.textContent = "Headlines updated.";
-}
-
 function renderHeadlineFallback(){
   const status=document.getElementById("newsStatus");
   status.innerHTML = `
     Headlines aren’t loading right now.<br>
     <a href="https://www.cbc.ca/news" target="_blank" rel="noopener noreferrer">CBC News</a> •
-    <a href="https://vocm.com/" target="_blank" rel="noopener noreferrer">VOCM</a> •
-    <a href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">BBC</a> •
-    <a href="https://www.cnn.com/" target="_blank" rel="noopener noreferrer">CNN</a>
+    <a href="https://vocm.com/" target="_blank" rel="noopener noreferrer">VOCM</a>
   `;
 }
 
-async function loadHeadlinesFromLocal(){
-  const url = "./data/headlines.json?v=" + Date.now();
-  const res = await fetch(url, { cache:"no-store" });
-  if(!res.ok) throw new Error("no local headlines");
-  const data = await res.json();
-  if(!Array.isArray(data.items) || !data.items.length) throw new Error("empty local headlines");
+function renderHeadlines(items){
+  const grid=document.getElementById("newsGrid");
+  const status=document.getElementById("newsStatus");
+  grid.innerHTML="";
 
-  // Normalize (in case workflow format changes)
-  return data.items.map(x => ({
-    source: x.source || "",
-    title: x.title || "",
-    link: x.link || "#",
-    snippet: (x.snippet || "").slice(0, SNIPPET_LEN),
-    image: x.image || ""
-  }));
+  const good = (items||[]).filter(x => x && x.title && x.link);
+
+  if(!good.length){
+    renderHeadlineFallback();
+    return;
+  }
+
+  for(const item of good){
+    grid.appendChild(newsCard(item));
+  }
+  status.textContent="Headlines updated.";
 }
 
 async function loadHeadlines(){
   const status=document.getElementById("newsStatus");
   status.textContent="Loading headlines…";
+
   try{
-    const items = await loadHeadlinesFromLocal();
-    renderHeadlines(items);
+    const url="./data/headlines.json?v=" + Date.now();
+    const res=await fetch(url, {cache:"no-store"});
+    if(!res.ok) throw new Error("no headlines json");
+    const data=await res.json();
+    if(!data || !Array.isArray(data.items)) throw new Error("bad headlines json");
+    renderHeadlines(data.items);
   }catch(e){
     renderHeadlineFallback();
   }
 }
 
-/* =======================
-   CONTROLS
-   ======================= */
+/* CONTROLS */
 function initControls(){
   const root=document.getElementById("pageRoot");
   document.getElementById("toggleColumnsBtn").addEventListener("click", ()=> root.classList.toggle("two-across"));
@@ -390,7 +395,7 @@ function initControls(){
   });
 }
 
-/* boot */
+/* Boot */
 initDate();
 initNotes();
 initControls();
