@@ -269,7 +269,7 @@
 
     textarea.notes{
       width:100%;
-      min-height: 220px; /* one more row-ish */
+      min-height: 220px;
       border-radius: 12px;
       border: 1px solid var(--line);
       padding: 12px;
@@ -302,33 +302,32 @@
       background: #eee;
     }
 
-    /* Nice subtle hover for clickable album photo (desktop only) */
+    .album-stack{
+      display:grid;
+      gap:18px;
+    }
+
+    .album-stack .card h2{
+      margin-bottom:6px;
+    }
+
+    .album-link img{
+      display:block;
+      width:100%;
+      border-radius:12px;
+      margin-top:10px;
+      box-shadow:0 2px 8px rgba(0,0,0,.15);
+      cursor:pointer;
+    }
+
     .album-link img:hover{
       transform: scale(1.01);
       transition: transform .2s ease;
     }
-    .album-stack{
-  display:grid;
-  gap:18px;              /* a touch more separation */
-}
-
-.album-stack .card h2{
-  margin-bottom:6px;     /* tighter title spacing */
-}
-
-.album-link img{
-  display:block;         /* prevents weird inline gaps */
-  width:100%;
-  border-radius:12px;
-  margin-top:10px;
-  box-shadow:0 2px 8px rgba(0,0,0,.15);
-  cursor:pointer;
-}
   </style>
 </head>
 
 <body>
-  <!-- default to 2 columns -->
   <div class="wrap two-across" id="pageRoot">
     <header class="hero">
       <div class="hero-content">
@@ -346,7 +345,6 @@
       </div>
     </header>
 
-    <!-- One row of big buttons -->
     <section class="topbar">
       <div class="rowbar">
         <a class="bigbtn" href="./">🏠 Home</a>
@@ -360,17 +358,14 @@
     </section>
 
     <section class="grid-top">
-      <!-- LEFT: HEADLINES -->
       <div class="card">
         <h2>Top Headlines</h2>
         <div class="news-grid" id="newsGrid"></div>
         <div class="status" id="newsStatus">Loading headlines…</div>
       </div>
 
-      <!-- RIGHT: PHOTOS + CALENDAR + NOTES + ALBUM -->
       <div style="display:grid; gap:14px;">
 
-        <!-- Small rotating photo strip (PublicAlbum carousel) -->
         <div class="card photo-frame">
           <h2>Family Photos</h2>
 
@@ -385,7 +380,6 @@
             <object data="https://lh3.googleusercontent.com/pw/AP1GczNL4O-3isNTPv2CtaKCiOYSWNeVPjTsACd_Ds1CF6YnDWsJJ3L8aV6OyOxsowzcf3Vwuo5YlJPCJBi9bxF7CVtHtxfb8MsDh1SHmI2GcGMJlcX42V0=w1920-h1080"></object>
           </div>
 
-          <!-- Fallback if PublicAlbum is blocked (shows the big family photo instead) -->
           <div id="photoFallback" style="display:none; margin-top:10px;">
             <img id="fallbackImg" src="Barry Family.JPG" alt="Family photo"
                  style="width:100%; height:220px; object-fit:cover; border-radius:12px;">
@@ -394,16 +388,15 @@
           <div class="status">A few favourites.</div>
         </div>
 
-        <!-- Calendar -->
         <div class="card">
           <h2>Calendar</h2>
           <iframe class="calendar" id="calendarFrame"
-            src="https://calendar.google.com/calendar/embed?src=en.canadian%23holiday%40group.v.calendar.google.com&ctz=America%2FSt_Johns&mode=MONTH"
+            src="https://calendar.google.com/calendar/embed?src=kenkatbarry%40gmail.com&ctz=America%2FSt_Johns&mode=MONTH&showTitle=0&showTabs=0&showCalendars=0&showPrint=0"
             loading="lazy">
           </iframe>
+          <div class="status">If it’s blank: refresh once (Ctrl+Shift+R). Public calendars sometimes take a minute to “stick”.</div>
         </div>
 
-        <!-- Notes -->
         <div class="card">
           <h2>Phone Numbers / Notes</h2>
           <div class="muted">Type numbers here. It saves automatically on this computer.</div>
@@ -419,38 +412,28 @@ Elizabeth:"></textarea>
         </div>
 
         <div class="album-stack">
-        <!-- Big clickable album image -->
-        <div class="card">
-          <h2>Kay's Album</h2>
-          <div class="muted">Click the photo to see all family pictures.</div>
+          <div class="card">
+            <h2>Kay’s Album</h2>
+            <div class="muted">Click the photo to open the album.</div>
+            <a class="album-link"
+               href="https://photos.app.goo.gl/JjsBHXuXaDUNkNSJ6"
+               target="_blank" rel="noopener noreferrer">
+              <img src="Barry Family.JPG" alt="Barry Family">
+            </a>
+          </div>
 
-          <a class="album-link"
-             href="https://photos.app.goo.gl/JjsBHXuXaDUNkNSJ6"
-             target="_blank" rel="noopener noreferrer">
-            <img src="Barry Family.JPG"
-                 alt="Barry Family"
-                 style="width:100%; border-radius:12px; margin-top:10px;
-                        box-shadow:0 2px 8px rgba(0,0,0,.15); cursor:pointer;">
-          </a>
-        </div>
-
-           <!-- Big clickable album image -->
-        <div class="card">
-          <h2>Family Album</h2>
-          <div class="muted">Click the photo to see all family pictures.</div>
-
-          <a class="album-link"
-             href="https://photos.app.goo.gl/Sq9NeQQtiAMys9LK6"
-             target="_blank" rel="noopener noreferrer">
-            <img src="Barry Misc.JPG"
-                 alt="Barry Misc"
-                 style="width:100%; border-radius:12px; margin-top:10px;
-                        box-shadow:0 2px 8px rgba(0,0,0,.15); cursor:pointer;">
-          </a>
+          <div class="card">
+            <h2>Family Album</h2>
+            <div class="muted">Click the photo to open the album.</div>
+            <a class="album-link"
+               href="https://photos.app.goo.gl/Sq9NeQQtiAMys9LK6"
+               target="_blank" rel="noopener noreferrer">
+              <img src="Barry Misc.JPG" alt="Barry Misc">
+            </a>
+          </div>
         </div>
 
       </div>
-    </div>
     </section>
 
     <div class="footerhint">
@@ -544,7 +527,7 @@ Elizabeth:"></textarea>
     function initNotes(){
       const notes = document.getElementById("notesBox");
       const status = document.getElementById("notesStatus");
-      const KEY = "kays_page_notes_v5";
+      const KEY = "kays_page_notes_v6";
 
       notes.value = localStorage.getItem(KEY) || "";
 
@@ -560,46 +543,130 @@ Elizabeth:"></textarea>
     }
 
     /* =======================
-       NEWS FEEDS
+       NEWS FEEDS (BULLETPROOF)
+       - Try AllOrigins + XML parsing first
+       - If blocked, fallback to rss2json
        ======================= */
-const FEEDS = {
-  canada: [
-    { name: "CBC Top Stories", url: "https://www.cbc.ca/webfeed/rss/rss-topstories" }
-  ],
-  nl: [
-    { name: "CBC Newfoundland & Labrador", url: "https://www.cbc.ca/webfeed/rss/rss-canada-newfoundland" },
-    { name: "VOCM", url: "https://vocm.com/feed/" }
-  ],
-  world: [
-    { name: "BBC World", url: "https://feeds.bbci.co.uk/news/rss.xml?edition=int" },
-    { name: "CNN Top Stories", url: "https://rss.cnn.com/rss/cnn_topstories.rss" }
-  ]
-}
+
+    const FEEDS = {
+      canada: [
+        { name: "CBC Top Stories", url: "https://www.cbc.ca/webfeed/rss/rss-topstories" }
+      ],
+      nl: [
+        { name: "CBC Newfoundland & Labrador", url: "https://www.cbc.ca/webfeed/rss/rss-canada-newfoundland" },
+        { name: "VOCM", url: "https://vocm.com/feed/" }
+      ],
+      world: [
+        { name: "BBC World", url: "https://feeds.bbci.co.uk/news/rss.xml?edition=int" },
+        { name: "CNN Top Stories", url: "https://rss.cnn.com/rss/cnn_topstories.rss" }
+      ]
+    };
 
     const MIX = { canada: 7, nl: 7, world: 7 };
     const SNIPPET_LEN = 240;
-
-    function rss2jsonUrl(rssUrl){
-      return "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(rssUrl);
-    }
 
     function stripHtml(s){
       if(!s) return "";
       return s.replace(/<[^>]*>/g, " ").replace(/\s+/g," ").trim();
     }
 
-    function chooseImage(item){
-      if(item && item.enclosure && item.enclosure.link) return item.enclosure.link;
-      if(item && item.thumbnail) return item.thumbnail;
-      return null;
+    function withTimeout(promise, ms){
+      return Promise.race([
+        promise,
+        new Promise((_, reject) => setTimeout(() => reject(new Error("timeout")), ms))
+      ]);
     }
 
-    async function fetchFeed(feed){
+    /* ---------- AllOrigins path ---------- */
+    function allOriginsUrl(url){
+      return "https://api.allorigins.win/raw?url=" + encodeURIComponent(url);
+    }
+
+    function pickFirstText(el, selector){
+      const n = el.querySelector(selector);
+      return n ? (n.textContent || "").trim() : "";
+    }
+
+    function pickLink(item){
+      // RSS <link>text</link> OR Atom <link href="...">
+      const linkEl = item.querySelector("link");
+      if(!linkEl) return "";
+      const href = linkEl.getAttribute("href");
+      return (href && href.trim()) ? href.trim() : (linkEl.textContent || "").trim();
+    }
+
+    function pickImageFromDescription(html){
+      if(!html) return null;
+      const m = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+      return m ? m[1] : null;
+    }
+
+    function pickImage(item){
+      // media:content url=""
+      const media = item.querySelector("media\\:content[url], content[url]");
+      if(media && media.getAttribute("url")) return media.getAttribute("url");
+
+      // enclosure url=""
+      const enclosure = item.querySelector("enclosure[url]");
+      if(enclosure) return enclosure.getAttribute("url");
+
+      // sometimes in <description> as <img src="...">
+      const descHtml = item.querySelector("description")?.textContent || "";
+      return pickImageFromDescription(descHtml);
+    }
+
+    async function fetchFeedAllOrigins(feed){
+      const res = await withTimeout(fetch(allOriginsUrl(feed.url), { cache: "no-store" }), 8000);
+      if(!res.ok) throw new Error(`AllOrigins HTTP ${res.status}`);
+      const xmlText = await res.text();
+
+      const doc = new DOMParser().parseFromString(xmlText, "text/xml");
+      // detect parser error (Firefox/Chrome differ, so check broadly)
+      if(doc.querySelector("parsererror")) throw new Error("XML parse error");
+
+      const items = Array.from(doc.querySelectorAll("item"));
+      const entries = items.length ? items : Array.from(doc.querySelectorAll("entry")); // Atom fallback
+      if(!entries.length) throw new Error("No items");
+
+      return entries.map(it => {
+        const title = pickFirstText(it, "title");
+        const link = pickLink(it);
+
+        const descHtml = pickFirstText(it, "description") || pickFirstText(it, "summary") || pickFirstText(it, "content");
+        const snippet = stripHtml(descHtml).slice(0, SNIPPET_LEN);
+
+        const pub = pickFirstText(it, "pubDate") || pickFirstText(it, "updated") || pickFirstText(it, "published");
+        const pubDate = pub ? new Date(pub) : null;
+
+        return {
+          source: feed.name,
+          title,
+          link,
+          snippet,
+          pubDate,
+          image: pickImage(it)
+        };
+      });
+    }
+
+    /* ---------- rss2json fallback ---------- */
+    function rss2jsonUrl(rssUrl){
+      return "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(rssUrl);
+    }
+
+    function chooseImageFromRss2Json(item){
+      if(item && item.enclosure && item.enclosure.link) return item.enclosure.link;
+      if(item && item.thumbnail) return item.thumbnail;
+      // sometimes description contains an <img>
+      return pickImageFromDescription(item?.description || item?.content || "");
+    }
+
+    async function fetchFeedRss2Json(feed){
       const url = rss2jsonUrl(feed.url) + "&_=" + Date.now();
-      const res = await fetch(url, { cache: "no-store" });
-      if(!res.ok) throw new Error(`HTTP ${res.status}`);
+      const res = await withTimeout(fetch(url, { cache: "no-store" }), 8000);
+      if(!res.ok) throw new Error(`rss2json HTTP ${res.status}`);
       const data = await res.json();
-      if(data.status !== "ok") throw new Error(data.message || "Feed error");
+      if(data.status !== "ok") throw new Error(data.message || "rss2json error");
 
       return (data.items || []).map(it => ({
         source: feed.name,
@@ -607,8 +674,17 @@ const FEEDS = {
         link: it.link || "#",
         snippet: stripHtml(it.description || it.content || "").slice(0, SNIPPET_LEN),
         pubDate: it.pubDate ? new Date(it.pubDate) : null,
-        image: chooseImage(it)
+        image: chooseImageFromRss2Json(it)
       }));
+    }
+
+    async function fetchFeedSmart(feed){
+      try{
+        return await fetchFeedAllOrigins(feed);
+      }catch(e1){
+        // fallback
+        return await fetchFeedRss2Json(feed);
+      }
     }
 
     function pickTop(items, n){ return items.slice(0, n); }
@@ -637,8 +713,9 @@ const FEEDS = {
       h.className = "news-title";
 
       const a = document.createElement("a");
-      a.href = item.link; 
-      a.target = "_blank";   
+      a.href = item.link || "#";
+      a.target = "_blank";
+      a.rel = "noopener noreferrer";
       a.textContent = item.title || "(no title)";
       h.appendChild(a);
 
@@ -672,8 +749,9 @@ const FEEDS = {
         try{
           const tasks = [];
           for(const group of Object.keys(FEEDS)){
-            for(const f of FEEDS[group]) tasks.push(fetchFeed(f).then(items => ({group, items})));
+            for(const f of FEEDS[group]) tasks.push(fetchFeedSmart(f).then(items => ({group, items})));
           }
+
           const results = await Promise.all(tasks);
 
           const grouped = { canada: [], nl: [], world: [] };
@@ -698,7 +776,8 @@ const FEEDS = {
         }
       }
 
-      status.textContent = "Loading headlines…";
+      // If both AllOrigins and rss2json are blocked, don’t scare Kay.
+      status.textContent = "Headlines are unavailable right now. Press Refresh.";
     }
 
     /* =======================
