@@ -543,19 +543,19 @@ Elizabeth:"></textarea>
     /* =======================
        NEWS FEEDS
        ======================= */
-    const FEEDS = {
-      canada: [
-        { name: "CBC Top Stories", url: "http://rss.cbc.ca/lineup/topstories.xml" }
-      ],
-      nl: [
-        { name: "CBC Newfoundland & Labrador", url: "http://rss.cbc.ca/lineup/canada-newfoundland.xml" },
-        { name: "VOCM", url: "https://vocm.com/feed/" }
-      ],
-      world: [
-        { name: "BBC World", url: "http://feeds.bbci.co.uk/news/rss.xml?edition=int" },
-        { name: "CNN Top Stories", url: "http://rss.cnn.com/rss/cnn_topstories.rss" }
-      ]
-    };
+const FEEDS = {
+  canada: [
+    { name: "CBC Top Stories", url: "https://www.cbc.ca/webfeed/rss/rss-topstories" }
+  ],
+  nl: [
+    { name: "CBC Newfoundland & Labrador", url: "https://www.cbc.ca/webfeed/rss/rss-canada-newfoundland" },
+    { name: "VOCM", url: "https://vocm.com/feed/" }
+  ],
+  world: [
+    { name: "BBC World", url: "https://feeds.bbci.co.uk/news/rss.xml?edition=int" },
+    { name: "CNN Top Stories", url: "https://rss.cnn.com/rss/cnn_topstories.rss" }
+  ]
+}
 
     const MIX = { canada: 7, nl: 7, world: 7 };
     const SNIPPET_LEN = 240;
