@@ -1,255 +1,402 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Kay’s Page</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Kay’s Page</title>
 
-<meta http-equiv="refresh" content="1200">
+  <!-- Gentle auto-refresh every 20 minutes (helps stale caches) -->
+  <meta http-equiv="refresh" content="1200">
 
-<style>
-body{
-  margin:0;
-  font-family:system-ui,Segoe UI,Arial;
-  background:#f6f6f4;
-}
+  <style>
+    :root{
+      --bg:#f6f6f4; --card:#fff; --ink:#1a1a1a; --muted:#555; --line:#ddd;
+      --shadow:0 2px 10px rgba(0,0,0,.08); --radius:14px; --pad:14px;
+      --h1:34px; --h2:20px; --body:18px; --small:15px;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg)}
+    .wrap{max-width:1200px;margin:0 auto;padding:14px;display:grid;gap:14px}
+    header.hero{position:relative;border-radius:var(--radius);overflow:hidden;background:#000;box-shadow:var(--shadow);min-height:175px}
+    header.hero::before{content:"";position:absolute;inset:0;
+      background:linear-gradient(to bottom, rgba(0,0,0,.40), rgba(0,0,0,.58)), url("beach2.jpeg") center/cover no-repeat;
+      filter:saturate(1.05);transform:scale(1.02)}
+    .hero-content{position:relative;padding:18px;display:flex;align-items:flex-end;justify-content:space-between;gap:12px;min-height:175px}
+    .titleblock{display:flex;flex-direction:column;gap:6px}
+    .site-title{margin:0;font-size:var(--h1);letter-spacing:.2px;color:#fff;text-shadow:0 2px 12px rgba(0,0,0,.35)}
+    .today{margin:0;font-size:var(--h2);color:rgba(255,255,255,.92);text-shadow:0 2px 12px rgba(0,0,0,.35)}
+    .weatherline{margin:2px 0 0 0;font-size:18px;color:rgba(255,255,255,.95);text-shadow:0 2px 12px rgba(0,0,0,.35)}
+    .controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center;justify-content:flex-end}
+    .pill{border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.14);color:#fff;padding:8px 10px;border-radius:999px;
+      font-size:var(--small);backdrop-filter:blur(6px);cursor:pointer;user-select:none;text-decoration:none;display:inline-block;text-align:center}
+    .pill:active{transform:translateY(1px)}
+    .topbar{display:grid;gap:10px}
+    .rowbar{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:10px}
+    @media (max-width:1100px){.rowbar{grid-template-columns:repeat(4,minmax(0,1fr));}}
+    @media (max-width:700px){.rowbar{grid-template-columns:repeat(2,minmax(0,1fr));}}
+    .bigbtn{display:block;text-align:center;background:#fff;border:1px solid #ddd;padding:14px 10px;border-radius:12px;font-size:20px;
+      text-decoration:none;color:#111;box-shadow:0 2px 6px rgba(0,0,0,.08);user-select:none;line-height:1.15}
+    .bigbtn:hover{background:#f3f3f3}.bigbtn:active{transform:translateY(1px)}
+    .grid-top{display:grid;gap:14px;grid-template-columns:1.2fr .8fr;align-items:start}
+    @media (max-width:980px){.grid-top{grid-template-columns:1fr}}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:var(--pad)}
+    .card h2{margin:0 0 10px 0;font-size:22px}
+    .muted{color:var(--muted);font-size:var(--body);line-height:1.35}
 
-.wrap{
-  max-width:1200px;
-  margin:auto;
-  padding:16px;
-}
+    .news-grid{display:grid;gap:12px;grid-template-columns:repeat(3,minmax(0,1fr))}
+    .two-across .news-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+    @media (max-width:980px){.news-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+    @media (max-width:620px){.news-grid{grid-template-columns:1fr}}
+    .news-item{border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#fff;display:flex;flex-direction:column;min-height:200px}
+    .news-thumb{width:100%;height:130px;background:#e9e9e9;display:flex;align-items:center;justify-content:center;overflow:hidden}
+    .news-thumb img{width:100%;height:100%;object-fit:cover;display:block}
+    .news-body{padding:10px 12px 12px;display:flex;flex-direction:column;gap:6px}
+    .news-title{font-size:18px;line-height:1.2;margin:0}
+    .news-title a{color:var(--ink);text-decoration:none}
+    .news-title a:hover{text-decoration:underline}
+    .news-snippet{margin:0;color:var(--muted);font-size:16px;line-height:1.25}
+    .news-meta{margin-top:auto;font-size:14px;color:#666}
+    iframe.calendar{width:100%;height:420px;border:0;border-radius:12px;background:#fff}
+    textarea.notes{width:100%;min-height:220px;border-radius:12px;border:1px solid var(--line);padding:12px;font-size:18px;line-height:1.3;resize:vertical;outline:none}
+    .status{font-size:15px;color:#666;margin-top:8px;min-height:20px}
+    .footerhint{font-size:14px;color:#666;text-align:center;padding:8px 0 18px}
 
-h1{margin:0;font-size:34px}
+    /* Favourites strip */
+    .fav-frame{border-radius:12px;overflow:hidden;background:#e9e9e9;position:relative;height:220px}
+    .fav-frame img{width:100%;height:100%;object-fit:cover;display:none}
+    .fav-frame .fav-fallback{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#666;font-size:18px}
 
-.grid{
-  display:grid;
-  grid-template-columns:2fr 1fr;
-  gap:16px;
-}
-
-.card{
-  background:white;
-  border-radius:14px;
-  padding:14px;
-  box-shadow:0 2px 10px rgba(0,0,0,.08);
-}
-
-.news-grid{
-  display:grid;
-  grid-template-columns:repeat(2,1fr);
-  gap:12px;
-}
-
-.news-item{
-  border:1px solid #ddd;
-  border-radius:10px;
-  overflow:hidden;
-}
-
-.news-thumb{
-  height:120px;
-  background:#e9e9e9;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-}
-
-.news-thumb img{
-  width:100%;
-  height:100%;
-  object-fit:cover;
-}
-
-.news-body{
-  padding:10px;
-}
-
-.news-title{
-  font-size:18px;
-  margin:0;
-}
-
-.news-snippet{
-  font-size:15px;
-  color:#555;
-}
-
-.news-meta{
-  font-size:14px;
-  color:#777;
-}
-
-.bigbtn{
-  display:block;
-  padding:14px;
-  border-radius:10px;
-  background:white;
-  text-decoration:none;
-  border:1px solid #ddd;
-  margin-bottom:8px;
-  font-size:18px;
-}
-
-iframe{
-  width:100%;
-  height:420px;
-  border:0;
-}
-
-textarea{
-  width:100%;
-  height:200px;
-  font-size:18px;
-}
-</style>
+    /* Album tiles */
+    .album-stack{display:grid;gap:18px}
+    .album-link img{display:block;width:100%;border-radius:12px;margin-top:10px;box-shadow:0 2px 8px rgba(0,0,0,.15);cursor:pointer}
+    .album-link img:hover{transform:scale(1.01);transition:transform .2s ease}
+  </style>
 </head>
 
 <body>
+  <div class="wrap two-across" id="pageRoot">
+    <header class="hero">
+      <div class="hero-content">
+        <div class="titleblock">
+          <h1 class="site-title">Kay’s Page</h1>
+          <p class="today" id="todayText">Loading date…</p>
+          <p class="weatherline" id="weatherLine">Loading weather…</p>
+        </div>
+        <div class="controls">
+          <a class="pill" href="./" title="Return to Kay’s Page">Home</a>
+          <div class="pill" id="toggleColumnsBtn" title="Switch headline columns">Toggle 2/3 columns</div>
+          <div class="pill" id="refreshBtn" title="Refresh">Refresh</div>
+        </div>
+      </div>
+    </header>
 
-<div class="wrap">
+    <section class="topbar">
+      <div class="rowbar">
+        <a class="bigbtn" href="./">🏠 Home</a>
+        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://tv.bell.ca/card/channel/CBCNH">📺 CBC (Bell)</a>
+        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://vocm.com/">📰 VOCM News</a>
+        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://www.cbc.ca/news">🟥 CBC News</a>
+        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://www.messenger.com/">💬 Messenger</a>
+        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/results?search_query=classical+music+live">🎵 Classical</a>
+        <a class="bigbtn" target="_blank" rel="noopener noreferrer" href="https://www.theweathernetwork.com/ca/weather/newfoundland-and-labrador/st-johns">🌦️ Weather</a>
+      </div>
+    </section>
 
-<h1>Kay’s Page</h1>
+    <section class="grid-top">
+      <!-- LEFT -->
+      <div class="card">
+        <h2>Top Headlines</h2>
+        <div class="news-grid" id="newsGrid"></div>
+        <div class="status" id="newsStatus">Loading headlines…</div>
+      </div>
 
-<div class="grid">
+      <!-- RIGHT -->
+      <div style="display:grid; gap:14px;">
+        <div class="card">
+          <h2>Family Photos</h2>
+          <div class="fav-frame" id="favFrame">
+            <div class="fav-fallback" id="favFallback">No favourites yet.</div>
+            <img id="favImg" alt="Favourite photo">
+          </div>
+          <div class="status">Rotates through fav1.jpg … fav10.jpg (only shows the ones that exist).</div>
+        </div>
 
-<div class="card">
-<h2>Top Headlines</h2>
-<div class="news-grid" id="newsGrid"></div>
-<div id="newsStatus">Loading headlines…</div>
-</div>
+        <div class="card">
+          <h2>Calendar</h2>
+          <iframe class="calendar" id="calendarFrame"
+            src="https://calendar.google.com/calendar/embed?src=kenkatbarry%40gmail.com&ctz=America%2FSt_Johns&mode=MONTH&showTitle=0&showTabs=0&showCalendars=0&showPrint=0"
+            loading="lazy"></iframe>
+        </div>
 
-<div>
+        <div class="card">
+          <h2>Phone Numbers / Notes</h2>
+          <div class="muted">Type numbers here. It saves automatically on this computer.</div>
+          <textarea class="notes" id="notesBox" placeholder="Doctor:
+Pharmacy:
+Jane:
+Clare:
+Estelle:
+Annmarie:
+Elizabeth:"></textarea>
+          <div class="status" id="notesStatus">Saved locally.</div>
+        </div>
 
-<div class="card">
+        <div class="album-stack">
+          <div class="card">
+            <h2>Kay’s Album</h2>
+            <div class="muted">Click the photo to open the album.</div>
+            <a class="album-link" href="https://photos.app.goo.gl/JjsBHXuXaDUNkNSJ6" target="_blank" rel="noopener noreferrer">
+              <img src="Barry Family.JPG" alt="Barry Family">
+            </a>
+          </div>
+          <div class="card">
+            <h2>Family Album</h2>
+            <div class="muted">Click the photo to open the album.</div>
+            <a class="album-link" href="https://photos.app.goo.gl/Sq9NeQQtiAMys9LK6" target="_blank" rel="noopener noreferrer">
+              <img src="Barry Misc.JPG" alt="Barry Misc">
+            </a>
+          </div>
+        </div>
 
-<a class="bigbtn" href="https://vocm.com/" target="_blank">VOCM News</a>
-<a class="bigbtn" href="https://www.cbc.ca/news" target="_blank">CBC News</a>
-<a class="bigbtn" href="https://www.messenger.com/" target="_blank">Messenger</a>
-<a class="bigbtn" href="https://tv.bell.ca/card/channel/CBCNH" target="_blank">CBC TV</a>
+      </div>
+    </section>
 
-</div>
-
-<div class="card">
-<h2>Calendar</h2>
-
-<iframe
-src="https://calendar.google.com/calendar/embed?src=kenkatbarry%40gmail.com&ctz=America%2FSt_Johns&mode=MONTH&showTitle=0">
-</iframe>
-
-</div>
-
-<div class="card">
-
-<h2>Notes</h2>
-
-<textarea id="notesBox"></textarea>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+    <div class="footerhint">Big buttons • Weather • Headlines • Calendar • Notes • Photos</div>
+  </div>
 
 <script>
+/* =======================
+   PAGE SELF-HEALING
+   ======================= */
+setTimeout(() => {
+  const url = new URL(window.location.href);
+  url.searchParams.set("v", Date.now().toString());
+  window.location.replace(url.toString());
+}, 20 * 60 * 1000);
 
-/* NOTES SAVE */
+/* =======================
+   DATE
+   ======================= */
+function formatDate(d){
+  try{
+    return new Intl.DateTimeFormat(undefined, { weekday:"long", year:"numeric", month:"long", day:"numeric" }).format(d);
+  }catch(e){ return d.toDateString(); }
+}
+function initDate(){
+  document.getElementById("todayText").textContent = formatDate(new Date());
+  setInterval(() => document.getElementById("todayText").textContent = formatDate(new Date()), 60*1000);
+}
 
-const notes=document.getElementById("notesBox")
-notes.value=localStorage.getItem("kay_notes")||""
+/* =======================
+   WEATHER (best-effort)
+   ======================= */
+const STJ_LAT=47.5615, STJ_LON=-52.7126;
+function weatherCodeToText(code){
+  const m={0:"Clear",1:"Mainly clear",2:"Partly cloudy",3:"Cloudy",45:"Fog",48:"Fog",51:"Drizzle",53:"Drizzle",55:"Drizzle",
+    56:"Freezing drizzle",57:"Freezing drizzle",61:"Rain",63:"Rain",65:"Heavy rain",66:"Freezing rain",67:"Freezing rain",
+    71:"Snow",73:"Snow",75:"Heavy snow",77:"Snow",80:"Showers",81:"Showers",82:"Heavy showers",85:"Snow showers",86:"Heavy snow showers",
+    95:"Thunderstorm",96:"Thunderstorm",99:"Thunderstorm"};
+  return (code in m)?m[code]:"Weather";
+}
+async function loadWeather(){
+  const el=document.getElementById("weatherLine");
+  try{
+    const url="https://api.open-meteo.com/v1/forecast"
+      + "?latitude="+encodeURIComponent(STJ_LAT)
+      + "&longitude="+encodeURIComponent(STJ_LON)
+      + "&current=temperature_2m,weather_code,wind_speed_10m"
+      + "&temperature_unit=celsius&wind_speed_unit=kmh&timezone=America%2FSt_Johns";
+    const res=await fetch(url, {cache:"no-store"});
+    if(!res.ok) throw new Error("weather http "+res.status);
+    const data=await res.json();
+    const t=data?.current?.temperature_2m, w=data?.current?.weather_code, wind=data?.current?.wind_speed_10m;
+    el.textContent=`St. John’s: ${Math.round(t)}°C • ${weatherCodeToText(w)}${(wind!=null ? " • Wind "+Math.round(wind)+" km/h" : "")}`;
+  }catch(e){
+    el.textContent="St. John’s: Weather";
+  }
+}
 
-notes.addEventListener("input",()=>{
-localStorage.setItem("kay_notes",notes.value)
-})
+/* =======================
+   NOTES (local save)
+   ======================= */
+function initNotes(){
+  const notes=document.getElementById("notesBox");
+  const status=document.getElementById("notesStatus");
+  const KEY="kays_page_notes_v7";
+  notes.value=localStorage.getItem(KEY)||"";
+  let t=null;
+  notes.addEventListener("input", ()=>{
+    status.textContent="Saving…";
+    clearTimeout(t);
+    t=setTimeout(()=>{ localStorage.setItem(KEY, notes.value); status.textContent="Saved."; }, 250);
+  });
+}
 
+/* =======================
+   FAVOURITES (fav1.jpg..fav10.jpg)
+   - Only shows images that successfully load
+   ======================= */
+async function loadFavourites(){
+  const imgEl=document.getElementById("favImg");
+  const fallback=document.getElementById("favFallback");
 
-/* NEWS CARD */
+  const candidates=[];
+  for(let i=1;i<=10;i++) candidates.push(`fav${i}.jpg`);
+
+  const available=[];
+  await Promise.all(candidates.map(src => new Promise(resolve=>{
+    const img=new Image();
+    img.onload=()=>{ available.push(src); resolve(); };
+    img.onerror=()=>resolve();
+    img.src=src + "?v=" + Date.now(); // bust cache after upload
+  })));
+
+  if(!available.length){
+    imgEl.style.display="none";
+    fallback.style.display="flex";
+    return;
+  }
+
+  fallback.style.display="none";
+  imgEl.style.display="block";
+
+  let idx=0;
+  imgEl.src = available[idx];
+  setInterval(()=>{
+    idx=(idx+1)%available.length;
+    imgEl.src = available[idx];
+  }, 9000);
+}
+
+/* =======================
+   HEADLINES
+   - FIRST: ./data/headlines.json (generated by workflow)
+   - FALLBACK: links only (don’t scare Kay)
+   ======================= */
+const SNIPPET_LEN = 220;
+
+function stripHtml(s){
+  if(!s) return "";
+  return s.replace(/<[^>]*>/g, " ").replace(/\s+/g," ").trim();
+}
 
 function newsCard(item){
+  const el = document.createElement("div");
+  el.className = "news-item";
 
-const el=document.createElement("div")
-el.className="news-item"
+  const thumb = document.createElement("div");
+  thumb.className = "news-thumb";
 
-const thumb=document.createElement("div")
-thumb.className="news-thumb"
+  // Only show image if it looks real (prevents broken image icons)
+  if(item.image && item.image.length > 5){
+    const img = document.createElement("img");
+    img.src = item.image;
+    img.alt = "";
+    img.loading = "lazy";
+    thumb.appendChild(img);
+  } else {
+    thumb.innerHTML = "<div style='font-size:40px; opacity:.35'>📰</div>";
+  }
 
-if(item.image && item.image.length > 5){
-const img=document.createElement("img")
-img.src=item.image
-thumb.appendChild(img)
-}else{
-thumb.innerHTML="📰"
+  const body = document.createElement("div");
+  body.className = "news-body";
+
+  const h = document.createElement("p");
+  h.className = "news-title";
+
+  const a = document.createElement("a");
+  a.href = item.link || "#";
+  a.target = "_blank";
+  a.rel = "noopener noreferrer";
+  a.textContent = item.title || "(no title)";
+  h.appendChild(a);
+
+  const snip = document.createElement("p");
+  snip.className = "news-snippet";
+  snip.textContent = item.snippet || "";
+
+  const meta = document.createElement("div");
+  meta.className = "news-meta";
+  meta.textContent = item.source || "";
+
+  body.appendChild(h);
+  body.appendChild(snip);
+  body.appendChild(meta);
+
+  el.appendChild(thumb);
+  el.appendChild(body);
+  return el;
 }
 
-const body=document.createElement("div")
-body.className="news-body"
+/* THIS WAS THE MISSING PIECE */
+function renderHeadlines(items){
+  const grid = document.getElementById("newsGrid");
+  const status = document.getElementById("newsStatus");
 
-const title=document.createElement("p")
-title.className="news-title"
+  grid.innerHTML = "";
+  items.forEach(item => grid.appendChild(newsCard(item)));
 
-const link=document.createElement("a")
-link.href=item.link
-link.target="_blank"
-link.textContent=item.title
-
-title.appendChild(link)
-
-const snip=document.createElement("p")
-snip.className="news-snippet"
-snip.textContent=item.snippet
-
-const meta=document.createElement("div")
-meta.className="news-meta"
-meta.textContent=item.source
-
-body.appendChild(title)
-body.appendChild(snip)
-body.appendChild(meta)
-
-el.appendChild(thumb)
-el.appendChild(body)
-
-return el
+  status.textContent = "Headlines updated.";
 }
 
+function renderHeadlineFallback(){
+  const status=document.getElementById("newsStatus");
+  status.innerHTML = `
+    Headlines aren’t loading right now.<br>
+    <a href="https://www.cbc.ca/news" target="_blank" rel="noopener noreferrer">CBC News</a> •
+    <a href="https://vocm.com/" target="_blank" rel="noopener noreferrer">VOCM</a> •
+    <a href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">BBC</a> •
+    <a href="https://www.cnn.com/" target="_blank" rel="noopener noreferrer">CNN</a>
+  `;
+}
 
-/* LOAD HEADLINES */
+async function loadHeadlinesFromLocal(){
+  const url = "./data/headlines.json?v=" + Date.now();
+  const res = await fetch(url, { cache:"no-store" });
+  if(!res.ok) throw new Error("no local headlines");
+  const data = await res.json();
+  if(!Array.isArray(data.items) || !data.items.length) throw new Error("empty local headlines");
+
+  // Normalize (in case workflow format changes)
+  return data.items.map(x => ({
+    source: x.source || "",
+    title: x.title || "",
+    link: x.link || "#",
+    snippet: (x.snippet || "").slice(0, SNIPPET_LEN),
+    image: x.image || ""
+  }));
+}
 
 async function loadHeadlines(){
-
-const grid=document.getElementById("newsGrid")
-const status=document.getElementById("newsStatus")
-
-try{
-
-const res=await fetch("./data/headlines.json?v="+Date.now())
-
-const data=await res.json()
-
-const items=data.items||[]
-
-grid.innerHTML=""
-
-items.forEach(item=>{
-grid.appendChild(newsCard(item))
-})
-
-status.textContent="Headlines updated"
-
-}catch(e){
-
-status.innerHTML="Headlines unavailable"
-
+  const status=document.getElementById("newsStatus");
+  status.textContent="Loading headlines…";
+  try{
+    const items = await loadHeadlinesFromLocal();
+    renderHeadlines(items);
+  }catch(e){
+    renderHeadlineFallback();
+  }
 }
 
+/* =======================
+   CONTROLS
+   ======================= */
+function initControls(){
+  const root=document.getElementById("pageRoot");
+  document.getElementById("toggleColumnsBtn").addEventListener("click", ()=> root.classList.toggle("two-across"));
+  document.getElementById("refreshBtn").addEventListener("click", ()=>{
+    loadWeather();
+    loadHeadlines();
+  });
 }
 
-
-loadHeadlines()
-
+/* boot */
+initDate();
+initNotes();
+initControls();
+loadWeather();
+loadFavourites();
+loadHeadlines();
 </script>
-
 </body>
 </html>
