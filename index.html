@@ -295,55 +295,50 @@ function stripHtml(s){
 }
 
 function newsCard(item){
-  const el=document.createElement("div");
-  el.className="news-item";
+  const el = document.createElement("div");
+  el.className = "news-item";
 
-  const thumb=document.createElement("div");
-  thumb.className="news-thumb";
+  const thumb = document.createElement("div");
+  thumb.className = "news-thumb";
 
   if(item.image){
-    const img=document.createElement("img");
-    img.src=item.image;
-    img.alt="";
-    img.loading="lazy";
+    const img = document.createElement("img");
+    img.src = item.image;
+    img.alt = "";
+    img.loading = "lazy";
     thumb.appendChild(img);
-  }else{
-    thumb.innerHTML="<div style='font-size:40px; opacity:.35'>📰</div>";
+  } else {
+    thumb.innerHTML = "<div style='font-size:40px; opacity:.35'>📰</div>";
   }
 
-  const body=document.createElement("div");
-  body.className="news-body";
+  const body = document.createElement("div");
+  body.className = "news-body";
 
-  const h=document.createElement("p");
-  h.className="news-title";
+  const h = document.createElement("p");
+  h.className = "news-title";
 
-  const a=document.createElement("a");
-  a.href=item.link || "#";
-  a.target="_blank";
-  a.rel="noopener noreferrer";
-  a.textContent=item.title || "(no title)";
+  const a = document.createElement("a");
+  a.href = item.link || "#";
+  a.target = "_blank";
+  a.rel = "noopener noreferrer";
+  a.textContent = item.title || "(no title)";
   h.appendChild(a);
 
-  const snip=document.createElement("p");
-  snip.className="news-snippet";
-  snip.textContent=item.snippet ? (item.snippet + (item.snippet.length >= SNIPPET_LEN ? "…" : "")) : "";
+  const snip = document.createElement("p");
+  snip.className = "news-snippet";
+  snip.textContent = item.snippet || "";
 
-  const meta=document.createElement("div");
-  meta.className="news-meta";
-  meta.textContent=item.source || "";
+  const meta = document.createElement("div");
+  meta.className = "news-meta";
+  meta.textContent = item.source;
 
-  body.appendChild(h); body.appendChild(snip); body.appendChild(meta);
+  body.appendChild(h);
+  body.appendChild(snip);
+  body.appendChild(meta);
 
-  el.appendChild(thumb); el.appendChild(body);
+  el.appendChild(thumb);
+  el.appendChild(body);
   return el;
-}
-
-function renderHeadlines(items){
-  const grid=document.getElementById("newsGrid");
-  const status=document.getElementById("newsStatus");
-  grid.innerHTML="";
-  for(const it of items) grid.appendChild(newsCard(it));
-  status.textContent="Headlines updated.";
 }
 
 function renderHeadlineFallback(){
