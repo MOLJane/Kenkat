@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-06T07:11:35.860607+00:00",
+  "generated_at": "2026-03-06T07:56:11.650662+00:00",
   "count": 12,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Congress Vote Allows U.S.-Israeli Military Operations in the Middle East to Continue",
+      "link": "https://vocm.com/2026/03/06/congress-vote-allows-u-s-israeli-military-operations-in-the-middle-east-to-continue/",
+      "snippet": "Members of the U.S. House of Representatives voted down a measure that would have required congressional approval for continued military action agains...",
+      "pub": "Fri, 06 Mar 2026 07:08:36 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/03/338568974.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Man Accused in Attacks Outside RNC HQ Released on Bail",
@@ -43,14 +51,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/marystown-mayor-gerry-brenton.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Two Murder Cases Heard in Provincial Court",
-      "link": "https://vocm.com/2026/03/05/293628/",
-      "snippet": "One of two murder cases from the Rabbittown area of St. John's is moving to the next stage while the other awaits full disclosure of evidence against ...",
-      "pub": "Thu, 05 Mar 2026 15:51:59 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/provincial-court-2.jpg"
-    },
-    {
       "source": "BBC World",
       "title": "Passengers describe 'surreal' scramble to reach first government flight out of Middle East",
       "link": "https://www.bbc.com/news/articles/cq8gw0k0330o?at_medium=RSS&at_campaign=rss",
@@ -60,10 +60,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Iran school and nearby military base struck multiple times, satellite image reveals",
-      "link": "https://www.bbc.com/news/articles/c5yqqyly9n0o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Iranian authorities say the attack, which took place on Saturday, killed 168 people.",
-      "pub": "Thu, 05 Mar 2026 17:46:24 GMT",
+      "title": "Five ways the Iran war could affect you - in charts",
+      "link": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
+      "snippet": "With fuel and gas prices having risen in recent days, here are some ways the conflict could affect households.",
+      "pub": "Fri, 06 Mar 2026 00:05:31 GMT",
       "image": ""
     },
     {
@@ -84,18 +84,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Five ways the Iran war could affect you - in charts",
-      "link": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
-      "snippet": "With fuel and gas prices having risen in recent days, here are some ways the conflict could affect households.",
-      "pub": "Fri, 06 Mar 2026 00:05:31 GMT",
-      "image": ""
-    },
-    {
-      "source": "BBC World",
       "title": "'I'm still haunted that he died alone': The last voices of the Covid inquiry",
       "link": "https://www.bbc.com/news/articles/c93wxxe9410o?at_medium=RSS&at_campaign=rss",
       "snippet": "Bereaved families have the final say as the Covid inquiry completes three years of public hearings.",
       "pub": "Fri, 06 Mar 2026 04:52:33 GMT",
+      "image": ""
+    },
+    {
+      "source": "BBC World",
+      "title": "Travelodge staff gave sex attacker key to woman's room, then offered £30 refund",
+      "link": "https://www.bbc.com/news/articles/c3v77w5d437o?at_medium=RSS&at_campaign=rss",
+      "snippet": "The woman, who woke to find Kyran Smith sexually assaulting her, branded a £30 reward offer \"insulting\".",
+      "pub": "Fri, 06 Mar 2026 03:42:22 GMT",
       "image": ""
     }
   ],
