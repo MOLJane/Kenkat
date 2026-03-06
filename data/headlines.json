@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-06T11:01:35.047352+00:00",
+  "generated_at": "2026-03-06T11:49:08.088175+00:00",
   "count": 12,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Premier and Opposition React to Speaker’s Warning to Quell Chirping in HoA",
+      "link": "https://vocm.com/2026/03/06/premier-and-opposition-react-to-speakers-warning-to-quell-chirping-in-hoa/",
+      "snippet": "Speaker Paul Lane is going to get serious with MHAs' jeering and chirping across the floor of the House of Assembly but not all parties appear unified...",
+      "pub": "Fri, 06 Mar 2026 11:30:51 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/premier-tony-wakeham-house-of-assembly-march-5-2026.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Cenovus Energy Eastern Newfoundland Science and Technology Fair Taking Place at MUN",
+      "link": "https://vocm.com/2026/03/06/cenovus-energy-eastern-newfoundland-science-and-technology-fair-taking-place-at-mun/",
+      "snippet": "Over 100 students are converging in St. John's today for a science fair. It's called the 2026 Cenovus Energy Eastern Newfoundland Science and Technolo...",
+      "pub": "Fri, 06 Mar 2026 11:01:47 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/07/mun-memorial-university-core-science-building.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Hew and Draw Restaurant Closed After Car Smashes Through Front of Building",
@@ -35,24 +51,8 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-3.png"
     },
     {
-      "source": "VOCM",
-      "title": "Fuel Prices Way Up in PUB’s Weekly Adjustment",
-      "link": "https://vocm.com/2026/03/06/fuel-prices-way-up-in-pubs-weekly-adjustment/",
-      "snippet": "Like many other places across the country, the price of all fuels in this province is way up. Gas jumps by over 6 and a half cents per litre in all ar...",
-      "pub": "Fri, 06 Mar 2026 09:31:25 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/03/gas-pump-gasoline-prices-car-fuel-pub.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "March 6, 2026 – Do you think excessive chirping in the House of Assembly hinders the progress of legislative matters?",
-      "link": "https://vocm.com/2026/03/06/march-6-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12625').",
-      "pub": "Fri, 06 Mar 2026 09:00:23 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/house-of-assembly-2026.jpg"
-    },
-    {
       "source": "BBC World",
-      "title": "Four arrested in UK on suspicion of assisting Iran's intelligence service",
+      "title": "Four arrested on suspicion of assisting Iran's intelligence service",
       "link": "https://www.bbc.com/news/articles/cz6e7g96890o?at_medium=RSS&at_campaign=rss",
       "snippet": "The men were arrested on Friday on suspicion of assisting a foreign intelligence service.",
       "pub": "Fri, 06 Mar 2026 09:14:31 GMT",
@@ -84,18 +84,18 @@
     },
     {
       "source": "BBC World",
-      "title": "'I'm still haunted that he died alone': The last voices of the Covid inquiry",
-      "link": "https://www.bbc.com/news/articles/c93wxxe9410o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Bereaved families have the final say as the Covid inquiry completes three years of public hearings.",
-      "pub": "Fri, 06 Mar 2026 04:52:33 GMT",
+      "title": "Lenders lift mortgage rates as Iran war hits borrowing costs",
+      "link": "https://www.bbc.com/news/articles/cly1jxdv439o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Nationwide, HSBC and Coventry Building Society are all putting some mortgage rates up.",
+      "pub": "Fri, 06 Mar 2026 11:21:32 GMT",
       "image": ""
     },
     {
       "source": "BBC World",
-      "title": "Travelodge staff gave sex attacker key to woman's room, then offered her £30 refund",
-      "link": "https://www.bbc.com/news/articles/c3v77w5d437o?at_medium=RSS&at_campaign=rss",
-      "snippet": "The woman, who woke to find Kyran Smith sexually assaulting her, branded a £30 reward offer \"insulting\".",
-      "pub": "Fri, 06 Mar 2026 03:42:22 GMT",
+      "title": "Sheep are disappearing from the UK's hills - and its dinner plates",
+      "link": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss",
+      "snippet": "Have we have passed \"peak sheep\" in the UK?",
+      "pub": "Fri, 06 Mar 2026 04:22:00 GMT",
       "image": ""
     }
   ],
