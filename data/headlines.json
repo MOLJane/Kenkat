@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-06T13:49:04.687732+00:00",
+  "generated_at": "2026-03-06T14:31:19.442841+00:00",
   "count": 12,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Person Remains in Hospital After Crash at Hew and Draw",
+      "link": "https://vocm.com/2026/03/06/person-remains-in-hospital-after-crash-at-hew-and-draw/",
+      "snippet": "A 40-year-old remains in hospital following a dramatic crash in Corner Brook last evening. The driver is believed to have suffered a medical issue, an...",
+      "pub": "Fri, 06 Mar 2026 14:02:02 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/img-5921.jpeg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Woman Punches Hole in Wall at Downtown Business",
+      "link": "https://vocm.com/2026/03/06/woman-punches-hole-in-wall-at-downtown-business/",
+      "snippet": "A woman has been charged after putting her fist through the wall at a business in downtown St. John's. Officers were called to the scene just after 11...",
+      "pub": "Fri, 06 Mar 2026 13:47:38 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025.png"
+    },
     {
       "source": "VOCM",
       "title": "Clocks Spring Forward This Weekend",
@@ -35,24 +51,8 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/premier-tony-wakeham-house-of-assembly-march-5-2026.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Cenovus Energy Eastern Newfoundland Science and Technology Fair Taking Place at MUN",
-      "link": "https://vocm.com/2026/03/06/cenovus-energy-eastern-newfoundland-science-and-technology-fair-taking-place-at-mun/",
-      "snippet": "Over 100 students are converging in St. John's today for a science fair. It's called the 2026 Cenovus Energy Eastern Newfoundland Science and Technolo...",
-      "pub": "Fri, 06 Mar 2026 11:01:47 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/07/mun-memorial-university-core-science-building.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Hew and Draw Restaurant Closed After Car Smashes Through Front of Building",
-      "link": "https://vocm.com/2026/03/06/hew-and-draw-restaurant-closed-after-car-smashes-through-front-of-building/",
-      "snippet": "The restaurant at the Hew and Draw in Corner Brook is closed until further notice after a vehicle smashed through the front of the building last eveni...",
-      "pub": "Fri, 06 Mar 2026 10:30:28 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/img-5920.jpeg"
-    },
-    {
       "source": "BBC World",
-      "title": "Tehran residents describe 'worst night' of Israeli strikes so far",
+      "title": "'Worst night' of Israeli strikes so far, Tehran residents tell BBC",
       "link": "https://www.bbc.com/news/articles/c4g88q764njo?at_medium=RSS&at_campaign=rss",
       "snippet": "Iranians in the capital tell the BBC of \"constant explosions\", as the US warned attacks will intensify.",
       "pub": "Fri, 06 Mar 2026 12:53:52 GMT",
@@ -84,18 +84,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Lenders lift mortgage rates as Iran war hits borrowing costs",
-      "link": "https://www.bbc.com/news/articles/cly1jxdv439o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Nationwide, HSBC and Coventry Building Society are all putting some mortgage rates up.",
-      "pub": "Fri, 06 Mar 2026 11:21:32 GMT",
+      "title": "Whole-life term for man who killed family in fire",
+      "link": "https://www.bbc.com/news/articles/cvg88v948d8o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Bryonie Gawith and her children died when Sharaz Ali, 40, set fire to their home in a revenge attack.",
+      "pub": "Fri, 06 Mar 2026 14:12:14 GMT",
       "image": ""
     },
     {
       "source": "BBC World",
-      "title": "Sheep are disappearing from our hills - and our dinner plates",
-      "link": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss",
-      "snippet": "Have we have passed \"peak sheep\" in the UK?",
-      "pub": "Fri, 06 Mar 2026 11:57:15 GMT",
+      "title": "Lenders lift mortgage rates as Iran war hits borrowing costs",
+      "link": "https://www.bbc.com/news/articles/cly1jxdv439o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Nationwide, HSBC and Coventry Building Society are all putting some mortgage rates up.",
+      "pub": "Fri, 06 Mar 2026 11:21:32 GMT",
       "image": ""
     }
   ],
