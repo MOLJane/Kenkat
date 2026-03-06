@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T01:21:57.981125+00:00",
+  "generated_at": "2026-03-06T03:39:50.533538+00:00",
   "count": 12,
   "items": [
     {
@@ -60,6 +60,14 @@
     },
     {
       "source": "BBC World",
+      "title": "First UK government flight from Middle East lands at Stansted Airport",
+      "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss",
+      "snippet": "The plane was due to leave Oman on Wednesday but remained grounded due to problems getting passengers on board.",
+      "pub": "Fri, 06 Mar 2026 01:30:06 GMT",
+      "image": ""
+    },
+    {
+      "source": "BBC World",
       "title": "'This is war': BBC speaks to Iranians at border",
       "link": "https://www.bbc.com/news/videos/czx4r6zq7wxo?at_medium=RSS&at_campaign=rss",
       "snippet": "Iranians fleeing their country have told the BBC what life under bombardment has been like.",
@@ -72,14 +80,6 @@
       "link": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&at_campaign=rss",
       "snippet": "Tehran's approach appears to rest on a belief it can absorb strikes longer than its adversaries sustain pain and costs, writes BBC Persian's Amir Azimi.",
       "pub": "Thu, 05 Mar 2026 18:40:22 GMT",
-      "image": ""
-    },
-    {
-      "source": "BBC World",
-      "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
-      "link": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Iranian Kurdish opposition groups in exile in northern Iraq tell the BBC they have plans to cross the border but deny already doing so.",
-      "pub": "Thu, 05 Mar 2026 21:20:49 GMT",
       "image": ""
     },
     {
