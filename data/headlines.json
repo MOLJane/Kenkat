@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T17:04:27.225722+00:00",
+  "generated_at": "2026-03-06T17:58:01.600509+00:00",
   "count": 12,
   "items": [
     {
@@ -52,6 +52,22 @@
     },
     {
       "source": "BBC World",
+      "title": "Iranian schools, hospital and landmarks among civilian sites hit during US-Israeli strikes",
+      "link": "https://www.bbc.com/news/articles/cpw004xqxnjo?at_medium=RSS&at_campaign=rss",
+      "snippet": "A local in Tehran tell BBC Verify that the city has been turned into a \"ghost town\" as residents flee.",
+      "pub": "Fri, 06 Mar 2026 17:01:40 GMT",
+      "image": ""
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil price jumps after Qatar warns all Gulf production could stop within days",
+      "link": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss",
+      "snippet": "Energy Minister Saad al-Kaabi says oil could hit $150 a barrel if the Iran conflict continues over the coming weeks.",
+      "pub": "Fri, 06 Mar 2026 17:25:52 GMT",
+      "image": ""
+    },
+    {
+      "source": "BBC World",
       "title": "'We couldn't sleep because of fear': Residents flee as Israel pounds south Beirut",
       "link": "https://www.bbc.com/news/articles/cwy9xlp46zgo?at_medium=RSS&at_campaign=rss",
       "snippet": "Communities across huge swathes of Lebanon have been told by Israel to leave their homes due to military action against Hezbollah.",
@@ -76,26 +92,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Five ways the Iran war could affect you - in charts",
-      "link": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
-      "snippet": "With fuel and gas prices having risen in recent days, here are some ways the conflict could affect households.",
-      "pub": "Fri, 06 Mar 2026 00:05:31 GMT",
-      "image": ""
-    },
-    {
-      "source": "BBC World",
       "title": "Man who murdered ex's sister and her children in revenge attack given whole-life sentence",
       "link": "https://www.bbc.com/news/articles/cvg88v948d8o?at_medium=RSS&at_campaign=rss",
       "snippet": "Bryonie Gawith and her children died when Sharaz Ali set fire to their home in revenge for her sister ending their relationship.",
       "pub": "Fri, 06 Mar 2026 14:12:14 GMT",
-      "image": ""
-    },
-    {
-      "source": "BBC World",
-      "title": "Three women interviewed under caution as part of Mohamed Al Fayed investigation",
-      "link": "https://www.bbc.com/news/articles/c2lrwv5p7e7o?at_medium=RSS&at_campaign=rss",
-      "snippet": "The women have been interviewed under suspicion of aiding and abetting rape and human trafficking, the Met Police says.",
-      "pub": "Fri, 06 Mar 2026 16:42:49 GMT",
       "image": ""
     }
   ],
