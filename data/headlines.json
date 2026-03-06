@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-06T10:26:53.226063+00:00",
+  "generated_at": "2026-03-06T11:01:35.047352+00:00",
   "count": 12,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Hew and Draw Restaurant Closed After Car Smashes Through Front of Building",
+      "link": "https://vocm.com/2026/03/06/hew-and-draw-restaurant-closed-after-car-smashes-through-front-of-building/",
+      "snippet": "The restaurant at the Hew and Draw in Corner Brook is closed until further notice after a vehicle smashed through the front of the building last eveni...",
+      "pub": "Fri, 06 Mar 2026 10:30:28 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/img-5920.jpeg"
+    },
     {
       "source": "VOCM",
       "title": "Side-by-Side Stolen from Cabin in Charleston",
@@ -41,14 +49,6 @@
       "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12625').",
       "pub": "Fri, 06 Mar 2026 09:00:23 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/house-of-assembly-2026.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Congress Vote Allows U.S.-Israeli Military Operations in the Middle East to Continue",
-      "link": "https://vocm.com/2026/03/06/congress-vote-allows-u-s-israeli-military-operations-in-the-middle-east-to-continue/",
-      "snippet": "Members of the U.S. House of Representatives voted down a measure that would have required congressional approval for continued military action agains...",
-      "pub": "Fri, 06 Mar 2026 07:08:36 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/03/338568974.jpg"
     },
     {
       "source": "BBC World",
