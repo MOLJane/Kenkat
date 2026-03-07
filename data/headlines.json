@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T21:14:10.175062+00:00",
-  "count": 12,
+  "generated_at": "2026-03-07T21:29:15.444153+00:00",
+  "count": 16,
   "items": [
     {
       "source": "VOCM",
@@ -51,56 +51,85 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/president-rebecca-bligh-federation-of-canadian-municipalities-1.png"
     },
     {
-      "source": "BBC World",
-      "title": "Navy readying aircraft carrier for deployment as Iran conflict deepens",
-      "link": "https://www.bbc.com/news/articles/c39w2nj1rk8o?at_medium=RSS&at_campaign=rss",
-      "snippet": "The move may raise speculation HMS Prince of Wales could be sent to defend British interests during the Middle East conflict.",
-      "pub": "Sat, 07 Mar 2026 16:48:59 GMT",
+      "source": "VOCM",
+      "title": "Pouch Cove Remembers Tragedy That Claimed Three Young Lives",
+      "link": "https://vocm.com/2026/03/07/293828/",
+      "snippet": "Tomorrow marks the 25th anniversary of an unthinkable tragedy that claimed the lives of three teenage boys off Pouch Cove. Cousins Jesse Elliott and A...",
+      "pub": "Sat, 07 Mar 2026 14:41:28 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/adam-wall-jesse-elliott-and-aj-sullivan.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Justice Minister Meets with RNC Chief to Address 80-Officer Shortfall",
+      "link": "https://vocm.com/2026/03/07/293825/",
+      "snippet": "The Justice Minister has met with RNC Chief Pat Roche to discuss staff vacancies within the rank and file. The RNCA says the Constabulary is about 80 ...",
+      "pub": "Sat, 07 Mar 2026 14:03:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/justice-minister-speaks-to-reporters.jpg"
+    },
+    {
+      "source": "Google News Canada",
+      "title": "January 6 commemorative plaque appears in Capitol after years of delay - CNN",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBReVZUMnhPczM0NEg1b1VoakU4U09pSFZQSHAtLXhsZ21aTmZCTk1jX3cyWDJQcTI0V0IxSGUzVFRtcEFiMVNRX1dyWFBZRDVVQ3VKcmIxVDBuaUZLN21GQ19TeHBuQjRvMzJJa2x5di1Ya3FrcnIwSzB5WmUyWmM?oc=5",
+      "snippet": "January 6 commemorative plaque appears in Capitol after years of delay &nbsp;&nbsp; CNN Jan. 6 plaque honoring police officers is now displayed at the Capitol after a 3-year delay ",
+      "pub": "Sat, 07 Mar 2026 17:32:19 GMT",
       "image": ""
     },
     {
-      "source": "BBC World",
-      "title": "UK to charter flight for British nationals out of Dubai",
-      "link": "https://www.bbc.com/news/articles/c0432n5gl1zo?at_medium=RSS&at_campaign=rss",
-      "snippet": "The flight is due to depart from Dubai early next week for British nationals wanting to leave the region.",
-      "pub": "Sat, 07 Mar 2026 21:04:54 GMT",
+      "source": "Google News Canada",
+      "title": "Iran sends first significant message of de-escalation, but with a major caveat - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb0tiWUUyM2RyMEI4YWlkUjAtZzE2TElDa3ZQckdxSWlYUkVEci1MRi1VazZZbUJacU5ZN0ViRUdnWHNxb2Y1QmtwcjVNZnYwMEdHOUU4YjZZWmpMMmJsSGd5bHVWTmtoV1FvYkxWT05iWUVCY29jazJRUERFcmFyOFI5LUdfUQ?oc=5",
+      "snippet": "Iran sends first significant message of de-escalation, but with a major caveat &nbsp;&nbsp; CNN Iran president reins in apology to Gulf states after outcry from hardliners at home ",
+      "pub": "Sat, 07 Mar 2026 15:22:46 GMT",
       "image": ""
     },
     {
-      "source": "BBC World",
-      "title": "Soham murderer Ian Huntley dies after prison attack",
-      "link": "https://www.bbc.com/news/articles/c80jmm00379o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Huntley, who murdered two schoolgirls in 2002, had his life support switched off on Friday, the BBC understands.",
-      "pub": "Sat, 07 Mar 2026 10:13:42 GMT",
+      "source": "Google News Canada",
+      "title": "Trump demands Iran’s ‘unconditional surrender.’ Live updates here - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb1Jsa0FDMC0zYUt3a3lsV1BWSElVX1VMSW9PQnVONnk3dUZJUkI4QnVidEk2NTA2MzBZSko0T2ZnVTN6LU5pNTY4enQ2VjhYMERoaUJodU5yRFZMNEtvWmk1S1U3blZMVTlIN1p5RXR6d2J6TXhnWkt0b25vZ0FTVjZhYklRVHpoWGVZNW15ZUVZWHdCeExKbEhQUlNFOG1GUWhhSWkzNnFLWmxMdy1NRDNkRnJhdU9zLUZFMGVWb3E3dm9DVi1EZWN3YWFLV2VJd3U5UWhXTmhCbFdTTWg1Qlh4Zw?oc=5",
+      "snippet": "Trump demands Iran’s ‘unconditional surrender.’ Live updates here &nbsp;&nbsp; CTV News Iran war live: Trump vows ‘very hard’ strikes; Iran says will not surrender &nbsp;&nbsp; Al ",
+      "pub": "Fri, 06 Mar 2026 23:36:35 GMT",
       "image": ""
     },
     {
-      "source": "BBC World",
-      "title": "The legacy of Holly and Jessica's murders: Soham 'won't waste its breath' on Huntley",
-      "link": "https://www.bbc.com/news/articles/c9wnn8nn5p8o?at_medium=RSS&at_campaign=rss",
-      "snippet": "The trauma and aftermath of events in 2002 are still having an impact on the Cambridgeshire village.",
-      "pub": "Sat, 07 Mar 2026 11:56:34 GMT",
+      "source": "Google News Canada",
+      "title": "Ottawa charters plane to evacuate 180 Canadians from Dubai as 3,500 request help - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObXFtQ1V6OVdid2tKM29pSDdxbDZiV0lCbExYbGFQM0FnS3lyejIzMkEyUUduUXNnd2I5QjVhR3c3dzlnNmpCN08wbUVwdEtLUGlRS2VqWmtiOEhpY21CdE5jN3QwU1R0NGZPcWZ3R3FkQkFzNm9BbjU5b3Z6TFJQT1lfWXZwYl91dFNFRUFoeENuLUJWMFdqeWxjM3ZhWFdOX28yZlRlRDBDZzVSNFZGemVXU0FPUkE?oc=5",
+      "snippet": "Ottawa charters plane to evacuate 180 Canadians from Dubai as 3,500 request help &nbsp;&nbsp; The Globe and Mail Ottawa man stranded in Iraq as latest conflict in the Middle East e",
+      "pub": "Fri, 06 Mar 2026 15:25:39 GMT",
       "image": ""
     },
     {
-      "source": "BBC World",
-      "title": "Canada's PM calls for Andrew to be removed from line of succession",
-      "link": "https://www.bbc.com/news/articles/czd87d0jq37o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Andrew Mountbatten-Windsor was arrested on suspicion of misconduct in public office last month.",
-      "pub": "Sat, 07 Mar 2026 10:37:38 GMT",
+      "source": "Google News Canada",
+      "title": "Here’s what other provinces think of B.C. abolishing time change - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUTlOLUE0RDhGbkJzNVNnUWhZdjNOOXRhWm9LMWwtRXYxSlB1Yjl2RFdXVk02SzFxVGxRU0RvaHZPZzFzMVA5MEVVc1lBd1ZHazFob1RmTVVBS3p1UlFXRjZQVDJKVWxnMUt1cG9mWklJUHczei1Ha2M2b2FTVEZJLWxhX0hGMENyX3l1d2lZUlJqSzQ2VFM4dF9VUFpVLVpXbFE?oc=5",
+      "snippet": "Here’s what other provinces think of B.C. abolishing time change &nbsp;&nbsp; CTV News March 8, 2026, is the last time most British Columbians will change their clocks — what you n",
+      "pub": "Sat, 07 Mar 2026 10:00:00 GMT",
       "image": ""
     },
     {
-      "source": "BBC World",
-      "title": "Timothée Chalamet triggers backlash over ballet and opera remarks",
-      "link": "https://www.bbc.com/news/articles/cx281xz2qjqo?at_medium=RSS&at_campaign=rss",
-      "snippet": "In an interview, the Oscar-nominee danced into some online controversy after claiming no one cares about ballet and opera.",
-      "pub": "Sat, 07 Mar 2026 11:57:14 GMT",
+      "source": "Google News Canada",
+      "title": "Seven ways the war in Iran could affect Canadians, from grocery costs to terrorism - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkxPWjdLcXpPSklwbDhCbmhuTllrd0dkTjUzbjFCak9VWjREZjI1NzNOYzF5YmtHSk1LXzZ3QmxQVFgxVk82WW9XeVNLZWxZc1VHbEtXQTNKS2RyUXE0MXFtcVFrQTVoXzJ3bGFLYWVCcGFwNU4wTDdJM0RXaTUyd29tSmN1SFRHY24wUmJlb1lTS2MxSGVXWjJHamZ6c1ZNTk53V0NKVE9NSGdGeEZfRGR0dEFfWGZ3Y2JObA?oc=5",
+      "snippet": "Seven ways the war in Iran could affect Canadians, from grocery costs to terrorism &nbsp;&nbsp; CTV News Attack on Iran: Little consensus among Canadians as half oppose, one-in-thr",
+      "pub": "Sat, 07 Mar 2026 19:11:53 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "N.B. government closes roads to clean up chemical spill in Fredericton | CBC News - CBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOem1qWVpHTXFra00yMGFqTW51TGU5M0ZNcTI0bjFGc2xQcjhqQ29QYVZzdlNPWFN0Nko0LVlNX1JtSjFhaVVSY0hvaWh6c3RmZFFhZ19HNXpKTjVvcDFHZUI2V0cxWDdKZThwazhxZGR2ZWlJbURFaG1RRUdxdFgzLUROd1RrSGNYZlRzdFVCdEZ5Wkh4S0VyT0pOMA?oc=5",
+      "snippet": "N.B. government closes roads to clean up chemical spill in Fredericton | CBC News &nbsp;&nbsp; CBC View Full Coverage on Google News",
+      "pub": "Fri, 06 Mar 2026 21:26:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Satellites are Canada’s next sovereignty frontier as global ‘race’ heats up - National - Global News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2lYUzN4cWJPZDhNN0VjM2tzcTZnTkZkSlZfQUxpOTQydF85NGpMZUVIWDlyNFhpdkpGT3dVZFc1SXJRbGl0UFV4SE9rREVGNTVuV3draHJXQXFVSXlJYUlBT1VMbld1WmctSmxKNHliMS16b2dYTkVIMlRpMDZtNHFvNGVYcUFmRzB4T05mbG0?oc=5",
+      "snippet": "Satellites are Canada’s next sovereignty frontier as global ‘race’ heats up - National &nbsp;&nbsp; Global News In Defence of Canada Briefing (Issue 1) &nbsp;&nbsp; SpaceQ",
+      "pub": "Sat, 07 Mar 2026 12:00:52 GMT",
       "image": ""
     }
   ],
-  "errors": [
-    "CBC Top Stories failed: The read operation timed out",
-    "CBC Newfoundland & Labrador failed: The read operation timed out"
-  ]
+  "errors": []
 }
