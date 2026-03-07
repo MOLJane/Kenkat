@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-07T11:40:38.637154+00:00",
+  "generated_at": "2026-03-07T12:29:23.267787+00:00",
   "count": 12,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "U18 AA Female Hockey Provincials Underway This Weekend",
+      "link": "https://vocm.com/2026/03/07/293821/",
+      "snippet": "Some of the province's top female players are competing this weekend in the 2026 U18 AA Female League Provincials in Grand Falls-Windsor. The champion...",
+      "pub": "Sat, 07 Mar 2026 12:03:13 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/Hockey-Puck-Generic-Rink-.jpg"
+    },
     {
       "source": "VOCM",
       "title": "NLC’s Spirits Going Global as Local Production Booms",
@@ -43,14 +51,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/health-minister-lela-evans.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "March 7, 2026 – The RNC has 80 policing vacancies it needs filled. Should government introduce incentives to help fill those positions?",
-      "link": "https://vocm.com/2026/03/07/march-7-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12628').",
-      "pub": "Sat, 07 Mar 2026 09:30:50 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rnc-hq2.jpg"
-    },
-    {
       "source": "BBC World",
       "title": "Soham murderer Ian Huntley dies after prison attack",
       "link": "https://www.bbc.com/news/articles/c80jmm00379o?at_medium=RSS&at_campaign=rss",
@@ -63,7 +63,7 @@
       "title": "The legacy of Holly and Jessica's murders: Soham 'won't waste its breath' on Huntley",
       "link": "https://www.bbc.com/news/articles/c9wnn8nn5p8o?at_medium=RSS&at_campaign=rss",
       "snippet": "The trauma and aftermath of events in 2002 are still having an impact on the Cambridgeshire village.",
-      "pub": "Sat, 07 Mar 2026 10:03:11 GMT",
+      "pub": "Sat, 07 Mar 2026 11:56:34 GMT",
       "image": ""
     },
     {
@@ -76,18 +76,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Armed robots take to the battlefield in Ukraine war",
-      "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
-      "snippet": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces.",
-      "pub": "Sat, 07 Mar 2026 00:36:19 GMT",
+      "title": "Military chief defends UK response to Middle East conflict",
+      "link": "https://www.bbc.com/news/articles/cddnqd2z864o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Sir Richard Knighton \"completely rejects\" criticism that the UK had been ill-prepared.",
+      "pub": "Sat, 07 Mar 2026 12:11:11 GMT",
       "image": ""
     },
     {
       "source": "BBC World",
-      "title": "Withheld Epstein files with accusations against Trump released by justice department",
-      "link": "https://www.bbc.com/news/articles/c4g0dzg6e4mo?at_medium=RSS&at_campaign=rss",
-      "snippet": "The Department of Justice said the released files had been \"incorrectly coded as duplicative\" and inadvertently not published.",
-      "pub": "Fri, 06 Mar 2026 17:58:33 GMT",
+      "title": "Timothée Chalamet triggers backlash over ballet and opera remarks",
+      "link": "https://www.bbc.com/news/articles/cx281xz2qjqo?at_medium=RSS&at_campaign=rss",
+      "snippet": "In an interview, the Oscar-nominee danced into some online controversy after claiming no one cares about ballet and opera.",
+      "pub": "Sat, 07 Mar 2026 11:57:14 GMT",
       "image": ""
     },
     {
