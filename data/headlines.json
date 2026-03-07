@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T18:22:32.537905+00:00",
+  "generated_at": "2026-03-07T18:54:39.746702+00:00",
   "count": 12,
   "items": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "source": "VOCM",
-      "title": "Pouch Cove Remembers Three Young Heroes on 25th Anniversary of Drowning",
+      "title": "Pouch Cove Remembers Tragedy That Claimed Three Young Lives",
       "link": "https://vocm.com/2026/03/07/293828/",
       "snippet": "Tomorrow marks the 25th anniversary of an unthinkable tragedy that claimed the lives of three teenage boys off Pouch Cove. Cousins Jesse Elliott and A...",
       "pub": "Sat, 07 Mar 2026 14:41:28 +0000",
@@ -52,6 +52,22 @@
     },
     {
       "source": "BBC World",
+      "title": "Navy readying aircraft carrier for deployment as Iran conflict deepens",
+      "link": "https://www.bbc.com/news/articles/c39w2nj1rk8o?at_medium=RSS&at_campaign=rss",
+      "snippet": "The move may raise speculation HMS Prince of Wales could be sent to defend British interests during the Middle East conflict.",
+      "pub": "Sat, 07 Mar 2026 16:48:59 GMT",
+      "image": ""
+    },
+    {
+      "source": "BBC World",
+      "title": "UK to charter flight for British nationals out of Dubai",
+      "link": "https://www.bbc.com/news/articles/c0432n5gl1zo?at_medium=RSS&at_campaign=rss",
+      "snippet": "The flight is due to depart from Dubai early next week for British nationals wanting to leave the region.",
+      "pub": "Sat, 07 Mar 2026 18:36:40 GMT",
+      "image": ""
+    },
+    {
+      "source": "BBC World",
       "title": "Soham murderer Ian Huntley dies after prison attack",
       "link": "https://www.bbc.com/news/articles/c80jmm00379o?at_medium=RSS&at_campaign=rss",
       "snippet": "Huntley, who murdered two schoolgirls in 2002, had his life support switched off on Friday, the BBC understands.",
@@ -68,14 +84,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Navy readying aircraft carrier for deployment as Iran conflict deepens",
-      "link": "https://www.bbc.com/news/articles/c39w2nj1rk8o?at_medium=RSS&at_campaign=rss",
-      "snippet": "This may raise speculation HMS Prince of Wales could be sent to defend British interests during the Middle East conflict.",
-      "pub": "Sat, 07 Mar 2026 16:48:59 GMT",
-      "image": ""
-    },
-    {
-      "source": "BBC World",
       "title": "Canada's PM calls for Andrew to be removed from line of succession",
       "link": "https://www.bbc.com/news/articles/czd87d0jq37o?at_medium=RSS&at_campaign=rss",
       "snippet": "Andrew Mountbatten-Windsor was arrested on suspicion of misconduct in public office last month.",
@@ -88,14 +96,6 @@
       "link": "https://www.bbc.com/news/articles/cx281xz2qjqo?at_medium=RSS&at_campaign=rss",
       "snippet": "In an interview, the Oscar-nominee danced into some online controversy after claiming no one cares about ballet and opera.",
       "pub": "Sat, 07 Mar 2026 11:57:14 GMT",
-      "image": ""
-    },
-    {
-      "source": "BBC World",
-      "title": "From a £1bn dream to a brutal collapse: How Brewdog hit the rocks",
-      "link": "https://www.bbc.com/news/articles/cn4ggqgyk51o?at_medium=RSS&at_campaign=rss",
-      "snippet": "The rise and fall of the garage start-up which set out to revolutionise the brewing industry.",
-      "pub": "Sat, 07 Mar 2026 08:19:37 GMT",
       "image": ""
     }
   ],
