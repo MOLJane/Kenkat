@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-07T09:49:10.352452+00:00",
+  "generated_at": "2026-03-07T10:16:07.053340+00:00",
   "count": 12,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Urgent Repairs Needed for Aging Placentia Infrastructure",
+      "link": "https://vocm.com/2026/03/07/293811/",
+      "snippet": "The MHA for Placentia &amp; St. Mary's says Placentia needs immediate help with its wave wall as it is becoming an issue of public safety. The wall ha...",
+      "pub": "Sat, 07 Mar 2026 10:08:50 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/town-of-placentia-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Evans Calls for More Mental Health Beds to Address System Strain",
+      "link": "https://vocm.com/2026/03/07/293807/",
+      "snippet": "The Minister of Health believes the province's new mental health facility is \"understaffed and doesn't meet the mental health needs of patients\" Lela ...",
+      "pub": "Sat, 07 Mar 2026 09:58:23 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/health-minister-lela-evans.jpg"
+    },
     {
       "source": "VOCM",
       "title": "March 7, 2026 – The RNC has 80 policing vacancies it needs filled. Should government introduce incentives to help fill those positions?",
@@ -35,27 +51,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/nl-skip-brad-gushue-brier.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Minister says Access to Justice ‘a Priority for This Government ‘",
-      "link": "https://vocm.com/2026/03/06/minister-says-access-to-justice-a-priority-for-this-government/",
-      "snippet": "A working group's report on issues leading to the sudden closure of a number of court services late last year is due within the next two weeks - a mon...",
-      "pub": "Fri, 06 Mar 2026 19:53:19 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/michael-king-and-helen-conway-ottenheimer.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Debate on Disability Advocate Prompts Emotional Responses from MHAs",
-      "link": "https://vocm.com/2026/03/06/debate-on-disability-advocate-prompts-emotional-responses-from-mhas/",
-      "snippet": "Emotional debate in the House of Assembly yesterday as elected members spoke on a personal level about the importance of establishing a Disability Adv...",
-      "pub": "Fri, 06 Mar 2026 18:55:22 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/jeff-dwyer.jpg"
-    },
-    {
       "source": "BBC World",
-      "title": "Soham murderer Ian Huntley taken off life support, BBC understands",
-      "link": "https://www.bbc.com/news/articles/c62d410y4qko?at_medium=RSS&at_campaign=rss",
-      "snippet": "The convicted murderer has been in hospital since late February after being hit on the head in prison.",
-      "pub": "Sat, 07 Mar 2026 01:47:31 GMT",
+      "title": "Soham murderer Ian Huntley dies after prison attack",
+      "link": "https://www.bbc.com/news/articles/c80jmm00379o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Huntley, who murdered two schoolgirls in 2002, had his life support switched off on Friday, the BBC understands.",
+      "pub": "Sat, 07 Mar 2026 10:13:42 GMT",
       "image": ""
     },
     {
