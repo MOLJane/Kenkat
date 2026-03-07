@@ -52,19 +52,16 @@ def image_from_description(html):
   return m.group(1).strip() if m else ""
 
 def find_image(item, desc_html):
-  # media:content url="..."
   for child in list(item):
     tag = child.tag.split("}")[-1]
     if tag == "content" and (child.attrib.get("url") or "").strip():
       return child.attrib["url"].strip()
 
-  # enclosure url="..."
   for child in list(item):
     tag = child.tag.split("}")[-1]
     if tag == "enclosure" and (child.attrib.get("url") or "").strip():
       return child.attrib["url"].strip()
 
-  # fallback: <img> in description
   return image_from_description(desc_html)
 
 def fetch_bytes(url):
@@ -104,7 +101,6 @@ def parse_feed(name, url):
         })
     return out
 
-  # Atom fallback
   entries = root.findall(".//{*}entry")
   for en in entries[:MAX_ITEMS_PER_FEED]:
     title = first_text(en, {"title"}) or "(no title)"
