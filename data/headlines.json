@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-07T11:13:41.883993+00:00",
+  "generated_at": "2026-03-07T11:40:38.637154+00:00",
   "count": 12,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "NLC’s Spirits Going Global as Local Production Booms",
+      "link": "https://vocm.com/2026/03/07/293815/",
+      "snippet": "The Newfoundland and Labrador Liquor Corporation's manufacturing division was busy in the 3rd quarter of the year. Bruce Keating, President and CEO of...",
+      "pub": "Sat, 07 Mar 2026 11:23:58 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/12/bruce-keating-newfoundland-and-labrador-liquor-corporation.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Gushue Stays Alive at Brier, Faces Jacobs in Must-Win Game",
@@ -41,14 +49,6 @@
       "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12628').",
       "pub": "Sat, 07 Mar 2026 09:30:50 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rnc-hq2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Russia Providing Intelligence to Help Iran Track U.S. Forces in Middle East",
-      "link": "https://vocm.com/2026/03/07/russia-providing-intelligence-to-help-iran-track-u-s-forces-in-middle-east/",
-      "snippet": "U.S. intelligence officials said Russia has been providing Iran with information that could help identify American military positions in the Middle Ea...",
-      "pub": "Sat, 07 Mar 2026 08:43:00 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/01/89968682.jpg"
     },
     {
       "source": "BBC World",
@@ -92,10 +92,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Russell takes Melbourne pole after Verstappen crash",
-      "link": "https://www.bbc.com/sport/formula1/articles/c8d5l339535o?at_medium=RSS&at_campaign=rss",
-      "snippet": "George Russell takes pole position as Mercedes dominate a qualifying session for the Australian Grand Prix in which Max Verstappen crashed.",
-      "pub": "Sat, 07 Mar 2026 07:18:51 GMT",
+      "title": "We've been speaking to Iranians during one week of war. Here's what they said",
+      "link": "https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&at_campaign=rss",
+      "snippet": "Ordinary Iranians reflect on seven days of conflict and where they see their country going next.",
+      "pub": "Sat, 07 Mar 2026 06:00:32 GMT",
       "image": ""
     }
   ],
