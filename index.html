@@ -97,6 +97,12 @@
     .album-stack{display:grid;gap:18px}
     .album-link img{display:block;width:100%;border-radius:12px;margin-top:10px;box-shadow:0 2px 8px rgba(0,0,0,.15);cursor:pointer}
     .album-link img:hover{transform:scale(1.01);transition:transform .2s ease}
+    .fav-link,
+.album-link{
+  text-decoration:none;
+  color:inherit;
+  display:block;
+}
   </style>
 </head>
 
@@ -141,10 +147,12 @@
       <div style="display:grid; gap:14px;">
         <div class="card">
           <h2>Family Photos</h2>
-          <div class="fav-frame" id="favFrame">
-            <div class="fav-fallback" id="favFallback">No favourites yet.</div>
-            <img id="favImg" alt="Favourite photo">
-          </div>
+<a href="https://photos.google.com/" target="_blank" rel="noopener noreferrer">
+  <div class="fav-frame" id="favFrame">
+    <div class="fav-fallback" id="favFallback">No favourites yet.</div>
+    <img id="favImg" alt="Favourite photo">
+  </div>
+</a>
           <div class="status"></div>
           <!-- Rotates through fav1.jpg … fav10.jpg (only shows the ones that exist). -->
         </div>
@@ -171,19 +179,29 @@ Elizabeth:"></textarea>
           <div class="status" id="notesStatus">Saved locally.</div>
         </div>
 
-        <div class="album-stack">
-          <div class="card">
-<h2>Favourite Photos</h2>
-<div class="muted">Click the photo to open favourites.</div>
-<a class="album-link" href="https://photos.google.com/search/CglGYXZvcml0ZXMiCBIGCgQ6AggBKOnWtM%2FMMw==" target="_blank" rel="noopener noreferrer">
-          </div>
+<div class="album-stack">
+  <div class="card">
+    <h2>Favourite Photos</h2>
+    <div class="muted">Click the photo to open favourites.</div>
+    <a class="album-link"
+       href="https://photos.google.com/search/CglGYXZvcml0ZXMiCBIGCgQ6AggBKOnWtM%2FMMw=="
+       target="_blank"
+       rel="noopener noreferrer">
+      <img src="fav1.jpg" alt="Favourite Photos">
+    </a>
+  </div>
 
-          <div class="card">
-<h2>Google Photos</h2>
-<div class="muted">Click the photo to open Google Photos.</div>
-<a class="album-link" href="https://photos.google.com/" target="_blank" rel="noopener noreferrer">
-          </div>
-        </div>
+  <div class="card">
+    <h2>Google Photos</h2>
+    <div class="muted">Click the photo to open Google Photos.</div>
+    <a class="album-link"
+       href="https://photos.google.com/"
+       target="_blank"
+       rel="noopener noreferrer">
+      <img src="fav2.jpg" alt="Google Photos">
+    </a>
+  </div>
+</div>
       </div>
     </section>
 
