@@ -9,20 +9,19 @@ OUT_DIR = "data"
 OUT_PATH = os.path.join(OUT_DIR, "headlines.json")
 
 FEEDS = [
-  ("CBC Top Stories", "https://www.cbc.ca/webfeed/rss/rss-topstories"),
-  ("CBC Newfoundland & Labrador", "https://www.cbc.ca/webfeed/rss/rss-canada-newfoundland"),
   ("VOCM", "https://vocm.com/feed/"),
-  ("BBC World", "https://feeds.bbci.co.uk/news/rss.xml?edition=int"),
+  ("Google News Canada", "https://news.google.com/rss?hl=en-CA&gl=CA&ceid=CA:en"),
 ]
 
-MAX_ITEMS_PER_FEED = 6
+MAX_ITEMS_PER_FEED = 8
 SNIPPET_LEN = 180
-FETCH_TIMEOUT = 6  # seconds per feed
+FETCH_TIMEOUT = 8  # seconds per feed
 
 IMG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.I)
 
 def strip_html(s: str) -> str:
-  if not s: return ""
+  if not s:
+    return ""
   s = re.sub(r"<[^>]+>", " ", s)
   s = re.sub(r"\s+", " ", s).strip()
   return s
@@ -35,7 +34,6 @@ def first_text(parent, names):
   return ""
 
 def find_link(item):
-  # RSS: <link>text</link> ; Atom: <link href="..."/>
   for child in list(item):
     tag = child.tag.split("}")[-1]
     if tag == "link":
@@ -48,7 +46,8 @@ def find_link(item):
   return ""
 
 def image_from_description(html):
-  if not html: return ""
+  if not html:
+    return ""
   m = IMG_RE.search(html)
   return m.group(1).strip() if m else ""
 
@@ -69,7 +68,13 @@ def find_image(item, desc_html):
   return image_from_description(desc_html)
 
 def fetch_bytes(url):
-  req = Request(url, headers={"User-Agent": "KayPageBot/1.0 (+github actions)"})
+  req = Request(
+    url,
+    headers={
+      "User-Agent": "KayPageBot/1.0 (+github actions)",
+      "Accept": "application/rss+xml, application/xml, text/xml, application/atom+xml, */*",
+    },
+  )
   with urlopen(req, timeout=FETCH_TIMEOUT) as r:
     return r.read()
 
@@ -82,13 +87,21 @@ def parse_feed(name, url):
   if items:
     for it in items[:MAX_ITEMS_PER_FEED]:
       title = first_text(it, {"title"}) or "(no title)"
-      link  = first_text(it, {"link"}) or url
-      desc  = first_text(it, {"description"}) or first_text(it, {"encoded"}) or ""
+      link = find_link(it) or url
+      desc = first_text(it, {"description"}) or first_text(it, {"encoded"}) or ""
       snippet = strip_html(desc)[:SNIPPET_LEN]
       pub = first_text(it, {"pubDate"})[:80]
       image = find_image(it, desc)
+
       if title and link:
-        out.append({"source": name, "title": title, "link": link, "snippet": snippet, "pub": pub, "image": image})
+        out.append({
+          "source": name,
+          "title": title,
+          "link": link,
+          "snippet": snippet,
+          "pub": pub,
+          "image": image
+        })
     return out
 
   # Atom fallback
@@ -101,12 +114,32 @@ def parse_feed(name, url):
       if href and (l.attrib.get("rel") in (None, "", "alternate")):
         link = href
         break
+
     summ = first_text(en, {"summary"}) or first_text(en, {"content"}) or ""
     snippet = strip_html(summ)[:SNIPPET_LEN]
     image = image_from_description(summ)
     pub = (first_text(en, {"updated"}) or first_text(en, {"published"}))[:80]
+
     if title and link:
-      out.append({"source": name, "title": title, "link": link, "snippet": snippet, "pub": pub, "image": image})
+      out.append({
+        "source": name,
+        "title": title,
+        "link": link,
+        "snippet": snippet,
+        "pub": pub,
+        "image": image
+      })
+  return out
+
+def dedupe_items(items):
+  seen = set()
+  out = []
+  for item in items:
+    key = (item.get("link", "").strip(), item.get("title", "").strip().lower())
+    if key in seen:
+      continue
+    seen.add(key)
+    out.append(item)
   return out
 
 def main():
@@ -128,6 +161,8 @@ def main():
       msg = f"{name} failed: {repr(e)}"
       print("   WARN:", msg)
       errors.append(msg)
+
+  all_items = dedupe_items(all_items)
 
   os.makedirs(OUT_DIR, exist_ok=True)
   payload = {
