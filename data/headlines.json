@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T21:35:21.374800+00:00",
+  "generated_at": "2026-03-07T21:39:25.670603+00:00",
   "count": 16,
   "items": [
     {
@@ -94,7 +94,7 @@
       "source": "Google News Canada",
       "title": "Seven ways the war in Iran could affect Canadians, from grocery costs to terrorism - CTV News",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkxPWjdLcXpPSklwbDhCbmhuTllrd0dkTjUzbjFCak9VWjREZjI1NzNOYzF5YmtHSk1LXzZ3QmxQVFgxVk82WW9XeVNLZWxZc1VHbEtXQTNKS2RyUXE0MXFtcVFrQTVoXzJ3bGFLYWVCcGFwNU4wTDdJM0RXaTUyd29tSmN1SFRHY24wUmJlb1lTS2MxSGVXWjJHamZ6c1ZNTk53V0NKVE9NSGdGeEZfRGR0dEFfWGZ3Y2JObA?oc=5",
-      "snippet": "Seven ways the war in Iran could affect Canadians, from grocery costs to terrorism &nbsp;&nbsp; CTV News Attack on Iran: Little consensus among Canadians as half oppose, one-in-thr",
+      "snippet": "Seven ways the war in Iran could affect Canadians, from grocery costs to terrorism &nbsp;&nbsp; CTV News Expert warns that Canada’s involvement in the conflict in Middle East could",
       "pub": "Sat, 07 Mar 2026 19:11:53 GMT",
       "image": ""
     },
@@ -131,5 +131,7 @@
       "image": ""
     }
   ],
-  "errors": []
+  "errors": [
+    "CBC News failed: The read operation timed out"
+  ]
 }
