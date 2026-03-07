@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-07T09:21:21.907093+00:00",
+  "generated_at": "2026-03-07T09:49:10.352452+00:00",
   "count": 12,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "March 7, 2026 – The RNC has 80 policing vacancies it needs filled. Should government introduce incentives to help fill those positions?",
+      "link": "https://vocm.com/2026/03/07/march-7-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12628').",
+      "pub": "Sat, 07 Mar 2026 09:30:50 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rnc-hq2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Russia Providing Intelligence to Help Iran Track U.S. Forces in Middle East",
@@ -41,14 +49,6 @@
       "snippet": "Emotional debate in the House of Assembly yesterday as elected members spoke on a personal level about the importance of establishing a Disability Adv...",
       "pub": "Fri, 06 Mar 2026 18:55:22 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/jeff-dwyer.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Court Case Involving Patient Accused of Killing Another Postponed",
-      "link": "https://vocm.com/2026/03/06/court-case-involving-patient-accused-of-killing-another-postponed/",
-      "snippet": "A Waterford Hospital patient charged with murder remains in legal limbo following another court call this week. Thirty-one-year-old Thomas Parsley is ...",
-      "pub": "Fri, 06 Mar 2026 18:48:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/01/parsley.jpg"
     },
     {
       "source": "BBC World",
