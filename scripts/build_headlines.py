@@ -10,6 +10,7 @@ OUT_PATH = os.path.join(OUT_DIR, "headlines.json")
 
 FEEDS = [
   ("VOCM", "https://vocm.com/feed/"),
+ ("CBC News", "https://www.cbc.ca/webfeed/rss/rss-topstories"),
   ("Google News Canada", "https://news.google.com/rss?hl=en-CA&gl=CA&ceid=CA:en"),
 ]
 
