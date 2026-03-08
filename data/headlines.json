@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-08T11:41:53.615351+00:00",
+  "generated_at": "2026-03-08T12:30:59.395665+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Demand for Food Soars as Annual ‘Pack the Pub’ Fundraiser Begins",
+      "link": "https://vocm.com/2026/03/08/demand-for-food-soars-as-annual-pack-the-pub-fundraiser-begins/",
+      "snippet": "We're a week away from St. Patrick's Day Weekend, a time of hoisting green pints, merriment and friendship. But it's also a time of giving as the Newf...",
+      "pub": "Sun, 08 Mar 2026 12:06:38 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/img-5707.jpeg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Trump Dismisses UK Aircraft Carrier Support as Transatlantic Rift Deepens",
+      "link": "https://vocm.com/2026/03/08/trump-dismisses-uk-aircraft-carrier-support-as-transatlantic-rift-deepens/",
+      "snippet": "The disagreement between Washington and London grew sharper after Donald Trump said the United Kingdom was acting too late on the Middle East conflict...",
+      "pub": "Sun, 08 Mar 2026 10:43:48 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/01/167386436.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Brier Final Today in St. John’s",
@@ -51,26 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/pc-finance-minister-craig-pardy-house-of-assembly-march-5-2026.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Local Cheer Squad Ready to Defend World Title at ICU Championships",
-      "link": "https://vocm.com/2026/03/07/293839/",
-      "snippet": "A local cheerleading squad is off to Orlando, Florida next month to defend their world championship title at the ICU World Cheerleading Championships....",
-      "pub": "Sat, 07 Mar 2026 19:05:02 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/coastal-wave-elite.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "First Light Calls for Indigenous Health Clinic to Address ‘Urgent’ Gaps in Care",
-      "link": "https://vocm.com/2026/03/07/293809/",
-      "snippet": "First Light, which advocates for Indigenous people living in an urban environment, would like to see a local Indigenous health clinic in the metro reg...",
-      "pub": "Sat, 07 Mar 2026 17:58:47 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/first-light-logo.png"
-    },
-    {
       "source": "Google News Canada",
       "title": "New strikes light up the night in Tehran as Israel vows ‘many surprises’ - CTV News",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQmMzV3VUaXdNeEoxYmd0T2JDUml0bU1XM3Y1czY5OHNGTUN6azJSM0RWOTZ5Um1SNmEyQzNUWGtDSnQyVkJDYk8tNEdpckZvMGhEa3dxSE5zTlVTU25aeVB1SXBmRXdJQkk1cUx4dC1oN3RWYUdlRlRkb2E5UGhYS3lWdkJ6R3A1SmduaDFiUklyelJQZDRkZWxudnFmTEI2VWVDRmpPLV9ia3UwS0pydEFQQVQyU3hSV2ZVeUtOaVdVMXM?oc=5",
-      "snippet": "New strikes light up the night in Tehran as Israel vows ‘many surprises’ &nbsp;&nbsp; CTV News ‘Consensus’ on Iran supreme leader; Bahrain says Iran hit desalination site &nbsp;&nb",
+      "snippet": "New strikes light up the night in Tehran as Israel vows ‘many surprises’ &nbsp;&nbsp; CTV News Iran accused of attacks in UAE and Bahrain, smoke blankets Tehran from Israeli strike",
       "pub": "Sun, 08 Mar 2026 02:50:00 GMT",
       "image": ""
     },
@@ -92,14 +92,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump: ‘Iran Will Be Hit Very Hard Today’ as Gulf War Enters New Phase - VOCM",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zQVpxenRQRmh5TThZVWYzNGhybG9CWTByVnZRU0RsTUIyN2dza1hPSnNZRHVlWW1mdlZTZFdKVXU1ME5VZzJYVm1aWQ?oc=5",
-      "snippet": "Trump: ‘Iran Will Be Hit Very Hard Today’ as Gulf War Enters New Phase &nbsp;&nbsp; VOCM Iran war updates: Trump vows hard strikes; Tehran says will not surrender &nbsp;&nbsp; Al J",
-      "pub": "Sat, 07 Mar 2026 12:57:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Canada and Japan sign partnership deal on defence, energy, trade - Global News",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mVDlFbUREcWNSV2xTX3N1cUpRaXRFRGljeTFIM2pHWms2RDYxb0h5TTJNNmwxLUgwMllyX1l4WVdsZWdkQ2hzZHhDcGhTNm9FeFJVb2c4OV9OM1BHYmYzVFBEcHpSQjhQLVlNbWszM0ZlX01MM0E?oc=5",
       "snippet": "Canada and Japan sign partnership deal on defence, energy, trade &nbsp;&nbsp; Global News Prime Minister Carney forges new Comprehensive Strategic Partnership with Japan across def",
@@ -108,10 +100,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Canadians arriving home from Middle East express frustration with war, evacuations - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHhXbUJDR0pWU0pvRTFKYnhHdDFsUFgtMGZPdDdORGZRdC1HeXZXSmpza3AwRW1vWHF0dUh3Rm1KMG1LX1VKTVNKRUl5U2xqUHRGV1o5c1lCLXJfamlEVTlmTEkxdEZJa1MyZFFiV0h1REU2czAxeE95UlpnNVcwcXJtRW1zMG1EUXFOQ01DWWNCclRPREsxbEo5NGJCTmNTRUtFRk55SjQxMEhWdnpvY2hVT2ZGaHJwbU4wQQ?oc=5",
-      "snippet": "Canadians arriving home from Middle East express frustration with war, evacuations &nbsp;&nbsp; CTV News No sign of compromise in Middle East as Canadians flee U.S-Iran conflict &n",
-      "pub": "Sat, 07 Mar 2026 20:19:29 GMT",
+      "title": "Saudi Arabia intensifies engagement with Iran to defuse war - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemNLNVVDRmlWbjFMSzdWQzFHQ0FFV1FxUkw1TkJQYngteWctN1JUS3JES2dBeWNNYXlhZjJEUEJwZmtjSUVnOVF2OXBkOWZZbjRERnd3c1pZVXp6YjNOcnNZdW41SUFxV0lrZkxYUkFzUEdjR29OTmRkQ1F4RjdaTEIwNHU1NFRrN3RDUEd3WmNXcEdsRzRUTkxNelFRZXVl?oc=5",
+      "snippet": "Saudi Arabia intensifies engagement with Iran to defuse war &nbsp;&nbsp; Fortune Saudi Arabia has told Iran to stop attacks, warned of possible retaliation, sources say &nbsp;&nbsp",
+      "pub": "Sat, 07 Mar 2026 16:26:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "White House halts security bulletin warning of Iran-related threats - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQel9XZnJPRHgxSzJ3TWpNYVc3b095dHdrV2ZQVVZsdGFnTFFiVURVelIyWktreUpEMnY0UHlLVmsxMV94ejd2TnBnQWUxMGkzRzF0YXI5WHR5bWpnSG95MWJod0hVek8wNUN5a1M4YjdPX2diaDY5Nl9OYS00b1hTa3ZqTUlwdXdCbTZEN1NkQWVTOG9OYmIwcThfRTlsazZ3c2ZuOVBnYWd6Tms2ZXc?oc=5",
+      "snippet": "White House halts security bulletin warning of Iran-related threats &nbsp;&nbsp; Reuters Trump White House Reportedly Blocking Intelligence Report Warning of Homeland Security Thre",
+      "pub": "Sat, 07 Mar 2026 23:31:25 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Toronto taxi driver cut with knife during robbery: police - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1FUUUx1b1IzQzJZZEtRN1gzYnc4bHFzWGQ2eUwtSC1zckpjQWg1MnRvUndGTEtmRGJkS196WGJvUDFuS2YxWlBGelFlYkh5MHFqUlh2V21YaUFrVnNHVzd4V3lHWXdZLUxfQ1Z1X2VvblZpV1BPeG5NQUFhVDhTUEFfNFpJcXlPeWVFVUhMMXdXYzUzTkYtRUthRUI?oc=5",
-      "snippet": "Toronto taxi driver cut with knife during robbery: police &nbsp;&nbsp; CityNews Toronto",
-      "pub": "Sun, 08 Mar 2026 03:59:00 GMT",
+      "title": "City frustrated by overpass damage caused by ‘blockhead’ driver - 650 CKOM",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZjhYNEJudVd6eFZoZ0xXcHV6THBkLVdiNEEteWhoSHpYYXRwV1B2OGdUX1ZoaEJsY2dneHMxUzNaVWpVQlp5WkFGVTdEaDhFRHJPTnpQcGU5TzA2VXpNREJhVGZvRlYtY3o4TWhEZk9vZDVLMDExMlpYdG9Za1VhSlNCblpFdmktUFRtakp5eW01SHYxUFNQc1Zn?oc=5",
+      "snippet": "City frustrated by overpass damage caused by ‘blockhead’ driver &nbsp;&nbsp; 650 CKOM ‘Don’t be a blockhead’: Saskatoon official frustrated after semi strikes overpass &nbsp;&nbsp;",
+      "pub": "Sat, 07 Mar 2026 01:40:00 GMT",
       "image": ""
     }
   ],
