@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-08T15:16:18.698229+00:00",
+  "generated_at": "2026-03-08T15:43:58.293217+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "New Offshore Projects a Boon for Marine Institute Programs",
+      "link": "https://vocm.com/2026/03/08/293862/",
+      "snippet": "The Fisheries and Marine Institute can see themselves playing a significant role following the deal announced this week for Bay du Nord and the new dr...",
+      "pub": "Sun, 08 Mar 2026 15:39:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/04/master-mariner-captain-kris-drodge-marine-instiute-monthly-mariner.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Deadlines Approaching for Provincial and Federal Farm Support Programs",
@@ -59,35 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/lela-evans-intl-womens-day.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "March 8, 2026 – Have you checked the batteries in the smoke/carbon monoxide alarms in your home recently?",
-      "link": "https://vocm.com/2026/03/08/march-8-2026-have-you-checked-the-batteries-in-the-smokecarbon-monoxide-alarms-in-your-home-recently/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12631').",
-      "pub": "Sun, 08 Mar 2026 08:30:36 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/09/national-test-your-smoke-alarm-day.jpg"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Israeli military says it has targeted several thousand sites in Iran. Live updates here. - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNTFGNEZvWmc3UnNVbHVYZGNTOUF6RHVPZWg4SXBiMlk0NndybG5WbmFjVkdRRzFrV0VfZTJEbC1OdUJ1QkpFVFd0dTFwZDAtOFJVYmtqMWF4RnQwdVp3ZFlwNS1ER3pPMk81bFp0aHFCbk55Z0o0dVpIUGxOVDllX3R3UXE1LXdBSEFOY3ZidWx1enVJcHhRc0hoUFdISzVSZDI3aWk3M1NlbWtUWUFHb2xQXzhuOWUxekoxQU5jUDM3WUJwcjdfTklDYlo2bDB1aUZpWm1aRVk?oc=5",
-      "snippet": "Israeli military says it has targeted several thousand sites in Iran. Live updates here. &nbsp;&nbsp; CTV News Iran war live: Israel hit Tehran oil depots; Bahrain desalination pla",
-      "pub": "Sun, 08 Mar 2026 14:39:07 GMT",
-      "image": ""
-    },
-    {
       "source": "Google News Canada",
       "title": "Millions of Americans can now claim Canadian citizenship by descent. But they have to prove it - CBC",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYi1sZERhblR4REx2UkNuaXVGeVZ6c281MWktUEVTM2xrTWp1T3Y1Wnozb0tSWXNwRXJJVWZnUnRudktMVVlOZEdQM055bTlQLU03MC1YSDZZYjhTX1U3QWNsU2xKOExKUnBpNjZnRVBmNDB5bkhReWRTY0JHTHNVYjJPX3VPVmNOUzUxUGpRTG9ZMmc0c2ZGbUVHQVl6ZzFic1VVZEtTM0tPZUsw?oc=5",
       "snippet": "Millions of Americans can now claim Canadian citizenship by descent. But they have to prove it &nbsp;&nbsp; CBC Millions of Americans can get Canadian passports under new law &nbsp",
-      "pub": "Sun, 08 Mar 2026 08:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "UAE says Iran has fired 16 ballistic missiles and 117 drones in new barrages - Politico",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTzlQVXFLNEZoeXFnUm5LYXFSX0FpYi1rR1dPNFV5WklxV0QzNHRxeFlLRmpKMWs0cUZ4MWxLWE9GV1B4LXlQV0R0UkNJbXVNZEdMWTZ4ckVMZ21RMW1pb2dHV1VZNEt3S0toaTNLajdPRFQ0bGw2bTE0VWlOMXpCd0FZNnp5XzVrbDdCa1JTSXNKVEF0c2xINDZuVGtoR0l5eGtKQTQxcU5JZ2Izal9GaGREZWhFcmVGTjVUR0ZxNVprYU96?oc=5",
-      "snippet": "UAE says Iran has fired 16 ballistic missiles and 117 drones in new barrages &nbsp;&nbsp; Politico Bahrain and Iran say civilian desalination plants were hit with no end in sight f",
-      "pub": "Sun, 08 Mar 2026 11:13:22 GMT",
+      "pub": "Sun, 08 Mar 2026 14:47:13 GMT",
       "image": ""
     },
     {
@@ -100,6 +84,14 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Mojtaba Khamenei wounded after surviving assassination attempt at outbreak of war - ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53Ni0ta2VvMXpNaUpjdGg2bDQ4WGNseE9ZdFVaT3ZnSGVOWVNsajdJOG5sTVd3cHB1QThOcXA2cG9FT0JaSWNiaThVZlNlWEtySHhfckV3?oc=5",
+      "snippet": "Mojtaba Khamenei wounded after surviving assassination attempt at outbreak of war &nbsp;&nbsp; ynetnews Israel strikes Tehran fuel depots, Beirut hotel as Iran nears naming Khamene",
+      "pub": "Sat, 07 Mar 2026 17:55:52 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "January 6 commemorative plaque appears in Capitol after years of delay - CNN",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBReVZUMnhPczM0NEg1b1VoakU4U09pSFZQSHAtLXhsZ21aTmZCTk1jX3cyWDJQcTI0V0IxSGUzVFRtcEFiMVNRX1dyWFBZRDVVQ3VKcmIxVDBuaUZLN21GQ19TeHBuQjRvMzJJa2x5di1Ya3FrcnIwSzB5WmUyWmM?oc=5",
       "snippet": "January 6 commemorative plaque appears in Capitol after years of delay &nbsp;&nbsp; CNN Long-delayed Jan. 6 plaque honoring police installed in Capitol at 4 a.m. &nbsp;&nbsp; The W",
@@ -108,10 +100,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Explosion at U.S. embassy may have been deliberate attack, Oslo police say - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmNsMTlqNjdsYVNNQzRNT28yRkYwV1BLc0EtTVhfbUNiSHJtUnZJTFQ5ZU54OG90bW44eS0wWG5ZVlZjM1BBeFJfU0xxU29VdWVVVWZfT3FKSEpSV3pSNGdDdmI3OGU2WjFKZjFYenBpOFVGUW1TRHkzV1M1bEl0cQ?oc=5",
-      "snippet": "Explosion at U.S. embassy may have been deliberate attack, Oslo police say &nbsp;&nbsp; The Globe and Mail US embassy in Oslo hit by explosion, Norway police say &nbsp;&nbsp; BBC E",
-      "pub": "Sun, 08 Mar 2026 02:03:26 GMT",
+      "title": "Canada documents three more 20-degree readings in 2026 - The Weather Network",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFVWLW5jWHI0WnVTc284R3dRZm1BN1lpYnpJRkNKaUdkYTM1LU5IaDFCX0hVeFJjWmt4NjJzZFpuaWVPVGdTVmxtMU5Cd043YjdOSGFSa21ZS09sOTVPOUVjWVlxTXg0THEtSlp2NXhocURHRlZCLS1QeTRJZnZxQUUzZDFuNWFYaWlDallUY1BQajRrd1lOQjBVVGdTY0JNZ01HQjJfRjJBZ2NPcHE3Z2h5SFhnWGFLSDZiU1VGTkIxRWZwNmJtNg?oc=5",
+      "snippet": "Canada documents three more 20-degree readings in 2026 &nbsp;&nbsp; The Weather Network Toronto springs forward into warmer weather this weekend &nbsp;&nbsp; Toronto Star Fog, thun",
+      "pub": "Sat, 07 Mar 2026 17:26:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Saudi Arabia intensifies engagement with Iran to defuse war - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemNLNVVDRmlWbjFMSzdWQzFHQ0FFV1FxUkw1TkJQYngteWctN1JUS3JES2dBeWNNYXlhZjJEUEJwZmtjSUVnOVF2OXBkOWZZbjRERnd3c1pZVXp6YjNOcnNZdW41SUFxV0lrZkxYUkFzUEdjR29OTmRkQ1F4RjdaTEIwNHU1NFRrN3RDUEd3WmNXcEdsRzRUTkxNelFRZXVl?oc=5",
+      "snippet": "Saudi Arabia intensifies engagement with Iran to defuse war &nbsp;&nbsp; Fortune Pakistan, Saudi Discuss Security Measures as Iran Strikes Region &nbsp;&nbsp; Bloomberg.com Saudi A",
+      "pub": "Sat, 07 Mar 2026 16:26:00 GMT",
       "image": ""
     },
     {
