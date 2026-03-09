@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-09T01:19:40.578784+00:00",
+  "generated_at": "2026-03-09T03:54:39.070090+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Dunstone Wins Brier",
+      "link": "https://vocm.com/2026/03/08/dunstone-wins-brier/",
+      "snippet": "Manitoba's Matt Dunstone is the 2026 Brier champion. Dunstone defeated Alberta's Kevin Koe 6-3 in the final Sunday evening at the Mary Brown's Centre ...",
+      "pub": "Mon, 09 Mar 2026 01:35:47 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/img-6040.jpeg"
+    },
     {
       "source": "VOCM",
       "title": "Labrador Winter Games Open Today in Happy Valley-Goose Bay",
@@ -59,75 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/01/167386436.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Brier Final Today in St. John’s",
-      "link": "https://vocm.com/2026/03/08/brier-final-today-in-st-johns/",
-      "snippet": "The Brier tankard will be in the house later this evening, on the final day of the Montana Brier in St. John's. The semi-final kicks off at 1:30 this ...",
-      "pub": "Sun, 08 Mar 2026 10:41:38 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/2026-montanas-brier-2.png"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Iran names Mojtaba Khamenei, former ruler’s son, as new supreme leader - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT3h3X1FTcC1XMGs0QmtrRGdaNk5TWWw4R19OdVNFdmV5RVRTbXRuZWZMUVoteFBpMm84RTMtLXZRMXhwcHJsWmhrdlp5TlVjeUhsVDA1cXdBTkpRU2Y1Smlob2xzZ05aMVlndkFEOXgwZDU4bGlUV0U1NHZ3Y1hubTgzeFV5ak02d3prOW1PeWo?oc=5",
-      "snippet": "Iran names Mojtaba Khamenei, former ruler’s son, as new supreme leader &nbsp;&nbsp; The Globe and Mail Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran &nb",
-      "pub": "Sun, 08 Mar 2026 21:24:21 GMT",
-      "image": ""
-    },
-    {
       "source": "Google News Canada",
       "title": "Much of Alberta, parts of B.C. and Saskatchewan set to see dangerous winds - Global News",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmVWRE94b0tXanpWZkh6WjgxS0ctNnNUWjNHNW9YYzdUb29lUnlBY0oxVTZsUXgyNHctckVUWDF5NUVWSDJ2QUZoY2UwVEhWWFM3dHBoN3ZMdVNnakNuTm8yOU1MNG9lRmZlR2kwaW1OV0k1T2NlbGxEdHJpSTBXenRiYmpiRnoyaWlHSXh3?oc=5",
-      "snippet": "Much of Alberta, parts of B.C. and Saskatchewan set to see dangerous winds &nbsp;&nbsp; Global News Wind, rainfall warnings issued for parts of B.C. &nbsp;&nbsp; CBC Windstorm spar",
+      "snippet": "Much of Alberta, parts of B.C. and Saskatchewan set to see dangerous winds &nbsp;&nbsp; Global News High winds knock out power to thousands across B.C. &nbsp;&nbsp; CBC Strong wind",
       "pub": "Sun, 08 Mar 2026 22:36:43 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Thousands face hours-long security queues at Houston and New Orleans airports - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5T0dUTFprc21mY0lfWEp5SzhQR2JsMDRqeHBCUG95TUxYdHAtQW5zRG9zd0xGSWk1UWNzVTE0c25XWEhySzhYS2RfZFMyYkFDU3BsdUZRMW5EUQ?oc=5",
-      "snippet": "Thousands face hours-long security queues at Houston and New Orleans airports &nbsp;&nbsp; BBC Travelers encounter long waits at some airports as DHS shutdown affects security chec",
-      "pub": "Sun, 08 Mar 2026 21:37:06 GMT",
+      "title": "Travelers are waiting hours at airport security as unpaid TSA agents stop showing up for work - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ3JDa1k0bk8xbDFmQno0d0VPTWRKa3R1Rk1CdUtjOUxwSjNCVVF4alVGOUEweVRHU3RGS0FOM0NsbHRQNGQybi1VUmFRbWlpc3RzSnNDMTFIM0djMXJEV29NVmQ4MHRnenR4U255OHhNcnJwVUVBbmpTSHZ2UjhNb3FkSlJlWHgzQTcxTVhFVjJGTTJvTTR3SVZuZ0x1QTdVdWZ4YWNQbGdybFFMM3c?oc=5",
+      "snippet": "Travelers are waiting hours at airport security as unpaid TSA agents stop showing up for work &nbsp;&nbsp; Business Insider Thousands face long security queues at airports in Houst",
+      "pub": "Sun, 08 Mar 2026 23:34:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Iran fires at Gulf neighbours as president’s apology draws criticism at home - France 24",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWC1kWjIydV9Vd0hYVWlnZWEyQlNkYllkaWVSSGR2aDdib1RCZ0NsZ2hraUZaWUMzV0VycFpfV1Q2YVV5eU0zVHlWM1FoaHh0QkdBSExQc3EwdkRVTnZiQVY4M3dTUDBIc2l5M0ctbkp3NEZBVU5zOFVpWkRhbm5pYkdaTU93a0FIT1Vic0NIa3NxSVowRWN2dFZ0YWp0MzBkd3NadkpKb1h6NnIxSUtVU1l2M3lxeDdza19DUzJScVRaX0FLUEE?oc=5",
-      "snippet": "Iran fires at Gulf neighbours as president’s apology draws criticism at home &nbsp;&nbsp; France 24 Iran’s president says nation ‘will not bow’ to pressure from U.S. and Israel. Li",
-      "pub": "Sat, 07 Mar 2026 21:54:25 GMT",
+      "title": "What we know about the investigation into the two GTA synagogue shootings - CP24",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLXUtN0prWk80YlZVb0E0andGekhaYVZTSW5FNXlSNmdFR09sUFBsck9qSWNYcTFmV0JmYzQ1eXdFT2tPVDhPaUQ4UjQxZm5GNk1yNjVZdHJOT1NyMHlUR2dzQlhWZHJTbEZORFBGSlFrYWd2UTVDajRTTjJKWEo1dy1hbWhBWDZMMlZST1NxT3NHV3JRbC1vUkJFQjlscDFHdDIyLXJlVFBUSWFpUWhuMkh0RkY0MjBLa3o1YzIycXhCU2htVDVLR3Y5TQ?oc=5",
+      "snippet": "What we know about the investigation into the two GTA synagogue shootings &nbsp;&nbsp; CP24 ‘We all stand together:’ Toronto Jewish community rallies in the wake of synagogue shoot",
+      "pub": "Sun, 08 Mar 2026 23:00:09 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ex-rapper Balendra Shah set to be Nepal PM after party’s landslide election win - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzc2bXFKV2JIQWp1cjdNS2xzT3hRaTFUMHo5a3B4aUxLMllnOERlRFM2bnJhU3FjdV9NV2FSWi1KYWlGcVZuMkV0VzJNTlpWUktMUXlXd2x4emdod2l3dGhVbXlXLVpFTFAzNjY4WENIUG91SzNrWWMyNkM4cUlJaVdCcHZRNThyYm9BeGppWW5EODA3aWVEQ19PcEtZQkJDeDNR?oc=5",
-      "snippet": "Ex-rapper Balendra Shah set to be Nepal PM after party’s landslide election win &nbsp;&nbsp; The Guardian Former rapper and Gen Z's candidate poised to win Nepali election by lands",
-      "pub": "Sun, 08 Mar 2026 13:47:00 GMT",
+      "title": "Iran strikes on desalination plants threaten Arab states’ water supplies - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXhlak1HamNvNzFKeUlVT0Y2QlhJSm9TeGhEUDBvdUp0Rm5tNkpheWxjcUpPeWlKUHZfNGF3a0R1RmdPTWZ0ZE9DSEpRU0pFRGFLTkRiTndTbEs3X2gybVBWTDgzdTFTZU5sMjJXNXRzSDhqMEdZU1ZUSWppYUxNeFVzaEdUVkx2N1phMXhuY0FXZGRvTGtjQzJrLS1fUVgtN2h5Q054b2RNOTFOS0ZCNWVpTDctSTFKdVc0YXlmeG1CMjhxRXI40gHHAUFVX3lxTFBObmRtUS1NQktrdnlSMXR6UzBRczZVWmtndTVUSmxYRVhDT3Z4ckU1WHVHWUNIZXVLU19adTVScmh6TUxwc19iOG9aeE5qUjFsUm5maXNfY242NTNObFNPbVBiY05GazBHb1lDb184WXI5WDRfb1BIc2NGSG1wQ1ltMTFKd3F6ZlA4NUZDdWdkMWpCLUJsRVVRSGNiRWlvQjNZX1R0bWo5VEtPeFhqeVFMVC1IeERqTlNIX01WelY1RWVLa1ByUGM?oc=5",
+      "snippet": "Iran strikes on desalination plants threaten Arab states’ water supplies &nbsp;&nbsp; South China Morning Post How targeting of desalination plants could disrupt water supply in th",
+      "pub": "Sun, 08 Mar 2026 13:22:05 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Device hurled near NYC mayor’s mansion was an IED that could have caused ‘serious injury or death,’ NYPD says - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnNjFsbVQ0c1hILURjaTliWjVKMHU3emgxdnVQM1BzdGpLb0pFV1BPQVpDRDhmSW5EbGhsdjk3Z1lGSWI3U01yWkZ6SkRtOVM5VEtaMm02azBqdGNnZGEtODdEeGJoYUNHV28zZ2hHMHgteXBoMDlTVXgxalE?oc=5",
-      "snippet": "Device hurled near NYC mayor’s mansion was an IED that could have caused ‘serious injury or death,’ NYPD says &nbsp;&nbsp; CNN 2 arrested after explosive device thrown at protest n",
-      "pub": "Sun, 08 Mar 2026 01:05:00 GMT",
+      "title": "Toronto man wanted after injured woman seen screaming inside vehicle - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUjJDMkxDOTlhTk9WMUZ6LWJhUlpXWkp6TG9IeWF6OFZJek4yalhMNDMtUEFNZnpaWF9KeFVxbUFZZUpYeEE5b1ZWZjRqbk0wTjZzMjJ5dTdfSEN3Q1E0NE5sYl9GendGSjV4alZzWnZSVG5kR2VFd3NtLWR2czFVNWhySDBaVWxkLTBiVjNsNmFtXzdrOGIwbXl5S0VleHE4U2U5cnIySFowcF85?oc=5",
+      "snippet": "Toronto man wanted after injured woman seen screaming inside vehicle &nbsp;&nbsp; CTV News Toronto police hunting driver of vehicle with injured woman in passenger seat &nbsp;&nbsp",
+      "pub": "Sun, 08 Mar 2026 19:53:12 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘Every drop counts’: Calgary water restrictions begin Monday - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZXB3MUlNRmY2ZUY3ZC1vNk1Fay1EVVBsNjZIbF9wR01QQkZNU1RNT09MczBraXJTNWxRYi0zOHUxREppX0pwY19UN0VOOWFNaWFaZWVQWWlPeXhWLXdIbUFlMTZ5eXlIZ1NjbTBKZnVWeFNXZ0ZZYTlfVFozcUZFa1dsMktJazNwVWR3NllndkZjYkNlS1h2TnhrZ2pvdVc3ZFZKbVNnTjF0dC1TajEzVUl1NmpuMm9IZHU4QTRSbkpKU05UenFaNGpkYnpfeEE?oc=5",
-      "snippet": "‘Every drop counts’: Calgary water restrictions begin Monday &nbsp;&nbsp; CTV News Calgary businesses getting ready for another bout of water restrictions &nbsp;&nbsp; Calgary Hera",
-      "pub": "Sun, 08 Mar 2026 16:09:24 GMT",
+      "title": "Alberta mountain towns deal with ‘low-grade anxiety’ as wildfire season begins - Global News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSXVXVHdZX2Uwc08wYVo2NEp0NDB5b05xaUpSR0t1a1R1cDNqM1BUR3VkdVBjVjY1VGM1X2RKUkpsaWE1NmJLNXRQT1dPYldKRFBEQmRLeWZWaGdpbUVMNzB5VVhyRGNOcWpBZl8tVGtIcGxSVTdLTnBMT0w5Z19nVjB4dmQ?oc=5",
+      "snippet": "Alberta mountain towns deal with ‘low-grade anxiety’ as wildfire season begins &nbsp;&nbsp; Global News Anxiety in some Alberta mountain towns as wildfire season begins &nbsp;&nbsp",
+      "pub": "Sun, 08 Mar 2026 13:36:24 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "OPP rescue 23 people stranded on ice shelf that separated from shore in Georgian Bay - CBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb1Y1UWt6QWludE5ibXloSktrVFpTeEQ0RGExOFR4S1d5ajV3VlRwc1Awd1FrWFh3WlEwUDZPbWx0T1ZzNzVZb2lBWmM5aERtZmlSYWJaNGFGeFlJa3N5MFdBX05lNXo5RV9HdzlvZ1R3QXpVYUFoV0o2QnJwTFpOTFQzcnJSclFSSHd2R2xCNldCbkZBbk9FQkZXQ2VYVTdL?oc=5",
-      "snippet": "OPP rescue 23 people stranded on ice shelf that separated from shore in Georgian Bay &nbsp;&nbsp; CBC 23 fishermen rescued when ice shelf broke from Georgian Bay shore: police &nbs",
-      "pub": "Sun, 08 Mar 2026 21:36:03 GMT",
+      "title": "The Honourable Rechie Valdez is set to lead Canada at the 70th session of the UNCSW - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZVBqZXB4LTZJOGlGVEZLZ1U5aVV4ajFfMEJNNGZRa25XOG5wUmtyTHZCbUlBSXZ1M2lWd2c2QXNZdUYtYlI0QWxPZTZ0d3VvNXRBcWtkN3RKd0lXNlFWLThuQ1NCTFV1WEpMTlVqRFB4NW1jS1ZMLUw2aVRuS3RLb1NpTXNNOEhpaDlzQWtmcm00ellUTENHWFNIUjVMOFVfMFdRdmVoZlVHUE5fTVpoZE1KczJ2M1hOc0txWmlDUVM?oc=5",
+      "snippet": "The Honourable Rechie Valdez is set to lead Canada at the 70th session of the UNCSW &nbsp;&nbsp; CityNews Toronto View Full Coverage on Google News",
+      "pub": "Sun, 08 Mar 2026 11:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Photo Gallery: Prime Minister Mark Carney in Japan - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54OUp5aU1lekpiXzMxTWRycGhFVG1xOTNsZU9HTGlpSXdtQXpNT3pzUGxjUWZTbnBESHN5aTczY3NycjdRcGJqRlFqZnZHTE5RNDZULXotTlUtWEhyemMxODZzRy1xMElocjRicEtJY3RndlRsclp5alRfV0NLRk0?oc=5",
+      "snippet": "Photo Gallery: Prime Minister Mark Carney in Japan &nbsp;&nbsp; Yahoo News Canada Mark Carney signs new strategic partnership with Japan &nbsp;&nbsp; CTV News Joint statement on Ca",
+      "pub": "Sat, 07 Mar 2026 22:07:22 GMT",
       "image": ""
     }
   ],
