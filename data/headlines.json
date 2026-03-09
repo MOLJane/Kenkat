@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-09T14:05:04.183997+00:00",
+  "generated_at": "2026-03-09T15:29:17.393839+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Propane Tanks Stolen from Catalina Gas Station",
+      "link": "https://vocm.com/2026/03/09/293948/",
+      "snippet": "The RCMP is investigating the theft of more than a dozen propane tanks from agas station in Catalina. RCMP were contacted about the theft from a gas s...",
+      "pub": "Mon, 09 Mar 2026 15:17:51 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/ghost-figures.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "No Injuries but Mundy Pond Home Destroyed by Fire Overnight",
+      "link": "https://vocm.com/2026/03/09/no-injuries-but-mundy-pond-home-destroyed-by-fire-overnight/",
+      "snippet": "There were no injuries following an overnight house fire on Mundy Pond Road in St. John's. The homeowner managed to escape the property unharmed. The ...",
+      "pub": "Mon, 09 Mar 2026 14:53:40 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/house-fire-2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Spaniard’s Bay Business Damaged by Fire",
@@ -51,22 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/curler-mark-nichols-team-gushue-brier-curling.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Lab-Confirmed Flu Cases Down Significantly",
-      "link": "https://vocm.com/2026/03/09/293907/",
-      "snippet": "After reaching a peak during the Christmas holidays, lab-confirmed flu cases in the province have dropped substantially. There were fears that this ye...",
-      "pub": "Mon, 09 Mar 2026 10:30:14 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/flu-graph.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "HNL Applauds Premier’s Goal to Make NL ‘Tourism Capital of Canada’",
-      "link": "https://vocm.com/2026/03/09/293844/",
-      "snippet": "People who run the bars, eateries and accommodations like the premier's objective of elevating this province to become the tourism capital of Canada. ...",
-      "pub": "Mon, 09 Mar 2026 10:00:33 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/hospitality-nl-newfoundland-and-labrador-chair-john-devereaux-2.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump and Carney speak as Liberal government proposes debate on Iran war - CTV News",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWEg1aEI0am9UNmViWmtJRm5Lak5FVjJjY01iZlJ5T1VtajU4Z25qb3NQZnJfcTV2VDc0azRLYnhLUU9OMTlRNzB2RkJtUllYVHdiZ29pbnZhc01aSm9ENnFaYmx1Mk1Cc29HZm1jQ2lfNW1ERVRKcnp5bmpwb1JvTWVteHJmbWJHRXBhY191emppVXNLUldmcTZVVFloM3FoX3paT21GYUI1ZnFmQVFLSVdWemlKbGpRSDN6d2ZTcXBxU09KZEE?oc=5",
@@ -76,10 +76,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Dow futures sink more than 1,000 points, oil prices surge up to 30% as Iran conflict rages - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVlHdF90c2JkamktOFQtM29jallLYm5Cand2Z2xRUUlUekhDSUhWLUpyWlVtOWxqd0t5dDM5YmxSN0NabTdqY2VCeVFGbHZ6N0FwVFM5eEhzTXZ2bmlvNEtNVFIxU3BmcUhhbFBZZTljazhIS3ZHREZmVlFQenlmUDRxbE5zTmlVaDlTd1pQbmQ5V1d4WXVpSUtqcEtzSGNCbVdRbU5obVdGRG1EWTc2c3NrOWFaaEY1bEx0Wmh2cXBhdw?oc=5",
-      "snippet": "Dow futures sink more than 1,000 points, oil prices surge up to 30% as Iran conflict rages &nbsp;&nbsp; MarketWatch Stock market today: Dow, S&P 500, Nasdaq fall as oil prices surg",
-      "pub": "Mon, 09 Mar 2026 05:57:00 GMT",
+      "title": "Voting begins for new federal NDP leader - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb1I4dF95cHIwdUhERmJoUExqWXhXZ3psR0hpX0MtTXVoUm1xM3hqaVNCaFZrOE9MalRQTllJb1FTdDFUWFY0X2hpSWxvc1p4Mm53NUUyaXk2VkNkVV9XWDhnWkxwakpwV0duLVN2U1ZEbnF0c2JscFhodDRieGJUQTdvdHBWdHM?oc=5",
+      "snippet": "Voting begins for new federal NDP leader &nbsp;&nbsp; CBC Voting begins in NDP leadership race, Singh’s successor to be named March 29 &nbsp;&nbsp; Toronto Star NDP leadership voti",
+      "pub": "Mon, 09 Mar 2026 08:00:00 GMT",
       "image": ""
     },
     {
@@ -92,6 +92,14 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Suspect arrested following hit-and-run, assault - CityNews Kitchener",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOURmbkhBeTFTaEFLZXcxcjlYY1JXcFVQeFNxVXJ5dUt6UEt2RUVTd0R5ZFBiMkQ4TjdabkRYZEo1enhOMGVFenVkREl0ckVNaXZNNmtzNGlYSmRWYWE5Q0tLSVowUF9BemdMcHZOXzN0eGwtMkFKcGJnNldYZGZBVFVBN3NzdTFUaGY4NjFTR0F6Zw?oc=5",
+      "snippet": "Suspect arrested following hit-and-run, assault &nbsp;&nbsp; CityNews Kitchener Kitchener driver charged with assault and careless driving in hit-and-run &nbsp;&nbsp; CTV News Char",
+      "pub": "Mon, 09 Mar 2026 00:30:22 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Brier has St. John's businesses booming during typically slow winter - CBC",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPXy05MmpXSW1PUGhXdktPMlVnZnBRNmFpVHdIcGxGU2o2ajc4REV2anRvQW9EY2RsR1pzTFNYNlhrYWx6YkhLUTlsbFAtV1dYSFRmX0V2Q0lSOHNCVVhZVXowdnd2Z1JhNTNJd3pBZFEzTVVYaUxic1VqMW12NGdERzJfSXluQjJiWkd0WkJHUQ?oc=5",
       "snippet": "Brier has St. John's businesses booming during typically slow winter &nbsp;&nbsp; CBC Brier Takeaways: Talent gap is alarming for the future of Canadian curling &nbsp;&nbsp; Sports",
@@ -100,34 +108,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "5 patients moved after Halifax hospital loses power for 6 hours - CBC",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3JMYWdWV0VjN1BPX3NBT2JxcWlFaUpMbzRkeGYtb2V0Yk5vT0NRNUpfODVsSUd2RWdhV0V4clVBODVkUFZwNDJENXU0aE5YYVFYNlRaS2c0U0J3QmlKdjVMSWtJSldXcmFGUTdjZVFsR0Z4MnEzLXd6VWE3bFc4TXhpMzdIZG5Pdk0yNnY4d0NRSWRvZUktcDNUOTY1TGNDUmM1MjRYdUxkM0tXY3NnaXZwRkJOcms?oc=5",
-      "snippet": "5 patients moved after Halifax hospital loses power for 6 hours &nbsp;&nbsp; CBC View Full Coverage on Google News",
-      "pub": "Sat, 07 Mar 2026 18:55:33 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Alberta mountain towns deal with ‘low-grade anxiety’ as wildfire season begins - Global News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSXVXVHdZX2Uwc08wYVo2NEp0NDB5b05xaUpSR0t1a1R1cDNqM1BUR3VkdVBjVjY1VGM1X2RKUkpsaWE1NmJLNXRQT1dPYldKRFBEQmRLeWZWaGdpbUVMNzB5VVhyRGNOcWpBZl8tVGtIcGxSVTdLTnBMT0w5Z19nVjB4dmQ?oc=5",
-      "snippet": "Alberta mountain towns deal with ‘low-grade anxiety’ as wildfire season begins &nbsp;&nbsp; Global News A damp start to the wildfire season &nbsp;&nbsp; Yahoo News Canada Alberta l",
-      "pub": "Sun, 08 Mar 2026 13:36:24 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "The Honourable Rechie Valdez is set to lead Canada at the 70th session of the UNCSW - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZVBqZXB4LTZJOGlGVEZLZ1U5aVV4ajFfMEJNNGZRa25XOG5wUmtyTHZCbUlBSXZ1M2lWd2c2QXNZdUYtYlI0QWxPZTZ0d3VvNXRBcWtkN3RKd0lXNlFWLThuQ1NCTFV1WEpMTlVqRFB4NW1jS1ZMLUw2aVRuS3RLb1NpTXNNOEhpaDlzQWtmcm00ellUTENHWFNIUjVMOFVfMFdRdmVoZlVHUE5fTVpoZE1KczJ2M1hOc0txWmlDUVM?oc=5",
-      "snippet": "The Honourable Rechie Valdez is set to lead Canada at the 70th session of the UNCSW &nbsp;&nbsp; CityNews Toronto View Full Coverage on Google News",
-      "pub": "Sun, 08 Mar 2026 11:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "12-year-old Tumbler Ridge victim progressing, breathing tube removed - CityNews Vancouver",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2Jqcm9wbDlIZy1vMmt0cWVvMGw0VGxiSVNuWjhsWXg5bHhDSUJPREU0cTVweUg3M1RZU0pWWkZLTW1Ca19wYW9SZV85SFBfS0VrWnZaYUlnV0Nrc0ZPUmN5dFdDczdndXpPeExtZThULUNreHlOeXVDNlFoekl0RlZjSDg5TkxtYXdXVFZlSU9kX0RubmdZQUF3?oc=5",
       "snippet": "12-year-old Tumbler Ridge victim progressing, breathing tube removed &nbsp;&nbsp; CityNews Vancouver Mother of Tumbler Ridge mass shooting survivor Maya Gebala says breathing tube ",
       "pub": "Sat, 07 Mar 2026 19:49:50 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Time for a change: British Columbia decides to keep daylight saving time permanently - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcklSZThoT3dfTmVyeGF4ZTgxUDVUM3dUQmRPT00xbUFjU3dvOHAzNXlzUU9vVGN4R1ZMSV9BcGNlUUtzbUxxTzJrd0lWbTdDVHRaX0FDaFlRZWtZemdWbmVNR0pJeFd0TTQ5NTc2RGlFZ1AxWGYxQUY0TG4yQm9OZGRwVWlpVkZjSTV4RkNSdnFvRWdE?oc=5",
+      "snippet": "Time for a change: British Columbia decides to keep daylight saving time permanently &nbsp;&nbsp; The Guardian March 8, 2026, is the last time most British Columbians will change t",
+      "pub": "Sun, 08 Mar 2026 12:32:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Photo Gallery: Prime Minister Mark Carney in Japan - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54OUp5aU1lekpiXzMxTWRycGhFVG1xOTNsZU9HTGlpSXdtQXpNT3pzUGxjUWZTbnBESHN5aTczY3NycjdRcGJqRlFqZnZHTE5RNDZULXotTlUtWEhyemMxODZzRy1xMElocjRicEtJY3RndlRsclp5alRfV0NLRk0?oc=5",
+      "snippet": "Photo Gallery: Prime Minister Mark Carney in Japan &nbsp;&nbsp; Yahoo News Canada In Tokyo, Carney signs agreement with Japanese counterpart to expand trade and defence ties &nbsp;",
+      "pub": "Sat, 07 Mar 2026 22:07:22 GMT",
       "image": ""
     }
   ],
