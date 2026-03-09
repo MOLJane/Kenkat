@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-09T17:41:20.712903+00:00",
+  "generated_at": "2026-03-09T18:40:39.466171+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Significant Damage Caused to Stephenville Store",
+      "link": "https://vocm.com/2026/03/09/significant-damage-caused-to-stephenville-store/",
+      "snippet": "The RCMP is investigating after the windows were beaten out of a store in Stephenville on Sunday morning. Police were called to Byrne's Shoes and Spor...",
+      "pub": "Mon, 09 Mar 2026 17:57:59 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/damage-stephenville.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Government and Opposition Spar on Political Hires",
+      "link": "https://vocm.com/2026/03/09/293963/",
+      "snippet": "The Opposition is seeking answers today from government on the contract related to Dr. Des Whalen, hired as an advisor in the Premier's Office, but pa...",
+      "pub": "Mon, 09 Mar 2026 17:39:22 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/hogan-and-wakeham.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Taxpayers Federation Calling for Immediate Action on Reported Fraud Following AG Report",
@@ -12,7 +28,7 @@
     },
     {
       "source": "VOCM",
-      "title": "AAHP ‘Infuriated’ by Lack of Response from Current Government",
+      "title": "UPDATE: Premier says He’s Meeting with AAHP Tomorrow",
       "link": "https://vocm.com/2026/03/09/293959/",
       "snippet": "The Association of Allied Health Professionals says it is \"infuriated\" with \"silence it has received from the PC government. The AAHP says Premier Ton...",
       "pub": "Mon, 09 Mar 2026 16:01:45 +0000",
@@ -51,35 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/precision-tae-kwon-do-fire.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "U.S. Coast Guard to Resume Ice Patrol Operations This Week",
-      "link": "https://vocm.com/2026/03/09/u-s-coast-guard-to-resume-ice-patrol-operations-this-week/",
-      "snippet": "A commitment carried out by the United States Coast Guard since the sinking of the Titanic 114 years ago resumes this week. The U.S. Coast Guard has b...",
-      "pub": "Mon, 09 Mar 2026 13:03:25 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/us-coast-guard-international-ice-patrols.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "St. John’s Dockyard Hoping to Expand Current Facility",
-      "link": "https://vocm.com/2026/03/09/dock/",
-      "snippet": "St. John's Dockyard is looking at expansion and upgrades to its marine vessel repair and maintenance facility in St. John's Harbour. The aim is to exp...",
-      "pub": "Mon, 09 Mar 2026 12:45:47 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/st-johns-dockyard.jpg"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump and Carney speak as Liberal government proposes debate on Iran war - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWEg1aEI0am9UNmViWmtJRm5Lak5FVjJjY01iZlJ5T1VtajU4Z25qb3NQZnJfcTV2VDc0azRLYnhLUU9OMTlRNzB2RkJtUllYVHdiZ29pbnZhc01aSm9ENnFaYmx1Mk1Cc29HZm1jQ2lfNW1ERVRKcnp5bmpwb1JvTWVteHJmbWJHRXBhY191emppVXNLUldmcTZVVFloM3FoX3paT21GYUI1ZnFmQVFLSVdWemlKbGpRSDN6d2ZTcXBxU09KZEE?oc=5",
-      "snippet": "Trump and Carney speak as Liberal government proposes debate on Iran war &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Mon, 09 Mar 2026 10:55:25 GMT",
-      "image": ""
-    },
-    {
       "source": "Google News Canada",
       "title": "‘Privilege, not a right’: Why ICE is defending its detention of Canadian man - CTV News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbmlHX1FxZVprYXdwQkkxTTlYSjA3TF9XQXdwT2hab2t1V3RhV0J4akpZZElPT1NEczREejlBOV9KbjhuY0tMQ3U0blNRSUZxSXZPYW83ME1icUhESlJ6NFF2MFlfUWpLT3hkOHpkLThnMEpic1dORVZ1YWl2eVVfLVVlTTZnenY1RHhvZHlQUW5qTG9zc1U4Sks4RUxmTFhLaml0SllYQ0htd1Bha3JnVw?oc=5",
       "snippet": "‘Privilege, not a right’: Why ICE is defending its detention of Canadian man &nbsp;&nbsp; CTV News",
       "pub": "Mon, 09 Mar 2026 14:21:17 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "‘Every drop counts’: Calgary water restrictions begin Monday - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZXB3MUlNRmY2ZUY3ZC1vNk1Fay1EVVBsNjZIbF9wR01QQkZNU1RNT09MczBraXJTNWxRYi0zOHUxREppX0pwY19UN0VOOWFNaWFaZWVQWWlPeXhWLXdIbUFlMTZ5eXlIZ1NjbTBKZnVWeFNXZ0ZZYTlfVFozcUZFa1dsMktJazNwVWR3NllndkZjYkNlS1h2TnhrZ2pvdVc3ZFZKbVNnTjF0dC1TajEzVUl1NmpuMm9IZHU4QTRSbkpKU05UenFaNGpkYnpfeEE?oc=5",
+      "snippet": "‘Every drop counts’: Calgary water restrictions begin Monday &nbsp;&nbsp; CTV News View Full Coverage on Google News",
+      "pub": "Sun, 08 Mar 2026 18:18:31 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "U.S. customs searched a record number of electronic devices last year - CBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNXZpVVhfN0hxSzFUMS1WNnhlVXFsNXdzZ2IyVHgxR2kxSFNXazE1WkgxRFJLcE5qNW4wZEJiSTQ1cHYyV2hUMENTX2V2MFZOX2pLYU1vazBEbkdoQjNWdFhDcG04dDVpd0lhXy1DanhTOHhadVQ5S0NUUEJBemdzQkU5Wlp4M094Yk15bmtvblViWC1lX3Q0UWR4UQ?oc=5",
+      "snippet": "U.S. customs searched a record number of electronic devices last year &nbsp;&nbsp; CBC U.S. border agents searching electronic devices is way up. Smartwatches, SIM cards and flash ",
+      "pub": "Sun, 08 Mar 2026 08:00:00 GMT",
       "image": ""
     },
     {
@@ -100,18 +108,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "G7 to take 'necessary measures' to support energy supplies - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CSy1lNEhYY3Y0T0N6N0x2OWo4aGNtdElMRnVYMExsbEJ6d3VUbjc1VWlDaWhDVGFWWVFHOTFlZTJCUjZBX3Z5TDJvbkNnRXRGeGwyeURmUFlMZw?oc=5",
-      "snippet": "G7 to take 'necessary measures' to support energy supplies &nbsp;&nbsp; BBC G7 discuss joint release of emergency oil reserves &nbsp;&nbsp; Financial Times G7 energy ministers to m",
-      "pub": "Mon, 09 Mar 2026 15:42:06 GMT",
+      "title": "Brier Takeaways: Talent gap is alarming for the future of Canadian curling - Sportsnet",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWk1kODRacVpBcjc3N1dTVklFTWFxekF6NzRaanUzV2NEQ2lsdlAyNU5aUllRa285MUFWLUk1MFBkd19GX1ItSzdaaDBVdUZwZXlsT2NPbjktRlhMUWVoV1Fqc0c1NmRpTmg1T0VfbTktYnVKQXhrdVBGUUIyMW5qUVhuZ3NSV3RRNzJsMmtSdEtpS0VJNG5BbklGMlQtb1BFMVBtRDgxaTh2VUltVjNzVlhCX3hOQQ?oc=5",
+      "snippet": "Brier Takeaways: Talent gap is alarming for the future of Canadian curling &nbsp;&nbsp; Sportsnet Brier has St. John's businesses booming during typically slow winter &nbsp;&nbsp; ",
+      "pub": "Mon, 09 Mar 2026 17:23:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘Every drop counts’: Calgary water restrictions begin Monday - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZXB3MUlNRmY2ZUY3ZC1vNk1Fay1EVVBsNjZIbF9wR01QQkZNU1RNT09MczBraXJTNWxRYi0zOHUxREppX0pwY19UN0VOOWFNaWFaZWVQWWlPeXhWLXdIbUFlMTZ5eXlIZ1NjbTBKZnVWeFNXZ0ZZYTlfVFozcUZFa1dsMktJazNwVWR3NllndkZjYkNlS1h2TnhrZ2pvdVc3ZFZKbVNnTjF0dC1TajEzVUl1NmpuMm9IZHU4QTRSbkpKU05UenFaNGpkYnpfeEE?oc=5",
-      "snippet": "‘Every drop counts’: Calgary water restrictions begin Monday &nbsp;&nbsp; CTV News Calgary water restrictions in effect, expected to remain for 4 weeks &nbsp;&nbsp; Global News Pri",
-      "pub": "Sun, 08 Mar 2026 18:18:31 GMT",
+      "title": "Crown in Frank Stronach trial only proceeding with seven of 12 original charges - CP24",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdmMzcnl5OXlkYTRCYm1YVXFVcWZub0szRUNQdTFDbjdYeUJpMHUwdmdILUt6Z2FRWS1zYjlrUWwxOVhLb2NJMHJ2OUx4eHB0b1VpVHBRQUZUek5fOGlRaHBVdENQTkJTS0doUkJ3X0NsMHRyMlR3b2xHVFFoc3hlUEtCN3JVQmNDYmYzSW93MkF4Vm5OcC1aSGVOV1lTUkNxWTJjTlViMkpZLUphSUdSeXdUV2kzakJka1VZNmNSMlNDa1FT?oc=5",
+      "snippet": "Crown in Frank Stronach trial only proceeding with seven of 12 original charges &nbsp;&nbsp; CP24 Crown to withdraw another 2 charges in sexual assault trial of Frank Stronach &nbs",
+      "pub": "Mon, 09 Mar 2026 14:59:18 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaDNRUUlVQi0wT0U1cHdvY21GSGVXU1YxWUpJNW1WMUxFbnBQVkcxMjRBd1U0cmZ0UzFKUlhyNmcxbXY4dm1PRmlOTTdxT2pwd3FtU1dXV2l4NHJ5bnhUb3Nna3dkSllqT1VUSVpPWFFEejJZRmo5UGdraFZVMldwR3dkalJveVBMRUpVV29hWDlaTVNqUXZkQ0R2TXFlV1lxV2ZPTTNyWUljeS1qSFAyX1FwRWlGM1dsdW94ZzB1b0tTS2NHZUlIQ29CUmVuQQ?oc=5",
       "snippet": "Patient and paramedics trapped in West Vancouver apartment elevator during emergency: report &nbsp;&nbsp; CTV News",
       "pub": "Mon, 09 Mar 2026 01:20:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Man arrested in fatal Vaughan shooting, one suspect outstanding: police - CP24",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0tLSldoMGMzY0VCSGJaYWJtR1ZiOUk4YVhJZnJ6LVhLRVdva2FCNGFBLVQwYnpoaWVVbzlGXzNNTnBFb1RIUXRYcTlfekROQ3duTWx4R3hpVzFRaEZBeV9GeVhZN3gweUVzcTZoemI0Qk9VWlhrUjVhS0s1ZEF4enl4ak5EeS1CT1lualp5ei1FZ055bnFBMUg5VTA0bWtjZ3dGYTktd3JXcndvYU9kTUFFcw?oc=5",
-      "snippet": "Man arrested in fatal Vaughan shooting, one suspect outstanding: police &nbsp;&nbsp; CP24 View Full Coverage on Google News",
-      "pub": "Mon, 09 Mar 2026 14:12:11 GMT",
       "image": ""
     }
   ],
