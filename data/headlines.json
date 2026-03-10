@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-10T12:40:31.575290+00:00",
+  "generated_at": "2026-03-10T13:56:52.358059+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "State of Emergency Declared in PC-SP, Residents Being Evacuated as Town Battles Major Fire",
+      "link": "https://vocm.com/2026/03/10/state-of-emergency-declared-in-pc-sp/",
+      "snippet": "The Town of Portugal Cove-St. Philips has declared a State of Emergency and is evacuating people near a stubborn blaze at the Landings Pub and Eatery ...",
+      "pub": "Tue, 10 Mar 2026 13:30:44 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/smoke-landings.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Planned Testing of LIL Unlikely to Happen This Week",
+      "link": "https://vocm.com/2026/03/10/planned-testing-of-lil-unlikely-to-happen-this-week/",
+      "snippet": "NL Hydro won't be going ahead with planned testing on the Labrador Island Link this week. The utility says planned high-power testing of the line that...",
+      "pub": "Tue, 10 Mar 2026 12:43:45 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/03/labrador-island-link-lil-via-nalcor.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Crews Battling Blaze at Landings Restaurant in Portugal Cove",
@@ -51,20 +67,20 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/01/281537856.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "RNC Charge Man with Impaired in Downtown St. John’s",
-      "link": "https://vocm.com/2026/03/10/dt-impaired-march-10/",
-      "snippet": "A man has been charged with impaired after police say he blew over twice the legal limit in St. John's early this morning. The vehicle was pulled over...",
-      "pub": "Tue, 10 Mar 2026 08:27:24 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025.png"
+      "source": "Google News Canada",
+      "title": "Shots Fired at U.S. Consulate in Toronto, Police Say - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOGxPMGZndDRIUkhZck44eHY2clNlQ0VNREQ1emo3amJZQkRsM1RMTHR3M0dZelJnb2tEd0Y0Yk4yTXNtNmszQi0xaUxIVF9LMDZyV2pvUVU0UmNTcnpOUEtiYktUdV9yU0U0Tnpnem1YUE5CYVVJaU1sZjY0T2xmMFlFdGlRZw?oc=5",
+      "snippet": "Shots Fired at U.S. Consulate in Toronto, Police Say &nbsp;&nbsp; The New York Times U.S. Consulate in downtown Toronto hit by gunfire: police &nbsp;&nbsp; CP24 Shots fired at U.S.",
+      "pub": "Tue, 10 Mar 2026 11:28:09 GMT",
+      "image": ""
     },
     {
-      "source": "VOCM",
-      "title": "March 10, 2026 – Have significant increases in fuel prices caused you to rethink your household budget?",
-      "link": "https://vocm.com/2026/03/10/march-10-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12637').",
-      "pub": "Tue, 10 Mar 2026 08:00:59 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/gas-pump-fuel-price-pricing-adjustment-gasoline-2.jpg"
+      "source": "Google News Canada",
+      "title": "Oil’s 30% Rise Monday Completely Erased As Trump Reportedly Says Iran War Is ‘Very Complete’ - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPam5sYXB2YkJ0bjJqdm9pRmJRRGhsY29pT0FGTGFrWHVwcWZTOWIyekxkSDU3MllxV21TNmJCemNxaHFYVW1tOWRnSFl3NTBQLWdTQTJHZGRFcFVuRUprV1E1LVByY3JQQnRjNi1CTHVyUjFRYkZ5X0J5LWZ3cDNfeXlxcS1ob0lNUWhISi03VE16cHJCNWZnNXNpY0pLaDk5UWVUelV3dkdFdHJhYXF4S2JTaHM3c1RLQlk3Zm52ZTFRTEppcFE4?oc=5",
+      "snippet": "Oil’s 30% Rise Monday Completely Erased As Trump Reportedly Says Iran War Is ‘Very Complete’ &nbsp;&nbsp; Forbes Trump Sends Mixed Signals On When Iran War Might End: Live Updates ",
+      "pub": "Mon, 09 Mar 2026 20:23:00 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -72,14 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjhmYzlPd1RyY3p0eURPcklJUkk3NVV4LVdjaTdjclFCTEpyaEFQTkRNdldsQl92THRvSWhZT3ZyVFVIUnhMSGZwSDdDdWVOTTY2dkpzTS0xZDBzOE8wUE1RdXF4MnJ2TUpfTVJrYWlORF9HMlI4TWZ4Z3pHcFI2S3pqZ3pTWFpGRFRfSjBPR1RXbVNyc0p5S2tSdG8yM2RZVThwNF9qSVo?oc=5",
       "snippet": "Driver rescued from burning vehicle attacks firefighter after multi-vehicle crash on southbound Deerfoot &nbsp;&nbsp; Calgary Herald View Full Coverage on Google News",
       "pub": "Tue, 10 Mar 2026 01:33:01 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump administration starts to panic over rapidly rising oil costs - CNN",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ONk0xNUY3NjlLNktaOC1FYWh2NUd0aFpVUVJZYU1COGRYak5MdGl1NXFoMEl2OVZCd0djdFo0U0ZROXNYQUhnNFVkSWI0R09lVGRqNms5bENVRXg4d2FTa2VCMm1KM0p3cHZjWGVoY0pIcDEx?oc=5",
-      "snippet": "Trump administration starts to panic over rapidly rising oil costs &nbsp;&nbsp; CNN Why Trump can't afford to brush off the Iran war's economic impact &nbsp;&nbsp; CBC As Iran war ",
-      "pub": "Mon, 09 Mar 2026 20:31:32 GMT",
       "image": ""
     },
     {
@@ -92,42 +100,34 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Trump administration starts to panic over rapidly rising oil costs - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ONk0xNUY3NjlLNktaOC1FYWh2NUd0aFpVUVJZYU1COGRYak5MdGl1NXFoMEl2OVZCd0djdFo0U0ZROXNYQUhnNFVkSWI0R09lVGRqNms5bENVRXg4d2FTa2VCMm1KM0p3cHZjWGVoY0pIcDEx?oc=5",
+      "snippet": "Trump administration starts to panic over rapidly rising oil costs &nbsp;&nbsp; CNN Why Trump can't afford to brush off the Iran war's economic impact &nbsp;&nbsp; CBC ‘We’ve got t",
+      "pub": "Mon, 09 Mar 2026 20:31:32 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Family of 12-year-old injured in Tumbler Ridge mass shooting sues OpenAI - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFlPY05qQm1Ib0RabTZwdGR2eDBacXZXSGo1RmFLbEFjVEJqRVVHdk5KTXhLSDZCU25BcFF0Mlg0QjZLMXNaVlZwZTc1YnNMWkhWemZGR1hMSkExeC0yd0FmNjlwY2FPT0xJRmZKbU9ETXdwWElDa3QyVG83T001dGF2LUhEUHE3MEk5cmJobWFvbXR0ZHYzdmpPeU1GeFJQcHZyX0Q4TU9LcUIxQUxJNjc2UGhoTFJNa1kwajBmTXQ3Vmcza095RzFB?oc=5",
-      "snippet": "Family of 12-year-old injured in Tumbler Ridge mass shooting sues OpenAI &nbsp;&nbsp; The Globe and Mail Family of Tumbler Ridge shooting survivor sues OpenAI &nbsp;&nbsp; Global N",
+      "snippet": "Family of 12-year-old injured in Tumbler Ridge mass shooting sues OpenAI &nbsp;&nbsp; The Globe and Mail View Full Coverage on Google News",
       "pub": "Tue, 10 Mar 2026 03:31:26 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Notorious Miramichi serial killer Allan Legere dead at 78 - CBC",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWHhZZC1TbEs0eWhYa1RseXFoazhWcy1MdkdmcWJsZm5FLW1yaWVUdFg3TEZOekdHelY4MXZLbVpOTTl0eUl2RjFJSWMwcy1jcFhRT0dZWFlCeFR2QjNUTWxnS0lxRldBeFg3b3RZQ1phZmxDS1NEVUhjbVE0UzZMNlU3cXYtVjZnUHVORGkwVm41Vk5HMmE2UURGWko?oc=5",
-      "snippet": "Notorious Miramichi serial killer Allan Legere dead at 78 &nbsp;&nbsp; CBC View Full Coverage on Google News",
-      "pub": "Tue, 10 Mar 2026 10:31:14 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Carney calls three by-elections in Canada that could grant him a majority - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KVnNIU1R3QjdMaTRUNUlyUTdpVmtPNUtyMWctVmMyUGxKdzcxU3U2NmViTTNoMzVNbHNqNHFZRExuekdac3IzWU5JRXU3QkM0dzhqeWRFSXRKdw?oc=5",
-      "snippet": "Carney calls three by-elections in Canada that could grant him a majority &nbsp;&nbsp; BBC Prime Minister Carney announces by-elections &nbsp;&nbsp; pm.gc.ca How a byelection in Qu",
-      "pub": "Mon, 09 Mar 2026 14:49:39 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Crown to withdraw another 2 charges in sexual assault trial of Frank Stronach - CBC",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSW1tbWMzVWVtblpWQnhRTWJjWk81TTQ2UG5XS2JJX1Q0UXMtQUt5RlBOYkRsQWphcHVvTjhLcDdnLWkwdEtLU1JGQThCM1AtM0Z2V2Rrd3hnZVFFeWUyWDFwRDliaVJ4ekZCTGJzekY2LXY2emVpMThHTmRIc3dGV2pZS3p4YUdMSkUyeUdYeno?oc=5",
-      "snippet": "Crown to withdraw another 2 charges in sexual assault trial of Frank Stronach &nbsp;&nbsp; CBC Defence to call more witnesses in Frank Stronach’s sexual assault trial &nbsp;&nbsp; ",
+      "snippet": "Crown to withdraw another 2 charges in sexual assault trial of Frank Stronach &nbsp;&nbsp; CBC Defence to call more witnesses in Frank Stronach's sexual assault trial &nbsp;&nbsp; ",
       "pub": "Mon, 09 Mar 2026 22:13:40 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Peter Mansbridge didn't tell Pierre Poilievre, podcast audience about work for South Korean firm - CBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWTVQejYxaTg4RTJQQ0kycHQ3bVpPNllpdEdwRUdBYUZjSEFOY0hTaW9qWVltWWVPc1FIN3YxS1d4M1laQjVEdF8yckEzZHpUckdxZVhrclR5N3lFeG4zSk5hYUVqa2RzbG1yLVA4TlBFOWRGTGxieXBRc0tlOHlUNExfSQ?oc=5",
-      "snippet": "Peter Mansbridge didn't tell Pierre Poilievre, podcast audience about work for South Korean firm &nbsp;&nbsp; CBC View Full Coverage on Google News",
-      "pub": "Tue, 10 Mar 2026 02:26:00 GMT",
+      "title": "Calgary under month-long water restrictions as Bearspaw feeder main work begins - Global News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSmJXaDF2US10T3RYUlNmUkVCWkZMZVVJYzZWODl0M2F5TmE3Mzh2WFRpNm1CUU1aWGRaVnlyeF8zazVkalhOV2MxVlI5ZEJvallEUFlQZXFjQjFTYS16RU5JYW1KS3ZIV3lGMHZhd1UwX29zTzFIdDMzUUd2ZXI3NmlNYzVDZFhDLXo2XzRmX0VsZmRh?oc=5",
+      "snippet": "Calgary under month-long water restrictions as Bearspaw feeder main work begins &nbsp;&nbsp; Global News Braid: Huge cost of water pipe projects is heading straight for Calgary rat",
+      "pub": "Mon, 09 Mar 2026 13:05:53 GMT",
       "image": ""
     }
   ],
