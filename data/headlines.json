@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-10T08:47:02.415753+00:00",
+  "generated_at": "2026-03-10T09:36:11.711149+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "RCMP Looking for Driver Who Fled From Them in Holyrood",
+      "link": "https://vocm.com/2026/03/10/holyrood-driver-fled-rcmp/",
+      "snippet": "The RCMP is hoping the public can help as they search for a driver who fled from police on the weekend. Holyrood RCMP say an employee at a gas station...",
+      "pub": "Tue, 10 Mar 2026 09:24:23 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-14.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Messy Weather System Takes Aim at Island for Thursday",
+      "link": "https://vocm.com/2026/03/10/messy-weather-march-10/",
+      "snippet": "A nice day weather-wise is shaping up across the island, but things become unsettled in the latter half of the week. Environment Canada meteorologist ...",
+      "pub": "Tue, 10 Mar 2026 09:17:20 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/snow-metro-st-johns-kenmount-road.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Trump Predicts Short Iran Conflict While Warning of Severe Response to Oil Disruptions",
@@ -51,30 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/hogan-and-wakeham.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Taxpayers Federation Calling for Immediate Action on Reported Fraud Following AG Report",
-      "link": "https://vocm.com/2026/03/09/293936/",
-      "snippet": "The Canadian Taxpayers Federation is calling on the provincial government to take \"immediate action\" to address weaknesses in government financial con...",
-      "pub": "Mon, 09 Mar 2026 16:47:58 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/04/devin-drover-canadian-taxpyers-federation.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "UPDATE: Premier says He’s Meeting with AAHP Tomorrow",
-      "link": "https://vocm.com/2026/03/09/293959/",
-      "snippet": "The Association of Allied Health Professionals says it is \"infuriated\" with \"silence it has received from the PC government. The AAHP says Premier Ton...",
-      "pub": "Mon, 09 Mar 2026 16:01:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/02/allied-health-professionals-nl-aahp-gordon-piercey-4.jpg"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Gold Slumps as Oil Surge Stokes Fears of Higher Interest Rates - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHAtYS1DTEFlbVJPbi1Nb2lESndCV0JreXhMUnJBYkREOFpSN1BocWxOa3pOcURLN2NDZTBFNDBiakNkYk93bWwya0VadEtlZHNjbUVsUVdyMmVyN1JnVzA4cGt3SEl0S1hlbTJRRDltV3hQSm9vZlRSM1RHbEhUUzJhREY2Y3RuNFBsbWFPTVpaZjBKVEtFWkNEbE1KTFJ6bzBOSXJYOVpBU0h6MVdTVW9UZw?oc=5",
-      "snippet": "Gold Slumps as Oil Surge Stokes Fears of Higher Interest Rates &nbsp;&nbsp; Bloomberg Middle East crisis live: Trump claims Iran war will be over ‘very soon’ but Tehran says it wil",
-      "pub": "Mon, 09 Mar 2026 20:25:27 GMT",
-      "image": ""
-    },
-    {
       "source": "Google News Canada",
       "title": "Poilievre calls out PM Carney for his absence during debate on Iran war - CTV News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNejRLcDFDSFoyV0g1RHFOTTMyUF9KOFdNLUNmeWpMcTA0V2pUOEsyZW9BcnAwa1BsSXVwZHl6WmxaQXNqMFVLY0xuakdwLURQbmJzTEdaalVoTEdGNVAxMFpOdGRNSFhvaFpOR3FpZDhTMzNtS2k1UWJTLVVha3Jpa0gwTDgzektwWWdiaGhSb2w4RmhNbDFuVEEyVVkzcEJwM2tTUDJuNHRmaGlyckFvRjJB?oc=5",
@@ -92,6 +84,22 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Gold Slumps as Oil Surge Stokes Fears of Higher Interest Rates - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHAtYS1DTEFlbVJPbi1Nb2lESndCV0JreXhMUnJBYkREOFpSN1BocWxOa3pOcURLN2NDZTBFNDBiakNkYk93bWwya0VadEtlZHNjbUVsUVdyMmVyN1JnVzA4cGt3SEl0S1hlbTJRRDltV3hQSm9vZlRSM1RHbEhUUzJhREY2Y3RuNFBsbWFPTVpaZjBKVEtFWkNEbE1KTFJ6bzBOSXJYOVpBU0h6MVdTVW9UZw?oc=5",
+      "snippet": "Gold Slumps as Oil Surge Stokes Fears of Higher Interest Rates &nbsp;&nbsp; Bloomberg Middle East crisis live: Trump claims Iran war will be over ‘very soon’ but Tehran says it wil",
+      "pub": "Mon, 09 Mar 2026 20:25:27 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump administration starts to panic over rapidly rising oil costs - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ONk0xNUY3NjlLNktaOC1FYWh2NUd0aFpVUVJZYU1COGRYak5MdGl1NXFoMEl2OVZCd0djdFo0U0ZROXNYQUhnNFVkSWI0R09lVGRqNms5bENVRXg4d2FTa2VCMm1KM0p3cHZjWGVoY0pIcDEx?oc=5",
+      "snippet": "Trump administration starts to panic over rapidly rising oil costs &nbsp;&nbsp; CNN Why Trump can't afford to brush off the Iran war's economic impact &nbsp;&nbsp; CBC As Iran War ",
+      "pub": "Mon, 09 Mar 2026 20:31:32 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Driver rescued from burning vehicle attacks firefighter after multi-vehicle crash on southbound Deerfoot - Calgary Herald",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjhmYzlPd1RyY3p0eURPcklJUkk3NVV4LVdjaTdjclFCTEpyaEFQTkRNdldsQl92THRvSWhZT3ZyVFVIUnhMSGZwSDdDdWVOTTY2dkpzTS0xZDBzOE8wUE1RdXF4MnJ2TUpfTVJrYWlORF9HMlI4TWZ4Z3pHcFI2S3pqZ3pTWFpGRFRfSjBPR1RXbVNyc0p5S2tSdG8yM2RZVThwNF9qSVo?oc=5",
       "snippet": "Driver rescued from burning vehicle attacks firefighter after multi-vehicle crash on southbound Deerfoot &nbsp;&nbsp; Calgary Herald View Full Coverage on Google News",
@@ -100,18 +108,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump administration starts to panic over rapidly rising oil costs - CNN",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ONk0xNUY3NjlLNktaOC1FYWh2NUd0aFpVUVJZYU1COGRYak5MdGl1NXFoMEl2OVZCd0djdFo0U0ZROXNYQUhnNFVkSWI0R09lVGRqNms5bENVRXg4d2FTa2VCMm1KM0p3cHZjWGVoY0pIcDEx?oc=5",
-      "snippet": "Trump administration starts to panic over rapidly rising oil costs &nbsp;&nbsp; CNN Why Trump can't afford to brush off the Iran war's economic impact &nbsp;&nbsp; CBC Ukraine war ",
-      "pub": "Mon, 09 Mar 2026 20:31:32 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "‘Disgusting’: Ford slams shooting attacks on GTA synagogues, calls on Ontarians to stand up against hate - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZXlqZDJSd3VYeUItTFV2QTVGY3ZaYU56WWNlYWNQSU5lTzR2V002NU1EUmdabGQ2Y2F4U24zakJQR2JBblI3d3JxWnNOREFfZzIyR0hQNHl6Ujh6NWdKamxaSy1yN2k1aHBaMVZKZ0lqRkI5U2cyNzdRTklHbUg0aVdLWkhzcEVPanlEdzF4UWtDcHBUQ2ptWWtKc1RoLWxmLTZIUXJ4NldLTV9YZWh2dV9vak5zVTFXY19ic1h0R09SdUlMUFVRR2pERjJjM1VOUWJzMA?oc=5",
-      "snippet": "‘Disgusting’: Ford slams shooting attacks on GTA synagogues, calls on Ontarians to stand up against hate &nbsp;&nbsp; CP24 ‘We all stand together:’ Toronto Jewish community rallies",
-      "pub": "Mon, 09 Mar 2026 17:37:34 GMT",
+      "title": "Carney calls three by-elections in Canada that could grant him a majority - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KVnNIU1R3QjdMaTRUNUlyUTdpVmtPNUtyMWctVmMyUGxKdzcxU3U2NmViTTNoMzVNbHNqNHFZRExuekdac3IzWU5JRXU3QkM0dzhqeWRFSXRKdw?oc=5",
+      "snippet": "Carney calls three by-elections in Canada that could grant him a majority &nbsp;&nbsp; BBC How a byelection in Quebec could help the Liberals win a majority government &nbsp;&nbsp;",
+      "pub": "Mon, 09 Mar 2026 14:49:39 GMT",
       "image": ""
     },
     {
