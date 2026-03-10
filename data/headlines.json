@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T15:53:21.321309+00:00",
+  "generated_at": "2026-03-10T16:49:43.368390+00:00",
   "count": 16,
   "items": [
     {
@@ -38,7 +38,7 @@
       "source": "VOCM",
       "title": "State of Emergency Declared in PC-SP, Residents Being Evacuated as Town Battles Major Fire",
       "link": "https://vocm.com/2026/03/10/state-of-emergency-declared-in-pc-sp/",
-      "snippet": "The Town of Portugal Cove-St. Philips has declared a State of Emergency and is evacuating people near a stubborn blaze at the Landings Pub and Eatery ...",
+      "snippet": "The Town of Portugal Cove-St. Philips has declared a State of Emergency and is evacuating people near a stubborn blaze at the Landings Eatery and Pub ...",
       "pub": "Tue, 10 Mar 2026 13:30:44 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/landings-hutton.jpg"
     },
@@ -68,10 +68,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "DEVELOPING: U.S. Consulate in downtown Toronto hit by gunfire - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUXhRczFiaE1YYVFONHpjTVhXcTkxN2NqblVXeU9vQVZVLW83QmtvX0t1bGI4eFFTcHFSeUVfUm9Mb3A1b3k1d0NycmxwNG9TNzJjaFNVTnc2QmFYTnN2c09FaVlPN3ViSWtOWlFsZkxYWXk3OHdiWmNDZlRaQ0hEMUlaaU45NElRNEg2WnpjN3o5MWt2NzNQeFhKdWU?oc=5",
-      "snippet": "DEVELOPING: U.S. Consulate in downtown Toronto hit by gunfire &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Tue, 10 Mar 2026 14:40:02 GMT",
+      "title": "BREAKING NEWS: Police release image of suspect vehicle in shooting at U.S. Consulate in Toronto - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekdEZzVzQ1FlQWRYLUw0SFVBbXlaMEF4YVJqemFHT1FTb0lFSTNwdzctSi1hWENOQlpLZllXVGdxenNnWk02aUZQVTZwMEpobUZ6akt0c3R0WXJKVWNOandQNWg2N1ZKcEJpanM1d1gzdEd6bl9VUHotSjB6SDNLQ0k2dEdDSHpXMlVTSmdHS2JPOVh2Z3R2R1FIajhxaTRlYVE3QUZEdmptamhENUJ3T0hqTTdXQzhKdUE?oc=5",
+      "snippet": "BREAKING NEWS: Police release image of suspect vehicle in shooting at U.S. Consulate in Toronto &nbsp;&nbsp; CTV News DEVELOPING: U.S. Consulate in downtown Toronto hit by gunfire ",
+      "pub": "Tue, 10 Mar 2026 16:10:48 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Hegseth threatens Iran with ‘most intense day of strikes’ - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX3BCSFpWcFdBUDMzQzhiODUwZzA1UkRIOVpVWDFERWVDMmZlOU5vekVHb0s1MDU1OUlLckdvLUthUzZYUnZYUlBRM3UyTTZMOFVXSVBKUFdVTEFIWEhuczZuMG5OYjBkakxWam9DeHdNTmJUbm5uT0tsOVIzV0dLYTJiQmR2UHVDdTVaVlN0V1RBOFNLemc?oc=5",
+      "snippet": "Hegseth threatens Iran with ‘most intense day of strikes’ &nbsp;&nbsp; The Globe and Mail Pete Hegseth vows ‘most intense day’ of US strikes against Iran &nbsp;&nbsp; Al Jazeera Ir",
+      "pub": "Tue, 10 Mar 2026 09:38:59 GMT",
       "image": ""
     },
     {
@@ -79,31 +87,23 @@
       "title": "'We got it wrong': N.S. government reverses course on some budget cuts after outcry - CBC",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU0dUT3g3OUZOMlhMZWoxMnQyS1VoOWFvWlk5c2hVdElMeFlELWJqUW14Q0tIM2FYaEhkaGlsRkY1WHdxVW5sbnkzbTVNVVZQczdNcDhsWHpzellLWC1oMTdPRFE4ZGx4X19memdORnN3SnVSemRhWE56NGhOUGJ3a3Y2ZzNPSGpJbWxEOUswQ2s2Y1VZUXY4Tm9aWkVDbUl1?oc=5",
       "snippet": "'We got it wrong': N.S. government reverses course on some budget cuts after outcry &nbsp;&nbsp; CBC $53.6 Million in Grants, Funding Reinstated &nbsp;&nbsp; Government of Nova Sco",
-      "pub": "Tue, 10 Mar 2026 15:04:42 GMT",
+      "pub": "Tue, 10 Mar 2026 16:34:46 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Hegseth threatens Iran with ‘most intense day of strikes’ - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX3BCSFpWcFdBUDMzQzhiODUwZzA1UkRIOVpVWDFERWVDMmZlOU5vekVHb0s1MDU1OUlLckdvLUthUzZYUnZYUlBRM3UyTTZMOFVXSVBKUFdVTEFIWEhuczZuMG5OYjBkakxWam9DeHdNTmJUbm5uT0tsOVIzV0dLYTJiQmR2UHVDdTVaVlN0V1RBOFNLemc?oc=5",
-      "snippet": "Hegseth threatens Iran with ‘most intense day of strikes’ &nbsp;&nbsp; The Globe and Mail Hegseth says today will be 'most intense' of US war on Iran, as people in Tehran describe ",
-      "pub": "Tue, 10 Mar 2026 09:38:59 GMT",
+      "title": "Driver rescued from burning vehicle attacks firefighter after multi-vehicle crash on southbound Deerfoot - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjhmYzlPd1RyY3p0eURPcklJUkk3NVV4LVdjaTdjclFCTEpyaEFQTkRNdldsQl92THRvSWhZT3ZyVFVIUnhMSGZwSDdDdWVOTTY2dkpzTS0xZDBzOE8wUE1RdXF4MnJ2TUpfTVJrYWlORF9HMlI4TWZ4Z3pHcFI2S3pqZ3pTWFpGRFRfSjBPR1RXbVNyc0p5S2tSdG8yM2RZVThwNF9qSVo?oc=5",
+      "snippet": "Driver rescued from burning vehicle attacks firefighter after multi-vehicle crash on southbound Deerfoot &nbsp;&nbsp; Calgary Herald View Full Coverage on Google News",
+      "pub": "Tue, 10 Mar 2026 01:33:01 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Metro Vancouver weather: Special statement issued for 'snowfall accumulations' - Vancouver Is Awesome",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUU1TX1dmTXl3el9wVmRpaEtMRjZHdnYyNTg2Yy02c3JDSFRNREluV3dMa09YQ3ZwbWhqWUpGcm9BMnhnOWRKY3ljMU9sdjk0U0lxa0doTFdJb2JmSEpZUG5pQkJqWDhUaGdoSzNzZzZjbU9CbHpjbDFBSTV6TlQta2lmQnRmTTBKQlNqLTdHR2U4MjFfSEpQRVRkSDJjZmN4OGVTa0FtbjhYUQ?oc=5",
-      "snippet": "Metro Vancouver weather: Special statement issued for 'snowfall accumulations' &nbsp;&nbsp; Vancouver Is Awesome Snow expected across southwestern B.C. from Lower Mainland to Vanco",
+      "snippet": "Metro Vancouver weather: Special statement issued for 'snowfall accumulations' &nbsp;&nbsp; Vancouver Is Awesome View Full Coverage on Google News",
       "pub": "Mon, 09 Mar 2026 23:55:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Nobody wants to say the M-word ahead of this crucial Quebec byelection next month - National Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmtfYzdjbzlDZE9CU1JDc0JMNS0yeGpKUXkyRmZlYjZrY0M5OVcxS3lOelZvWHN4N1BpMDVWZDhLajNRRmRxdVJPeEUyZ1RGWTdZYnp6Y1VYak5rSS1aUHJYNi1pVXBMbTFzaFpONXJOdEMzUWtFdkYtckFZa251REd2aEVTM2ljempobWJoTnEyU0pzTW1Ld1E1NkJSSGlOQVkzZ0lwWkFMTV93TkZWd2Y3aE5UbW9hTkZYaw?oc=5",
-      "snippet": "Nobody wants to say the M-word ahead of this crucial Quebec byelection next month &nbsp;&nbsp; National Post How a byelection in Quebec could help the Liberals win a majority gover",
-      "pub": "Tue, 10 Mar 2026 08:02:52 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Notorious Miramichi serial killer Allan Legere dead at 78 - CBC",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWHhZZC1TbEs0eWhYa1RseXFoazhWcy1MdkdmcWJsZm5FLW1yaWVUdFg3TEZOekdHelY4MXZLbVpOTTl0eUl2RjFJSWMwcy1jcFhRT0dZWFlCeFR2QjNUTWxnS0lxRldBeFg3b3RZQ1phZmxDS1NEVUhjbVE0UzZMNlU3cXYtVjZnUHVORGkwVm41Vk5HMmE2UURGWko?oc=5",
-      "snippet": "Notorious Miramichi serial killer Allan Legere dead at 78 &nbsp;&nbsp; CBC Allan Legere, New Brunswick’s ‘Monster of the Miramichi,’ dies in prison &nbsp;&nbsp; Global News Notorio",
-      "pub": "Tue, 10 Mar 2026 12:13:29 GMT",
+      "title": "Allan Legere, New Brunswick’s ‘Monster of the Miramichi,’ dies in prison - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84b0s1bVVvRE9fWEQzMm02WFoxd1k3UzN6d2F0WkxIV3JGSllDUGVRcnhyRUtiOHpKcGl6SThOTkFORks3dXNWS293R1pKdjZkbU1VdnBaN0ZoTEtDMjN4dE16dmo?oc=5",
+      "snippet": "Allan Legere, New Brunswick’s ‘Monster of the Miramichi,’ dies in prison &nbsp;&nbsp; Global News Notorious Miramichi serial killer Allan Legere dead at 78 &nbsp;&nbsp; CBC Convict",
+      "pub": "Tue, 10 Mar 2026 12:02:40 GMT",
       "image": ""
     }
   ],
