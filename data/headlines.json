@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-11T14:52:56.743932+00:00",
+  "generated_at": "2026-03-11T15:40:15.325963+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Postal Delays Persist Following Difficult Winter",
+      "link": "https://vocm.com/2026/03/11/postal-delays-persist-following-difficult-winter/",
+      "snippet": "Even though the heaviest weather is behind us, people in metro are still having problems getting their mail. Some haven't had any for a few weeks, eve...",
+      "pub": "Wed, 11 Mar 2026 14:53:03 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/Canada-Post-OFfice.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "NLSA Names Top Athletes, Teams, Coaches and Officials",
+      "link": "https://vocm.com/2026/03/11/294125/",
+      "snippet": "The NL Soccer Association has announced its top athletes, coach, team and officials. Teri Murphy of Holy Cross Nutra Holdings is the senior female pla...",
+      "pub": "Wed, 11 Mar 2026 14:51:18 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/soccer-generic.png"
+    },
     {
       "source": "VOCM",
       "title": "Minister says Access Remains a Key issue Hampering Tourism Growth",
@@ -51,35 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/lela-evans-scrum-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "House of Assembly Salutes Brad Gushue’s Career",
-      "link": "https://vocm.com/2026/03/11/house-of-asssembly-salutes-brad-gushues-professional-curling-career/",
-      "snippet": "The House of Assembly paid tribute yesterday to Brad Gushue's illustrious curling career. The two-time Olympic medalist also has a world curling champ...",
-      "pub": "Wed, 11 Mar 2026 12:07:34 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/brad-gushue-tribute-lis.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "St. John’s Approves Capital Works Budget",
-      "link": "https://vocm.com/2026/03/11/st-johns-approves-capital-works-budget/",
-      "snippet": "The City of St. John's has finalized where it will be spending its capital works budget this year. The capital city brought down its 2026 budget a cou...",
-      "pub": "Wed, 11 Mar 2026 12:05:18 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/07/city-of-st-johns-city-hall-summer-jul-2023.jpg"
+      "source": "Google News Canada",
+      "title": "Carney inches closer to majority, as fourth MP defects to Liberals - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OZlE5S1VLSHZ5bXpLX2xQWTVLeE9DMWVRcEVNQmlZZHpqRXNUWVJ2UW9obUhKOU9MRmdmT1FDZXpiX05Kel9la1RQdDRoU3p2QnNjZk1KMHpmZw?oc=5",
+      "snippet": "Carney inches closer to majority, as fourth MP defects to Liberals &nbsp;&nbsp; BBC Liberals are elated while Poilievre accuses Carney of ‘backroom deals’ after NDP defection &nbsp",
+      "pub": "Wed, 11 Mar 2026 13:26:57 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Heavy rainfall floods Toronto roads as storm drenches southern Ontario | CBC News - CBC",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQzlValJQd3U4bFh1NEx3NjBJVnBZdUFBSkNnUDF2VlUzZk0xN2d0dldXTHdBbjQybWIzWS1mbnhfV3k1eTY1b0V1Y0RHdnZHTlB3RkxHVWdxbUJHZVNtTXoydVNSdEVYa0VubzNhQlFSOXdLTThYdVFOQUp6Rmxjc05iMmp1S2F2NVNSZkh4VlAtUQ?oc=5",
-      "snippet": "Heavy rainfall floods Toronto roads as storm drenches southern Ontario | CBC News &nbsp;&nbsp; CBC Schools closed, buses cancelled by freezing rainstorm &nbsp;&nbsp; CBC Toronto ro",
+      "snippet": "Heavy rainfall floods Toronto roads as storm drenches southern Ontario | CBC News &nbsp;&nbsp; CBC Schools closed, flights cancelled in anticipation of freezing rain in Quebec &nbs",
       "pub": "Wed, 11 Mar 2026 12:36:49 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Carney inches closer to majority, as fourth MP defects to Liberals - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OZlE5S1VLSHZ5bXpLX2xQWTVLeE9DMWVRcEVNQmlZZHpqRXNUWVJ2UW9obUhKOU9MRmdmT1FDZXpiX05Kel9la1RQdDRoU3p2QnNjZk1KMHpmZw?oc=5",
-      "snippet": "Carney inches closer to majority, as fourth MP defects to Liberals &nbsp;&nbsp; BBC Nunavut MP Lori Idlout cites Northern priorities in joining Liberals &nbsp;&nbsp; The Globe and ",
-      "pub": "Wed, 11 Mar 2026 13:26:57 GMT",
       "image": ""
     },
     {
@@ -92,18 +92,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "U.S. says it destroyed 16 mine-laying vessels as Iran threatens to block Gulf oil exports - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR1Y5LTFIVjRuNGF4X19ISHh1NTlOekRpWFlwRGZ3SE9XYlZXVU9SM2VDckRtS3VybEpTejlNSkNBOWVvbWVLTWxueFJUU2FtY3k0Tk54Yy05SXlEOUN4ZlQ0YkwtNlVnXzdrTGhGdUF5dk5LbkRxOUl6czJSaTBSTENCS2N0UEswMnVLN0NOZzEwYTZjZW5yMy0xaGJjVjNJSDdNdERaRWVvMmdBdmp2SjJoWlExSDBVdlFSeWRoanlndUxCaFhMeFY0WHc4ZERLNHlaVVFHV3Qzdw?oc=5",
-      "snippet": "U.S. says it destroyed 16 mine-laying vessels as Iran threatens to block Gulf oil exports &nbsp;&nbsp; CTV News Iran begins laying mines in Strait of Hormuz, sources say &nbsp;&nbs",
-      "pub": "Wed, 11 Mar 2026 01:55:00 GMT",
+      "title": "Lords a-leaving: Britain is ejecting hereditary nobles from Parliament after 700 years - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObDBMQkdFZWl2YXJtT2VnbUs0Rm43ZjUxT3NSYklpQWJZcDVRVFNGWHNMYmtwc2JaMFo3VWVxYVpXaTQwaVlTQ0pyLUhxNVdaaUNtSVhvRjRpbGNTVU95RHc4M1lIZXNxWmxzeHBYNUNsZ2QwQkpkZEJ6ajJlN2ExR2d0Z0ROLXF2TGFBT3JWY3JVWWJCV3NpSllRREUzNlRld0RxN2ln?oc=5",
+      "snippet": "Lords a-leaving: Britain is ejecting hereditary nobles from Parliament after 700 years &nbsp;&nbsp; AP News Hereditary peers to be removed from Lords as bill passes &nbsp;&nbsp; BB",
+      "pub": "Wed, 11 Mar 2026 14:29:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Pezeshkian Has No Contact with Mojtaba Khamenei; Iranian Government May Not Be Able to Pay Employee This Month - IranWire",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZkhTSGp4S0E4Z09JdzZCWTN5R3p0TWtRQ2RuQk50OVNPUE9ZYXcyTWgwMlB2N242V0JpS0R1UU5GS095Vm1UbGVQa2JJVHBvRUl1REl6Y0g0dS1Xb0VsRGR2QkpDMC1JQW5zbW4tS09STUs5VHJRYVRFWkxOQkZuV1Zyd3BTbkczeXBTXzVnSXlHUWNCWnFKNExaTmg4QnRadXhrYWNmOVVXQUI0LWZFRjcxQnB4aUpXaS1YYkxQTDJ3VXJManplVkdvMTdlb2hNaXdIeWlhbGN3dzdvOGZv?oc=5",
-      "snippet": "Pezeshkian Has No Contact with Mojtaba Khamenei; Iranian Government May Not Be Able to Pay Employee This Month &nbsp;&nbsp; IranWire Middle East crisis live: three ships hit in str",
-      "pub": "Tue, 10 Mar 2026 12:45:22 GMT",
+      "title": "U.S. says it destroyed 16 mine-laying vessels as Iran threatens to block Gulf oil exports - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR1Y5LTFIVjRuNGF4X19ISHh1NTlOekRpWFlwRGZ3SE9XYlZXVU9SM2VDckRtS3VybEpTejlNSkNBOWVvbWVLTWxueFJUU2FtY3k0Tk54Yy05SXlEOUN4ZlQ0YkwtNlVnXzdrTGhGdUF5dk5LbkRxOUl6czJSaTBSTENCS2N0UEswMnVLN0NOZzEwYTZjZW5yMy0xaGJjVjNJSDdNdERaRWVvMmdBdmp2SjJoWlExSDBVdlFSeWRoanlndUxCaFhMeFY0WHc4ZERLNHlaVVFHV3Qzdw?oc=5",
+      "snippet": "U.S. says it destroyed 16 mine-laying vessels as Iran threatens to block Gulf oil exports &nbsp;&nbsp; CTV News Iran begins laying mines in Strait of Hormuz, sources say &nbsp;&nbs",
+      "pub": "Wed, 11 Mar 2026 01:55:00 GMT",
       "image": ""
     },
     {
@@ -116,18 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "2nd round of polygraphs conducted in disappearance of N.S. children - CBC",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYzNtNXE4c3RBc1pyZndXR1l4WlphWlF5ajhsRXY4dldWRmd6YUhvdGExc0RnYTVQSk9mWXhOaTZmUjNYYTFIOTh0d2xfNGNhcUxweGxCdFpZcWtNVGw1Mi1NUDdGc1daSU04bmo3M2w1Vnk5elNTRXZyTjFYUUVmMHpPZ0R5Ty00TDloMDloT2QtSjdtakJ0LUUwUHlOa2tsXzZ1eHltQjNjQUxReHBOVXBMYXB5em5ROUhuVTNpbw?oc=5",
-      "snippet": "2nd round of polygraphs conducted in disappearance of N.S. children &nbsp;&nbsp; CBC",
-      "pub": "Wed, 11 Mar 2026 09:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Ford government confirms 75% reduction in number of conservation authorities - Global News",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQnpKaF9GQXloYWp5bkVsU2NCQV93MGxVQWgxTUhqOG0tbE9BNkowX0swdG5ZSkswNEl1SExOTG9GWVRvLUtHUU00X050OTBKZWk1MzhiVEN0NVd5NVdKVS11NGE4TElQVWtXQm13amYwdWRQRTk3OExkdEo3MG1XRUtMUWhYN184MWc?oc=5",
       "snippet": "Ford government confirms 75% reduction in number of conservation authorities &nbsp;&nbsp; Global News Ontario to consolidate 36 conservation authorities into 9 &nbsp;&nbsp; CBC Loc",
       "pub": "Tue, 10 Mar 2026 15:01:55 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Water main break floods homes in southwest Calgary - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV2pVQndPaFJGX2FQYjZ2YW1nRnhCUkUzZW02ajdQU3Z5NGtYRklUMlpYZndlX25Zc2RBUnJ4MjN5T0VKbkJLaUdJMmNhWnctU1lQaFJibUhQZUlDLUpiZkJoc2VSa2FFZGNLd1dwY1FVenY4MVF5cXNsVXpGVm5hVEtMc1hkWWI3SWthRTRXYUNsWHV3?oc=5",
+      "snippet": "Water main break floods homes in southwest Calgary &nbsp;&nbsp; CTV News Calgary under month-long water restrictions as Bearspaw feeder main work begins &nbsp;&nbsp; Global News Wa",
+      "pub": "Tue, 10 Mar 2026 14:02:32 GMT",
       "image": ""
     }
   ],
