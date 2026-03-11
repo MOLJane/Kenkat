@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-11T07:59:26.912137+00:00",
+  "generated_at": "2026-03-11T08:49:29.935228+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "March 11, 2026 – Government is making the gas tax reduction introduced by the former administration permanent. Should further cuts to the gas tax be made?",
+      "link": "https://vocm.com/2026/03/11/march-11-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12658').",
+      "pub": "Wed, 11 Mar 2026 08:02:09 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/11/gas-pump.jpg"
+    },
     {
       "source": "VOCM",
       "title": "First Light Report Highlights ‘Health Equity Deficit’",
@@ -59,18 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/transportation-and-infrastructure-minister-barry-petten.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Spring Vacation Plans?  Make Sure Your Vaccines are Up-To-Date says CMOH",
-      "link": "https://vocm.com/2026/03/10/294035/",
-      "snippet": "The province's Chief Medical Officer of Health is encouraging people to make sure they are up-to-date on their vaccinations before travelling outside ...",
-      "pub": "Tue, 10 Mar 2026 14:29:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/travel-vaccine.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "NDP MP Lori Idlout crossing floor to Liberals, PM Carney two seats shy of majority - CP24",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjZyclYyVEJ1dnVTS2h0dGxrX05hRFpLSzBILWViWGFhOUN1a0ZxSXpLQVdMR2xPREdTbDd2al82aTZNOFRJREFvWUJHNnkxOFA2aGV0Y0lJdmE1cGhaeU5jOUF3NTBHQ0Zpc2NrX2JUTHdFRTJjenMwUmxvQ1I0LU9uRzc5eDhlS3NXdzl2SklmOGljWHNubWJ3QWFqMjFQM3gzSkplTVZsRndQLV9NNVNuZGNNTUJzQ0w3S0xNd1o?oc=5",
-      "snippet": "NDP MP Lori Idlout crossing floor to Liberals, PM Carney two seats shy of majority &nbsp;&nbsp; CP24 NDP MP Lori Idlout crossing floor to Liberals, bringing Carney closer to majori",
+      "snippet": "NDP MP Lori Idlout crossing floor to Liberals, PM Carney two seats shy of majority &nbsp;&nbsp; CP24 View Full Coverage on Google News",
       "pub": "Wed, 11 Mar 2026 05:20:04 GMT",
       "image": ""
     },
@@ -92,26 +92,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "LeBlanc raises glass to Conservative proposal allowing Canada Post to ship booze to consumers - National Post",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOek8ydkpxNW5naGZWUElaVkVuWW81OGFUTFBfUkE0dUFVZW1VQWpxcFM2QTBTb3hHWURxcmZ3THMwTmZaREVrSnlwY0RQM215ZUtCUmpqVVVCWVc2TzZEeGNsZkpJbW5ISVBsaGF3YzkzQms3elJKNWdTeUFsN21Wb2tETkk5NnBxcUFjdW1jam1maDlJYTRjTDR2b2JfSlpDWnNtUnZ2WmpoT1NZWGRkX0hfNGZxYm9CN1JlZmhtLVNqTm5BbGFoTGVReVA?oc=5",
-      "snippet": "LeBlanc raises glass to Conservative proposal allowing Canada Post to ship booze to consumers &nbsp;&nbsp; National Post Conservative bill would allow Canada Post to deliver alcoho",
-      "pub": "Tue, 10 Mar 2026 21:36:42 GMT",
+      "title": "Nobody wants to say the M-word ahead of this crucial Quebec byelection next month - National Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmtfYzdjbzlDZE9CU1JDc0JMNS0yeGpKUXkyRmZlYjZrY0M5OVcxS3lOelZvWHN4N1BpMDVWZDhLajNRRmRxdVJPeEUyZ1RGWTdZYnp6Y1VYak5rSS1aUHJYNi1pVXBMbTFzaFpONXJOdEMzUWtFdkYtckFZa251REd2aEVTM2ljempobWJoTnEyU0pzTW1Ld1E1NkJSSGlOQVkzZ0lwWkFMTV93TkZWd2Y3aE5UbW9hTkZYaw?oc=5",
+      "snippet": "Nobody wants to say the M-word ahead of this crucial Quebec byelection next month &nbsp;&nbsp; National Post How a byelection in Quebec could help the Liberals win a majority gover",
+      "pub": "Tue, 10 Mar 2026 08:02:52 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "MPs press Carney on Ottawa’s response to fallout from Iran war - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPclJsY2MtYXIxdkw4TjdwQzNsZF9Lb2FxX1F1azFZa0hkMEVWb2RBVTl4MEx1R2t3ZElyNmdlZzlZWG5ta3lXYml5ZEswcDY0T0FoZENFdHFIY2w2aWNucExkUXc1UlZNQkVpNEVpVGNIWndhWV9UVHVGTFRQOWdnZS1GODFYczhuNEVVV284aU1NZw?oc=5",
-      "snippet": "MPs press Carney on Ottawa’s response to fallout from Iran war &nbsp;&nbsp; The Globe and Mail Carney says Canada 'will never' join war on Iran, as CSIS steps up vigilance over pot",
-      "pub": "Tue, 10 Mar 2026 14:21:38 GMT",
+      "title": "Canada will ‘never participate’ in Iran offensive, Carney says - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYVNGYm5yLVBzbDFmVGlaV0JieHZ0eGpyLUlEbDlMRjZBWkF5OVc0d2x0elF2Y2NZYnI1eGhWU1BfQndfekVGTmlHYnRvdHVpeEZ1QjVOdGtGandpQzVWdG15dlpKWC0taXpMX3dRX2c1czFEMGtaYUlnZTBlMzBOeDh0aFp1OU1VMUpGU3R1NGozZ0pVY2FHbnFrd2V4LTlYTVE?oc=5",
+      "snippet": "Canada will ‘never participate’ in Iran offensive, Carney says &nbsp;&nbsp; CTV News Carney says Canada 'will never' join war on Iran, as CSIS steps up vigilance over potential ext",
+      "pub": "Tue, 10 Mar 2026 17:30:08 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "US Navy tells shipping industry Hormuz escorts not possible for now - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXN5RnJ0RUQ1ZDlvLWtGbUViVXV5NXdiZ0RWOHV5UVd4aEdhVTF3YUpuV0U2endhTndKNW5PVWVlVEcyam16dGNuMHR6M1lySXlUM2tVUnNlMzRKb2h2LTRxMzRQY2dxUzM0X0xkQ3ZJZEFZeWU4VXpPTjJ6XzlUcG1QRVFzQWJTSFFaX0dzVnlUam8zeHViSF90RTFRV2FMX2RtQjJnZGxMbG5VaEwzakU2eU9UdmRP?oc=5",
-      "snippet": "US Navy tells shipping industry Hormuz escorts not possible for now &nbsp;&nbsp; Reuters Oil retreats even after Energy Secretary wrongly claims Navy escorted tanker through Strait",
-      "pub": "Tue, 10 Mar 2026 20:01:58 GMT",
+      "title": "How Trump created a ‘nightmare scenario’ for the world economy - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lYS1DQjFpV1lLWUY3bHVzdTVWWmlPc21vVnlVR0stZWVSWHkwSmJEV3dOdlNZdGEtaFhLMERuWUlfZDY3VGk2VC1mVElmdE80UFV6b3hwaVJERlY4aUZSeTdGM3EtWEZsZHhrU1Z0MkQyUWNzSkUtR1F1cFZqZFE?oc=5",
+      "snippet": "How Trump created a ‘nightmare scenario’ for the world economy &nbsp;&nbsp; Fortune ANALYSIS | Why the Iran war's impact on the economy poses a problem for Trump | CBC News &nbsp;&",
+      "pub": "Tue, 10 Mar 2026 16:05:00 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Tens of thousands of dollars in damage after Pokemon cards stolen in B.C.'s Lower Mainland - CBC",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzVVN3hxbEVuMWl3ckpIMlBYcVZUekg3dXBaN3lqSzloVlJuaVhPYjkzZDdyQWRnbzkwdkNFcGIxRk04SVd0VnFBN2FLU3pBeXQzbldCSzR5cFVIenRLYWppd2lvQnYxWkFXMmp5MlBLTDhwTWJLZE5aN0hTa3RBUkNaM3JySGNld1hfVXRGTE5Nek50a1d6d3NyOA?oc=5",
-      "snippet": "Tens of thousands of dollars in damage after Pokemon cards stolen in B.C.'s Lower Mainland &nbsp;&nbsp; CBC Pokémon cards are a hot commodity, and B.C. thieves aren’t playing aroun",
-      "pub": "Wed, 11 Mar 2026 00:50:00 GMT",
+      "title": "Mother of wounded Maya Gebala sues OpenAI over mass shooting in Tumbler Ridge, B.C. - CP24",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHdEekxFMUNtYm5taVdGVnc2Q1RtSDI2NF9Eb3ExclR3ZVdYY2gtN0RIbTd6cjFvUGdYeXU1ZUNYQnZQMjN2bXVvam9RcU0xT19OWlpRdEtPVkRSa25MQ19YRGt2RHg4Ym14YWd5LVVUVXNwam5Ua3VxZTZUR0tobWpuYkpISWgyVkxLa2YtMktvbW95NUJBaFZ2WkxuaWp0clN6UWFvYTFPMHNldEE2TVZZSVVPbFB2dUo0eWlhUkdSNnM?oc=5",
+      "snippet": "Mother of wounded Maya Gebala sues OpenAI over mass shooting in Tumbler Ridge, B.C. &nbsp;&nbsp; CP24 View Full Coverage on Google News",
+      "pub": "Tue, 10 Mar 2026 00:48:00 GMT",
       "image": ""
     }
   ],
