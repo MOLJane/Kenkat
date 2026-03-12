@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-12T11:48:05.893966+00:00",
+  "generated_at": "2026-03-12T12:39:26.336849+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Quebec Man Charged After Vehicle Stolen in Labrador",
+      "link": "https://vocm.com/2026/03/12/quebec-man-charged-after-vehicle-stolen-in-labrador/",
+      "snippet": "A Quebec man has been arrested and charged with possession of stolen property after the theft of a vehicle in Labrador. A pickup truck was stolen from...",
+      "pub": "Thu, 12 Mar 2026 12:18:18 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-1.png"
+    },
     {
       "source": "VOCM",
       "title": "Capital City to Reconfigure Some Tangly Intersections, Install Traffic Lights",
@@ -59,18 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/09/diesel-gas-pump.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "March 12, 2026 – Have you encountered continued delays in getting your mail following recent snowstorms?",
-      "link": "https://vocm.com/2026/03/12/march-12-2026-have-you-encountered-continued-delays-in-getting-your-mail-following-recent-snowstorms/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12661').",
-      "pub": "Thu, 12 Mar 2026 08:00:07 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/01/canada-post-mailboxes.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Thousands affected by power outages amid freezing rain across Quebec - CityNews Montreal",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQnFIRXJtazMzNlA2WGFwWU9JeFBtVllYLTU3NFNFRUc4d05WN1Yxd1ktejIza0RNeGpMejZuVFd6Nmh3bzJZaEk2UmpqM3k2SHM4ZnlmaDc2OGpBS2UyX2doc1gwQXhsZGFrWlFnWFUxbGdWdXFHOEdaanA3ZmpHcjcxbk1xdTlXZzdjMzlR?oc=5",
-      "snippet": "Thousands affected by power outages amid freezing rain across Quebec &nbsp;&nbsp; CityNews Montreal Hundreds of thousands without power, school closures continue in Quebec followin",
+      "snippet": "Thousands affected by power outages amid freezing rain across Quebec &nbsp;&nbsp; CityNews Montreal These schools are closed due to the ice storm in Quebec &nbsp;&nbsp; CTV News Po",
       "pub": "Wed, 11 Mar 2026 21:18:33 GMT",
       "image": ""
     },
@@ -78,15 +78,23 @@
       "source": "Google News Canada",
       "title": "What’s driving PM Carney’s ability to court floor crossers? - CTV News",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQjRtWHUtcFlxU1l5aVlLSzJWSUx5VFY2ZDR4VDQ1XzJlRmJuajRabGM5UGM0X0loSWM0ZzhXQ01uRlZDS2R5Z2dqU2pKTmU4NEhCSkFPcF9SNXJkWk85Y0lheGVudDhfaS1GQkhfR0toMmVURG9NdnktY2d6ckkwcDRja01KUTBkNHpLdWVDR3lLOElERHF2Q2tWeElBdw?oc=5",
-      "snippet": "What’s driving PM Carney’s ability to court floor crossers? &nbsp;&nbsp; CTV News Politics! 4th floor crosser, NDP's future &nbsp;&nbsp; CBC Matt Gurney: Carney’s Liberals may get ",
+      "snippet": "What’s driving PM Carney’s ability to court floor crossers? &nbsp;&nbsp; CTV News After losing one floor crosser, the dwindling NDP may be about to lose another MP &nbsp;&nbsp; Nat",
       "pub": "Thu, 12 Mar 2026 09:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Iran tightens grip on Strait of Hormuz, targets Gulf energy sites and ships as conflict escalates - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmpHejBTYU5aZW5pZXh6MlNqbFl2ZDNtMF9zcVoxTk9oMy1uTTA4Nk9YbkpiYWdWUDdDLVhrNG45RjBVYmJ2Um5XVnJTeWJOeUNzT0ZCZjA3X195ZVVtRGZzeFJfSU9LM1k4WEpJN19uMTFSVTZMeWVKWUV1VkNzNw?oc=5",
+      "snippet": "Iran tightens grip on Strait of Hormuz, targets Gulf energy sites and ships as conflict escalates &nbsp;&nbsp; CBC Live updates: Oil sees historic disruptions as Iran escalates att",
+      "pub": "Thu, 12 Mar 2026 10:21:20 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Hidden Game: All hail rookie goaltender Jacob Fowler in comeback victory at Ottawa - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90bXBRN1FWeE9tZ0QxTXlPMjcxRGlOeG16WGJGMjNWNHNKV25WRDRUOTQ4aVhyTjN4RVNUdV8wVWVvYXQ3TmdlejFQN283UkNLd3AxRFV2U2FSd2ZWNXJvRlRVeXc0cUhrOFdDQ0VXM0FSem5OUDE0bHhDUzktdUk?oc=5",
-      "snippet": "Hidden Game: All hail rookie goaltender Jacob Fowler in comeback victory at Ottawa &nbsp;&nbsp; Montreal Gazette Brownstein: Montreal filmmaker Joyce Borenstein takes her Oscar-vot",
+      "snippet": "Hidden Game: All hail rookie goaltender Jacob Fowler in comeback victory at Ottawa &nbsp;&nbsp; Montreal Gazette Montreal gunshot victim takes himself to hospital &nbsp;&nbsp; Mont",
       "pub": "Thu, 12 Mar 2026 04:26:11 GMT",
       "image": ""
     },
@@ -94,40 +102,32 @@
       "source": "Google News Canada",
       "title": "Oil price leaps higher on news of 2 tankers attacked in the Gulf - investingLive",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOczA5Q0RXUjczMGtPNHpwQ2lUVzZYRVYtdm9vVG4xTXB1Yy1KNDNlWWk2X3Zaa1ZqUVZjNnhpQUh1YWU2N3RyZVhfZTMwekYyN21vcnJ1WE5CYkhDbERuRU92ZnRIbk9OblNYUTRiSEFsTXJEektKYnE4eEZQXzBGVWNzSDVOckkxWWRGcjVrR19YNE9ySVk3UE0zSlBrSEFsejZqVEhCUUdyYzN4Ujd3TnRR0gG3AUFVX3lxTE52SDg0elBibVc1WVNkeDdic3hlSG1aZGhGRlJmNmVtZkFobGZRblNVc0JlTE42SU9RX201Q0lBVmV3N1ltNkRaZDd0bmE2N3UtZ3pSZ1VHLU5sTjNzWUswTmhfSDJqbFM0dTlDTThROTlscVpLYzVaUkdZUUJPMWN2REhlWWRRc3MyUm5IemNmNEFDVmJ6T0RGYi1VaFZ3U3JydFNIZ2tPT1pnaGkyNTZadHM1WDZzVQ?oc=5",
-      "snippet": "Oil price leaps higher on news of 2 tankers attacked in the Gulf &nbsp;&nbsp; investingLive Attacks reported on three more cargo ships in Gulf, with oil price back near $100 &nbsp;",
+      "snippet": "Oil price leaps higher on news of 2 tankers attacked in the Gulf &nbsp;&nbsp; investingLive Mideast Shipping Crisis Widens With More Tankers Hit in Gulf &nbsp;&nbsp; Bloomberg.com ",
       "pub": "Thu, 12 Mar 2026 02:29:28 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "King Charles expressed concern over Alberta separatism in meeting with Indigenous leaders: grand chief - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3p3SXNhMXVHZGFHd0NkOXlRN0Fqcjhubm1CdUNsMnlmSVI0TS1DdXYzckVPaUxWOGZiMnFORXRwbEQ2VGhNaUVWd29XeHlTRzl5QkxkNVFrdzZBdHBCZWFnS2ZUU0VkT09FaDhCUG5QXzc2VXI4LWRlRmhxOEJ2SmY4RWhES3d4Y3dxbWJjWE9wV2VfRUFBeF9tN0Qyd0FUc2ZJZlRZS0JKUW1pSjBJYTh0bk1QejVfR2E1cTJubDdYV3c?oc=5",
-      "snippet": "King Charles expressed concern over Alberta separatism in meeting with Indigenous leaders: grand chief &nbsp;&nbsp; CBC Gifts fit for a king: Here’s what First Nations Chiefs prese",
-      "pub": "Thu, 12 Mar 2026 01:01:00 GMT",
+      "title": "How Trump has addressed the deadly Iran school bombing - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd096U3lkQWJnZFZaT2FZMkpBYlF1VXBoNlFzdjdHazRxaktSTGI1V1JlNEJCa0djLURCOFVyaGRZUlRSXzRzTlA1MUZoOTdVMHZyNG9ZOTBVeS1KY3NQLVlwVjJGdjlhWHFNWl84R0dGVWhMNDI4WEYxQUxoNlRwZzZ6OXhsa21lbGhONG05cFpDVDNiSzg2bDVHNNIBoAFBVV95cUxPY2tIZWVraktiY3pFMVFueWttUF9LN3drU0JjeElLUTRlYVlPTHM4cGNGQ2I4UWM5UVhZeFhNcmsyWTMwTVpJM3RTTXZTUm9sNEswT1RYRDVHV1dPSkxWZjhBVk4tSzVyRWhoV1dsNy14ZXlpUkhzNFVzRE9PUDlldWpCVWlkVVNHZjFtV3lPSEtid2FYZEVQVHFLTXZOOFEz?oc=5",
+      "snippet": "How Trump has addressed the deadly Iran school bombing &nbsp;&nbsp; Al Jazeera US responsible for deadly missile strike on Iran school, preliminary inquiry says &nbsp;&nbsp; The Gu",
+      "pub": "Wed, 11 Mar 2026 22:03:04 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Hormuz disruption tests limits of global energy markets | Iran International - ایران اینترنشنال",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3bC1BWDVSMEphcDNnMS1vbEZmenByT2NROVdacFdNSnpFTE94Um53YlhmZTdHVElVNTlCT0doUGZRUkljUUJkS0pvaURING0wSkE?oc=5",
-      "snippet": "Hormuz disruption tests limits of global energy markets | Iran International &nbsp;&nbsp; ایران اینترنشنال How Iran has used the strait of Hormuz to throttle oil and gas – a visual",
-      "pub": "Wed, 11 Mar 2026 03:05:48 GMT",
+      "title": "Hundreds of thousands without power, school closures continue in Quebec following storm - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2lBYlhsbzJJNVQ3T3U3Smt1bnhuZnFjanUtYzN6X2pSVXNiRkNCN3kyMGVKRFFyYlduYzJpTU40VjNZSmZlZENsMHBteDNXNGR6SXdSeXVvS2haVkNtWWw0ZU5BNW1KVUhLNkRreHZDYTFPTkw4d09fUHhTS0c3TGRB?oc=5",
+      "snippet": "Hundreds of thousands without power, school closures continue in Quebec following storm &nbsp;&nbsp; CBC Some western Quebec schools closed again Thursday after storm &nbsp;&nbsp; ",
+      "pub": "Thu, 12 Mar 2026 12:17:22 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Majority of Albertans oppose separating from Canada: Leger poll - Edmonton Journal",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOejA3ajZxR0F0ME10QmhTVFRTTmU1SExCMmxNbFV2ZlVubXVqZHlRLXFKU3I2bnE4Ym40VHZpTlExbGU3QU1NT1F3YzR1N1pnQVJaU2RzUWVwcGRMUWlnRmpXd1lRQ3NZYnlhQVI5YjJHWnZzam1ZTHZmckZKOUVWZ1JPSjJza0duN1R6M2FpVTFGSzA0M2hXa0FSaHMtRWtuOVdYUzNwdmFGQQ?oc=5",
-      "snippet": "Majority of Albertans oppose separating from Canada: Leger poll &nbsp;&nbsp; Edmonton Journal Alberta separation talk already affecting more than a quarter of surveyed Calgary busi",
-      "pub": "Tue, 10 Mar 2026 20:31:33 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Ontario to consolidate 36 conservation authorities into 9 - CBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ215RnRsOTJIdzlMWkFVWkhqeFBWVnJUMDMtZ0RyRXBxZXhBM25zLVZkM1JKem03X3R5RmhoVFB2ZzZGb1BwcE5VUUR4bW1wdWRXUURpaWlkZnhlVkRWX1RGMnZNaEVLNDAyM2dsem1tczU5RmdZd1o5NGJtSkRKLVhDSQ?oc=5",
-      "snippet": "Ontario to consolidate 36 conservation authorities into 9 &nbsp;&nbsp; CBC Ford government confirms 75% reduction in number of conservation authorities &nbsp;&nbsp; Global News Que",
-      "pub": "Tue, 10 Mar 2026 20:57:00 GMT",
+      "title": "Treaty 6 chiefs raise Alberta separation concerns with King Charles - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkhmWkZTOUUxZUFrcGFyN2llOGN3S05veVBOMlE0eUxCSzJkV0JEV3ZPeFVTTlhFanZZTFVVZUlrYkVCLV9DSWVnZjJJd29OaFAtRG5sMndPdTk1TTZvSDUzVHl6QUpqSTl4VVBhZVA1MWdDc0JvQ3VSVHpiT1BlNFBkdXdPV2xrTncyUmE3UnRLRVZQWXVUNjlQM0RiR3F6Q2lPNkJ1dzB1aE5wRFJoUjgxQmRxMk9LQ0w4?oc=5",
+      "snippet": "Treaty 6 chiefs raise Alberta separation concerns with King Charles &nbsp;&nbsp; CTV News King Charles expressed concern over Alberta separatism in meeting with Indigenous leaders:",
+      "pub": "Wed, 11 Mar 2026 23:27:57 GMT",
       "image": ""
     }
   ],
