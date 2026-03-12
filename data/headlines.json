@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-03-12T08:01:07.923985+00:00",
+  "generated_at": "2026-03-12T09:06:17.219582+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Snow, Freezing Rain, Rain and More in Forecast Today",
+      "link": "https://vocm.com/2026/03/12/snow-freezing-rain-rain-and-more-in-forecast-today/",
+      "snippet": "Mother Nature will be throwing everything but the kitchen sink at the island today. There will be everything from snow, ice pellets and rain for prett...",
+      "pub": "Thu, 12 Mar 2026 08:57:56 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/generic-snow-pic.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Woman Wanted on Several Warrants Found Hiding in Centre City Residence",
+      "link": "https://vocm.com/2026/03/12/woman-wanted-on-several-warrants-found-hiding-in-centre-city-residence/",
+      "snippet": "Metro police were called in to assist an external agency at a home in the centre city yesterday. RNC were called to the insecure premises around 2 p.m...",
+      "pub": "Thu, 12 Mar 2026 08:41:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-7.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Diesel, Home Heating Fuels Down; No Change to Price of Gas",
+      "link": "https://vocm.com/2026/03/12/diesel-home-heating-fuels-down-no-change-to-price-of-gas/",
+      "snippet": "There's a bit of a break for those who rely on diesel and home heating fuel. The price of diesel on the island is down 12.3 cents per litre and drops ...",
+      "pub": "Thu, 12 Mar 2026 08:31:03 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/09/diesel-gas-pump.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "March 12, 2026 – Have you encountered continued delays in getting your mail following recent snowstorms?",
+      "link": "https://vocm.com/2026/03/12/march-12-2026-have-you-encountered-continued-delays-in-getting-your-mail-following-recent-snowstorms/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12661').",
+      "pub": "Thu, 12 Mar 2026 08:00:07 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/01/canada-post-mailboxes.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Oil Surges Past $100 as Hormuz Shipping Attacks Fuel Supply Panic",
@@ -35,38 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/hogan-and-parrott-lis.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "St. Mary’s Provides Update on Dilapidated Fish Sauce Plant",
-      "link": "https://vocm.com/2026/03/11/st-marys-provides-update-on-dilapidated-fish-sauce-plant/",
-      "snippet": "The Town of St. Mary's says it has been assured by Municipal Affairs Minister Chris Tibbs that the cleanup of the former fish sauce plant will be comp...",
-      "pub": "Wed, 11 Mar 2026 18:31:53 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/st-marys-fish-plant-wind-damage-5.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Investment Advisor Remarks on Federal Measures Taken in Response to Chaotic U.S. Policies",
-      "link": "https://vocm.com/2026/03/11/294128/",
-      "snippet": "The world is reeling from the chaos created by increasingly erratic decision-making in the White House. The latest disaster is the war between the Uni...",
-      "pub": "Wed, 11 Mar 2026 17:55:05 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/07/larry-short-new-pic.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Minister says Pensions are Part of Government’s Four-Year Plan for ECEs",
-      "link": "https://vocm.com/2026/03/11/minister-says-pensions-are-part-of-governments-four-year-plan-for-eces/",
-      "snippet": "Education Minister Paul Dinn says pensions are part of a four-year government plan for early childhood educators. Dinn was responding to questions fro...",
-      "pub": "Wed, 11 Mar 2026 16:45:42 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/education-minister-paul-dinn.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Man Facing Firearms Charges Following Incident in Belleoram",
-      "link": "https://vocm.com/2026/03/11/man-facing-firearms-charges-following-incident-in-belleoram/",
-      "snippet": "A man is facing firearms-related charges following an incident in Belleoram last Saturday. Harbour Breton RCMP say Just after 1:30 a.m. officers in a ...",
-      "pub": "Wed, 11 Mar 2026 16:38:51 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/harbour-breton-rcmp.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Daily Bread Food Bank says ship carrying $90K worth of food destined for Toronto was ‘hit’ in the Strait of Hormuz - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORUdqUWd5N3NzUE40SmdoM244YkE0dUN6eWpHdlJ3TmdORXlnQmM3cXVLV2NQaTdOQ05EMDNqNnZoeGRMaV9OdzJZZVVNNTFDVXZyWG5MZHl0cGpWbzRudnZEeXFKZTZHQ195Q3p0dVA5VzBsRkFzVzdUaFVlQXlQQlh3N3Q0RFBwWkpsTkVQaGxIaGh4LUhRUGphQWhpRDFHZVVKUVdMYjhKVzFmbkJFeW85NDRNdWdSajNNaWhoaVhSdHhHeUZMVkZfVGVQSlJLSGJXQTNWMzVXVlJoNk44YmxlRmFqQQ?oc=5",
@@ -84,10 +84,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Iranian regime allegedly not at risk of collapse - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9paGVUSnlfRXRmTTJFdFY5THBSNE9mc2FFS0dzTkZaN0UwUEdNWXZBazlpeE9iYUYtLW1TWHBBNExoSHNEWGt3dkxPMm56R2VPWUN5OVlhZ1JUalpsU2N1Rm9mcGVGeFJtX2c?oc=5",
-      "snippet": "Iranian regime allegedly not at risk of collapse &nbsp;&nbsp; The Jerusalem Post Exclusive: US intelligence says Iran government is not at risk of collapse, say sources &nbsp;&nbsp",
-      "pub": "Wed, 11 Mar 2026 23:22:41 GMT",
+      "title": "Toronto roads flooded as up to 40 mm of rain hits GTA - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1MtcnZYMWZiWDNMcUNHbWNQUEhnNkNqbmtYOGwtV2pHTFpRLWZGMnA4eExCd3dWM3lMWEpkcVgtTUR4Vjc0bWxqZUp2R29MN3pObThNSDl3ZXViWWREMHVhYkhNOTctX29FY0R6aUZ4RGptblFFYzZkWTZUZEJ1V3UyajZzMFlnWkhmbmh2bDZLYkMtWUlBQQ?oc=5",
+      "snippet": "Toronto roads flooded as up to 40 mm of rain hits GTA &nbsp;&nbsp; CityNews Toronto Power outages, cancelled flights as ice storm moves across Quebec &nbsp;&nbsp; CTV News Extreme ",
+      "pub": "Wed, 11 Mar 2026 11:49:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Hormuz disruption tests limits of global energy markets | Iran International - ایران اینترنشنال",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3bC1BWDVSMEphcDNnMS1vbEZmenByT2NROVdacFdNSnpFTE94Um53YlhmZTdHVElVNTlCT0doUGZRUkljUUJkS0pvaURING0wSkE?oc=5",
+      "snippet": "Hormuz disruption tests limits of global energy markets | Iran International &nbsp;&nbsp; ایران اینترنشنال How Iran has used the strait of Hormuz to throttle oil and gas – a visual",
+      "pub": "Wed, 11 Mar 2026 03:05:48 GMT",
       "image": ""
     },
     {
@@ -100,17 +108,9 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Toronto roads flooded as up to 40 mm of rain hits GTA - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1MtcnZYMWZiWDNMcUNHbWNQUEhnNkNqbmtYOGwtV2pHTFpRLWZGMnA4eExCd3dWM3lMWEpkcVgtTUR4Vjc0bWxqZUp2R29MN3pObThNSDl3ZXViWWREMHVhYkhNOTctX29FY0R6aUZ4RGptblFFYzZkWTZUZEJ1V3UyajZzMFlnWkhmbmh2bDZLYkMtWUlBQQ?oc=5",
-      "snippet": "Toronto roads flooded as up to 40 mm of rain hits GTA &nbsp;&nbsp; CityNews Toronto Power outages, cancelled flights as ice storm moves across Quebec &nbsp;&nbsp; CTV News Power ou",
-      "pub": "Wed, 11 Mar 2026 11:49:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Carney inches closer to majority, as fourth MP defects to Liberals - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OZlE5S1VLSHZ5bXpLX2xQWTVLeE9DMWVRcEVNQmlZZHpqRXNUWVJ2UW9obUhKOU9MRmdmT1FDZXpiX05Kel9la1RQdDRoU3p2QnNjZk1KMHpmZw?oc=5",
-      "snippet": "Carney inches closer to majority, as fourth MP defects to Liberals &nbsp;&nbsp; BBC Tom Mulcair: Lori Idlout’s move to Liberals brings rewards to Far North &nbsp;&nbsp; CTV News Af",
+      "snippet": "Carney inches closer to majority, as fourth MP defects to Liberals &nbsp;&nbsp; BBC NDP MP Lori Idlout crossing floor to Liberals, bringing Carney closer to majority &nbsp;&nbsp; C",
       "pub": "Wed, 11 Mar 2026 18:30:25 GMT",
       "image": ""
     },
@@ -119,7 +119,7 @@
       "title": "Former police volunteer accused in Vancouver stranger assaults was first charged last summer, records show - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd01wOHhqeThUbWFNc1NGZnhYN3lSR3R1bWIwNVd2dkVKQ1paSHNNYVh6RnhGQnFWeUZQMG95aXNLVkZpbTY1MFVvcUxkN2hhejlLbnh6dWRueXNoSE5UbWs5NEhWZXJjQUVXVHlpY3FmNk12ZHJoOUctY3JhY3hGLW4yQTJtNm1BQ2hDVXM1N3hHSXBFamNzdlg5VHFNeVNfN1pmdV92YjVvUUo4LWUydDk1Zm1CNURuYWlXZzlPcHBwZlJrT3M4QldPaUhGbnh5eEs5Slh4bFdoem1lcjlabw?oc=5",
       "snippet": "Former police volunteer accused in Vancouver stranger assaults was first charged last summer, records show &nbsp;&nbsp; CTV News Man arrested, charged in four downtown Vancouver st",
-      "pub": "Wed, 11 Mar 2026 16:08:54 GMT",
+      "pub": "Thu, 12 Mar 2026 01:26:00 GMT",
       "image": ""
     },
     {
