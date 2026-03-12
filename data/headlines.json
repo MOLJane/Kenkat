@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-12T13:57:37.346965+00:00",
+  "generated_at": "2026-03-12T14:47:43.427503+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
       "title": "Town of Gander Implementing New 4 Per Cent Tax on Overnight Accommodations",
       "link": "https://vocm.com/2026/03/12/town-of-gander-implementing-new-4-per-cent-tax-on-overnight-accommodations/",
-      "snippet": "The town of Gander has signed an MOU with local tourism partners on a new tax and infrastructure initiative. Gander Mayor Percy Farwell signed the doc...",
+      "snippet": "The town of Gander has signed an MOU with local tourism partners on a new tax. Gander Mayor Percy Farwell signed the document with John Steele of Stee...",
       "pub": "Thu, 12 Mar 2026 13:41:48 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/gander-mayor-percy-farwell-and-john-steele.jpg"
     },
@@ -14,7 +14,7 @@
       "source": "VOCM",
       "title": "Transportation Minister to Outline Some Roadwork Projects",
       "link": "https://vocm.com/2026/03/12/transportation-minister-to-outline-some-roadwork-projects/",
-      "snippet": "Transportation minister Barry Petten will make a roads infrastructure announcement today. The provincial budget will be released sometime in the next ...",
+      "snippet": "Transportation Minister Barry Petten will tell us today how much government is going to spend on roads, water and sewer and other infrastructure proje...",
       "pub": "Thu, 12 Mar 2026 13:06:30 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/barry-petten.png"
     },
@@ -68,17 +68,41 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Thousands affected by power outages amid freezing rain across Quebec - CityNews Montreal",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQnFIRXJtazMzNlA2WGFwWU9JeFBtVllYLTU3NFNFRUc4d05WN1Yxd1ktejIza0RNeGpMejZuVFd6Nmh3bzJZaEk2UmpqM3k2SHM4ZnlmaDc2OGpBS2UyX2doc1gwQXhsZGFrWlFnWFUxbGdWdXFHOEdaanA3ZmpHcjcxbk1xdTlXZzdjMzlR?oc=5",
-      "snippet": "Thousands affected by power outages amid freezing rain across Quebec &nbsp;&nbsp; CityNews Montreal Hundreds of thousands without power, more school closures in Quebec following st",
-      "pub": "Wed, 11 Mar 2026 21:18:33 GMT",
+      "title": "Hundreds of thousands without power, more school closures in Quebec following storm - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2lBYlhsbzJJNVQ3T3U3Smt1bnhuZnFjanUtYzN6X2pSVXNiRkNCN3kyMGVKRFFyYlduYzJpTU40VjNZSmZlZENsMHBteDNXNGR6SXdSeXVvS2haVkNtWWw0ZU5BNW1KVUhLNkRreHZDYTFPTkw4d09fUHhTS0c3TGRB?oc=5",
+      "snippet": "Hundreds of thousands without power, more school closures in Quebec following storm &nbsp;&nbsp; CBC After Montreal's ice storm: More than 30,000 without power, some schools closed",
+      "pub": "Thu, 12 Mar 2026 13:11:39 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Strait of Hormuz must remain closed as 'tool to pressure enemy,' Iran's new supreme leader says - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLUNRd2dEWGpHZUVYdEVQb05vSUVGXzhXdXRycXRzN0VHV01lTkpTM0dXUlpLUjhYdURpLXNwMUpVc0thRnAzb0M1YWdzejhDU2FtNTFaVXM3YXp0bXJ2ZTQxUEdDX2EyT3JsUlVqVWRaQnFodmowTE92T3k2UVJhN1JKbERaMmc3U2hQeXlLV0ZJVmxHMmRqZTlB0gGfAUFVX3lxTE5SUEFBSm4wSVhlRnlNcDdkajI0dEstaXJvaURQQmNwWWhIbzBULUNPWVdkMC03TkFPVW9oN0I0WUZ5dldJTzFZcF9JMWpTWmxERWZadFpOQU5xUjI1NkNfWUhpU3BNQ0xnai1uVFIzcmlxc3RyR3c0UTh3YjJDekxScm5faTNxZVFVNVZfYUFYR2FQN2c3alpqWHoxa1E4MA?oc=5",
+      "snippet": "Strait of Hormuz must remain closed as 'tool to pressure enemy,' Iran's new supreme leader says &nbsp;&nbsp; CNBC Iran’s new Supreme Leader says Strait of Hormuz should be used as ",
+      "pub": "Thu, 12 Mar 2026 13:32:54 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Daily Bread Food Bank says ship carrying $90K worth of food destined for Toronto was ‘hit’ in the Strait of Hormuz - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORUdqUWd5N3NzUE40SmdoM244YkE0dUN6eWpHdlJ3TmdORXlnQmM3cXVLV2NQaTdOQ05EMDNqNnZoeGRMaV9OdzJZZVVNNTFDVXZyWG5MZHl0cGpWbzRudnZEeXFKZTZHQ195Q3p0dVA5VzBsRkFzVzdUaFVlQXlQQlh3N3Q0RFBwWkpsTkVQaGxIaGh4LUhRUGphQWhpRDFHZVVKUVdMYjhKVzFmbkJFeW85NDRNdWdSajNNaWhoaVhSdHhHeUZMVkZfVGVQSlJLSGJXQTNWMzVXVlJoNk44YmxlRmFqQQ?oc=5",
+      "snippet": "Daily Bread Food Bank says ship carrying $90K worth of food destined for Toronto was ‘hit’ in the Strait of Hormuz &nbsp;&nbsp; CTV News Iran tightens grip on Strait of Hormuz, tar",
+      "pub": "Wed, 11 Mar 2026 23:04:17 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "How criminals use so-called ‘staged collisions’ for auto-insurance fraud - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVlVCa3gtaUptbWhsdkx3WUFKa3gzWTd2NmVYM29jSkxQTmFCa1N4UEdMZkVlUlZYbnBXaEtJM25qTmhLNVpfcmdsaGk3aEZLS0RPcnBDNWdOS29FUDdyRUVyYThPVjZmejNKa3cySVp5a0hOMTRpcnJNUUdGN1p1U1h3OTM0U182UC1JWW1uZmVsZTNUekZlcEFSUWd2MUN0cGlGZFVwdGpBZVRTb3lwcTdNS2JNU2hTdGc?oc=5",
+      "snippet": "How criminals use so-called ‘staged collisions’ for auto-insurance fraud &nbsp;&nbsp; CTV News",
+      "pub": "Thu, 12 Mar 2026 10:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Oil price leaps higher on news of 2 tankers attacked in the Gulf - investingLive",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOczA5Q0RXUjczMGtPNHpwQ2lUVzZYRVYtdm9vVG4xTXB1Yy1KNDNlWWk2X3Zaa1ZqUVZjNnhpQUh1YWU2N3RyZVhfZTMwekYyN21vcnJ1WE5CYkhDbERuRU92ZnRIbk9OblNYUTRiSEFsTXJEektKYnE4eEZQXzBGVWNzSDVOckkxWWRGcjVrR19YNE9ySVk3UE0zSlBrSEFsejZqVEhCUUdyYzN4Ujd3TnRR0gG3AUFVX3lxTE52SDg0elBibVc1WVNkeDdic3hlSG1aZGhGRlJmNmVtZkFobGZRblNVc0JlTE42SU9RX201Q0lBVmV3N1ltNkRaZDd0bmE2N3UtZ3pSZ1VHLU5sTjNzWUswTmhfSDJqbFM0dTlDTThROTlscVpLYzVaUkdZUUJPMWN2REhlWWRRc3MyUm5IemNmNEFDVmJ6T0RGYi1VaFZ3U3JydFNIZ2tPT1pnaGkyNTZadHM1WDZzVQ?oc=5",
-      "snippet": "Oil price leaps higher on news of 2 tankers attacked in the Gulf &nbsp;&nbsp; investingLive Iran war live: US bases will be attacked unless closed, says Khamenei &nbsp;&nbsp; Al Ja",
+      "snippet": "Oil price leaps higher on news of 2 tankers attacked in the Gulf &nbsp;&nbsp; investingLive Iran steps up attacks on energy targets as tankers hit &nbsp;&nbsp; BBC Six vessels atta",
       "pub": "Thu, 12 Mar 2026 02:29:28 GMT",
       "image": ""
     },
@@ -88,30 +112,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90bXBRN1FWeE9tZ0QxTXlPMjcxRGlOeG16WGJGMjNWNHNKV25WRDRUOTQ4aVhyTjN4RVNUdV8wVWVvYXQ3TmdlejFQN283UkNLd3AxRFV2U2FSd2ZWNXJvRlRVeXc0cUhrOFdDQ0VXM0FSem5OUDE0bHhDUzktdUk?oc=5",
       "snippet": "Hidden Game: All hail rookie goaltender Jacob Fowler in comeback victory at Ottawa &nbsp;&nbsp; Montreal Gazette Montreal gunshot victim takes himself to hospital &nbsp;&nbsp; Mont",
       "pub": "Thu, 12 Mar 2026 04:26:11 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "RCMP looking to identify Burnaby driver in road rage incident - Vancouver Sun",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdS1rX1VnU3hXOUcwb2lCYldLMUpUNG9vLWZaRHJuUWo1WUgyU1RsY2JXN0dJa2ctYm5RclJRTXdreWM5dDdmX2Jmd25uOThiRUczUjVTZndhUzlQdi05LWczbjBUSWRHTTA2TGs1VHBGWkl4YWw4VENXTkVHRjdtSFlGaDUySTlCOWg5QnVPeXZBaldXVlE?oc=5",
-      "snippet": "RCMP looking to identify Burnaby driver in road rage incident &nbsp;&nbsp; Vancouver Sun View Full Coverage on Google News",
-      "pub": "Wed, 11 Mar 2026 19:46:29 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Liberals are elated while Poilievre accuses Carney of 'backroom deals' after NDP defection - CBC",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHZ1SE5JNHRJM3BLb3dCWjRvd2pELU12ZzhtQVBTUndwX3VBejJ4S3ljTFM4d0otSUREcWZ3Uk9RMklnU2NSTXJ6OGdmeHdWTTB0ZG9QZnBLVUtVeHdDZ3psdUV6WnRFajlMdkFMajhiaGpuZVhOR1NIdWFlZWxZSlpJUXQtOFFOX0VIWkdwdU9HbVpENkZHcVROeGtaUlc1ODRib2hiOA?oc=5",
-      "snippet": "Liberals are elated while Poilievre accuses Carney of 'backroom deals' after NDP defection &nbsp;&nbsp; CBC Opinion: Of the floor crossings so far, Lori Idlout’s defection will lea",
-      "pub": "Wed, 11 Mar 2026 22:35:10 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Hormuz disruption tests limits of global energy markets | Iran International - ایران اینترنشنال",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3bC1BWDVSMEphcDNnMS1vbEZmenByT2NROVdacFdNSnpFTE94Um53YlhmZTdHVElVNTlCT0doUGZRUkljUUJkS0pvaURING0wSkE?oc=5",
-      "snippet": "Hormuz disruption tests limits of global energy markets | Iran International &nbsp;&nbsp; ایران اینترنشنال How Iran has used the strait of Hormuz to throttle oil and gas – a visual",
-      "pub": "Wed, 11 Mar 2026 03:05:48 GMT",
       "image": ""
     },
     {
