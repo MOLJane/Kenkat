@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-12T20:25:57.031156+00:00",
+  "generated_at": "2026-03-12T20:58:57.459809+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "MUNFA Raising Concerns About Cuts to Mathematics Department Faculty Positions",
+      "link": "https://vocm.com/2026/03/12/munfa-mathematics-department-cuts/",
+      "snippet": "Faculty at Memorial University say a number of contractual faculty positions in the Department of Mathematics are being cut next year. In concert with...",
+      "pub": "Thu, 12 Mar 2026 20:54:18 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/07/mun-memorial-university-university-centre-summer-2024.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Petition Tabled in HoA Asking for Solutions to Paradise Traffic Issues",
@@ -59,27 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/Cougar-Flight-491-Crash-Memorial-March-2019-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Quebec Man Charged After Vehicle Stolen in Labrador",
-      "link": "https://vocm.com/2026/03/12/quebec-man-charged-after-vehicle-stolen-in-labrador/",
-      "snippet": "A Quebec man has been arrested and charged with possession of stolen property after the theft of a vehicle in Labrador. A pickup truck was stolen from...",
-      "pub": "Thu, 12 Mar 2026 12:18:18 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-1.png"
-    },
-    {
       "source": "Google News Canada",
       "title": "Iran’s leader vows to continue attacks in 1st statement since appointment - Global News",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcFJQN09YMVRQRnBHOGhfODBGQVFCTXRycWQyRUh4dnhvckhBRnFBRFJBa1FpRngtaDBwN29XTFF5Z1JnNVFkMEpkX0Rpbjc5LUoxamlOOWhCZnh4S3N5WWtiMmNRY3FLemJtNkIwSU1OR0U4Q0JYOXFvMTNJektyRg?oc=5",
       "snippet": "Iran’s leader vows to continue attacks in 1st statement since appointment &nbsp;&nbsp; Global News Israel bombs central Beirut, U.S. airstrikes top 6,000, Iran escalates attacks. L",
       "pub": "Thu, 12 Mar 2026 12:59:50 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Nearly 50 rail cars loaded with potash derail near Lestock, Sask. - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU0s4OU81dFU4aWttWnBYVzA5aDNvN3NsNjlMSUFGQ3VOWGZhZUZJN2NZbF9TOFRsdFJzS1VwV1h5eWxwcTJjOThmcDliemltUjJDdG1mMDQ2LXI3N0tzYVpqTk9kS0hCUER0OGEwSDN2RkpweEE1NDNjbEFFQkl2SU90Q0hmZ0tWMmUtWHliVi1IQQ?oc=5",
-      "snippet": "Nearly 50 rail cars loaded with potash derail near Lestock, Sask. &nbsp;&nbsp; CTV News",
-      "pub": "Thu, 12 Mar 2026 17:41:13 GMT",
       "image": ""
     },
     {
@@ -95,7 +87,7 @@
       "title": "All eyes on oil as tankers burn in the Strait of Hormuz - investingLive",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPekx6blp1X2FNZXRxaXhoM0U1b0ZFUE1qYTcxNVd3bDNGQ3l1YkdBMi1NUVlWbEktdUtkbmY2ZFpxY3M5Wm5HRmQzU25lOTlHeS1TUURSYWZRQUtua1FwOVZGZzZXc2NkVFlnaklBZ2hIRFhvSHc4NFhScnpQSkQxTnF0WWpwVm5QeXhvQ3NhMXU5bmlYeFJmNGhWbVZDUVdQa3dXbjlB0gGrAUFVX3lxTFAyMXVKSHFxMEpvX1pCUzFtNUpyWncwYzdZc3JMOXhzcDRvSkt6NzRYNVhRSmNWcjZOelVwU04wbjAwUUpyV0RGRExKUXYyQTlZSHRLN0p5bzhTTU5nZTc0RE9TSDJYR1JEOWFJS2xQeGNVQnJjaUZaYXVvcWs0XzhISG9sdks2X1JlZEx6TTczSVM0MEZ2akcweThNTlNLUmdZaEpBT3J5eko1UQ?oc=5",
       "snippet": "All eyes on oil as tankers burn in the Strait of Hormuz &nbsp;&nbsp; investingLive Can Trump's 'gunboat diplomacy' stop Iran from blocking the flow of oil? Not likely, say experts ",
-      "pub": "Thu, 12 Mar 2026 16:33:35 GMT",
+      "pub": "Thu, 12 Mar 2026 13:47:22 GMT",
       "image": ""
     },
     {
@@ -104,6 +96,14 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnIyWTYzQ0hQb3A3VndRWDI0TU9OdVV2TlI2S0IxVU9HRTZ0TGJTU19jbHZUekpDVy0xLTdYS3hZbDNYUXFfUUo0bWtRSVlVYWx5R09pMFdaZGJJdmtacDdJeVFLMzR5MHo5NjFtbkJkVWcxZUlmSTlhZjVQYV8wUzY0UWhJRGdHOGtzVE5QNXVvdElueXZnZlhBRm5aRG1WeVhDVmZMcUVvb2JleHdFS3ZGMm1zaEdQb3pWajd0VmJDQmxiTzJhcw?oc=5",
       "snippet": "About Last Night: Jacob Fowler's epic final minute seals win in return &nbsp;&nbsp; Montreal Gazette Burst pipe prompts flooding under Van Horne overpass &nbsp;&nbsp; Montreal Gaze",
       "pub": "Thu, 12 Mar 2026 10:03:35 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Hydro-Québec works to restore power, some schools shut for another day after storm - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2lBYlhsbzJJNVQ3T3U3Smt1bnhuZnFjanUtYzN6X2pSVXNiRkNCN3kyMGVKRFFyYlduYzJpTU40VjNZSmZlZENsMHBteDNXNGR6SXdSeXVvS2haVkNtWWw0ZU5BNW1KVUhLNkRreHZDYTFPTkw4d09fUHhTS0c3TGRB?oc=5",
+      "snippet": "Hydro-Québec works to restore power, some schools shut for another day after storm &nbsp;&nbsp; CBC About 110,000 customers still without power in Quebec after ice storm &nbsp;&nbs",
+      "pub": "Thu, 12 Mar 2026 20:12:11 GMT",
       "image": ""
     },
     {
@@ -118,16 +118,16 @@
       "source": "Google News Canada",
       "title": "New Liberal bill seeks to give police new powers to access digital information - CTV News",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXFjdjlJRWhMcFZfLUhxWkpvVTExQ0EyWlNvLXItVnk4LTE1cTRvQWpYeGxuTm5iWjhVUXNkX21ua25oT0xHNU56aXdhU2xJdGZDX3RsNXgzOXl3Q1NTZVRtT3poUzRIb0s3azJRWnkxMnJteHh6U1FhcXR3WjZaQ1VGd0NMM1dTMWZZS1VGcEhKRnljU29PbG5qUWttR2lwd3ExU21Ld0hncVlp?oc=5",
-      "snippet": "New Liberal bill seeks to give police new powers to access digital information &nbsp;&nbsp; CTV News Ottawa limits scope of border-security bill after outcry &nbsp;&nbsp; The Globe",
+      "snippet": "New Liberal bill seeks to give police new powers to access digital information &nbsp;&nbsp; CTV News New government bill would help police, spy service probe online activities &nbs",
       "pub": "Thu, 12 Mar 2026 15:29:06 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Overpass strike backs up Saskatoon’s Circle Drive for second time in a week - Global News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQWI5Q1lDQ3lwUmVncXhYdjNKQW1qbEU0VGFvb1FXZ2dVTU4tZzItT284dWV0WHpvV0VrTHVxVzJodlJLMlIyamZrNUNabWtSSmVlblFJR24xbm15QnVnVHVIRVo0UDBtTzdDdWtPaDNlSlpKbWd6dGo4bXVPMDBHc2xkUk5tQWNwRm1pSlB3eUY0N0todUxleElR?oc=5",
-      "snippet": "Overpass strike backs up Saskatoon’s Circle Drive for second time in a week &nbsp;&nbsp; Global News Another overpass in Saskatoon damaged by truck driver with 'over-height' load &",
-      "pub": "Thu, 12 Mar 2026 00:59:45 GMT",
+      "title": "Conservatives introduce bill to create 'stand your ground' law for home invasions - Castanet",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1RBT2NGdk5QWFM1OWNXSDdOX1FFNEFCVEFuVXVYVk9qUEt2MGREalIyb2dRazU2LUI2OUh0M3JMWVhLWEEya3FSWExnLUxFT1lla1FXaE94TkRXS3pWV19RRFlYa2N1UE9UQm1KRVV3SUR6Nldpemg2TlRZaVA1TWVhS3hweEd3Z241bmlaekZfYV96WlJtNng4bjRJczIyY2NqbjFDUy1RNERDcUZLLTh5LVhUMnBRdmFHTDhZVV8?oc=5",
+      "snippet": "Conservatives introduce bill to create 'stand your ground' law for home invasions &nbsp;&nbsp; Castanet View Full Coverage on Google News",
+      "pub": "Thu, 12 Mar 2026 18:19:00 GMT",
       "image": ""
     }
   ],
