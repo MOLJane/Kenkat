@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-12T15:51:22.909861+00:00",
+  "generated_at": "2026-03-12T16:52:18.928022+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Province Announces $250-Million Roads Plan for 2026-2027 Construction Season",
+      "link": "https://vocm.com/2026/03/12/roads-plan-2026-2027/",
+      "snippet": "The provincial government is reducing the amount it spends on roads, bridges and water and sewer, but it says it will get greater value for the money....",
+      "pub": "Thu, 12 Mar 2026 16:17:20 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/barry-petten-roads-announcement.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Town of Gander Implementing New 4 Per Cent Tax on Overnight Accommodations",
@@ -59,27 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/capelin-stock.png"
     },
     {
-      "source": "VOCM",
-      "title": "25 Per Cent of Acute Care Beds Currently Occupied by Patients Awaiting Alternate Care: Health Minister",
-      "link": "https://vocm.com/2026/03/12/25-per-cent-of-acute-care-beds-currently-occupied-by-patients-awaiting-alternate-care-health-minister/",
-      "snippet": "The provincial government says 25 per cent of acute care beds across the province are occupied by patients awaiting an alternate level of care. Health...",
-      "pub": "Thu, 12 Mar 2026 09:30:24 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/health-minister-lela-evans.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Hundreds of thousands without power, more school closures in Quebec following storm - CBC",
+      "title": "Hydro-Québec works to restore power, some schools shut for another day after storm - CBC",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2lBYlhsbzJJNVQ3T3U3Smt1bnhuZnFjanUtYzN6X2pSVXNiRkNCN3kyMGVKRFFyYlduYzJpTU40VjNZSmZlZENsMHBteDNXNGR6SXdSeXVvS2haVkNtWWw0ZU5BNW1KVUhLNkRreHZDYTFPTkw4d09fUHhTS0c3TGRB?oc=5",
-      "snippet": "Hundreds of thousands without power, more school closures in Quebec following storm &nbsp;&nbsp; CBC Ice storm in Quebec shuts schools, leaves more than 200,000 households without ",
-      "pub": "Thu, 12 Mar 2026 13:11:39 GMT",
+      "snippet": "Hydro-Québec works to restore power, some schools shut for another day after storm &nbsp;&nbsp; CBC Ice storm in Quebec shuts schools, leaves more than 200,000 households without p",
+      "pub": "Thu, 12 Mar 2026 15:37:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Iran’s new supreme leader calls for retaliation for every death in first public statement. Live updates here - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRTU3MXVpWldycC0tV1YxWWhJakNXd3hZdzBzRDc0czdDdjJWVlNhRGtwVXlURHRKeG8yNUlhUlYtTjJKQ2QxV01vMTZqSDVzT2FSNGNlZlNfWTd2OTZpc0NlbjlqS1htR3RSR3R1OXNWVmFvYkJZakNqV2pPTFNaa1ZocS1NdjVUV2M5N0xZZjY5MS1TeTZxWXp6Rk9MTkVtRE1tbUI2Y0Z3VFpRWGl3dW1lTE93Wnh1bS1LRHFCeU1uR1dJMkVFb3BkZWdqemdEQUhpX3IyTHVtTDAzMHFIenpGc0I2d2FWaGh0NnEycXpnX2c?oc=5",
-      "snippet": "Iran’s new supreme leader calls for retaliation for every death in first public statement. Live updates here &nbsp;&nbsp; CTV News Stocks fall as Iran’s new supreme leader vows to ",
-      "pub": "Thu, 12 Mar 2026 15:19:17 GMT",
+      "title": "Iran’s supreme leader says closure of Strait of Hormuz should be used as leverage - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPczRQVzZPdzRwREsyVWotZkVKS1BGYm9vQVlha0pwVk00TGdRa1N2SjB2Qkt4NUxmZkVhQ3FFX3ljNkFYWVM0QmFQN1dtZDBiQ25SLUc4RVNpcWpuem5RSmprXzk1YjNBZGJIcV9GRXRxUkhRckR2YW9GZVJsMTBhZHdsMnNiQktnUzBZZGN1RTJ0WUUzRXBsSC02Q0g1YnFlN0hIMDhaZkZFUC0wbkR6XzY2TXFVLXI4VTR2ZDdveEEtZ3lJMGo3Y3lHS1NneGlaaURoQjJqbTBpc1RBSWNBVERhWHg?oc=5",
+      "snippet": "Iran’s supreme leader says closure of Strait of Hormuz should be used as leverage &nbsp;&nbsp; CTV News Iran’s new Supreme Leader vows to keep Strait of Hormuz closed, avenge marty",
+      "pub": "Thu, 12 Mar 2026 13:29:14 GMT",
       "image": ""
     },
     {
@@ -92,18 +92,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "How criminals use so-called ‘staged collisions’ for auto-insurance fraud - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVlVCa3gtaUptbWhsdkx3WUFKa3gzWTd2NmVYM29jSkxQTmFCa1N4UEdMZkVlUlZYbnBXaEtJM25qTmhLNVpfcmdsaGk3aEZLS0RPcnBDNWdOS29FUDdyRUVyYThPVjZmejNKa3cySVp5a0hOMTRpcnJNUUdGN1p1U1h3OTM0U182UC1JWW1uZmVsZTNUekZlcEFSUWd2MUN0cGlGZFVwdGpBZVRTb3lwcTdNS2JNU2hTdGc?oc=5",
-      "snippet": "How criminals use so-called ‘staged collisions’ for auto-insurance fraud &nbsp;&nbsp; CTV News",
-      "pub": "Thu, 12 Mar 2026 10:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Daily Bread Food Bank says ship carrying $90K worth of food destined for Toronto was ‘hit’ in the Strait of Hormuz - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQU5FY1pETUh5ZlFPZF9sOWpCelFEVnpfUjluYnBoRDc1SHpHdFNlQkxPTWdzQVBxOWdwWVlCS25LYWpDYW9YUHUwZXNwN0pFRnFSUkhuV2J6a3MtNE1yT3Q1ZVVCNFo0N3lJNE52cExfQ0VkSXhfUTNRYnBxV0lMM0FHN24wZjB0MW1renhxS1RuNXh5V1c3NDNJQWV1YWU2R2FnZ0tKZnowX0RJaG1vYUstSEdhdE1za21DV1FSTDlkUWpaaW9ENHN6cU1Rcy11OUw4TWo2MmZnR3pfTzBkZm9JUldSNXhkUXZSVzdWUQ?oc=5",
-      "snippet": "Daily Bread Food Bank says ship carrying $90K worth of food destined for Toronto was ‘hit’ in the Strait of Hormuz &nbsp;&nbsp; CP24 View Full Coverage on Google News",
-      "pub": "Wed, 11 Mar 2026 23:04:17 GMT",
+      "title": "Trump administration opens trade investigation in bid to replace tariffs - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNblg3MGo4alBXT2FhMlBiYVBiLU9OVktmUGtqN2dRWXMwUXprTDBKTTRUdnZPZHliZkVObkl2c18ycWlRX2tqNi1NWlZYU3VjMk9nSzU5SHlnQ205ZWV2TWVNb04yZFk1aXAzb0tzc2JBRzRVU2JiRUxZTmUxaDdWSHI0MlNfQWlTUXF2bGZaNkllZw?oc=5",
+      "snippet": "Trump administration opens trade investigation in bid to replace tariffs &nbsp;&nbsp; The Globe and Mail Trump kicks off new process to replace tariffs struck down by U.S. Supreme ",
+      "pub": "Thu, 12 Mar 2026 00:06:33 GMT",
       "image": ""
     },
     {
@@ -112,6 +104,14 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnIyWTYzQ0hQb3A3VndRWDI0TU9OdVV2TlI2S0IxVU9HRTZ0TGJTU19jbHZUekpDVy0xLTdYS3hZbDNYUXFfUUo0bWtRSVlVYWx5R09pMFdaZGJJdmtacDdJeVFLMzR5MHo5NjFtbkJkVWcxZUlmSTlhZjVQYV8wUzY0UWhJRGdHOGtzVE5QNXVvdElueXZnZlhBRm5aRG1WeVhDVmZMcUVvb2JleHdFS3ZGMm1zaEdQb3pWajd0VmJDQmxiTzJhcw?oc=5",
       "snippet": "About Last Night: Jacob Fowler's epic final minute seals win in return &nbsp;&nbsp; Montreal Gazette Do Canadiens need Reinbacher, Engstrom in blue-line mix? | HI/O Bonus &nbsp;&nb",
       "pub": "Thu, 12 Mar 2026 10:03:35 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Daily Bread Food Bank says ship carrying $90K worth of food destined for Toronto was ‘hit’ in the Strait of Hormuz - CP24",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQU5FY1pETUh5ZlFPZF9sOWpCelFEVnpfUjluYnBoRDc1SHpHdFNlQkxPTWdzQVBxOWdwWVlCS25LYWpDYW9YUHUwZXNwN0pFRnFSUkhuV2J6a3MtNE1yT3Q1ZVVCNFo0N3lJNE52cExfQ0VkSXhfUTNRYnBxV0lMM0FHN24wZjB0MW1renhxS1RuNXh5V1c3NDNJQWV1YWU2R2FnZ0tKZnowX0RJaG1vYUstSEdhdE1za21DV1FSTDlkUWpaaW9ENHN6cU1Rcy11OUw4TWo2MmZnR3pfTzBkZm9JUldSNXhkUXZSVzdWUQ?oc=5",
+      "snippet": "Daily Bread Food Bank says ship carrying $90K worth of food destined for Toronto was ‘hit’ in the Strait of Hormuz &nbsp;&nbsp; CP24 View Full Coverage on Google News",
+      "pub": "Wed, 11 Mar 2026 23:04:17 GMT",
       "image": ""
     },
     {
