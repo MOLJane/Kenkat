@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-12T07:27:12.563745+00:00",
+  "generated_at": "2026-03-12T08:01:07.923985+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Oil Surges Past $100 as Hormuz Shipping Attacks Fuel Supply Panic",
+      "link": "https://vocm.com/2026/03/12/oil-surges-past-100-as-hormuz-shipping-attacks-fuel-supply-panic/",
+      "snippet": "Brent crude moved above $100 a barrel early Thursday after a new market update showed fresh pressure on global oil supplies. The jump followed a wave ...",
+      "pub": "Thu, 12 Mar 2026 07:27:18 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/03/5833440.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Postal Delays Persist Following Difficult Winter",
@@ -59,27 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/harbour-breton-rcmp.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "NLSA Names Top Athletes, Teams, Coaches and Officials",
-      "link": "https://vocm.com/2026/03/11/294125/",
-      "snippet": "The NL Soccer Association has announced its top athletes, coach, team and officials. Teri Murphy of Holy Cross Nutra Holdings is the senior female pla...",
-      "pub": "Wed, 11 Mar 2026 14:51:18 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/soccer-generic.png"
-    },
-    {
       "source": "Google News Canada",
       "title": "Daily Bread Food Bank says ship carrying $90K worth of food destined for Toronto was ‘hit’ in the Strait of Hormuz - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORUdqUWd5N3NzUE40SmdoM244YkE0dUN6eWpHdlJ3TmdORXlnQmM3cXVLV2NQaTdOQ05EMDNqNnZoeGRMaV9OdzJZZVVNNTFDVXZyWG5MZHl0cGpWbzRudnZEeXFKZTZHQ195Q3p0dVA5VzBsRkFzVzdUaFVlQXlQQlh3N3Q0RFBwWkpsTkVQaGxIaGh4LUhRUGphQWhpRDFHZVVKUVdMYjhKVzFmbkJFeW85NDRNdWdSajNNaWhoaVhSdHhHeUZMVkZfVGVQSlJLSGJXQTNWMzVXVlJoNk44YmxlRmFqQQ?oc=5",
       "snippet": "Daily Bread Food Bank says ship carrying $90K worth of food destined for Toronto was ‘hit’ in the Strait of Hormuz &nbsp;&nbsp; CTV News Six vessels attacked in Gulf, Strait of Hor",
-      "pub": "Wed, 11 Mar 2026 22:39:11 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Latest floor-crossing puts Liberal majority within grasp — but Carney could still hit snags - CBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12cG13dW1TWXJLOGw2VlpENDNDaG5WcS1PUVl3SHFPamZjRlBJbERmd1lSZFQxY19Jc2s3TUUtc24zQ3htQmEwck9IQXJXWEwteklfNnExajdhV2dkeVpLUVdMdjJmcEIwUWI2WENjbUdnOGk0REFGcFBwR08?oc=5",
-      "snippet": "Latest floor-crossing puts Liberal majority within grasp — but Carney could still hit snags &nbsp;&nbsp; CBC Tom Mulcair: Lori Idlout’s move to Liberals brings rewards to Far North",
-      "pub": "Wed, 11 Mar 2026 19:59:26 GMT",
+      "pub": "Wed, 11 Mar 2026 23:04:17 GMT",
       "image": ""
     },
     {
@@ -92,6 +84,14 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Iranian regime allegedly not at risk of collapse - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9paGVUSnlfRXRmTTJFdFY5THBSNE9mc2FFS0dzTkZaN0UwUEdNWXZBazlpeE9iYUYtLW1TWHBBNExoSHNEWGt3dkxPMm56R2VPWUN5OVlhZ1JUalpsU2N1Rm9mcGVGeFJtX2c?oc=5",
+      "snippet": "Iranian regime allegedly not at risk of collapse &nbsp;&nbsp; The Jerusalem Post Exclusive: US intelligence says Iran government is not at risk of collapse, say sources &nbsp;&nbsp",
+      "pub": "Wed, 11 Mar 2026 23:22:41 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "RCMP looking to identify Burnaby driver in road rage incident - Vancouver Sun",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdS1rX1VnU3hXOUcwb2lCYldLMUpUNG9vLWZaRHJuUWo1WUgyU1RsY2JXN0dJa2ctYm5RclJRTXdreWM5dDdmX2Jmd25uOThiRUczUjVTZndhUzlQdi05LWczbjBUSWRHTTA2TGs1VHBGWkl4YWw4VENXTkVHRjdtSFlGaDUySTlCOWg5QnVPeXZBaldXVlE?oc=5",
       "snippet": "RCMP looking to identify Burnaby driver in road rage incident &nbsp;&nbsp; Vancouver Sun View Full Coverage on Google News",
@@ -100,18 +100,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Iranian regime allegedly not at risk of collapse - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9paGVUSnlfRXRmTTJFdFY5THBSNE9mc2FFS0dzTkZaN0UwUEdNWXZBazlpeE9iYUYtLW1TWHBBNExoSHNEWGt3dkxPMm56R2VPWUN5OVlhZ1JUalpsU2N1Rm9mcGVGeFJtX2c?oc=5",
-      "snippet": "Iranian regime allegedly not at risk of collapse &nbsp;&nbsp; The Jerusalem Post View Full Coverage on Google News",
-      "pub": "Wed, 11 Mar 2026 23:22:41 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Toronto roads flooded as up to 40 mm of rain hits GTA - CityNews Toronto",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1MtcnZYMWZiWDNMcUNHbWNQUEhnNkNqbmtYOGwtV2pHTFpRLWZGMnA4eExCd3dWM3lMWEpkcVgtTUR4Vjc0bWxqZUp2R29MN3pObThNSDl3ZXViWWREMHVhYkhNOTctX29FY0R6aUZ4RGptblFFYzZkWTZUZEJ1V3UyajZzMFlnWkhmbmh2bDZLYkMtWUlBQQ?oc=5",
       "snippet": "Toronto roads flooded as up to 40 mm of rain hits GTA &nbsp;&nbsp; CityNews Toronto Power outages, cancelled flights as ice storm moves across Quebec &nbsp;&nbsp; CTV News Power ou",
       "pub": "Wed, 11 Mar 2026 11:49:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Carney inches closer to majority, as fourth MP defects to Liberals - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OZlE5S1VLSHZ5bXpLX2xQWTVLeE9DMWVRcEVNQmlZZHpqRXNUWVJ2UW9obUhKOU9MRmdmT1FDZXpiX05Kel9la1RQdDRoU3p2QnNjZk1KMHpmZw?oc=5",
+      "snippet": "Carney inches closer to majority, as fourth MP defects to Liberals &nbsp;&nbsp; BBC Tom Mulcair: Lori Idlout’s move to Liberals brings rewards to Far North &nbsp;&nbsp; CTV News Af",
+      "pub": "Wed, 11 Mar 2026 18:30:25 GMT",
       "image": ""
     },
     {
