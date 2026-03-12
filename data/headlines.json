@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-03-12T12:39:26.336849+00:00",
+  "generated_at": "2026-03-12T13:57:37.346965+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Town of Gander Implementing New 4 Per Cent Tax on Overnight Accommodations",
+      "link": "https://vocm.com/2026/03/12/town-of-gander-implementing-new-4-per-cent-tax-on-overnight-accommodations/",
+      "snippet": "The town of Gander has signed an MOU with local tourism partners on a new tax and infrastructure initiative. Gander Mayor Percy Farwell signed the doc...",
+      "pub": "Thu, 12 Mar 2026 13:41:48 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/gander-mayor-percy-farwell-and-john-steele.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Transportation Minister to Outline Some Roadwork Projects",
+      "link": "https://vocm.com/2026/03/12/transportation-minister-to-outline-some-roadwork-projects/",
+      "snippet": "Transportation minister Barry Petten will make a roads infrastructure announcement today. The provincial budget will be released sometime in the next ...",
+      "pub": "Thu, 12 Mar 2026 13:06:30 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/barry-petten.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Annual Service to Mark 17th Anniversary of Cougar Crash",
+      "link": "https://vocm.com/2026/03/12/annual-service-to-mark-17th-anniversary-of-cougar-crash/",
+      "snippet": "A tragedy which resonated throughout the entire province and resulted in an inquiry will be marked this evening. It was 17 years ago today that Cougar...",
+      "pub": "Thu, 12 Mar 2026 12:47:27 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/Cougar-Flight-491-Crash-Memorial-March-2019-2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Quebec Man Charged After Vehicle Stolen in Labrador",
@@ -43,51 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/health-minister-lela-evans.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Snow, Freezing Rain, Rain and More in Forecast Today",
-      "link": "https://vocm.com/2026/03/12/snow-freezing-rain-rain-and-more-in-forecast-today/",
-      "snippet": "Mother Nature will be throwing everything but the kitchen sink at the island today. There will be everything from snow, ice pellets to rain for pretty...",
-      "pub": "Thu, 12 Mar 2026 08:57:56 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/generic-snow-pic.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Woman Wanted on Several Warrants Found Hiding in Centre City Residence",
-      "link": "https://vocm.com/2026/03/12/woman-wanted-on-several-warrants-found-hiding-in-centre-city-residence/",
-      "snippet": "Metro police were called in to assist an external agency at a home in the centre city yesterday. RNC were called to the insecure premises around 2 p.m...",
-      "pub": "Thu, 12 Mar 2026 08:41:26 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-7.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Diesel, Home Heating Fuels Down; No Change to Price of Gas",
-      "link": "https://vocm.com/2026/03/12/diesel-home-heating-fuels-down-no-change-to-price-of-gas/",
-      "snippet": "There's a bit of a break for those who rely on diesel and home heating fuel. The price of diesel on the island is down 12.3 cents per litre and drops ...",
-      "pub": "Thu, 12 Mar 2026 08:31:03 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/09/diesel-gas-pump.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Thousands affected by power outages amid freezing rain across Quebec - CityNews Montreal",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQnFIRXJtazMzNlA2WGFwWU9JeFBtVllYLTU3NFNFRUc4d05WN1Yxd1ktejIza0RNeGpMejZuVFd6Nmh3bzJZaEk2UmpqM3k2SHM4ZnlmaDc2OGpBS2UyX2doc1gwQXhsZGFrWlFnWFUxbGdWdXFHOEdaanA3ZmpHcjcxbk1xdTlXZzdjMzlR?oc=5",
-      "snippet": "Thousands affected by power outages amid freezing rain across Quebec &nbsp;&nbsp; CityNews Montreal These schools are closed due to the ice storm in Quebec &nbsp;&nbsp; CTV News Po",
+      "snippet": "Thousands affected by power outages amid freezing rain across Quebec &nbsp;&nbsp; CityNews Montreal Hundreds of thousands without power, more school closures in Quebec following st",
       "pub": "Wed, 11 Mar 2026 21:18:33 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "What’s driving PM Carney’s ability to court floor crossers? - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQjRtWHUtcFlxU1l5aVlLSzJWSUx5VFY2ZDR4VDQ1XzJlRmJuajRabGM5UGM0X0loSWM0ZzhXQ01uRlZDS2R5Z2dqU2pKTmU4NEhCSkFPcF9SNXJkWk85Y0lheGVudDhfaS1GQkhfR0toMmVURG9NdnktY2d6ckkwcDRja01KUTBkNHpLdWVDR3lLOElERHF2Q2tWeElBdw?oc=5",
-      "snippet": "What’s driving PM Carney’s ability to court floor crossers? &nbsp;&nbsp; CTV News After losing one floor crosser, the dwindling NDP may be about to lose another MP &nbsp;&nbsp; Nat",
-      "pub": "Thu, 12 Mar 2026 09:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Iran tightens grip on Strait of Hormuz, targets Gulf energy sites and ships as conflict escalates - CBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmpHejBTYU5aZW5pZXh6MlNqbFl2ZDNtMF9zcVoxTk9oMy1uTTA4Nk9YbkpiYWdWUDdDLVhrNG45RjBVYmJ2Um5XVnJTeWJOeUNzT0ZCZjA3X195ZVVtRGZzeFJfSU9LM1k4WEpJN19uMTFSVTZMeWVKWUV1VkNzNw?oc=5",
-      "snippet": "Iran tightens grip on Strait of Hormuz, targets Gulf energy sites and ships as conflict escalates &nbsp;&nbsp; CBC Live updates: Oil sees historic disruptions as Iran escalates att",
-      "pub": "Thu, 12 Mar 2026 10:21:20 GMT",
+      "title": "Oil price leaps higher on news of 2 tankers attacked in the Gulf - investingLive",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOczA5Q0RXUjczMGtPNHpwQ2lUVzZYRVYtdm9vVG4xTXB1Yy1KNDNlWWk2X3Zaa1ZqUVZjNnhpQUh1YWU2N3RyZVhfZTMwekYyN21vcnJ1WE5CYkhDbERuRU92ZnRIbk9OblNYUTRiSEFsTXJEektKYnE4eEZQXzBGVWNzSDVOckkxWWRGcjVrR19YNE9ySVk3UE0zSlBrSEFsejZqVEhCUUdyYzN4Ujd3TnRR0gG3AUFVX3lxTE52SDg0elBibVc1WVNkeDdic3hlSG1aZGhGRlJmNmVtZkFobGZRblNVc0JlTE42SU9RX201Q0lBVmV3N1ltNkRaZDd0bmE2N3UtZ3pSZ1VHLU5sTjNzWUswTmhfSDJqbFM0dTlDTThROTlscVpLYzVaUkdZUUJPMWN2REhlWWRRc3MyUm5IemNmNEFDVmJ6T0RGYi1VaFZ3U3JydFNIZ2tPT1pnaGkyNTZadHM1WDZzVQ?oc=5",
+      "snippet": "Oil price leaps higher on news of 2 tankers attacked in the Gulf &nbsp;&nbsp; investingLive Iran war live: US bases will be attacked unless closed, says Khamenei &nbsp;&nbsp; Al Ja",
+      "pub": "Thu, 12 Mar 2026 02:29:28 GMT",
       "image": ""
     },
     {
@@ -100,34 +92,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Oil price leaps higher on news of 2 tankers attacked in the Gulf - investingLive",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOczA5Q0RXUjczMGtPNHpwQ2lUVzZYRVYtdm9vVG4xTXB1Yy1KNDNlWWk2X3Zaa1ZqUVZjNnhpQUh1YWU2N3RyZVhfZTMwekYyN21vcnJ1WE5CYkhDbERuRU92ZnRIbk9OblNYUTRiSEFsTXJEektKYnE4eEZQXzBGVWNzSDVOckkxWWRGcjVrR19YNE9ySVk3UE0zSlBrSEFsejZqVEhCUUdyYzN4Ujd3TnRR0gG3AUFVX3lxTE52SDg0elBibVc1WVNkeDdic3hlSG1aZGhGRlJmNmVtZkFobGZRblNVc0JlTE42SU9RX201Q0lBVmV3N1ltNkRaZDd0bmE2N3UtZ3pSZ1VHLU5sTjNzWUswTmhfSDJqbFM0dTlDTThROTlscVpLYzVaUkdZUUJPMWN2REhlWWRRc3MyUm5IemNmNEFDVmJ6T0RGYi1VaFZ3U3JydFNIZ2tPT1pnaGkyNTZadHM1WDZzVQ?oc=5",
-      "snippet": "Oil price leaps higher on news of 2 tankers attacked in the Gulf &nbsp;&nbsp; investingLive Mideast Shipping Crisis Widens With More Tankers Hit in Gulf &nbsp;&nbsp; Bloomberg.com ",
-      "pub": "Thu, 12 Mar 2026 02:29:28 GMT",
+      "title": "RCMP looking to identify Burnaby driver in road rage incident - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdS1rX1VnU3hXOUcwb2lCYldLMUpUNG9vLWZaRHJuUWo1WUgyU1RsY2JXN0dJa2ctYm5RclJRTXdreWM5dDdmX2Jmd25uOThiRUczUjVTZndhUzlQdi05LWczbjBUSWRHTTA2TGs1VHBGWkl4YWw4VENXTkVHRjdtSFlGaDUySTlCOWg5QnVPeXZBaldXVlE?oc=5",
+      "snippet": "RCMP looking to identify Burnaby driver in road rage incident &nbsp;&nbsp; Vancouver Sun View Full Coverage on Google News",
+      "pub": "Wed, 11 Mar 2026 19:46:29 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "How Trump has addressed the deadly Iran school bombing - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd096U3lkQWJnZFZaT2FZMkpBYlF1VXBoNlFzdjdHazRxaktSTGI1V1JlNEJCa0djLURCOFVyaGRZUlRSXzRzTlA1MUZoOTdVMHZyNG9ZOTBVeS1KY3NQLVlwVjJGdjlhWHFNWl84R0dGVWhMNDI4WEYxQUxoNlRwZzZ6OXhsa21lbGhONG05cFpDVDNiSzg2bDVHNNIBoAFBVV95cUxPY2tIZWVraktiY3pFMVFueWttUF9LN3drU0JjeElLUTRlYVlPTHM4cGNGQ2I4UWM5UVhZeFhNcmsyWTMwTVpJM3RTTXZTUm9sNEswT1RYRDVHV1dPSkxWZjhBVk4tSzVyRWhoV1dsNy14ZXlpUkhzNFVzRE9PUDlldWpCVWlkVVNHZjFtV3lPSEtid2FYZEVQVHFLTXZOOFEz?oc=5",
-      "snippet": "How Trump has addressed the deadly Iran school bombing &nbsp;&nbsp; Al Jazeera US responsible for deadly missile strike on Iran school, preliminary inquiry says &nbsp;&nbsp; The Gu",
-      "pub": "Wed, 11 Mar 2026 22:03:04 GMT",
+      "title": "Liberals are elated while Poilievre accuses Carney of 'backroom deals' after NDP defection - CBC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHZ1SE5JNHRJM3BLb3dCWjRvd2pELU12ZzhtQVBTUndwX3VBejJ4S3ljTFM4d0otSUREcWZ3Uk9RMklnU2NSTXJ6OGdmeHdWTTB0ZG9QZnBLVUtVeHdDZ3psdUV6WnRFajlMdkFMajhiaGpuZVhOR1NIdWFlZWxZSlpJUXQtOFFOX0VIWkdwdU9HbVpENkZHcVROeGtaUlc1ODRib2hiOA?oc=5",
+      "snippet": "Liberals are elated while Poilievre accuses Carney of 'backroom deals' after NDP defection &nbsp;&nbsp; CBC Opinion: Of the floor crossings so far, Lori Idlout’s defection will lea",
+      "pub": "Wed, 11 Mar 2026 22:35:10 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Hundreds of thousands without power, school closures continue in Quebec following storm - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2lBYlhsbzJJNVQ3T3U3Smt1bnhuZnFjanUtYzN6X2pSVXNiRkNCN3kyMGVKRFFyYlduYzJpTU40VjNZSmZlZENsMHBteDNXNGR6SXdSeXVvS2haVkNtWWw0ZU5BNW1KVUhLNkRreHZDYTFPTkw4d09fUHhTS0c3TGRB?oc=5",
-      "snippet": "Hundreds of thousands without power, school closures continue in Quebec following storm &nbsp;&nbsp; CBC Some western Quebec schools closed again Thursday after storm &nbsp;&nbsp; ",
-      "pub": "Thu, 12 Mar 2026 12:17:22 GMT",
+      "title": "Hormuz disruption tests limits of global energy markets | Iran International - ایران اینترنشنال",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3bC1BWDVSMEphcDNnMS1vbEZmenByT2NROVdacFdNSnpFTE94Um53YlhmZTdHVElVNTlCT0doUGZRUkljUUJkS0pvaURING0wSkE?oc=5",
+      "snippet": "Hormuz disruption tests limits of global energy markets | Iran International &nbsp;&nbsp; ایران اینترنشنال How Iran has used the strait of Hormuz to throttle oil and gas – a visual",
+      "pub": "Wed, 11 Mar 2026 03:05:48 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Treaty 6 chiefs raise Alberta separation concerns with King Charles - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkhmWkZTOUUxZUFrcGFyN2llOGN3S05veVBOMlE0eUxCSzJkV0JEV3ZPeFVTTlhFanZZTFVVZUlrYkVCLV9DSWVnZjJJd29OaFAtRG5sMndPdTk1TTZvSDUzVHl6QUpqSTl4VVBhZVA1MWdDc0JvQ3VSVHpiT1BlNFBkdXdPV2xrTncyUmE3UnRLRVZQWXVUNjlQM0RiR3F6Q2lPNkJ1dzB1aE5wRFJoUjgxQmRxMk9LQ0w4?oc=5",
-      "snippet": "Treaty 6 chiefs raise Alberta separation concerns with King Charles &nbsp;&nbsp; CTV News King Charles expressed concern over Alberta separatism in meeting with Indigenous leaders:",
-      "pub": "Wed, 11 Mar 2026 23:27:57 GMT",
+      "title": "Gifts fit for a king: Here’s what First Nations Chiefs presented the Royal Family - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZmFkcnRDNDFRY1NtWlRhMHdKREUxWGFFaDZ4bkJaSVFMbUl2WVRhSEc1eWtJTHZwRHFUSlB4V3RmQjBvd0ZCUGowbnpkTjlCNnFxREg4cHI0TjFWZzlGZnVMbWt5Y1ZjSEtHdDJhRzZaUHpSaWRDaWRXNHpQcGl2NDNQVm5EeVExTGFnTV9YcERjZWZUNkhLei1Xc1ZlSmhmZXEybndPT0VNbzZqTFA4NENuMjJLME5qdlpYazZvYmpsc2pNUEZzQmlPNA?oc=5",
+      "snippet": "Gifts fit for a king: Here’s what First Nations Chiefs presented the Royal Family &nbsp;&nbsp; CTV News King Charles expressed concern over Alberta separatism in meeting with Indig",
+      "pub": "Thu, 12 Mar 2026 09:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Majority of Albertans oppose separating from Canada: Leger poll - Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOejA3ajZxR0F0ME10QmhTVFRTTmU1SExCMmxNbFV2ZlVubXVqZHlRLXFKU3I2bnE4Ym40VHZpTlExbGU3QU1NT1F3YzR1N1pnQVJaU2RzUWVwcGRMUWlnRmpXd1lRQ3NZYnlhQVI5YjJHWnZzam1ZTHZmckZKOUVWZ1JPSjJza0duN1R6M2FpVTFGSzA0M2hXa0FSaHMtRWtuOVdYUzNwdmFGQQ?oc=5",
+      "snippet": "Majority of Albertans oppose separating from Canada: Leger poll &nbsp;&nbsp; Edmonton Journal Alberta separation talk already affecting more than a quarter of surveyed Calgary busi",
+      "pub": "Tue, 10 Mar 2026 20:31:33 GMT",
       "image": ""
     }
   ],
