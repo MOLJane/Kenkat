@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-13T11:02:18.493897+00:00",
+  "generated_at": "2026-03-13T11:51:16.812276+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Government Not Anticipating Backlog After CT Scanner Shut Down at HSC",
+      "link": "https://vocm.com/2026/03/13/government-not-anticipating-backlog-after-ct-scanner-shut-down-at-hsc/",
+      "snippet": "The provincial government blames the previous Liberal administration's lack of maintenance for a CT scanner going out of commission at the Health Scie...",
+      "pub": "Fri, 13 Mar 2026 11:46:40 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/05/new-nl-health-services-pet-ct-scanner-health-sciences-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RCMP Stop Driver with $11,000 in Outstanding Fines",
+      "link": "https://vocm.com/2026/03/13/rcmp-stop-driver-with-11000-in-outstanding-fines/",
+      "snippet": "A man from Hare Bay has a future date with the court after police pulled him over and discovered that he had $11,000 in outstanding fines. The 27-year...",
+      "pub": "Fri, 13 Mar 2026 11:07:20 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/rcmp-lights.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Health Minister Says Government will Fulfill Promise to Staff Whitbourne ER",
@@ -51,30 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025.png"
     },
     {
-      "source": "VOCM",
-      "title": "Fuel Prices Up in PUB’s Regular Weekly Adjustment",
-      "link": "https://vocm.com/2026/03/13/fuel-prices-up-in-pubs-regular-weekly-adjustment/",
-      "snippet": "A modest increase in the price of gas this morning after what has been a turbulent week in terms of oil prices. Gas is up by 2.4 cents per litre acros...",
-      "pub": "Fri, 13 Mar 2026 08:32:25 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/03/generic-esso-gas-pump-fuel-prices-pub-4.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "March 13, 2026 – Do you agree with the provincial government’s decision to reduce the amount of money allotted in this year’s roads plan?",
-      "link": "https://vocm.com/2026/03/13/march-13-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12664').",
-      "pub": "Fri, 13 Mar 2026 08:01:22 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/construction-generic-1.png"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada launches tens of billions in Arctic military investment - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaWXZISHRPN21ubW5JaDRxOWNvMXcxRWluVkR5ZUM2OFpHT090M2NrZkRVMVNHR29neXU4NDhiaEd5U1NBU1dTMzQxTUE2Nl9ObXdHRHhlX2lFYmZfb3d2U0VuSWdYUkVubDgwSl9DYXU?oc=5",
-      "snippet": "Canada launches tens of billions in Arctic military investment &nbsp;&nbsp; Financial Times View Full Coverage on Google News",
-      "pub": "Fri, 13 Mar 2026 00:41:43 GMT",
-      "image": ""
-    },
-    {
       "source": "Google News Canada",
       "title": "Iran's new supreme leader issues his 1st statement, but his absence raises questions about his health - CBC",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kUXJBSmlKaVpnUlIwNWpfa3c1X0ZBOEVYcDlBa1E4OFREdmQ0eVlTU0pEMGNCd3ZDcXE2b1JDQXppZGRONlktd0JuRnEweG11dFNYNlRfNGJoaEJTdUYtQnhqTTZGdlFwRi0wd19vcFpwUkRF?oc=5",
@@ -84,18 +76,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Hydro-Quebec used a never-before-tried technique to protect the grid during Wednesday’s ice storm - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcFNLam1HS0JDay1iYzJQQW95Uk9jbmJjN0hWbFBLWDNHRGhuR0JQa0ZjOTJ5eW5XNDdUaGtOOVktcjdfT0ZCblVaOGV4eGxjdk5nT1QzanpqUzk0cV9LT2NJelFwcFhzUm1OVFZ4UHlvdFNjekpoZ3BIQVZPM1hYd09FZ1lRVXBpdHVRb3lqUEVDVG1CaWRNQnQzTTNVT1BMVEd2d1B2STN2dk5xTjNibVVEMk5hUjlCdGd3aGRGZXpITzJRNk5sR09fYWVoSXd0MndN?oc=5",
-      "snippet": "Hydro-Quebec used a never-before-tried technique to protect the grid during Wednesday’s ice storm &nbsp;&nbsp; CTV News Power outages linger after icy weather hits Montreal &nbsp;&",
-      "pub": "Thu, 12 Mar 2026 20:42:18 GMT",
+      "title": "Man found dead in boat off Belize coast identified as Canadian - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbk9uZm5RWVVqdWtZdV9FSnc3MGVxeGRNTkh2LU03WThCWFVMMFFQVUJub3VuWHdIRks2NmFRR1ZueWNwRlpwcGxFWmY2Rkx3Tjd3dy04VUpKQkZDbi1wd1Z6SlhZRWpRN21zcXZCTGpGeXdzUkZLRkdlVFB3MEpjQml4VFdUUFFvM2J4ekF2U3JfVXBmYkxkUzZOZWJ3MU03ODh3?oc=5",
+      "snippet": "Man found dead in boat off Belize coast identified as Canadian &nbsp;&nbsp; CTV News View Full Coverage on Google News",
+      "pub": "Fri, 13 Mar 2026 01:39:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Man found dead in boat off Belize coast identified as Vancouverite - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzlSUjhMb0VoLXJJQnBMOWRFSEg2dVRzZDduOGtHZ1hNZDlsTXRMSy0xTXZ5MFFUV3hKSUdtaW9hWUVaX1JlWGhaeUliQW8waEJpTHhNbEdEWXVmeXB2OXdKM2ZoWnpEb1hGajFoSzNJc1NzZS1aOXptZHNRUjFRR3FCUUxBekg0Mk9R?oc=5",
-      "snippet": "Man found dead in boat off Belize coast identified as Vancouverite &nbsp;&nbsp; CBC View Full Coverage on Google News",
-      "pub": "Fri, 13 Mar 2026 01:00:00 GMT",
+      "title": "Canada launches tens of billions in Arctic military investment - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaWXZISHRPN21ubW5JaDRxOWNvMXcxRWluVkR5ZUM2OFpHT090M2NrZkRVMVNHR29neXU4NDhiaEd5U1NBU1dTMzQxTUE2Nl9ObXdHRHhlX2lFYmZfb3d2U0VuSWdYUkVubDgwSl9DYXU?oc=5",
+      "snippet": "Canada launches tens of billions in Arctic military investment &nbsp;&nbsp; Financial Times View Full Coverage on Google News",
+      "pub": "Fri, 13 Mar 2026 00:41:31 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Hydro-Quebec used a never-before-tried technique to protect the grid during Wednesday’s ice storm - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcFNLam1HS0JDay1iYzJQQW95Uk9jbmJjN0hWbFBLWDNHRGhuR0JQa0ZjOTJ5eW5XNDdUaGtOOVktcjdfT0ZCblVaOGV4eGxjdk5nT1QzanpqUzk0cV9LT2NJelFwcFhzUm1OVFZ4UHlvdFNjekpoZ3BIQVZPM1hYd09FZ1lRVXBpdHVRb3lqUEVDVG1CaWRNQnQzTTNVT1BMVEd2d1B2STN2dk5xTjNibVVEMk5hUjlCdGd3aGRGZXpITzJRNk5sR09fYWVoSXd0MndN?oc=5",
+      "snippet": "Hydro-Quebec used a never-before-tried technique to protect the grid during Wednesday’s ice storm &nbsp;&nbsp; CTV News Power outages linger after icy weather hits Montreal &nbsp;&",
+      "pub": "Thu, 12 Mar 2026 20:42:18 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Nearly 50 rail cars loaded with potash derail near Lestock, Sask. - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU0s4OU81dFU4aWttWnBYVzA5aDNvN3NsNjlMSUFGQ3VOWGZhZUZJN2NZbF9TOFRsdFJzS1VwV1h5eWxwcTJjOThmcDliemltUjJDdG1mMDQ2LXI3N0tzYVpqTk9kS0hCUER0OGEwSDN2RkpweEE1NDNjbEFFQkl2SU90Q0hmZ0tWMmUtWHliVi1IQQ?oc=5",
-      "snippet": "Nearly 50 rail cars loaded with potash derail near Lestock, Sask. &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Thu, 12 Mar 2026 17:41:13 GMT",
+      "title": "Current and former politicians in Nunavut support MP’s decision to cross floor - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR19vT0I4Y1hCSnU3X21pMXVjT3ViQlRnZWY3d1VLSW80NXhGTTFTQ092VlZOclQ0SVdsVC1tUUNHVF9QejdGSlJrTDM4NVFXeEpndUEwY2NWN2xfYk5XRGhqLXNVM3V6VEJOMmpvVDhQZFQtckQ3NEVMRUpnVVFXMnlHQW1FMko3TEI0SUIyMndlQlZaNHhzbTdmYmdxSFBtM0RoMzZQUnRMTEVpUjA3dlZ4LUR4UQ?oc=5",
+      "snippet": "Current and former politicians in Nunavut support MP’s decision to cross floor &nbsp;&nbsp; The Globe and Mail How rare is it for a prime minister to attract 4 floor-crossers in 4 ",
+      "pub": "Thu, 12 Mar 2026 22:34:17 GMT",
       "image": ""
     }
   ],
