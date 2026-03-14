@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-03-14T12:32:20.334394+00:00",
+  "generated_at": "2026-03-14T13:39:43.454463+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "RCMP on Scene of Accident, Stephenville Access Route Closed",
+      "link": "https://vocm.com/2026/03/14/rcmp-on-scene-of-accident-stephenville-access-route-closed/",
+      "snippet": "The Stephenville Access Route is closed this hour because of a single-vehicle accident. RCMP Bay St. George are on the scene trying to recover a large...",
+      "pub": "Sat, 14 Mar 2026 13:37:29 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-17.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "NL Bucks National Trend, Adds 2,100 Jobs",
+      "link": "https://vocm.com/2026/03/14/294314/",
+      "snippet": "Canada's unemployment rate shot up last month but the rate in Newfoundland and Labrador held steady. Nationally, unemployment rose to 6.7 per cent fro...",
+      "pub": "Sat, 14 Mar 2026 13:06:31 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/now-hiring-sign-employment-job-resume.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Breakers Allege Unfair Discipline, Seek Meeting with League",
+      "link": "https://vocm.com/2026/03/14/294308/",
+      "snippet": "The Southern Shore Breakers are taking issue with the level of discipline administered by the St. John's Junior Hockey League following a brawl Saturd...",
+      "pub": "Sat, 14 Mar 2026 12:49:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/fight-on-the-ice.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Impaired Driver Arrested After Getting Stuck in CBS Snowbank",
@@ -43,51 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/health-minister-lela-evans.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Federal Judge Pauses Plan to End Immigration Protections for 1,100 Somalis",
-      "link": "https://vocm.com/2026/03/14/federal-judge-pauses-plan-to-end-immigration-protections-for-1100-somalis/",
-      "snippet": "A federal judge has temporarily stopped the U.S. government from ending immigration protections for roughly 1,100 Somali nationals living in the count...",
-      "pub": "Sat, 14 Mar 2026 08:38:29 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/03/189901790.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Numerous Calls Lead to Assault Arrest in Goulds",
-      "link": "https://vocm.com/2026/03/14/294295/",
-      "snippet": "Police have made an arrest after taking numerous calls about an assault in the Goulds. The incident unfolded at about 6:00 last night on the side of a...",
-      "pub": "Sat, 14 Mar 2026 08:54:26 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-12.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Fuel Prices Spike Again Across the Province",
-      "link": "https://vocm.com/2026/03/14/294292/",
-      "snippet": "Fuel costs a lot more today than yesterday. Gas jumped by 9.3 cents at midnight while diesel spiked by another 8 cents per litre. Furnace oil on the i...",
-      "pub": "Sat, 14 Mar 2026 08:50:22 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/11/Gas-Pump-Fuel-Cap-Price-Adjust.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "U.S. to send 2,500 Marines to Middle East as Iran, Israel continue to exchange attacks - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaUVSOUMwRV8yOVM0R3RLOGU1LTdtam52cGJQaFB4M0VZYWtOZVJJWHBJbGFScGJtclhSZWQ4MG5jRS1CMjI4WjdFNWZJTVJoUGVtZHZ3eTBwXzA1RUY5RTJmUU9fWWVBZUgwc1dMU0lzYnpVZUNJT2U3MHdrUmt4bEhNbmFrbFB2M3lGbHNsRVlnWWJLNU5jS1FJUEFoV0VQOTlYazJScUxIeUd3TU82cWo2Zk9ibnZzN0tsUGgyWXY2WGNTZEpjZGliQ1hmei1Pai0xSg?oc=5",
-      "snippet": "U.S. to send 2,500 Marines to Middle East as Iran, Israel continue to exchange attacks &nbsp;&nbsp; CTV News Live updates: Iran war news; US strikes military assets on Kharg Island",
-      "pub": "Sat, 14 Mar 2026 01:50:00 GMT",
+      "title": "US strikes more than 90 Iranian military targets on Kharg Island, CENTCOM says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcnRnckoxeDJ2ZDB3QW5LVC1zX1lrZmNFSS1aME1xRk9vTXQzMVZaY2t3UVloZXRuZHBySUFIOVM4bGR0dHMtOFlvaFFhdnplNjBIZ19qcnpGdkxYZUFQcWlGTE5hZTY5d01oY1RSdVVQcVJ6b3BPNUUxU2lMMlE0YzhUczFpNW8xVnl6TnJzek5ZbW90U0s2R2hUbUJEQW1nYkhPUGdXYzl6LW9LZlhwMzJqbzU2YmY3X0VHbmpka1R3MUFtWTRR?oc=5",
+      "snippet": "US strikes more than 90 Iranian military targets on Kharg Island, CENTCOM says &nbsp;&nbsp; Reuters Why has the US targeted Iran's Kharg Island? &nbsp;&nbsp; BBC Iran hits back aft",
+      "pub": "Sat, 14 Mar 2026 11:37:25 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Toronto Al-Quds Day rally will go ahead despite Ford’s call for injunction, lawyer for organizers says - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2JBZGx4d2tIRWhTYVJpUVlsSmxMbXhnbkZyN3NEX251UkZrQ3FRT1BVODN1S3VWZGIzWHBIdEF1X0piM0pkNU9feUd4SFRkdmlZb2M4TmJDUkJRNS1UVzFaMEFhcDJCbWJsTnBBUS1OWHEtd1FMWjd0aU5MNTItYm5EZXBBSXBRYkMyWDRKelp2VnZJZXkyRjQ0WW1MaFNSbWhGdzBLX29xZjd4emhz?oc=5",
-      "snippet": "Toronto Al-Quds Day rally will go ahead despite Ford’s call for injunction, lawyer for organizers says &nbsp;&nbsp; The Globe and Mail View Full Coverage on Google News",
-      "pub": "Sat, 14 Mar 2026 03:37:47 GMT",
+      "title": "He thought he followed all the rules. Then border guards arrested him on the street. - CBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc2xCT0pSTXNTWWJTaHVNU2o4VnA2Tk1qZ0dpelJVMkhsT0UwUkg2RG93U1RPTWxvS1BHWExLb21sZC1TQy1Md2Q0WVdxM3FLVUZwQzNmQ2NmS1BGenRSYmFjOXpmb0lESU1rV1NCdm9uZzB3TS1rbTBjUlFwRHJxTk42cjlHU01DeXo0OUFZdXVJRWZiSTZDMlAwZE01YkU?oc=5",
+      "snippet": "He thought he followed all the rules. Then border guards arrested him on the street. &nbsp;&nbsp; CBC",
+      "pub": "Sat, 14 Mar 2026 11:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Submarines off the table as Carney meets with leaders of Norway, Germany - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON3Q2MndKU19WRXQzTXhHMmN0X1lJU3VFZjhyYXdjdGpVaDhQR0k5dkUtRnFVWlJyMWhManExRDJYWkE3YmRmX0pyeW9vckgtYWtEeDFmUzhsUlZzMGRJaUNNVUJTSDRVNTFuRm5tMkdjUTVHODRrQ3pMdC1odFk4N3VrOU55eVR1bHc?oc=5",
-      "snippet": "Submarines off the table as Carney meets with leaders of Norway, Germany &nbsp;&nbsp; CBC Carney to take in skiing world cup before meeting with Norway’s PM &nbsp;&nbsp; The Globe ",
-      "pub": "Fri, 13 Mar 2026 16:45:59 GMT",
+      "title": "5 Wing Goose Bay Included in Ottawa’s Arctic Defence Modernization Plan - VOCM",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2JxME9iRkc4dkRMUmdWRXlEZEtQU200cDJ6b1pVRFVkZUFGd2cwX3BYZkxobnRjLUljYnY2N3RjdEh2YmdEcFhpSWhMOGtucmJRajZta3JTanJoMVVxT19EVGpGd0NjS1hFY2dpSDhNOWhIM2Fna2lVVjdWN1hVRkFyLUFNdjVZWEh3ak1tVW1QVl9wQnp5LVpEcVpyN1Nt?oc=5",
+      "snippet": "5 Wing Goose Bay Included in Ottawa’s Arctic Defence Modernization Plan &nbsp;&nbsp; VOCM View Full Coverage on Google News",
+      "pub": "Fri, 13 Mar 2026 09:00:00 GMT",
       "image": ""
     },
     {
@@ -100,34 +100,34 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Israel planning massive ground invasion of Lebanon, officials say - Axios",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56ejh5ODY0QmRtX3JYa2pkQlkya1dUSUFFVl9ySmNtM3FVS3FQQndKT3RON3hkSC1Vd0szb1BHa2E3dXZyLXZpaUkzUHI5Ymo3MGE2T0ZBSmZmZEwzZFlIRFVISFFLLS01VVBDLThHX0J2MW5pZ0lpUnZQeFY3QQ?oc=5",
-      "snippet": "Israel planning massive ground invasion of Lebanon, officials say &nbsp;&nbsp; Axios Israel kills 12 medics in attack in southern Lebanon as war ravages nation &nbsp;&nbsp; Al Jaze",
-      "pub": "Sat, 14 Mar 2026 00:08:43 GMT",
+      "title": "Six-year-old hit by vehicle later found abandoned in Airdrie - Global News",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05V3RTWmRkYU4xbzFiemFNUzNSSkVMSE00cmhVai1ZY0tfeFk1V3NQZmN2M0JIVUpNZDJQamE3bmpLS3VkRGZlSloyRXZwYUFuVFl1VmxGVm0yYVNheDVocFk2TjBIUUp4VWdvY0FLYmlTeER4S2xCdQ?oc=5",
+      "snippet": "Six-year-old hit by vehicle later found abandoned in Airdrie &nbsp;&nbsp; Global News Airdrie RCMP seeking assistance to identify suspect in hit-and-run that injured 6-year-old &nb",
+      "pub": "Fri, 13 Mar 2026 22:32:29 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada expands access to work permits in rural areas - CIC News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZmQ1Zy11YzNjTGhqdXhTU3U2MTFOcVhXZl95X1VNd2xBaXh6bkJWSzJrVGVocnh0THFGVUJhZWUwRjdpc29CamxyMzBzWXFRMjMwQUJaVDJSSjJDRV9WY1VIQVNUX3dlZlRPZW16djRGVmVyLVljS1ZNRnR2SHlYRDlzLVV6ZkJ3REF0NGRFcXZNU0paSm1jeDZVb1ZuLVV3cmtFTVc5Mlp0Y3RRb2YtcFJFY3dTRE9UbUJpWGJR0gHDAUFVX3lxTE5jSkZBYW4xaXJKMGw1Y1lmbmowZGpVd2MwcVhDRUlsUllzZGFPOE1BUVVoQ2duOEpnU3cwc1FOQUhJUDlJRW1DRnRFM3NqVk1CakxfRzVlZW56ZmszYzdyMmMyMTVEaldCSU5lY3ZISWlteWFLZm5iUnlkeUpOXzBkNEttWEhBUkV2NlRMaG8tOUM0UGNOMTJnVm5jVWVxTGhTUWh1X0pYcWR0VVl0QkJqbG5ERmcxZDFYQjdyb08wdVJudw?oc=5",
-      "snippet": "Canada expands access to work permits in rural areas &nbsp;&nbsp; CIC News Ottawa to allow rural employers to increase proportion of temporary foreign workers &nbsp;&nbsp; CBC Cana",
-      "pub": "Fri, 13 Mar 2026 20:44:58 GMT",
+      "title": "Boil water advisory issued for southwest Calgary neighbourhood - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT1RoakwtMHFvSG5ESm50VWNSLVZWRzdITEdkekIxVF9RYmxiNktaRnJ2QkVmYzZyYnlqX3paN3czVE9wVHk3ZXVSVEtVdE9hRGpldXhFSmNSNkdkaGRfczBIc3I3SnJGQUlBMEZ6d1VKVmc3UEhOZHNyZUJvNE4xaFBwTXEtVXctakRoRnJvSUc2dGxCT3J0dWNmOC1JRWRQTFdiWA?oc=5",
+      "snippet": "Boil water advisory issued for southwest Calgary neighbourhood &nbsp;&nbsp; CTV News Boil Water Advisory issued for 500 Calgary homes and businesses &nbsp;&nbsp; City of Calgary Ne",
+      "pub": "Fri, 13 Mar 2026 23:39:45 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Boil water advisory issued for 500 southwest Calgary homes and businesses - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdU1wQnhSNjNtcEM3RUVVZEN4YzVaZnN2Z0hzc0FaTVJCM3VMTkNCd195M0pZd1JpY0dONFY5dEJaMU53WFRka0lnQnp2TmRfdkprODlRMHVIV1ptT3VnY2huMVVpLVJhSGVzdFVPNk4yS2l2TnBYd3ZqV1pLT0ptT2JUN2lhMzQ2bHZfc1RtYw?oc=5",
-      "snippet": "Boil water advisory issued for 500 southwest Calgary homes and businesses &nbsp;&nbsp; CBC Boil Water Advisory issued for 500 Calgary homes and businesses &nbsp;&nbsp; City of Calg",
-      "pub": "Fri, 13 Mar 2026 23:55:22 GMT",
+      "title": "Ford government to end funding for supervised consumption sites, advocates say — including two in Toronto - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUlFfNlVHc1prMVZrWm9sZFVXUUVEbkdNV2psLTZKdF91aGY0OW9NX2tUYU43Q2kySU9DM0duSy1nVkZqTmJjNVJhUm85dnAxSi1TZ195VHJqd2JkbG9tQ3UzU3RQU1VocVNNbzZJRmpna19QekhkREpmZE5WTVpWeWhvOVlhUHg2MXFZcU9KREdBVHNjblV5U0N0Uk1WaWxmZDgyVDRkVWVrUG1vZXg5aFc3OGhiSkVCUnU4bEFQMy14RDdneHlTSjZweVdDOUpCYU1DWXFKbzlwczh5eGg4bUVnZVVXMVY3Tk8zZ0RqMFA0ZVI2ZzVodVNXQkJDUHhiU0lXejNxbXNiMkJOOWhzLXA2bw?oc=5",
+      "snippet": "Ford government to end funding for supervised consumption sites, advocates say — including two in Toronto &nbsp;&nbsp; Toronto Star Ontario to end funding to multiple drug consumpt",
+      "pub": "Fri, 13 Mar 2026 21:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Employee no longer works at Canad Inns after teen kicked out of hospital hotel - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHlNQUtXcWhkUmdCWUlHSDFkemR6djVrblFHMEVFMVdpVkx0Z1hLSERTeml2dHBnS1VrQjRZcnAxcmhTaHBGN0cxb0ZMUVJiVVN1NU9NWGFDZlBFLWVQMG1IdVZEamM4TmR1bW9EdFNoMXYxcXpFUWNyMWVpVE1mbTFGZEthUG1iOXJXcFlfSDZxR1U?oc=5",
-      "snippet": "Employee no longer works at Canad Inns after teen kicked out of hospital hotel &nbsp;&nbsp; CBC Video showing family being booted from hotel during surgery recovery under investiga",
-      "pub": "Thu, 12 Mar 2026 22:36:06 GMT",
+      "title": "Al-Quds rally in Toronto to proceed as planned despite Ford’s push to stop it, lawyer says - CP24",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcW1yWDhqaV9ocVFQTnZHSEk5aVZtd0xnaXI3NmU0RXF1emJvbktpRjVUZHpWZkVYVFdyUVhHeHhmeEhlR0R0cjRkbkdQLVE0Mmkwd0RvaUdXWU54X2xVdHJwRGtBOFBDazVHX2RxVHppU3p2aTVNVDF4UEFPQmtPMXVRb1lmV0RMWFZYR3lkbzRKbGpDZEc0SHB0eWxaMElOQW8zajVfSThLdlREQXhGdEliYTl3R05UZ0U5c0E3VmZNSXdRaVJpSEgzSVZVdk9ZOU14MmZpYkVVRk00WHc?oc=5",
+      "snippet": "Al-Quds rally in Toronto to proceed as planned despite Ford’s push to stop it, lawyer says &nbsp;&nbsp; CP24 Toronto Al-Quds Day rally will go ahead despite Ford’s call for injunct",
+      "pub": "Sat, 14 Mar 2026 00:33:00 GMT",
       "image": ""
     }
   ],
