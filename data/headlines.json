@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-03-14T08:25:26.700431+00:00",
+  "generated_at": "2026-03-14T08:58:56.553403+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Federal Judge Pauses Plan to End Immigration Protections for 1,100 Somalis",
+      "link": "https://vocm.com/2026/03/14/federal-judge-pauses-plan-to-end-immigration-protections-for-1100-somalis/",
+      "snippet": "A federal judge has temporarily stopped the U.S. government from ending immigration protections for roughly 1,100 Somali nationals living in the count...",
+      "pub": "Sat, 14 Mar 2026 08:38:29 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/03/189901790.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Numerous Calls Lead to Assault Arrest in Goulds",
+      "link": "https://vocm.com/2026/03/14/294295/",
+      "snippet": "Police have made an arrest after taking numerous calls about an assault in the Goulds. The incident unfolded at about 6:00 last night on the side of a...",
+      "pub": "Sat, 14 Mar 2026 08:54:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-12.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Fuel Prices Spike Again Across the Province",
+      "link": "https://vocm.com/2026/03/14/294292/",
+      "snippet": "Fuel costs a lot more today than yesterday. Gas jumped by 9.3 cents at midnight while diesel spiked by another 8 cents per litre. Furnace oil on the i...",
+      "pub": "Sat, 14 Mar 2026 08:50:22 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/11/Gas-Pump-Fuel-Cap-Price-Adjust.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "March 14, 2026 – We are two weeks in to the spring sitting of the House of Assembly. Have you been following along?",
+      "link": "https://vocm.com/2026/03/14/march-14-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12667').",
+      "pub": "Sat, 14 Mar 2026 08:32:15 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/house-of-assembly-2026.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Man Charged with Attempted Murder Following 2024 Shooting in St. John’s",
@@ -35,38 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/snow-storm.png"
     },
     {
-      "source": "VOCM",
-      "title": "Three Tractor Trailer Crashes in The Span of a Few Hours in Eastern NL, Highway Closed Near Doe Hills",
-      "link": "https://vocm.com/2026/03/13/tractor-trailer-crashes-eastern/",
-      "snippet": "It's windy out there, and there have been three tractor trailer crashes on the edge of the Avalon Peninsula and in metro. One happened around lunchtim...",
-      "pub": "Fri, 13 Mar 2026 17:51:22 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/doe-hills-crash-tractor-trailer-jamie-budden.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Assets of Former Stephenville Dymond International Airport Being Sold Off",
-      "link": "https://vocm.com/2026/03/13/stephenville-dymond-airport-assets-sale/",
-      "snippet": "The assets associated with the former Stephenville Dymond International Airport are being sold off. Businessman Carl Dymond once had lofty plans for t...",
-      "pub": "Fri, 13 Mar 2026 17:41:44 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/stephenville-dymond-international-airport-sign.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "CFIB Worried About Possible Impact with 1.3M Temporary Work Permits Set to Expire",
-      "link": "https://vocm.com/2026/03/13/294256/",
-      "snippet": "The Canadian Federation of Independent Business says 1.3 million temporary work permits are set to expire this year, and they are worried about what t...",
-      "pub": "Fri, 13 Mar 2026 14:51:00 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/06/Work-office-productivity-job.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Owner of Building That Housed Landings Restaurant Planning to Rebuild Following Fire",
-      "link": "https://vocm.com/2026/03/13/owner-of-building-that-housed-landings-restaurant-planning-to-rebuild-following-fire/",
-      "snippet": "The owner of the Landings Eatery and Pub in Portugal Cove-St. Philip's is planning to rebuild after fire consumed the building this week. The blaze br...",
-      "pub": "Fri, 13 Mar 2026 13:55:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/landings-fire-ricky.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "U.S. to send 2,500 Marines to Middle East as Iran, Israel continue to exchange attacks - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaUVSOUMwRV8yOVM0R3RLOGU1LTdtam52cGJQaFB4M0VZYWtOZVJJWHBJbGFScGJtclhSZWQ4MG5jRS1CMjI4WjdFNWZJTVJoUGVtZHZ3eTBwXzA1RUY5RTJmUU9fWWVBZUgwc1dMU0lzYnpVZUNJT2U3MHdrUmt4bEhNbmFrbFB2M3lGbHNsRVlnWWJLNU5jS1FJUEFoV0VQOTlYazJScUxIeUd3TU82cWo2Zk9ibnZzN0tsUGgyWXY2WGNTZEpjZGliQ1hmei1Pai0xSg?oc=5",
@@ -76,9 +76,9 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Boil Water Advisory issued for 500 Calgary homes and businesses - City of Calgary Newsroom",
+      "title": "Boil Water Advisory issued for 500 Calgary homes and businesses - The City of Calgary",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjA5eEQtVURicTRKR05mYVc4a0YyS3Z1M09oZWJ4aGQ5TFRoZnBhdzJRRUVuQ254aU9HZDktUVZwUmx3cGgyeEdnbXRTa01SbWJFR1pGLWI5QzR5YW1Mc0pmcVBqRDNlbVBURy1sTTU5enpnamdHZ2RCcFVBNnRzVDVpRUpFckFvc2JTZWNDMEJvSUtpY1Bz?oc=5",
-      "snippet": "Boil Water Advisory issued for 500 Calgary homes and businesses &nbsp;&nbsp; City of Calgary Newsroom Alberta launches municipal inspection into Calgary’s handling of Bearspaw feed",
+      "snippet": "Boil Water Advisory issued for 500 Calgary homes and businesses &nbsp;&nbsp; The City of Calgary Alberta launches municipal inspection into Calgary’s handling of Bearspaw feeder ma",
       "pub": "Fri, 13 Mar 2026 23:19:05 GMT",
       "image": ""
     },
@@ -92,18 +92,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Al-Quds rally in Toronto to proceed as planned despite Ford’s push to stop it, lawyer says - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcW1yWDhqaV9ocVFQTnZHSEk5aVZtd0xnaXI3NmU0RXF1emJvbktpRjVUZHpWZkVYVFdyUVhHeHhmeEhlR0R0cjRkbkdQLVE0Mmkwd0RvaUdXWU54X2xVdHJwRGtBOFBDazVHX2RxVHppU3p2aTVNVDF4UEFPQmtPMXVRb1lmV0RMWFZYR3lkbzRKbGpDZEc0SHB0eWxaMElOQW8zajVfSThLdlREQXhGdEliYTl3R05UZ0U5c0E3VmZNSXdRaVJpSEgzSVZVdk9ZOU14MmZpYkVVRk00WHc?oc=5",
-      "snippet": "Al-Quds rally in Toronto to proceed as planned despite Ford’s push to stop it, lawyer says &nbsp;&nbsp; CP24 View Full Coverage on Google News",
-      "pub": "Sat, 14 Mar 2026 00:33:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Hegseth: Strait of Hormuz Is Open - WSJ",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkFrSzBpc05tV2l5cFF2TGpJSXJyS2xpbTF3cVMzcGxJc3dIeU56ZzZyZkVtNmpSY2VrZ1VxTnBiNFJjdXpDLVpZb29HVTBtV24zV3d1eFlqMHlJb3VqYnh5YkF5VVVHYWJmOFNGOGU5M1FkTVZLRlk1cE1pZzg5SmZneGQxRjJkMlZTWUJnSWRQbTlacm5YMXZLWkRjTGJvN2pmX05vZjVRRTZDVWZlaTFsN1l6MEVybUVYUA?oc=5",
       "snippet": "Hegseth: Strait of Hormuz Is Open &nbsp;&nbsp; WSJ Pete Hegseth’s Worrisome Press Briefing &nbsp;&nbsp; The Atlantic What is the strait of Hormuz and can the US stop Iran from bloc",
       "pub": "Fri, 13 Mar 2026 19:46:28 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Al-Quds rally in Toronto to proceed as planned despite Ford’s push to stop it, lawyer says - CP24",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcW1yWDhqaV9ocVFQTnZHSEk5aVZtd0xnaXI3NmU0RXF1emJvbktpRjVUZHpWZkVYVFdyUVhHeHhmeEhlR0R0cjRkbkdQLVE0Mmkwd0RvaUdXWU54X2xVdHJwRGtBOFBDazVHX2RxVHppU3p2aTVNVDF4UEFPQmtPMXVRb1lmV0RMWFZYR3lkbzRKbGpDZEc0SHB0eWxaMElOQW8zajVfSThLdlREQXhGdEliYTl3R05UZ0U5c0E3VmZNSXdRaVJpSEgzSVZVdk9ZOU14MmZpYkVVRk00WHc?oc=5",
+      "snippet": "Al-Quds rally in Toronto to proceed as planned despite Ford’s push to stop it, lawyer says &nbsp;&nbsp; CP24 View Full Coverage on Google News",
+      "pub": "Sat, 14 Mar 2026 00:33:00 GMT",
       "image": ""
     },
     {
@@ -116,18 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Ford government to end funding for supervised consumption sites, advocates say — including two in Toronto - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUlFfNlVHc1prMVZrWm9sZFVXUUVEbkdNV2psLTZKdF91aGY0OW9NX2tUYU43Q2kySU9DM0duSy1nVkZqTmJjNVJhUm85dnAxSi1TZ195VHJqd2JkbG9tQ3UzU3RQU1VocVNNbzZJRmpna19QekhkREpmZE5WTVpWeWhvOVlhUHg2MXFZcU9KREdBVHNjblV5U0N0Uk1WaWxmZDgyVDRkVWVrUG1vZXg5aFc3OGhiSkVCUnU4bEFQMy14RDdneHlTSjZweVdDOUpCYU1DWXFKbzlwczh5eGg4bUVnZVVXMVY3Tk8zZ0RqMFA0ZVI2ZzVodVNXQkJDUHhiU0lXejNxbXNiMkJOOWhzLXA2bw?oc=5",
-      "snippet": "Ford government to end funding for supervised consumption sites, advocates say — including two in Toronto &nbsp;&nbsp; Toronto Star Ontario to end funding to multiple drug consumpt",
-      "pub": "Fri, 13 Mar 2026 21:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Canada’s Conservative leader needs to make inroads with Trump. Is it too late? - Politico",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3ktekxETlkxazZpbGdFQTdWN20xbVQ0UktYOFFjNHNqQ0RHQjQzQmRsaW5yNXBuV195VkJ5SkxUNml4bzhnT3FjdDNBai1XVEtjazY2M0FrTmxyc2lnVGZkTUtsYWNqRGtlV1c4bkw5aTJVSnhtcjBYREh0alFrWkFidE15UDd0VFVjMWQ3TFZldGZHdFh3?oc=5",
       "snippet": "Canada’s Conservative leader needs to make inroads with Trump. Is it too late? &nbsp;&nbsp; Politico Poilievre expands his message playbook as party preps for Parliament’s return &",
       "pub": "Thu, 12 Mar 2026 10:01:51 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Employee no longer works at Canad Inns after teen kicked out of hospital hotel - CBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHlNQUtXcWhkUmdCWUlHSDFkemR6djVrblFHMEVFMVdpVkx0Z1hLSERTeml2dHBnS1VrQjRZcnAxcmhTaHBGN0cxb0ZMUVJiVVN1NU9NWGFDZlBFLWVQMG1IdVZEamM4TmR1bW9EdFNoMXYxcXpFUWNyMWVpVE1mbTFGZEthUG1iOXJXcFlfSDZxR1U?oc=5",
+      "snippet": "Employee no longer works at Canad Inns after teen kicked out of hospital hotel &nbsp;&nbsp; CBC Video showing family being booted from hotel during surgery recovery under investiga",
+      "pub": "Thu, 12 Mar 2026 22:36:06 GMT",
       "image": ""
     }
   ],
