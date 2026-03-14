@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T14:52:13.296542+00:00",
+  "generated_at": "2026-03-14T15:19:44.984863+00:00",
   "count": 16,
   "items": [
     {
@@ -17,14 +17,6 @@
       "snippet": "The education minister is clarifying what he has described as a \"mess\" with the Canada-Wide Early Learning and Child Care program. Paul Dinn says the ...",
       "pub": "Sat, 14 Mar 2026 14:18:34 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/paul-dinn-schools-snow-update.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RCMP on Scene of Accident, Stephenville Access Route Closed",
-      "link": "https://vocm.com/2026/03/14/rcmp-on-scene-of-accident-stephenville-access-route-closed/",
-      "snippet": "The Stephenville Access Route is closed this hour because of a single-vehicle accident. RCMP Bay St. George are on the scene trying to recover a large...",
-      "pub": "Sat, 14 Mar 2026 13:37:29 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-17.png"
     },
     {
       "source": "VOCM",
@@ -67,10 +59,18 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/tony-wakeham.jpg"
     },
     {
+      "source": "VOCM",
+      "title": "Police Chase Through Holyrood Ends with Peaceful Arrest",
+      "link": "https://vocm.com/2026/03/14/294297/",
+      "snippet": "A man who allegedly did his best to elude police with both wheels and feet in the Holyrood area was finally arrested this morning at a convenience sto...",
+      "pub": "Sat, 14 Mar 2026 09:55:02 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-17.png"
+    },
+    {
       "source": "Google News Canada",
       "title": "Live updates: Iran war news; US strikes military assets on Kharg Island oil export hub - CNN",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MSHk4Wi0tRXM0VHh6c1Myc0NJakpvUnl5VllrbmtYcGM4R3JaUDVWNW9TdnVDWjlFMGRvXzlHanpiYlctTExOWnZHejBWTGp6dUJoRGpVQWpDYWNfZnVIZW1fZ01jSHN1Tm5wc0IyQWFQZFVNSXlhaA?oc=5",
-      "snippet": "Live updates: Iran war news; US strikes military assets on Kharg Island oil export hub &nbsp;&nbsp; CNN Kharg Island: Why has it been targeted by the US? &nbsp;&nbsp; BBC Iran hits",
+      "snippet": "Live updates: Iran war news; US strikes military assets on Kharg Island oil export hub &nbsp;&nbsp; CNN Kharg Island: Why has it been targeted by the US? &nbsp;&nbsp; BBC Iran war ",
       "pub": "Sat, 14 Mar 2026 14:30:00 GMT",
       "image": ""
     },
@@ -84,26 +84,26 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Habs Mailbag: Samuel Montembeault's time with Canadiens could be over - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTJPdTJiN2JvdlZXOW9zVmR6OHJpaGYwY1FyMTNqM1RmTklXbDI5VExGVm9vLWJXZEJ0cE1LMFNTc0xhWVlBVnNkUEFWenBnTEwzS2JoNWtMNVh5cjMwUHE0dmFoQlRuNHRIUTB0QkVUVnRxeHVyUHIyd3ZsYktZTWZ6djgwNllqZWxjQkVGSGZPZTBESTBXT3dfUk0zRkNwOVR3dmQya3JTYjh4UFo4ZmhmeHVkTmptN3BDb0hiZGRVVlJweFBj?oc=5",
+      "snippet": "Habs Mailbag: Samuel Montembeault's time with Canadiens could be over &nbsp;&nbsp; Montreal Gazette The LGBTQ+ community's conflicted relationship with the Habs and hockey &nbsp;&n",
+      "pub": "Sat, 14 Mar 2026 10:03:35 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Toronto Al-Quds Day rally will go ahead despite Ford’s call for injunction - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2JBZGx4d2tIRWhTYVJpUVlsSmxMbXhnbkZyN3NEX251UkZrQ3FRT1BVODN1S3VWZGIzWHBIdEF1X0piM0pkNU9feUd4SFRkdmlZb2M4TmJDUkJRNS1UVzFaMEFhcDJCbWJsTnBBUS1OWHEtd1FMWjd0aU5MNTItYm5EZXBBSXBRYkMyWDRKelp2VnZJZXkyRjQ0WW1MaFNSbWhGdzBLX29xZjd4emhz?oc=5",
+      "snippet": "Toronto Al-Quds Day rally will go ahead despite Ford’s call for injunction &nbsp;&nbsp; The Globe and Mail Ford government still expected to seek injunction to stop Al-Quds Day ral",
+      "pub": "Sat, 14 Mar 2026 03:37:47 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "‘I just couldn’t believe it’: Ontario man fears high‑speed rail could destroy his business - CTV News",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWkZ2MmhFc1JIbjlwZG10QlZSNWIwNVFMNl90V1N5eEFORlVmS3kyZ3Z6bmREZ1FQNTR3ZENPQVlNeW85QWdYb1p2REVfeEdiUDJPUHNSVEJrSjlSQXhvcXNaNVBBd1hXVEJJaGpxTkVIcnJ2UUtJNlU1UFhjcXZ6WllocTVBRXU0LU9tdHhwYVphOEpyZjZwT1RSNDYzV2RDdC1rU2xYWGE0OTcyVTNBV1BxZm9MeE5BWWNXQkNrNjRxQQ?oc=5",
       "snippet": "‘I just couldn’t believe it’: Ontario man fears high‑speed rail could destroy his business &nbsp;&nbsp; CTV News View Full Coverage on Google News",
       "pub": "Sat, 14 Mar 2026 10:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "'Don Cherry? Vraiment?' Order of Canada nomination sparks backlash in Quebec - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQXzFwREJxekV4VWE4NHR2Z0h0M3lNZUQwSUJQZFk1WktmcERIWlRIM0VuR3NDTWtlSUtha011U24tRnBacU9LU3Q0a2JjT2Y0bmFXb3VmaXVBa1hDNWxhV1ZKYWloQkFmVnZweEphS3BBbGVIZ0NnQmctWG9iLXh4MFRwRlpSdE9GdnplaEFudnRGVlRfNTltZ1lOdTQ0QQ?oc=5",
-      "snippet": "'Don Cherry? Vraiment?' Order of Canada nomination sparks backlash in Quebec &nbsp;&nbsp; Montreal Gazette The LGBTQ+ community's conflicted relationship with the Habs and hockey &",
-      "pub": "Fri, 13 Mar 2026 19:17:28 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Drunk motorist in fatal crash which killed his friend was under a driving suspension - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXRFMjY2eExidEZacXNiMWtuWU9sLThaMkJNM2gzMVZtTG1ibjNsdjNvVGhIbDZZNWstZUdwTGlxd1JzZVZUNTdTMEVuSEFoeGtvS1JtWnAyQTBqbGt0LWN5Zmp0bGlUZVBTQVJMRDI2SFpGWkp5U3E0a2xUNm1PRGVMM01tTFhFSEVSNHoycS1PaDhCdlRYbERzZlFCcGphdGY4TGstQ2tGR1NnWURiMTJpRzMwQQ?oc=5",
-      "snippet": "Drunk motorist in fatal crash which killed his friend was under a driving suspension &nbsp;&nbsp; Calgary Herald",
-      "pub": "Fri, 13 Mar 2026 21:04:53 GMT",
       "image": ""
     },
     {
