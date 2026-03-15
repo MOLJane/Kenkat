@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-15T12:34:25.809082+00:00",
+  "generated_at": "2026-03-15T13:41:09.432592+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "City Extends Deadline for Feedback on Neighbourhood Plans",
+      "link": "https://vocm.com/2026/03/15/294332/",
+      "snippet": "The deadline for feedback on three neighbourhood plans in the capital city has been extended by a week. St. John's has developed draft recommendations...",
+      "pub": "Sun, 15 Mar 2026 12:48:37 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/city-of-st-johns.jpg"
+    },
     {
       "source": "VOCM",
       "title": "World Record Achieved at Labrador Winter Games",
@@ -59,14 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/03/st-patricks-day.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Trump Calls for Global Coalition to Protect Oil Routes Amid Iran Conflict",
-      "link": "https://vocm.com/2026/03/15/trump-calls-for-global-coalition-to-protect-oil-routes-amid-iran-conflict/",
-      "snippet": "A new phase in the conflict between the United States and Iran is unfolding as Washington pushes for international support to safeguard one of the wor...",
-      "pub": "Sun, 15 Mar 2026 07:23:43 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/03/5010711.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Toronto police make two arrests on Saturday after court denies injunction to stop Al-Quds rally in Toronto - National Post",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRnNyZkRKYmRaLUtKVlZqV1pQQWxLWnQtemtENzZpSzUxLXBUcVQ4WjUtZnBvQnRhNnd2cVkwQ1lWUnB6dXJ2S1c4OWpEVVYyTnNaQ1NTSnFOUHFpV0RVa01KYjJWMDdiTFZzd1RvSzJhd3ZrRG1XOFJ2cjB0cVEzWUhIa0UwMWt0bERTMmpyUnlVcGkwUGdzcFduOUNRSXVocC1ubWNiUzQyQy1HTHhRWU9Lb2k0ekFHQkRzMms1RUlnODhHQm1RLXF3?oc=5",
@@ -76,34 +76,50 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Brendan Gallagher will be healthy scratch for Canadiens vs. Sharks - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbU9vemJTV3gwQThId20taW5sTUl3WVRRQ0w2RXg1YVktbk11Nml2ZlpmdDVfX3VaeEhwaDY2NVZ1bGNUdHo5THIwcW9qMXdacEl6UU11b01NaW5CNzNOdHdWOEJOcTIwMW1ISllKZWpkZE1zVC10YmtEQWp1akdiMVhWdzExa2d5QnE1Ml9YYmQ1MEpFU1ROTlJvMkJwRWVFZUxNMmdCWWpTY0tuM0ZESmdsR0k5RmxZa1B6TkZvekVUNFFX?oc=5",
-      "snippet": "Brendan Gallagher will be healthy scratch for Canadiens vs. Sharks &nbsp;&nbsp; Montreal Gazette Hidden Game: Shark attack ends Canadiens' three-game winning streak &nbsp;&nbsp; Mo",
-      "pub": "Sat, 14 Mar 2026 18:46:09 GMT",
+      "title": "Feds approach to Iranian regime in Canada ‘aggressive,’ public safety minister insists - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTm5VMnI5TzVjd3ZLRDAzel9WMVpoeXVOSGduaWZfWld2eDY1b1F0aVhYY2JvYXZBdU1oWm1KU3IteW93eTRSaVJISGNKZVN2dkkwZWNfWUpReGgxVGY4TjRQU0plSVFfWmkxTE93U3RFV1lGay11QjNYQ0VSS1dJanpGeEttNm1WbUpDWkpFTk5kcDE1SVVJemt4Q2FVZHV5THNrZER0eFlIWEVYQ2hScmFtaXFtRVNjaHEtNWt2R1R4QQ?oc=5",
+      "snippet": "Feds approach to Iranian regime in Canada ‘aggressive,’ public safety minister insists &nbsp;&nbsp; CTV News Senior Iranian official loses attempt to ban public from deportation he",
+      "pub": "Sun, 15 Mar 2026 09:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Carney, Norway PM push message of oil-market stability as war in Middle East rattles global supply - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX3Q5MXF6azNiM3QtRVVjdUNOdFhqampuSmtjNDQ2R2pheTZSckw2Y01OdGZTUzVDc0ZuTHQ3dlNrZ2dtT2pjcUU5ZDc1dXpSeDNyaV9laG4yT1JWQ0RTV0hlaGNCYzFTR3A1TWJ6cDc3RlgtV1hmSm9tRVRvWUk3NzRB?oc=5",
+      "snippet": "Carney, Norway PM push message of oil-market stability as war in Middle East rattles global supply &nbsp;&nbsp; CBC View Full Coverage on Google News",
+      "pub": "Sat, 14 Mar 2026 19:40:45 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Report: Trump rejects ceasefire talks to end Iran war - ynetnews",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSNGY2T0g0YnR4M1pRdVY1T3duamY2cmZaOTRINEVScnZEUFBvV3NyT0RwX1BHWUJHb0xJTEo1dDhSZkdERjk0MUptR01KdzB6SG01aFpR?oc=5",
-      "snippet": "Report: Trump rejects ceasefire talks to end Iran war &nbsp;&nbsp; ynetnews Trump says Iran is ready to negotiate a ceasefire but he's not ready to make a deal &nbsp;&nbsp; NBC New",
+      "snippet": "Report: Trump rejects ceasefire talks to end Iran war &nbsp;&nbsp; ynetnews Live updates: Iran war news; Trump says US not yet prepared to ‘make a deal’ with Tehran &nbsp;&nbsp; CN",
       "pub": "Sat, 14 Mar 2026 16:55:12 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "The Iran War Is Creating a Public Health and Environmental Crisis - Rolling Stone",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUS1MZm40WjhFM1lFSEtNMU9hcmc4TXJheEZRdWFsSzMzb2xkQVc5VFRxWnJEUXlVMzFUaHNub25od09CcUEwOVBmdmdKQjVOWWRXRk5jbmpNb2NqZ2VLVktidXNLUUtITEVic1psdUl6U2NMVEtNaFc5bVJ2NXh3dU5INWxOWHIzTFhha2h4VmFxT0dhd1VEaTBYNEl4SnB5Ny1GY3dpU1JibEY5bkNfRQ?oc=5",
-      "snippet": "The Iran War Is Creating a Public Health and Environmental Crisis &nbsp;&nbsp; Rolling Stone After U.S.-Israeli attacks on Iran’s oil facilities, toxic black rain endangers the pub",
-      "pub": "Sat, 14 Mar 2026 13:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "2 charged with 1st-degree murder after Burnaby man’s remains found - Global News",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VOUJENGtJUEN0LVZ1WGpQcldmMWJ0TF9Sbjh0bUdnMktURTBUQmJUby1hczUxWUlUYTAzYWh0UkFQZ3VDd3VpRVpfZlRualliWVlzSnFwYTl2MDdidFBUTy1ZTklFUGlEb3IxY2tNcVl3T1JhUEE?oc=5",
-      "snippet": "2 charged with 1st-degree murder after Burnaby man’s remains found &nbsp;&nbsp; Global News 2 charged in connection with the murder of Masood Masjoody &nbsp;&nbsp; CityNews Vancouv",
+      "snippet": "2 charged with 1st-degree murder after Burnaby man’s remains found &nbsp;&nbsp; Global News Two charged with murder after body of B.C. man who sued late Shah’s son found &nbsp;&nbs",
       "pub": "Sat, 14 Mar 2026 23:10:49 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Police arrest eight teens after assault on security guard outside high school goes viral - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWdoSDJjS2RfV2RmVDZOZ0x6YmdKTVl5ZHJJWUpNZWJsUnE4ckhhOFVnREZpNFo5ZF9EandiMkl4NWFwcUVwdmNlWjl2d3AwV3lOQmF6VC1RU3FoOEZycDkyZU9qVFpNLWhtNlROcEZvYlFJSGJiTXlmV1VMRk1JSXBzaGdxVVkyM2l6UnE0NUc1anV3SEFPbml2MjdmdXk4SWQ4WmZCbkgxYk9ROHk3Y0FpOXBNYVpieVlVM3Jn?oc=5",
+      "snippet": "Police arrest eight teens after assault on security guard outside high school goes viral &nbsp;&nbsp; Montreal Gazette Hidden Game: Shark attack ends Canadiens' three-game winning ",
+      "pub": "Sat, 14 Mar 2026 15:42:16 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Emergency alert issued in Prince George due to gas leak; residents told to evacuate - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnRRcFBqUG1qUjQyV01SNlpaRWpxU3J3cUFWcFNtMFVlOWpTVngyZy1UbXVRcjN0MGZlbVpvd0FSZlBVQ0RCeFFfeXpaMzZXOXpDb0Jzckh4akpQR3pWbXNsT3AzQ2xZNXJLQUtNMWtNTUF0UjJVeEtVazFHbVE0WVVBUzBTZFJMc1d0WFVDVjQ4VFRIYVJmRlQ3RzQ3Zmh4ZkRiUzFNTzY2TVE?oc=5",
+      "snippet": "Emergency alert issued in Prince George due to gas leak; residents told to evacuate &nbsp;&nbsp; CBC Gas leak evacuation UPDATE 8:55 P.M. &nbsp;&nbsp; City of Prince George UPDATE:",
+      "pub": "Sun, 15 Mar 2026 00:36:00 GMT",
       "image": ""
     },
     {
@@ -112,22 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aZVFXeE9uMjZYTncxM0w3VEh4bU5LLWVnQ0Vfb1FERG5ZMXR4TXEtY2dlWm90MTZjZENrcDVWd015ZlpCTFpTc05iamlFbHVpTk5jdVFiTURGMFYtamhoLUpUNEctaTg1d0VqTkNR?oc=5",
       "snippet": "'There's no way we could boil water for 2,000 people' — businesses face challenges amid boil water advisory in southwest Calgary &nbsp;&nbsp; Calgary Herald Boil Water Advisory iss",
       "pub": "Sat, 14 Mar 2026 21:41:13 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Prince George issues evacuation order for numerous properties due to gas leak - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTlFLVk5UVUJUa053SmZhQTdVTTc2dFVhSXpWQkk1dURwY21mbHJVYWJ5M2pKZjZzS2NnSDd6MmdtV1I4VWNDSGUxWHRNUmd5akpreklpUWgzNGlhTFZjRzZreHVhTkpGTHRvcDZkTTg5MHpiNE9qMFdFLUdpNjhWenhmRk1jcElvUjVqUkUyUW1oT3Z3N05sd0hhX1RoeFBCczdZY1BKWVlBVDJTbjZvQWVySVQ0Vkdl?oc=5",
-      "snippet": "Prince George issues evacuation order for numerous properties due to gas leak &nbsp;&nbsp; Castanet Gas leak evacuation UPDATE 8:55 P.M. &nbsp;&nbsp; City of Prince George UPDATE: ",
-      "pub": "Sun, 15 Mar 2026 01:36:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Carney defends his economic record after one year in office - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFVxWFI2ZHV4cU1mN0hqdEVBWkNLTDFSS3ZGYzlmQklYcUhGTUVnemFWV3U1R0pMaFlMUWRaa2dvVUxicEdHZmdyd1VWdE9EQ1pieGdVSkN0eXp0UTl2ZVNhVHdHb2JKeGFyVHR4T3dja2w2VTJJbm4zRFdicFpubjZTZ2h5bWxiTG5idGxXTldGT1J5enJEMldwV3A1THVIYnc?oc=5",
-      "snippet": "Carney defends his economic record after one year in office &nbsp;&nbsp; The Globe and Mail How Carney’s ‘build fast’ push divides Canada’s Indigenous peoples &nbsp;&nbsp; Al Jazee",
-      "pub": "Sat, 14 Mar 2026 20:40:37 GMT",
       "image": ""
     }
   ],
