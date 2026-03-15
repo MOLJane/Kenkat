@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-15T13:41:09.432592+00:00",
+  "generated_at": "2026-03-15T14:23:06.200200+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "‘A Legend’: House Honours Long-Serving Librarian Norma Jean Richards",
+      "link": "https://vocm.com/2026/03/15/294334/",
+      "snippet": "The House of Assembly has paid tribute to a woman who was a stalwart member of their team for three decades. House Speaker Paul Lane opened a session ...",
+      "pub": "Sun, 15 Mar 2026 13:52:16 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/house-of-assembly-2026.jpg"
+    },
     {
       "source": "VOCM",
       "title": "City Extends Deadline for Feedback on Neighbourhood Plans",
@@ -59,14 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/img-5707.jpeg"
     },
     {
-      "source": "VOCM",
-      "title": "March 15, 2026 – Are you doing anything to celebrate St. Patrick’s Day?",
-      "link": "https://vocm.com/2026/03/15/march-15-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12670').",
-      "pub": "Sun, 15 Mar 2026 08:30:17 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/03/st-patricks-day.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Toronto police make two arrests on Saturday after court denies injunction to stop Al-Quds rally in Toronto - National Post",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRnNyZkRKYmRaLUtKVlZqV1pQQWxLWnQtemtENzZpSzUxLXBUcVQ4WjUtZnBvQnRhNnd2cVkwQ1lWUnB6dXJ2S1c4OWpEVVYyTnNaQ1NTSnFOUHFpV0RVa01KYjJWMDdiTFZzd1RvSzJhd3ZrRG1XOFJ2cjB0cVEzWUhIa0UwMWt0bERTMmpyUnlVcGkwUGdzcFduOUNRSXVocC1ubWNiUzQyQy1HTHhRWU9Lb2k0ekFHQkRzMms1RUlnODhHQm1RLXF3?oc=5",
@@ -102,16 +102,16 @@
       "source": "Google News Canada",
       "title": "2 charged with 1st-degree murder after Burnaby man’s remains found - Global News",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VOUJENGtJUEN0LVZ1WGpQcldmMWJ0TF9Sbjh0bUdnMktURTBUQmJUby1hczUxWUlUYTAzYWh0UkFQZ3VDd3VpRVpfZlRualliWVlzSnFwYTl2MDdidFBUTy1ZTklFUGlEb3IxY2tNcVl3T1JhUEE?oc=5",
-      "snippet": "2 charged with 1st-degree murder after Burnaby man’s remains found &nbsp;&nbsp; Global News Two charged with murder after body of B.C. man who sued late Shah’s son found &nbsp;&nbs",
+      "snippet": "2 charged with 1st-degree murder after Burnaby man’s remains found &nbsp;&nbsp; Global News Two charged with murder after death of former SFU instructor and Iranian regime critic i",
       "pub": "Sat, 14 Mar 2026 23:10:49 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Police arrest eight teens after assault on security guard outside high school goes viral - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWdoSDJjS2RfV2RmVDZOZ0x6YmdKTVl5ZHJJWUpNZWJsUnE4ckhhOFVnREZpNFo5ZF9EandiMkl4NWFwcUVwdmNlWjl2d3AwV3lOQmF6VC1RU3FoOEZycDkyZU9qVFpNLWhtNlROcEZvYlFJSGJiTXlmV1VMRk1JSXBzaGdxVVkyM2l6UnE0NUc1anV3SEFPbml2MjdmdXk4SWQ4WmZCbkgxYk9ROHk3Y0FpOXBNYVpieVlVM3Jn?oc=5",
-      "snippet": "Police arrest eight teens after assault on security guard outside high school goes viral &nbsp;&nbsp; Montreal Gazette Hidden Game: Shark attack ends Canadiens' three-game winning ",
-      "pub": "Sat, 14 Mar 2026 15:42:16 GMT",
+      "title": "Iran warns people to evacuate busiest port in Middle East as war with U.S., Israel enters third week - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZbDlrQjY5bjVEMk1GTW9nc3JsMkwwZGhxU2FDZDRLVy1MZjBlRm9GWmJnTzdBNUgzTzFuNEFWN1hUTlU3WWJ3ekhHb1QwQ2tPcGJhdU5vZC1GZEdSbTdDT1FUSFFWMjNsaFdiVnF4cXBBeWZoLWE5TWdKWkNVYUk?oc=5",
+      "snippet": "Iran warns people to evacuate busiest port in Middle East as war with U.S., Israel enters third week &nbsp;&nbsp; The Globe and Mail Trump says US may strike Iran’s Kharg Island oi",
+      "pub": "Sat, 14 Mar 2026 13:35:45 GMT",
       "image": ""
     },
     {
