@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-16T15:37:35.526622+00:00",
+  "generated_at": "2026-03-16T16:54:34.046904+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Man in Central Newfoundland Arrested for Impaired After Crash in Botwood",
+      "link": "https://vocm.com/2026/03/16/man-in-central-newfoundland-arrested-for-impaired-after-crash-in-botwood/",
+      "snippet": "A 29-year-old man was arrested after allegedly rolling the vehicle he was driving in Botwood early Sunday morning. RCMP say the driver had already lef...",
+      "pub": "Mon, 16 Mar 2026 16:21:33 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/04/rcmp-detachment-grand-falls-windsor.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "FFAW Hoping to Return to ‘Traditional Collective Bargaining’ in Negotiating Fish Prices",
+      "link": "https://vocm.com/2026/03/16/ffaw-hoping-to-return-to-traditional-collective-bargaining-in-negotiating-fish-prices/",
+      "snippet": "The FFAW believes this is going to be a \"very different year\" for fish price negotiations after years of disputes over the prices fetched by crab harv...",
+      "pub": "Mon, 16 Mar 2026 16:14:45 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/04/snow-crab.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Impaired Driver Caught Going Nearly 90 km/h Over Limit in Piccadilly",
@@ -51,22 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/5-wing-goose-bay-1.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "$183K Raised During Annual Swim for Hope Fundraiser",
-      "link": "https://vocm.com/2026/03/16/294382/",
-      "snippet": "Some 450 young swimmers from across the province dove into the pool last week for the annual Swim for Hope, raising $183,000 in support of cancer care...",
-      "pub": "Mon, 16 Mar 2026 10:03:54 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/swim-for-hope-for-cancer-care-foundation.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Third Party to Cover Portion of Settlement Shortfall for Victims of Abuse at Hands of RC Church",
-      "link": "https://vocm.com/2026/03/16/third-party/",
-      "snippet": "An unnamed third party has come forward with cash to help cover some, but not all of the shortfall in compensation for over 300 victims of abuse at th...",
-      "pub": "Mon, 16 Mar 2026 09:30:29 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/10/lawyer-bob-buckingham-2.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump seeks naval coalition to open Strait of Hormuz: Is anyone joining? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0EtVnVRd2FHeGJYUjAwWjlid01aVHNNVkdJS1pwR3NjNi1rX3RGNlZ3RG1xTDVUTWFVQ1psZnNRZHRIWFcwakgwejl0dnBWSFdoN2RsWENJUzFNXzZ1aUFaVmgyOWdwRHJXVFlpWTJrMTUwUnotbGxVcW8xQ2hKd19BaGhYeGN2QWxndGFlQU5XMzhmOFpRS0pLTkdBdjM4a3dmZGhCRktoSVE3LXfSAbMBQVVfeXFMT2tENFBrbVRMamozSlZrOTlMMkdNTnNYM2J2UTM4amY2bGdkWEc4ZUl0UUs3SW5tcktVTlRCUHFhcXVRd2RMcnJtdGtNTXpTWFNXOFJtQllxMzhhQmRFR1NQaDVMZFg3THBuZERkNmlmR0dqbWkwdEtNc0Z3anduaU9RMndnODVSMkVRN0RvTnNId3hKUHQ5TGZBUUVtVlFmOWFKQkdqTEZMeXVOYzBTWC1ETVU?oc=5",
@@ -76,26 +76,34 @@
     },
     {
       "source": "Google News Canada",
-      "title": "UK, Allies Refuse Trump Call to Send Warships as Strait of Hormuz Blocked - Kyiv Post",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmUWNHLXBpdldRMVE1S0ozRUpZTEk5TzNHRTlXbURfTnlBOHdQV1l6d3dHMm1mTnJxaUJGQUNKZm1UMV9ETTRaRXpRaw?oc=5",
-      "snippet": "UK, Allies Refuse Trump Call to Send Warships as Strait of Hormuz Blocked &nbsp;&nbsp; Kyiv Post UK won't be drawn into 'wider war' and will work with allies on Strait of Hormuz pl",
-      "pub": "Mon, 16 Mar 2026 10:46:57 GMT",
+      "title": "Waterloo mayor ‘shocked’ sniper involved in police response to St. Patrick’s party - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1NTOWtXSkJYVkJMZWtMM1hnZmVubk44N3VBdWdtRHFNNEw1ZGs1c2hKZlpFUko3UjEzbThWcU8teFhiR2NJbnFlWGVrVV80eldHeUwxOEowcEtqdC1Jc0lkZnBxNXh2NlhwYUY3NWFRWFJrT19saWxBclVHQTJIX0wySUhLTzRpRzB3S1ZOeXF4LTluRWtETVlYc1NGWTlZMEE?oc=5",
+      "snippet": "Waterloo mayor ‘shocked’ sniper involved in police response to St. Patrick’s party &nbsp;&nbsp; CityNews Toronto Police respond to online reaction after ‘sniper’ spotted during St.",
+      "pub": "Mon, 16 Mar 2026 09:46:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "B.C. mathematician known as vexatious litigant killed by people known to him, police say - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNjllcGJVRUJEaDRIRkRZVXZKRjFqXzUzUEkxck80UzZxRzVzeU1pNG9Zc2J4V1pCRGpycFl3dDNFSE5TZWlhVVN0QkZJMVRqNkkxLW5LR19fQVRzRnMtS211aVYwQm5URWZ2ZTFVYWlLT2xGUTRKUUdFaVJSVFhENG5vcWhVb2Z4eXRMUWdKVHAtNkhSUFhGLURCdEtVWlBEdnBhdXZ0U1VtYmhEUmR1LU5TM3o0OWFR?oc=5",
-      "snippet": "B.C. mathematician known as vexatious litigant killed by people known to him, police say &nbsp;&nbsp; The Globe and Mail Suspects in B.C. killing of vocal Iran critic to make Vanco",
-      "pub": "Mon, 16 Mar 2026 01:35:42 GMT",
+      "title": "Starmer rules out NATO mission to open Strait of Hormuz, says Britain is working with allies on a plan - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkVHNEhEVVE3UzA5eVk5blBzQml4WmJXYUFLMWQ1MzRmYTFLcWtXVG5JRHRBclVJcjNRODRBZU83VEVQNDk2VERTbnBKbEZsTUtudkV3YmV5SjlERkRqdEFCT0FqTkFNN0prV1R1N0h6QjFEQ2hXUHZVbS1weERSWHdCUnRVcEE0bFdJLUtSRHUyR01fazdfdTFmNA?oc=5",
+      "snippet": "Starmer rules out NATO mission to open Strait of Hormuz, says Britain is working with allies on a plan &nbsp;&nbsp; The Globe and Mail UK won't be drawn into 'wider war' and will w",
+      "pub": "Mon, 16 Mar 2026 12:36:46 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "'The fantastic city of Montreal' gets an Oscar moment as The Girl Who Cried Pearls wins for animated short - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQREdabWl1U3RXYzdIS1FXbnVBdS0tMjdyc0pWU0c0bzdsd3BnWnV3UjZiNXJFVExqV0R1X2lBelF0YUVlaVdaUjh1b2FXb0dTdGZkRWRSQVIwWVhUMFF2bXhDX0N6ZDNSZ0F5ckhtUU1TUHZOODJJVV9hNDVKQmRKYXJKdHNfZnFsd05uTWF5YmpzVGtDbHd3aWhPSUtydW0xR3V3QjZ6Zkc5R3laQW0yX3UyQ0FfRmVoQW53NjBDcFoyOWFVN0cxRGJPZF9iSlltYUp4amM3UjJQdUV6TmJQYS1YQjF6Zw?oc=5",
-      "snippet": "'The fantastic city of Montreal' gets an Oscar moment as The Girl Who Cried Pearls wins for animated short &nbsp;&nbsp; Montreal Gazette Woman found dead in St. Lawrence River in L",
+      "snippet": "'The fantastic city of Montreal' gets an Oscar moment as The Girl Who Cried Pearls wins for animated short &nbsp;&nbsp; Montreal Gazette Todd: Brendan Gallagher's heart has pumped ",
       "pub": "Mon, 16 Mar 2026 02:59:13 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "'Significant atmospheric river,' rainfall warning for Metro Vancouver - Vancouver Is Awesome",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUcxYmhoR3hqOEJCTWVPbUVld3d2QmtDTlZyUE14czg5emJweVEwclJWOExfT3pqUW5nbnNaNFNPWFE1N1hibHByMWs4aU4yOWQ1N1R5SXh3YXZQSEVKXzFhdkdDalZBX3NKeTZSR1hSZF9zdFBhb0txZVFSYWtlMzd2X2hHRXRlcDJnTkRtbEUxU1lCOVdBamYwSW1fNFNFNE9oUjQzODBlcV9IS25TcXRaMy1kZ1ZJRVNlcjFR?oc=5",
+      "snippet": "'Significant atmospheric river,' rainfall warning for Metro Vancouver &nbsp;&nbsp; Vancouver Is Awesome Much of B.C. under weather warnings for snowfall, rain and winter storms &nb",
+      "pub": "Mon, 16 Mar 2026 02:19:00 GMT",
       "image": ""
     },
     {
@@ -108,26 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Here’s a look at the weather forecast for Toronto this week - CP24",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRFR5TElIVkQ2aTY1elZIc0VxbnlzYUFqYjBOVDV2emhzUV9aSnBtODJJYlZGVDhwV3BYSVQ3X3JwUHNFZjFqZWFFQ1FJZnVVV2NDSWMtOXFYYlVBU3E2OFFoazVsSXFrRzRPU2dIQ2FNOWhfM1NVbUZPRldUNWtnMnBOZU0xd3FYLXkyMEdqMEdZN2V2dm45MmloUU1jS0VDLXNHVmFfRjZXMmdYYTJua1ZWdHRncnZKd3lqbEtmVDFIcDZw?oc=5",
-      "snippet": "Here’s a look at the weather forecast for Toronto this week &nbsp;&nbsp; CP24 Toronto could see wind gusts of up to 90 km/h on Monday, Environment Canada warns &nbsp;&nbsp; CP24 Fo",
-      "pub": "Sun, 15 Mar 2026 22:37:16 GMT",
+      "title": "Major winter storm buries northeastern Ontario, prompting highway closures - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM202QnRPUnhnSDlOT2Q5c2FraS1STFd6NE9qcl9mX2l0bXZYdUR4TmJxQ1htUTFPcngtRndCb2ZsWWo2aXQ2a3ZRRUdFd3BxWjNVYlQ1MjU2REQxUEdkZ3JEVXBwT0tLMWc2QWhaNnF1YXZ5RkFqYWI0ZTM5S29XZVR1dEZ5S3c?oc=5",
+      "snippet": "Major winter storm buries northeastern Ontario, prompting highway closures &nbsp;&nbsp; CBC Storm whacks city: ‘Sudbury’s still locked in a custody battle with winter’ - Take our p",
+      "pub": "Mon, 16 Mar 2026 11:24:51 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Poilievre pitches tariff-free auto industry pact with U.S. - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa05fZW5LZlp6eTlRaUdpbEZTdXlDMG1mYzFTUTctU0tMZzRtT05lSThmZzdCTkVkRERQakJiSFNZcjhKQmtOM2FvT05tQTBVYVVVenNZVGRpNlF2Z3pzM2pVNkwxbGU1MktMYUhUQjFWLXZ5QWdaQUswMkFRODM4TFdDeGNkb2ZRX29jSnZrelFwcXR6TVdGdVRqOG85ZHJiZW5VVktiOW53UQ?oc=5",
-      "snippet": "Poilievre pitches tariff-free auto industry pact with U.S. &nbsp;&nbsp; The Globe and Mail View Full Coverage on Google News",
-      "pub": "Sun, 15 Mar 2026 21:26:39 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Wind and rain warnings issued for much of Vancouver Island as storm approaches - Times Colonist",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVNuejU1X1I4RWVPdzRxTGR0eWs0bkRjQjRzNHlLM0FlLUFDWk1CVk1rZnFmU0ZOUjk1QXBtOUNsTkM3cm1tbmZwb285Z1FXLVNVUEZQX1BId0l2aXJ1ajFxVldCenREdFNlNTNlc2ZuQjBsdWloRUZhaGRNY2dTR0pkUUtSc09YdGhFNmZjTkwyNTN0N2RGOHRFb1A2RUh6SEZFeTVSVGZOd01SR1ZVSUNadmpMN0NSOXc?oc=5",
-      "snippet": "Wind and rain warnings issued for much of Vancouver Island as storm approaches &nbsp;&nbsp; Times Colonist Much of B.C. under weather warnings for snowfall, rain and winter storms ",
-      "pub": "Mon, 16 Mar 2026 11:45:00 GMT",
+      "title": "Mild start to March Break in Toronto but bitter cold and snow in forecast for later this week - CP24",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObVRUMldwcGhTcXlnV0plREJMSFQxNjNmQUQxeTVGeDdzQ0lTaU10UXNTTy1zT3BYUjVpMmpzdXFEOTNlR0FScmRsbjNVWnFpQlJYVGVKWkNUZUlkWHZ5S1dOQnRrZDk2cFQxY1JUanNfeXV5MzFwT3VCdjBEUG44TE9qZXRXZC1wLUJXWHQzQjAxOVcwNml4WmxlNExmMEpSUFlDS0p5c1F5WHJ5SXdmWWtxVmRsSEE4S3k5MG1CSG1ST3A0?oc=5",
+      "snippet": "Mild start to March Break in Toronto but bitter cold and snow in forecast for later this week &nbsp;&nbsp; CP24 Forecasters issue warning as heavy winds bring cold back to London &",
+      "pub": "Mon, 16 Mar 2026 10:41:12 GMT",
       "image": ""
     }
   ],
