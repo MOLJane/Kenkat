@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-03-16T08:46:35.067996+00:00",
+  "generated_at": "2026-03-16T09:56:38.413160+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Third Party to Cover Portion of Settlement Shortfall for Victims of Abuse at Hands of RC Church",
+      "link": "https://vocm.com/2026/03/16/third-party/",
+      "snippet": "An unnamed third party has come forward with cash to help cover some, but not all of the shortfall in compensation for over 300 victims of abuse at th...",
+      "pub": "Mon, 16 Mar 2026 09:30:29 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/10/lawyer-bob-buckingham-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Englishman to Make Second Attempt at Trek Across Atlantic in Tiny Boat",
+      "link": "https://vocm.com/2026/03/16/294351/",
+      "snippet": "An English adventurer will be in St. John's this spring to make another attempt to cross the big ocean in a tiny boat. Andrew Bedwell encountered prob...",
+      "pub": "Mon, 16 Mar 2026 09:00:15 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/08/fishing-boat-cod-fishery-fishing-speedboat-ocean-sky-water.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Japan and Australia Hold Back on U.S. Call for Naval Coalition",
+      "link": "https://vocm.com/2026/03/16/japan-and-australia-hold-back-on-u-s-call-for-naval-coalition/",
+      "snippet": "A new push from Washington is drawing mixed reactions from key allies as tensions continue to build around the Strait of Hormuz, one of the world's mo...",
+      "pub": "Mon, 16 Mar 2026 08:26:00 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/03/870515528.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Happy Valley-Goose Bay Introducing Tourism Tax",
@@ -43,30 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/brendan-botcher.png"
     },
     {
-      "source": "VOCM",
-      "title": "Oceana Canada Urges Caution Despite ‘Healthiest in a Decade’ Capelin Report",
-      "link": "https://vocm.com/2026/03/15/294336/",
-      "snippet": "Conservation group Oceana Canada is urging caution despite a positive assessment of the capelin stock off Newfoundland and Labrador. The latest report...",
-      "pub": "Sun, 15 Mar 2026 15:00:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/05/jack-daly-oceana-canada.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "‘A Legend’: House Honours Long-Serving Librarian Norma Jean Richards",
-      "link": "https://vocm.com/2026/03/15/294334/",
-      "snippet": "The House of Assembly has paid tribute to a woman who was a stalwart member of their team for three decades. House Speaker Paul Lane opened a session ...",
-      "pub": "Sun, 15 Mar 2026 13:52:16 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/house-of-assembly-2026.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "City Extends Deadline for Feedback on Neighbourhood Plans",
-      "link": "https://vocm.com/2026/03/15/294332/",
-      "snippet": "The deadline for feedback on three neighbourhood plans in the capital city has been extended by a week. St. John's has developed draft recommendations...",
-      "pub": "Sun, 15 Mar 2026 12:48:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/city-of-st-johns.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump seeks naval coalition to open Strait of Hormuz: Is anyone joining? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0EtVnVRd2FHeGJYUjAwWjlid01aVHNNVkdJS1pwR3NjNi1rX3RGNlZ3RG1xTDVUTWFVQ1psZnNRZHRIWFcwakgwejl0dnBWSFdoN2RsWENJUzFNXzZ1aUFaVmgyOWdwRHJXVFlpWTJrMTUwUnotbGxVcW8xQ2hKd19BaGhYeGN2QWxndGFlQU5XMzhmOFpRS0pLTkdBdjM4a3dmZGhCRktoSVE3LXfSAbMBQVVfeXFMT2tENFBrbVRMamozSlZrOTlMMkdNTnNYM2J2UTM4amY2bGdkWEc4ZUl0UUs3SW5tcktVTlRCUHFhcXVRd2RMcnJtdGtNTXpTWFNXOFJtQllxMzhhQmRFR1NQaDVMZFg3THBuZERkNmlmR0dqbWkwdEtNc0Z3anduaU9RMndnODVSMkVRN0RvTnNId3hKUHQ5TGZBUUVtVlFmOWFKQkdqTEZMeXVOYzBTWC1ETVU?oc=5",
@@ -78,15 +78,23 @@
       "source": "Google News Canada",
       "title": "B.C. mathematician known as vexatious litigant killed by people known to him, police say - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNjllcGJVRUJEaDRIRkRZVXZKRjFqXzUzUEkxck80UzZxRzVzeU1pNG9Zc2J4V1pCRGpycFl3dDNFSE5TZWlhVVN0QkZJMVRqNkkxLW5LR19fQVRzRnMtS211aVYwQm5URWZ2ZTFVYWlLT2xGUTRKUUdFaVJSVFhENG5vcWhVb2Z4eXRMUWdKVHAtNkhSUFhGLURCdEtVWlBEdnBhdXZ0U1VtYmhEUmR1LU5TM3o0OWFR?oc=5",
-      "snippet": "B.C. mathematician known as vexatious litigant killed by people known to him, police say &nbsp;&nbsp; The Globe and Mail View Full Coverage on Google News",
+      "snippet": "B.C. mathematician known as vexatious litigant killed by people known to him, police say &nbsp;&nbsp; The Globe and Mail Suspects in B.C. killing of vocal Iran critic to make Vanco",
       "pub": "Mon, 16 Mar 2026 01:35:42 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "LaSalle pedophile sentenced to 12 years for crimes against six children - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdDJXM0VHN216cDNoNGptX3BvSmdHaDZERm5WdzY4WHJsc285d2VpMzExbDlud1Rqajc2RWRBZk9RZ0lYVDNEYzI1blVHRndkNnFiUHBVUjdzWURxNEZUWC1acmpwajVjSHZwa2dDbkU0UHRJQ0FkUlhwT2FUS3JlVkNTMEo1TkZ0dGM4NWlDbVhmbElGWlMzMmVXS3cwbE1ndWhLWWs1ejZ0YUZNQkpRRkU5YmtKZw?oc=5",
+      "snippet": "LaSalle pedophile sentenced to 12 years for crimes against six children &nbsp;&nbsp; Montreal Gazette Hanes: McGill's Osler Library shares the fine art of early medical books &nbsp",
+      "pub": "Mon, 16 Mar 2026 06:47:25 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "‘One Battle After Another’ wins best picture, ‘Sinners’ makes history at 98th Academy Awards - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY3NHZ252eWVnNHFmQmkyNTluTTFTendnNVRoZ2NHUG14eWRRYS1GV2YtQmNfekFtZFhwOGp1QVlHYm1qbUtwWlZ4Z1dTa21TVUlJUWpDQ1d2clVnTkN4SXkzb01SWGlScG5LRWRNV2xlZ3EtaUNnVUFEaDNsVUVlZjdfUEZCY1RxLWcxOG8zRDhEYWFSM3ZhY1ZTRW43WjdyZk95eERKYWdHdUhuMk15Z2UtSDZGanJiMWE2V1MxYjFndnhGbm54M1NjNTJfa2pwNXZqc1JleFhQQkVRdUJhMURn?oc=5",
-      "snippet": "‘One Battle After Another’ wins best picture, ‘Sinners’ makes history at 98th Academy Awards &nbsp;&nbsp; CTV News ‘One Battle After Another Was Totally Meh’: 3 Opinion Writers Siz",
+      "snippet": "‘One Battle After Another’ wins best picture, ‘Sinners’ makes history at 98th Academy Awards &nbsp;&nbsp; CTV News 2026 Academy Awards: Here's the list of Oscar winners &nbsp;&nbsp",
       "pub": "Mon, 16 Mar 2026 03:51:00 GMT",
       "image": ""
     },
@@ -94,7 +102,7 @@
       "source": "Google News Canada",
       "title": "Poilievre proposes tariff-free Canada-U.S. auto pact to boost production - Global News",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTll0TXU4My1QV29VdUxDMVdJZERkM2l2U1VYblNEalY2cEQxQ2VmMFJmdHhWT0h0dkxoUUREcm14MkZubU54Y0ZZWkRmT01MV3pUN2NHVDRhclMyU2RDMmhKVzBaUGNjREt0T0MyTWhDOXZvbVo2dGRJN3o0YVRxd1JaQXE4TGJTYk9laXhEMFFDTGQwWWc?oc=5",
-      "snippet": "Poilievre proposes tariff-free Canada-U.S. auto pact to boost production &nbsp;&nbsp; Global News View Full Coverage on Google News",
+      "snippet": "Poilievre proposes tariff-free Canada-U.S. auto pact to boost production &nbsp;&nbsp; Global News Opinion: Poilievre arrives late to the auto debate with a plan from 1965 &nbsp;&nb",
       "pub": "Sun, 15 Mar 2026 20:31:29 GMT",
       "image": ""
     },
@@ -108,26 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Critic’s Notebook: Conan O’Brien’s Deft Hosting and Several Sincere Moments Help Save Technically Sloppy Oscars Telecast - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNekRlMmxGeGE4eFBjSHlfUDBkNE9aRWhuLW1IWS1qVlhRZ250RXRiSTBHdUZaU2M1b3BneWlELTdWWWpXZXA5LVB1SnJVY044UDdabENIZVEtdV96TS1MYmQ0WWZUTWtOTXJmNTRtTThYb01NaUpPTnFXUlJTbkJUU296ZEZEMmx4SzR5ZkJkVGJMbldJWlhtQzVoM0xLUkUxb3FvNDZtZ1diVWJKRENHRUlVeUJpclky?oc=5",
-      "snippet": "Critic’s Notebook: Conan O’Brien’s Deft Hosting and Several Sincere Moments Help Save Technically Sloppy Oscars Telecast &nbsp;&nbsp; The Hollywood Reporter Oscars 2026: Conan O'Br",
-      "pub": "Mon, 16 Mar 2026 06:08:51 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Some Lapu-Lapu Day attack survivors say it’s too soon for the Vancouver festival to return - CBC",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3pnZjQ3LVNwNHVaSjFKMFpNNVhDTF9oazE5ZXJiWmI1VlBONjVRQm5lOFhHZ2FrWTd0OFZzRXRqclBCc3BtdHBOVURGcUoxdmRkb0JJM3VjX0hrb2tEUzYtNFFWclZuWFZvQzRGWVRoSTE5UzVlcmY2VDVYc2N3SDMteE1MUnVDc0lVQ1ExNFpnVE5zTFZubW5OQTJab1hGaHY5dXoxS2ViTl95d04wc0lZZnZkM1lZZ3A1anRiNGRSelNyNlVWZzZXLWg?oc=5",
-      "snippet": "Some Lapu-Lapu Day attack survivors say it’s too soon for the Vancouver festival to return &nbsp;&nbsp; CBC 'It's too fresh for us': Some B.C. Lapu Lapu Day survivors oppose 2026 f",
+      "snippet": "Some Lapu-Lapu Day attack survivors say it’s too soon for the Vancouver festival to return &nbsp;&nbsp; CBC Lapu-Lapu Day survivor says upcoming 2026 festival should not happen &nb",
       "pub": "Sun, 15 Mar 2026 19:13:58 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ont. man fined $5K, banned from fishing for being over-limit in bass in Algonquin Park - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUVZ1WXAxNm54eXdyWndoZXRSUXh5R3NvTVJLZXhRYU5RYjl5YU9JTE9rVEZoRWU3ZEhyb2RrOHktOGhhNEprZ3JnTUdtVjJMZFJPTVdCUE1yZnJCWm5Ec0I0c0J1TUh4cnFDZmlyVWtGZFdEdTJDZktWZExtNXI2aWo4SC14cnFNdlJQcm01Vjh5NlZrYTFqbjYzNlM1LUp4aGlwVlJVdlNXbkF6bndPN0Y3QldSSWRWZXNvWVgzeEMxQlh0d1J1MHlXSkk?oc=5",
-      "snippet": "Ont. man fined $5K, banned from fishing for being over-limit in bass in Algonquin Park &nbsp;&nbsp; CTV News",
-      "pub": "Sun, 15 Mar 2026 18:43:00 GMT",
+      "title": "Two counter-protesters at Al-Quds Day rally in Toronto charged with assault - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa3U5cnFKVmp0WWJ5ZlZxMHlMUkVYU1BmdFU0T1lHVjc1QnlNcmdXRTgxN1JTYW9sZG1ZR0lnX0FOelRWdnZHdjlJNUUzcnNqbDNURi13ZFZTVng0Z2tXU08waWpQMGtGOVNNSnQ4Xy1IV2tjTVFYc05ub0R1SjdKWW9BbE1vZTlleHA1MGY3d003T1RZeXM5UTZxNktmbTlaVmlRaVBtQW1wNzYxbW5WQVlvdXYwbEpOM0JpS19NYnNJclEtdkxWMEFJeXQtYWNvWC0zcElQQ3FuX3FNT0xJejRXc0haemZyclBIcTRYWQ?oc=5",
+      "snippet": "Two counter-protesters at Al-Quds Day rally in Toronto charged with assault &nbsp;&nbsp; Toronto Star 2 counter-protesters at Toronto Al-Quds Day rally charged &nbsp;&nbsp; CP24 Th",
+      "pub": "Sun, 15 Mar 2026 23:40:41 GMT",
       "image": ""
     }
   ],
