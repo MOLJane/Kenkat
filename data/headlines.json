@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-03-16T07:52:45.028306+00:00",
+  "generated_at": "2026-03-16T08:46:35.067996+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Happy Valley-Goose Bay Introducing Tourism Tax",
+      "link": "https://vocm.com/2026/03/16/happy-valley-goose-bay-introducing-tourism-tax/",
+      "snippet": "Happy Valley-Goose Bay is the latest municipality to announce the introduction of a tourist accommodation tax. The Town of Gander is bringing in a new...",
+      "pub": "Mon, 16 Mar 2026 08:41:27 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/11/town-of-happy-valley-goose-bay-stock-town-hall.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Provincial and Municipal Offices Closed for St. Patrick’s Day Stat",
+      "link": "https://vocm.com/2026/03/16/provincial-and-municipal-offices-closed-for-st-patricks-day-stat/",
+      "snippet": "Some provincial and municipal services will be unavailable today due to the St. Patrick's Day holiday. Provincial government offices are closed and th...",
+      "pub": "Mon, 16 Mar 2026 08:32:07 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/06/st-johns-confederation-building-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "March 16, 2026 – Do you support the concept of municipalities charging a tourism accommodation tax to generate revenue?",
+      "link": "https://vocm.com/2026/03/16/march-16-2026-do-you-support-the-concept-of-municipalities-charging-a-tourism-accommodation-tax-to-generate-revenue/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12673').",
+      "pub": "Mon, 16 Mar 2026 08:00:53 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/07/Luggage-Airport-Travel.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Local Bike Enthusiast Raises Alarm on E-Bike Safety After Close Call",
@@ -43,30 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/city-of-st-johns.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Record Achieved at Labrador Winter Games",
-      "link": "https://vocm.com/2026/03/15/world-record-achieved-at-labrador-winter-games/",
-      "snippet": "A record was achieved at the Labrador Winter Games in one of the competition's most popular categories - the Northern Games. Christopher Penney of Cha...",
-      "pub": "Sun, 15 Mar 2026 12:06:16 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/christopher-penney.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Stephenville Dome Named Provincial Winner for Kraft Hockeyville",
-      "link": "https://vocm.com/2026/03/15/stephenville-dome-named-provincial-winner-for-kraft-hockeyville/",
-      "snippet": "The Stephenville Dome has been named a provincial winner for Kraft Hockeyville. The project provides funding for arena upgrades and repairs to rinks a...",
-      "pub": "Sun, 15 Mar 2026 10:05:02 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/stephenville-dome-ice-hockey-rink-surface.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Winter Storm Moving Off Coast Later Today",
-      "link": "https://vocm.com/2026/03/15/winter-storm-moving-off-coast-later-today/",
-      "snippet": "A winter storm that impacted much of the province is expected to move out of Newfoundland and Labrador today. Environment Canada issued several weathe...",
-      "pub": "Sun, 15 Mar 2026 09:41:29 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/snow-kenmount.png"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump seeks naval coalition to open Strait of Hormuz: Is anyone joining? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0EtVnVRd2FHeGJYUjAwWjlid01aVHNNVkdJS1pwR3NjNi1rX3RGNlZ3RG1xTDVUTWFVQ1psZnNRZHRIWFcwakgwejl0dnBWSFdoN2RsWENJUzFNXzZ1aUFaVmgyOWdwRHJXVFlpWTJrMTUwUnotbGxVcW8xQ2hKd19BaGhYeGN2QWxndGFlQU5XMzhmOFpRS0pLTkdBdjM4a3dmZGhCRktoSVE3LXfSAbMBQVVfeXFMT2tENFBrbVRMamozSlZrOTlMMkdNTnNYM2J2UTM4amY2bGdkWEc4ZUl0UUs3SW5tcktVTlRCUHFhcXVRd2RMcnJtdGtNTXpTWFNXOFJtQllxMzhhQmRFR1NQaDVMZFg3THBuZERkNmlmR0dqbWkwdEtNc0Z3anduaU9RMndnODVSMkVRN0RvTnNId3hKUHQ5TGZBUUVtVlFmOWFKQkdqTEZMeXVOYzBTWC1ETVU?oc=5",
@@ -76,18 +76,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "LaSalle pedophile sentenced to 12 years for crimes against six children - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdDJXM0VHN216cDNoNGptX3BvSmdHaDZERm5WdzY4WHJsc285d2VpMzExbDlud1Rqajc2RWRBZk9RZ0lYVDNEYzI1blVHRndkNnFiUHBVUjdzWURxNEZUWC1acmpwajVjSHZwa2dDbkU0UHRJQ0FkUlhwT2FUS3JlVkNTMEo1TkZ0dGM4NWlDbVhmbElGWlMzMmVXS3cwbE1ndWhLWWs1ejZ0YUZNQkpRRkU5YmtKZw?oc=5",
-      "snippet": "LaSalle pedophile sentenced to 12 years for crimes against six children &nbsp;&nbsp; Montreal Gazette Hidden Game: Canadiens defeated 4-3 by Ducks to cap lost weekend at home &nbsp",
-      "pub": "Mon, 16 Mar 2026 06:47:25 GMT",
+      "title": "B.C. mathematician known as vexatious litigant killed by people known to him, police say - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNjllcGJVRUJEaDRIRkRZVXZKRjFqXzUzUEkxck80UzZxRzVzeU1pNG9Zc2J4V1pCRGpycFl3dDNFSE5TZWlhVVN0QkZJMVRqNkkxLW5LR19fQVRzRnMtS211aVYwQm5URWZ2ZTFVYWlLT2xGUTRKUUdFaVJSVFhENG5vcWhVb2Z4eXRMUWdKVHAtNkhSUFhGLURCdEtVWlBEdnBhdXZ0U1VtYmhEUmR1LU5TM3o0OWFR?oc=5",
+      "snippet": "B.C. mathematician known as vexatious litigant killed by people known to him, police say &nbsp;&nbsp; The Globe and Mail View Full Coverage on Google News",
+      "pub": "Mon, 16 Mar 2026 01:35:42 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Oscars 2026: One Battle After Another wins big as Canadians triumph in heated rivalry with Hollywood - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGVLdmJoZ2t4aXc2YlByZ3hJRTJkTWF6RWUzNGFqU1ZrelhJcWhBLUVhbk12SUo3YjdKUmVXN1FoRFNfQ3RoWEN6OFpXVkVTUkxwS1dWM2VINTJFdlJYSUJtYlR1WWt4SlFoU054VDlxdWF1VEhBSEE4X2NiRWg0NHFPeHI0cnpUQ3BjTEhhdVFNWVNYVVh5SGtpRE1CbHNsQ1E?oc=5",
-      "snippet": "Oscars 2026: One Battle After Another wins big as Canadians triumph in heated rivalry with Hollywood &nbsp;&nbsp; The Globe and Mail Oscars 2026: Here are all the moments you didn'",
-      "pub": "Mon, 16 Mar 2026 02:48:09 GMT",
+      "title": "‘One Battle After Another’ wins best picture, ‘Sinners’ makes history at 98th Academy Awards - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY3NHZ252eWVnNHFmQmkyNTluTTFTendnNVRoZ2NHUG14eWRRYS1GV2YtQmNfekFtZFhwOGp1QVlHYm1qbUtwWlZ4Z1dTa21TVUlJUWpDQ1d2clVnTkN4SXkzb01SWGlScG5LRWRNV2xlZ3EtaUNnVUFEaDNsVUVlZjdfUEZCY1RxLWcxOG8zRDhEYWFSM3ZhY1ZTRW43WjdyZk95eERKYWdHdUhuMk15Z2UtSDZGanJiMWE2V1MxYjFndnhGbm54M1NjNTJfa2pwNXZqc1JleFhQQkVRdUJhMURn?oc=5",
+      "snippet": "‘One Battle After Another’ wins best picture, ‘Sinners’ makes history at 98th Academy Awards &nbsp;&nbsp; CTV News ‘One Battle After Another Was Totally Meh’: 3 Opinion Writers Siz",
+      "pub": "Mon, 16 Mar 2026 03:51:00 GMT",
       "image": ""
     },
     {
@@ -100,18 +100,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Canada and Nordic Five unite to protect sovereignty through Arctic defence - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPemlITk1JdmM1WUotMENPcDcwRmUwcUZqU1ZTVHg5Z2pKQzlsRjdEM3VNZVVoSDZsY3Q0SHk5TmNmZ1pfM2xsLXpueU1wckZ0QWljTUxocGp1QjFaWnloTnR6dFZ5SHQ1QnI1VmpCZjMyQjBONEhoN1N2UVhlbnhZWl81M2thOUFhYjlvdnpvSjhIb0FORWpDR1ZkSWJ0OUJTRlJnRGxkcVctT3JtU3ctVg?oc=5",
-      "snippet": "Canada and Nordic Five unite to protect sovereignty through Arctic defence &nbsp;&nbsp; CTV News Canada, Nordic countries vow closer collaboration as middle-power bloc &nbsp;&nbsp;",
-      "pub": "Sun, 15 Mar 2026 15:48:06 GMT",
+      "title": "Canada, Nordic countries vow closer collaboration as middle-power bloc - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0hhTUtCZXZEbzNqMUgzT0V1bHBzVFVFZXltS0xkYVVmY1VtcGlxQjdyQXh0UDFCT2ptaENXYlJsRU11RG9KSUk0U3d6Y2tvZWxhbW0ybFl5TmtPYklEMmE5eWU5dmttYnBnRWpnSFpxclE5OHRUOUVxR2RPTjM4VzFDWU4zYUJKNVdpempPa1k5QS1wYXhoNklvNW5rMkhsVkgxeloxM0ZiRGRMRzlMa0tn?oc=5",
+      "snippet": "Canada, Nordic countries vow closer collaboration as middle-power bloc &nbsp;&nbsp; The Globe and Mail Canada and Nordic Five unite to protect sovereignty through Arctic defence &n",
+      "pub": "Sun, 15 Mar 2026 13:59:40 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Analysis: Two weeks into war with Iran, Trump has been knocked back on his political heels - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORkI2ZVNNZ1VTaEJsRkhFMFZlVEJpNmUyUW5vRHUyQkQwWk9YejhvMXdHNEFYMVFNNGRTbkRUOXZTN3ZNVlROc2JkS3JWYWplSkFHVC1ObDZLRFhMMzdmei16N0ZFVzhTTjB4VHA3Y1JnWjlDWU00emp5T01JakQ4aWUxLWJnZHdLYTBrclQ0bGxTX3JJdldGNGVzaVVfaVN1Zzd2YWt5MFJhN0pXVlRBSi03emVCemlDZ1YtaUZzZzNCVVdIQWNaUmxfWUJyTVFrRzBzV3dsdnFaVi10UlkwZFFnWmRraV96enJWekt6SDFJeDNFY0tRX3ZZODIwUk16SVB6MnFYMG94aGxZVlE?oc=5",
-      "snippet": "Analysis: Two weeks into war with Iran, Trump has been knocked back on his political heels &nbsp;&nbsp; Toronto Star Two weeks of war: Inside Trump’s risky decision to attack Iran ",
-      "pub": "Sun, 15 Mar 2026 04:01:00 GMT",
+      "title": "Critic’s Notebook: Conan O’Brien’s Deft Hosting and Several Sincere Moments Help Save Technically Sloppy Oscars Telecast - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNekRlMmxGeGE4eFBjSHlfUDBkNE9aRWhuLW1IWS1qVlhRZ250RXRiSTBHdUZaU2M1b3BneWlELTdWWWpXZXA5LVB1SnJVY044UDdabENIZVEtdV96TS1MYmQ0WWZUTWtOTXJmNTRtTThYb01NaUpPTnFXUlJTbkJUU296ZEZEMmx4SzR5ZkJkVGJMbldJWlhtQzVoM0xLUkUxb3FvNDZtZ1diVWJKRENHRUlVeUJpclky?oc=5",
+      "snippet": "Critic’s Notebook: Conan O’Brien’s Deft Hosting and Several Sincere Moments Help Save Technically Sloppy Oscars Telecast &nbsp;&nbsp; The Hollywood Reporter Oscars 2026: Conan O'Br",
+      "pub": "Mon, 16 Mar 2026 06:08:51 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Some Lapu-Lapu Day attack survivors say it’s too soon for the Vancouver festival to return - CBC",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3pnZjQ3LVNwNHVaSjFKMFpNNVhDTF9oazE5ZXJiWmI1VlBONjVRQm5lOFhHZ2FrWTd0OFZzRXRqclBCc3BtdHBOVURGcUoxdmRkb0JJM3VjX0hrb2tEUzYtNFFWclZuWFZvQzRGWVRoSTE5UzVlcmY2VDVYc2N3SDMteE1MUnVDc0lVQ1ExNFpnVE5zTFZubW5OQTJab1hGaHY5dXoxS2ViTl95d04wc0lZZnZkM1lZZ3A1anRiNGRSelNyNlVWZzZXLWg?oc=5",
+      "snippet": "Some Lapu-Lapu Day attack survivors say it’s too soon for the Vancouver festival to return &nbsp;&nbsp; CBC 'It's too fresh for us': Some B.C. Lapu Lapu Day survivors oppose 2026 f",
+      "pub": "Sun, 15 Mar 2026 19:13:58 GMT",
       "image": ""
     },
     {
@@ -119,15 +127,7 @@
       "title": "Ont. man fined $5K, banned from fishing for being over-limit in bass in Algonquin Park - CTV News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUVZ1WXAxNm54eXdyWndoZXRSUXh5R3NvTVJLZXhRYU5RYjl5YU9JTE9rVEZoRWU3ZEhyb2RrOHktOGhhNEprZ3JnTUdtVjJMZFJPTVdCUE1yZnJCWm5Ec0I0c0J1TUh4cnFDZmlyVWtGZFdEdTJDZktWZExtNXI2aWo4SC14cnFNdlJQcm01Vjh5NlZrYTFqbjYzNlM1LUp4aGlwVlJVdlNXbkF6bndPN0Y3QldSSWRWZXNvWVgzeEMxQlh0d1J1MHlXSkk?oc=5",
       "snippet": "Ont. man fined $5K, banned from fishing for being over-limit in bass in Algonquin Park &nbsp;&nbsp; CTV News",
-      "pub": "Sun, 15 Mar 2026 17:34:22 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "B.C. mathematician known as vexatious litigant killed by people known to him, police say - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNjllcGJVRUJEaDRIRkRZVXZKRjFqXzUzUEkxck80UzZxRzVzeU1pNG9Zc2J4V1pCRGpycFl3dDNFSE5TZWlhVVN0QkZJMVRqNkkxLW5LR19fQVRzRnMtS211aVYwQm5URWZ2ZTFVYWlLT2xGUTRKUUdFaVJSVFhENG5vcWhVb2Z4eXRMUWdKVHAtNkhSUFhGLURCdEtVWlBEdnBhdXZ0U1VtYmhEUmR1LU5TM3o0OWFR?oc=5",
-      "snippet": "B.C. mathematician known as vexatious litigant killed by people known to him, police say &nbsp;&nbsp; The Globe and Mail 2 charged with 1st-degree murder after Burnaby man’s remain",
-      "pub": "Mon, 16 Mar 2026 01:35:42 GMT",
+      "pub": "Sun, 15 Mar 2026 18:43:00 GMT",
       "image": ""
     }
   ],
