@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-03-17T09:47:41.164891+00:00",
+  "generated_at": "2026-03-17T10:42:09.551655+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "FFAW ‘Not Interested in Sitting with ASP’ Over Snow Crab Prices",
+      "link": "https://vocm.com/2026/03/17/ffaw-not-interested-in-sitting-with-asp-over-snow-crab-prices/",
+      "snippet": "The union that represents fish harvesters in the province wants to know why there was such a big gap in snow crab prices last year when compared with ...",
+      "pub": "Tue, 17 Mar 2026 10:32:02 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/02/dwan-street.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Winter Storm Disrupts Flights and Grounds Travel Across U.S.",
+      "link": "https://vocm.com/2026/03/17/winter-storm-disrupts-flights-and-grounds-travel-across-u-s/",
+      "snippet": "Airlines began canceling flights as a powerful winter storm moved across large parts of the United States, bringing heavy snow, strong winds, and dang...",
+      "pub": "Tue, 17 Mar 2026 09:40:35 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/03/633674566.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Some Reusable Tim Hortons Mugs Recalled Due to Burn Risk",
+      "link": "https://vocm.com/2026/03/17/some-reusable-tim-hortons-mugs-recalled-due-to-burn-risk/",
+      "snippet": "Health Canada has issued a recall on select reusable Tim Hortons mugs due to a burn hazard. The recall affects the 16 oz white and pink ceramic mugs w...",
+      "pub": "Tue, 17 Mar 2026 10:01:36 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/tim-hortons-tims-mug-recall-health-canada.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Recent Comments Made About Political Appointees Striking Fear for Some NAPE Members",
@@ -43,34 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/canadaian-canada-flag.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Police Release Surveillance Image in Hopes of Identifying Suspect",
-      "link": "https://vocm.com/2026/03/16/294435/",
-      "snippet": "RCMP in Happy Valley-Goose Bay are seeking help from the public in identifying a suspect in a recent theft from a retail store. RCMP say two people - ...",
-      "pub": "Mon, 16 Mar 2026 19:54:05 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/minipi-outfitters-suspect.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "More Messy Weather in the Forecast, Rainfall Warnings in Effect, Followed by Deep Freeze",
-      "link": "https://vocm.com/2026/03/16/more-messy-weather-in-the-forecast/",
-      "snippet": "More messy weather is on the way for the entire province tonight and into tomorrow. Environment Canada meteorologist David Neil says the system starts...",
-      "pub": "Mon, 16 Mar 2026 18:44:20 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/kenmoount-road-dec-15th-2025-snow-rain-early-morning.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Two Men Charged Following Robbery at Home in HV-GB",
-      "link": "https://vocm.com/2026/03/16/two-men-charged-following-robbery-at-home-in-hv-gb/",
-      "snippet": "Two men have been arrested and charged following a robbery in Happy Valley-Goose Bay on the weekend. RCMP were called to a home on Courte Marche Stree...",
-      "pub": "Mon, 16 Mar 2026 17:31:29 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/06/GFW-RCMP-Sign.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump upset as key U.S. partners shun call for Hormuz warship escorts - CBC",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuQ3ZHa0dpYU5uRnhnN0Zyb25nZEQtSlVIWDF0VGdnc3FjdERiZEZzZThoV2JvOUZ1T2tSSHQ5cE1oNHJXZlNpNkZ1Y3ZtdkRKckxYQThHTHpZVUZlUHhCRGxnRVV6WVA1YzBuSWs4ZU92cUVT?oc=5",
-      "snippet": "Trump upset as key U.S. partners shun call for Hormuz warship escorts &nbsp;&nbsp; CBC European countries reject Trump’s call for help to reopen strait of Hormuz &nbsp;&nbsp; The G",
+      "snippet": "Trump upset as key U.S. partners shun call for Hormuz warship escorts &nbsp;&nbsp; CBC Iran war live: Israel says Iran’s security chief Ali Larijani killed &nbsp;&nbsp; Al Jazeera ",
       "pub": "Mon, 16 Mar 2026 23:14:56 GMT",
       "image": ""
     },
@@ -84,10 +84,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "B.C. hires more than 400 U.S. health-care workers in 1-year recruitment blitz - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFBpY0h1UmdVXzc0TEdmalhTZHQ3X05WWGxCVENFc2VuZzRmNVRBSUpZZjdURWpseVpSX3N2RWloV0xDc3I4TGpMWXphRmxxdTBNdXpkNkc0c0dRWXFEQTNOdzBvMlZkdzBLazgxeHUyQ1lodnZrVEEtaDY0NElBcThhbnVULXNXdTk1SGFlcW13aGQyb1hRclY0V1VEVlFkY0hB?oc=5",
-      "snippet": "B.C. hires more than 400 U.S. health-care workers in 1-year recruitment blitz &nbsp;&nbsp; CBC View Full Coverage on Google News",
-      "pub": "Tue, 17 Mar 2026 00:00:00 GMT",
+      "title": "Cuba’s electrical grid collapses amid US oil blockade - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWjlaRFl0Q1k1eG94Zi1leHZLS2dYY1ROWkZwUk5NUmlDREVVMDZzVS1fakl3eVZqTWdoRVhMUlExUTh6YVlBTmdsay0tRmNYLWVya0R0SGlDWnlibzl2eEh5V3lKQnI5RVl0N2VfeWx4TVVZdnZDZ3FaS0czbkwxV21ZdnlKbDJKT0daT1RUcDhFMHRra2cyY0MyRzBLQQ?oc=5",
+      "snippet": "Cuba’s electrical grid collapses amid US oil blockade &nbsp;&nbsp; The Guardian Cuba: Millions without electricity as power grid collapses &nbsp;&nbsp; BBC Cuban officials report c",
+      "pub": "Mon, 16 Mar 2026 19:41:00 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Much of B.C. under weather warnings for snowfall, rain and winter storms - CBC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWFhX1JSR0MxN2NrU1hYQXFmcmJPMVp4S1c0NElhRXgxUTVUcm5IV1BJdnRrellxbVYwQWNLZWZRa25xSVl6d0NFMHpkbFBqQmpaNWw1ZS1ZZ09vcldvMDBHYk1GWUdMX0phVC1BVm9fTFY0dVBiY3ItVVVOVjdJT1hETGFPemF0N3hMMVRZRFI2RURkYVE?oc=5",
-      "snippet": "Much of B.C. under weather warnings for snowfall, rain and winter storms &nbsp;&nbsp; CBC Experts warn atmospheric river increasing avalanche risk in B.C. &nbsp;&nbsp; CityNews Van",
-      "pub": "Mon, 16 Mar 2026 22:38:42 GMT",
+      "title": "Ottawa puts $200M into space launch pad in Nova Scotia - CBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53ODlMeDlJdVR5aFNZNTFqM215UFZ0S3l4TE0yRm5TWmNWQWljRVpSQzJ3cUFBd3BocmZERzNDTVRhMHNaa2RRNWk2M0k1aUFCRElhZUs1b1NtblpHWm0xaXdoV2NQM3VEMEQtYml1aDA1dnNTak9aZDBSQQ?oc=5",
+      "snippet": "Ottawa puts $200M into space launch pad in Nova Scotia &nbsp;&nbsp; CBC Historic $200 million investment positions Nova Scotia spaceport as cornerstone of Canada’s defence capabili",
+      "pub": "Mon, 16 Mar 2026 23:33:45 GMT",
       "image": ""
     }
   ],
