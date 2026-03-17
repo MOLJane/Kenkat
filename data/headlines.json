@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-17T07:50:19.135353+00:00",
+  "generated_at": "2026-03-17T08:41:59.892102+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Man Charged After Disturbance on Elizabeth Avenue",
+      "link": "https://vocm.com/2026/03/17/man-charged-after-disturbance-on-elizabeth-avenue/",
+      "snippet": "A 33-year-old man is in the lockup after a ruckus in the Elizabeth Avenue area last evening. Police were called to the area around 6:00 where a man an...",
+      "pub": "Tue, 17 Mar 2026 08:31:35 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "March 17, 2026 – Should Canada and its NATO allies join the U.S. in military action in the Strait of Hormuz?",
+      "link": "https://vocm.com/2026/03/17/march-17-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12676').",
+      "pub": "Tue, 17 Mar 2026 08:03:46 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/canadaian-canada-flag.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Police Release Surveillance Image in Hopes of Identifying Suspect",
@@ -51,22 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/donald-trump.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Man in Central Newfoundland Arrested for Impaired After Crash in Botwood",
-      "link": "https://vocm.com/2026/03/16/man-in-central-newfoundland-arrested-for-impaired-after-crash-in-botwood/",
-      "snippet": "A 29-year-old man was arrested after allegedly rolling the vehicle he was driving in Botwood early Sunday morning. RCMP say the driver had already lef...",
-      "pub": "Mon, 16 Mar 2026 16:21:33 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/04/rcmp-detachment-grand-falls-windsor.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "FFAW Hoping to Return to ‘Traditional Collective Bargaining’ in Negotiating Fish Prices",
-      "link": "https://vocm.com/2026/03/16/ffaw-hoping-to-return-to-traditional-collective-bargaining-in-negotiating-fish-prices/",
-      "snippet": "The FFAW believes this is going to be a \"very different year\" for fish price negotiations after years of disputes over the prices fetched by crab harv...",
-      "pub": "Mon, 16 Mar 2026 16:14:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/04/snow-crab.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump upset as key U.S. partners shun call for Hormuz warship escorts - CBC",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuQ3ZHa0dpYU5uRnhnN0Zyb25nZEQtSlVIWDF0VGdnc3FjdERiZEZzZThoV2JvOUZ1T2tSSHQ5cE1oNHJXZlNpNkZ1Y3ZtdkRKckxYQThHTHpZVUZlUHhCRGxnRVV6WVA1YzBuSWs4ZU92cUVT?oc=5",
@@ -84,14 +84,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "B.C. hires more than 400 U.S. health-care workers in 1-year recruitment blitz - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFBpY0h1UmdVXzc0TEdmalhTZHQ3X05WWGxCVENFc2VuZzRmNVRBSUpZZjdURWpseVpSX3N2RWloV0xDc3I4TGpMWXphRmxxdTBNdXpkNkc0c0dRWXFEQTNOdzBvMlZkdzBLazgxeHUyQ1lodnZrVEEtaDY0NElBcThhbnVULXNXdTk1SGFlcW13aGQyb1hRclY0V1VEVlFkY0hB?oc=5",
-      "snippet": "B.C. hires more than 400 U.S. health-care workers in 1-year recruitment blitz &nbsp;&nbsp; CBC View Full Coverage on Google News",
-      "pub": "Tue, 17 Mar 2026 00:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Trump seeks to delay meeting with China’s Xi by ‘month or so’ amid Iran war - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLW9xRTE4cGhXd0hlc1E0N0pMTzc0RjhQbFQ1YTNDbENuNUdkVlMzTWN5ZUdjQmVaaUgzWDFrNDNCLUluOS0zTmMwdU4yaUlGTDdWQkVkZ2tuME1zMGhqRnJHNDNfOElTT215ZXNIR2JxN1hwZmVTN1MtMTFxdFlKQ2FEOERVOWpVUzZLaGljcV9NRy1WcU5mTVkwV25BQzRZV0dhUUlyOU1JM2dyblVvSUU0Y9IBuAFBVV95cUxOaFR6dVN2Tk9aM3M5ckxaVUZvMDY3WFZWQ2lYLXB3dThaOFVkRFJVWEhNbV9BWWZfOG1Zc1lMUElxbUpPUjlEWjU0Y0k1Y0QtSVZnLXFjTmxraFllQ1dsNGwzYko4MlNnVkhFTjdiQVEwRGVza2FXTHdyOUhwNThBbXZIUzhBUzA0dlRXb3NKZFBIamRSLWFoOU1TSUp3SU1sclhmUU56X2JnWGpGYkVmMV9POThscnBL?oc=5",
       "snippet": "Trump seeks to delay meeting with China’s Xi by ‘month or so’ amid Iran war &nbsp;&nbsp; Al Jazeera Trump seeks to delay China summit as Vance denies ‘wedge’ over Iran war &nbsp;&n",
@@ -100,18 +92,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump predicts US will have ‘honour of taking Cuba’ amid power blackout - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGFTWC1ScFllQUVVOXZYUTJEeUJMcmVtakx5ajFXMXZnekNUbVNEcHVWOE51X05UOVhqZ09kd2dHdDE2RnRQVUREbGxtRXA4TlZRUmpRWUhodGxjd1VkMXg4SERWU05uYjBHbFNJQjFHaE1LQ2tVdndoazhNWFl3Z2Zn?oc=5",
-      "snippet": "Trump predicts US will have ‘honour of taking Cuba’ amid power blackout &nbsp;&nbsp; The Guardian Trump Administration Seeks to Remove Cuba’s President From Power During Negotiatio",
-      "pub": "Tue, 17 Mar 2026 01:13:00 GMT",
+      "title": "B.C. hires more than 400 U.S. health-care workers in 1-year recruitment blitz - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFBpY0h1UmdVXzc0TEdmalhTZHQ3X05WWGxCVENFc2VuZzRmNVRBSUpZZjdURWpseVpSX3N2RWloV0xDc3I4TGpMWXphRmxxdTBNdXpkNkc0c0dRWXFEQTNOdzBvMlZkdzBLazgxeHUyQ1lodnZrVEEtaDY0NElBcThhbnVULXNXdTk1SGFlcW13aGQyb1hRclY0V1VEVlFkY0hB?oc=5",
+      "snippet": "B.C. hires more than 400 U.S. health-care workers in 1-year recruitment blitz &nbsp;&nbsp; CBC View Full Coverage on Google News",
+      "pub": "Tue, 17 Mar 2026 00:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada ‘leaving the door open’ to assist in Middle East, but no plans to engage offensively: McGuinty - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa0RDVFRsQjlkQWhtX3VzZFlWb2FORVJDRWlHRUNWWjExUllQNEtMTHllSENQX2tJOVRucWFvZVp0eElncW45bjNGT0ZKN1MxZTBnOU91RkczN0E4eHZFMDI4TG1Eei1QMHNVX0ZpaHNoNnFXcjBJRHdsdi10Rm04VE16OTNFcHhpWm5yTE55VWw1QjJTRlVhc1REX1VLMmc1RzZWNlA0UmtDLUswX1RCUHMzNzk4NHhLaTNZTGhBdkhjMDFkdjhiUmI0NTNuOGhIa2FBaA?oc=5",
-      "snippet": "Canada ‘leaving the door open’ to assist in Middle East, but no plans to engage offensively: McGuinty &nbsp;&nbsp; CTV News 61 per cent of Canadians disapprove of U.S. military act",
-      "pub": "Mon, 16 Mar 2026 20:50:55 GMT",
+      "title": "After bashing allies, Trump now wants their help — except from Ukraine - The Kyiv Independent",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGhGazJQVmhoQzN3OXJZdkVWeXhzTDkxeEJFaDFZdG5TUUFQRWVobjBsMG9admQzWllKX1BKRWRvNXE4V1VBT3ZObnBpRmUwVzBjSUd6TUZuOWMwZkVCRjR1cG9JZkVkOWZMdi1pVVU0cEYyRWdwSDljNy1uUTBUT25oWUtEQkQyLS0wa3JHWQ?oc=5",
+      "snippet": "After bashing allies, Trump now wants their help — except from Ukraine &nbsp;&nbsp; The Kyiv Independent Strait of Hormuz: Trump needs a coalition. Here’s how to build one &nbsp;&n",
+      "pub": "Mon, 16 Mar 2026 20:54:51 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Carney, Starmer share ‘deep concern’ over Iran war as conflict disrupts shipping routes - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSnJfRTljS1A5Q2RhSXdBTld3YkpwVG9qeV9DcnRyY19tMGFDeHdDLVlYYW4xdmtWNVV0WGtwX2hKc2NQNG1rLU1Rd01tUGhYdDZHYWZVYlhJX0JQNE5BV1k5X1djOVowNE82NUp4dVBTMW52N2NkanlRUWZjRFR0alZlS3NJZnJ6Sm85SDVsM21oM2Z6U1kzSzdwYlNQb1B2cTIyOHozWTNUM2dpTlc3TDZyXzZxcU5uQkI0TXVXMDhnSHM?oc=5",
+      "snippet": "Carney, Starmer share ‘deep concern’ over Iran war as conflict disrupts shipping routes &nbsp;&nbsp; CTV News Carney, Starmer meet amid deepening Middle East crisis &nbsp;&nbsp; CB",
+      "pub": "Mon, 16 Mar 2026 22:57:38 GMT",
       "image": ""
     },
     {
