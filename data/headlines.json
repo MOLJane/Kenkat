@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-18T14:17:50.433967+00:00",
+  "generated_at": "2026-03-18T15:45:40.148992+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Gonzaga Students Dismissed Due to Reported Fire",
+      "link": "https://vocm.com/2026/03/18/gonzaga-students-dismissed-due-to-reported-fire/",
+      "snippet": "Students at Gonazaga High in St. John's were dismissed over the lunch hour after a small fire sent smoke through the building. The incident appears to...",
+      "pub": "Wed, 18 Mar 2026 14:57:41 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/gonzaga-dismissal-2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Pharmacists Want Expanded Legislation to Enhance Scope of Care",
@@ -59,18 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/rnc-royal-newfoundland-constabulary-june-6.png"
     },
     {
-      "source": "VOCM",
-      "title": "Former Innu Nation Grand Chief Speaks to Abuse Suffered at Day Schools in Supreme Court Hearing",
-      "link": "https://vocm.com/2026/03/18/former-innu-nation-grand-chief-speaks-to-abuse-suffered-at-day-schools-in-supreme-court-hearing/",
-      "snippet": "Warning: This story contains details that some readers may find disturbing Rampant gas-sniffing by Innu kids was a direct result of the physical and s...",
-      "pub": "Wed, 18 Mar 2026 09:31:10 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/prote-poker-supreme-court-former-innu-nation-grand-chief.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Israel claims it killed another top Iranian official while attacks kill 2 near Tel Aviv - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObjJOMEZpbUM1U3h6X2s0NG9JbW12YXh4WkhuMXdqS0pScG1EYVRFMXFNWXIyREZCOGwtUkR4T2EtUmlXaHBQcmJUYVp0T0tpczBUdHJpV1BFeGN2cFFlQUdfdjl5dDNUQ1loNEJ3aHZ2ZjJTMHJwaGVIS243TkoxZlF1SjhORUNjdXBlbWZtZUNZNlhFaFc3TnlhUFAxejBicllmdjJBNzRKaTBwUGNXSDJxUWZtN01QYnRDcEEyOTdfelVldE00cTBJVjY3UGh1UXg2dTM0MS11Zw?oc=5",
-      "snippet": "Israel claims it killed another top Iranian official while attacks kill 2 near Tel Aviv &nbsp;&nbsp; CTV News Iran launches fresh attacks on Israel, Gulf neighbours after 2 high-ra",
+      "snippet": "Israel claims it killed another top Iranian official while attacks kill 2 near Tel Aviv &nbsp;&nbsp; CTV News US unleashes powerful bombs on Iran's missile sites as Tehran vows ret",
       "pub": "Wed, 18 Mar 2026 11:49:23 GMT",
       "image": ""
     },
@@ -78,16 +78,8 @@
       "source": "Google News Canada",
       "title": "EXCLUSIVE: Canadian teen’s Instagram chats reveal playbook for recruiting drug mules - CTV News",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUdoNG1kV1hXT29Rd2FHSmxiOUJaV042bGpadVgtaXBidDJici1mTmdhLVRKUkY1QldGaU1jVXMwMVpLWkJ4U1dlS1ZxTnlVbGY5OWh4ZU9QMF82R1M4ZWdCTWczUkdFUmg4enhLTEtGbUs5Tl9NY2VpazZ4eXc0QW9LM28tUkhyTzJvNk91ODA1ay1YR0R6QWhZUVJHTzRJYmZYUlE1Q25WWkoxcnBHaGZpQWhXMjJWNmdsVmF3?oc=5",
-      "snippet": "EXCLUSIVE: Canadian teen’s Instagram chats reveal playbook for recruiting drug mules &nbsp;&nbsp; CTV News View Full Coverage on Google News",
+      "snippet": "EXCLUSIVE: Canadian teen’s Instagram chats reveal playbook for recruiting drug mules &nbsp;&nbsp; CTV News EXCLUSIVE: International syndicate lures Canadians as drug mules, four ar",
       "pub": "Wed, 18 Mar 2026 10:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Why Trump's Cuba takeover plans could see a Castro return as ruler - Axios",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdUp5RkFYRGZOLWxvSllLWXFrYk1lNTJnSlByWXp4Uy1VQ1l1ZEY0dnpHajd0QV9rbU1UX0ZBejBlNGptdlJDSExVRjYyblA2OV9BRU9EYTFla25lOXNBUGh1RjFYWkdUSmd5Y3M2S3RoMVMwTEpubG5IMUlpMmFFajhxT0tCdw?oc=5",
-      "snippet": "Why Trump's Cuba takeover plans could see a Castro return as ruler &nbsp;&nbsp; Axios Trump muses over ‘taking Cuba’ as island’s power grid collapses after weeks of US oil blockade",
-      "pub": "Wed, 18 Mar 2026 09:58:30 GMT",
       "image": ""
     },
     {
@@ -100,18 +92,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "More than 400 U.S. health-care workers have immigrated to B.C., province says - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlRzM0lwQVYtWkhpUF94TFotV2FNVUxSTGlpWUl6QmRnZURLd254cmllcmRiZHJBWmpOekpsZEFKVjFlWjJNZmpSdW85cmJDWWR1Y2ZKQ0pOdmpRVlVFRWNnTEN6dWFaZUdMQzYtNEZJV2w5ZjNDOTIyUnBxZ2t0YVlSdm1yekV3NUVEZkdwTGgxYTZIRFVUT2F1THZtc00tUUJ6eGRVcmpielc0N01PUGJLcWw?oc=5",
-      "snippet": "More than 400 U.S. health-care workers have immigrated to B.C., province says &nbsp;&nbsp; CTV News B.C. hires more than 400 U.S. health-care workers in 1-year recruitment blitz &n",
-      "pub": "Tue, 17 Mar 2026 20:01:47 GMT",
+      "title": "Ottawa appeals Emergencies Act case to the Supreme Court - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3RSNklBcVFkeWxqelBkdWJwNGg1eDNQcFowOFh6NGFRczZSSkFyZkpORDRaajd1U3gtM1UxRlRHUU5CMTVoZW55M01KNDlWRVdhai0tZnlkY0hveGJsYTV5dXMtdXAtX0puWFU0UlZMano3aGZaN2NhVEMzSmdSb3dzTGNxNmR4RnNGVUtWZGJYOHpSZnNvYmY4LTRmb2tyUElvV25Hdw?oc=5",
+      "snippet": "Ottawa appeals Emergencies Act case to the Supreme Court &nbsp;&nbsp; The Globe and Mail Federal government appeals Emergencies Act use during convoy protest to Supreme Court &nbsp",
+      "pub": "Tue, 17 Mar 2026 21:08:30 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Border agency 'systemic collapse' allows man found guilty of immigration fraud to walk free and sue Canada - CBC",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzRJSlBBaDROaUFSZ1RjWW5BQjV6TkUyNzF5U0N5Y1RsalY2ZUpjenRUa0RJZWxhVFdzTzBiaEFsaHdtclYxeVpZMUk2ek16ektadVg2ZEJpbzctT2JyZ2paZFhQU1NHTWJTZU1XMHlpM20tajhNRGowZkNNMDhFYWxnWkJENUtKMEZ6SGtDSzJJcmlSUWJLQzd4aFVPXy1QNWQ5bklTVm5JUW1L?oc=5",
-      "snippet": "Border agency 'systemic collapse' allows man found guilty of immigration fraud to walk free and sue Canada &nbsp;&nbsp; CBC",
-      "pub": "Wed, 18 Mar 2026 08:00:00 GMT",
+      "title": "No relief for motorists in Quebec budget, says Finance Minister Girard - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSUUyZGlZRzBxdGY2eVRaa0VpSVA1S2xaQ1FSTkdpaG1kdWVEdTEtYjNDZmpHUjN2YzVXdW05YWNqR3RycWVJNm90clpwcHhZQUxiN0l5cWh6NUs5eWxaRC11TzVhblhyb0QtVGd6S1ZyVXB0MDBwRWVPd284RVJRZ3VqbVJOVGdUV3NLdlFiWk5SdzNuRmxLdUU3Z2o4SUYzQjNsRHRSeTUyYUMxb3VpN19FQTJpeFRxN1czbm1JVQ?oc=5",
+      "snippet": "No relief for motorists in Quebec budget, says Finance Minister Girard &nbsp;&nbsp; Montreal Gazette Tens of thousands still without power after strong winds hit Quebec &nbsp;&nbsp",
+      "pub": "Tue, 17 Mar 2026 23:45:41 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Ottawa spending $1.4-billion to ramp up domestic ammunition production capacity - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ2NqWmdncnRDVnNSaFFacDh2ZG1NNnFOT2FjUFFRbFFvYkFvcmItczdZV3NybXJ3X29nMFYwQTNnVVVfQ1p0NDd6NTg2RDZnazhDamNMZU54bHJnay1SU3E5N0gxMXB0RTNGV3ctcTBxZnE5UzEtMjR1RDVXQ2lucWUwQzZ5ZE42eUQtdzJ2c3Q1VjgtZHo3WklTX3hGT3JDYXZzTXJsclVFaEVYODFyQlRpc3NBYVFCZTFNTTB6S3l1Zw?oc=5",
+      "snippet": "Ottawa spending $1.4-billion to ramp up domestic ammunition production capacity &nbsp;&nbsp; The Globe and Mail View Full Coverage on Google News",
+      "pub": "Wed, 18 Mar 2026 09:00:00 GMT",
       "image": ""
     },
     {
@@ -126,7 +126,7 @@
       "source": "Google News Canada",
       "title": "Quebec's finance minister lowers expectations ahead of pre-election budget - CBC",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UcFR4bkdvU2xmeVBqXy1hRjZjUDB1TjM1cGhZVzQxVGFTSnRtU3VOUnlXRUk4TkgwZnFNYzBJMlpFRWxNLXA3UGFLVEQ0NVk1Q015Vmt3LV9yVTA2c1p3aHVhMWwxZTRLVGFVODlIdXJMZkoyRFhWNWNKZHU?oc=5",
-      "snippet": "Quebec's finance minister lowers expectations ahead of pre-election budget &nbsp;&nbsp; CBC View Full Coverage on Google News",
+      "snippet": "Quebec's finance minister lowers expectations ahead of pre-election budget &nbsp;&nbsp; CBC Quebec is converting 5,000 unsubsidized daycare spaces into subsidized spaces &nbsp;&nbs",
       "pub": "Tue, 17 Mar 2026 08:00:00 GMT",
       "image": ""
     }
