@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T06:33:31.238359+00:00",
+  "generated_at": "2026-03-19T07:41:28.865446+00:00",
   "count": 16,
   "items": [
     {
@@ -20,27 +20,11 @@
     },
     {
       "source": "VOCM",
-      "title": "Council Unanimously Approves Controversial Development on Signal Hill Property",
-      "link": "https://vocm.com/2026/03/18/294604/",
-      "snippet": "A contentious new development for The Battery area of St. John's received unanimous support from St. John's councillors yesterday. Plans call for a 28...",
-      "pub": "Wed, 18 Mar 2026 19:51:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/limeville.jpg"
-    },
-    {
-      "source": "VOCM",
       "title": "NL Housing Inventory Drops by 60 Units, Waitlist Increases by 70 Per Cent says AG",
       "link": "https://vocm.com/2026/03/18/nl-housing-inventory-drops-by-60-units-waitlist-increases-by-70-per-cent-says-ag/",
       "snippet": "Auditor General Denise Hanrahan has delivered a dire assessment of the province's social housing supply and management of it. Her latest report covers...",
       "pub": "Wed, 18 Mar 2026 19:09:29 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/denise-hanrahan.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RNC Seek Public’s Help in Locating Missing Teen",
-      "link": "https://vocm.com/2026/03/18/rnc-seek-publics-help-in-locating-missing-teen/",
-      "snippet": "The RNC is asking for the public's help in locating a teenager reported missing from St. John's. Eighteen-year-old Savanah Cadigan is 5 feet, 2 inches...",
-      "pub": "Wed, 18 Mar 2026 19:03:41 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/savanah-cadigan-missing.jpg"
     },
     {
       "source": "VOCM",
@@ -67,19 +51,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/hogan-and-wakeham-1.jpg"
     },
     {
+      "source": "VOCM",
+      "title": "RCMP Looking for Mustang that Refused to Stop on TCH Heading Toward Terra Nova National Park",
+      "link": "https://vocm.com/2026/03/18/rcmp-looking-for-mustang-that-refused-to-stopon-tch-heading-toward-terra-nova-national-park/",
+      "snippet": "Clarenville RCMP are on the lookout for a vehicle that took off when they tried to pull it over. It's a black 2014 Ford Mustang with NL license plate ...",
+      "pub": "Wed, 18 Mar 2026 16:10:25 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-14.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Gonzaga Students Dismissed Due to Reported Fire",
+      "link": "https://vocm.com/2026/03/18/gonzaga-students-dismissed-due-to-reported-fire/",
+      "snippet": "Students at Gonazaga High in St. John's were dismissed over the lunch hour after a small fire sent smoke through the building. The incident appears to...",
+      "pub": "Wed, 18 Mar 2026 14:57:41 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/gonzaga-dismissal-2.jpg"
+    },
+    {
       "source": "Google News Canada",
       "title": "Strikes hit world’s largest natural gas field in Iran, and Tehran retaliates with more attacks - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWDUtRUFaTHVtSklqWmRtNHR5Q1AxSUFfZTNUMUdaT1k1WFlyUW9Ka0pIbWhfWHAtaXRYTVJQcEtTVDFmYkpHMzAteEtsWlpGMy1acFJOY25QUW5kQUhDUnI4UVNoQXRYY3NnR1l5Mm9YU3FpZVZfYlM2bm1QMVNOckJ3TmhhMGd4SWFPUk00bnhRZ25BTjNMaGp5ZHdLVXY2aEFiVUVCVFZDaXdpQ0RqUUdrbm5pQ014eU5aVUo5M1RORjhYUG8xVWF1Wm1oODZiU05mVi1TaVhFdFJwSWRpTQ?oc=5",
       "snippet": "Strikes hit world’s largest natural gas field in Iran, and Tehran retaliates with more attacks &nbsp;&nbsp; CTV News Live updates: Iran war news, Trump threatens to ‘blow up’ world",
       "pub": "Thu, 19 Mar 2026 01:28:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Alberta moves to drastically reduce access to medically assisted dying - Global News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wcU1PSWtSUHVZek5aNlFkZElZalZqQnZFYk5ZekZqQ2M0WE9oWmxWckR3cWJKeUl5ZGZwRHNTdDZSZDAweUdkSk5nUnhzOHM2RnlCX1Z2c05ZeENBNDk2cE1DaElRckVhUGVaa1FtTUoxTHdTUzdYekgzSFo?oc=5",
-      "snippet": "Alberta moves to drastically reduce access to medically assisted dying &nbsp;&nbsp; Global News Alberta bill would limit medically assisted dying to patients facing 'reasonably for",
-      "pub": "Wed, 18 Mar 2026 21:45:41 GMT",
       "image": ""
     },
     {
@@ -92,6 +84,14 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Alberta moves to drastically reduce access to medically assisted dying - Global News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wcU1PSWtSUHVZek5aNlFkZElZalZqQnZFYk5ZekZqQ2M0WE9oWmxWckR3cWJKeUl5ZGZwRHNTdDZSZDAweUdkSk5nUnhzOHM2RnlCX1Z2c05ZeENBNDk2cE1DaElRckVhUGVaa1FtTUoxTHdTUzdYekgzSFo?oc=5",
+      "snippet": "Alberta moves to drastically reduce access to medically assisted dying &nbsp;&nbsp; Global News Alberta bill would limit medically assisted dying to patients facing 'reasonably for",
+      "pub": "Wed, 18 Mar 2026 21:45:41 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Police search offices of Sam Mraiche-owned firm as part of Alberta procurement probe - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0NTbHZyemZITlJ1LW91Umttc24yNEVLWXZ3NGxXS2hJUF9EYkdhUEhfTWFEN1RwMkRfTDBUYUg3bi0tNFBXaU9VelFQSEl1QVhDd1NZN1B1RlYtbGwzZnRNWmktMGRjVHZTV3JiVEVsSkxvTGZKUnJVdjdZMWtRVm10SFlOTDhlWFVxajdXMEFfVW9GSmtGbDhxbzk2QUxfcmM5WlhjNlFpZm1pTXlPbEhIa1VvSkxzelpr?oc=5",
       "snippet": "Police search offices of Sam Mraiche-owned firm as part of Alberta procurement probe &nbsp;&nbsp; The Globe and Mail",
@@ -100,18 +100,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Fighter jets escort Montreal-bound flights after ‘security incident’; 2 men arrested - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNenlvMGt0cUVLVFNFNmJldVRMLXNWclgxaEkwak5DZGI5Q0FWeUx5OFg2NkY0Qjhvd0RTcmtQeTJjMHZUaGZCYThWMDlXUlFsNTFmVVMzQkNrUWF0X3FPQlhoUWJOYmh6ZUowUjVfV1RQUU5Ta3BQUDBaaU1VRDJWZHpKUXMtSExsdDVJVm5OY3Q1U1BMNTVjWjU3Ym85OFl5RzhHaTJub1pqTVdLNmZxSW5wNTU?oc=5",
-      "snippet": "Fighter jets escort Montreal-bound flights after ‘security incident’; 2 men arrested &nbsp;&nbsp; CTV News Montreal airport fully operational after suspicious package temporarily c",
-      "pub": "Wed, 18 Mar 2026 19:39:44 GMT",
+      "title": "The Anglosphere is increasingly miserable - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkZNQjBqZkVhQURhbHRVV2g4OHA2akJ5Z3NIdEJYU0ZoU0FNT2lLNmxTaXNwSkRWdXdadFdERE9ScUdFa3NzWW1sRXlqYUdkeWk5MmVvT2NINGlPX3Y5U09DcENZLVhyVGV3YmFlMDRuZEMxUVRSNjlTZ2liSHBmMVJrd2dfNXhJMWJJbUJ1YVQwd3llX1dkQg?oc=5",
+      "snippet": "The Anglosphere is increasingly miserable &nbsp;&nbsp; The Economist A Nordic nation is the world’s happiest country for the ninth year in a row &nbsp;&nbsp; CNN Canada slips furth",
+      "pub": "Thu, 19 Mar 2026 00:07:35 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "US intel chief Gabbard says Iran was not rebuilding enrichment prior to war - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS0FjVjl2UEE3TXZCSjUxWVM0OG14dUI5TS1IX1hGMC1GYW1wTjZhZkMxZWg2c0NzMU1zajFwemNIWHkxTkNac0JMbnJoSFhLQkhHX3ZkenZPSU51dFpINEQtaEF6c0NKc1ZZLWxzMU9rSjdTRmJGRS1SeWt5SHItVFpoa3Z3ZkVJSVc5S3BYVXhIUzlTQTVOdWctNkltUnB6akFsR2RqOXdLQnNleElmOUJaM0NzRk3SAbwBQVVfeXFMTmJSQVEtS0Q0aUR5T2JGS1UwaE1RMjFRVUo0RndDV1UzSGgtXzljeEFMZ19UYkw2STExd25ZbFZ5TkdlS1lteVRMS2pkOTFvemRxVlJRSlNmTWJvdUpYSXByWm4tVHhnWHdySWRZaWJRUFVSMEhtRmh3ZmdNYWUyalhDbDMtV0hqR283dmVROVhiNGhidHpDTWNqanVKVnR1Um1SS1c3N2pLbnFxLXZCaVg3TU52Yk1NMldDaWE?oc=5",
-      "snippet": "US intel chief Gabbard says Iran was not rebuilding enrichment prior to war &nbsp;&nbsp; Al Jazeera U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War &nbsp;",
-      "pub": "Wed, 18 Mar 2026 19:11:33 GMT",
+      "title": "Larijani's killing will destroy Iran war off-ramps for Trump - Responsible Statecraft",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsSmV2LUhsN25LZHFIWEtVRUpEVTBLUjVFaWV6d1NINFV0VGJHbVg4bTZ2ZFZoVjVKS1FFbXllX2NLOUljaFN2UFViMWU2YTNSNjY1LU04dUNyV0ZZNnJDUzFB?oc=5",
+      "snippet": "Larijani's killing will destroy Iran war off-ramps for Trump &nbsp;&nbsp; Responsible Statecraft Killing of Larijani will not destabilise Iranian political system: Minister &nbsp;&",
+      "pub": "Tue, 17 Mar 2026 20:24:58 GMT",
       "image": ""
     },
     {
