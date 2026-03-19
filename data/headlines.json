@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-19T19:26:14.854711+00:00",
+  "generated_at": "2026-03-19T19:58:59.468619+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "RNC Searching for Missing Man",
+      "link": "https://vocm.com/2026/03/19/rnc-searching-for-missing-man-3/",
+      "snippet": "The RNC is seeking the public's help in locating a man missing from St. John's. RNC say 39-year-old Matthew Puddester is 6 feet, 2 inches tall and wei...",
+      "pub": "Thu, 19 Mar 2026 19:21:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/jacob-puddester.jpg"
+    },
     {
       "source": "VOCM",
       "title": "‘They Lied;’ NDP Leader Blunt in Assessment of AG Report on NL Housing",
@@ -59,34 +67,18 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/minister-joedy-wall-march-18-2026.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Hockey Season Over Due to Additional Issues at Bruce II Arena",
-      "link": "https://vocm.com/2026/03/19/hockey-season-over-due-to-additional-issues-at-bruce-ii-arena/",
-      "snippet": "The hockey season has ended early in Port aux Basques. The Bruce II Sports Arena which saw heavy damage to its roof in a windstorm earlier this season...",
-      "pub": "Thu, 19 Mar 2026 12:58:46 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/drone-image-bruce-ii.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Iran attack wipes out 17% of Qatar’s LNG capacity for up to five years, QatarEnergy CEO says - BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY0I4ZEpDNXFha0hCNm1wZHM0Y0k2blpDWTJ5VEdmdHdXSUNBbzBRM01fd0t2elU3MjVlX2t0NnphR3RQZ1BaZlJIRTAtZHJvaUcwVnV4emFyR3JvQjZNNFdSRnVzanViUjRUZmcxWW5maTBoaUowQWV0RFk5SWVRbEhaWW1YcV81QVR0eS1vQ1dQRHJ4dEx3OW5uWEt1WWNiVnA1Mm1saVhRN0ZySmR0TlBlcmMwWUhrYmtsckYtVTJVem5qSDJPdlRjUjJ2d1JDREdSWg?oc=5",
-      "snippet": "Iran attack wipes out 17% of Qatar’s LNG capacity for up to five years, QatarEnergy CEO says &nbsp;&nbsp; BNN Bloomberg Are US and Israel in lockstep in Iran war? Deciphering Trump",
+      "snippet": "Iran attack wipes out 17% of Qatar’s LNG capacity for up to five years, QatarEnergy CEO says &nbsp;&nbsp; BNN Bloomberg Global markets sink, fuel prices soar as Iran hits Gulf refi",
       "pub": "Thu, 19 Mar 2026 14:08:34 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "European countries and Japan: ready to help on Hormuz, stabilise energy markets - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWTNsOXRHZGhZQmIzendlbldIYmVZbFFfODc3aTRNeU9YeFlVeXg5UWpuckFoRFhWRExmWkZ4UmxTWS1PbUZwLXBQWVFWc1QtaThCQTE1TFBaWnJUem1Rb014X0czYkFNSlU5TDlkQU1aM18wZzFIRkRFV2RDLTVReS01SkdqTkpQWFlkQktEdDBRUnZNM0RCRmxSbXF2amhiSENwWmotaWJUZEFGd0JSRWp1T0R2LVEzTDVB?oc=5",
-      "snippet": "European countries and Japan: ready to help on Hormuz, stabilise energy markets &nbsp;&nbsp; Reuters Europe and Japan ready to help steady energy prices and secure chokepoint &nbsp",
-      "pub": "Thu, 19 Mar 2026 13:26:44 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Are we in for a super El Niño this year? Early projections say maybe, and this worries climate scientists - CBC",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04cE4yb2Q0UkdKWXd0Wnk5T2M5VWlWSVFtQXZoMVBOUFJ2SWVHOWwxYWNvblM4REdRX2NTeW1KLU9aZDkydGdBSkVTcmFBSllkR0JoSzU3X3NSUmNYb2lTRDFUV3pJQQ?oc=5",
-      "snippet": "Are we in for a super El Niño this year? Early projections say maybe, and this worries climate scientists &nbsp;&nbsp; CBC Atlantic 2026 hurricane season could see major impacts fr",
+      "snippet": "Are we in for a super El Niño this year? Early projections say maybe, and this worries climate scientists &nbsp;&nbsp; CBC Experts Officially Predict El Niño for 2026; How Big Will",
       "pub": "Thu, 19 Mar 2026 08:00:00 GMT",
       "image": ""
     },
@@ -100,25 +92,33 @@
     },
     {
       "source": "Google News Canada",
-      "title": "EXCLUSIVE: W5 tracks down alleged Canadian recruiters linked to 4 jailed in Hong Kong drug cases - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQWtKRXRpMTdCUlNyVDdCLVB4RmFEYWp2LXBFZEZCb2Jac3dFNzJ6TWE0b0tzZzFYT1c3amZxYXFJcV92RVpKVXdrNHNMNExjTkJ0d0JJdFBnTnJ1M1Z5X1NhZzlENm40ZkFZREJfUU8zV0M2U2NPRmRwRU1WZEN5SUhlT21TeldJS3pGQlZNYzdxQ29sUkpVSGZoZldGZmgtelRYM3Q2LThRMVJQTENwc1Nkb1RpbXRxN1R0M1pjTVlUMUc3aHV4QnZkNjgzZw?oc=5",
-      "snippet": "EXCLUSIVE: W5 tracks down alleged Canadian recruiters linked to 4 jailed in Hong Kong drug cases &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Thu, 19 Mar 2026 09:12:46 GMT",
+      "title": "Extortion-related deportations up to 35, more than 370 investigations launched, CBSA says - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYVJHYU42d09FRHR0WERmQ3pacFFBQVFOVmdsYkxfUWRCdHZPdGtuM2kyWWNfaFh6di1oMk4yMXVWQ0taMGE5N0JLUXJwOVNrOWVKQ3VQS0Z0UFctQ241dl9xNXkwNGJiRjhWdWN5UHZmQXVwN3FNaFNYTVhvb09ZekpsUHBRZXZKZUpoMXJvR1I3WG81VFY5Z3Fzejl2c3phOVotZXdkSElQUHpETkZEYzJRTW5iWGh5Q3FtZjJLdkFLc1BLbndPeQ?oc=5",
+      "snippet": "Extortion-related deportations up to 35, more than 370 investigations launched, CBSA says &nbsp;&nbsp; CTV News Accused extortionists deported as part of CBSA crackdown on cross-Ca",
+      "pub": "Wed, 18 Mar 2026 20:02:51 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Middle East War live: Oil and gas prices soar as Iran intensifies strikes on Gulf energy plants - France 24",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS0RIVUNoNHgzQVJQdDBFQmlZZDVVei1Vcy1ZRm54bjVERndDWlIzMEhPcFJSVmpRZUtiSTRfbWlHbUVBcTZpOE1fY1BhUHB4MTdZWUF6NGlQQVJSeDNnTjRUMEJvZjIyaGhmX0h5ZDBSQl9iSm1GeEYteDlQaVJRaXNnRmpmNjNkNFZFZExrVE83YWdjUTNHOUtUeU5kYkgzelJjVmMxa2lSR3lMaUVnT1VBXzhBQmNVTWJVdER6QmhKTXlzcFQwdU1OME9xOENiclRpV01mRlpyZw?oc=5",
-      "snippet": "Middle East War live: Oil and gas prices soar as Iran intensifies strikes on Gulf energy plants &nbsp;&nbsp; France 24 Iran War Live Updates: Trump Says ‘We’re Not Putting Troops A",
-      "pub": "Thu, 19 Mar 2026 02:33:21 GMT",
+      "title": "Quebec Budget highlights: More money for businesses, hospitals, transit as deficit drops - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNURrY185RVkzUk5BOHNIa2F5UnBFNk4xODZ6eXVVeTVza0t2dU54LU16TG9OUUhXcElVby1waUozR3VxeU5EY0pyVXBVRllVeURnd0xBWUJ2UkYxbGQ2bzNZRHpPQ0p6NGNPR3o0TXRQZTZ4cUpjRE84MEVuaDhmUDFLRTEwb3VzUVVRV2JVMGZPQjF5eU81Q05xSUEzdjFfVktaTlVzWFJHWjEzNm1hU0NB?oc=5",
+      "snippet": "Quebec Budget highlights: More money for businesses, hospitals, transit as deficit drops &nbsp;&nbsp; Montreal Gazette Did Canadiens GM misfire on Logan Mailloux trade? | HI/O Bonu",
+      "pub": "Wed, 18 Mar 2026 20:41:06 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Lawyer for Umar Zameer slams ‘chilling’ attack on judiciary after OPP report clears officers - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdS1WNDktcU1lVHg3QlhPOWx0RXVWU0NPWmtiR3hzQXBSZ2xPZ0txYi0yQkpIVWhzRU9TR2l4anhwUE9HWUVBaS1KX3dpbHhlRFJZRkFBbERjREMyWVg1d0lrRER0aWFLQldsekg5VklhcVhwWHoyX1I5bk5rZUtsWTdlY3J1T0RKZVRVRE00MXphR3RDbHJsdWdzaURpUDJ5bjhXZnlrN0g5bTdORExpN1VWcldSU2lVU0daRzEyb3VXakEyX1FqVmZ3TDlaakctbURB?oc=5",
-      "snippet": "Lawyer for Umar Zameer slams ‘chilling’ attack on judiciary after OPP report clears officers &nbsp;&nbsp; CP24 Zameer’s lawyers call for public inquiry into Toronto police conduct ",
+      "title": "Alberta seeks to set limits on use of medically assisted dying - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtWEFqS2FJcXpaNEU2dlQyajJYVF9hSjRfTGtSejFSRUp2WW1YZUt0WnNXY0lhTTVMTmNiV0NKMVkwZW1UbTdFMWhuWmo2N1VOTEtxaU5waDQyZw?oc=5",
+      "snippet": "Alberta seeks to set limits on use of medically assisted dying &nbsp;&nbsp; BBC Alberta bill would limit medically assisted dying to patients facing 'reasonably foreseeable' death ",
+      "pub": "Wed, 18 Mar 2026 23:23:49 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Lawyer for Umar Zameer slams ‘chilling’ attack on judiciary after OPP report clears officers - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDN3MXF4Ym9BRjZxN3JDMThoTm9zNmUtTmxYWnBpa0lXR0hxN05EZVNlWTJlTzh3WnJSWGRMM2N4MGhvaW5hSER3Z1NzRDRydlppXzBvMVBhRnhiNVN1ZEVoLXFIM3BCam1ZNnZNcVlPUkJ2VGpsT0UtbExrakFuM2d2c2tVVW55emZJcDZnaDJTYmlPUnhMbnRuNXF4V0ZyRkh5bHNWX0V4aWZQU0pKR1FsamRuM3RlYmg3STZEb2ctczJsZ09GRlZR?oc=5",
+      "snippet": "Lawyer for Umar Zameer slams ‘chilling’ attack on judiciary after OPP report clears officers &nbsp;&nbsp; CTV News Zameer lawyer blasts OPP, Toronto chief over ‘secretive’ report &",
       "pub": "Thu, 19 Mar 2026 15:33:01 GMT",
       "image": ""
     },
