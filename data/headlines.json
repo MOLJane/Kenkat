@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-03-20T08:01:02.474664+00:00",
+  "generated_at": "2026-03-20T09:03:51.562898+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "RNC Called to ‘Indecent Act’ at Metro Hospital",
+      "link": "https://vocm.com/2026/03/20/rnc-called-to-indecent-act-at-metro-hospital/",
+      "snippet": "A man has been charged after reports of an indecent act at the hospital last evening. Officers got word of the incident around 7:45 and spoke with sev...",
+      "pub": "Fri, 20 Mar 2026 08:41:29 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-3.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Fuel Prices on the Rise in PUB’s Regular Adjustment",
+      "link": "https://vocm.com/2026/03/20/294696/",
+      "snippet": "The price of gas continues to rise, edging even closer to the $2 dollar a litre mark. The regulated price of gas rose by 6.3 cents a litre last night....",
+      "pub": "Fri, 20 Mar 2026 08:31:32 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/03/generic-esso-gas-pump-fuel-prices-pub-6.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Tension Rises in the Gulf as Major Iranian Gas Site Sustains Damage",
+      "link": "https://vocm.com/2026/03/20/tension-rises-in-the-gulf-as-major-iranian-gas-site-sustains-damage/",
+      "snippet": "A strike on Iran's South Pars gas field has added a new layer of risk to the conflict in the Middle East, with early reports describing it as a rare h...",
+      "pub": "Fri, 20 Mar 2026 07:56:12 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/03/419199258.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "March 20, 2026 – Are you confident the current government will be able to address the need for public housing in the province?",
+      "link": "https://vocm.com/2026/03/20/march-20-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12685').",
+      "pub": "Fri, 20 Mar 2026 08:00:51 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/05/newfoundland-and-labrador-nl-housing.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Corner Brook RNC Search for Two Wanted Men",
@@ -35,36 +67,12 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/06/canada-flag.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Transportation Minister asks Staff to Draft Land Disposition Policy",
-      "link": "https://vocm.com/2026/03/19/transportation-minister-asks-staff-to-draft-land-disposition-policy/",
-      "snippet": "The Minister of Transportation and Infrastructure has instructed staff to draft a new policy on so-called surplus land to prevent a situation like the...",
-      "pub": "Thu, 19 Mar 2026 15:08:25 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/03/pc-health-critic-barry-petten.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Health Authority Reporting Increase in Exercise-Induced Illness",
-      "link": "https://vocm.com/2026/03/19/health-authority/",
-      "snippet": "Newfoundland and Labrador Health Services is reporting an increase in cases of exercise-induced illness. Rhabdomyolysis, or rhabdo, is caused by inten...",
-      "pub": "Thu, 19 Mar 2026 14:41:18 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/11/wellness-self-care-health-exercise-running-yoga-mat.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Provincial Government to Build Replacement for Cabot Academy",
-      "link": "https://vocm.com/2026/03/19/provincial-government-to-build-replacement-for-cabot-academy/",
-      "snippet": "The provincial government will build a new school on the Conception Bay north shore to replace Cabot Academy in Western Bay. The school was destroyed ...",
-      "pub": "Thu, 19 Mar 2026 14:11:53 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/cabot-academy-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Minister Responsible Says Repairing and Building NL Housing Units a Top Priority",
-      "link": "https://vocm.com/2026/03/19/294653/",
-      "snippet": "The minister responsible for NL Housing says repairing public rental units is a \"top priority.\" Joedy Wall was responding to AG Denise Hanrahan's repo...",
-      "pub": "Thu, 19 Mar 2026 13:19:34 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/minister-joedy-wall-march-18-2026.jpg"
+      "source": "Google News Canada",
+      "title": "State of emergency declared for part of Fraser Valley - CityNews Vancouver",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGN1UDZwa1NaWDVZNlk2M0FyemhKY1c4bTdXY3lsVWFIaVJZckN4cG1fRDNlQlBpSVZLRUdMLWI1WUttdGwwT0pwTVUtZ2FqZHlsYzgyZTh3YzdRLWk3cllwR0ttNHM0eE84T2U1MDRmamNJWUVCajc1WFRubGg4VnltNW5NNmZUek91UHZpY3VSMGU3ZWptYjViUQ?oc=5",
+      "snippet": "State of emergency declared for part of Fraser Valley &nbsp;&nbsp; CityNews Vancouver Wind, rain warnings for southern B.C. highways &nbsp;&nbsp; Castanet Evacuation alerts issued ",
+      "pub": "Thu, 19 Mar 2026 23:27:32 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -76,26 +84,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "State of emergency declared for part of Fraser Valley - CityNews Vancouver",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGN1UDZwa1NaWDVZNlk2M0FyemhKY1c4bTdXY3lsVWFIaVJZckN4cG1fRDNlQlBpSVZLRUdMLWI1WUttdGwwT0pwTVUtZ2FqZHlsYzgyZTh3YzdRLWk3cllwR0ttNHM0eE84T2U1MDRmamNJWUVCajc1WFRubGg4VnltNW5NNmZUek91UHZpY3VSMGU3ZWptYjViUQ?oc=5",
-      "snippet": "State of emergency declared for part of Fraser Valley &nbsp;&nbsp; CityNews Vancouver Wind, rain warnings for southern B.C. highways &nbsp;&nbsp; Castanet Evacuation alerts issued ",
-      "pub": "Thu, 19 Mar 2026 23:27:32 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Iran attack wipes out 17% of Qatar’s LNG capacity for up to five years, QatarEnergy CEO says - BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY0I4ZEpDNXFha0hCNm1wZHM0Y0k2blpDWTJ5VEdmdHdXSUNBbzBRM01fd0t2elU3MjVlX2t0NnphR3RQZ1BaZlJIRTAtZHJvaUcwVnV4emFyR3JvQjZNNFdSRnVzanViUjRUZmcxWW5maTBoaUowQWV0RFk5SWVRbEhaWW1YcV81QVR0eS1vQ1dQRHJ4dEx3OW5uWEt1WWNiVnA1Mm1saVhRN0ZySmR0TlBlcmMwWUhrYmtsckYtVTJVem5qSDJPdlRjUjJ2d1JDREdSWg?oc=5",
-      "snippet": "Iran attack wipes out 17% of Qatar’s LNG capacity for up to five years, QatarEnergy CEO says &nbsp;&nbsp; BNN Bloomberg Netanyahu agrees to 'hold off' attacks on Iranian gas fields",
+      "snippet": "Iran attack wipes out 17% of Qatar’s LNG capacity for up to five years, QatarEnergy CEO says &nbsp;&nbsp; BNN Bloomberg Trump threatens to ‘massively blow up’ world’s largest natur",
       "pub": "Thu, 19 Mar 2026 14:08:34 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta’s Smith says she wasn’t contacted by RCMP amid searches in contract probe - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSUpYYXlnUDE4dHJaOV9fdG1oUjR3Y3hrbk1sMTJLb1FaZGxkRXB4Nl9POVVhallwaXUzSDU5TTlRLWVWaTlFbXVTWFZZZ1ItOFF6UXUxUHFIajJQeERWUTE1WE11V3BQS19QU2tVT2MyX2M3UnA4Nko5U3lkMDdJUko5S3ktT0FWdHhCLTBheklZbVQtVGVzUzNrNFppbG5FbzluTWVJbDJMMDVueGlxUGxIMmcwX05LSzJFbHRlYUJmekFTd2VJbDRwOE5KdThWbmVyRW0tNkU?oc=5",
-      "snippet": "Alberta’s Smith says she wasn’t contacted by RCMP amid searches in contract probe &nbsp;&nbsp; CTV News Accounting firm owned by Smith government appointee searched by RCMP &nbsp;&",
-      "pub": "Thu, 19 Mar 2026 23:56:14 GMT",
+      "title": "RCMP visit Edmonton offices of business at centre of Alberta health procurement probes - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWll2OVJvNkVpVHgxQkVoZU40YUJJT2xSa3BmU19sZDlIam1TNmIwa2haaU9kNl9wclNFZzVSWkZodksxdGVSZGlyNlVqV0VvdWd5SmhGT19PMFFRM3ItX0k4YV9qNndIeEl3dzJrVmlMajVjYUhXZzRhckhQYUdlejdLc2RUeU1pZFY4d2xucFM1WDhWN2lWakc1YU9IbE4yTkpZWVdhdGZyc2ZQN0NWWExOWVZlbFdMT25j?oc=5",
+      "snippet": "RCMP visit Edmonton offices of business at centre of Alberta health procurement probes &nbsp;&nbsp; CBC Accounting firm owned by Smith government appointee searched by RCMP &nbsp;&",
+      "pub": "Fri, 20 Mar 2026 00:41:00 GMT",
       "image": ""
     },
     {
@@ -110,7 +110,7 @@
       "source": "Google News Canada",
       "title": "Here are a few things in the Quebec budget that could help your wallet - CTV News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmh1NVkyU0ZucHdaV3EwQzVWeFRrZ3FTSmRoa0g3RDRqa2NEOEdzOVZseWxMVWhiS2toQW5CSVBZX3ExcVFsNTRUMHE0WGZ2Zkxpa3VWLWs5alB6eHBHaFRiUHg1WHRvQ3k5Y0VqOFVaNTFtQ1hhTmRlaVR4YXR3VEg4cFhlam5wX3c5eHJCTWtGOFlJY19GYTB2c2wtN00tWS1saEhMd2xIdW1DZ2x6WQ?oc=5",
-      "snippet": "Here are a few things in the Quebec budget that could help your wallet &nbsp;&nbsp; CTV News What's in Quebec's budget for you on housing, cost of living and homelessness &nbsp;&nb",
+      "snippet": "Here are a few things in the Quebec budget that could help your wallet &nbsp;&nbsp; CTV News STM says Montreal Metro needs far more than Quebec is offering to keep wheels turning &",
       "pub": "Thu, 19 Mar 2026 16:29:46 GMT",
       "image": ""
     },
