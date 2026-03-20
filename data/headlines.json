@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-20T13:56:10.235209+00:00",
+  "generated_at": "2026-03-20T14:39:47.033306+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "24-Year-Old Dead Following Single-Vehicle Crash Near Purcell’s Harbour",
+      "link": "https://vocm.com/2026/03/20/fatal-crash-purcells-harbour/",
+      "snippet": "A 24-year-old is dead following a single-vehicle crash near Purcell's Harbour yesterday. The RCMP say the crash happened along the Road to the Isles a...",
+      "pub": "Fri, 20 Mar 2026 14:33:24 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-1.png"
+    },
     {
       "source": "VOCM",
       "title": "Doctor Suggests Proper Rest and Hydration to Help Prevent Exercise-Induced Illness",
@@ -59,19 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/pal-aerospace-department-of-fisheries-and-oceans-airplane-dash-8.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "CBN Residents Relieved to Hear Cabot Academy Will be Rebuilt",
-      "link": "https://vocm.com/2026/03/20/cbn-residents/",
-      "snippet": "Residents of the Conception Bay north shore are responding with excitement and relief to news that Cabot Academy - destroyed in last year's wildfires ...",
-      "pub": "Fri, 20 Mar 2026 08:58:43 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/08/cabot-academy-destroyed-conception-bay-north-fires.jpg"
+      "source": "Google News Canada",
+      "title": "Iran War Live Updates: Iran Says Strikes Have Failed to Halt Its Weapons Production - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjR1NEbzlmRFJrYllYNnN5Sk9WZ3Jsb0xKOXV3RGk3elJvR2RCNllFVUdYOWtHVkZKQmFWX2trMUFrdjg2MXdtakdvcjA1dU5rR2gyV2JFQV9BRkIzazhBdUlzZ3I2MXRFdDBydFdaMFhlUQ?oc=5",
+      "snippet": "Iran War Live Updates: Iran Says Strikes Have Failed to Halt Its Weapons Production &nbsp;&nbsp; WSJ US Israel Iran War News Live Updates: Israel hits govt facilities in Tehran; Ir",
+      "pub": "Fri, 20 Mar 2026 13:52:06 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Iran attack wipes out 17% of Qatar’s LNG capacity for up to five years, QatarEnergy CEO says - BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY0I4ZEpDNXFha0hCNm1wZHM0Y0k2blpDWTJ5VEdmdHdXSUNBbzBRM01fd0t2elU3MjVlX2t0NnphR3RQZ1BaZlJIRTAtZHJvaUcwVnV4emFyR3JvQjZNNFdSRnVzanViUjRUZmcxWW5maTBoaUowQWV0RFk5SWVRbEhaWW1YcV81QVR0eS1vQ1dQRHJ4dEx3OW5uWEt1WWNiVnA1Mm1saVhRN0ZySmR0TlBlcmMwWUhrYmtsckYtVTJVem5qSDJPdlRjUjJ2d1JDREdSWg?oc=5",
-      "snippet": "Iran attack wipes out 17% of Qatar’s LNG capacity for up to five years, QatarEnergy CEO says &nbsp;&nbsp; BNN Bloomberg Are US and Israel in lockstep in Iran war? Deciphering Trump",
+      "snippet": "Iran attack wipes out 17% of Qatar’s LNG capacity for up to five years, QatarEnergy CEO says &nbsp;&nbsp; BNN Bloomberg Trump threatens to ‘massively blow up’ world’s largest natur",
       "pub": "Thu, 19 Mar 2026 14:08:34 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "State of emergency declared for part of Fraser Valley - CityNews Vancouver",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGN1UDZwa1NaWDVZNlk2M0FyemhKY1c4bTdXY3lsVWFIaVJZckN4cG1fRDNlQlBpSVZLRUdMLWI1WUttdGwwT0pwTVUtZ2FqZHlsYzgyZTh3YzdRLWk3cllwR0ttNHM0eE84T2U1MDRmamNJWUVCajc1WFRubGg4VnltNW5NNmZUek91UHZpY3VSMGU3ZWptYjViUQ?oc=5",
+      "snippet": "State of emergency declared for part of Fraser Valley &nbsp;&nbsp; CityNews Vancouver Fraser Valley under evacuation, flood watch as heavy rain hits B.C. &nbsp;&nbsp; The Globe and",
+      "pub": "Thu, 19 Mar 2026 23:27:32 GMT",
       "image": ""
     },
     {
@@ -84,34 +100,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta’s Smith says she wasn’t contacted by RCMP amid searches in contract probe - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSUpYYXlnUDE4dHJaOV9fdG1oUjR3Y3hrbk1sMTJLb1FaZGxkRXB4Nl9POVVhallwaXUzSDU5TTlRLWVWaTlFbXVTWFZZZ1ItOFF6UXUxUHFIajJQeERWUTE1WE11V3BQS19QU2tVT2MyX2M3UnA4Nko5U3lkMDdJUko5S3ktT0FWdHhCLTBheklZbVQtVGVzUzNrNFppbG5FbzluTWVJbDJMMDVueGlxUGxIMmcwX05LSzJFbHRlYUJmekFTd2VJbDRwOE5KdThWbmVyRW0tNkU?oc=5",
-      "snippet": "Alberta’s Smith says she wasn’t contacted by RCMP amid searches in contract probe &nbsp;&nbsp; CTV News Accounting firm owned by Smith government appointee searched by RCMP &nbsp;&",
-      "pub": "Thu, 19 Mar 2026 23:56:14 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "From oil and tariffs to kettlebells: Five highlights from Pierre Poilievre on Joe Rogan - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUVowQy1vbmd5WVRVS3Q0bUlTa2MxckwzbWxYSmRHWmcwdTNQOGZsUWg3MzJlY3ZtS192RzExVzlBSm43TVphTUZOWTZqc3o2OW9HUVRtUDZ4YXJfWXR3TWowT05VMExZR2tOd2tnamdxbk9NYkVxOXBka0VXbjlqV2gtbElBczFwUmpRc0dpc1dBYTE1aWtrQjVkbG0xWWpRWlVQM1pWS2ZVTVVCbWV3U05SRkFSb1NMUkRIbHMzWWlHYkZUdGNoTlRhUzdmaEJ1RFpqSE00UENoZTRmZUNjWng3Z3BjREFpbjNuYXVhSllXcWpORVRHQUpQZDRPWTNCNXBiQ3Q5ZU8?oc=5",
-      "snippet": "From oil and tariffs to kettlebells: Five highlights from Pierre Poilievre on Joe Rogan &nbsp;&nbsp; Toronto Star 7 key takeaways from Poilievre's Joe Rogan interview &nbsp;&nbsp; ",
-      "pub": "Thu, 19 Mar 2026 22:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada in push for joint G7 and Middle East effort to de-escalate Iran war - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2lwVUN2ZlpnaDVHQmZ1aklLb2xTalJDdE5Ua2EtRTNjZl92bzZLVHA3bUJ3SGVXN0dkbWdEWmZpWGxpYmJEeHVVWU9WVm15NEN6YnhJN2tPQU5nNjNvWHhKREtIZzZiSTFvdVFuSVdGYWdPYXI4N21oeUxkck9LQ3AzdzlLRF9MdkZGM0hGdG9PRTBNbk9JeG1sR2FrVnBRY2UyVzBWYmZrTWlwTlVEUHdFelBreWFtWTRfMlpSbw?oc=5",
-      "snippet": "Canada in push for joint G7 and Middle East effort to de-escalate Iran war &nbsp;&nbsp; The Guardian Canada, allies say they're ready to help secure Strait of Hormuz, but don't say",
-      "pub": "Thu, 19 Mar 2026 17:23:00 GMT",
+      "title": "Here are a few things in the Quebec budget that could help your wallet - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmh1NVkyU0ZucHdaV3EwQzVWeFRrZ3FTSmRoa0g3RDRqa2NEOEdzOVZseWxMVWhiS2toQW5CSVBZX3ExcVFsNTRUMHE0WGZ2Zkxpa3VWLWs5alB6eHBHaFRiUHg1WHRvQ3k5Y0VqOFVaNTFtQ1hhTmRlaVR4YXR3VEg4cFhlam5wX3c5eHJCTWtGOFlJY19GYTB2c2wtN00tWS1saEhMd2xIdW1DZ2x6WQ?oc=5",
+      "snippet": "Here are a few things in the Quebec budget that could help your wallet &nbsp;&nbsp; CTV News No big-ticket items, lower deficit in Quebec's modest pre-election budget &nbsp;&nbsp; ",
+      "pub": "Thu, 19 Mar 2026 16:29:46 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "US East Asian allies in legal quandary as Trump seeks help in the Middle East - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ292b2VZU1lxTGNnYVh3RTRjYk94dUxEZ2Y3bmdQM1Q2MGdDNWJZTnlVWGs3SEVCTHkwemV3NndfcGN1dmoxTFNqT2RVdnNPb0w4XzlKczhQMjBQejJob1JLWlgyQVZENGhlTElSQWJSWVRXVlUtSVpKdXJIbkxzMlpaTTgtNFNLWXg1Tk1TZk9jR25hVFNPdEFyZkNiV2lyZWU5MV82Um5TUXYzUkkwd3hzZ1NhXzdUSkHSAb8BQVVfeXFMUEozaURpSnc5Q1ktYXVJSktneFdtS3ZXSWJfZW12YzVlcDF4NmdYSGVjRHpZdGdubnVFTG5TOHVUVFRMeWZscTluenBSdFhFOWd3M2N6dlBwbUxnanpsLV9qeldlRFBMVXRmcl9OTDhZb0pyd05jSVdvaE5JMld4eXA0S0FXcFRXT3Z5Wk5XSFhVTGU4Mm5SUzRRM0VVdkhTS0JVRmp6NHJEUU9MY0JnU1ZoTEtwUXlOQjhGR3RqSmc?oc=5",
-      "snippet": "US East Asian allies in legal quandary as Trump seeks help in the Middle East &nbsp;&nbsp; Al Jazeera President Trump's Pearl Harbor remark overshadows Japan PM visit &nbsp;&nbsp; ",
+      "snippet": "US East Asian allies in legal quandary as Trump seeks help in the Middle East &nbsp;&nbsp; Al Jazeera Trump mocks Japan about Pearl Harbor in response to question about Iran war &n",
       "pub": "Thu, 19 Mar 2026 09:13:59 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Doug Ford wants to outlaw resale tickets that cost more than the original price - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdGowcy1FMThtdmIyZHA3bHhEbGNuVWhsZGt0TldUNWdlSkdDU00xX2hac1lFQm11emxyN2J4X1c1ZURpcmt0UDBTZE1FYVJaT2M4d054dHFkSzVGTTF2ZzdMU20zcVhWc3hoUkhCTzlhZmpaN0RPWC1mNTFnZ0p5TzRKWE9DR0NqMXNPUkNaYzA0d0U1MzBnakJucmpoRFZQY1ZOZm0tREpJTzlTdWZiZzR0STNqdmpRUjJKbnFqVHA2ckU2LXlDTldTZXlUaWtaTlN6M1VLMWxIcTRTZmhFbEItODNJLTdoNjlfVTQxU2kyOUN0ZUw5VVhaUi13dm9EcTE0?oc=5",
+      "snippet": "Doug Ford wants to outlaw resale tickets that cost more than the original price &nbsp;&nbsp; Toronto Star Ontario proposing cap on ticket resale prices at original value &nbsp;&nbs",
+      "pub": "Fri, 20 Mar 2026 10:00:00 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDkwaTFJZDVWTm14Ty1zM0tXZlhESE9jVzdfeEM3NHZwZVJITE1VXzU1QmRIU3RfNTA3SFpCRVNVcERDWjZmLVVBRHJPSER3Q2xmV25QOU0tMk94RFI0Y2pKY0hma1J1WmFOWF9LLVN2MFQ1RW5VU0RoNFlwUlJ5Xw?oc=5",
       "snippet": "Federal Minister Hints at Future Defence Announcements in NL &nbsp;&nbsp; VOCM 5 N.L. companies to get a share of $16M in federal loans for defence projects &nbsp;&nbsp; CBC Five l",
       "pub": "Fri, 20 Mar 2026 09:32:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "‘It makes you think about how quickly life can change’: Musician taken to hospital after Moncton assault - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQjRyckN2UU1lS1pMbV9JY3RBZHJSRUgwbVNBRzhORFk3RmZNZUVOa0ZySjFBeW1vUlpIVGEyNWp6M3RmcXpvbG1RWGdHVWlFN2xiNm0zUW5QMmhRUmVvRkliRDdkYjczTUVzdWxMOVFla2REcFpkMkZ6WWlyV1NKa0NEV21JZS1Sd29ZaldoMDBYMWpKX2E0eTc0SUMtUS1MNmFJM29XYmtDd0Q2U2s4M2taS2JVOXZWNEJDaG52aFIzNWpIdmVQbEV1T3Bkc3YtSWcydE1rdG5lNFFWVGUtTk5SOUEtNXlTamhuQQ?oc=5",
-      "snippet": "‘It makes you think about how quickly life can change’: Musician taken to hospital after Moncton assault &nbsp;&nbsp; CTV News RCMP make arrest made in ‘devastating’ attack on New ",
-      "pub": "Thu, 19 Mar 2026 20:05:26 GMT",
       "image": ""
     }
   ],
