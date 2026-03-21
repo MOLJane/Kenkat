@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-21T12:30:37.398974+00:00",
+  "generated_at": "2026-03-21T13:36:42.210271+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "MUN’s First Biomedical Engineering Team Wins National Competition",
+      "link": "https://vocm.com/2026/03/21/muns-first-biomedical-engineering-team-wins-national-competition/",
+      "snippet": "Memorial University's very first biomedical engineering design team came out on top at the True North Biomedical Competition at Western University in ...",
+      "pub": "Sat, 21 Mar 2026 13:18:20 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/mun-robotics.jpg"
+    },
     {
       "source": "VOCM",
       "title": "RNC Partners with Pharmacy Students for Safe Drug Disposal Initiative",
@@ -59,14 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/11/gas-pump.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "March 21, 2026 – Should the province develop and implement continuum of care legislation, as suggested by the Seniors’ Advocate?",
-      "link": "https://vocm.com/2026/03/21/march-21-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12688').",
-      "pub": "Sat, 21 Mar 2026 08:30:49 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/12/susan-walsh-seniors-advocate.png"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump: U.S. could end Iran military operations 'right now' but will continue so Iran can 'never rebuild' - CNBC",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZ0Q5RU5mV3pHNS1aOTM1WWxYVUh0Z3dIODhLeDQ2Skw0NUtmRjJuamNFT2J1MVVoYzNrb1hyOVBFMkg2RkgxOGRwbF9EdHBLOUxiamVLcExBa2dNUDI1RkRaeXh6dUJxU3hLV3l6ZDNVbnZH0gF6QVVfeXFMUDNvNmkyYUl3TEFQM2ZfY3N4MTkzcXFGRnRJZ21kR1pXS3lDUG9PNExhdWQ4a09UM2ZNVlRnTFVwa2YtZC00MVgzUks5M2ZwdlN4QjJYUXYyaWdIRk5fWThmX0ZwRGtEMEM5WVVEZE5URHRUcHR3TzZ1OWc?oc=5",
@@ -84,10 +84,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Canada, NATO allies pull military mission from Iraq after Iran attacks - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPelBuZExMY2NrMXJmZ3k2QXJhcDI0Qk1fNGRKSVdxSlNOOFdyaHZRclBLRWVKaEptRUlYdk9wTFZ2UFFqdkpWNi1HQXBBYW9tRTlHbS1mM3BXQU9tQl9yTWJBMlhkQW5UUkFNV0p5RXZYMnQydFE0elVDMG9pZGxQcGtB?oc=5",
-      "snippet": "Canada, NATO allies pull military mission from Iraq after Iran attacks &nbsp;&nbsp; Global News Canadian Armed Forces members among NATO troops pulled out of Iraq &nbsp;&nbsp; CBC ",
-      "pub": "Fri, 20 Mar 2026 22:43:09 GMT",
+      "title": "Report: Iran fires missiles toward Diego Garcia in rare long-range strike - ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4VXZ3em1zT1FjSklSMG5aNkxGRXJXYjRrSmZFVnFoNHViWXp5aUwwZWpGVDFyc2pwaG1Wam5lR0dSZ2gwQXZobVNxbU1zcXdXa1IxTHpB?oc=5",
+      "snippet": "Report: Iran fires missiles toward Diego Garcia in rare long-range strike &nbsp;&nbsp; ynetnews Middle East war live: Iran fires missiles at UK’s Diego Garcia base &nbsp;&nbsp; Fin",
+      "pub": "Sat, 21 Mar 2026 00:41:20 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "2 men deported from Canada in extortion investigation got a ‘get out of jail free’ card: lawyer - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa2wzSkFSSE1vdkZRd085UHktN2FENDQ2WHNGY0habkRXQ3hucVpXU0RpMC1pRlNEX1FMZWhDODRrVTdRSm93ek5SMlVNRkt6YW4tLUxzUUp4OHhsYnJtRFdJWm1FY3R2Yjk1VUc1WWozaVhkMGxBN0RGUTVzTHl2UUgyNDlvdmhaU2RTMVRERHRKOFZzVUVGNXVROHRqazFRNmZHYmZkZW1LZ2tEQ0tGR0hPSVVDQ1UyRndSM2VWVVQzb0tCQWE1cGRkNzFSQQ?oc=5",
+      "snippet": "2 men deported from Canada in extortion investigation got a ‘get out of jail free’ card: lawyer &nbsp;&nbsp; CTV News Deportation of extortion suspects welcome news to Alberta’s So",
+      "pub": "Fri, 20 Mar 2026 21:23:11 GMT",
       "image": ""
     },
     {
@@ -100,34 +108,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Canada, Japan, European allies willing to use ‘appropriate efforts’ to reopen Strait of Hormuz - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUpvY1pKRVh0eDg0RmVNbjloNlVnTGk2TW4yU0pDdm1NenJ6N3hUU3lHa0NUaDRvSk5Jbk80dDFheHBuYW5UUEZEcWhRMmlHZVhQV1ZJc0tGN3l4NW9kdkVCanJDNWRRUkNzeGpoSXlpYU45YXdmejhLZ2FrRWVqcFc0RkNFMVJ3VHBDbG51WGpKUVpMZXpGS0czbVM2dHhqMVR4WnBQbWtWNklQM25qVlk2RQ?oc=5",
-      "snippet": "Canada, Japan, European allies willing to use ‘appropriate efforts’ to reopen Strait of Hormuz &nbsp;&nbsp; The Globe and Mail Anand states any role in Iran war must fit ‘legal and",
-      "pub": "Thu, 19 Mar 2026 20:57:18 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Over 5,500 told to evacuate flooding in Hawaii as officials warn 120-year-old dam could fail - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdDdnTGpQaHFZSlpYVWJLeWJnNWp2RGhjRnRzMWo5OTd1OERURll2MDl1YUQzWXBYYmN6bHI1U3Bzc1pxejJNa2FTTVk4eXlVNVNqQlczUl9oWDIxTWJHZk54aThmZjM3dDlleXZDb21nQkdBcHIxZWl6U1dENkRtYmtjV2ctUXRtcjBaZktDWkJsX3UzTDJxLVNzeUNKekg5LUhtSENCdkhHSXBqX1QwOXhmQm1VMWkxQTA2dTZmYmowUDZhcXVJeXI1S213SW81aWZ2djRraFlIb2FDZlZVeg?oc=5",
-      "snippet": "Over 5,500 told to evacuate flooding in Hawaii as officials warn 120-year-old dam could fail &nbsp;&nbsp; CTV News Hawaii suffers its worst flooding in 20 years and forecasters war",
-      "pub": "Sat, 21 Mar 2026 01:24:00 GMT",
+      "title": "Canada, NATO allies pull military mission from Iraq after Iran attacks - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPelBuZExMY2NrMXJmZ3k2QXJhcDI0Qk1fNGRKSVdxSlNOOFdyaHZRclBLRWVKaEptRUlYdk9wTFZ2UFFqdkpWNi1HQXBBYW9tRTlHbS1mM3BXQU9tQl9yTWJBMlhkQW5UUkFNV0p5RXZYMnQydFE0elVDMG9pZGxQcGtB?oc=5",
+      "snippet": "Canada, NATO allies pull military mission from Iraq after Iran attacks &nbsp;&nbsp; Global News Canadian Armed Forces members among NATO troops pulled out of Iraq &nbsp;&nbsp; CBC ",
+      "pub": "Fri, 20 Mar 2026 22:43:09 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Farmers outraged over N.B. government’s move to privatize large animal veterinarian service - CTV News",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVJObDMySVR2dzJXbXc3cFBERnhSZkdseWhuMzZieFFoUlliMWE2SWRlRUVwZVA4eXhOYnJPVFdDbkQyVklNU2pWVVFKWk4xWHBSOTU3SDhoQkdiYUJEYWNpVm5EWTJCODNyY2g3SG5jUllBRWQ2Vnl0N0VLcHZvd2ItMXo3c0d1eTJwYktkUG82N09NZWRWUG81bW9hOXYzU3l5SDdacDFUSXFYeEhIS0dRREJ5dU9OS25sZ0p5ZkczZWJVdHc?oc=5",
-      "snippet": "Farmers outraged over N.B. government’s move to privatize large animal veterinarian service &nbsp;&nbsp; CTV News Cattle producers push back as N.B. moves to end provincially run v",
+      "snippet": "Farmers outraged over N.B. government’s move to privatize large animal veterinarian service &nbsp;&nbsp; CTV News Farmers outraged as N.B. moves to privatize large-animal vet servi",
       "pub": "Sat, 21 Mar 2026 09:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Additional six-kilometre stretch of Highway 2 North to be twinned: Provincial budget - paNOW",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmhDZ3pONkpkbVNVc1ZZTklfM1piOFhPMVNta2xGczc1WlRaZDFIcjY0cVVYNk9ta1NXVkd6blQ1WFl0ZEZUOG5MM2lHRFVPeEVFaWN6NkdfcDBlb3o0YnBiV0s5eWJoWWtSMUxjUE8wTVZHNUZsUjlhVXpaSDFUVWFhUkFSZzVsaVBGTnZrbEhwSE9jTnprU1F1aHdrRVR1MWZsdFRTY0J6akJIeGtKUEt0cw?oc=5",
-      "snippet": "Additional six-kilometre stretch of Highway 2 North to be twinned: Provincial budget &nbsp;&nbsp; paNOW Wildfire funding not sufficient in Saskatchewan budget, says fire chief &nbs",
-      "pub": "Thu, 19 Mar 2026 19:51:24 GMT",
+      "title": "How is Ontario’s ticket resale crackdown being received? Fans and insiders sound off - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcm9zcVl4NERXWEc1c1lQb1g2dlAxOExSODRBR2JqdmhCcUxUVFpPTkJLV3E0UVhXM1B3WU9tVmNHRzlod1ZrXzBGV1RCc2FFVWRxSXR0ODBlbExjRGpxS1BPb0pHT05kMTZDbzdPOFpXNFNmQ0dzUGdxWnFtZEd5Qkxpa3VZaGJJVmdB?oc=5",
+      "snippet": "How is Ontario’s ticket resale crackdown being received? Fans and insiders sound off &nbsp;&nbsp; CBC Doug Ford’s crackdown on ticket scalpers draws warnings it could push prices h",
+      "pub": "Sat, 21 Mar 2026 09:00:00 GMT",
       "image": ""
     }
   ],
