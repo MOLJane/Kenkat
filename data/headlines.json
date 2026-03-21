@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-21T10:50:27.025012+00:00",
+  "generated_at": "2026-03-21T11:16:43.405493+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Double Escape Attempt Fails as ATV Rider Caught in CBS",
+      "link": "https://vocm.com/2026/03/21/294794/",
+      "snippet": "A man who was operating his all terrain vehicle on the main highway through Conception Bay South gave police a run for their money overnight, but RNC ...",
+      "pub": "Sat, 21 Mar 2026 11:10:18 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/03/rnc-royal-newfoundland-constabulary-salt.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Scholarships Mark Centennial of Women’s Right to Vote in NL",
+      "link": "https://vocm.com/2026/03/21/294799/",
+      "snippet": "The provincial government has announced the recipients of a scholarship program to commemorate the 100th anniversary of women achieving the right to v...",
+      "pub": "Sat, 21 Mar 2026 11:03:33 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/womens-scholarships.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Crown Prosecutor Drawing Attention to ‘Troubling Trend’ of Violence Against Grandparents",
@@ -51,22 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/03/325973982.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "RNC Seek Help in Hit and Run Investigation",
-      "link": "https://vocm.com/2026/03/20/rnc-seek-help-in-identifying-hit-and-run-suspects/",
-      "snippet": "The RNC is hoping the public will be able to help them in identifying and locating two people involved in a recent hit and run in the capital city. RN...",
-      "pub": "Fri, 20 Mar 2026 19:29:25 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/02/rnc-royal-newfoundland-constabulary-hq-6.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "CHMR Manager ‘Blindsided’ by MUNSU’s Plans to Cut Funding",
-      "link": "https://vocm.com/2026/03/20/chmr-manager-blindsided-by-munsus-plans-to-cut-funding/",
-      "snippet": "Memorial University's Students' Union is considering shutting down a long-time staple that has developed the careers of countless broadcasters and jou...",
-      "pub": "Fri, 20 Mar 2026 19:24:23 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/935-chmr-fm-recording-studio.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump: U.S. could end Iran military operations 'right now' but will continue so Iran can 'never rebuild' - CNBC",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZ0Q5RU5mV3pHNS1aOTM1WWxYVUh0Z3dIODhLeDQ2Skw0NUtmRjJuamNFT2J1MVVoYzNrb1hyOVBFMkg2RkgxOGRwbF9EdHBLOUxiamVLcExBa2dNUDI1RkRaeXh6dUJxU3hLV3l6ZDNVbnZH0gF6QVVfeXFMUDNvNmkyYUl3TEFQM2ZfY3N4MTkzcXFGRnRJZ21kR1pXS3lDUG9PNExhdWQ4a09UM2ZNVlRnTFVwa2YtZC00MVgzUks5M2ZwdlN4QjJYUXYyaWdIRk5fWThmX0ZwRGtEMEM5WVVEZE5URHRUcHR3TzZ1OWc?oc=5",
@@ -92,6 +92,14 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Canada, Japan, European allies willing to use ‘appropriate efforts’ to reopen Strait of Hormuz - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUpvY1pKRVh0eDg0RmVNbjloNlVnTGk2TW4yU0pDdm1NenJ6N3hUU3lHa0NUaDRvSk5Jbk80dDFheHBuYW5UUEZEcWhRMmlHZVhQV1ZJc0tGN3l4NW9kdkVCanJDNWRRUkNzeGpoSXlpYU45YXdmejhLZ2FrRWVqcFc0RkNFMVJ3VHBDbG51WGpKUVpMZXpGS0czbVM2dHhqMVR4WnBQbWtWNklQM25qVlk2RQ?oc=5",
+      "snippet": "Canada, Japan, European allies willing to use ‘appropriate efforts’ to reopen Strait of Hormuz &nbsp;&nbsp; The Globe and Mail Anand states any role in Iran war must fit ‘legal and",
+      "pub": "Thu, 19 Mar 2026 20:57:18 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Over 5,500 told to evacuate flooding in Hawaii as officials warn 120-year-old dam could fail - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdDdnTGpQaHFZSlpYVWJLeWJnNWp2RGhjRnRzMWo5OTd1OERURll2MDl1YUQzWXBYYmN6bHI1U3Bzc1pxejJNa2FTTVk4eXlVNVNqQlczUl9oWDIxTWJHZk54aThmZjM3dDlleXZDb21nQkdBcHIxZWl6U1dENkRtYmtjV2ctUXRtcjBaZktDWkJsX3UzTDJxLVNzeUNKekg5LUhtSENCdkhHSXBqX1QwOXhmQm1VMWkxQTA2dTZmYmowUDZhcXVJeXI1S213SW81aWZ2djRraFlIb2FDZlZVeg?oc=5",
       "snippet": "Over 5,500 told to evacuate flooding in Hawaii as officials warn 120-year-old dam could fail &nbsp;&nbsp; CTV News Flash flood emergencies hit Hawaii as heavy rain returns &nbsp;&n",
@@ -108,26 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Olivia Chow wants to ban ICE agents during FIFA World Cup in Toronto - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNenBFcTR0elVzSjhTN1V4UGpRbi1vVGNjRmRBMEtwUUstVWtwQ2U1UnBoNGVQT1VCWmNSaWpYTFZySzZPbHZ2a3JCdFROeVJlenRnSGlsY3dwVllEVnJHRll3dDlQbWQtSVZnRnl1NmNzalJiaEtITFV3NnBfR0hzTmRLUDR6VHNZem5MdjI4YVhERkp4UkxXdWhvcDl2UWF6ejFuV2VSVzZ5Smd0YURnaGhPdFk4MEI3U1RnNkRDZDkzT3NIUV80MjFwZUxkd0hQd2ZDeUlvaWRXdHdpQTB6cDFZblEyVmtFRmw1SDZOOFdDTEtLaXdIVUlpWFROV1Bsano4?oc=5",
-      "snippet": "Olivia Chow wants to ban ICE agents during FIFA World Cup in Toronto &nbsp;&nbsp; Toronto Star As World Cup nears, Toronto mayor moves to block U.S. ICE presence &nbsp;&nbsp; CP24 ",
-      "pub": "Fri, 20 Mar 2026 18:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Alberta government closing Calgary, Lethbridge supervised drug consumption sites - Global News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1RqbTR6UE94WVZBOTY2d3VfWmVuNTN3ZVJoNzdRSDFVd1VGSFhDVVhtZS1aMmxtUmlSQTBxSUswZDV6TnlMLXBycTVnNTBKZXVwa0Q5c1ZWc0E1b3lDX0hyY2g0aW5MVlR6MFp1Z2R3aGRrYmNReVJTcF9zOEg2U2tuRDBmMmZoVExQV0cyY0FPQzBNcF8yNlo4ekFfWldaY0VXRDdlOTU1RXN4?oc=5",
-      "snippet": "Alberta government closing Calgary, Lethbridge supervised drug consumption sites &nbsp;&nbsp; Global News Bell: Farkas, gutless Calgary council did diddly squat to close detested d",
-      "pub": "Fri, 20 Mar 2026 19:43:37 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Additional six-kilometre stretch of Highway 2 North to be twinned: Provincial budget - paNOW",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmhDZ3pONkpkbVNVc1ZZTklfM1piOFhPMVNta2xGczc1WlRaZDFIcjY0cVVYNk9ta1NXVkd6blQ1WFl0ZEZUOG5MM2lHRFVPeEVFaWN6NkdfcDBlb3o0YnBiV0s5eWJoWWtSMUxjUE8wTVZHNUZsUjlhVXpaSDFUVWFhUkFSZzVsaVBGTnZrbEhwSE9jTnprU1F1aHdrRVR1MWZsdFRTY0J6akJIeGtKUEt0cw?oc=5",
       "snippet": "Additional six-kilometre stretch of Highway 2 North to be twinned: Provincial budget &nbsp;&nbsp; paNOW Wildfire funding not sufficient in Saskatchewan budget, says fire chief &nbs",
       "pub": "Thu, 19 Mar 2026 19:51:24 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Drug consumption sites in Calgary, Lethbridge to be shuttered at end of June - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLXJxNlg3NUR3VWpVZ3hPdDJFVmowSVliY2MyeTZZeklCSHh3RzFoRTZ5Z0xXVzcyNlYwQk13eHdiVXRDVWpveWdOYUpyaXhBZmEzLWhnSnViNHU1dEtQZ3I4WWdWcFM1YnFKSEFnd24yVU96SzNqSmJDS1V2c000Tm5VQU9KUkJldE1xOTZMcF8xdGFxUlBLS1NyTkQzSk1jR1poS214R1BJY0NJNlBmXzdLOURUQQ?oc=5",
+      "snippet": "Drug consumption sites in Calgary, Lethbridge to be shuttered at end of June &nbsp;&nbsp; CTV News Alberta government closing Calgary, Lethbridge supervised drug consumption sites ",
+      "pub": "Fri, 20 Mar 2026 19:37:55 GMT",
       "image": ""
     }
   ],
