@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-22T08:25:13.427582+00:00",
+  "generated_at": "2026-03-22T08:56:50.268126+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "March 22, 2026 – Have you filed your taxes yet?",
+      "link": "https://vocm.com/2026/03/22/march-22-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12691').",
+      "pub": "Sun, 22 Mar 2026 08:30:51 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/04/st-johns-tax-centre-cra-canada-revenue-agency.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Real Estate Icon and Public Servant Tom Osborne Sr. Passes Away at 86",
@@ -59,19 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/mun-robotics.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "RNC Partners with Pharmacy Students for Safe Drug Disposal Initiative",
-      "link": "https://vocm.com/2026/03/21/294801/",
-      "snippet": "It's the time of year when people in metro can safely dispose of their unused medications. The RNC are partnering with the MUN School of Pharmacy Satu...",
-      "pub": "Sat, 21 Mar 2026 11:50:14 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/rnc-media-relations-officer-cst-constable-steph-stephanie-myers-2.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Cuba plunged into second nationwide blackout in less than a week - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZzhHT2VDdjhjM1RCek9mWnUyY0MzaXd3YWp0dFAza2tYMTVhV0Y1UExCdklMYWRKTHZuWlJodEZ3c3NJUXZUOXdTUjFfUEtMNFJOczVleHY5QUliQWFmUmNndDlRUzFzRWxYTDFVZ0FWTzVlMi1nbzhXZHpYYXpaUmZUeWlLbzhWdHc?oc=5",
-      "snippet": "Cuba plunged into second nationwide blackout in less than a week &nbsp;&nbsp; CNN Cuba's second power cut in a week leaves 10 million in darkness &nbsp;&nbsp; BBC Cuba’s power grid",
-      "pub": "Sat, 21 Mar 2026 23:13:05 GMT",
+      "title": "Trump Gives Iran 48 Hours on Hormuz, Threatens Power Plants - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnc1ek1IcHJKQWlFclhMalJ4WVJRMW5jWmdLS3ctRUt2NW16eGNTUWlEcUU2NDRVZTJlOU5haERSUXA4YXdfdkw1YmZwWnpWdXhOZVhDSmxIZXBqR1VzUlhRQzlzbkVhd3dXWGNselU5LUVER0J1cGVLVDJoTFF6NjRJcGF5UnQta19Ud3FLbWtKcEl3Uk95Z3l2cGdabjRQUTI3WjEtMUFjc1JmdkVnUnliaVY?oc=5",
+      "snippet": "Trump Gives Iran 48 Hours on Hormuz, Threatens Power Plants &nbsp;&nbsp; Bloomberg.com Trump says US will ‘obliterate’ Iran’s power plants if Strait of Hormuz not open before 48-ho",
+      "pub": "Sun, 22 Mar 2026 04:28:00 GMT",
       "image": ""
     },
     {
@@ -92,14 +92,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "‘Cowards’: Trump slams NATO over lack of support in US–Israel war on Iran - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnQ0UDZwS2cyZlZwNFoyVF8teHlLb0Ywekt0TlQxdnFFeXVDRG44THZJMHltMGFSa3dGV1JVc3Y1SlJVUm4tM25RWVM4SDNmcXByZkZidTkwcmpaZEx1Y2R5NzRXU2lPZnhSQkVYUDhva3Q4X3Myc3p2Tl9PNGdNOHJoa25kQ3NyUlVKSWg0Q2ZZaEN1Mzd1dkFlaXg4cVQ0LVdSeDNTX0JZd9IBrwFBVV95cUxOU3VyWWdnczEwTGhoUkJGU21DNUQzVnlCelhSbV83MlQzR3NzYVlpYTQ5UmRzcXd4VTB1QUtjd1NDUldEVEc3akhFVzBCdDZCS1pqbHROMmFKVnBDOGp3eURMcUxTajNxcFRyNjh6Ynlrd2hRbGQ2cWxNci1wbE53SWI0bkVBYTNPRVRFRm9MODFXNnNCWlUxMVhJLVZ6UzZJcWdTRFVkQVJhME52dlhj?oc=5",
-      "snippet": "‘Cowards’: Trump slams NATO over lack of support in US–Israel war on Iran &nbsp;&nbsp; Al Jazeera Trump says US will ‘obliterate’ Iran’s power plants if Strait of Hormuz not open b",
-      "pub": "Fri, 20 Mar 2026 19:57:26 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Indigenous identity researcher ordered to pay $70,000 in defamation suit - Winnipeg - Global News",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3lHSmdxX1c1TkVTM1Z5Ty0zT01kR3VnMTN6ZVFnNkZBbmtQUnhYQzVBcXo5T3dvUC1SWTBUTUs3ck14Uk1xTnF4U29HZi00RzQzNDlvS0xSUjNENENxWk1vU0d4OXRNVUNQMy1uOHRDdmpUWUtDcHNFN3d1eXZ2UDJFeEh6S1VwY3BR?oc=5",
       "snippet": "Indigenous identity researcher ordered to pay $70,000 in defamation suit - Winnipeg &nbsp;&nbsp; Global News Impacts of Indigenous identity defamation decision open to debate &nbsp",
@@ -108,10 +100,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Former FBI Director Robert Mueller, who investigated Russia-Trump campaign ties, dies - CP24",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdlJacmVWUFZ6TXRCeDI2c292QUs4UW5hNnVPQWUwMVZvTUk3d1lLaXFfV1ZpTEJPd1dpWmNkRC1iYXF2dGRpM1pDanp3SHlQeWFKRThleWtPX0Q2WEJBYWV2UU5Wa1RacjVZSTNzamlBQV9ZOHVaY1BNM1U0RTB1TjRNNHZENlZ1a2xYYVB1UWFZMF9wbWVTeTZkSlVpS1p0b3VkRDdXdlhYWnhURjNnRi1WYnhaZUVackQ3VHpFazkyWTRvSVE?oc=5",
-      "snippet": "Former FBI Director Robert Mueller, who investigated Russia-Trump campaign ties, dies &nbsp;&nbsp; CP24 ‘Good, I’m glad he’s dead’: Trump’s insensitive comments about the dead hit ",
-      "pub": "Sat, 21 Mar 2026 17:35:54 GMT",
+      "title": "Most NDP leadership candidates say they’re in no hurry to become MPs - National - Global News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EZlctWmF1aV9RVmMtZ09vOVh5QjUxR1lrN2Vwc19ZYU5BdzE0RGp5em1Yd1d4THotNlJDVUprXzMxWWEybEFHeTlvU3hjWmhhQzg0elh5TWljSkwzcTlpdUFGRTZZTXR3UGQzYkdOcw?oc=5",
+      "snippet": "Most NDP leadership candidates say they’re in no hurry to become MPs - National &nbsp;&nbsp; Global News The 24 ridings AFN says First Nations voters can decide the election outcom",
+      "pub": "Sat, 21 Mar 2026 13:30:21 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "60-year-old man arrested in connection with Toronto woman's death - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONnh5YXd3OVdiQ0tNbFBvNnY4Qy05UE1MNnd1VmgxOHc4dXRFa3VRRkRqNERzNnVncXJ5ZjVCUWZiUmVXQUtkb1JuUjZGNzctS3JTYmRRY0gyREZOckpMTV9rUXFlX0hqTEg5UzdLWEZyZU9rclB6TXpWY1k3NGpUXzc5WXFzRDNTcHdaTUVsUQ?oc=5",
+      "snippet": "60-year-old man arrested in connection with Toronto woman's death &nbsp;&nbsp; CBC Toronto man charged with murder over death of 60-year-old woman in North York &nbsp;&nbsp; Toront",
+      "pub": "Sat, 21 Mar 2026 14:42:19 GMT",
       "image": ""
     },
     {
