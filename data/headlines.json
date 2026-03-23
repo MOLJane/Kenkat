@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-03-23T12:45:19.709909+00:00",
+  "generated_at": "2026-03-23T14:09:31.328243+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Stephenville Court Closed Today Due to Shortage of Sheriff’s Officers",
+      "link": "https://vocm.com/2026/03/23/294929/",
+      "snippet": "The provincial court in Stephenville is closed to the public today due to a shortage of Sheriff's officers. The court is hoping to resume operations t...",
+      "pub": "Mon, 23 Mar 2026 13:37:03 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/04/stephenville-court.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Corner Brook RNC Arrest One of Two Wanted Suspects, Search Continues for Second Man",
+      "link": "https://vocm.com/2026/03/23/corner-brook-rnc-arrest-one-of-two-suspects-wanted-on-numerous-charges/",
+      "snippet": "The RNC has apprehended one of two men wanted in connection with a recent assault in Corner Brook, but the search continues for the second suspect. Po...",
+      "pub": "Mon, 23 Mar 2026 13:10:47 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/todd-barry-rnc-wanted-man.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "MUN Professor Raises Alarm Over Declining Math Skills in First-Year Students",
+      "link": "https://vocm.com/2026/03/23/294820/",
+      "snippet": "A contractual math professor at Memorial University who teaches first year math says he has noticed falling scores among students, especially since th...",
+      "pub": "Mon, 23 Mar 2026 12:55:52 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/dr-shannon-sullivan-mun-department-of-mathematics-memorial-university.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Is a Tax Hike Justified? Federation Points to High Salaries at City Hall",
@@ -43,91 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/05/newfoundland-and-labrador-nl-housing-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Spring Snow Storm to Dump Upwards of 40 cm on The Avalon",
-      "link": "https://vocm.com/2026/03/23/spring-snow-storm-to-bring-up-to-40-cm-to-metro-region/",
-      "snippet": "It may be spring on the calendar but Old Man Winter isn't done with this province just yet. Environment Canada has issued winter storm warnings for mo...",
-      "pub": "Mon, 23 Mar 2026 08:58:48 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/snow-storm.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Government to Begin Consultations with Early Childhood Educators",
-      "link": "https://vocm.com/2026/03/23/294889/",
-      "snippet": "The provincial government is going to begin consultations with those who work in the childcare system. Education Minister Paul Dinn says he is followi...",
-      "pub": "Mon, 23 Mar 2026 08:41:20 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/07/daycare-stock-3.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Pilots Dead After Air Canada Jazz Plane Collides with Fire Truck at New York’s LaGuardia Airport",
-      "link": "https://vocm.com/2026/03/23/294882/",
-      "snippet": "The pilots of an Air Canada Jazz plane are dead after colliding with a ground vehicle at New York's LaGuardia Airport last night. According to interna...",
-      "pub": "Mon, 23 Mar 2026 08:31:55 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/img-6765.jpeg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Two pilots flying Air Canada jet killed in crash at LaGuardia Airport - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOenBmS0Q2WHl5X2kyQmFfa2IzaUxucTJPamh3Ukk3RUVUU0t4YWdfWkhZLXNlQnhXTXJvN3ZSZ29weXF5MDlPbi1mUkNZUkRZV2UxUUlmZXJhUmVZYmZmOFdpVEY5TjM1MHBjRnBGNHRHZ3J3MURQcDd2aFpJOHk4WWtEUi1RRFo1RmVwOWdBQlo5VWZydkpEdFg0cVVxY09LTWN1dzRnRGZqODFMbFREbzFZbzk5UjlRN0NLN3Z0Ukt4ZjVfQXFwZkEtVTJ4dw?oc=5",
-      "snippet": "Two pilots flying Air Canada jet killed in crash at LaGuardia Airport &nbsp;&nbsp; CTV News Live updates: 2 dead after Air Canada plane, fire truck collide at LaGuardia Airport &nb",
-      "pub": "Mon, 23 Mar 2026 12:06:50 GMT",
+      "title": "'Horrific': Jewish Community Ambulances Torched in Antisemitic Attack in London - Haaretz",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbU4zb2p5RXU4NDJfOUZsbEJnNU9FbllrSHlBTk5WRFdLcktUeWtwdzBVcFhsUF9zQVU4elA1Ry1RbG1SaXA2V1J0MHBzR3ktbHVjRzJRY1dDX2pjR042UUNsM3g0eWRNOXZNSlA5LWRvVDY0MF96WmN5Q29pSms3N2JYZTJyMzRMdFRNVFhzTmZLc3hqR0NrT3pwSzE2UVFGODJyNW9wZWFHejFpdzlwcGpDRl95NHBmOFJRQ1kyZXZTMkVfeU4zYzNXVElMSkhzTy01MllfTlg2M2hhLWVuTC1iSFNXWEdTb0NXb05jOVpsWDlSWDZyXzFxTXQwcjFtOGMtMkxpVmo?oc=5",
+      "snippet": "'Horrific': Jewish Community Ambulances Torched in Antisemitic Attack in London &nbsp;&nbsp; Haaretz Counter-terror police investigating after ‘horrific antisemitic attack’ on Jewi",
+      "pub": "Mon, 23 Mar 2026 08:33:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Iran threatens to cripple Gulf water, energy systems after Trump ultimatum - France 24",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMGN0VEs1UGV4Z1hGYWNUczdjb1hfVzV1dlhRajV4UlBIMXFDWUxsR2JfcmV6SXZBWWFPM1lyRE1BVmd4blMtQmM2RGRPVk5KcUpxWENBb2NFekJQRW1oWWlmLW1HUm12ZzFSNG84TWNMYXRQM3BVMWxkRFZKUlJINE80bmVqekFmd09sbU9rbi1JeW9fRDN0c3Nn?oc=5",
-      "snippet": "Iran threatens to cripple Gulf water, energy systems after Trump ultimatum &nbsp;&nbsp; France 24 Israel launches new wave of attacks on Tehran; Iran threatens to start hitting Gul",
-      "pub": "Sun, 22 Mar 2026 22:57:57 GMT",
+      "title": "Trump postpones military strikes on Iranian power plants for five days - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT2FVUTgxYThtbjhJeFo5YlNmUzliLXhxbERJSUJmZjZyYkdVVUVzOG5CeWYxdWlTdGszb1p2c2NSaVF0Q09YRW5TOU5ZTVdFNlBRdFVpU2FYYkFWZFo0eU5FTW43SDBaYUdxd19WQ00ybVBlUXpRSzN6Z2MxeVpjSVhpMVpXMk9hU293czg2UGpDOVJaYV8xaWhYQ09ld9IBowFBVV95cUxNRlpCS0c2TExzLWQzUjZPV28yZ1NzR3M0aGpySVc3RnBGTGxNUWpTWE5aRl8zNEFhenZiVFhyOEdjTHJmcllRdXYzUHduUEIyT2N5N0RUUHB3Z3F5OXpWQWNXbnFGcFgyR3k2UHVfWG5XTy1rWjltLWZVVmhHeGpqZUVqdUU1T1l4bE9jZEdhQWMzSmJhM3c1VWpyb3R1ZTAtbm1Z?oc=5",
+      "snippet": "Trump postpones military strikes on Iranian power plants for five days &nbsp;&nbsp; Al Jazeera Oil prices fall after Trump postpones Iran strikes &nbsp;&nbsp; CBC ‘Those who sold o",
+      "pub": "Mon, 23 Mar 2026 12:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "How a case about secularism in a Canadian province could affect the country as a whole - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSZ2pxMVVDRzkzemdHMnotZkIwNXlZdDhnUkw3OG5sMm5WeE5YbUR5R3NjZURLSlJDQ2ZKMFMtS01yRjA4azloTzlMb0RSRkU0S1ppaWs0UTV2Zw?oc=5",
+      "snippet": "How a case about secularism in a Canadian province could affect the country as a whole &nbsp;&nbsp; BBC Quebec's secularism law Bill 21 heads to the Supreme Court &nbsp;&nbsp; CBC ",
+      "pub": "Mon, 23 Mar 2026 00:21:25 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Two men stabbed after altercation in downtown Montreal nightclub - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHdHUlFqc3hHWnZTd19MdVZXNDYtdC1XY1pJc01YSzFuVmlTN0FYSWFwRXExVUZmVkhZMXE0M0pGZlNub2kwc1oxcnJJNnZTUTktdU5Qb0VNa2NvRXFMbFdqMTNTbzJseXdsV0VMUTl1SjNZdHJULWVyQ1hkTGlZX25feGxFcHF5a04zLTlYSUU2U2l1a2tWOGt4LXFhdE5WYnVnUndYbWt5b0p4?oc=5",
-      "snippet": "Two men stabbed after altercation in downtown Montreal nightclub &nbsp;&nbsp; Montreal Gazette Montreal homeless advocates say flat funding in Quebec budget will lead to cuts &nbsp",
+      "snippet": "Two men stabbed after altercation in downtown Montreal nightclub &nbsp;&nbsp; Montreal Gazette Air Canada crash: 'Everyone was flying everywhere. The plane started veering off' &nb",
       "pub": "Mon, 23 Mar 2026 07:41:59 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "A Supreme constitutional clash: Canadians’ rights against government powers - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1UyZjhnMW0wd3R4bFNWQkpLMFVCU0dTTmxIeXFGNmxHS0FwYWhJQ2Q4cGlhNFNSM3d0Sld2VFJDcm05RkFyMUdfM2FsbnRzZ0RiNTdYNk5hYUJ1eGdJeDJKTW85a3hjZ01CdkhfcUw5Ui1OYTJwakdNMTlEdldHSFZGdnRiTUlmT3RfNEg2a0dWdkZsN0lWTVFWa2hyZi1KUkdJRll4dDNZNHM?oc=5",
-      "snippet": "A Supreme constitutional clash: Canadians’ rights against government powers &nbsp;&nbsp; The Globe and Mail View Full Coverage on Google News",
-      "pub": "Sun, 22 Mar 2026 10:00:00 GMT",
+      "title": "Amanda Lathlin, the first First Nations woman elected to Manitoba's legislature, dies - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzRZMUNBXzlBUGFIbmJSOGlnb20zRFBPbjVuMFoyNk5Cdjk5VktDdTNjeWhuTmNqRmlLbWM5c2ZNNFFhSVZJVUZ5MHQzY1Iwc0EzSHBQT0dsdXpRcFNaNERWZC1scEg0aVphVXdQc0FFYkx2M0hLMmZUQkNJLXEwS1EtVlY5SjV4ZEJvOFY1X3NhR3FfZFVmMkI4MFEwVGQ0a2Z6a085VXBxVFpua3R3X3RoYjBtM1BZWHJ5X05vZzI?oc=5",
+      "snippet": "Amanda Lathlin, the first First Nations woman elected to Manitoba's legislature, dies &nbsp;&nbsp; CTV News View Full Coverage on Google News",
+      "pub": "Sun, 22 Mar 2026 20:25:43 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Rhineland-Palatinate vote: AfD scores record result in western Germany - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXFOYkxqNDdjWjdWdUJUYkdlV25rQnFKTnJMMllUY1VGOHNZVVlMS3U1RHNQUDVpNElKSDd6VUZ6MzNYckYxd05oR25CWl94YnpKUnk2WHA4Rzg2MTRaeUlOdlkzaU1mbjdSUTJIbW53ckY2dEI4c3cyOWtVT3pJcWx3WEF6MFRPVXlwRm1BSGRZM3V0VGQ3a1M5TnVRcHpiRV9Zc09yQnM2c2dLRmV4VkNRcko?oc=5",
-      "snippet": "Rhineland-Palatinate vote: AfD scores record result in western Germany &nbsp;&nbsp; Euronews.com Merz’s conservatives win key state vote despite far-right surge &nbsp;&nbsp; politi",
-      "pub": "Sun, 22 Mar 2026 21:11:49 GMT",
+      "title": "ICE officers will begin assisting TSA as shutdown frustrates travellers and screeners - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSllEUUFoZS11OTV3ZHQ0SmlvTGM3SlVySnpxZXYyU3RQOW1SWjFoN2RSdnByS1d3NFFQamhHcDN2UkxCWmdzbjlMaFZpSFRhbk40S1g2ZXpmZVYtVERmN1VJdDJPM1A3TTE4UnhhMFJIZE5FN00zMzFYTkFzX1h3TFp4NlJoSWtYVkRkNmpaU0pWdXktZ3k2clFqazRIeFNWYWlGbmlFLXNFbk5pQ0dLdE1tV0I0NU44UVpka2oyOHVKaDdfUkpTN05XaktfZTV2Q0E?oc=5",
+      "snippet": "ICE officers will begin assisting TSA as shutdown frustrates travellers and screeners &nbsp;&nbsp; CTV News Federal immigration agents seen at Atlanta airport after Trump order ami",
+      "pub": "Mon, 23 Mar 2026 11:28:14 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump’s efforts to curb mail-in voting come to the Supreme Court as they falter in Congress - CNN",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmt2ZHpTcWxSd2QyMlJEOUllY2s3WmtHaU1VbnZyNXlUQms4UjJEZnA2bFpXaHREZ21wckVleTZ3aHJpUDNzY2dFTU9sOVZ3bWlTUWRuNlFCZGJrRmN6dS1yVUNkZVRPLVNpNGZZbE9vWFkxTTJybnVkNzJJNVE5UndVX0hTcm9MWXB1Q0cwMA?oc=5",
-      "snippet": "Trump’s efforts to curb mail-in voting come to the Supreme Court as they falter in Congress &nbsp;&nbsp; CNN The Latest: Supreme Court will decide whether states can keep counting ",
-      "pub": "Sun, 22 Mar 2026 09:00:33 GMT",
+      "title": "Pilot, co-pilot killed after Air Canada plane collides with vehicle at New York's LaGuardia Airport - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3djNmYybWN6UHgzNm01Z0RkaVFyOTVCbDc4MEFVcWVZRC01el9ULXBrTjlzNTZyeDd5ZFpSa1N1Z0h2TnpmbFZKNEs0U0hIQ1BGRV9xekxBVm1QX0hOLVlyLWVQaTV5NXFITjVvSzVHdHY2V215THlnQzZqZ05xV21uTEdnSml0N2RBVzZTcw?oc=5",
+      "snippet": "Pilot, co-pilot killed after Air Canada plane collides with vehicle at New York's LaGuardia Airport &nbsp;&nbsp; CBC 2 Air Canada pilots dead after flight from Montreal crashes at ",
+      "pub": "Mon, 23 Mar 2026 12:31:44 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Spring Snow Storm to Dump Upwards of 40 cm on Metro Region - VOCM",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNamV1anU4RWNRelh6NFgyRm56Ym1yajhKRUhDdHpHZlFwT1AyVGN3V0d1MlItVy1aanQyZUhEdEtmU2VZTmI2SXk3UmxYWlJfRlM0aUJYX3dzbVFCSTdMNkNvcTkwWnFlYS03c3IwOFZ1bjNBZi1YRW5sam9NVEhxblphbEFzWWNPdnhV?oc=5",
-      "snippet": "Spring Snow Storm to Dump Upwards of 40 cm on Metro Region &nbsp;&nbsp; VOCM Some schools in N.S. closed, closing early due to snowfall &nbsp;&nbsp; CBC Storm Watch: School closure",
-      "pub": "Mon, 23 Mar 2026 08:58:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Here's a roundup of the Ford government's latest proposals ahead of Ontario's legislative return - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbllBYkdXSVh3VWpKVnNiWjNuTzdlTEY1dHl2SWpfMFcwcldzT1ZSb1JRcF9pdHVtd2puRWtOTWJTN0Z3dGxKVU1KRnpxd21lV0MzRFVOZ0RLcTBfaEZ4YUlUVGhsbVBNQWUyS190aGZUOUpMNW5lcmcwSTV5aTJCVDF3ZW0?oc=5",
-      "snippet": "Here's a roundup of the Ford government's latest proposals ahead of Ontario's legislative return &nbsp;&nbsp; CBC Doug Ford prepares to unveil 8th Ontario budget amid economic unce",
-      "pub": "Sun, 22 Mar 2026 17:05:41 GMT",
+      "title": "What to expect when Doug Ford brings the legislature back on Monday - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR0pkVklfbUxWSDYzd3RCbU1zYkNVUHlQX056d1p3WVRheGFYVWpvTzk1Zm0xajZqNWVYNDFwSHhfbVRHbXo1Smc3U1gtcHdqZVRZdkNrb0J3N2xsUU50d2p0MGJtcFdvb3MwT25tVEdoLUdGeW1qUElVZ1NvOUo1eXR0bWY1LVdoWmZpdGpubnpmT1dROXhkSl9OU0U0SmFyTFBDYkctY2hsaXBFakkxNHRFLXZYcEd6V0NRUjZsaFRlc0hSeVJqMWdPSy1ZbTlwQVlob0NFQzZaWG1vb2N6a1k3cnlhLWZ4WHFBU3lOUldUVEU?oc=5",
+      "snippet": "What to expect when Doug Ford brings the legislature back on Monday &nbsp;&nbsp; Toronto Star Here's a roundup of the Ford government's latest proposals ahead of Ontario's legislat",
+      "pub": "Mon, 23 Mar 2026 03:55:55 GMT",
       "image": ""
     }
   ],
