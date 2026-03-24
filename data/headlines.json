@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T23:27:05.508976+00:00",
+  "generated_at": "2026-03-24T23:54:25.241792+00:00",
   "count": 16,
   "items": [
     {
@@ -76,6 +76,14 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Graduation ceremonies should steer clear of 'divisive or contentious issues,' says provincial memo - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM01oY1plbDJaR1FHQ0NQQnJPMUIySDhOMTdJTHQ1ZHlqSWRHR3VSeHl3R05Nb2xHZ1Jsb1J0N09ZbXRyVGoydFROVVE2NDY5czJHb2ZNR08yZERhYUdKNFltdGVzT1l2dXRYMk1Zb25yRHA3UnV1WG1VdzdEeHprSGFGY2tKZW8tVktMR0RYMA?oc=5",
+      "snippet": "Graduation ceremonies should steer clear of 'divisive or contentious issues,' says provincial memo &nbsp;&nbsp; CBC Ford government warns school boards to keep graduation ceremonie",
+      "pub": "Tue, 24 Mar 2026 22:57:41 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Supreme Court could change notwithstanding clause in light of Quebec's Bill 21, opponents argue - National Post",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS2ZvVUZSeFYwUHRVeHlOM1dHTFR1UkdJZ21EcnNqUzFoWXJNZzlzUEotUG05YjlXNXBZdFNqaHU1VzhGM09wQXFyU0pMT2twdHVBMXh6UkFpS0FoSFFySU4tOURaSG42V2hwLW15cFJGd3cyWFo2d2FsWUNLRDduZ1A0bEJKMVlnU3VrNmk4SEhGUEJEa3Y3c2JpdG5WbVRsMmU5NjFabnYwbTRwcWszRGhjZEV2ck1IZUdYYmludGl3eDEyQ3MxU2FBMU8?oc=5",
       "snippet": "Supreme Court could change notwithstanding clause in light of Quebec's Bill 21, opponents argue &nbsp;&nbsp; National Post Quebec defends Bill 21 at Supreme Court, says no role for",
@@ -86,16 +94,8 @@
       "source": "Google News Canada",
       "title": "Manitoba to cut PST at grocery stores in July - CBC",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNEFnRXNWWHh6TTlCdjByU2VHbHJLcFBrakhwQ05fa01VbkphdDVZelN6TVBJdDA0RXMtU2FKNXZJNGt0QzA2aVNEQUNwUldnbDl0OHR5UkgwOGR0RnBmZzNYVlFqRExnQWQwa2NBdGEtdmh0ckg1aVlOZG9xY0c5T1ppU1JaTkI1dWRvYg?oc=5",
-      "snippet": "Manitoba to cut PST at grocery stores in July &nbsp;&nbsp; CBC Manitoba budget removes PST on groceries, reporting $498M deficit for 2026 &nbsp;&nbsp; CTV News Tax help and afforda",
+      "snippet": "Manitoba to cut PST at grocery stores in July &nbsp;&nbsp; CBC Manitoba reports $498M deficit in budget &nbsp;&nbsp; CTV News Tax help and affordability: Highlights from the Manito",
       "pub": "Tue, 24 Mar 2026 22:03:52 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Lebanon declares Iranian ambassador persona non grata amid Israeli attacks - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUF4d0tnbTR1aVFRaEZWR1JUb1FaN0VhaFZSNEk1WFZmNXVPUXZtZEFNTnlSNXBuZHJUUG1tMEI0WTZMeFBhbS1wU1piUUtMdUVYV1R5ZFFSUUpSRnNiZUd0SVRkQ0pxUTNQRHlDN3RtSnFSeGJrbXRJVk9nVFNVNE1HWHBvSlVhNlBsNlBQNUdraFBEZHpSWXJiYnVSTjE2dEdfTHJtRU1XcjREMkswOE9LRzB3Z9IBuwFBVV95cUxNTFYwVEdjYmZPZWROZ2ZwV3RpaWxHdFFIZnpqbG9OMGx1WGhnanNVOEFZa2R1OGxfZk12OS02NDJwb092NW9XY2M2ZHAxejVEZDQ2M29qN3I1WDd2c3NwMW9INktDakY0R0Z4NnBVbTRRYk5XdmFlOUd6cWloUndoc2RxMDlXaFp6aWxBSlRvVkYwVmJKRDZsMDhuZXQzaFptYXU4eURvTzZqMjBWX2RMSjIwa29VR1U4NURB?oc=5",
-      "snippet": "Lebanon declares Iranian ambassador persona non grata amid Israeli attacks &nbsp;&nbsp; Al Jazeera ‘Persona non grata’: Lebanon boots Iran’s ambassador amid Hezbollah-Israel war &n",
-      "pub": "Tue, 24 Mar 2026 14:28:07 GMT",
       "image": ""
     },
     {
@@ -116,18 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Four premiers demand more say in federal judicial appointments - National Post",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDY5OE92WHltOUdGMDdMV3lIN2k4QTNZM2tVdEt5X0JEMHZNTkdDNjZsM2dEWDFaTUZ6WTFMbWxDUE1lYkthUHc0dXRPdlBEWlV1YWhveXliNU40VVhua1EtNjBNcUhYR3BFLVI5cTRLY1pFUGZUbEtWU0FiLXQ0cFNBNlpaUVJFTWJ5aVdnZlcxUkQtdnBZ?oc=5",
-      "snippet": "Four premiers demand more say in federal judicial appointments &nbsp;&nbsp; National Post View Full Coverage on Google News",
-      "pub": "Tue, 24 Mar 2026 17:15:08 GMT",
+      "title": "Justice minister denies premiers’ request to change how judges are appointed - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGpnbWJhYWxoS3dtWV8zUFJ2SFhhLWRRb0hpNE8zM2tYYTJDRW5LVjhGVGItOXRLTG5hRVNocExybkNkdGcxNXl1T3p5czlQOWJacDZMZ1pNbEpsYzFvNFJsMFNnbHN5VW9PcWoybk15ZzI2VkFfV2dLb3pkTHE5bzdhc1hhZjFiTFdkcXB6cG41UUMwV1VZV3Y4Ynd4clVKR2tyQkVNaWRzS2MtUERRVUtSYVQ?oc=5",
+      "snippet": "Justice minister denies premiers’ request to change how judges are appointed &nbsp;&nbsp; CTV News Justice minister won't meet premiers' demand for 'sea change' to how judges are a",
+      "pub": "Tue, 24 Mar 2026 17:56:06 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Pride festivals seek federal $3M as corporations pull back support amid DEI backlash - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ01Wb0Q0Z3ZHV0pSc0xKaGpLeXRPNjB2YkZkWGg2WGEwVkFDWFZvaWRQYklzLU5aY2l4OGtqbUJrRTR6WXRpb1Z1ZVZvX0FvQmt0T0VEV0RndW5EZDVfSFAtWUxlU3hXSDVudzdteFVPS0JXM0lfVEQyWTE4VzE2eWYwMnN6QmRDbDdzRUM4MzkxZ3lRbVlRTzdpTDlJRjRwLU5PRUIzZzlOdXRGSFQ1WEtoSGFEVFFzWXJiRTEwTVpZR3ZIcVE?oc=5",
-      "snippet": "Pride festivals seek federal $3M as corporations pull back support amid DEI backlash &nbsp;&nbsp; Castanet View Full Coverage on Google News",
-      "pub": "Tue, 24 Mar 2026 17:25:00 GMT",
+      "title": "RCMP probe corruption allegations at Calgary city hall; warrants executed on former mayor, councillors - CBC",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM0JGMFlqSEdDSkdGUF9lU085bWg0bzJEUDdNTGs1U3loWHpyd3RlYnJCYlpnaFF3ZlZ0djRKV2IxVy1SVU9vZldLTHFRNXRXYk5nR0hrOHJVcFVsZjdYSW01UHlJVTNGem00UDNRS2djNHFKYURyQndxYkFZLUlGamtCOHFRaFpOZ3h5bTM3d0N5cDZmeGx4OVl0NTk0a1JxUEhReFptZ0pJSS1kX25vWHEtX1UxSEJzbGFGaU1zTWNyeVVyUnJFZHJqd3k5Z1VSTXBtOW9ESkYzRk5jTmx3M191dw?oc=5",
+      "snippet": "RCMP probe corruption allegations at Calgary city hall; warrants executed on former mayor, councillors &nbsp;&nbsp; CBC Calgary city councillor says RCMP seized his devices as part",
+      "pub": "Tue, 24 Mar 2026 23:21:04 GMT",
       "image": ""
     }
   ],
