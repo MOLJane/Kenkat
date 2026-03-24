@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-03-24T07:49:34.667129+00:00",
+  "generated_at": "2026-03-24T08:41:21.392293+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "March 24, 2026 – Do incidents like the fatal collision at LaGuardia Airport Sunday night, cause you added fear while travelling?",
+      "link": "https://vocm.com/2026/03/24/march-24-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12713').",
+      "pub": "Tue, 24 Mar 2026 08:01:30 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/img-6765.jpeg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RNC Hands Over Paradise Workplace Injury to OHS",
+      "link": "https://vocm.com/2026/03/24/rnc-hands-over-paradise-workplace-injury-to-ohs/",
+      "snippet": "An employee with the Town of Paradise was injured after a work-related accident in Donovans Industrial Park early this morning. First responders rushe...",
+      "pub": "Tue, 24 Mar 2026 07:57:14 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-10.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Gas Up Nearly 8 Cents Per Litre, Diesel and Oil Jump Too",
+      "link": "https://vocm.com/2026/03/24/gas-up-nearly-8-cents-per-litre-diesel-and-oil-jump-too/",
+      "snippet": "The Public Utilities Board has jacked up the price of fuel again this morning. The price of gas is up by 7.9 cents per litre. Diesel jumps by 12.2 cen...",
+      "pub": "Tue, 24 Mar 2026 07:49:05 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/img-6811.jpeg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Metro Schools, Government Offices Closed Amid Winter Storm",
+      "link": "https://vocm.com/2026/03/24/metro-schools-government-offices-closed-amid-winter-storm/",
+      "snippet": "Schools in the metro region are closed for the morning as Mother Nature takes a wintry swipe at parts of the island. Government offices are closed for...",
+      "pub": "Tue, 24 Mar 2026 07:47:35 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/img-6813.jpeg"
+    },
     {
       "source": "VOCM",
       "title": "Trump Signals Iran Talks as Tehran Pushes Back",
@@ -35,38 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/02/justin-king-harbour-grace-rcmp-wanted.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Canadians Feeling the Pressure from Rising Cost of Living says Survey",
-      "link": "https://vocm.com/2026/03/23/294947/",
-      "snippet": "A new Angus Reid survey shows, not surprisingly, that Canadians already struggling to make ends meet are more concerned than ever about the rising cos...",
-      "pub": "Mon, 23 Mar 2026 16:40:09 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/angus-reid.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "‘I Messed Up’ Air Traffic Controller Laments Fatal Crash that Killed Two Air Canada Pilots",
-      "link": "https://vocm.com/2026/03/23/294945/",
-      "snippet": "Operations at New York's LaGuardia Airport are suspended until at least this afternoon as investigators arrive at the scene of last night's deadly cra...",
-      "pub": "Mon, 23 Mar 2026 16:25:32 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/img-6765.jpeg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RCMP Investigate Crash That Claimed the Life of Driver",
-      "link": "https://vocm.com/2026/03/23/rcmp-investigate-crash-that-claimed-the-life-of-driver/",
-      "snippet": "A 47-year-old woman is dead following a single vehicle crash near Bonavista last Thursday night. RCMP were called to the scene on Elliston Road near B...",
-      "pub": "Mon, 23 Mar 2026 15:24:34 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/rcmp-lights.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Transport Canada Seeking Input on Bright Vehicle Headlights",
-      "link": "https://vocm.com/2026/03/23/transport-canada-seeking-input-on-bright-vehicle-headlights/",
-      "snippet": "The federal government wants to hear from citizens about overly-bright vehicle headlights and the glare they create for oncoming traffic. Transport Ca...",
-      "pub": "Mon, 23 Mar 2026 15:06:57 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/04/rental-car-driving-stock-vehicle-drive.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Traders placed $580mn in oil bets ahead of Donald Trump’s social media post on Iran talks - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WazBPcnBZcVlENW5oc2I2cUNnQ0lzUHFFR1FucnRIX19ucUdyMFBzVGFpb2lXb0I5aURWSnozeExGVjdjb2l6OF85eDU1LWhKSTRRTWZqVzVVX2JsWS1wSy1GMHg0QUNDMmNBdnEwMnc?oc=5",
@@ -78,8 +78,16 @@
       "source": "Google News Canada",
       "title": "ICE is at U.S. airports: What to know if you’re travelling as a Canadian - Global News",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zRlBxVV9JVnVGc0xDRGpXZ2pTbU5La28yOE1TSE5tSDhhdkFhLXktMWlTbVpOVW5ZNWlMVXRPbVZIX3lTUGNVRlNWWFRLeFlvNEFIZEZVaWgzWmJmSnplbS13ZzRJRnJWN1FmajJKX3IxN3JlTkNDdmdmekc?oc=5",
-      "snippet": "ICE is at U.S. airports: What to know if you’re travelling as a Canadian &nbsp;&nbsp; Global News ICE agents deployed to US airports: Which airports are affected? &nbsp;&nbsp; Al J",
+      "snippet": "ICE is at U.S. airports: What to know if you’re travelling as a Canadian &nbsp;&nbsp; Global News ICE agents deployed to airports as TSA wait times grow &nbsp;&nbsp; CNN ICE office",
       "pub": "Mon, 23 Mar 2026 18:40:38 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Tumbler Ridge shooting victim Maya Gebala suffers surgery setback - Global News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXlsbS16OEFmUEdKS2p0NHc0Si1pejJBdXRoaFVJOGtCbTJHdmxleENBalZoamtoSXZzNHNtWFhjdDg4R041c3E1WjV0Rk9yWENLYVdybWlHeDNXaWxWWklzckxvbnoxQ0ZqV3h3SXJJeVB3eVJ1elBORWZ6M1F0ZTRFZTRyYUR1QXVqRWNyd3hPdXFwNWl2STRR?oc=5",
+      "snippet": "Tumbler Ridge shooting victim Maya Gebala suffers surgery setback &nbsp;&nbsp; Global News View Full Coverage on Google News",
+      "pub": "Mon, 23 Mar 2026 20:24:54 GMT",
       "image": ""
     },
     {
@@ -92,18 +100,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "At least 8 dead, 83 injured as Colombian military plane crashes on takeoff - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcHhRMkVVTVozOEV6ems0RFNLR200MTFoTDVVbEdrWmNPMi14Y21LT09NQnhSd0dEV3o1QlhJUWNBRXdhNjFEZUc0cEdKRWx4OGx5SkQxSjB2SkhCME1pMGtrWmswTjJHbTRGZEJ4eWY2OHdOV1BtaDdJSzBNYXpSVENkUXN0VE5xSU9raGMwblo1QzlIaHIzVHBEQW9YNFFWVHJBeEEzUW1yOTdFUldaTkR1TmFfdkxmaV9IWWlfdkx4cjZnb0JYd0lLRFV5amRXa2VxRXR2UVFoTzVL?oc=5",
-      "snippet": "At least 8 dead, 83 injured as Colombian military plane crashes on takeoff &nbsp;&nbsp; CTV News Death toll rises to at least 33 in Colombian military plane crash &nbsp;&nbsp; CBC ",
-      "pub": "Mon, 23 Mar 2026 22:24:04 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada Not Tracking Foreign Students After Visas Lapse, Audit Says - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONDNsb3ZjSm1abWtDaFIxa2cxOUlOamF3M1d3dm50M1FWSG0zcTFGdjBHZmQzbE5OM1ZGbVhIdWxMbWxBRHJLMW4tR01ZeUF2NXhYU3c2SkdBcU56UnU1M0xKWEFCOUtQNzNwNS1NV3BrbFZkM21EekZRMHB3UXQ0aVpBUmtjXzJkNGhUa21lS1dwYUdRbkhqZDRSYjVxQmYtUTRjcVNiTm9sdFlkOUwyU0hVVFdpQUU?oc=5",
-      "snippet": "Canada Not Tracking Foreign Students After Visas Lapse, Audit Says &nbsp;&nbsp; Bloomberg Canada’s international student program lacks crucial controls: audit &nbsp;&nbsp; Global N",
-      "pub": "Mon, 23 Mar 2026 18:23:33 GMT",
+      "title": "International student program ‘fell short’ on investigating problematic cases: auditor general - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVktXbmpsbXR0MUtDTG13czFtaURwMmJraXhPZ3BjbF9YMWNSb3JycFhOdzI1T2hreDZmR1ZacTBVUGJ6S29ySjZVZWs4QjkyMFNYRTdmdThxV3FyejBTUmRFNU52UFZUWmNXMlRpQ2U5eERXbHFFRkNreEJMcnlxNmVlRzJKVUFNRHQ2TnZsb0YzTFY3NW1VQS1nNExJaHJTSkVfWXROZFRDY3ZEOHlrU2dMRnI5eUlDaW9aSEt0TkVxY3A4T3J4X1hn?oc=5",
+      "snippet": "International student program ‘fell short’ on investigating problematic cases: auditor general &nbsp;&nbsp; CTV News Canada’s international student program lacks crucial controls: ",
+      "pub": "Mon, 23 Mar 2026 20:11:09 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "An update on school buses as city continues to dig out - Sudbury News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNHZZU3J5RlhBbmxGeXFJZGc1MUd1NHZNMVIyRUtDemxyYkRnWjZqZU5XcjRaZkFHcWU1TnQtMTJwTzM0NFRSTnRfaWN3VV8wd0ZVNGlXT2IzOGd4Rk5lb0hqdUFoQkZZT0NnUUE5SUNwb0pGNmtjbUV6aVo1c1VtQ0dabE9DTi1RSXNHM2R2WThBbzBBT2RCQXVsWndZU3c?oc=5",
-      "snippet": "An update on school buses as city continues to dig out &nbsp;&nbsp; Sudbury News School buses suspended in Greater Sudbury. What you need to know - Take our poll &nbsp;&nbsp; Sudbu",
-      "pub": "Mon, 23 Mar 2026 20:30:37 GMT",
+      "title": "City of Greater Sudbury provides a weather event update - Sudbury News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEt6RnUwVG5MM0hvTWt4c1lEM0FLbVcxX1Z6VDd5dUE4Tl9YbDZ6Nkxoc3pqbkhPeEZYTzBYTGowRnFPMTM2YzlvNmJXTEQ2YmpXVDVQTWU4STA4MjI2bW5WRHM3djlESmFDdmtkeWRjekZrSXBQbVF6YTVmVXJkX05wOVhCclVUVGJNUGhOY3pjVVZTXzZ3bDlVdHhoN00?oc=5",
+      "snippet": "City of Greater Sudbury provides a weather event update &nbsp;&nbsp; Sudbury News School buses suspended in Greater Sudbury. What you need to know - Take our poll &nbsp;&nbsp; Sudb",
+      "pub": "Mon, 23 Mar 2026 16:36:02 GMT",
       "image": ""
     }
   ],
