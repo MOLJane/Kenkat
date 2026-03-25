@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-25T07:48:34.635260+00:00",
+  "generated_at": "2026-03-25T08:39:52.788883+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Fuel Prices Down in Overnight Adjustment",
+      "link": "https://vocm.com/2026/03/25/295107/",
+      "snippet": "There's some relief at the pumps this morning. The price of gas is down by about 10 cents. Diesel drops by 22 cents on the island and is down 21.5 cen...",
+      "pub": "Wed, 25 Mar 2026 08:31:55 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/03/generic-esso-gas-pump-fuel-prices-pub-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "March 25, 2026 – Federal AG Karen Hogan says the slow processing of applications has hampered efforts to recruit RCMP officers. Do you have confidence that the RCMP will address those issues?",
+      "link": "https://vocm.com/2026/03/25/march-25-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12716').",
+      "pub": "Wed, 25 Mar 2026 08:00:05 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/09/rcmp-stock-photo.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Oil Prices Fall as Pakistan Facilitates Secret U.S.-Iran Talks",
@@ -51,22 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/karen-hogan.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Spring Storm Turns to Rain Before Changing Back to Snow This Evening",
-      "link": "https://vocm.com/2026/03/24/spring-storm-turns-to-rain-before-changing-back-to-snow-this-evening/",
-      "snippet": "The more than 25 cm on the ground in the metro region - with lesser amounts further west - will turn into a soupy mess this afternoon as the temperatu...",
-      "pub": "Tue, 24 Mar 2026 13:52:11 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/img-6823.jpeg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RFP Issued for 3-Apartment Unit on Hoyles Avenue",
-      "link": "https://vocm.com/2026/03/24/295049/",
-      "snippet": "Newfoundland and Labrador Housing is building three new apartments in the centre of St. John's. An RFP has been issued for the construction of one bui...",
-      "pub": "Tue, 24 Mar 2026 12:14:50 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/05/newfoundland-and-labrador-nl-housing-2.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump's supposed talks with Iran: What do we know? - France 24",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTnphN211QzVkekc2OXB2NVRLdkZfU1FrR3VsRkRkaXgzdHFwV0NhcnZZbk1FODRJZUJfQjQ1bzEwbWFQbXZDOXhoTmstUi13ZndtTGxrMGhqekVKMnhyQ25lMDVoWHVwREQyU0d1Y0RvSDY2QjlKbHJ6bXhkd0pqRGNxQzBhdUdHUWp4VEZSYllaRWtmRE9QN3JFcw?oc=5",
@@ -87,14 +87,14 @@
       "title": "Family of Chinese hiker who died in B.C. mountain fall faces ‘enormous’ medical bills - CTV News",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1JjNFVNU215TzNyM1RQRXozZnpCdUwxM1o5SXZoT2hHNWViY1FiaUhEUDIxcG9mUW0xS1VOc1JHUDRBRG5IWThibnV6VmZVWUdBdk9tbGR5YWpQQ2U4RlU1dlRxRjhyc2ZrcU1CTVZ3TlJhU2VMS1ZFWDZ3aFExR0pGcHJ1c01QUnltT2tPaHFBWW9RZmNtZll0MXdybFZvSjlrdmpZS1RSSG1Pa2pHU2tVM3JFWGxYM0JhOEtyREk?oc=5",
       "snippet": "Family of Chinese hiker who died in B.C. mountain fall faces ‘enormous’ medical bills &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Tue, 24 Mar 2026 17:39:20 GMT",
+      "pub": "Wed, 25 Mar 2026 00:20:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Manitoba budget banks on federal funds to slash deficit - CBC",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WcG1RSThxdGxZMUF4NnNldW40S2JFaWc0M3V5enh5WVp4RENlU1JVeGg3MG9faVRJOWtHZDVjbVpqVXpPek5kSlFaUkhhRlRDODk2N0JVanJCTkoxTUQ3TVdEVVV5Yl9yYlA0RDNR?oc=5",
-      "snippet": "Manitoba budget banks on federal funds to slash deficit &nbsp;&nbsp; CBC Tax help and affordability: Highlights from the Manitoba budget &nbsp;&nbsp; Toronto Star Manitoba Budget: ",
+      "snippet": "Manitoba budget banks on federal funds to slash deficit &nbsp;&nbsp; CBC Manitoba budget looks to alleviate ER waits with new cardiac, mental health-care zones &nbsp;&nbsp; CBC Tax",
       "pub": "Tue, 24 Mar 2026 19:57:00 GMT",
       "image": ""
     },
@@ -116,18 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Operations suspended at B.C. heli-skiing company after 3 Swiss nationals killed in avalanche - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXNTd3duSFNaMEQ4ejJnbVR6M0R3WnVZMDlxcTZhX1dkaHBHNVR5Q05ja2xQZWtyU1RHa1BfYXJRTWR6TWo0YTBqbzNnZWhVaDlXUEE3MG1FU2hhdU90QzBhY2NwQ3p4LWtXSFcyckFuNlZhX3p1NnUxUGlSWVFUUmtPMDNuQWFiZW02dmJTY041dDNVdHJMb1ZpRlBaN1VVaFpB?oc=5",
-      "snippet": "Operations suspended at B.C. heli-skiing company after 3 Swiss nationals killed in avalanche &nbsp;&nbsp; CBC 3 people killed in B.C. avalanche were Swiss nationals, reports say &n",
-      "pub": "Tue, 24 Mar 2026 23:15:55 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Scottish-born midwife unable to practise in B.C. after immigration flags missing proof of English proficiency - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVU1yUjJRU3J5eDMwRlBkY2RobEFqMXQ1VmE2NjB4MXNoUnBHbjRjSFNJTmt1SkhOckg0UkRqUnBOMDdsT092bVJnT3NwV3hpTzRiR1NaT29tZDFicGh2bGhFNEJZcGlxQmNzdzJwQXZfYkp5aDNEQ0tMUmpqdHJfSVRtMmc1WTJjNl9NdXVoN1dQRzNGNF9IYnpWdUNRdVp5MF9CZFFXT25ZSDNCenE4eWdKdGlPcm56QktIWTBrTGg5VV85cWIwR09qRWdrYVREYk90ck1Rb1N4c3BMamNadlkzZw?oc=5",
       "snippet": "Scottish-born midwife unable to practise in B.C. after immigration flags missing proof of English proficiency &nbsp;&nbsp; CTV News Bureaucratic snafu means Scottish midwife must l",
       "pub": "Wed, 25 Mar 2026 01:24:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Operations suspended at B.C. heli-skiing company after 3 Swiss nationals killed in avalanche - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXNTd3duSFNaMEQ4ejJnbVR6M0R3WnVZMDlxcTZhX1dkaHBHNVR5Q05ja2xQZWtyU1RHa1BfYXJRTWR6TWo0YTBqbzNnZWhVaDlXUEE3MG1FU2hhdU90QzBhY2NwQ3p4LWtXSFcyckFuNlZhX3p1NnUxUGlSWVFUUmtPMDNuQWFiZW02dmJTY041dDNVdHJMb1ZpRlBaN1VVaFpB?oc=5",
+      "snippet": "Operations suspended at B.C. heli-skiing company after 3 Swiss nationals killed in avalanche &nbsp;&nbsp; CBC 3 people killed in B.C. avalanche were Swiss nationals, reports say &n",
+      "pub": "Tue, 24 Mar 2026 23:15:55 GMT",
       "image": ""
     }
   ],
