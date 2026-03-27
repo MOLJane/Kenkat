@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-27T16:43:52.588485+00:00",
+  "generated_at": "2026-03-27T17:42:51.618710+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Construction of Roundabout Beginning Soon Near St. John’s International",
+      "link": "https://vocm.com/2026/03/27/roundabout-portugal-cove-road-majors-path/",
+      "snippet": "The city of St. John's will soon start construction work on a new roundabout, and there will be long-term impacts on a busy stretch of road. The round...",
+      "pub": "Fri, 27 Mar 2026 17:04:33 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/05/airport-heights-drive-majors-path-portugal-cove-road-intersection-construction-work.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Landmark US Court Rulings Changing Conversation Around Social Media Harm, Says Local Tech Blogger",
@@ -36,7 +44,7 @@
     },
     {
       "source": "VOCM",
-      "title": "Overall Snow Crab TAC is Cut by 3 Per Cent, However Some Fishing Areas will see Cuts of 20 Per Cent or More",
+      "title": "Overall Snow Crab TAC is Cut by 3 Per Cent, FFAW Welcomes Conservative Approach to Cuts",
       "link": "https://vocm.com/2026/03/27/overall-snow-crab-tac-is-cut-by-3-per-cent-however-some-fishing-areas-will-see-cuts-of-20-per-cent-or-more/",
       "snippet": "DFO has announced a cut in the Total Allowable Catch in the province's snow crab fishery - an overall decrease of 3 per cent from last year. Some fish...",
       "pub": "Fri, 27 Mar 2026 14:44:37 +0000",
@@ -59,12 +67,12 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/helen-conway-ottenheimer-and-sean-fraser.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Temperatures to Plummet Across Province this Weekend",
-      "link": "https://vocm.com/2026/03/27/temps-plummet-end-of-march/",
-      "snippet": "Rain and warm temperatures are the order of the day today across most of the province, but things are about to change. A deep freeze is coming, with c...",
-      "pub": "Fri, 27 Mar 2026 13:00:58 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/Thermometer-Weather-Cold-Night.jpg"
+      "source": "Google News Canada",
+      "title": "At historic low point, New Democrats descend on Winnipeg to choose a new leader - cbc.ca",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Q09oQ0thbld5UkVpNGc4NFp3MDhSNzhIRFBybXh3ZUxVSnp0WFBnS1NJa2pRUzhmNEY3TVR3XzVReTJTVHJuR3NCSlRVODRQTDdPbVctaVlNYTBwUGpnMUFYVnczSFhnemRzaEQxcGJ4VmJZWklj?oc=5",
+      "snippet": "At historic low point, New Democrats descend on Winnipeg to choose a new leader &nbsp;&nbsp; cbc.ca The federal NDP is about to elect a new leader. Is it Avi Lewis’s race to lose? ",
+      "pub": "Fri, 27 Mar 2026 15:47:20 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -72,6 +80,22 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWUtfU1pKR0hrTTBHb2dmN2xwelU4bWhVV0dOeWQ0dWJCT1dCMFZ0QWw0YTRmQ2Z2c0RGNE1HOENlblVSMm1lakpXUzY4THZ0ZFZWbnlmekFhaGN1bzJDdU9DdktwMlRVT1hybjV4RFFxblZOYmwwVTB5V0dUcWV1bU4yblVJTjRkZHRLeUhyb1R6bnhodEx1bUFraDVjdlQ4OWYxdE9ab1gyaEZZYUNzSHFTT1lVcm8wZ19ycUNGYS1JVG8?oc=5",
       "snippet": "Sunshine List: These were Ontario’s highest-paid public sector employees in 2025 &nbsp;&nbsp; CP24 Ontario Sunshine List revealed: See the top 100 public sector employees earning o",
       "pub": "Fri, 27 Mar 2026 15:21:08 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Canada loaning millions to proposed Nunavik rare earth mining project linked to Trump White House - cbc.ca",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QS0QtWVRJMmg3R3VsZkc5UjFVdzJTVndZU1htOVZ4WW5FOTIyRTUxcXAwTDNxTUo5VUZQbDZlWnhZYWg5RktJX0pIR3M0YTRKTlZRQmlFS2QxNXM4bk9ETjFiV09UUzJaQnV6MEoweFFzakZERXc1V254Zmg3ZXM?oc=5",
+      "snippet": "Canada loaning millions to proposed Nunavik rare earth mining project linked to Trump White House &nbsp;&nbsp; cbc.ca",
+      "pub": "Fri, 27 Mar 2026 08:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "IDF strikes reactor as Iran says Ardakan nuclear facility also hit - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93bjF0N2pQUWF3SWRVeENjeUNiM1lFeWR6aGZnVmJaU2NRYnc0YTkxT1dUX3BHWTZzNUVpMkt6SDRQMW5NcXl1SHdRS09IVnBuRnFpR0dkVDljd3BSUW5tcy00a3F1YVZ4OHc?oc=5",
+      "snippet": "IDF strikes reactor as Iran says Ardakan nuclear facility also hit &nbsp;&nbsp; The Jerusalem Post Nuclear facilities targeted, Iran says, after Israel threatens attacks ‘will esca",
+      "pub": "Fri, 27 Mar 2026 17:06:41 GMT",
       "image": ""
     },
     {
@@ -84,41 +108,17 @@
     },
     {
       "source": "Google News Canada",
-      "title": "At historic low point, New Democrats descend on Winnipeg to choose a new leader - cbc.ca",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Q09oQ0thbld5UkVpNGc4NFp3MDhSNzhIRFBybXh3ZUxVSnp0WFBnS1NJa2pRUzhmNEY3TVR3XzVReTJTVHJuR3NCSlRVODRQTDdPbVctaVlNYTBwUGpnMUFYVnczSFhnemRzaEQxcGJ4VmJZWklj?oc=5",
-      "snippet": "At historic low point, New Democrats descend on Winnipeg to choose a new leader &nbsp;&nbsp; cbc.ca What does the NDP need to do to be relevant? &nbsp;&nbsp; cbc.ca The federal NDP",
-      "pub": "Fri, 27 Mar 2026 15:47:20 GMT",
+      "title": "Iran-linked hackers have breached FBI Director Kash Patel’s personal emails - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaklYWGVWM04yXzllaFRMaV9LeU1xYnVwSU9aSXBES2hBX0dSMHRRaUxqYjBHRzRiTGRYRU5QWDNxendZdVQtU0dmMGVLWC1GMmVQNWtTdjYyX1Q4cWt4VDRCU1phWUZDbWdIbVBRSzFYd0pTdThVQm1oaDd3cHJVMEh4d0Q?oc=5",
+      "snippet": "Iran-linked hackers have breached FBI Director Kash Patel’s personal emails &nbsp;&nbsp; CNN Iran-linked hackers breach FBI director's personal email, publish excerpts online &nbsp",
+      "pub": "Fri, 27 Mar 2026 15:30:03 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Six takeaways from Ontario’s budget, from health care to HST - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2tEaDZUSmVwcko3OFMtdmkwZTI1MHZFay0wd01BMk9iM0ZNVXpIbWhac1NRYXFkenlZbzFvQTVPdzZuZnpydVRvMG03cFl2ZVlxWEVOT0pKcWZfYjNwazdiRldNRWhvLWNEYVM3SlRqV3l6T2JhSG9halZlZlJMakhBVm4xNTJESEJCbXRzZjBNbm9yakpnWEJwamNGd0N5RFpVb2JfV0ZkOG8?oc=5",
-      "snippet": "Six takeaways from Ontario’s budget, from health care to HST &nbsp;&nbsp; The Globe and Mail Eight years later and Ford government still hasn’t delivered meaningful tax reform &nbs",
-      "pub": "Thu, 26 Mar 2026 20:07:17 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Is Iran allowing Spanish ships to transit Hormuz due to war stance? - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM21WU0dOLUltQWZxUDV3Q0NLeC1wX0h3TmRFQ25RX3R1MTlBSG1YYmhKeVkwN2g4dFhZblhtcjVtLTRSbTc3UlBZSXp6My1IMllwMDhrenkzaVJBOG5MOWlPbjU1NjJrOWhudXFVS05YRHl2Wmw3SUVPZS1leHdMVFZWbkduWmNBUE9qMEtfdkFqa2NGdVdJQVhiZVRNdWI0YjNEaGZ3bW83U0E?oc=5",
-      "snippet": "Is Iran allowing Spanish ships to transit Hormuz due to war stance? &nbsp;&nbsp; Euronews.com Brent oil tops $110 again after Chinese ships are turned away from Strait of Hormuz &n",
-      "pub": "Thu, 26 Mar 2026 12:34:35 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Liberal MP sorry after confusion over remarks on forced labour in China - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGNObUdpUVc4TGpDY19LQzNDZW0wSlpRdHpsTDQwWGd2bHVtb2FOdVl3c1E2Y2p6VXdBeU9OYzVtTHJCTERzUG9Gc2VmcC1qc3hySVc2d3ppbE9RVF8yemFFbzEtdEs3cy1KVFVZUlNUOFg4QmpiZURhcVNOZUhRZ0Mxaldld19I?oc=5",
-      "snippet": "Liberal MP sorry after confusion over remarks on forced labour in China &nbsp;&nbsp; Global News Liberal MP Michael Ma sparks backlash after casting doubt on forced labour of Uyghu",
-      "pub": "Fri, 27 Mar 2026 02:28:33 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Man purchases vehicle in Pickering with fake documents then flees the country, police say - CP24",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDBjNjl1M0EzUDFvU1B0Qzc4d1hRVDQwTGswSDRzcVJDaDhYbjdTR1d5NzNOTGdFMzhrUkxoUVhCTGtRd2N3dEpJeVhPZ05hN1EwcXFWM3F4TzlXb1laNTZ1Y19DblFsZmZVNVplclFfc09sTHo2dTdROEFlTjZhLTdyZk5sd0Y1RHhMektwYzItaFNWM0V4OU9MNmMtRzlSbllZSWQ1di00c2VfTXpDVERfVWUzcGMwNWdPQ0JRaFI0aWVjYzk4OA?oc=5",
-      "snippet": "Man purchases vehicle in Pickering with fake documents then flees the country, police say &nbsp;&nbsp; CP24 Romanian man wanted in Pickering SUV fraud case &nbsp;&nbsp; CityNews To",
+      "title": "Man purchases vehicle in Pickering with fake documents then flees the country, police say - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNemtZTjhOTllCSHdLOWZDVG9vN1JyVThQWW1rVnVCWXBqQ09ISE1SaUE5WFZJQXJ0czNWNTNidXRWbTZGRmV6WXNwZlppSC0tUnFBNzZMWGo0Vk85bElaUGVWTzRNa1Y4V1dHbHJuN2VMOWV1R0R5RlpzcEZ1dk5aTW5JVUZXQjNpdC1hLTdydENCYllVN2J1em5Tc3lNMDdFeHVvQnhXZko5S2FDbWI1VVpYOU14X3dwN0VFaU4tSQ?oc=5",
+      "snippet": "Man purchases vehicle in Pickering with fake documents then flees the country, police say &nbsp;&nbsp; CTV News View Full Coverage on Google News",
       "pub": "Fri, 27 Mar 2026 12:43:23 GMT",
       "image": ""
     },
