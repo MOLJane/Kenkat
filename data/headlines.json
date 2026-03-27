@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-27T17:42:51.618710+00:00",
+  "generated_at": "2026-03-27T18:44:50.496663+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Police Receive Multiple Reports of Woman in Distress, Officers Hoping to Confirm Her Well Being",
+      "link": "https://vocm.com/2026/03/27/police-receive-multiple-reports-of-woman-in-distress-officers-hoping-to-confirm-her-well-being/",
+      "snippet": "RCMP in Bay St. George are hoping to speak with a woman who witnesses in Stephenville say appeared to be in distress following a concerning incident i...",
+      "pub": "Fri, 27 Mar 2026 18:36:31 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/06/GFW-RCMP-Sign.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Hotel Staff Being Trained in Spotting the Signs of Human Trafficking",
+      "link": "https://vocm.com/2026/03/27/hotel-staff-being-trained-in-spotting-the-signs-of-human-trafficking/",
+      "snippet": "Hospitality NL is training hotel staff on human trafficking and what to watch for to alert authorities. It's part of a \"Not in Our Hotel\" national ini...",
+      "pub": "Fri, 27 Mar 2026 18:12:59 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/craig-foley.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Construction of Roundabout Beginning Soon Near St. John’s International",
@@ -51,67 +67,51 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/DFO-Snow-Crab.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "ASP Worried About Consequences of Late Start to Snow Crab Fishery as Price Remains Up in the Air",
-      "link": "https://vocm.com/2026/03/27/asp-late-start-snow-crab/",
-      "snippet": "There are only a few days left before the two main players in the crab fishery need to reach an agreement on prices but intervention by the price sett...",
-      "pub": "Fri, 27 Mar 2026 13:39:59 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/Snow-Crab.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Provincial Justice Minister Pleased with Recent Meeting with Federal Counterpart",
-      "link": "https://vocm.com/2026/03/27/conway-ottenheimer-meeting-fraser/",
-      "snippet": "Provincial justice minister Helen Conway-Ottenheimer recently met with her federal counterpart Sean Fraser and she believes they laid a \"very strong f...",
-      "pub": "Fri, 27 Mar 2026 13:10:15 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/helen-conway-ottenheimer-and-sean-fraser.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "At historic low point, New Democrats descend on Winnipeg to choose a new leader - cbc.ca",
+      "title": "At historic low point, New Democrats descend on Winnipeg to choose a new leader - CBC",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Q09oQ0thbld5UkVpNGc4NFp3MDhSNzhIRFBybXh3ZUxVSnp0WFBnS1NJa2pRUzhmNEY3TVR3XzVReTJTVHJuR3NCSlRVODRQTDdPbVctaVlNYTBwUGpnMUFYVnczSFhnemRzaEQxcGJ4VmJZWklj?oc=5",
-      "snippet": "At historic low point, New Democrats descend on Winnipeg to choose a new leader &nbsp;&nbsp; cbc.ca The federal NDP is about to elect a new leader. Is it Avi Lewis’s race to lose? ",
+      "snippet": "At historic low point, New Democrats descend on Winnipeg to choose a new leader &nbsp;&nbsp; CBC The federal NDP is about to elect a new leader. Is it Avi Lewis’s race to lose? &nb",
       "pub": "Fri, 27 Mar 2026 15:47:20 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Sunshine List: These were Ontario’s highest-paid public sector employees in 2025 - CP24",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWUtfU1pKR0hrTTBHb2dmN2xwelU4bWhVV0dOeWQ0dWJCT1dCMFZ0QWw0YTRmQ2Z2c0RGNE1HOENlblVSMm1lakpXUzY4THZ0ZFZWbnlmekFhaGN1bzJDdU9DdktwMlRVT1hybjV4RFFxblZOYmwwVTB5V0dUcWV1bU4yblVJTjRkZHRLeUhyb1R6bnhodEx1bUFraDVjdlQ4OWYxdE9ab1gyaEZZYUNzSHFTT1lVcm8wZ19ycUNGYS1JVG8?oc=5",
-      "snippet": "Sunshine List: These were Ontario’s highest-paid public sector employees in 2025 &nbsp;&nbsp; CP24 Ontario Sunshine List revealed: See the top 100 public sector employees earning o",
-      "pub": "Fri, 27 Mar 2026 15:21:08 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada loaning millions to proposed Nunavik rare earth mining project linked to Trump White House - cbc.ca",
+      "title": "Canada loaning millions to proposed Nunavik rare earth mining project linked to Trump White House - CBC",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QS0QtWVRJMmg3R3VsZkc5UjFVdzJTVndZU1htOVZ4WW5FOTIyRTUxcXAwTDNxTUo5VUZQbDZlWnhZYWg5RktJX0pIR3M0YTRKTlZRQmlFS2QxNXM4bk9ETjFiV09UUzJaQnV6MEoweFFzakZERXc1V254Zmg3ZXM?oc=5",
-      "snippet": "Canada loaning millions to proposed Nunavik rare earth mining project linked to Trump White House &nbsp;&nbsp; cbc.ca",
+      "snippet": "Canada loaning millions to proposed Nunavik rare earth mining project linked to Trump White House &nbsp;&nbsp; CBC",
       "pub": "Fri, 27 Mar 2026 08:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "IDF strikes reactor as Iran says Ardakan nuclear facility also hit - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93bjF0N2pQUWF3SWRVeENjeUNiM1lFeWR6aGZnVmJaU2NRYnc0YTkxT1dUX3BHWTZzNUVpMkt6SDRQMW5NcXl1SHdRS09IVnBuRnFpR0dkVDljd3BSUW5tcy00a3F1YVZ4OHc?oc=5",
-      "snippet": "IDF strikes reactor as Iran says Ardakan nuclear facility also hit &nbsp;&nbsp; The Jerusalem Post Nuclear facilities targeted, Iran says, after Israel threatens attacks ‘will esca",
-      "pub": "Fri, 27 Mar 2026 17:06:41 GMT",
+      "title": "Iran-linked hackers breach FBI director Kash Patel’s personal e-mail, publish excerpts online - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1ZbE82ZVFhcXJueGJ4Zms5aUFrQkpROTJZOWgzNC1oRTJ1OTY2VFUyY01Kc0Q4M192QnpCUDBUbDhua2ZEVWNFb001NGpVRFppV0RHZFJkc2JfRzRPbThtLWgtUmtMQkxGS2o3emU0M2NCS0U3SnI3aE1Pekl6V1JyMjJ6dnZseC1jOW9jcFNwbzJtUUt5S0d1RUtTNGV1YkQ5cjIzWEZ4T3hfbzRwQzU3SXlRUQ?oc=5",
+      "snippet": "Iran-linked hackers breach FBI director Kash Patel’s personal e-mail, publish excerpts online &nbsp;&nbsp; The Globe and Mail Iran-linked hackers breach FBI director's personal ema",
+      "pub": "Fri, 27 Mar 2026 15:30:41 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘She’s pretty stressed out’: Canadian mom speaks to CTV News about life with 7-year-old in ICE detention centre - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc3Iya3p0aU80SzJJZnZ5ejhUdjZLb2RkeXFqa3AzOW5RM3phWVlxVlNaT3VzX285bGdYeW5sbTJNb3E0eU5aUnJUSzg3UndwSFFNdXlOWWVTb0dQQnN5VHBKUXQ0RnJKQmJZcC1FcXBKcF8zY1J2dnhFMTJXN3gtQmhiNElGZENFYWFlbm41VEY4emVKdWJaQnBnSmtsaE5hcWVEWjBRNnNiS3hGNzRrQlhxbmY0RkZvZGQ0UUxzMkI5a1psVS02emY2TUhDaGNBcGhLNzdGT2R0WVVyZlE?oc=5",
-      "snippet": "‘She’s pretty stressed out’: Canadian mom speaks to CTV News about life with 7-year-old in ICE detention centre &nbsp;&nbsp; CTV News Canadian woman held with daughter by ICE warns",
-      "pub": "Fri, 27 Mar 2026 09:00:00 GMT",
+      "title": "Debate grows over proposal to scale back OAS for high-income seniors - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObGhOOUVtdUtqM0FBdWFFcmswM3NlMkxORmNDSm5EMm85bGVSZzlWbmU4WHBTWkJ0SkI1SGliY1BrTXgxZ2taa2VrTlVSZENRVTF2Wk1WUXdQaUt2N1FiSmFqaWk3MjIyTENJZlVBQ0FBRFNDdWsxWktLejhLQkhGOEE5TVhNTzh0Vi02VjZWT2oyQ19oaWVGbC1xX2JGUHI4aHhDQXMwa2sweUxtU1JV?oc=5",
+      "snippet": "Debate grows over proposal to scale back OAS for high-income seniors &nbsp;&nbsp; CTV News Canadians, including retirees, support trimming OAS for well-off seniors: poll &nbsp;&nbs",
+      "pub": "Fri, 27 Mar 2026 02:29:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Iran-linked hackers have breached FBI Director Kash Patel’s personal emails - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaklYWGVWM04yXzllaFRMaV9LeU1xYnVwSU9aSXBES2hBX0dSMHRRaUxqYjBHRzRiTGRYRU5QWDNxendZdVQtU0dmMGVLWC1GMmVQNWtTdjYyX1Q4cWt4VDRCU1phWUZDbWdIbVBRSzFYd0pTdThVQm1oaDd3cHJVMEh4d0Q?oc=5",
-      "snippet": "Iran-linked hackers have breached FBI Director Kash Patel’s personal emails &nbsp;&nbsp; CNN Iran-linked hackers breach FBI director's personal email, publish excerpts online &nbsp",
-      "pub": "Fri, 27 Mar 2026 15:30:03 GMT",
+      "title": "Toronto ends practice of raising foreign flags at government buildings - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbXRoQnFfajQ2OGlRelpYWUpDRFRpTFA5aWRWTkxNcnJpSmNPSnFBLXFoZXFsUDJZTGtSRWJFQi1SU3pUOUc4T3hsNVItcEtWQVpCSzF6MmVua1pnRi11RHdSazBVd3FvVzdQaUVtMS1zWmhCeVlfUkQwYnJ5Y21oQ0d2SEs0TkdhZFZPSmZuUklvU3R4QzBUcmpkTmtETzNOdXVHTVZXQTA3Skd5TWw4Q29tb1N3NjYyZktXQmJtSjNmWXBselFndTlMY2VkR0pIQkpOODFUWGZnM2M3SEo3UGszUDVfM0hI?oc=5",
+      "snippet": "Toronto ends practice of raising foreign flags at government buildings &nbsp;&nbsp; Toronto Star Toronto council votes to stop ceremonial raisings of flags from foreign countries a",
+      "pub": "Thu, 26 Mar 2026 23:30:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Brampton man pleads guilty to leading criminal organization that trafficked drugs from U.S. into Canada - CP24",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdFhhWV9DVEgxVkFmT01WWVZOemxEUy1QUFV1Z01BZkZNSnZoS3k4eTBrNU9EX1RmWFhlejh2dXZ3RUtpQ0IwcU5Ca2NERUViNUctRXdnQ3RTVi1uMlRYd3BHX1pQMWNaUlk5eGtNWUQ0VEtPbGx2ZHF0aHAwb2ltNnctSW5VZFBhbmxoQ1RzNjNZX3VraEN3TE5EOE1hNmxQMGQ3QVA1bXRVS1d2U2JWQndnUmpnV3QwZDJKdEtoR3lLUXVKdUdnazh1N3AwcEdsbnRtVFdPemhIdXlGVUE?oc=5",
+      "snippet": "Brampton man pleads guilty to leading criminal organization that trafficked drugs from U.S. into Canada &nbsp;&nbsp; CP24 Ontario trucking exec admits he was boss of large cross-bo",
+      "pub": "Fri, 27 Mar 2026 01:18:00 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Government Touting “Significant Capabilities” in NL as Ottawa Ramps Up Defence Spending - VOCM",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FSmFuRkZ3OFBBSDAxTDNkdW9HSTlmdXlJVFhnaG9CUGNWTERyODMyVjl0QlZyOGtyR3FnM2w2Y2VxQUhnXzBBbVdkMGFpclN5aGtUMGd3LTF4ekpMVE5uTldfTVhLWmdYdWxLX2tYYVhZZw?oc=5",
-      "snippet": "Government Touting “Significant Capabilities” in NL as Ottawa Ramps Up Defence Spending &nbsp;&nbsp; VOCM Carney announces $2B in defence spending for Nova Scotia &nbsp;&nbsp; cbc.",
-      "pub": "Fri, 27 Mar 2026 09:53:00 GMT",
+      "title": "Sunshine List: These were Ontario’s highest-paid public sector employees in 2025 - CP24",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWUtfU1pKR0hrTTBHb2dmN2xwelU4bWhVV0dOeWQ0dWJCT1dCMFZ0QWw0YTRmQ2Z2c0RGNE1HOENlblVSMm1lakpXUzY4THZ0ZFZWbnlmekFhaGN1bzJDdU9DdktwMlRVT1hybjV4RFFxblZOYmwwVTB5V0dUcWV1bU4yblVJTjRkZHRLeUhyb1R6bnhodEx1bUFraDVjdlQ4OWYxdE9ab1gyaEZZYUNzSHFTT1lVcm8wZ19ycUNGYS1JVG8?oc=5",
+      "snippet": "Sunshine List: These were Ontario’s highest-paid public sector employees in 2025 &nbsp;&nbsp; CP24 Ontario Sunshine List revealed: See the top 100 public sector employees earning o",
+      "pub": "Fri, 27 Mar 2026 15:21:08 GMT",
       "image": ""
     }
   ],
