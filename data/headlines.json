@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-28T08:29:45.016349+00:00",
+  "generated_at": "2026-03-28T09:05:04.396536+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Two Men Charged in Separate Domestic Assaults",
+      "link": "https://vocm.com/2026/03/28/295354/",
+      "snippet": "Two men are facing charges following separate domestic disturbances in St. John's and Paradise yesterday. A man has been charged with assaulting his w...",
+      "pub": "Sat, 28 Mar 2026 08:53:23 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-4-fall.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "March 28th, 2026 – Should the school year be extended to make up for time lost due to storm cancellations this winter?",
+      "link": "https://vocm.com/2026/03/28/march-28th-2026-should-the-school-year-be-extended-to-make-up-for-time-lost-due-to-storm-cancellations-this-winter/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12725').",
+      "pub": "Sat, 28 Mar 2026 08:46:37 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/holy-heart-snow.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Police Receive Multiple Reports of Woman in Distress, Officers Hoping to Confirm Her Well Being",
@@ -51,27 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/mark-carney-halifax-chamber-of-commerce.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Conception Bay South Blues Concerned About Hockey NL Decision Ahead of Herder Finals",
-      "link": "https://vocm.com/2026/03/27/295315/",
-      "snippet": "The two best senior hockey teams in the province square off tonight in the quest for the Herder, but already there is controversy. The Conception Bay ...",
-      "pub": "Fri, 27 Mar 2026 14:56:48 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/02/conception-bay-baker-flooring-senior-blues-allan-cup-2026-hockey-cbs-arena.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Overall Snow Crab TAC is Cut by 3 Per Cent, FFAW Welcomes Conservative Approach to Cuts",
-      "link": "https://vocm.com/2026/03/27/overall-snow-crab-tac-is-cut-by-3-per-cent-however-some-fishing-areas-will-see-cuts-of-20-per-cent-or-more/",
-      "snippet": "DFO has announced a cut in the Total Allowable Catch in the province's snow crab fishery - an overall decrease of 3 per cent from last year. Some fish...",
-      "pub": "Fri, 27 Mar 2026 14:44:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/DFO-Snow-Crab.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Tehran strikes military base in Saudi Arabia after Israel hits Iranian nuclear facilities - CBC",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3ZCS0R5cFZSZ3lFcDg2M3IwU1RySEZIdUVYTEM3NG5qWDRBUzBNWUI2cGJURVk3RkpFLTNJd2U3ZmFaNDB5TUpuSjFKRjI0NWgyMjBnVDhWSUhQc0JXQjAwNDZRYTdZM1JqN3FGTU55ZHc5MHVaUXRqVHF3MC1RNEcyamVncWRlSVdlcg?oc=5",
-      "snippet": "Tehran strikes military base in Saudi Arabia after Israel hits Iranian nuclear facilities &nbsp;&nbsp; CBC Iran strike on U.S. base in Saudi Arabia injures 12 troops, U.S. official",
+      "snippet": "Tehran strikes military base in Saudi Arabia after Israel hits Iranian nuclear facilities &nbsp;&nbsp; CBC Iranian missile attack on Saudi base wounds at least 10 U.S. troops, dama",
       "pub": "Sat, 28 Mar 2026 02:01:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Iran-linked hackers breach FBI director Kash Patel’s personal e-mail, publish excerpts online - theglobeandmail.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1ZbE82ZVFhcXJueGJ4Zms5aUFrQkpROTJZOWgzNC1oRTJ1OTY2VFUyY01Kc0Q4M192QnpCUDBUbDhua2ZEVWNFb001NGpVRFppV0RHZFJkc2JfRzRPbThtLWgtUmtMQkxGS2o3emU0M2NCS0U3SnI3aE1Pekl6V1JyMjJ6dnZseC1jOW9jcFNwbzJtUUt5S0d1RUtTNGV1YkQ5cjIzWEZ4T3hfbzRwQzU3SXlRUQ?oc=5",
+      "snippet": "Iran-linked hackers breach FBI director Kash Patel’s personal e-mail, publish excerpts online &nbsp;&nbsp; theglobeandmail.com FBI director’s personal email, photos and documents l",
+      "pub": "Fri, 27 Mar 2026 15:30:41 GMT",
       "image": ""
     },
     {
@@ -84,17 +92,9 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Iran-linked hackers breach FBI director Kash Patel’s personal e-mail, publish excerpts online - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE1ZbE82ZVFhcXJueGJ4Zms5aUFrQkpROTJZOWgzNC1oRTJ1OTY2VFUyY01Kc0Q4M192QnpCUDBUbDhua2ZEVWNFb001NGpVRFppV0RHZFJkc2JfRzRPbThtLWgtUmtMQkxGS2o3emU0M2NCS0U3SnI3aE1Pekl6V1JyMjJ6dnZseC1jOW9jcFNwbzJtUUt5S0d1RUtTNGV1YkQ5cjIzWEZ4T3hfbzRwQzU3SXlRUQ?oc=5",
-      "snippet": "Iran-linked hackers breach FBI director Kash Patel’s personal e-mail, publish excerpts online &nbsp;&nbsp; The Globe and Mail FBI director’s personal email, photos and documents le",
-      "pub": "Fri, 27 Mar 2026 15:30:41 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Rubio says US expects to finish Iran war 'in next couple of weeks' - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yQy0zMFJuNGVyc0dzU0FQWXNVQXZIN3FqTEdXR0FaOGxzcXRTOVBkamxjRU51MlY2c2YyaVFXT2xvbGNPcUJaZndObGItdVR0RE5CeXNmbDc5Zw?oc=5",
-      "snippet": "Rubio says US expects to finish Iran war 'in next couple of weeks' &nbsp;&nbsp; BBC Israel reports first missile attack from Yemen after Rubio says war to end in ‘weeks’ &nbsp;&nbs",
+      "snippet": "Rubio says US expects to finish Iran war 'in next couple of weeks' &nbsp;&nbsp; BBC UAE targeted with missiles and drones – as it happened &nbsp;&nbsp; The Guardian G7 diplomats ag",
       "pub": "Fri, 27 Mar 2026 21:16:30 GMT",
       "image": ""
     },
@@ -116,18 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "NDP convention kicks off as struggling party readies to pick a new federal leader - The Globe and Mail",
+      "title": "NDP convention kicks off as struggling party readies to pick a new federal leader - theglobeandmail.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObFU3LTlIWFA0UC1yTTYzNDY4YjFxMEZzYzVoZjlCY1hSa21ENEU3Q0RJUVJnUkJWa2REVkFvTHl4U0R5T21aSXZBVVlnZkRNRlc5TmR0UmZIcEZybXdnenVDSUxLQzVOSGJpWldoV0JjRDZVZXJnU1ZvSWVaV2RWM25PNUpydnNoZzhiNDhEU2dQbkhFRWRQUlZSUkk?oc=5",
-      "snippet": "NDP convention kicks off as struggling party readies to pick a new federal leader &nbsp;&nbsp; The Globe and Mail NDP leadership candidates to give final pitch before party chooses",
+      "snippet": "NDP convention kicks off as struggling party readies to pick a new federal leader &nbsp;&nbsp; theglobeandmail.com NDP leadership candidates to give final pitch before party choose",
       "pub": "Sat, 28 Mar 2026 00:04:34 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada will cancel thousands of refugee claims under new retroactive law - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYWNmeGxFT3VuWjdCVGk5SDE2T3RGczRVUmxwM2lrV3YwNnVJdW9JTEJvMTZBUkFVc2RGa2tiS0t1OTJXVWNZbGFURXFRQUNDajByaEdSTTdYeU93bGYwM2tVVjk4ZFFyRXUyUkRYMnRkbnV5bjJWVE9hcjZNX3J1UE9GeHF6dDFJN3hOUUl6dXhueWM3MmZwSDdua2RwazFRbTZYeHBFWWJYb1Zacm1JSHdjbzZLNmE5ckx4bERKbXE5VWFDLWpnNC1MOVJrd0xWMHZ5MVpIaHotSGJwTjluZWhjREh3M1ppN3ZmNUV5bw?oc=5",
-      "snippet": "Canada will cancel thousands of refugee claims under new retroactive law &nbsp;&nbsp; Toronto Star Canada’s Bill C-12 an ‘attack on refugee, migrant rights’: Advocates &nbsp;&nbsp;",
-      "pub": "Fri, 27 Mar 2026 22:20:00 GMT",
+      "title": "Man sentenced to 12 years for killing Manitoba woman in 2007 - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2Q0RzNWTk5HZlJacDFNZEhueDNPbWtMOHZBbE0temlaYUVMNVNzTXpjSHBNQUxPZzY1ajY0Qk4zYllPM3pBUzE2dUFKR2QyYnNYYTg4VkV2b0x1VC1iVVZpWl9ucURxZ1U3QmE4Q1dXaVdIUkZQbEE5cWw2WmNyYmFQTTc2WGN0OUU3cmZPeUVnYnVDM3NOOGRWOXFkVXJNRlpJ?oc=5",
+      "snippet": "Man sentenced to 12 years for killing Manitoba woman in 2007 &nbsp;&nbsp; CTV News Man who confessed to Manitoba cold case killing of Crystal Saunders gets 12 years &nbsp;&nbsp; CB",
+      "pub": "Fri, 27 Mar 2026 22:06:55 GMT",
       "image": ""
     }
   ],
