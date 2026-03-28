@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-03-28T12:35:27.281053+00:00",
+  "generated_at": "2026-03-28T13:44:25.886716+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Federal NDP Leadership Vote This Weekend",
+      "link": "https://vocm.com/2026/03/28/295379/",
+      "snippet": "Party faithful are choosing the next leader of the federal NDP this weekend in Winnipeg. Five people are running for the party's top job after it suff...",
+      "pub": "Sat, 28 Mar 2026 13:03:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/ndp-candidates-angus-reid.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Trump Moves to Pay TSA Workers as Homeland Security Funding Fight Deepens",
+      "link": "https://vocm.com/2026/03/28/trump-moves-to-pay-tsa-workers-as-homeland-security-funding-fight-deepens/",
+      "snippet": "Travelers may soon find some relief at the airport gate. Following a Friday executive action, President Donald Trump has moved to restore pay for Tran...",
+      "pub": "Sat, 28 Mar 2026 11:47:49 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/03/752222784.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Man Faces Resisting Charge After Altercation with RCMP",
@@ -51,26 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-4-fall.png"
     },
     {
-      "source": "VOCM",
-      "title": "March 28th, 2026 – Should the school year be extended to make up for time lost due to storm cancellations this winter?",
-      "link": "https://vocm.com/2026/03/28/march-28th-2026-should-the-school-year-be-extended-to-make-up-for-time-lost-due-to-storm-cancellations-this-winter/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12725').",
-      "pub": "Sat, 28 Mar 2026 08:46:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/holy-heart-snow.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Police Receive Multiple Reports of Woman in Distress, Officers Hoping to Confirm Her Well Being",
-      "link": "https://vocm.com/2026/03/27/police-receive-multiple-reports-of-woman-in-distress-officers-hoping-to-confirm-her-well-being/",
-      "snippet": "RCMP in Bay St. George are hoping to speak with a woman who witnesses in Stephenville say appeared to be in distress following a concerning incident i...",
-      "pub": "Fri, 27 Mar 2026 18:36:31 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/06/GFW-RCMP-Sign.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Israeli military says it identified a launch of a missile from Yemen - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaXZaRFI1U2hjSXprMFpvMTFpUmZYYi1fMHp4cmd2Q1Vlc1V2Y1JHbDNjajlxQ3VnOFNYSjdwaTlHaHJId2pCX0Nvblh4WmZPZmRfMjNFQkxCWWNWbXU2ajJRdzVQcXh4NHBaQU5MQ1pWa3lFZS1zZWRIbXQxQjFfM3I2QW5kV3YxakJ5MXMtNVBnY3lBMDRaNi1uR09oVElEVmg2OTVBSndUVHlhMWZv?oc=5",
-      "snippet": "Israeli military says it identified a launch of a missile from Yemen &nbsp;&nbsp; Reuters Yemen's Houthis launch Israel strike, the first time since the U.S.-Israel war began &nbsp",
+      "snippet": "Israeli military says it identified a launch of a missile from Yemen &nbsp;&nbsp; Reuters Yemen's Houthis claim responsibility for missile attack on Israel &nbsp;&nbsp; CBC Iran-ba",
       "pub": "Sat, 28 Mar 2026 04:04:00 GMT",
       "image": ""
     },
@@ -84,9 +84,9 @@
     },
     {
       "source": "Google News Canada",
-      "title": "NDP convention kicks off as struggling party readies to pick a new federal leader - The Globe and Mail",
+      "title": "NDP convention kicks off as struggling party readies to pick a new federal leader - theglobeandmail.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObFU3LTlIWFA0UC1yTTYzNDY4YjFxMEZzYzVoZjlCY1hSa21ENEU3Q0RJUVJnUkJWa2REVkFvTHl4U0R5T21aSXZBVVlnZkRNRlc5TmR0UmZIcEZybXdnenVDSUxLQzVOSGJpWldoV0JjRDZVZXJnU1ZvSWVaV2RWM25PNUpydnNoZzhiNDhEU2dQbkhFRWRQUlZSUkk?oc=5",
-      "snippet": "NDP convention kicks off as struggling party readies to pick a new federal leader &nbsp;&nbsp; The Globe and Mail NDP leadership candidates to give final pitch before party chooses",
+      "snippet": "NDP convention kicks off as struggling party readies to pick a new federal leader &nbsp;&nbsp; theglobeandmail.com NDP leadership candidates to give final pitch before party choose",
       "pub": "Sat, 28 Mar 2026 00:04:34 GMT",
       "image": ""
     },
@@ -100,17 +100,17 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Iranian Hackers Claim They Broke Into Kash Patel’s Email - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0tYQm53ZW04Tmt1bUZQcUdLcFc5d2VLMnBWa29BWmtkMm80S0lRZE1lS2tITVR4LTE1cVZsTnVpV0JmZDdSamxHQnlzQnNBa2R4UkpJSm5rMWVMaEpfTHd0TWJ4MThfd3RDd1k0bEp6b3psdGxMcUx6dmdBYjdfWUtTa1kyMkpZOU1YektBYTR4aldCcUIwUHFnSzRsT3JaUEQtUklfLXg?oc=5",
-      "snippet": "Iranian Hackers Claim They Broke Into Kash Patel’s Email &nbsp;&nbsp; Forbes Iran-linked hackers have breached FBI Director Kash Patel’s personal emails &nbsp;&nbsp; CNN FBI direct",
-      "pub": "Fri, 27 Mar 2026 15:06:40 GMT",
+      "title": "The nerve centre running a new mission to the Moon - BBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWmNfZ1JIcy1QZ200Q1UzYlpMN09uLVY2eURXMXdvcHVhTXlCYTVYZlhTSHJWVXhBLTI1dk54MzJrbzVkc2FkdktEOFRDR0l4dzhySGlESUxLOF9HSWRQeGtrWUFZc3VuOU14WWwtQk54R252M1diY3hRTENPMU4ydzdaNTBLOGh4VmZqWHhkNWJBSTJkYmFN?oc=5",
+      "snippet": "The nerve centre running a new mission to the Moon &nbsp;&nbsp; BBC Meet the Artemis crew in NASA's first astronaut mission to the moon in more than a half-century &nbsp;&nbsp; hal",
+      "pub": "Sat, 28 Mar 2026 10:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Ontario deficit nearly doubles as province tables $244.2 billion budget in face of ‘unpredictable economic shocks’ - CP24",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQS2JIYWE1MHFUeFlGVFJ6OExiOGRJRlozWkpiTHdrVDNlcTE5WkxvT3VWSFpLcVowQkcxNElOWkt1SUNxbk9zc25tV1JZVjNwc1V4NmF1VWQ3c0lURnZnMHktbC00U1cwZkhkeDZ0U0laUW8ya3FJeFEyV1JoRnpUcVhmV1B5emxkV21ET1ZScHBnQzFGMHZsQUEyczZRNlFoUWtBZGJvYVlsZTRmNG1Yd0pyblpPdlFsUkJsTFZDUkpCMlpOS1RiTndQSkMyOEQtZnBpOXdFX1ZFTHQ4a1I1V2hQSUlERER1WkdDZ1AzUm5GZDN6Qk1z?oc=5",
-      "snippet": "Ontario deficit nearly doubles as province tables $244.2 billion budget in face of ‘unpredictable economic shocks’ &nbsp;&nbsp; CP24 Mayors from Waterloo region share their wins an",
+      "snippet": "Ontario deficit nearly doubles as province tables $244.2 billion budget in face of ‘unpredictable economic shocks’ &nbsp;&nbsp; CP24 Ontario’s budget banks on a housing resale rebo",
       "pub": "Fri, 27 Mar 2026 02:20:00 GMT",
       "image": ""
     },
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "The 2025 Sunshine List is out, here are the highest paid public servants in London - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb19Ock9RNHNCUlZQbTNIcnhfNlVYZUVVZmZid0psSFN0V1hlUkZzUC1lc0I1V20wbnZ0Sk1CM2VRc0x3SW1zLVVDWGhKbXB6d215dG5PV1ZZYjZzc3hPV3FvVElDaXdxRWwtaUhzS002Rl8wS2RsSUNFVTloNndjQVdSR2pmdXNKR2dVQVZLSndXOXAzWks1cTZFWXg3d0dqT3VsUTluQ0J0MXVZQVZpOEFFTWxtQWtOZVc3WENSOG1lX3hZb2JMSw?oc=5",
-      "snippet": "The 2025 Sunshine List is out, here are the highest paid public servants in London &nbsp;&nbsp; CBC Ontario Sunshine List revealed: Here's the top public sector employees who earne",
-      "pub": "Fri, 27 Mar 2026 21:01:19 GMT",
+      "title": "‘Canada as a brand has suffered’: Post-secondary schools react to AG report on international students - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTkVQNFgxTm5jaUZxNktPWWVuc2lTaV9NZlFYZ0I4aHR2cDZnYkZvbXRhVHVlOFpPSl9FQUhhUDh2Wkp2ZHh3V2xPRDF3NDJNSWlxQjdvUTBsZ1ozTG9CZDAxdWp1bWRQSEFpLW5FYjI4SDZKd2NkaWo2c0NmM3BVNVU4TjRSZWhwM3RIc0tGWmZ3Z1VwMU40ZUhSTHl0TXRnR0h1cmdKZVRQQ0dtTExBRU9lem5hU2tCVmNiajJpdU5UOFdLQk1ubkFzTWJ6ZkhMdDlF?oc=5",
+      "snippet": "‘Canada as a brand has suffered’: Post-secondary schools react to AG report on international students &nbsp;&nbsp; CTV News TRU calls international student enrollment caps an ‘over",
+      "pub": "Sat, 28 Mar 2026 09:00:00 GMT",
       "image": ""
     }
   ],
