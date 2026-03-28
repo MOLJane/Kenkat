@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T14:24:47.983934+00:00",
+  "generated_at": "2026-03-28T14:55:53.716746+00:00",
   "count": 16,
   "items": [
     {
@@ -60,9 +60,9 @@
     },
     {
       "source": "VOCM",
-      "title": "Two Men Charged in Separate Domestic Assaults",
+      "title": "St. John’s Man Charged in Domestic Disturbance",
       "link": "https://vocm.com/2026/03/28/295354/",
-      "snippet": "Two men are facing charges following separate domestic disturbances in St. John's and Paradise yesterday. A man has been charged with assaulting his w...",
+      "snippet": "A man has been charged with assaulting his wife and her son at a residence in the east end of St. John's. The incident occurred yesterday afternoon, r...",
       "pub": "Sat, 28 Mar 2026 08:53:23 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-4-fall.png"
     },
@@ -78,7 +78,7 @@
       "source": "Google News Canada",
       "title": "NDP convention kicks off as struggling party readies to pick a new federal leader - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObFU3LTlIWFA0UC1yTTYzNDY4YjFxMEZzYzVoZjlCY1hSa21ENEU3Q0RJUVJnUkJWa2REVkFvTHl4U0R5T21aSXZBVVlnZkRNRlc5TmR0UmZIcEZybXdnenVDSUxLQzVOSGJpWldoV0JjRDZVZXJnU1ZvSWVaV2RWM25PNUpydnNoZzhiNDhEU2dQbkhFRWRQUlZSUkk?oc=5",
-      "snippet": "NDP convention kicks off as struggling party readies to pick a new federal leader &nbsp;&nbsp; The Globe and Mail NDP leadership candidates making last-minute pitches before voting",
+      "snippet": "NDP convention kicks off as struggling party readies to pick a new federal leader &nbsp;&nbsp; The Globe and Mail NDP leadership candidates to make their final pitch to voters at W",
       "pub": "Sat, 28 Mar 2026 00:04:34 GMT",
       "image": ""
     },
@@ -88,6 +88,14 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbzNWRVpJTDVEeWFxa2huamRiNjVVcFRMZG5IYk1JbmRtT2JVdkJsOEtXMXh6VGNzZUszZnRvc2pBMGtDeU80S3BZSjI4ekVzd1hJMVZWVmVGaGwtRVFqa0FLdnJLY0kwUVN0aHlDQlN1dnJPN0RyLXpvOVZfWnlwc1g4eW93bnU5MWVHYjZYczNmbnhQWXlBUnk0UmhiN19qZWRlZGhBeWg0bnVLRjJCemZqemJva1hXb3NBRQ?oc=5",
       "snippet": "Iran says nuclear sites hit after Israel warns attacks 'will escalate' &nbsp;&nbsp; Euronews.com Iran war updates: Tehran vows retaliation for Israeli hits on nuclear sites &nbsp;&",
       "pub": "Fri, 27 Mar 2026 17:14:46 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Métis National Council president says RCMP statement of regret falls short - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZjgwdnhQeUVacXkzUWFQVVJmTFE3SEVtay12VkR0bUJST0oxT1JFRWE1ZkxBeXhrcHhVVW9OcTBwMTEwWURBR1dhdE1JalNKclYwMTBDNmxySE9MeG9Na0haN1ZwM3R5OHhRaUFGX05FSU14c0xTVm9Yd0VWNm42QmdPNA?oc=5",
+      "snippet": "Métis National Council president says RCMP statement of regret falls short &nbsp;&nbsp; CBC The RCMP, the spy and the betrayal of national chief George Manuel &nbsp;&nbsp; CBC Méti",
+      "pub": "Sat, 28 Mar 2026 00:59:00 GMT",
       "image": ""
     },
     {
@@ -102,23 +110,15 @@
       "source": "Google News Canada",
       "title": "The nerve centre running a new mission to the Moon - BBC",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWmNfZ1JIcy1QZ200Q1UzYlpMN09uLVY2eURXMXdvcHVhTXlCYTVYZlhTSHJWVXhBLTI1dk54MzJrbzVkc2FkdktEOFRDR0l4dzhySGlESUxLOF9HSWRQeGtrWUFZc3VuOU14WWwtQk54R252M1diY3hRTENPMU4ydzdaNTBLOGh4VmZqWHhkNWJBSTJkYmFN?oc=5",
-      "snippet": "The nerve centre running a new mission to the Moon &nbsp;&nbsp; BBC How Canada came to be part of Artemis II’s historic mission to the moon &nbsp;&nbsp; The Globe and Mail Meet the",
+      "snippet": "The nerve centre running a new mission to the Moon &nbsp;&nbsp; BBC Meet the Artemis crew in NASA's first astronaut mission to the moon in more than a half-century &nbsp;&nbsp; Cit",
       "pub": "Sat, 28 Mar 2026 10:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ontario deficit nearly doubles as province tables $244.2 billion budget in face of ‘unpredictable economic shocks’ - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQS2JIYWE1MHFUeFlGVFJ6OExiOGRJRlozWkpiTHdrVDNlcTE5WkxvT3VWSFpLcVowQkcxNElOWkt1SUNxbk9zc25tV1JZVjNwc1V4NmF1VWQ3c0lURnZnMHktbC00U1cwZkhkeDZ0U0laUW8ya3FJeFEyV1JoRnpUcVhmV1B5emxkV21ET1ZScHBnQzFGMHZsQUEyczZRNlFoUWtBZGJvYVlsZTRmNG1Yd0pyblpPdlFsUkJsTFZDUkpCMlpOS1RiTndQSkMyOEQtZnBpOXdFX1ZFTHQ4a1I1V2hQSUlERER1WkdDZ1AzUm5GZDN6Qk1z?oc=5",
-      "snippet": "Ontario deficit nearly doubles as province tables $244.2 billion budget in face of ‘unpredictable economic shocks’ &nbsp;&nbsp; CP24 Ontario’s budget banks on a housing resale rebo",
-      "pub": "Fri, 27 Mar 2026 02:20:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "‘I have to find at least 35 people before June 1’: Worker shortages in Alberta’s tourist towns - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXM4MnF3eWFxa0w3SGhDa1VzOHFlLU5wSXF2RUNqMTkxUjlTdGRSaUhDRmZfUEtaOVhobF95eEdxV3ZrVEtSeTZqaE85cnJqbEdpeTN3d0JvLVZvUlhkWHhvdXVqem9IQVZZWURWejc0T3d3MjR0ei1ZcGVlM2dyeU9MWGR5cFpLazdtTUI5UTBZdEltMEI1TEJITDBKYXFZRzNTNGxfb0dCZXdjT1pqS0gyOGlINUpZdGo4LXdHdW5CV3BERzNCTg?oc=5",
-      "snippet": "‘I have to find at least 35 people before June 1’: Worker shortages in Alberta’s tourist towns &nbsp;&nbsp; CTV News",
+      "title": "‘I have to find at least 35 people before June 1’: Worker shortages in Alberta’s tourist towns - CP24",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWnFUN3p4bjVPRlc5WTRtcjExRUZ3aEdzX2ZwVENXX2FSY0M1WTh2RFlrQ05aeTIxV0RIblB6eW0xNWlQZ2FERWRhc1R4VVVvNHFab1I0X20ybGgwZ2FCd1pUeUdlWVFrSjdGcVhQWXpNOXBLdWlwOGNhQTRPVlVuUFpqenZFMHpVMDNrY3o0cXgyQjNsZXBza2t6dnk4aTF3dk1ZSk1NVnVmNXY4bTRUelMwYkV2X1pIYTZPWmVQenBVT2t3MElv?oc=5",
+      "snippet": "‘I have to find at least 35 people before June 1’: Worker shortages in Alberta’s tourist towns &nbsp;&nbsp; CP24",
       "pub": "Sat, 28 Mar 2026 09:00:00 GMT",
       "image": ""
     },
