@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-29T07:31:38.712885+00:00",
+  "generated_at": "2026-03-29T08:31:32.318139+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "March 29th, 2026 – Have you been paying attention to the federal NDP leadership contest?",
+      "link": "https://vocm.com/2026/03/29/march-29th-2026-have-you-been-paying-attention-to-the-federal-ndp-leadership-contest/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12728').",
+      "pub": "Sun, 29 Mar 2026 08:00:53 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/untitled.png"
+    },
     {
       "source": "VOCM",
       "title": "Federal NDP Leadership Vote This Weekend",
@@ -59,14 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/09/books-library-literacy-reading-mun-education-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "St. John’s Man Charged in Domestic Disturbance",
-      "link": "https://vocm.com/2026/03/28/295354/",
-      "snippet": "A man has been charged with assaulting his wife and her son at a residence in the east end of St. John's. The incident occurred yesterday afternoon, r...",
-      "pub": "Sat, 28 Mar 2026 08:53:23 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-4-fall.png"
-    },
-    {
       "source": "Google News Canada",
       "title": "Avi Lewis vows to unify NDP but stands by attacks on Mulcair, former Alberta minister - National Post",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNmxVR2laRkpFcm1WSzhvLTNTV081WEg1OW1yeWdYTzVKNF9uam4wMmhWTDJZSmVKdmJQNGE0dl9xdEM0SGg1M29KcHBiRmpoa1dCLXBvQmJaRjdNZjBiZWp2RDRCOVYxei1aTW1rMDRudHlWZUdOM0dzZ3d6ZWtHR0dERklWVVd2blZ5ZFB2U2pZVEkySjlxQ2tweU1tLVRjUEp3N2ljQVZleHcxY3B6cEVzMlIxWkVGRXpKeUtB?oc=5",
@@ -76,10 +76,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Yemen’s Houthis launch ballistic missile at Israel as Middle East conflict escalates - france24.com",
+      "title": "Yemen’s Houthis launch ballistic missile at Israel as Middle East conflict escalates - France 24",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLWVqbXN6ejQzWVlkczBIUXF0YjNUdURCamsxQ0VNWGRRdjZFLWhFR0xudmFxNUNpazYtcFRnSUIwRHcwX3p2QlAzUE9iMGRLNUtmbWN6T3IwRjk3M3h4OEJTX2lHVjN3LTc4WXVqN2FIZzNuOGRFREFtUlAtbnVucThaNWRFQ1BvREJYMVhfeUc3VFpjckMzYlE4MUVXUThSM2V6UlBHS1E4UVJ0R0FGWXoxQ0xzRVI0QmxWbVJ6TVpqWnIwRXBTVDVRdGphdw?oc=5",
-      "snippet": "Yemen’s Houthis launch ballistic missile at Israel as Middle East conflict escalates &nbsp;&nbsp; france24.com Live updates: Iran war, heavy bombardment in Tehran as conflict expan",
+      "snippet": "Yemen’s Houthis launch ballistic missile at Israel as Middle East conflict escalates &nbsp;&nbsp; France 24 Live updates: Iran war, heavy bombardment in Tehran as conflict expands ",
       "pub": "Sat, 28 Mar 2026 21:46:12 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "'No Kings' protests in the U.S. on Saturday could be the biggest yet. Here's why - CBC",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jbEg0YWhDQWxBV01abi1kVG1PakplamxQMy0zVnJuNjVNNWV0LWdTRXhSYURYOENqelp6bi1nNHFXYXhucmpWcHhsWHBGNHhmNnJZeThIM25Pc2NJYzk0NmkzTEJxdjdaTlJScw?oc=5",
+      "snippet": "'No Kings' protests in the U.S. on Saturday could be the biggest yet. Here's why &nbsp;&nbsp; CBC No Kings protesters across the US rally against Donald Trump &nbsp;&nbsp; BBC 'No ",
+      "pub": "Fri, 27 Mar 2026 18:58:37 GMT",
       "image": ""
     },
     {
@@ -88,14 +96,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTHNxVXhIUHJ0WkhzU2piMVY4cWFCTVVjZnRFeEJUSUFLcGgySVhKUHBlMHNNam5wd2k3b25wZkxzLXg3TEVvRkdRS3pFTkVkRHJwT2Z4SGVDSVdya3YxUk4tUThXcUNlSzhyamdsRDhQYzBwd3ZjOTRxLXRpT2xWTllLU2ZfMWl3OGttVkxfanFVcHctNmlFc3dLazR3b1IwRUZqcGFaUVVMa3QtWm41TU1oR29LYUxlX3dMNXZ3NmZHdw?oc=5",
       "snippet": "Danielle Smith reacts to UCP MLA op-ed inviting signatures for separation referendum &nbsp;&nbsp; CTV News View Full Coverage on Google News",
       "pub": "Sat, 28 Mar 2026 19:50:18 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "'No Kings' protests in the U.S. on Saturday could be the biggest yet. Here's why - CBC",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jbEg0YWhDQWxBV01abi1kVG1PakplamxQMy0zVnJuNjVNNWV0LWdTRXhSYURYOENqelp6bi1nNHFXYXhucmpWcHhsWHBGNHhmNnJZeThIM25Pc2NJYzk0NmkzTEJxdjdaTlJScw?oc=5",
-      "snippet": "'No Kings' protests in the U.S. on Saturday could be the biggest yet. Here's why &nbsp;&nbsp; CBC No Kings protests across the US rally against Donald Trump &nbsp;&nbsp; BBC 'No Ki",
-      "pub": "Fri, 27 Mar 2026 18:58:37 GMT",
       "image": ""
     },
     {
@@ -116,18 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Budget 2026: Once again, the Ford government chooses cuts and low wages in social services - CUPE Ontario",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTM5cTkxek0wak1RX1A2YmlpVWFlT0E4VHN0YTV5SXpPUFpCUXRUb0thR2JPbGdrbFlTQmo4MGFHS0ZwR21qUnFXQVh4alZUWTVHV29jN3lVSnJSYlh6d1U3aDRQcVM2Y01sSEwyMmdDTjhYcEVXUC1aWjJPUGFPdmppcm1qdHFFS1BSbDFWSUd1XzlMZDFCZ2JYWE93NkdSV0VucnU0YURwQ0NV?oc=5",
-      "snippet": "Budget 2026: Once again, the Ford government chooses cuts and low wages in social services &nbsp;&nbsp; CUPE Ontario Mayors from Waterloo region share their wins and disappointment",
-      "pub": "Fri, 27 Mar 2026 20:43:53 GMT",
+      "title": "‘Doesn’t make any sense’ Restaurant owners voice frustration over exclusion from Manitoba tax cut - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRVk0ZDQwMEExRHh2OWV6UHJlaGtycGZsMi15T3dsUF9QaUNYbGt1UlNlaktKek1zVmM5QjlUdFZTQlNyVzJuT1Y5NWxqODV4ekhOTk1TUHhPY2kwS1ZwLXRaam8wNmhtdF9DMFVWUTBSTkNFSDh0Mlcxb1lqQ2VzNjhOMGZSMk5VWEpBakJoVVMwUGhRLW55RjIwd0dBejdlazd1RWV4Q3hFV0hDSzlWMG82aTVSY3o0RThBOGxqOVd2MkxSUl9VUjhiS0pzQQ?oc=5",
+      "snippet": "‘Doesn’t make any sense’ Restaurant owners voice frustration over exclusion from Manitoba tax cut &nbsp;&nbsp; CTV News View Full Coverage on Google News",
+      "pub": "Sat, 28 Mar 2026 17:51:45 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Was this Ontario boy’s death a murder? After months of disturbing evidence, the trial of his would-be parents goes to the judge - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNaC12SUg5YTlWdFVhMHBkdzg3dmNPa1haOEt3S3F0QncwN1puVVdsdERMWGw3MlY5RFlKc2lvRkw5eWw0eTFVcjBjaXZKdkRIR3lMZ2lCNHJtQUtyYWdETEJTcjM4YUFOZkFsVm16LVhzWVVtMlNQaUEycmVQM0dla040Yy12S2dHcnAtQThrX3czSXBUcjRxT29sY0JRckhJUVZwSzNsRzhTN1JZUmxwbEhNclhMY2VIQW5TTUVGazFoQjRkZkItUHFlZXp0MW5aaENMR0FEX1RDb0NvVk00alIteGdWSFRfWTR4R21FN29wRFVnQjlYYkkybjlsTlpnUzNYbkhUY2huRU5nRnJjR2ZRNjRKdnJka2d0bzJ6WW1CME5qMU5hZW83bGpsNjFEZ3lUUWVLdXFKWE1TaEE?oc=5",
-      "snippet": "Was this Ontario boy’s death a murder? After months of disturbing evidence, the trial of his would-be parents goes to the judge &nbsp;&nbsp; Toronto Star Ontario murder case highli",
-      "pub": "Sat, 28 Mar 2026 09:00:00 GMT",
+      "title": "Métis National Council president says RCMP statement of regret falls short - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZjgwdnhQeUVacXkzUWFQVVJmTFE3SEVtay12VkR0bUJST0oxT1JFRWE1ZkxBeXhrcHhVVW9OcTBwMTEwWURBR1dhdE1JalNKclYwMTBDNmxySE9MeG9Na0haN1ZwM3R5OHhRaUFGX05FSU14c0xTVm9Yd0VWNm42QmdPNA?oc=5",
+      "snippet": "Métis National Council president says RCMP statement of regret falls short &nbsp;&nbsp; CBC The RCMP, the spy and the betrayal of national chief George Manuel &nbsp;&nbsp; CBC Méti",
+      "pub": "Sat, 28 Mar 2026 00:59:00 GMT",
       "image": ""
     }
   ],
