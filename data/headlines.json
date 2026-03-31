@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-03-31T10:50:22.671469+00:00",
+  "generated_at": "2026-03-31T11:42:24.504250+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "New Study Shows About 75 Per Cent of Canadian Adults Support U16 Social Media Ban",
+      "link": "https://vocm.com/2026/03/31/new-study-shows-about-75-per-cent-of-canadian-adults-support-u16-social-media-ban/",
+      "snippet": "Most Canadians support a ban on the use of social media platforms by children under the age of 16. Angus Reid's latest survey shows that three quarter...",
+      "pub": "Tue, 31 Mar 2026 11:06:18 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/cell-phones-social-media-use.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Premier Touting Oil and Gas Conference in Texas a Success",
@@ -59,27 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/foxtrap-nl-511-highway-camera.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "March 31, 2026 – Do you agree with the Public Utilities Board making pricing adjustments five days a week in response to current market conditions?",
-      "link": "https://vocm.com/2026/03/31/march-31-2026-do-you-agree-with-the-public-utilities-board-making-pricing-adjustments-five-days-a-week-in-response-to-current-market-conditions/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12734').",
-      "pub": "Tue, 31 Mar 2026 08:00:06 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/06/pub-public-utilities-board-logo-pricing-review-june-5.jpg"
+      "source": "Google News Canada",
+      "title": "Buying a new build home? Say bye to the HST - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVDZxOFdrNWZxZmFyaUZlVnAyd1kwbDNtWXhjY3JGRnM1NzhfMV9JTk51Q3BoRE5abEZRY3duVkdGNlV1anFEdERNLWR3UUlsdHJYYl9NOHpUTEdxTWtrYzVPd3NGb2d4X25jeURjU1hOTW03X0xyOVotUTluMjRLeEtiNUZBanVjTVQ4?oc=5",
+      "snippet": "Buying a new build home? Say bye to the HST &nbsp;&nbsp; CTV News New deal between Ontario, feds will create affordable housing for middle-class: expert &nbsp;&nbsp; CTV News Ford,",
+      "pub": "Mon, 30 Mar 2026 21:25:09 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Braid: Under new leader Avi Lewis, federal NDP looks more communist than social democratic - Calgary Herald",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUmlENnEwWW9QNWNNdXYxNmQzUGFTZmlTYjJzNU0wRnNDWkczTlVjX3l1d2MtSzdDV0FxMmpJcmlxVThFRE9ybm45S3BQZDE4bXlTSDltOEJyWXE4Rk9QNktUbEhnVVMtR3VsWDNIM1pDTmlRVTItWjZvUm1oTnlDUnhLTkw3SnJMOTFwcFJKMzFVcWdEekNCMldQaE5KWnM5anFfbzZIMHo?oc=5",
-      "snippet": "Braid: Under new leader Avi Lewis, federal NDP looks more communist than social democratic &nbsp;&nbsp; Calgary Herald Canada's new NDP leader says party must have 'hard conversati",
+      "snippet": "Braid: Under new leader Avi Lewis, federal NDP looks more communist than social democratic &nbsp;&nbsp; Calgary Herald NDP Leader Avi Lewis vows to move party to the left and stop ",
       "pub": "Mon, 30 Mar 2026 22:16:29 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Surrey sees 4 shootings in 48 hours, 1 of them deadly: police - BC - Global News",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hbHo0ODdhZzhpTG1TNko1R0xDaGlpdTFqYU9XejV5el9jV0NJV2FfUHFEeE9KbWJYQzJJMlhSRWpuRWo1dExiaWM4NUx2eF9Kbl8tWmY5dDc4MklzY1FqUzJ2U3dsY3ZFS1o3cVpqYy1hUQ?oc=5",
-      "snippet": "Surrey sees 4 shootings in 48 hours, 1 of them deadly: police - BC &nbsp;&nbsp; Global News Shots fired at Surrey business early Monday morning, police believe shooting tied to ext",
-      "pub": "Mon, 30 Mar 2026 21:08:09 GMT",
+      "title": "Freezing rain forecast for the Greater Montreal area - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0p5dU9HSDhqT1hjR0tWQWVwUlA4bjAwbHI2YWgxTjBjQlFiTUV4QTFYYXByMlhoMnZDdFFlZEVhTFMyNzlvUEJ5YWpuTTRBNGpWQkN4QXFlX0xVM3VBUllWb3RkdWMxa0gxOVNmck5pa2hfdEZvcXVRaUU5ZWpRdzBJUFRvMkp6YTVMMDlYcUFZbE5WekN6RVctYmhRb25lcC1z?oc=5",
+      "snippet": "Freezing rain forecast for the Greater Montreal area &nbsp;&nbsp; CTV News Double dose of freezing rain expected for most of western Quebec &nbsp;&nbsp; CBC Freezing rain warning f",
+      "pub": "Mon, 30 Mar 2026 10:53:29 GMT",
       "image": ""
     },
     {
@@ -92,42 +100,34 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Buying a new build home? Say bye to the HST - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVDZxOFdrNWZxZmFyaUZlVnAyd1kwbDNtWXhjY3JGRnM1NzhfMV9JTk51Q3BoRE5abEZRY3duVkdGNlV1anFEdERNLWR3UUlsdHJYYl9NOHpUTEdxTWtrYzVPd3NGb2d4X25jeURjU1hOTW03X0xyOVotUTluMjRLeEtiNUZBanVjTVQ4?oc=5",
-      "snippet": "Buying a new build home? Say bye to the HST &nbsp;&nbsp; CTV News Province, feds agree to cut development charges. How much will that change costs for homebuyers? &nbsp;&nbsp; CBC ",
-      "pub": "Mon, 30 Mar 2026 21:25:09 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Israel's parliament approves the death penalty for Palestinians convicted of murdering Israelis - AP News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeGlGSkFtUGhxdzZqWVpYVkxPMDRTSkJoZnlFNXB1R014TWpPUVFxaGNUejlCQ0hHeEtPNWxUVG9pc1Q1RS0yd25veFM4SUhyek9uMU5OZzQ5dUQ2emxZbW05Yjl6dmZ4RldRTGpGZ2tKMThsUHpJOVU0OE13T2VPMTRfZ3NiSF8tMlBlWGlLaTVYMWxOVlpwM01tSU9GV1JzRjVHSmFHN3NjaE43dGNnMzFlb2Nndw?oc=5",
-      "snippet": "Israel's parliament approves the death penalty for Palestinians convicted of murdering Israelis &nbsp;&nbsp; AP News ‘Dangerous escalation’: World reacts to Israel passing death pe",
-      "pub": "Tue, 31 Mar 2026 04:43:00 GMT",
+      "title": "Surrey sees 4 shootings in 48 hours, 1 of them deadly: police - BC - Global News",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hbHo0ODdhZzhpTG1TNko1R0xDaGlpdTFqYU9XejV5el9jV0NJV2FfUHFEeE9KbWJYQzJJMlhSRWpuRWo1dExiaWM4NUx2eF9Kbl8tWmY5dDc4MklzY1FqUzJ2U3dsY3ZFS1o3cVpqYy1hUQ?oc=5",
+      "snippet": "Surrey sees 4 shootings in 48 hours, 1 of them deadly: police - BC &nbsp;&nbsp; Global News Shots fired at Surrey business early Monday morning, police believe shooting tied to ext",
+      "pub": "Mon, 30 Mar 2026 21:08:09 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Kharg Island is key to Iran's oil exports. Targeting it carries major risks - PBS",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVTI0eldHWm5VeGEySjRjR0xHTnlLYmZza2YxMnJqN1Y1em5yUEhiREdfTlUtUzFQTm0yS21jT1dHTnhfRThpOVNNeGhaOFBRM2dEZnB2S1VLUWFQam5xVGQxdmd3U2MzSWNlNDFEZGdFU0dIb1d2Z0RBUXBPbjJxcWswTmZxUHI2VmdRUWhLU05oQVNxSHRPVTR0amVhMXY4cENJTnFFREhJNnZp0gGyAUFVX3lxTE5ETXVqUU41LUdfNTBDMzFCQy1adjRWYWQwVVI0R3RQX3BBZEQzVEtfMGlHUXYxX3hoWklRVFpmQ1djOUZLNDNxWDNHWFl0NnRuZVZmaUxncXBlRllxa2cwTTN6NjNXcGRUYWN3SE15N1RjTWZCQWhOQ0J6bGJ0X0k2TnhMNWdBUGVWajBualc4Z2pSckk4VDlSWWdoclJTeS0xQ2xpR2l0eTVpanpDc0dXRWc?oc=5",
-      "snippet": "Kharg Island is key to Iran's oil exports. Targeting it carries major risks &nbsp;&nbsp; PBS Why Iran's Kharg Island could shape the war — and oil prices &nbsp;&nbsp; CBC Business ",
+      "snippet": "Kharg Island is key to Iran's oil exports. Targeting it carries major risks &nbsp;&nbsp; PBS Trump mulls seizing Iranian island even as Pakistan steps up pressure for diplomatic ta",
       "pub": "Mon, 30 Mar 2026 17:39:53 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "STC chief calls for FSIN leadership change after audit findings - SaskToday.ca",
+      "title": "STC chief calls for FSIN leadership change after audit findings - sasktoday.ca",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM3UzSDlOYWxXbEFmSFRZcFNKc05hLTU5NmxTWHdkQTM5d2ZfZFRkRWc0enl5ZzRFOXNjaW8xSkJwQm5IdGpRbjVLb1pvb01XV2lIMEtDUDFvUXJ6ZS12SzBFTDQ3cjU4dllRT2dsb19GcExHNy1kTUN1aTRZOGFDc0R0d3gtUEdnTlBRWlRaT3FYWks4SmxXUzdOXy0yQW9xZHhPUE5JVHpZUGFGTE5jRnM0Um1vcllEOFhpbmRsTHB6Z0U?oc=5",
-      "snippet": "STC chief calls for FSIN leadership change after audit findings &nbsp;&nbsp; SaskToday.ca 2 chiefs call on FSIN to replace board, say transparency needed in wake of audit &nbsp;&nb",
+      "snippet": "STC chief calls for FSIN leadership change after audit findings &nbsp;&nbsp; sasktoday.ca 2 chiefs call on FSIN to replace board, say transparency needed in wake of audit &nbsp;&nb",
       "pub": "Tue, 31 Mar 2026 00:36:50 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "RCMP alerted about P.E.I. cabinet minister's dealings with golf developer: premier - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUxFVUlmeXYtTFFyV3Q1Nl9ySmJPZ1oxcEoydzBGcDlaTXVTaVdmMFJvUEVzNEdxU004LWtlbkpuM1RNRlRrNnVUaHhqQjVra2tfaXVmcXlwV3NtNE1CY0g1RzU0bExhckpvSnk0WTk3Sk9mcVlBX0Z5bVJMSVZTaDl1aDRDUW14OWpHQTlhYTB1S3cyXzVrNUQtMmZSNDc0YmZPWTBXS05HVWd0Z19DSm1CNFMwdEpSUEpLMlA2UDIxdw?oc=5",
-      "snippet": "RCMP alerted about P.E.I. cabinet minister's dealings with golf developer: premier &nbsp;&nbsp; Castanet Arsenault responds to removal from cabinet, says he acted 'with the best of",
-      "pub": "Mon, 30 Mar 2026 15:40:00 GMT",
+      "title": "Ottawa authorizes emergency use of strychnine in Alberta, Saskatchewan to address gopher infestation - CBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3hvaUdQX1ZNcGdyWUZYUGpLVnYyMXhDbUszdVl5Q0lOVjVLNkVMODZ6cmNUTVh4bElxZVhtNjB3UkpUQ3RIM2c2aWFNdkJPNTB6Zl93aGxtdE5nOTBoenA1a28zUW1SdElyMTRfUlUteURNQ0FSR0cyTW5NZjBjeWVKTGttcjFheVN0NEI2bV9ubXpMWkdLMDlR?oc=5",
+      "snippet": "Ottawa authorizes emergency use of strychnine in Alberta, Saskatchewan to address gopher infestation &nbsp;&nbsp; CBC View Full Coverage on Google News",
+      "pub": "Tue, 31 Mar 2026 03:12:00 GMT",
       "image": ""
     }
   ],
