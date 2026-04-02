@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-04-02T07:02:24.786773+00:00",
+  "generated_at": "2026-04-02T08:33:05.704116+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "April 2, 2026 – Do you believe a cut in seats at MUN’s School of  Social Work will have a negative impact on services?",
+      "link": "https://vocm.com/2026/04/02/april-2-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12749').",
+      "pub": "Thu, 02 Apr 2026 08:03:50 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/mun-memorial-university-generic-3.png"
+    },
     {
       "source": "VOCM",
       "title": "New Charges of Attempted Murder, Aggravated Assault Laid Against Teen Following Mount Pearl Stabbing",
@@ -28,7 +36,7 @@
     },
     {
       "source": "VOCM",
-      "title": "RCMP Investigating Break In at Hardware Store in Lethbridge",
+      "title": "RCMP Investigating Break-In at Hardware Store in Lethbridge",
       "link": "https://vocm.com/2026/04/01/break-in-hardware-store-lethbridge/",
       "snippet": "Clarenville RCMP are seeking help from the public after a hardware store in Lethbridge was broken into over two weeks ago. Police were called to the G...",
       "pub": "Wed, 01 Apr 2026 16:44:30 +0000",
@@ -59,18 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/935-chmr-fm-microphone-in-main-broadcast-booth.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Trump Signals Possible Endgame as Iran Conflict Shakes Oil Markets",
-      "link": "https://vocm.com/2026/04/01/trump-signals-possible-endgame-as-iran-conflict-shakes-oil-markets/",
-      "snippet": "A new phase in the conflict involving the United States, Israel, and Iran is beginning to take shape as officials point to signs of a slowdown in figh...",
-      "pub": "Wed, 01 Apr 2026 12:25:08 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/01/281537856.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump touts military success in Iran, but offers no timeline on exit strategy in primetime speech - CTV News",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmVCT3pfa0k3bUxmNU1nVDhrZVRYUEZXWGdHZmc0QUxSY1k2SG82eWVJYlhXNjdrX2dWTFFnOHdUanIxeDEtSG5sVUhJS1VXMm5qZkNXT1VNNExBRmhEQ2Y1YUxGbTJBRFNVQkV1R1JLS19TRUprUWk1a1p4RHA4dlo4YmlOejJlbUUzWlhuUF9yUUtFTVlTSmlyOVBLSHFyZ2d3My1FeEZzcmp3M0R6SFdHOC1XYmFUc01wWFNIVGxNZm5vbXZSOTZ1THFpVnM?oc=5",
-      "snippet": "Trump touts military success in Iran, but offers no timeline on exit strategy in primetime speech &nbsp;&nbsp; CTV News Trump claims Iran war ‘nearing completion’ and seeks to just",
+      "snippet": "Trump touts military success in Iran, but offers no timeline on exit strategy in primetime speech &nbsp;&nbsp; CTV News Iran war live: Trump claims goals nearing completion, vows t",
       "pub": "Thu, 02 Apr 2026 02:25:00 GMT",
       "image": ""
     },
@@ -78,40 +78,40 @@
       "source": "Google News Canada",
       "title": "NASA successfully launches historic Artemis II moon mission - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0xnV2ZCTlozNUY5RFoyaTFTU3VOVDFjQ0xZenN1SmpWSmZKZEQ2UENlbDFUR3ZObmQ2Ums3ZWFRY2FBazhmRHZLRTY1SFZCbTBVdnhMaE1MU0xGUWVSRVFKU3gweExzVExYYXZUTTB0N1VKWmctOC11c1licWViVV9WMGrSAYoBQVVfeXFMUHFabm50WmRSa2lvRnV4c0xnT01XZ2ZXZUdYWGxMVFBMVkJ6T0w2V2c1RktUMFowVWNtOGVUUlpyV0lHVTJpelFBUWxCOG85MjZTa1ZKbmVtNmQwY0tvcS1YRGxqbUJJbjdiUzdRR0R2WU9Qb2dMUTNqZjJfTjUwMzUwQjNKLVRVRmJ3?oc=5",
-      "snippet": "NASA successfully launches historic Artemis II moon mission &nbsp;&nbsp; Al Jazeera Artemis II astronauts lift off for NASA's 10-day mission around the moon in Canadian first &nbsp",
+      "snippet": "NASA successfully launches historic Artemis II moon mission &nbsp;&nbsp; Al Jazeera How long will Artemis II take to reach the moon, and what happens next? &nbsp;&nbsp; Al Jazeera ",
       "pub": "Thu, 02 Apr 2026 00:51:23 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Man, 20, charged with murder in killing of teenage partner in Montreal - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORTV3bzFZazdycFRwMmZTSVhQcXFEejBTUU14RTl1dW91TEdEWkNfbFhXT0hxWnUtWVhZUWEwWDZENk9MUURqMFdVU2FxRl96QzFNQVA2QTIwWWdIbWhqZVgtcnRhNnl1emtLRTlSSmJFYWtNVWx6bnNLQmxSQ1owNGxoS3hXX19HLWI2WDVUZFd4cXJYTVdCX1k3RDRxZVlLbkhtdzQxTnNYeHY3SU93?oc=5",
+      "snippet": "Man, 20, charged with murder in killing of teenage partner in Montreal &nbsp;&nbsp; CTV News Montreal man charged with 2nd-degree murder in death of 18-year-old woman &nbsp;&nbsp; ",
+      "pub": "Wed, 01 Apr 2026 20:10:11 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Calgary man charged with dangerous driving after fatal crash on Stoney Trail - Global News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMTVCZmhYMi00Y21QOUY4X054SGhpTWlxSU40U01NVzFSaHFaenEzTlZCd1pOaTBaTDFRczQwUnBienI2V08tUkh5bE40N2cxZGtRYUtGQk9GZFVMRGE5NURHeGxEQzlPZWtmeThXV3NMeVlrXzZGano3QTgwcnU5aVVKMmdRQW1YX1U5TFpJRmNvalVzelBrRmx2cmFDTXlo?oc=5",
-      "snippet": "Calgary man charged with dangerous driving after fatal crash on Stoney Trail &nbsp;&nbsp; Global News Calgary man drove through active crime scene at ‘high rate of speed’: police &",
+      "snippet": "Calgary man charged with dangerous driving after fatal crash on Stoney Trail &nbsp;&nbsp; Global News View Full Coverage on Google News",
       "pub": "Wed, 01 Apr 2026 23:52:15 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Tom Mulcair: Avi Lewis is on to something with his plans to nationalize everything from pharmaceuticals to groceries - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdktENURyd0k5dXdzTmEwX3FpeXljbHJrWjE3UkhTWUZ2TG8zMnNoU3BfY1UzalVkbzlXRU5ncFY4Q0xtMGZPN0RjQTlFUU45Slo2MzBjVTRhN1lFUFRLTlJYZ3EyZFBORXJtd25ad0NiQ25nbzhiWEVBM3JzcHJob2hRVjJVSEdGN3diSm9Wa1czaXByQ01HdkNrcVdXTnI2cnJHUllwRjdtUjRYaFd2RjRhc0w0LW1vcFpyMWJfeThwZWM1YVlOZ0VDOEpMaXVWVHdBdU9OWFFMeF9FOElNNXppdkxnb1cxYzU1Mg?oc=5",
-      "snippet": "Tom Mulcair: Avi Lewis is on to something with his plans to nationalize everything from pharmaceuticals to groceries &nbsp;&nbsp; CTV News NDP Leader Avi Lewis vows to move party t",
-      "pub": "Wed, 01 Apr 2026 16:45:24 GMT",
+      "title": "First Nations chiefs demand the PM apologize after he said he could 'outlast' protesters - CBC",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1dNRVFaWGpaZUg3cDl4RDhSRHdDMzZ5cHhLa1ZHMTRkQTlpSFU5MjVZWDRtY3NlSm5TaHlHSm13bGtVYXF5aDAxeE5qVEFjWk11ZlRFbDBnYmR0bEpYMC1DX2RSR0VaSndhd3NCVnFVdkJyNG9yQlVHOGViZEx6dDFPSTVhNjlFSmR2c1ZEQlVwRkNtd0k2LVcwRXA?oc=5",
+      "snippet": "First Nations chiefs demand the PM apologize after he said he could 'outlast' protesters &nbsp;&nbsp; CBC Chris Selley: Carney benefited from not being Trudeau. Why is he channelli",
+      "pub": "Wed, 01 Apr 2026 22:59:12 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Premier Eby says changing DRIPA is 'non-negotiable' and will be pushed into law - Business in Vancouver",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOakhNYkRfdjI2SWdLMnh0eEdwdUViNVZ0SUJudkRZbGVTSHVlSWxsZFRkUWF3Vm9iZHlWV3ZVQ2otYTVQT2FKcTVDaDZzUFdaeWtlc2R1SE1lMUR3bUNmWEJ5MzVOM2ZEMTY0cHluNlNiSjczSzRzZDd4bHlLWEZZTmlkSnhMZEpLWkMzN3hjSXIwSDZyeE9qam91dndNQ0E0NmdEZUU2R1pGdWt1VHNpbQ?oc=5",
-      "snippet": "Premier Eby says changing DRIPA is 'non-negotiable' and will be pushed into law &nbsp;&nbsp; Business in Vancouver First Nations leader says 'bad faith negotiations' on DRIPA amend",
-      "pub": "Thu, 02 Apr 2026 00:21:59 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Pierre Poilievre says he would cancel high-speed rail line between Toronto and Quebec City - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcFRXVXB3eHhEXzkydkRpb3lsWlMzdUdoeXpZSVZ5ZVdYbmJmMDlhZWx4bmxhZUoxYWZQdDRadm9iMHFSQ3BIdVF3eVpUaGhFcTFVUUdhU0lzMThwUkYwTTY0M3RhMzZ3bG9rb24zajVQajVRb1o0dTN6SGo3dEJmME9GbzhjRk5icU5KU2owLVpGT0Vnc09UcXQxT0swZTcyQkV4eUpXaERQUHlHSlB1dktvLXZ5TDVVaEt2SGpCSmI0anBFbE9VZzdzRlA2QjB5NnNaTGNxTXlKNEttSnhUbkxoV1pzU0ZrSjRodVhQb2JYSEw1NGF1ODRrcExfdm41U0EtdXY5dzVSdktmNXc?oc=5",
-      "snippet": "Pierre Poilievre says he would cancel high-speed rail line between Toronto and Quebec City &nbsp;&nbsp; Toronto Star Poilievre says government should cancel Toronto-Quebec City hig",
-      "pub": "Tue, 31 Mar 2026 21:45:00 GMT",
+      "title": "Liberals planned to buy back 136,000 banned guns. Fewer than half that many were declared - CBC",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YNC16dXloT2RVbE9fNU55N2FyM3JXczF2dUlJeGRkYVJKeFFVTlFodE9pWmZKSkpGaW1wOWI1LUgySFcyS29oUXJweldUSGkteWhaV19McWRfQm1hLUFMaWhCcjJUZTFJckYxYVlUcw?oc=5",
+      "snippet": "Liberals planned to buy back 136,000 banned guns. Fewer than half that many were declared &nbsp;&nbsp; CBC Federal gun buyback program will likely miss mark &nbsp;&nbsp; CTV News 6",
+      "pub": "Wed, 01 Apr 2026 23:13:35 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Stephen Lewis, Leftist Canadian Politician and AIDS Activist, Dies at 88 - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LX3J6YTRBOXAwaVpRUzc5Z0ptNjNjbjlHWWF0eDZ4b2QwZHhvOHBOeVlVSGZsNFBUZE5XMlpEWFg1b19pTW9icFJ0QUJwelB3N0ZaZDhSbkI3S1ZYVmd1ZFpYclNnRmQyVkxKV2pMbllIWG04a3NUSDdXOA?oc=5",
-      "snippet": "Stephen Lewis, Leftist Canadian Politician and AIDS Activist, Dies at 88 &nbsp;&nbsp; The New York Times Opinion: Stephen Lewis: a man of moral vision &nbsp;&nbsp; The Globe and Ma",
-      "pub": "Wed, 01 Apr 2026 19:29:12 GMT",
+      "title": "Premier Eby says changing DRIPA is 'non-negotiable' and will be pushed into law - biv.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOakhNYkRfdjI2SWdLMnh0eEdwdUViNVZ0SUJudkRZbGVTSHVlSWxsZFRkUWF3Vm9iZHlWV3ZVQ2otYTVQT2FKcTVDaDZzUFdaeWtlc2R1SE1lMUR3bUNmWEJ5MzVOM2ZEMTY0cHluNlNiSjczSzRzZDd4bHlLWEZZTmlkSnhMZEpLWkMzN3hjSXIwSDZyeE9qam91dndNQ0E0NmdEZUU2R1pGdWt1VHNpbQ?oc=5",
+      "snippet": "Premier Eby says changing DRIPA is 'non-negotiable' and will be pushed into law &nbsp;&nbsp; biv.com First Nations leader says 'bad faith negotiations' on DRIPA amendments risk Ind",
+      "pub": "Thu, 02 Apr 2026 00:21:59 GMT",
       "image": ""
     }
   ],
