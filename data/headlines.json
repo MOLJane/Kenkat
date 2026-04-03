@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-04-03T07:41:33.760994+00:00",
+  "generated_at": "2026-04-03T08:43:05.747212+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "April 3, 2026 – Do you eat fish on Good Friday?",
+      "link": "https://vocm.com/2026/04/03/april-3-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12752').",
+      "pub": "Fri, 03 Apr 2026 07:58:08 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/fish-and-chips-fried-food-fries-cod-2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Easter Weekend Could Feel More Like Christmas With Messy, Wintry Weather on the Way",
@@ -59,27 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/mary-adela-penashue.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Danny Williams, Joey Smallwood Among Highest Spending NL Premiers According to Think Tank Report",
-      "link": "https://vocm.com/2026/04/02/danny-williams-joey-smallwood-among-highest-spending-nl-premiers-according-to-think-tank-report/",
-      "snippet": "The Fraser Institute says Danny Williams and Joey Smallwood remain at the top of the list of NL's highest-spending premiers. The public policy think-t...",
-      "pub": "Thu, 02 Apr 2026 14:34:05 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/04/confederation-building-grey-sky-generic-provincial-government.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Trump fires Pam Bondi as U.S. Attorney-General - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZnRmeE5uVTVoNkl1cTRRLTRfOUlEZTBZZnZIV190VmdlQkVkZ0NuZ0NYVndUXzlQaTZEUC10c1JWdWt1bGlBb3oyZS1JVTV2TlFERUo1NU5XOWNINE9UZ1Z6LVB2eHRYWV9yVVY0X0ZsUDN2Sk1sdG1KTHRDbVUtQURvT2pyV1hMTW82dWpzam5QU2l3dGc?oc=5",
-      "snippet": "Trump fires Pam Bondi as U.S. Attorney-General &nbsp;&nbsp; The Globe and Mail Pam Bondi's loyalty to Trump wasn't enough to keep her job. Here's why &nbsp;&nbsp; CBC Trump removes",
-      "pub": "Thu, 02 Apr 2026 17:37:07 GMT",
+      "title": "B.C. proposes suspending parts of landmark Indigenous rights legislation - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUHdKWU9DdHBwcmMyMXdaaTlnenNfVE1KclBYbC1hSkNKTTBfUEFPTFM5SVVzeTJTSVdheG9TSzJBSWw4ZldxOElrZlNVV1YxUFhVRkJjNW9HcjdoS0ZZd1Jmb2EwWWdUM1hvbVd1cE5KZHl4bFBmc0htMzQtM0FKQ2pYbUhmXzhSTENCYlh2RzhkdFhIZk45bS00dC00SlhJOWdlSEp1OW5GOUtHdXNidWFhM0Jkb2xvTWlzLWY5SGhLMF9yMC1sZTRKWmdKRHM?oc=5",
+      "snippet": "B.C. proposes suspending parts of landmark Indigenous rights legislation &nbsp;&nbsp; The Globe and Mail ‘Absolute betrayal’: First Nations blast Eby in leaked transcript of DRIPA ",
+      "pub": "Thu, 02 Apr 2026 21:24:54 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "B.C. proposes to pause sections of DRIPA - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHJlN1c1ckVZV212aGhIbjhoZkNZSGIxalZpeGNJN25nb2l1Ni1DY2t5dF9ZeERZZ1g5NTJRY0RNaG5uTnFTcFNRM0xBYk1GZHhpMnh4OHFUOUhYOVhQVktYd05zbzdKTWt6ZlBNN3paei1od0dNb05mU1pteElSeFA1aWluMk5Z?oc=5",
-      "snippet": "B.C. proposes to pause sections of DRIPA &nbsp;&nbsp; Global News B.C. proposes suspending parts of landmark Indigenous rights legislation &nbsp;&nbsp; The Globe and Mail Eby Sent ",
-      "pub": "Thu, 02 Apr 2026 20:00:59 GMT",
+      "title": "Trump fires Pam Bondi as U.S. attorney general - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkY2UFdjbklxejBYUTJvVmVnd1A0WHdBcTRRUHQ2VzlJTXpZZXJpMm43b201V2c2Z3lxY09mMGhNY01uZUt3RzB5cHcyMzBadmtGS292TlBGRlY4eThZSjY3SGhUOTlLZUFReWVKWTc2S0xoc19RdS1LOURDM1ljRjdpVm5yR3ZadUJjQ19LQVliTUtpalZ3TQ?oc=5",
+      "snippet": "Trump fires Pam Bondi as U.S. attorney general &nbsp;&nbsp; CTV News Trump removes US Attorney General Pam Bondi &nbsp;&nbsp; BBC Bondi's time as AG did lasting damage to the DOJ l",
+      "pub": "Thu, 02 Apr 2026 11:01:48 GMT",
       "image": ""
     },
     {
@@ -92,42 +92,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "No turning back: After critical engine burn, Jeremy Hansen is moonbound - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUmZSMkl3LVZyelM2aWhEaHN2Z1pRcm1PdXRRRzhyMkFhaXRITDN2dVdoUHRMRzlaMFFqNUVmMTgwWVlSVE9lMUFzMk9Ma3RLSVZJNHcyZVhpb0I4ODVpLVVUSm9GUjBoME81N2pUSTB1c2FjYnlwRU9RdWpMSGJENkc0UC1kOHhPZTJrd1FzdlBoblc1YU1WYy00YUUzczlyd01RMFpqZHE1MkNMVlJhcA?oc=5",
-      "snippet": "No turning back: After critical engine burn, Jeremy Hansen is moonbound &nbsp;&nbsp; CTV News With a mighty burn, Artemis II flings itself moonward &nbsp;&nbsp; The Globe and Mail ",
+      "title": "No turning back: After critical engine burn, Jeremy Hansen is moonbound - CP24",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWm1KUWJPdUExc01oelBvR01wd3lqX2gyel9uZGJLa3Z4emJ4Qi15TjhWbkc5bzRodFlLbWZOM0JqWmF5aEN0YXdqSHJNeVFxMlQybFVIaUpvcXFuM2VWZ0RPWFNxdTdYemwxTnB6Z3Eyd2xwNGYwX1pQbE0zOTZ1SmxqaG9pbEx1a2M3MGJTckNaSzZJX0JwS0lONjZyRGpqOTRMOXhtRlpVanVIajk4ZVJfenpvUQ?oc=5",
+      "snippet": "No turning back: After critical engine burn, Jeremy Hansen is moonbound &nbsp;&nbsp; CP24 Artemis II astronauts rocket towards the moon after breaking free of Earth’s orbit &nbsp;&",
       "pub": "Fri, 03 Apr 2026 01:38:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Special weather statement issued for Calgary and area - CityNews Calgary",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWJWcmdBTVVrZkZwVHQ4YmVNYUl6dnR1SVdSYmxfV2JrNWd2T0pUSWpaTF9ORk56MXVhald4enRnejB4TmJHaV85Qk1JTll1Z2tNUDFEYktCQUszRjExSGxRaUJGcm9NR3Vtc0dOTFFyaFRkUW9YNm1TQnBDNTJfeU5xZUY?oc=5",
-      "snippet": "Special weather statement issued for Calgary and area &nbsp;&nbsp; CityNews Calgary Another spring snowstorm snarls Calgary roads, causes dozens of crashes &nbsp;&nbsp; Global News",
-      "pub": "Thu, 02 Apr 2026 06:04:18 GMT",
+      "title": "Conservatives call for federal tax cut on gas and diesel fuel - Global News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MWlFPMk9XWExXY2htZEZjbE5xV0htTVpDUjM4WW5DRm8yY21vdkdEbTBiUVkzRy1YVTM5QVpSTzR0STFiX3lrUjhWRGl1UGRwRFZreE9FbzNHVmxGMEVTcW9aLVJMaWxSMERMWFdNWnhfN2RSSUVmNzUyV3dLUQ?oc=5",
+      "snippet": "Conservatives call for federal tax cut on gas and diesel fuel &nbsp;&nbsp; Global News Soaring gas prices prompt renewed calls for government fuel tax relief &nbsp;&nbsp; Global Ne",
+      "pub": "Thu, 02 Apr 2026 12:28:19 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Highway blockades persist following cannabis raid in Cape Breton First Nation - CityNews Halifax",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUTJVWkxqRHZMWENjTzZTYm5NTHB4d0ZmaHVvS0hpOWJRQlJWbUFyckxrcUJ0d1lsRG9pLUJSVzIwQ19UTTRBaE94RUJzOWs0SHJKQ0R1djRycm1TOTE1WUU2bGVwc0hnQkZueF83ZGpHc01TN0NuUS1LRUs2UXlJQjhxVUZ2N3NPRHo4WTRST2NoZ0JoeWV2R3RscWhtb05ZVjV3bmE3cHFCRG9CS3VmRHhvb1hPbVktazY1TGlB?oc=5",
-      "snippet": "Highway blockades persist following cannabis raid in Cape Breton First Nation &nbsp;&nbsp; CityNews Halifax First Nations protest on 3 N.S. highways as tensions escalate over canna",
-      "pub": "Thu, 02 Apr 2026 23:54:15 GMT",
+      "title": "Potlotek shuts down Hwy 4 in Cape Breton following cannabis raid, RCMP abandon police vehicles - PNI Atlantic News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQmlrN1IyQTNIdmkwN3hjOTFaUnhSUTVOaU5jRHBHSFY1d2NtQmRTdGxneFBsZTBVdVVZY0ozTzhTSU5Zb0pBN3g1TnBKNUN5VkMySnpSRzI4R0VLNG1vV0tvamtjYmNHa3c0ei1Tb3drOUhyZmlrcmFpdlBDNHdlb1ZQNTNVb0x4UWs3Sw?oc=5",
+      "snippet": "Potlotek shuts down Hwy 4 in Cape Breton following cannabis raid, RCMP abandon police vehicles &nbsp;&nbsp; PNI Atlantic News First Nations protest on 3 N.S. highways as tensions e",
+      "pub": "Fri, 03 Apr 2026 00:11:05 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Quebec passes law banning street prayers, prayer rooms in universities, CEGEPs - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWHZpVUROYlNQNmJLdFFxSEFwcWVGYkw5YjR4eGYwWm5tbHczOENZTTMyMktvcDFZUk9kekxwV2kxYWNTaFlPZjNETjVlMzdpRE4zcnJZb0c2akZWRktlbmxrTTdWcFFWNHdWeXQxcGhMVEF1aDRUb3NUVmpCWWRTVW0xMWV5Z25udTYwemZ4NnhWeHpGaU5JbjNmWmtYa0RXUG1uZVRPeUM3dGZkamlnUHJSYXZCWWRD?oc=5",
-      "snippet": "Quebec passes law banning street prayers, prayer rooms in universities, CEGEPs &nbsp;&nbsp; CTV News Quebec passes expanded secularism law targeting daycare workers, public prayer ",
-      "pub": "Thu, 02 Apr 2026 16:58:11 GMT",
+      "title": "Tory MP echoes calls for Carney to apologize to Grassy Narrows over protest remarks - Global News",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhRzZFVDdjb0RsY3l2VGxWb2IySzlCSTBkUEhkc0haM19FSUx6LWkzdTc3Q0FSUmpsdzdabGItSndOVHZ0M0VudWpzR2hDNHRnVXFYUW9Pc3JYYk9MMWRFSVo0aUFES2FZd01Z?oc=5",
+      "snippet": "Tory MP echoes calls for Carney to apologize to Grassy Narrows over protest remarks &nbsp;&nbsp; Global News View Full Coverage on Google News",
+      "pub": "Thu, 02 Apr 2026 22:58:54 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Soaring gas prices prompt renewed calls for government fuel tax relief - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVBRLURjRXQ1TnFTWTVIMG52YU4xQ09lVmZWbWx0bTA1ZHRXY2I1OWxSVWJQOEFqMEt6anBIaWlsX1lONG9uZUQ0d2w0dTQxN0doZVhKWkFDdGI1T0pvbzQ0dTc3UnU5Zy0tY0g3VXZjSGRGZlRrOG9VcGZUSllQV1hMT2N2c1BUY2c?oc=5",
-      "snippet": "Soaring gas prices prompt renewed calls for government fuel tax relief &nbsp;&nbsp; Global News Conservatives call for dropping tax on gas and diesel for rest of this year &nbsp;&n",
-      "pub": "Thu, 02 Apr 2026 22:42:15 GMT",
+      "title": "Albertans declare more than 7K banned guns under federal buyback, as province refuses program - CBC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeEtIX0JlLWdSQkxSSWM5U0hjSXNWV081WU8xb1lOQnh2TFFPZG4xdi1WSlpJV0tEZ1MxdFZtYV8zRWVNa1RKdFc5VjdETDFib1BFOUpoNzBHT2tkbFhNNjlDQ0t3Q2g2bVFQVE5Yc2hRc19VM09UX0d2U1ZHY2g2U0V6UjNLc2pNMTBMM3kyVHNVZw?oc=5",
+      "snippet": "Albertans declare more than 7K banned guns under federal buyback, as province refuses program &nbsp;&nbsp; CBC Federal gun buyback program will likely miss mark &nbsp;&nbsp; CTV Ne",
+      "pub": "Thu, 02 Apr 2026 21:48:46 GMT",
       "image": ""
     }
   ],
