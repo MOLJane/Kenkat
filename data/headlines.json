@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-04-04T13:46:21.147867+00:00",
+  "generated_at": "2026-04-04T14:27:12.363936+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Opposition Questions Whether Court Staffing Could Jeopardize Trials Under Jordan Ruling",
+      "link": "https://vocm.com/2026/04/04/295880/",
+      "snippet": "The opposition is concerned that staffing issues in the court system could jeopardize cases under the Jordan ruling by causing added delays. The trial...",
+      "pub": "Sat, 04 Apr 2026 13:56:54 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/provincial-court-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Winter Storm Creates Treacherous Road Conditions in East",
+      "link": "https://vocm.com/2026/04/04/295904/",
+      "snippet": "Driving conditions are deteriorating in the east as snow continues coming down and the winds pick up to moderate from light. Highways recommends you n...",
+      "pub": "Sat, 04 Apr 2026 13:52:51 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/snow-metro-st-johns-kenmount-road.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Wage Gap Persists Despite Minimum Wage Increase",
@@ -51,26 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rnc-police-vest.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "RNC Lay Charges in Two Separate Domestic Incidents",
-      "link": "https://vocm.com/2026/04/04/295859/",
-      "snippet": "A man faces a slew of charges after a woman was assaulted at a residence in the east end of St. John's by her boyfriend, who was still in the house wh...",
-      "pub": "Sat, 04 Apr 2026 08:47:57 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-6-fall.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "April 4, 2026 – The PC government has been in power for nearly six months. Are you happy with what they have done thus far?",
-      "link": "https://vocm.com/2026/04/04/april-4-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12755').",
-      "pub": "Sat, 04 Apr 2026 08:00:31 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/11/tony-wakeham-in-office.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "2 U.S. aircraft shot down as war in Iran escalates. At least 1 crew member is missing - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTW1PTGE2NzBRQ2tyVktHY3NMTEhHY1dlUkdENEhhdkRfWmdYMHdqeHU5aTJiaHBLMGFRbFFwT3JVaGZqZm9IWlRZa3RxTC1maUI5cUYzT3JhYndfcTlfeENoMExQRDE0dFYzOEdTR3VRNnNKX1JabFBwQlJia0pzOVlrMkZTYXFsRGdfaW95VHRBU1BmMURKTWN1X3VCbG56RXlKM184ekpIV01NSnE5UDVYVDNfRms0Ylk4cC1PZUd3QnlyWTBjTXhwWWpzaXdfUXdn?oc=5",
-      "snippet": "2 U.S. aircraft shot down as war in Iran escalates. At least 1 crew member is missing &nbsp;&nbsp; CTV News Live updates: US and Iran race to find crew member from downed F-15 jet ",
+      "snippet": "2 U.S. aircraft shot down as war in Iran escalates. At least 1 crew member is missing &nbsp;&nbsp; CTV News What we know so far about the search for missing US airman in Iran &nbsp",
       "pub": "Fri, 03 Apr 2026 22:00:45 GMT",
       "image": ""
     },
@@ -92,10 +92,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Champagne leaves China with pork tariffs still in place, but touts relationship-building - cbc.ca",
+      "title": "Champagne leaves China with pork tariffs still in place, but touts relationship-building - CBC",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFkwQTFqQldxbWhOU0U4aHV5Q3FwWTdwaGN3bGN2eTl0VHBqVHR6eWdsU0VxS2ZIR05qQjdqd2FmSFozOXlOTXB4bGJGemdYOHNIZVdkc0MzVkgxNkJZWVNxNXk4WTF1QzRCS3hIdEFqTDMtNHNORldZQnlGZ010V3l4Sm8tNlZDbzFxaE0xSU9ST19UVUE4aWl0TWFMRDVYTXpN?oc=5",
-      "snippet": "Champagne leaves China with pork tariffs still in place, but touts relationship-building &nbsp;&nbsp; cbc.ca View Full Coverage on Google News",
+      "snippet": "Champagne leaves China with pork tariffs still in place, but touts relationship-building &nbsp;&nbsp; CBC Finance minister says China visit touched on human rights &nbsp;&nbsp; Nat",
       "pub": "Fri, 03 Apr 2026 16:17:17 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "While Ukraine aid runs dry, Trump asks for record-breaking $1.5 trillion in military spending - The Kyiv Independent",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbnlfaW5FNFEzTTZBcFBhcUZueGVmN3JUTUpKb1FJMWpzYW1UekxxLTY3VTBkVm1rQUNpWXVCdnZiek1DS19DUDZUdktMdUgxUUItV05wQjlsb2wtcWx3RjhDakRpLWMyUklZRktLd1dNejNZNDhiajMtdnM0Uk0yT3B4YThIRklwQzV0T3VCaFRuaG9SQjQxOFRQMGNpS3MwR2NWeTRBR184OUg4LXRqZEZ1S1p0MkctUml6cw?oc=5",
+      "snippet": "While Ukraine aid runs dry, Trump asks for record-breaking $1.5 trillion in military spending &nbsp;&nbsp; The Kyiv Independent Trump’s new budget proposal is historic — in one of ",
+      "pub": "Fri, 03 Apr 2026 23:30:23 GMT",
       "image": ""
     },
     {
@@ -108,26 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump just raised the $39 trillion national debt with the largest budget hike since World War II—and nobody can figure out how to pay for it - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajhSRTcwaHdPVHNPMnJHMEQ0T1ZGOUNjYldpV00zWnVkMU9RU29NdlpORVR6eWpqcFFpclZ5c1ZnV3kxZFJzMWZieXJ1Vkl1dEwxNlpqc3Zqa2xycC1BOW9VeFQzb3UtZnJnNlVadFY1V3R2aG5Dem9DWVZkSE56WEsycFd1NTktcUoyQWhXNmx4ZzBqMnM4?oc=5",
-      "snippet": "Trump just raised the $39 trillion national debt with the largest budget hike since World War II—and nobody can figure out how to pay for it &nbsp;&nbsp; Fortune Release of Trump s",
-      "pub": "Fri, 03 Apr 2026 19:01:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Mobile home park near Vernon, B.C., to lose power, landlord says she can't afford repairs - cbc.ca",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcE9vWmhVZ09QM3RCREFRQkV3cS13MnVUUTYwOEZ5ZlVPOUFCVDd0TEEwR3ZKQXRQU2lzRVZiOEcxZmhkb3J1RE1UY2RvM3JuTnMwVjgzYU1XWUNFRmlqT2MxWDhCV0lGdGtodkp1UUFNaXdKQk5EZUFtOFpzUGY4Qk1wcUNCbHlzR0xZbl9KaWNmYTFDNnVR?oc=5",
-      "snippet": "Mobile home park near Vernon, B.C., to lose power, landlord says she can't afford repairs &nbsp;&nbsp; cbc.ca",
-      "pub": "Fri, 03 Apr 2026 13:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Damaged RCMP vehicles recovered after First Nation protests in N.S., police say - CTV News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZy1Tcy12eWVUVU5aM1hRUU9lNVEwVTFUNGhya1BjVm40RXZ3ZTNFN1dDWTU3dUdhV1FpeFJrZExkTko0S2VUYy1EMGtfS3IzWGczakxFRHVUOVpmaUI2OExWbkJOb1hnTkp6N1lnTWZHSUxXT2tQc2hyUVVXWE1MREVQX1VUd0pYREdRVzdFWnN1WXVBbGd1Wmg3NWFNXzFfdzN1VEF4dExJSUtUekxua3A4emhwYm0yRWlMZEQwbWV1T21Fa1Z1NUFIT1c?oc=5",
       "snippet": "Damaged RCMP vehicles recovered after First Nation protests in N.S., police say &nbsp;&nbsp; CTV News RCMP say damage to police vehicles in First Nations protest includes 'urine-so",
       "pub": "Sat, 04 Apr 2026 00:44:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Mobile home park near Vernon, B.C., to lose power, landlord says she can't afford repairs - CBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcE9vWmhVZ09QM3RCREFRQkV3cS13MnVUUTYwOEZ5ZlVPOUFCVDd0TEEwR3ZKQXRQU2lzRVZiOEcxZmhkb3J1RE1UY2RvM3JuTnMwVjgzYU1XWUNFRmlqT2MxWDhCV0lGdGtodkp1UUFNaXdKQk5EZUFtOFpzUGY4Qk1wcUNCbHlzR0xZbl9KaWNmYTFDNnVR?oc=5",
+      "snippet": "Mobile home park near Vernon, B.C., to lose power, landlord says she can't afford repairs &nbsp;&nbsp; CBC",
+      "pub": "Fri, 03 Apr 2026 13:00:00 GMT",
       "image": ""
     }
   ],
