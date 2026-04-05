@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-04-05T07:35:35.658478+00:00",
+  "generated_at": "2026-04-05T08:34:34.677320+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "April 5, 2026 – Happy Easter from Your VOCM!",
+      "link": "https://vocm.com/2026/04/05/april-5-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12758').",
+      "pub": "Sun, 05 Apr 2026 08:03:10 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/04/easter-bunny-1.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Minister Offers No Commitment on Future of Johnson Geo Centre",
@@ -59,18 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/04/jessica-mccormick-federation-of-labour.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Man with Warrants Against Him Found with Ammunition During Traffic Stop",
-      "link": "https://vocm.com/2026/04/04/295868/",
-      "snippet": "Metro police stopped a vehicle last night in the area of Rickett's Road in St. John's with a motley crew inside. One of the occupants, a 34-year-old m...",
-      "pub": "Sat, 04 Apr 2026 10:54:17 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-12.png"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Trump says Iran has 48 hours to make deal or U.S. will unleash ‘hell’ - cp24.com",
+      "title": "Trump says Iran has 48 hours to make deal or U.S. will unleash ‘hell’ - CP24",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3Jvakk2ZGFXV2o2NF9wRUdubWUwU2RnbmJoMEdiN1c2S0x2TzFPbTJpY3hNejVKUm5POFlmRlRoSWVTaW1YbkZBQTRFRTBHNkNyVi02Y2l0WWNDOWUzaVRra3FCdEhXcktkeXdxZGwwSlEyaWJrTm9weVE5UFgwVVdUam4wVmc0cmNxUWlXRC1aV2N4QmxOZkh0RUlUT2lGQzIxa1V4VVhPc0FOaHc?oc=5",
-      "snippet": "Trump says Iran has 48 hours to make deal or U.S. will unleash ‘hell’ &nbsp;&nbsp; cp24.com Live updates: Iran war news; US forces rescue missing F-15 crew member, Trump says &nbsp",
+      "snippet": "Trump says Iran has 48 hours to make deal or U.S. will unleash ‘hell’ &nbsp;&nbsp; CP24 Live updates: Iran war news; US forces rescue missing F-15 crew member, Trump says &nbsp;&nb",
       "pub": "Sat, 04 Apr 2026 20:12:03 GMT",
       "image": ""
     },
@@ -84,50 +84,50 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Despite Netanyahu Government's Promises, IDF Admits It Can't Disarm Hezbollah - Haaretz",
+      "title": "Despite the Netanyahu gov't's promises, the IDF admits it can't disarm Hezbollah - haaretz.com",
       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNb2Z6d2JrUUg5SlhaVHZlODN3eWQ3Y2hSQjBFSTUzdEhMWklGajlFRHZPX0N4bTR6OUttTmplZ25ZakNrQXRfa3p2UllaM1FEWHZINGFHSE1iR0EyTUdzN2YzbVQ1cmVXcHlMNjZEd2s2UC1sRm41WVJJUjBhRGR1WmtKNElEUlFwajk2ZjJJMFBzaHlVTTRqV0VLQ0RubGZLMUYxSTAxRkx6bFJkTWFZeFBwbjZYMnZjTVplM3gyc00xSkpYWmp6SDhTZThBeG85MXpVX2V3Ynd3cnA0d2RSV09EZTF4b1I4dGpQZ0ZYUHltck1Rc3hVcHFmNllkQ3doelVOVTdjSHJCYzFEOW5oWVFJVFVyenctQU95Tjg4dw?oc=5",
-      "snippet": "Despite Netanyahu Government's Promises, IDF Admits It Can't Disarm Hezbollah &nbsp;&nbsp; Haaretz Israel strikes Beirut as U.S. warns Iran may target universities &nbsp;&nbsp; CBC",
+      "snippet": "Despite the Netanyahu gov't's promises, the IDF admits it can't disarm Hezbollah &nbsp;&nbsp; haaretz.com Israel strikes Beirut as U.S. warns Iran may target universities &nbsp;&nb",
       "pub": "Sun, 05 Apr 2026 02:53:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Artemis II is going so well that we’re left to talk about frozen urine - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZFpGWWVtQ21ac204QWdUZFZYMnBfWU12VUJIT3lUb0NKN2xZcDBsTmlpTHFxamV1ZUl1Mnk0ODJ5WWd2ZE9DTWREU1E3dzNvMDB0Z0NVYzBpMldZSlVMTUxrbzNhX3F4YnRWWW1pTTFqc2VfaTBjXzdiQi1idEtJeVVrcmp0aFg2clZRXzdQMTB4ZEQtM2lNOW5RUTljUXJxVmk0blBkZ2JUUTZ1?oc=5",
-      "snippet": "Artemis II is going so well that we’re left to talk about frozen urine &nbsp;&nbsp; Ars Technica Artemis II Flight Update: Crew and Ground Teams Successfully Troubleshoot Orion’s T",
-      "pub": "Sun, 05 Apr 2026 00:12:45 GMT",
+      "title": "All hell will rain down: Trump gives 48-hour ultimatum to Iran as West Asia War spirals - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTJIQ254aVRQMktQMldrZDhVOVFvNmZmZWdfNHBvVHVWM0RjWGg4UnpoVmFaUnAwSXMtTk4zc1lfTTlHR2JwdGI1U1pKSWYtaUd6ZVRLTVRnTW1vcHZTSS1uSnpzYlVGdEdTMU9OOXBDa2FvRU5PU3ZHeUhvSGNtSjB6VEZDLTQ1X0FLTzBqMFVzNkwzY2M2TmMxU2luSVMwb19wUEYtdFRnZEpCcE5VZUlKcWRCdERnUTBmVG1nNWJQdGZYc2hj0gHLAUFVX3lxTE9WU0VacV9Hbk5LQkF4cms0OUc4VGpUampDOWZjMUdpenh1NjJpN0J2SjFhblpLYzFsNG1zMThiN0RjbGNYQTBNd0pxZmZ3YnlFajFDN1NBSVV3MmhKZG13QVdWN1R0YkZuQjJmQ05ya1drN2dXMDc4S0dTSUZpWGxXRnN1N1pyMVVMR0tmak9ROHZxN2FqRmdncXBHTlZCY2hJMlI1MzRNaWZkZ09vSzBHZnZEMmZ2WWk3XzZtMkM0NGo3MkpNX3diWFBv?oc=5",
+      "snippet": "All hell will rain down: Trump gives 48-hour ultimatum to Iran as West Asia War spirals &nbsp;&nbsp; The Tribune Trump gives Iran 48 hours to make a deal as search continues for mi",
+      "pub": "Sat, 04 Apr 2026 15:49:02 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Two dead after Saskatoon house fire, fatal rollover on Highway 16 off ramp - 650 CKOM",
+      "title": "Canada falls to Sweden 9-6 in final of men’s curling worlds - CBC",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbFZwWk5rWE51UFdhQ3U1S1B0MHEyclFRUlVwOHYyMHZNRnJGazVTeTg2NHV4MG5SRXNfWTgxVDJSd2FtWGUtYjZuZnRlUzdFLUZHaUE3SG9zUFJmZFdISDV0d3d0Z25oelJrd3IyVXZsSjBScmpqQUhsaFJMWmxMUkRaZEh6ZjFQZUMtRS1QWURXRUJsdG5rY20xd1VyamNveXZ0c0lEd2JCeVlOWUcwTFZR?oc=5",
+      "snippet": "Canada falls to Sweden 9-6 in final of men’s curling worlds &nbsp;&nbsp; CBC Harnden brothers win silver at World Men's Curling Championship &nbsp;&nbsp; sootoday.com Sweden are LG",
+      "pub": "Sat, 04 Apr 2026 22:50:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Two dead after Saskatoon house fire, fatal rollover on Highway 16 off ramp - ckom.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQWZ1SkJXV2FmM3Y2Yl9SZ21xc2JINnJkNWRxZ01kRS1jdFlWWlRMQno3NXloTURxZlRUbkF6dkdLRjV6OHJ4S1pjS25BUkFCU2lya0pJQ1lKaFVVN0pTQU56TnNCR0FmMk1VYnktTldmSTlEYlNvaFVKVVBJdkJjWDFibXJaV3VxMi1aN1NESTRVczFnVlpDRFE4MFNKLTlDeWJValZ5c3FQZw?oc=5",
-      "snippet": "Two dead after Saskatoon house fire, fatal rollover on Highway 16 off ramp &nbsp;&nbsp; 650 CKOM 24-year-old man dead after rollover crash in Saskatoon &nbsp;&nbsp; CBC 2 separate ",
+      "snippet": "Two dead after Saskatoon house fire, fatal rollover on Highway 16 off ramp &nbsp;&nbsp; ckom.com 24-year-old man dead after rollover crash in Saskatoon &nbsp;&nbsp; CBC 2 separate ",
       "pub": "Sat, 04 Apr 2026 20:45:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada’s Jeremy Hansen cheered on by fellow Artemis II astronauts on rookie space mission - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM3dpdGVCTDg0QXY1MjFyOFYxMmxSVDhPYWRPcWx2QzhpbTVjTi05M284ejNCdm5CUm9UNGxjQkFzbVRxVWFtMDBPSUptdF9EaHBWM19JMURmOE1ZRzhwTWJGeHhjSE5xY0djTUdsLTJ2a19sb0wyOTVKMEhtVXVDU1N1WmtXWVpGelhwWV9JSXFsczl2RkJnQk5GMFM5dw?oc=5",
-      "snippet": "Canada’s Jeremy Hansen cheered on by fellow Artemis II astronauts on rookie space mission &nbsp;&nbsp; The Globe and Mail Canadian astronaut Jeremy Hansen talks about 'incredible' ",
-      "pub": "Sat, 04 Apr 2026 15:43:50 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Nine sent to hospital after fire at public housing highrise near downtown - London Free Press",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT2pWdUJ3QTVCVF9vRWxXZGZ0c1cyQnpZN1dOMmVZcmxWdWVFV1NMN1pPcXF3VE1qU0pWSUpkaFVzbVJvSndiamhLTXFZZmdoSGhnVW1TMF9XbzhNdVVjb1JSTzRoR0g2QUo5bTM0ZXpkWVFMN0E1NG5hYmUxb0E5cTZ3LVh1WGZGNHBfd0I4NkNkbHJINHljWXRnR1dadHloRkduZV9aX0FOMWc5Ync?oc=5",
-      "snippet": "Nine sent to hospital after fire at public housing highrise near downtown &nbsp;&nbsp; London Free Press Fire in London public housing apartment building sends 9 to hospital &nbsp;",
-      "pub": "Sat, 04 Apr 2026 23:56:02 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Sault builders keep busy as feds and province push homebuilding - SooToday.com",
+      "title": "Sault builders keep busy as feds and province push homebuilding - sootoday.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajVleWdIZEhFNmlLRWRyM1lDNEx1cFJBbHBJVVFOYWJ0ZWhvNEdDX2drUTl1LTE2U3ZBNEluaUlmZWQyWGw4cnZmSnZJMVMzZllJYWtFbXprWXVDdkF0QnVZbkNGLXVBS1Z4WDRKN3lUTEhxM21pdHJpNG9kOFFrbGczTVRScWR2U0hNcmNnNTh0SVFfOXZxUUhMVXp3UUp3X29xb1NDdjhnb0FXQlBPTEFFUGxnQ1E4bFJj?oc=5",
-      "snippet": "Sault builders keep busy as feds and province push homebuilding &nbsp;&nbsp; SooToday.com Ottawa home sales centres busy as HST rebate for new builds kicks in &nbsp;&nbsp; CTV News",
+      "snippet": "Sault builders keep busy as feds and province push homebuilding &nbsp;&nbsp; sootoday.com Ottawa home sales centres busy as HST rebate for new builds kicks in &nbsp;&nbsp; CTV News",
       "pub": "Sat, 04 Apr 2026 23:49:48 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Boosting financial trade with China key to diversification, Champagne says - Global News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvTXFSb0R6RFc0UUI1UmJVYm12VzZNSGNjUHFGakVlemhYUDV4dy1aeGlnR3VwSDZMNlBPV3VNWmduRW9zeEFmQk9nYzdvSi1Ia1RUc2RPMFJIX0tlaHUyeU5xZWt5d0N2R3Y5dkVfdVFsVndlSGJJ?oc=5",
+      "snippet": "Boosting financial trade with China key to diversification, Champagne says &nbsp;&nbsp; Global News Canada, China sign pledge in Beijing to deepen financial-sector ties &nbsp;&nbsp",
+      "pub": "Fri, 03 Apr 2026 18:19:09 GMT",
       "image": ""
     }
   ],
