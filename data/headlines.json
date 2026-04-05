@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-04-05T12:38:20.854981+00:00",
+  "generated_at": "2026-04-05T13:48:25.640374+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Staffing Shortages in Schools Hurting Students, Says Gander MHA",
+      "link": "https://vocm.com/2026/04/05/295925/",
+      "snippet": "The Liberal MHA for Gander says students are suffering because of a lack of support staff in the classroom. Bettina Ford presented a petition in the H...",
+      "pub": "Sun, 05 Apr 2026 13:05:19 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/bettina-ford-hoa.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Province Halts Rollout of New Family Care Teams Amid Staffing Shortages",
@@ -59,27 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-10.png"
     },
     {
-      "source": "VOCM",
-      "title": "April 5, 2026 – Happy Easter from Your VOCM!",
-      "link": "https://vocm.com/2026/04/05/april-5-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12758').",
-      "pub": "Sun, 05 Apr 2026 08:03:10 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/04/easter-bunny-1.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Crew member from downed US fighter jet rescued in 'miraculous' operation, says Trump - France 24",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc2dyaXlzZEV5LWhyS3VaNzNFZnFHTEFmdHZWelQtdHp5b1Y1RFk2WjRKOEpnaUF4WEV3Z3k0NUxqZE5YOXRaV1NjMFpYXy1XVVowaFhpV09vVmdGZFVjY1hNVnNiRmFvMGQzYm10U3lBN0JLU1lCY2JFa3pRdG5NNmRrdmRhd2JkR3UybkhtRGFNSl9fMEVOTDIzdkdpVGFBS3hYZDk4MlU3N1VraU5ZdXA3eWJtTVUtcEhnTFZLNEdaX2lsUk1jaWRB?oc=5",
-      "snippet": "Crew member from downed US fighter jet rescued in 'miraculous' operation, says Trump &nbsp;&nbsp; France 24 Live updates: Iran war news; US forces rescue missing F-15 crew member, ",
-      "pub": "Sun, 05 Apr 2026 07:26:53 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "‘They used to think big’: transport minister slams Conservatives’ criticism of high-speed rail - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEh5ZUdhRkE0Zm5XWWdZbnY5Q25VcTZQeFc5R3RJSFZHZExwMWQzMXVuQmxKcXg0ZWN6Q25fcm4xUWVlRHJqSXkxREMxc1VvdzFQVnUzZW1DMm9xUEJpSjBDcTZnWGh2dGxTRnI4QTFwRUlRTXFvSTZqcFpnVFpxMlM0cHVEdmZ5OUE?oc=5",
-      "snippet": "‘They used to think big’: transport minister slams Conservatives’ criticism of high-speed rail &nbsp;&nbsp; CTV News Alto boss defends high-speed rail project as fears and criticis",
-      "pub": "Sun, 05 Apr 2026 09:00:00 GMT",
+      "title": "Trump promises to strike Iran’s infrastructure on Tuesday if Strait of Hormuz isn’t reopened - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUnY5Y1doNXpFdm5lajhmYzVNdDdON0VfSTJyekdVUUtxQjRFMnZFSnYxZGxHX2F5UjBKeHB1RDdsRjRTWmE4WkRyd3BfeWNlTks0VU4wZmpBMTBqaE4zUHhQa3R5eDZXYkNtN215V3ozOFlFb1d6WThuTThGMWV6c1hXWS11UVJNb1hsWHhQV2p5YmdDRGhqRXhkYmlQZFdUYjVtY2NGdUdDclFfZDh3X2hsMWVQd3hfQi1UVkpvbGpkSjM1bGozMFRZaS12V0o2SWJwLVIzck9MZkx4U1E?oc=5",
+      "snippet": "Trump promises to strike Iran’s infrastructure on Tuesday if Strait of Hormuz isn’t reopened &nbsp;&nbsp; CTV News Iran war live: Trump vows to hit power plants, bridges over Hormu",
+      "pub": "Sun, 05 Apr 2026 12:36:10 GMT",
       "image": ""
     },
     {
@@ -94,7 +86,7 @@
       "source": "Google News Canada",
       "title": "Canada falls to Sweden 9-6 in final of men’s curling worlds - CBC",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbFZwWk5rWE51UFdhQ3U1S1B0MHEyclFRUlVwOHYyMHZNRnJGazVTeTg2NHV4MG5SRXNfWTgxVDJSd2FtWGUtYjZuZnRlUzdFLUZHaUE3SG9zUFJmZFdISDV0d3d0Z25oelJrd3IyVXZsSjBScmpqQUhsaFJMWmxMUkRaZEh6ZjFQZUMtRS1QWURXRUJsdG5rY20xd1VyamNveXZ0c0lEd2JCeVlOWUcwTFZR?oc=5",
-      "snippet": "Canada falls to Sweden 9-6 in final of men’s curling worlds &nbsp;&nbsp; CBC Canada’s Team Dunstone to play for gold at 2026 LGT World Men’s Championship &nbsp;&nbsp; Curling Canad",
+      "snippet": "Canada falls to Sweden 9-6 in final of men’s curling worlds &nbsp;&nbsp; CBC Harnden brothers win silver at World Men's Curling Championship &nbsp;&nbsp; SooToday.com Canada’s Team",
       "pub": "Sat, 04 Apr 2026 22:50:00 GMT",
       "image": ""
     },
@@ -110,24 +102,32 @@
       "source": "Google News Canada",
       "title": "Canada’s Jeremy Hansen cheered on by fellow Artemis II astronauts on rookie space mission - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM3dpdGVCTDg0QXY1MjFyOFYxMmxSVDhPYWRPcWx2QzhpbTVjTi05M284ejNCdm5CUm9UNGxjQkFzbVRxVWFtMDBPSUptdF9EaHBWM19JMURmOE1ZRzhwTWJGeHhjSE5xY0djTUdsLTJ2a19sb0wyOTVKMEhtVXVDU1N1WmtXWVpGelhwWV9JSXFsczl2RkJnQk5GMFM5dw?oc=5",
-      "snippet": "Canada’s Jeremy Hansen cheered on by fellow Artemis II astronauts on rookie space mission &nbsp;&nbsp; The Globe and Mail Artemis astronauts field more final frontier questions fro",
+      "snippet": "Canada’s Jeremy Hansen cheered on by fellow Artemis II astronauts on rookie space mission &nbsp;&nbsp; The Globe and Mail Artemis astronauts answer more final frontier questions fr",
       "pub": "Sat, 04 Apr 2026 15:43:50 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Sault builders keep busy as feds and province push homebuilding - SooToday.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajVleWdIZEhFNmlLRWRyM1lDNEx1cFJBbHBJVVFOYWJ0ZWhvNEdDX2drUTl1LTE2U3ZBNEluaUlmZWQyWGw4cnZmSnZJMVMzZllJYWtFbXprWXVDdkF0QnVZbkNGLXVBS1Z4WDRKN3lUTEhxM21pdHJpNG9kOFFrbGczTVRScWR2U0hNcmNnNTh0SVFfOXZxUUhMVXp3UUp3X29xb1NDdjhnb0FXQlBPTEFFUGxnQ1E4bFJj?oc=5",
-      "snippet": "Sault builders keep busy as feds and province push homebuilding &nbsp;&nbsp; SooToday.com How to ease the price squeeze on the construction industry &nbsp;&nbsp; The Globe and Mail",
-      "pub": "Sun, 05 Apr 2026 01:10:10 GMT",
+      "title": "Champagne leaves China with pork tariffs still in place, but touts relationship-building - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFkwQTFqQldxbWhOU0U4aHV5Q3FwWTdwaGN3bGN2eTl0VHBqVHR6eWdsU0VxS2ZIR05qQjdqd2FmSFozOXlOTXB4bGJGemdYOHNIZVdkc0MzVkgxNkJZWVNxNXk4WTF1QzRCS3hIdEFqTDMtNHNORldZQnlGZ010V3l4Sm8tNlZDbzFxaE0xSU9ST19UVUE4aWl0TWFMRDVYTXpN?oc=5",
+      "snippet": "Champagne leaves China with pork tariffs still in place, but touts relationship-building &nbsp;&nbsp; CBC Canada, China sign pledge in Beijing to deepen financial-sector ties &nbsp",
+      "pub": "Fri, 03 Apr 2026 16:17:17 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Two dead after Saskatoon house fire, fatal rollover on Highway 16 off ramp - 650 CKOM",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQWZ1SkJXV2FmM3Y2Yl9SZ21xc2JINnJkNWRxZ01kRS1jdFlWWlRMQno3NXloTURxZlRUbkF6dkdLRjV6OHJ4S1pjS25BUkFCU2lya0pJQ1lKaFVVN0pTQU56TnNCR0FmMk1VYnktTldmSTlEYlNvaFVKVVBJdkJjWDFibXJaV3VxMi1aN1NESTRVczFnVlpDRFE4MFNKLTlDeWJValZ5c3FQZw?oc=5",
-      "snippet": "Two dead after Saskatoon house fire, fatal rollover on Highway 16 off ramp &nbsp;&nbsp; 650 CKOM 24-year-old man dead after rollover crash in Saskatoon &nbsp;&nbsp; CBC 2 separate ",
-      "pub": "Sat, 04 Apr 2026 20:45:00 GMT",
+      "title": "‘He was an inspiration’: Canada’s oldest known person Burdett ‘Burd’ Sisler dead at 110 - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjRIVUxncTN2LVNWRzJGRy1MeTdHd0pSV2JfYU9RUjJTdk1EUWhmc2ljdVNiaTluMExRWFo4RW5EZVNMT2lxREJZeVNMU2h6WWhzTEF4M2Fla3EydElJblFfQXNjQVlqNDVHSWZfTzFDNEhLMlhLa3ZnNFZRS0FnZU55bUcwekE0RFlwZXVESjF1UjdNNmhMb29RbUZMbFhiVlJrdVVfYm50OFlSc2wtczY3UlJpVTg5UDZnQmtGTFYtcWowNFlr?oc=5",
+      "snippet": "‘He was an inspiration’: Canada’s oldest known person Burdett ‘Burd’ Sisler dead at 110 &nbsp;&nbsp; CTV News Burdett Sisler, Canada’s oldest known living man, Second World War vet",
+      "pub": "Sat, 04 Apr 2026 18:41:06 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "2 dead in overnight Brampton shooting after altercation: police - Global News",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42anA0ZzF1MTRLbnc5eEdzVmkzREMtQk1qYUJuM0tQbW04NHB0d1FneXpaQi1HZkVkSWpQWXZCTHl5QnFpU1plRHNHLUpCUHJOOGM2bWtFUDUzVnhfaVlKdmR4WkUxejAyNmhZZg?oc=5",
+      "snippet": "2 dead in overnight Brampton shooting after altercation: police &nbsp;&nbsp; Global News 2 dead following shooting in Brampton schoolyard, Peel police say &nbsp;&nbsp; CBC Young ma",
+      "pub": "Sat, 04 Apr 2026 17:08:47 GMT",
       "image": ""
     }
   ],
