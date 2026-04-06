@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-04-06T19:34:18.397248+00:00",
+  "generated_at": "2026-04-06T20:30:34.922368+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Oceana Canada Cautions Against What it Believes is a Rosy Cod Stock Assessment",
+      "link": "https://vocm.com/2026/04/06/oceana-canada-cautions-against-what-it-believes-is-a-rosey-cod-stock-assessment/",
+      "snippet": "A group focused on ocean ecology is warning that the model being used by DFO to assess northern cod stocks is overly optimistic. Oceana Canada says de...",
+      "pub": "Mon, 06 Apr 2026 19:49:42 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/03/cod-fish.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "33-Year-Old Charged After Woman Assaulted",
+      "link": "https://vocm.com/2026/04/06/33-year-old-charged-after-woman-assaulted/",
+      "snippet": "The RNC has arrested and charged a man following an assault that resulted in injuries to a woman. Police were called on April 1st following a disturba...",
+      "pub": "Mon, 06 Apr 2026 19:37:41 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/06/RNC-hq-Headquarters.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Three Charged After Stolen Vehicle Involved in Crash",
+      "link": "https://vocm.com/2026/04/06/three-charged-after-stolen-vehicle-involved-in-crash/",
+      "snippet": "Three people are facing charges after RNC tracked down a vehicle reported stolen in the metro area on the weekend. Police received numerous traffic co...",
+      "pub": "Mon, 06 Apr 2026 19:36:03 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-10.png"
+    },
     {
       "source": "VOCM",
       "title": "RNC Searching for Missing Man",
@@ -43,91 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/dr-ashley-waghmare-city-pharmacy-panl-president-photo-via-twitter.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Navigators in Strait of Hormuz Having to Rely on Paper Charts Due to GPS Jamming",
-      "link": "https://vocm.com/2026/04/06/navigators-in-strait-of-hormuz-having-to-rely-on-paper-charts-due-to-gps-jamming/",
-      "snippet": "A local master mariner calls the current situation in the Strait of Hormuz and the resultant impact on global markets, \"a wake-up call,\" and an exampl...",
-      "pub": "Mon, 06 Apr 2026 13:12:20 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/10/master-mariner-captain-kris-drodge-marine-institute.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Mild Temperatures Across Island Won’t Last Into This Evening",
-      "link": "https://vocm.com/2026/04/06/mild-temperatures-across-island-wont-last-into-this-evening/",
-      "snippet": "A sloppy, messy start to the Easter week break. Rain in the eastern part of the province comes as a welcome reprieve from this weekend's snow, while i...",
-      "pub": "Mon, 06 Apr 2026 12:52:52 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/11/rain-storm-traffic.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Major Canadian Airlines Introduce Fuel Surcharge on Select Bookings",
-      "link": "https://vocm.com/2026/04/06/major-canadian-airlines-introduce-fuel-surcharge-on-select-bookings/",
-      "snippet": "More Canadian airlines are adding a fuel surcharge to some bookings to try and offset the rising cost of fuel. As of today, travellers booking package...",
-      "pub": "Mon, 06 Apr 2026 12:04:53 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/05/WestJet-Airplane-3.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Trump: ‘Iran can be taken out in one night,’ could happen Tuesday - Global News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlJjcDNicWVSTGtYQ2NwaDJkVUdqYmI2cFFOdkltallwYzVuWDh0MThxSHVYV0kycTJYNEo1SlNWeGpXNFlGNmJrYllGby1tU2lzVFN6azVQRzdiZjRFRWJRcEh3dlBEN0Ntb2MwMzFJbk8yRWZFMUJsZ1dNZE5YLUI5cEY?oc=5",
-      "snippet": "Trump: ‘Iran can be taken out in one night,’ could happen Tuesday &nbsp;&nbsp; Global News Trump ‘not worried’ about U.S. committing war crimes as president threatens bombs on Iran",
-      "pub": "Mon, 06 Apr 2026 18:26:56 GMT",
+      "title": "Trump ‘not worried’ about U.S. committing war crimes as president threatens bombs on Iran - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTjJxclFCTDN4cUtjbkxyRmthVU9JWTFHakE0NDBzQ2JicmZmQjMtYmt3ekRhR0EyZ0pNVzVnQ1huc2gtZkpUZ1ZvVUdBc292cEYwd1hkeElKOFNvZ19tRmZOS2NoUlFTbExPMmdQTHRmc2dacm5fOXhPdXlrRUVIbGpqMm51b1g2SEFTSmhVTC1xMWxfNVMtdWd6SHFrVjhfN3NQTXBYbVNxX3JGNXpTc2xXVkR5WUJzamtUNjZnTzNtemlnUGdRX3VqMHE5dmdRaFp6N1VUMA?oc=5",
+      "snippet": "Trump ‘not worried’ about U.S. committing war crimes as president threatens bombs on Iran &nbsp;&nbsp; CTV News Trump: ‘Iran can be taken out in one night,’ could happen Tuesday &n",
+      "pub": "Mon, 06 Apr 2026 16:56:15 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Artemis II mission on track to break record set by Apollo 13 - CBC",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlc2dDJaZmdZTnVJdnluQkNsN2xSeGVIQ0F2MjZVU3hMNHRkS1NJSUtTbUhpWlF5dHVXdFdVd2pSa0QtSXp5UTlQVnBHNEd4REhvQ1BIT3VaTG9HRlhOcVFmNzRwZ3dnb0FkcUVXdEVKOF81RDRPaUg0b2hCX1hlQ2Nlb3g?oc=5",
-      "snippet": "Artemis II mission on track to break record set by Apollo 13 &nbsp;&nbsp; CBC Live updates: Artemis II astronauts break Apollo record on historic moon flyby &nbsp;&nbsp; CNN Artemi",
+      "snippet": "Artemis II mission on track to break record set by Apollo 13 &nbsp;&nbsp; CBC Live updates: Artemis II astronauts break Apollo record on historic moon flyby &nbsp;&nbsp; cnn.com NA",
       "pub": "Mon, 06 Apr 2026 13:50:30 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Iran rejects ceasefire as deadline nears on Trump’s ‘hell’ ultimatum - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdEJ4OXlfWExEa3dNQ1g1OGYxRFFTanpQd2dhWlVJSTJRdk5pR0l5MXFDMjdPWHJ1Y0x0UlRqZm5EYVRReWQtOW1SSzFoQWxTeUxMRUNNWXh2QmpGbnBfUzhwVVloNXhSZkdxVW1xVnhkUzVkUzNLNnBZbTVHVllLdUpHeVA5MzcxT3NNLWlURjNud0RqdkNJU19zclgtTVAzbGZ1QTlSN1JUVVp5X09FVktYXzFPWlhUZGpSZw?oc=5",
-      "snippet": "Iran rejects ceasefire as deadline nears on Trump’s ‘hell’ ultimatum &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Mon, 06 Apr 2026 16:19:02 GMT",
+      "title": "The Daily Chase: Canadians would be open to joining European Union - BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbi1JdEgyZ05Ha0xwQzAzRnZHM0FnaFdzaU1NQmhYWGhHUHIweXdlVWtRWFZfeFh4TThQbTdBOEZFcnltaHRoZENJLW13VWdnOWkzR2dlMW9sZlMwLVl5WUFjdlFTSVJLUjV6dFRySkRmY29tS2ltS0FQVVpxd3NOeTI5WFIxZXZ1LXd0aWFLSFZlc2ZvazZkSzhiWll4cjdoWk5FRFNSYlBYbGFTVnpGdGpac2xLaUY1eEJLMTVqSWFBQQ?oc=5",
+      "snippet": "The Daily Chase: Canadians would be open to joining European Union &nbsp;&nbsp; BNN Bloomberg Majority of Canadians open to joining EU, new poll suggests &nbsp;&nbsp; The Globe and",
+      "pub": "Mon, 06 Apr 2026 12:28:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "US Supreme Court paves way for dismissal of Steve Bannon conviction - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93RDloajVITWh4RU1ldDlDWGFYRG4xSE5ZLTZ6Q09sT29CZ1VUR3ljM191WklkbXNra0NSdjYwRkhMUmlGN1kwXzN3REhjM21qZkRrcFRJQWpnUQ?oc=5",
-      "snippet": "US Supreme Court paves way for dismissal of Steve Bannon conviction &nbsp;&nbsp; BBC Supreme Court clears path for Trump’s DOJ to dismiss criminal case against Steve Bannon &nbsp;&",
-      "pub": "Mon, 06 Apr 2026 16:43:14 GMT",
+      "title": "Iran rejects latest ceasefire proposal as Trump deadline nears - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2w3My1hN2RXbFRoLXg0ZnVCNjdyZDFYZFNYTjlpNXcxMk4wZHVtTzZ1UlNGSDlQREhvS01ldjVxZVQySUdwc0RkbUVuVzZLeGRnNzZ6RHpwazZTQ3BPNWdUaEFfUDlBRmozbFJPcC10Q3BMNjdXOUNyOF9mRTZkaTFnYnJqb2lzN2NZc3JR?oc=5",
+      "snippet": "Iran rejects latest ceasefire proposal as Trump deadline nears &nbsp;&nbsp; CBC View Full Coverage on Google News",
+      "pub": "Mon, 06 Apr 2026 17:49:47 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Details emerge about U.S. military’s rescue of aviator shot down in Iran - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVDBRYXFxeFBxd3VvYW82TzJVWmVwLXdXbmVpdU1Va2hGZFJnclZNbVFaZ1hEXzAwVlBESzliSXNRSGJkU1l0NGZHQjZYRWtmaEdrZnV6aG9fN2VMZnJyblhXNFBrX1ZUN1kzU3BtU05mVEwxR3VsR3lBUlNfbXplbDhDc09oZw?oc=5",
-      "snippet": "Details emerge about U.S. military’s rescue of aviator shot down in Iran &nbsp;&nbsp; The Globe and Mail Washington breathes sigh of relief after narrowly dodging new Iran hostage ",
+      "snippet": "Details emerge about U.S. military’s rescue of aviator shot down in Iran &nbsp;&nbsp; The Globe and Mail Two Planes Destroyed by U.S. During Rescue Operation &nbsp;&nbsp; WSJ US ai",
       "pub": "Sun, 05 Apr 2026 15:08:40 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Grits ‘throwing everything at that seat’ as 48 candidates and ‘adapted ballot’ could influence result of nail-biter Terrebonne byelection, say pollsters and Liberal sources - hilltimes.com",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxObEFEc3BxbllVMjdwMlUwZ1lua0lfMmMwLV9QcVVrRkJNLUVOUjdCWDdaUW9nWWJ4QVpnalVtMmpHaHZXVHh4YUp1OUhFcm1lQUw2SEZwS2ZzRVZSMDkyYzlYVXh1bXRTcFJXNGd3M3RNVkFvNkpiRFJtcjZZUnJITlNjeE9qUzlFOTMwN2w4c0RnbDh6RHR1MnpoTk81bnJORFRZWE10VEVJNjN6VVk3bV9hSjhVSmJ2NUMzd0duSXhzbTVzNm9FM0tXeTBKWjQwWU9ld0FDemlQOHdacGozUGdqRXdRTFNqbFdHWFNaTUpIWDV6YllzOXRjRzRSQUFUaVIwSl9oblBVVGpaa0JPS191bzdkd05PTFNBOHV3LWZUS0JyaWJSdDk2cjZmRXFDX1E?oc=5",
-      "snippet": "Grits ‘throwing everything at that seat’ as 48 candidates and ‘adapted ballot’ could influence result of nail-biter Terrebonne byelection, say pollsters and Liberal sources &nbsp;&",
-      "pub": "Mon, 06 Apr 2026 06:20:13 GMT",
+      "title": "These three byelections could give Mark Carney a majority government - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQmZ5cTF2cnktY2NyekxNVGs0WWxXeTE3aEJkcWtsQ2UzVTBZTVRfTmtHRjcxNGpYT0lpQ0p4b0xteEhCel83c2lWa2ZYcEZjeGRQQ2FrOGlMaEFHQWhidDIwSW9KZjFxSDBoZXpVY1owZUR6ekN1WnVTWUZXNV9uMkRBU1VBQTdwVGFqR00yVC1TVWpvM04xVWVLY3NMSDdPaWpacFF0VTVUaUZvUUdEMWFacVd0dHI5ZWljV3l6Ni1KUG9vRDdQeEhEYTk2MTlpRmxaRFRGMDBKbFhCUy1iejhhZF9rY3p0TU5ZSG00dGY?oc=5",
+      "snippet": "These three byelections could give Mark Carney a majority government &nbsp;&nbsp; Toronto Star Mark Carney’s honeymoon is about to get even better &nbsp;&nbsp; The Economist Federa",
+      "pub": "Mon, 06 Apr 2026 19:24:48 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump dropped bid to annex Canada over respect for King Charles: author - Global News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnRtZnJBeldsZ1V1TTVwM0NBX3BQMS1WOHF2ZGFfcFRWQUZFQmIwOENDUFN6aDhkdUZ5YkxoOEViQjNnYk85cnBTQjFUQTdmbzJEUTRWU1pXZFRReVFyNWpXZk5nTGg2T1hGTmlnWkVGd3ZSMGh2Z3ctanp5ZkVXRHJyZjBTbW8?oc=5",
+      "snippet": "Trump dropped bid to annex Canada over respect for King Charles: author &nbsp;&nbsp; Global News Trump raises Canadian annexation in British author’s book &nbsp;&nbsp; The Globe an",
+      "pub": "Mon, 06 Apr 2026 18:04:02 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Work continues on memorial for Humboldt Broncos - Castanet",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzBZMFVubjc3MFRSTER1QXVyaU9BcUxObFQzY2VmOVhFZmsyZUJMS1FmVXZoM0M5SkxhdkQzTEFoY0dwNFA5Wm96dEZUbkgtMVc1NEdZQ3BEMmdCS190eXpELTJfek9hZFZyQXpQV3JwZ0RHSjRuY003VEtxQ2VXQUFNMFN1S2dBYlRoVkpFVGJJYW1KcHc?oc=5",
-      "snippet": "Work continues on memorial for Humboldt Broncos &nbsp;&nbsp; Castanet Work continues on Humboldt Broncos memorial eight years after deadly crash &nbsp;&nbsp; Sportsnet ‘Everybody r",
+      "snippet": "Work continues on memorial for Humboldt Broncos &nbsp;&nbsp; Castanet Eight years after deadly Humboldt Broncos bus crash, work continues on memorial &nbsp;&nbsp; The Globe and Mai",
       "pub": "Mon, 06 Apr 2026 15:15:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "HST relief on new homes may take unintended toll on resale prices: Expert - London Free Press",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcnI3dEVoTGFXOGpxZjctdEM1b2dqQ1RONlVCbjBGV25WNmRrWm9ueEQ2dlU1c0l6RGJlSDF0UGxCb09Bd1o1T3JoOXNnNXpfNnc3T0NnUHd4dlducjdvOEI0bkdyZF9tNW9mb3ZkdWtScFV6dUVEaEw5eFdNU1lkVC1keENQT1NCYU14RWNfMDU3VzNvNnZGdGdnamdoeXhlS2lQcExnVmZVVWFNNGZxbnNldzk?oc=5",
-      "snippet": "HST relief on new homes may take unintended toll on resale prices: Expert &nbsp;&nbsp; London Free Press Opinion | New home buyers have just won the HST-rebate lottery. Here’s all ",
-      "pub": "Mon, 06 Apr 2026 11:06:03 GMT",
       "image": ""
     }
   ],
