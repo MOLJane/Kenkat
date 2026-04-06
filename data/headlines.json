@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-04-06T09:45:54.661024+00:00",
+  "generated_at": "2026-04-06T10:49:16.388084+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Finance Minister Says Nearly 300 Provincial Taxes Could be Scrapped or Altered",
+      "link": "https://vocm.com/2026/04/06/finance-minister-says-nearly-300-provincial-taxes-could-be-scrapped-or-altered/",
+      "snippet": "The minister of finance has identified some 300 taxes and fees that he says could be cut or changed as the provincial government prepares its very fir...",
+      "pub": "Mon, 06 Apr 2026 10:33:52 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/finance-minister-craig-pardy.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "HV-GB Mayor Welcomes Potential Economic Boom; Adequate Resources Remain a Concern",
+      "link": "https://vocm.com/2026/04/06/hv-gb-mayor-welcomes-potential-economic-boom-adequate-resources-remain-a-concern/",
+      "snippet": "The hub of Labrador is on the cusp of significant economic activity with big spending headed its way for upgrades to the military base and, potentiall...",
+      "pub": "Mon, 06 Apr 2026 10:01:06 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/08/goose-bay.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Food Prices Up Six Per Cent Year Over Year in February: Statistics Canada",
@@ -51,20 +67,20 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/nlc-vodka-alcohol-liquor-store.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Future of Basic Income Debated as All-Party Report is Tabled",
-      "link": "https://vocm.com/2026/04/05/295942/",
-      "snippet": "The NDP has tabled a document signed by all three parties urging the federal government to adopt a standard basic income. The all-party report, comple...",
-      "pub": "Sun, 05 Apr 2026 17:03:58 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/ndp-leader-jim-dinn.jpg"
+      "source": "Google News Canada",
+      "title": "Trump issues a fiery, expletive-filled threat against Iran as details of U.S. aviator’s rescue emerge - CP24",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMWt2ZFItQWVGR1VLRlc0Rm5WbDgwdGNOTkd2YWF5VnpEUlFsNDEyLXVlOWF3ZGtsVElScEFrWHh0d0RIZ3NyRGxlai1aV0oyTEhvbWhRU0d2T1k2Smx3cXFxQURuempDQjlodUZoVmtiU2dJQkNHcWllQk5sdGszNFRlR055ZExVWHJZZUxELTFDbVg5SWZQUDhCWldZdDBzNnlUNDI1djVyRTF0S1dhZUtHZHFvQWtackx0NzFvWEJYcGo2?oc=5",
+      "snippet": "Trump issues a fiery, expletive-filled threat against Iran as details of U.S. aviator’s rescue emerge &nbsp;&nbsp; CP24 View Full Coverage on Google News",
+      "pub": "Mon, 06 Apr 2026 01:56:00 GMT",
+      "image": ""
     },
     {
-      "source": "VOCM",
-      "title": "Annual Proclamation Reading to Mark 1916 Easter Rising",
-      "link": "https://vocm.com/2026/04/05/295939/",
-      "snippet": "Easter Monday marks a solemn occasion in Irish history; the failed Easter Rising of 1916 when Irish Republicans rose up against British rule. The six ...",
-      "pub": "Sun, 05 Apr 2026 16:15:26 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/09/colonial-building-outside.jpg"
+      "source": "Google News Canada",
+      "title": "Artemis II astronauts prepare for historic Moon flyby - France 24",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUEyNmhPNlJWRVhrb3lqT3hObUZUTHp3NmVTQjJLOEQ2b21DcGN5Skc2NFBxdFRJUkJ5bl9YdmZSMlhuWTFiNzM5MkNxUldjdWMwYnQxUzlLWEhhck50STRRcTl4cXd6QzA2VWVoeHdlSzVQQ0ZLVkoxcEd2LTNxVnB0Yzdvb1hHNHhCUTg2UWI3aEJMaDlrLWt3ME1UZVpEZjFnSk83emhtRFBsQ0NzRGhIeGZsQnc?oc=5",
+      "snippet": "Artemis II astronauts prepare for historic Moon flyby &nbsp;&nbsp; France 24 The 40 minutes when the Artemis crew loses contact with the Earth &nbsp;&nbsp; BBC Artemis on track to ",
+      "pub": "Mon, 06 Apr 2026 01:55:52 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -76,34 +92,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump issues a fiery, expletive-filled threat against Iran as details of U.S. aviator’s rescue emerge - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUWl1MW5GM3FZUFFCMDRkci1Eb3E0d2NhOUNaSW1JQnJkb19iaV8zcDJSWml5Tm5DamhCVWhlTXktNXVPbGg5Y2Jwc0tDLV96b3J1WGJ6ZDA0VV8zcC1kcXByNEgwMDUyeC1UbVByR2tXNWFrU2lXR1BCMElwcGFkT2licU9kRldFbVFtbkR6QmhPNDF3RXBtMlhXcHMzSGxERnoyMHZHR3Rva2l5ZmdjLWd0bjhQOElBeEJGZGczeE55aG9QX1JjckVkbFFGd21ETE40?oc=5",
-      "snippet": "Trump issues a fiery, expletive-filled threat against Iran as details of U.S. aviator’s rescue emerge &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Mon, 06 Apr 2026 01:56:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Artemis II arrives in lunar space ahead of its trip around the Moon - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMENHRlpTbWVYTW0yeDlMY3lad3RvZUM2R0NZNkZvMXU0d1BKUHZubXJocnAyMllqd3hIUTZzbTlyNXp5Q0VKR2licFI4MmFmaGhOdW5sMU1VWjluWG40RlpMdEUyUldUR3Y2YzRGaHVLam40eW9ZUXZHa0hjSUFaNHRHS2REOUpmU19Oa2Z4UFhVS2tjMVA3blF6SnB5dU1TdHpqTzA5aWNzakoyeGxfLTJjTjNMM1Nxak1NVzRR?oc=5",
-      "snippet": "Artemis II arrives in lunar space ahead of its trip around the Moon &nbsp;&nbsp; Engadget The 40 minutes when the Artemis crew loses contact with the Earth &nbsp;&nbsp; BBC A visua",
-      "pub": "Mon, 06 Apr 2026 06:35:10 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "What to know about the Iran war today - investingLive",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS0dkeW0ydmdXZjRNRmc5ZHRtcHJMME9kYWYtZ2ticHlxdUtmdDFlcXRXNnBEbjZCVHQxYXVvdGpibkQySjgtb2Ruc29NYlZBOXpMR3BJQ05RZUx1UFY2M3BjbDF2NzhEY0lieU02TUVLcnZHMHhURHJVXzNyQ0J5TXBZMWrSAYoBQVVfeXFMUHdtOU9UY05GN0dXdnVFSkJTWld5Q3Qxc1M3TUhiMkV0OTNxSXhMbm1XN2hkVTVWOTNvaUtDc0ZpeTlZRHNaWS1oNlY3aWI4cXp3ZGIzLWJqN3NObU02Wk4xeGsyMWZOc05aUDAwdXprc2tPQ1ROWTV6MTNmNV9kUDlPcUpvMzFPcU9B?oc=5",
-      "snippet": "What to know about the Iran war today &nbsp;&nbsp; investingLive Iran war live: Tehran rejects Trump’s Hormuz deadline; 2 killed in Haifa &nbsp;&nbsp; Al Jazeera Iran says intellig",
+      "snippet": "What to know about the Iran war today &nbsp;&nbsp; investingLive Iran war live: Tehran says response to ceasefire proposals formulated &nbsp;&nbsp; Al Jazeera New U.S.-Iran ceasefi",
       "pub": "Sat, 04 Apr 2026 13:26:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Russian attacks kill 9, injure 95 in Ukraine over past day - kyivindependent.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDFIT3JDaXJqVkt0OU9WVklYU1FjLUlsbkRfWkQ0YW9sdHdaNGxWbTZEMk5UTFlsOG1SYXc3ampKT3JObWNEdDVxMHVrdFZmZS03MmFMbmVfSUl2WWcyalJtMWZYOVl4ckFXbDd5dFB0cExHTkY1dnM3T1VlWnBJX3E0cGRodkhzSW1DbHBPUQ?oc=5",
-      "snippet": "Russian attacks kill 9, injure 95 in Ukraine over past day &nbsp;&nbsp; kyivindependent.com A Russian attack kills 3 in Odesa while Ukraine targets Russian oil infrastructure, offi",
-      "pub": "Sun, 05 Apr 2026 08:39:07 GMT",
       "image": ""
     },
     {
@@ -124,10 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Fatal Scarborough crash leaves 21-year-old motorcyclist dead - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa2t5QVNyZkg3ZV93eUVVUEF1UnpTNFBHbzZHY3RMMUJDN1VKM1VpZFFobWpCU3hFYXUzZWJuTVJNY0hYOWs5bnpGemlfRHVQWXpyaVpmOWRQTS1WejZWVmNSSXpjc3hpNHRhMUF2NndSRmRRWGlNQmZpdWcyM2IzQnl4VHNmbFVzaEh6TndYNlRsekZhdDg0VjZtUzRfclBTTGc?oc=5",
-      "snippet": "Fatal Scarborough crash leaves 21-year-old motorcyclist dead &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Sun, 05 Apr 2026 22:42:55 GMT",
+      "title": "‘It’s pretty sad to see’: Here’s why pet rabbits are roaming the streets of Saskatoon - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYWxWMk50dG03MXlHT3F2NFNpbURBV0taMlhhSlNxeEFUUVFKY0RkVE1XZTFDSlI1UEt3RDNRRTc3cUxjWG9DTGxURXFkTXk5X091QXNwZ2JoOTJwRmlJYnozMnpvQTU5S0VUYUlOVjN2MTNEMUN5NXU0c3liUE1OdUVRODh1VnBERklGOWlvLUR5MU1BRE5KVkZhZnExWXVjV0VvOUdkSHV3b1haX19RLXRTdnY5RE16WV9uWDJKZw?oc=5",
+      "snippet": "‘It’s pretty sad to see’: Here’s why pet rabbits are roaming the streets of Saskatoon &nbsp;&nbsp; CTV News",
+      "pub": "Mon, 06 Apr 2026 09:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "New Report Finds Dramatic Increase in Government Spending from 1965-2023 - VOCM",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGNiWE9rSHV2SkxfQ1lnY1pOcG8wMGdGbDlEMmxwTDBDb3BvUFlLdW9kN3RKTFN3aHRkNGpWZnNvdmtfLVZ0MWl4NnhEUkZ4eHpjTEN4aDVqU0JSdVdSSUNOa01zNG9FTzdkaENyZGY5cDVGd2haQkhRQ3dhZkk4VjJzQUJ5aXJ5cVFWMl9sQmpxSGhBbk5kQVdWUmZqNW9pUUNn?oc=5",
+      "snippet": "New Report Finds Dramatic Increase in Government Spending from 1965-2023 &nbsp;&nbsp; VOCM",
+      "pub": "Mon, 06 Apr 2026 08:57:00 GMT",
       "image": ""
     }
   ],
