@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-04-07T12:07:19.402659+00:00",
+  "generated_at": "2026-04-07T14:05:26.862190+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "‘Beyond the Badge;’ RNCA Launching Video Series Highlighting Work of members",
+      "title": "SpacesShared Hoping to Match Students with Seniors Living at Home",
+      "link": "https://vocm.com/2026/04/07/296055/",
+      "snippet": "An initiative that pairs students looking for affordable housing with seniors who have space to share is relaunching in Newfoundland and Labrador. Spa...",
+      "pub": "Tue, 07 Apr 2026 13:13:16 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/11/Housing-Campaign-Image-Through-This-Door.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Local Tech Blogger Expects Prices to Increase Thanks to AI Boom",
+      "link": "https://vocm.com/2026/04/07/local-tech-blogger-expects-prices-to-increase-thanks-to-ai-boom/",
+      "snippet": "Tech components are skyrocketing in price thanks to the AI boom, and many believe consumers are about to start feeling the heat. Tech blogger Kevin An...",
+      "pub": "Tue, 07 Apr 2026 12:45:06 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/08/cell-phone-cellphone-school-student.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Another 5-10 cm for Parts of Island Wednesday",
+      "link": "https://vocm.com/2026/04/07/another-5-10-cm-for-parts-of-island-wednesday/",
+      "snippet": "Winter will maintain its tenacious hold on the island with another system on its way for tomorrow that will bring snow to many areas. Temperatures wil...",
+      "pub": "Tue, 07 Apr 2026 12:13:23 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/02/snow-blizzard-car-ice.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "‘Beyond the Badge;’ RNCA Launching Video Series Highlighting Work of Members",
       "link": "https://vocm.com/2026/04/07/rnca-to-launch-video-series-highlighting-work-of-members/",
       "snippet": "The Royal Newfoundland Constabulary Association is launching a new series to show what it says will be a \"rare and candid perspective on the realities...",
       "pub": "Tue, 07 Apr 2026 11:43:28 +0000",
@@ -28,7 +52,7 @@
     },
     {
       "source": "VOCM",
-      "title": "Local Advocate Calls Overcrowded at HMP a ‘Crisis Situation’",
+      "title": "Local Advocate Calls Overcrowding at HMP a ‘Crisis Situation’",
       "link": "https://vocm.com/2026/04/07/local-advocate-calls-overcrowded-at-hmp-a-crisis-situation/",
       "snippet": "The co-founder of Turnings calls the overcrowding at Her Majesty's Penitentiary a \"crisis situation\" that will lead to even greater negative effects f...",
       "pub": "Tue, 07 Apr 2026 10:02:09 +0000",
@@ -43,35 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/british-airways-boeing-787.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "NLHC Issues RFP for Replacement of Homes Destroyed by Fire",
-      "link": "https://vocm.com/2026/04/07/296018/",
-      "snippet": "The Housing Corporation has issued an RFP for the construction of four new apartments to replace homes destroyed by fire nearly two years ago on Empir...",
-      "pub": "Tue, 07 Apr 2026 08:57:19 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/07/empire-ave-fire-housing-rnc-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Trump Planning to ‘Unleash Hell’ if Iran Refuses to Reopen Strait of Hormuz by Tonight",
-      "link": "https://vocm.com/2026/04/07/trump-planning-to-unleash-hell-if-iran-refuses-to-reopen-strait-of-hormuz-by-tonight/",
-      "snippet": "U.S. President Donald Trump says he plans to make good on his threats to unleash \"hell\" on Iran if the country does not allow for the movement of vess...",
-      "pub": "Tue, 07 Apr 2026 08:41:24 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/us-president-donald-trump-april-2026.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "No Pricing Adjustment Made by Public Utilities Board Last Night",
-      "link": "https://vocm.com/2026/04/07/no-pricing-adjustment-made-by-public-utilities-board-last-night/",
-      "snippet": "The Public Utilities Board has decided to keep fuel prices the same this morning. Last week, the PUB said it would be making pricing adjustments Tuesd...",
-      "pub": "Tue, 07 Apr 2026 08:31:53 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/gas-pump-fuel-price-pricing-adjustment-gasoline.jpg"
+      "source": "Google News Canada",
+      "title": "Trump warns a ‘whole civilization will die tonight’ if a deal with Iran isn’t reached - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONG1UUmlkTV9GRm4wamJyZnk4V2NiU1dGVERlX3U5NVVIZndKMC1lNWpIMWR6MlNQS0E2RzVINW15VXZTOU5sQVlWOVNJTVNCVklRdUlmY1RxRHhWOUVhUzFhMWRQQzdTZUxrd3pKU2U0VFJwZnlkV21ySE5DeGlKTWxUSGZwTGtFVzVLaHlUcGRIR0lCVjVDNW5xWTBWNldtR3NmdVRpUExkRGlOLXlDQXFZQmxJczFnTE81bWphUS1DaWo5aUxOVlZyY3J6TTZPX19IVEZHOA?oc=5",
+      "snippet": "Trump warns a ‘whole civilization will die tonight’ if a deal with Iran isn’t reached &nbsp;&nbsp; CTV News Trump says a 'whole civilization will die tonight' as deadline for Iran ",
+      "pub": "Tue, 07 Apr 2026 12:47:10 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump says Iran could be ‘taken out’ on Tuesday, ‘not worried’ about committing war crimes - BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnpaV29EQXpFRUp3SUNiLVhPSGEzZE9oX3JRUnVBS19UWFNwYlN1all6WXBVdy15MElCWnRleGQtbW9TaThrZUpTTUlfRHZKMElqWXgyMkhkd2M0RXVmRFZNN2VOQmVsSVJ3RDNLVUhmODhwNFdTOGUyVGI0bUxpTGdST3k4V3UyX2tKQklOZDJ1dW90clV0bi1GZF82QVU?oc=5",
-      "snippet": "Trump says Iran could be ‘taken out’ on Tuesday, ‘not worried’ about committing war crimes &nbsp;&nbsp; BNN Bloomberg Iran war live: Trump warns of attacks as Hormuz deal deadline ",
-      "pub": "Mon, 06 Apr 2026 20:26:09 GMT",
+      "title": "Reports in Iran: Explosions on Kharg 'Oil Island,' bridge attacked near Qom - ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjeTlERFo1S0U1ZjRSaFZoSU9ReEVVcVZZNnJxMTlKQnRtdko4OU9CdlFEM3RLbGJBZjFiTnU4MW1rUDM3SmwtcjRsRGtfdWdZT0VYbg?oc=5",
+      "snippet": "Reports in Iran: Explosions on Kharg 'Oil Island,' bridge attacked near Qom &nbsp;&nbsp; ynetnews Live updates: Iran war; US strikes military targets on strategic Iranian island &n",
+      "pub": "Tue, 07 Apr 2026 11:35:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Artemis II crew becomes first to view moon’s far side in the internet age - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0EzbTJHWkt3UnI1TmYyWUJ1bEloTFNWVmtuV0l4R2lDUEtQWWhkOFZFdmp2bWpzV2RJZUlpWmZNV3V6elN6R2NBakp3Yl8yMWJvT1RheTdsbkNrRnNRaHhiVTBvYnZ4RFhJQ3NwQloxZ2VXQk5NelVkXzNvQ2NfYUVNSzV1ZGZWUVpfTDhnQS1CRlFwZDBFY3o3Vk84cEwwX2p0dDY5OHkxUW8?oc=5",
+      "snippet": "Artemis II crew becomes first to view moon’s far side in the internet age &nbsp;&nbsp; The Globe and Mail NASA releases stunning new ‘Earthset’ image taken during historic lunar fl",
+      "pub": "Tue, 07 Apr 2026 02:40:40 GMT",
       "image": ""
     },
     {
@@ -84,26 +100,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Artemis II crew becomes first to view moon’s far side in the internet age - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0EzbTJHWkt3UnI1TmYyWUJ1bEloTFNWVmtuV0l4R2lDUEtQWWhkOFZFdmp2bWpzV2RJZUlpWmZNV3V6elN6R2NBakp3Yl8yMWJvT1RheTdsbkNrRnNRaHhiVTBvYnZ4RFhJQ3NwQloxZ2VXQk5NelVkXzNvQ2NfYUVNSzV1ZGZWUVpfTDhnQS1CRlFwZDBFY3o3Vk84cEwwX2p0dDY5OHkxUW8?oc=5",
-      "snippet": "Artemis II crew becomes first to view moon’s far side in the internet age &nbsp;&nbsp; The Globe and Mail Artemis II makes lunar flyby: day five of Nasa mission – in pictures &nbsp",
-      "pub": "Tue, 07 Apr 2026 02:40:40 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Exclusive: Santé Québec drops targets for reducing ER overcrowding from medical dashboard - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUGFuVE5RZGZrdFREVXVxWnhPSG9KVDkwWkdYQVFFTmM0ZFhHV0IzeHRRZFdSNUd2S3BFcm5hM1VIU3pHZUcwMWk4LTRxVHhWOWRNbXltUktWd1lNd003WHQ1WWpaczRGX0tpMVEwM2dZbFZudmxDaDBhZnNjTGppQzBmZXRMcTFWM1pGYkNnMVNMNHFDMS1mQ2U2MGtaWDFNajJzbjdLaTdVSV9LdDUxMzdFUnN4OTBYUS1oMVNqM2hLbEVfZEFRNA?oc=5",
       "snippet": "Exclusive: Santé Québec drops targets for reducing ER overcrowding from medical dashboard &nbsp;&nbsp; Montreal Gazette Santé Québec to reinstate ER indicator on medical dashboard ",
       "pub": "Mon, 06 Apr 2026 09:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "The Thickening Oil Crisis – Ukraine Latest, April 6 - Kyiv Post",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqQ1dXX3R5aHkxVUFyWEt1T1MzWXA4WlhqaVdBaTFWd0gzdnVhUl90Zkk1OTJQMVBudlBScXBvNUZ1Z0ZCM3h4TEtGaw?oc=5",
-      "snippet": "The Thickening Oil Crisis – Ukraine Latest, April 6 &nbsp;&nbsp; Kyiv Post Ukraine war briefing: Zelenskyy reiterates truce offer ahead of Orthodox Easter &nbsp;&nbsp; The Guardian",
-      "pub": "Mon, 06 Apr 2026 21:06:32 GMT",
       "image": ""
     },
     {
@@ -116,17 +116,17 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Police investigate death of 19-year-old man who fell through roof of abandoned building in Hamilton - cp24.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWk5SdHlrUnI2YlI1LUpxSGlxWW45a2dBajI2aGVsVV9kWndSakhoTldTcmwybklYNURSNmJ1OFRCV2pYOG1qekluRFZHSGFMVXlfVGtPNmhkRXJHdkY0ZXNJMGVtTng4MVRlaUw3UlBHdnA4c1pNdVVHcEJlTHBqV1ZkMEdyLVpwcVFoUExoZ2FhV2ZDNG5kVjRNaGR4REhYV0FuUG5XMlBpRWdMX3Y1c2NHSFMyaVR3VE9LZDNrSWJmUnpjN3pqekZYdDd6REV6N3VpWFEzMkZQZElQaDBjSA?oc=5",
-      "snippet": "Police investigate death of 19-year-old man who fell through roof of abandoned building in Hamilton &nbsp;&nbsp; cp24.com View Full Coverage on Google News",
+      "title": "Police investigate death of 19-year-old man who fell through roof of abandoned building in Hamilton - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRUtQQ2htSGwtSV8zZzY2WDk2VENWRkRfUTdmZ0Exd2JfSHNHUm1IREVqdFBJVU15UDFyczZ2UXNYT3h0VWY2SnRIMlNHUHlTajdhWGxOWENsdWtzSlN5UWQ1cVVfaW5oR0lwUDJsUzdNcXBpSXlZVGw0R0trNXNWMl9NVDFnV3czaExlRmFmVGFqLTBpRFhyTjFPelluQTRCNmRJS3RVaHl4c01YcjI4OGllaWxoeFBjWEN1anNaVG93a1JETmIzekFoVjZubDRaREtoMm93SklRSFl5bjF5Vng1VktWS1VJalE?oc=5",
+      "snippet": "Police investigate death of 19-year-old man who fell through roof of abandoned building in Hamilton &nbsp;&nbsp; CTV News Teen died after falling through roof of former Westinghous",
       "pub": "Tue, 07 Apr 2026 10:36:51 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta separatism question to head back to court - globalnews.ca",
+      "title": "Alberta separatism question to head back to court - Global News",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81ZE4tN05zbFNhZzVndFJiQXZtMGEybER0YVRnTXp0YXJOR3c4YXRJLVZrYzFJNmtaTEliQ1MzUWp1YVZucE5TX0JZN0dtbzJBRG90RG9iYkY1dEU1SlVHTG45S0VWS0pCNHFPWVJDZ1VZR3hTR1pjTENB?oc=5",
-      "snippet": "Alberta separatism question to head back to court &nbsp;&nbsp; globalnews.ca View Full Coverage on Google News",
+      "snippet": "Alberta separatism question to head back to court &nbsp;&nbsp; Global News Hearing on injunction filed by First Nation to stop Alberta separation to begin &nbsp;&nbsp; Global News ",
       "pub": "Tue, 07 Apr 2026 01:11:07 GMT",
       "image": ""
     }
