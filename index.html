@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Kay’s Page</title>
 
+  <!-- Public Album / Google Photos embed -->
+  <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+
   <!-- Gentle auto-refresh every 20 minutes -->
   <meta http-equiv="refresh" content="1200">
 
@@ -56,6 +59,23 @@
     .card h2{margin:0 0 10px 0;font-size:22px}
     .muted{color:var(--muted);font-size:var(--body);line-height:1.35}
 
+    /* Photo slideshow */
+    .photo-card{
+      padding:10px;
+    }
+    .photo-card h2{
+      margin:0 0 10px 4px;
+      font-size:22px;
+    }
+    .pa-gallery-player-widget{
+      width:100%;
+      height:420px;
+      display:block;
+      border-radius:12px;
+      overflow:hidden;
+      background:#e9e9e9;
+    }
+
     /* Headlines grid */
     .news-grid{display:grid;gap:12px;grid-template-columns:repeat(3,minmax(0,1fr))}
     .two-across .news-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
@@ -66,7 +86,6 @@
     .news-thumb{width:100%;height:130px;background:#e9e9e9;display:flex;align-items:center;justify-content:center;overflow:hidden}
     .news-thumb img{width:100%;height:100%;object-fit:cover;display:block}
 
-    /* If a feed has no image, show a clean "source tile" instead of blank */
     .news-thumb.fallback{
       background:#1a1a1a;
       color:#fff;
@@ -87,25 +106,6 @@
     textarea.notes{width:100%;min-height:220px;border-radius:12px;border:1px solid var(--line);padding:12px;font-size:18px;line-height:1.3;resize:vertical;outline:none}
     .status{font-size:15px;color:#666;margin-top:8px;min-height:20px}
     .footerhint{font-size:14px;color:#666;text-align:center;padding:8px 0 18px}
-
-    /* Favourites strip */
-    .fav-frame{border-radius:12px;overflow:hidden;background:#e9e9e9;position:relative;height:220px}
-    .fav-frame img{width:100%;height:100%;object-fit:cover;display:none}
-    .fav-frame .fav-fallback{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#666;font-size:18px}
-
-    /* Album tiles */
-    .album-stack{display:grid;gap:18px}
-    .album-link img{display:block;width:100%;border-radius:12px;margin-top:10px;box-shadow:0 2px 8px rgba(0,0,0,.15);cursor:pointer}
-    .album-link img:hover{transform:scale(1.01);transition:transform .2s ease}
-    .fav-link,
-.album-link{
-  text-decoration:none;
-  color:inherit;
-  display:block;
-}
-    .fav-frame img{
-  object-fit:cover;
-}
   </style>
 </head>
 
@@ -138,6 +138,15 @@
       </div>
     </section>
 
+    <section class="card photo-card">
+      <h2>Family Photos</h2>
+      <div class="pa-gallery-player-widget"
+           data-link="https://photos.app.goo.gl/JmiiBNaxTFgYNp5W7"
+           data-title="Kay's Slideshow"
+           data-description="Family photos">
+      </div>
+    </section>
+
     <section class="grid-top">
       <!-- LEFT -->
       <div class="card">
@@ -148,34 +157,6 @@
 
       <!-- RIGHT -->
       <div style="display:grid; gap:14px;">
-<div class="card">
-  <h2>Family Photos</h2>
-
-  <a href="https://photos.google.com/" target="_blank" rel="noopener noreferrer">
-    <div class="fav-frame" id="favFrame">
-      <div class="fav-fallback" id="favFallback">No favourites yet.</div>
-      <img id="favImg" alt="Favourite photo">
-    </div>
-  </a>
-
-  <div style="margin-top:10px; display:grid; gap:8px;">
-    <a class="bigbtn"
-       href="https://photos.google.com/search/CglGYXZvcml0ZXMiCBIGCgQ6AggBKOnWtM%2FMMw=="
-       target="_blank"
-       rel="noopener noreferrer">
-       ⭐ Favourite Photos
-    </a>
-
-    <a class="bigbtn"
-       href="https://photos.google.com/"
-       target="_blank"
-       rel="noopener noreferrer">
-       📷 Google Photos
-    </a>
-  </div>
-
-  <div class="status"></div>
-</div>
         <div class="card">
           <h2>Calendar</h2>
           <iframe class="calendar" id="calendarFrame"
@@ -187,7 +168,6 @@
         <div class="card">
           <h2>Phone Numbers / Notes</h2>
           <div class="muted"></div>
-          <!--Type numbers here. It saves automatically on this computer.-->
           <textarea class="notes" id="notesBox" placeholder="Doctor:
 Pharmacy:
 Jane:
@@ -261,41 +241,6 @@ function initNotes(){
     clearTimeout(t);
     t=setTimeout(()=>{ localStorage.setItem(KEY, notes.value); status.textContent="Saved."; }, 250);
   });
-}
-
-/* FAVOURITES (local fav1.jpg..fav10.jpg) */
-async function loadFavourites(){
-  const imgEl=document.getElementById("favImg");
-  const fallback=document.getElementById("favFallback");
-
-  const candidates=[];
-  for(let i=1;i<=10;i++) candidates.push(`fav${i}.jpg`);
-
-  const available=[];
-  await Promise.all(candidates.map(src => new Promise(resolve=>{
-    const img=new Image();
-    img.onload=()=>{ available.push(src); resolve(); };
-    img.onerror=()=>resolve();
-    img.src=src + "?v=" + Date.now();
-  })));
-
-  if(!available.length){
-    imgEl.style.display="none";
-    fallback.style.display="flex";
-    return;
-  }
-
-  fallback.style.display="none";
-  imgEl.style.display="block";
-
-  let idx=0;
-  const show=(src)=>{ imgEl.src = src; };
-  show(available[idx]);
-
-  setInterval(()=>{
-    idx=(idx+1)%available.length;
-    show(available[idx]);
-  }, 9000);
 }
 
 /* HEADLINES (reliable): load from ./data/headlines.json */
@@ -411,7 +356,6 @@ initDate();
 initNotes();
 initControls();
 loadWeather();
-loadFavourites();
 loadHeadlines();
 </script>
 </body>
