@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-04-09T09:12:35.527078+00:00",
+  "generated_at": "2026-04-09T10:38:35.679691+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Two of Three Main Elevators at St. Clare’s Still Awaiting Repairs",
+      "link": "https://vocm.com/2026/04/09/two-of-three-main-elevators-at-st-clares-still-awaiting-repairs/",
+      "snippet": "Two of three main elevators at St. Clare's Hospital in St. John's remain out of service after what the health authority calls \"a technical issue\" knoc...",
+      "pub": "Thu, 09 Apr 2026 10:29:05 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/10/st-clares-mercy-hospital-st-johns-health-care-7.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RCMP Seeking Information Regarding Grand Bank Cabin Break-In",
+      "link": "https://vocm.com/2026/04/09/rcmp-seeking-information-regarding-grand-bank-cabin-break-in/",
+      "snippet": "RCMP are hoping that the public can help in their investigation into a cabin break-in in Grand Bank last month. Somebody broke into a cabin on Grandvi...",
+      "pub": "Thu, 09 Apr 2026 09:57:38 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/suspects-burin.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Hospital Pharmacist Says Staffing Shortages Are Leading to Burnout Across Public Sector",
+      "link": "https://vocm.com/2026/04/09/296250/",
+      "snippet": "Hospital pharmacists say their counterparts in the private sector are earning nearly $20 an hour more, leading to high vacancy rates in the public sec...",
+      "pub": "Thu, 09 Apr 2026 09:28:59 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/aahp-allied-health-professionals-hospital-pharmacists-lorie-carter.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Ceasefire on the Edge: Trump Warns of ‘Major War’ as Iran Negotiations Stall",
+      "link": "https://vocm.com/2026/04/09/ceasefire-on-the-edge-trump-warns-of-major-war-as-iran-negotiations-stall/",
+      "snippet": "A new warning from President Donald Trump added fresh strain to an already fragile ceasefire in the Middle East. In a social media post on Thursday, h...",
+      "pub": "Thu, 09 Apr 2026 08:32:06 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/04/298342800.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Traffic Disruptions Expected at Busy Airport Heights Intersection Starting Monday",
@@ -35,83 +67,59 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/allied-health-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Business Owner Disappointed with Outcome Following Break-In and Theft",
-      "link": "https://vocm.com/2026/04/08/business-owner-disappointed-with-outcome-following-break-in-and-theft/",
-      "snippet": "A St. John's business owner is frustrated after charges laid against one of the people involved in a bold daylight robbery from his store appear to ha...",
-      "pub": "Wed, 08 Apr 2026 20:28:20 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/cctv.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "61-Year-Old Charged with Break and Enter in Grand Falls-Windsor",
-      "link": "https://vocm.com/2026/04/08/61-year-old-charged-with-break-and-enter-in-grand-falls-windsor/",
-      "snippet": "A 61-year-old man is facing charges after allegedly breaking into a home in Grand Falls-Windsor. RCMP were called shortly after 7:00 yesterday morning...",
-      "pub": "Wed, 08 Apr 2026 20:25:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/06/GFW-RCMP-Sign.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Man Charged in Connection with Violent Assault in Portugal Cove-St. Phillips",
-      "link": "https://vocm.com/2026/04/08/296220/",
-      "snippet": "A 44-year-old man has been arrested and charged in connection with a recent break, enter and assault in Portugal Cove-St. Philips. RNC were contacted ...",
-      "pub": "Wed, 08 Apr 2026 19:17:29 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Graduate Students’ Union Finds Path Forward with Health Insurance Provider",
-      "link": "https://vocm.com/2026/04/08/graduate-students-union-finds-path-forward-with-health-insurance-provider/",
-      "snippet": "GreenShield Health and Dental has approved the renewal of MUN's Graduate Students' Union's health and dental plan for September of 2026. There were co...",
-      "pub": "Wed, 08 Apr 2026 19:12:53 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/Memorial-University-MUN-Clock-Tower.jpg"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Plenty of ‘unhappy people’ in Conservative caucus: floor-crossing MP d’Entremont - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaE1vMGlYUkFLMUltOXZITVl5b0thSE5KdEJINlNVd2ZwTGk3VFE5bUNpaVlfcVlDSndIQ2w5c1pZdlJvRk5lNU1Bc1VnVm9uWjBZeXI3RngxUDRyc3F1LTRUY3FUcGg1ZHVrbFJLT1RWYS0yQmlSTHk2dUVjUlhlQ1BrV1didmhYUkoyWnVfNC02SDB2YVYxeVdRbGZlSDZEVDlfcXV1UjMydnZVMHNTMGpnY2NKbHFvb0tLMW1KMW40bXU5XzhfTEpieWJ0U1dhcnJn?oc=5",
-      "snippet": "Plenty of ‘unhappy people’ in Conservative caucus: floor-crossing MP d’Entremont &nbsp;&nbsp; CTV News Why 173 seats — and not needing the Speaker’s vote — matters to the Liberals ",
-      "pub": "Wed, 08 Apr 2026 22:40:01 GMT",
-      "image": ""
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump meets NATO’s Rutte as US weighs exit over Iran war - France 24",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVVhRcS1kTTVrUndGQ3lXcXE5akwzYmpNdmxROHFNZ1pRTXRUa0s2d2lkdm1BV3k4RzAyRk1EeDdkSVJBM0R0WEtKRWlkYmFHMC1XSHZDbGh5Ykd0QmF1U3o2TXBhd2E3Y3ozTERhaGxsQnVJWFJOel9kT3ZfUGlOcmx4SW5QelBGcDFVd25Ed0FvaUpTelE?oc=5",
-      "snippet": "Trump meets NATO’s Rutte as US weighs exit over Iran war &nbsp;&nbsp; France 24 Trump criticises Nato as alliance chief describes meeting as 'very frank' &nbsp;&nbsp; BBC Nato ‘was",
+      "snippet": "Trump meets NATO’s Rutte as US weighs exit over Iran war &nbsp;&nbsp; France 24 Trump criticises Nato as alliance chief describes meeting as 'very frank' &nbsp;&nbsp; BBC Nato chie",
       "pub": "Wed, 08 Apr 2026 21:51:10 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Iran ceasefire in jeopardy after U.S., Israel accused of violating truce - Global News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsR3RneHVoaVdteU5RSlhlRzNQYnZRS1EybF9mZTF2Y1Rtc0NxRlktMU9namJCOVlxQXdZbzFFTFEzaVd3cUI4NE1RZ3h4bURLdjNhaEpaeXNpdlhxZlNVTkZCZzFBY3RuNkY2SlVpUVRCbjdFTXVSNFFrcFMzQQ?oc=5",
-      "snippet": "Iran ceasefire in jeopardy after U.S., Israel accused of violating truce &nbsp;&nbsp; Global News Live updates: Iran war ceasefire under threat as Israel attacks Lebanon; Iran sugg",
-      "pub": "Wed, 08 Apr 2026 13:09:47 GMT",
+      "title": "Lebanon not part of Iran ceasefire agreement, Trump tells US media - Euronews",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDg0aDlyT2NmLWdfT25IMHJYOEx5Tk55RUh0TmZwLXFyMHZPSm51SExDaWpUVmZsX3pxNHROd0h5QUk2eC12UmdQc0xJZFFUZlR5dFVralo1cElTMWx6cE5nQlJHQUQ1YkgyTFNBd2ZhZWpVLWhzSVl0TUtybG9CYW5BUTdjYU9Iel9fQ016aURUdnVROEFoUzFabW9ocFpZRDZicElfVlhlajZibHVRZHhEek1HaW1aTUNCOFFn?oc=5",
+      "snippet": "Lebanon not part of Iran ceasefire agreement, Trump tells US media &nbsp;&nbsp; Euronews Middle East ceasefire threatens to unravel as Israel assaults Lebanon and Iran blocks oil t",
+      "pub": "Wed, 08 Apr 2026 13:18:54 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Israel and Hezbollah in Lebanon exchange strikes as fragile US-Iran ceasefire under strain - BBC",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MSHVWUFJIdHZGQmJIOG05MWdYcjE4Z2FtQ0tCd002MW9rVDFTTUNPdzk5WFlCeGNFenRsVDJOeFo3SFlVT1ZSb2RFblE5Z3ZrdTFfTQ?oc=5",
-      "snippet": "Israel and Hezbollah in Lebanon exchange strikes as fragile US-Iran ceasefire under strain &nbsp;&nbsp; BBC Middle East crisis live: Trump warns Iran to comply with ‘real agreement",
+      "snippet": "Israel and Hezbollah in Lebanon exchange strikes as fragile US-Iran ceasefire under strain &nbsp;&nbsp; BBC Fresh Israeli attacks on Lebanon threaten US-Iran ceasefire &nbsp;&nbsp;",
       "pub": "Thu, 09 Apr 2026 02:10:36 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "After historic flyby, Canada looks to its next role in space missions - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjh2bTZqVmkxWV9nRk1waEF5Q19CQmJhbTNVR0E4a2ZwN3Vxa1dSMGxReDZqNGhGTTdlUVhuMFRBTXUxZkNhTGhIeDUzLUhQSGFQWFE3b3RVVDRjTlRxNWJVck50TFNVX3VEUkJZUUxweFZpRWhkb1RIUjY5N2RPbThrWkRaZnd3S1owR21WSGk2SmpNWUdjT0JrUQ?oc=5",
-      "snippet": "After historic flyby, Canada looks to its next role in space missions &nbsp;&nbsp; The Globe and Mail WATCH: PM Carney, Jeremy Hansen share a laugh during call with Artemis II crew",
-      "pub": "Wed, 08 Apr 2026 01:06:44 GMT",
+      "title": "EXCLUSIVE: How multiple Canadian women discovered they were married to the same man - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDdKcW5aSTZveEMwS2tjVTB0a2hyeTJfanJ4ZFFGNFNNQWgtNFl0WnR2N3ZLTW1ydUtobXhfNFVScU9JOFF4R3l0QzBWVERPVExCRFJ2X0cwLWwxeWJ3Snh3MDAzU05zMXl1REdyazZGSEZ4QzNndlA3cDd3bFQxeEE3Z01mUTRjaDRLNlhGMTl3RnhBT2FvWWtzMW8yaVFhWkV4MUZrQ05hSjFJdTM3NlFSa2VMQkxObmtkX1RB?oc=5",
+      "snippet": "EXCLUSIVE: How multiple Canadian women discovered they were married to the same man &nbsp;&nbsp; CTV News",
+      "pub": "Wed, 08 Apr 2026 10:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Calgary-area man to hear verdict in alleged sex worker assaults - CityNews Calgary",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kcjBxMmtRa2tTdDV4UF9uQW9CX2JUelNPNTZrZE1oVDczdlJwd2VuV0hFbHVyR3ZVR2dUTDFjTDlMUi0yalYzUEI0UjZzWmpnQnpFSkpGT3lvdHYza3g2QTJiYmlOVzdtRGFZWmYzaw?oc=5",
-      "snippet": "Calgary-area man to hear verdict in alleged sex worker assaults &nbsp;&nbsp; CityNews Calgary Calgary man found guilty of preying on women employed in the city’s sex trade &nbsp;&n",
-      "pub": "Tue, 07 Apr 2026 13:05:42 GMT",
+      "title": "Canada's Carney on verge of majority government after another opposition member joins ruling Liberals - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGQ4YWFqYkI2c1pkR24zZzBJZWpZdGtYNDFDNVhsblBKTENRUWJ4aGFIWTZXT3VzMm1ySnpLalpvMW1GWTJBVEMzMFVXSlZDUjJjUGZNeENWZXFsSDF3eUVxcjVoN3RwdHBXdVNabjBTQVJqYjBsUFp3T3RWeFBoZlc2WjVLT3VyUGFYS3JiU20yaG5GQjJSdlRCOThRVWZobzFPOUt1N0FZNzg3elJEaEhPa2JCR3JqeldrZlNTc1I2czlkTXZB?oc=5",
+      "snippet": "Canada's Carney on verge of majority government after another opposition member joins ruling Liberals &nbsp;&nbsp; Reuters Carney’s Liberals are attracting support from unlikely pl",
+      "pub": "Wed, 08 Apr 2026 18:25:27 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Calgary man found guilty of preying on women employed in the city’s sex trade - Global News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLTFZYVM4a2tscklNZGZraDhMYXR4eGVvOVhuc0FCNmQ0RzYtRXVWSHNEejNQMjBObDFWWEpoZGJOdzc2ZS02TkZGTjhva0N4UFlSZnJ6RnpqeFJQeHhJYlZHZzlqRW1KVVlaNm5qOFp4WXhaU0lfUHlMZ0g2WGtTanozazkzT1RBQnNoRmZRdE5OdjI5elE?oc=5",
+      "snippet": "Calgary man found guilty of preying on women employed in the city’s sex trade &nbsp;&nbsp; Global News View Full Coverage on Google News",
+      "pub": "Tue, 07 Apr 2026 18:02:05 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "RCMP investigate shooting in Grand Falls-Windsor - CBC",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR0Y5THJTeTdrS2N3bkV1NWJPN3RHWGVzVGNMYnRmTThOVHVWQTZRQmlkRUJRTlZ5Tzljc1g1VGpIaURXV04wUVRKUWp1VURjNEU5dHZ0UENjNnJZMzBzWmZCVmNIQzhFbGp2NjdwN3BsUnZ0WGpMSEJFTFAzbUwwdW45cl9YbzU3SWVZVWxnbGFfcWZjQ1JuSVBSdzFsY3BGWHd4UjBMQzhXR0dEQjhjRw?oc=5",
+      "snippet": "RCMP investigate shooting in Grand Falls-Windsor &nbsp;&nbsp; CBC View Full Coverage on Google News",
+      "pub": "Wed, 08 Apr 2026 23:55:31 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa0NqQTVtY3o5dDBUcUg4NEdacVdsMW5mWVJQRGpTZ0kxZmNiV2FoeFloUVVrcVhUUUNRd1ZISUR5QnFiZ3EzYmt6WThLaERrZThTSmJsVzZvUnlCR2phOW9qaEQzQVdFakNqZksxYXRJc0FvbGJrbmRBWFVJQkpUOTVyWkpRR1l2LTdvV0xldmJiWkhmSkE?oc=5",
       "snippet": "What to expect at the Liberals’ national convention &nbsp;&nbsp; CTV News Liberals descend on Montreal for convention on the cusp of a majority government &nbsp;&nbsp; CBC Liberal ",
       "pub": "Wed, 08 Apr 2026 20:19:35 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Brampton man charged in shooting at Jewish-owned Toronto restaurant - CP24",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObzBiTnFXb1ZYbzJacDl6T2FIQ2dCZmNsOTlaZERUclpzYzZCeWJYTF9taUVLNkRKWkZ5VC1IaGdrSlJKczcteEVMbW44akUzMXRsRDQyM0FJd205a1NvdjhqR0FjRTVOa0ZkZW8zYmtvdDNtSEhnUmtGV0JvdVJxTVJhNllIQlU1N2RLelhpdGl4dmZPckZGTzI3OWVPZFAwOXB3SGhFeFpOUDRQMDVwYWxjWVM?oc=5",
-      "snippet": "Brampton man charged in shooting at Jewish-owned Toronto restaurant &nbsp;&nbsp; CP24 Brampton man arrested for allegedly shooting at Jewish-owned North York restaurant &nbsp;&nbsp",
-      "pub": "Wed, 08 Apr 2026 21:38:38 GMT",
       "image": ""
     }
   ],
