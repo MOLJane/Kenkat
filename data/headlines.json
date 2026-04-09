@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-04-09T07:59:21.707855+00:00",
+  "generated_at": "2026-04-09T09:12:35.527078+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Traffic Disruptions Expected at Busy Airport Heights Intersection Starting Monday",
+      "link": "https://vocm.com/2026/04/09/296248/",
+      "snippet": "Construction of a new roundabout on the route to St. John's International Airport begins next week. It will involve complete reconfiguration of the hi...",
+      "pub": "Thu, 09 Apr 2026 09:00:03 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/05/airport-heights-drive-majors-path-portugal-cove-road-intersection-construction-work.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Latest Fuel Prices for Thursday, April 9, 2026",
+      "link": "https://vocm.com/2026/04/09/latest-fuel-prices-for-thursday-april-9-2026/",
+      "snippet": "Very little change in the regulated price of gas overnight, however diesel has seen another sizable increase in Newfoundland. The regulated price of g...",
+      "pub": "Thu, 09 Apr 2026 08:41:27 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/09/diesel-gas-pump-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Man Charged After Beating Up Furniture at West End Home",
+      "link": "https://vocm.com/2026/04/09/man-charged-after-beating-up-furniture-at-west-end-home/",
+      "snippet": "A man is in the lockup after taking his anger out on some furniture at a home in the west end last night. RNC was called to the home on Topsail Road j...",
+      "pub": "Thu, 09 Apr 2026 08:31:15 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-10.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "April 9, 2026 – Should the provincial government introduce recruitment and retention initiatives for public sector pharmacists?",
+      "link": "https://vocm.com/2026/04/09/april-9-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12772').",
+      "pub": "Thu, 09 Apr 2026 08:03:32 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/allied-health-2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Business Owner Disappointed with Outcome Following Break-In and Theft",
@@ -35,91 +67,59 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/Memorial-University-MUN-Clock-Tower.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "UPDATE: One Dead, Another in Hospital Following Shooting in Grand Falls-Windsor",
-      "link": "https://vocm.com/2026/04/08/increased-police-presence-on-main-street-in-windsor/",
-      "snippet": "One person is in hospital in St. John's and the suspect is dead after what police call a targeted shooting at a home in Grand Falls-Windsor Wednesday....",
-      "pub": "Wed, 08 Apr 2026 19:03:03 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/img-7976.jpeg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Gong Show; MUN Researchers to Pitch Projects Without Resorting to Jargon or Risk Getting the Gong",
-      "link": "https://vocm.com/2026/04/08/gong-show-mun-researchers-to-pitch-projects-without-resorting-to-jargon-or-risk-getting-the-gong/",
-      "snippet": "Memorial University research scientists are being put to the test this week as they pitch their research without resorting to scientific jargon. It's ...",
-      "pub": "Wed, 08 Apr 2026 18:14:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/07/mun-memorial-university-core-science-building.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Atlantic Police Academy Trying to Fill Demand for More Police Recruits",
-      "link": "https://vocm.com/2026/04/08/296201/",
-      "snippet": "The executive director of the Atlantic Police Academy says they're doing what they can to meet the need for police recruits right across Canada. Eight...",
-      "pub": "Wed, 08 Apr 2026 17:21:40 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/atlatic-police-academy-pei.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Pair Charged with Drug Trafficking Following Pynn’s Brook Traffic Stop",
-      "link": "https://vocm.com/2026/04/08/pair-charged-with-drug-trafficking-following-pynns-brook-traffic-stop/",
-      "snippet": "Two people were arrested and drugs, cash and other items seized during a traffic stop near Deer Lake last week. RCMP pulled a car over near Pynn's Bro...",
-      "pub": "Wed, 08 Apr 2026 16:00:58 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/deer-lake-drug-bust.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Plenty of ‘unhappy people’ in Conservative caucus: floor-crossing MP d’Entremont - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaE1vMGlYUkFLMUltOXZITVl5b0thSE5KdEJINlNVd2ZwTGk3VFE5bUNpaVlfcVlDSndIQ2w5c1pZdlJvRk5lNU1Bc1VnVm9uWjBZeXI3RngxUDRyc3F1LTRUY3FUcGg1ZHVrbFJLT1RWYS0yQmlSTHk2dUVjUlhlQ1BrV1didmhYUkoyWnVfNC02SDB2YVYxeVdRbGZlSDZEVDlfcXV1UjMydnZVMHNTMGpnY2NKbHFvb0tLMW1KMW40bXU5XzhfTEpieWJ0U1dhcnJn?oc=5",
-      "snippet": "Plenty of ‘unhappy people’ in Conservative caucus: floor-crossing MP d’Entremont &nbsp;&nbsp; CTV News Opinion: Besides winning, what does a Liberal Party that will accept Marilyn ",
-      "pub": "Thu, 09 Apr 2026 00:06:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Lebanon not part of Iran ceasefire agreement, Trump tells US media - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDg0aDlyT2NmLWdfT25IMHJYOEx5Tk55RUh0TmZwLXFyMHZPSm51SExDaWpUVmZsX3pxNHROd0h5QUk2eC12UmdQc0xJZFFUZlR5dFVralo1cElTMWx6cE5nQlJHQUQ1YkgyTFNBd2ZhZWpVLWhzSVl0TUtybG9CYW5BUTdjYU9Iel9fQ016aURUdnVROEFoUzFabW9ocFpZRDZicElfVlhlajZibHVRZHhEek1HaW1aTUNCOFFn?oc=5",
-      "snippet": "Lebanon not part of Iran ceasefire agreement, Trump tells US media &nbsp;&nbsp; Euronews.com US and Iran Gear Up for Talks to Firm Up Fragile Ceasefire &nbsp;&nbsp; Bloomberg.com M",
-      "pub": "Wed, 08 Apr 2026 13:18:54 GMT",
+      "snippet": "Plenty of ‘unhappy people’ in Conservative caucus: floor-crossing MP d’Entremont &nbsp;&nbsp; CTV News Why 173 seats — and not needing the Speaker’s vote — matters to the Liberals ",
+      "pub": "Wed, 08 Apr 2026 22:40:01 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Trump meets NATO’s Rutte as US weighs exit over Iran war - France 24",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVVhRcS1kTTVrUndGQ3lXcXE5akwzYmpNdmxROHFNZ1pRTXRUa0s2d2lkdm1BV3k4RzAyRk1EeDdkSVJBM0R0WEtKRWlkYmFHMC1XSHZDbGh5Ykd0QmF1U3o2TXBhd2E3Y3ozTERhaGxsQnVJWFJOel9kT3ZfUGlOcmx4SW5QelBGcDFVd25Ed0FvaUpTelE?oc=5",
-      "snippet": "Trump meets NATO’s Rutte as US weighs exit over Iran war &nbsp;&nbsp; France 24 Trump criticises Nato as alliance chief describes meeting as 'very frank' &nbsp;&nbsp; BBC Trump sla",
+      "snippet": "Trump meets NATO’s Rutte as US weighs exit over Iran war &nbsp;&nbsp; France 24 Trump criticises Nato as alliance chief describes meeting as 'very frank' &nbsp;&nbsp; BBC Nato ‘was",
       "pub": "Wed, 08 Apr 2026 21:51:10 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Iran ceasefire in jeopardy after U.S., Israel accused of violating truce - Global News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsR3RneHVoaVdteU5RSlhlRzNQYnZRS1EybF9mZTF2Y1Rtc0NxRlktMU9namJCOVlxQXdZbzFFTFEzaVd3cUI4NE1RZ3h4bURLdjNhaEpaeXNpdlhxZlNVTkZCZzFBY3RuNkY2SlVpUVRCbjdFTXVSNFFrcFMzQQ?oc=5",
+      "snippet": "Iran ceasefire in jeopardy after U.S., Israel accused of violating truce &nbsp;&nbsp; Global News Live updates: Iran war ceasefire under threat as Israel attacks Lebanon; Iran sugg",
+      "pub": "Wed, 08 Apr 2026 13:09:47 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Israel and Hezbollah in Lebanon exchange strikes as fragile US-Iran ceasefire under strain - BBC",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MSHVWUFJIdHZGQmJIOG05MWdYcjE4Z2FtQ0tCd002MW9rVDFTTUNPdzk5WFlCeGNFenRsVDJOeFo3SFlVT1ZSb2RFblE5Z3ZrdTFfTQ?oc=5",
-      "snippet": "Israel and Hezbollah in Lebanon exchange strikes as fragile US-Iran ceasefire under strain &nbsp;&nbsp; BBC Middle East crisis live: Red Cross ‘outraged’ as Israeli strikes on Leba",
+      "snippet": "Israel and Hezbollah in Lebanon exchange strikes as fragile US-Iran ceasefire under strain &nbsp;&nbsp; BBC Middle East crisis live: Trump warns Iran to comply with ‘real agreement",
       "pub": "Thu, 09 Apr 2026 02:10:36 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada-wide arrest warrant issued for former University of Manitoba law dean - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkRuMFRMSUZjejEzRkkwMU1iMUUzb3dqaTh5V2tNSGFoSmptbmZETG5HbUd6cXZjVWh0aGdZV2NDZU9kT25fTjJKUnhHWnl2Wl9JSVg1R0hLbzV3TWcycmJVYm01ZzlfWTFKYmRDWGdnSkdYMkVCNWh5RGU1VmRFVU96c1JncHIweDBaSmZ3VmpCMjZidUxBYmdna1dzWHQtRWNPekw2STdrb0UzRHZ2cms2VmpMckZv?oc=5",
-      "snippet": "Canada-wide arrest warrant issued for former University of Manitoba law dean &nbsp;&nbsp; CTV News Former U of Manitoba law dean disbarred in U.K., still under Canada-wide arrest w",
-      "pub": "Wed, 08 Apr 2026 20:56:18 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "After historic flyby, Canada looks to its next role in space missions - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjh2bTZqVmkxWV9nRk1waEF5Q19CQmJhbTNVR0E4a2ZwN3Vxa1dSMGxReDZqNGhGTTdlUVhuMFRBTXUxZkNhTGhIeDUzLUhQSGFQWFE3b3RVVDRjTlRxNWJVck50TFNVX3VEUkJZUUxweFZpRWhkb1RIUjY5N2RPbThrWkRaZnd3S1owR21WSGk2SmpNWUdjT0JrUQ?oc=5",
-      "snippet": "After historic flyby, Canada looks to its next role in space missions &nbsp;&nbsp; The Globe and Mail PM Carney to speak with Canadian Jeremy Hansen after Artemis II’s historic moo",
+      "snippet": "After historic flyby, Canada looks to its next role in space missions &nbsp;&nbsp; The Globe and Mail WATCH: PM Carney, Jeremy Hansen share a laugh during call with Artemis II crew",
       "pub": "Wed, 08 Apr 2026 01:06:44 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Carney is on the verge of a majority. These 3 byelections will decide - Global News",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KRnJRbWFnV0RXdHZ2ZjlKcGhVN1NkaW4yOUt2WHR2Rl9tdmVoT2VMYkR2azRaUTdBQW5YYVBaRDNXSlRMTU1fdk1yNWlrTDFJR3dDU0ViRHY5WS12M0tDNkhEUGdocVpyRndLTUY1SXpnc1E?oc=5",
-      "snippet": "Carney is on the verge of a majority. These 3 byelections will decide &nbsp;&nbsp; Global News 'Every vote counts': Liberals campaign hard for Quebec seat in Monday's federal byele",
-      "pub": "Wed, 08 Apr 2026 16:51:43 GMT",
+      "title": "Calgary-area man to hear verdict in alleged sex worker assaults - CityNews Calgary",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kcjBxMmtRa2tTdDV4UF9uQW9CX2JUelNPNTZrZE1oVDczdlJwd2VuV0hFbHVyR3ZVR2dUTDFjTDlMUi0yalYzUEI0UjZzWmpnQnpFSkpGT3lvdHYza3g2QTJiYmlOVzdtRGFZWmYzaw?oc=5",
+      "snippet": "Calgary-area man to hear verdict in alleged sex worker assaults &nbsp;&nbsp; CityNews Calgary Calgary man found guilty of preying on women employed in the city’s sex trade &nbsp;&n",
+      "pub": "Tue, 07 Apr 2026 13:05:42 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "What to expect at the Liberals’ national convention - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa0NqQTVtY3o5dDBUcUg4NEdacVdsMW5mWVJQRGpTZ0kxZmNiV2FoeFloUVVrcVhUUUNRd1ZISUR5QnFiZ3EzYmt6WThLaERrZThTSmJsVzZvUnlCR2phOW9qaEQzQVdFakNqZksxYXRJc0FvbGJrbmRBWFVJQkpUOTVyWkpRR1l2LTdvV0xldmJiWkhmSkE?oc=5",
+      "snippet": "What to expect at the Liberals’ national convention &nbsp;&nbsp; CTV News Liberals descend on Montreal for convention on the cusp of a majority government &nbsp;&nbsp; CBC Liberal ",
+      "pub": "Wed, 08 Apr 2026 20:19:35 GMT",
       "image": ""
     },
     {
