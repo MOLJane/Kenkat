@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-04-10T17:12:00.346597+00:00",
+  "generated_at": "2026-04-10T18:06:09.314648+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Recognized Neuroscientist and MUN Professor Passes Away at 59",
+      "link": "https://vocm.com/2026/04/10/296391/",
+      "snippet": "An internationally-recognized neuroscientist and MUN professor has died. Dr. Michelle Ploughman passed away last week at the age of 59 following a bat...",
+      "pub": "Fri, 10 Apr 2026 17:57:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/dr-michelle-ploughman.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Supreme Court Injunction Granted to Stop Fisheries Union from ‘Declaring or Authorizing’ Tie-up in Snow Crab Fishery",
+      "link": "https://vocm.com/2026/04/10/supreme-court-injunction-granted-to-stop-fisheries-union-from-declaring-or-authorizing-tie-up-in-snow-crab-fishery/",
+      "snippet": "The Supreme Court has granted an injunction based on an application from the Association of Seafood Producers, ordering the FFAW to stop \"declaring or...",
+      "pub": "Fri, 10 Apr 2026 17:27:48 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/11/Supreme-Court-St-Johns-2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Pills and Cigarettes Seized in Traffic Stop on Brookfield Road",
@@ -12,9 +28,9 @@
     },
     {
       "source": "VOCM",
-      "title": "Police Conducting Search in Salmonier Line Area",
+      "title": "UPDATE: RCMP Take Person into Custody Following Search in Salmonier Line Area",
       "link": "https://vocm.com/2026/04/10/296386/",
-      "snippet": "RCMP in Holyrood are conducting a search for person in the Salmonier Line and Vineland Road area. The search is part of an ongoing investigation. Poli...",
+      "snippet": "RCMP have taken a person into custody following an intensive police search in the Salmonier Line area early this afternoon. Police had asked the publi...",
       "pub": "Fri, 10 Apr 2026 16:16:38 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/vineland-road.jpg"
     },
@@ -51,26 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/crime-damage-business-vandalism.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "All Eyes on the Skies as Artemis II Returns to Earth",
-      "link": "https://vocm.com/2026/04/10/all-eyes-on-the-skies-as-artemis-ii-returns-to-earth/",
-      "snippet": "The crew of the Artemis II is heading back home to Earth with splashdown in the Pacific scheduled for tonight. The crew has travelled the farthest awa...",
-      "pub": "Fri, 10 Apr 2026 13:47:10 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/04/artemis-2-mission-nasa-crew-space-moon-landing.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Capital City Looking for Greater Support from Province in Tackling Problem Properties",
-      "link": "https://vocm.com/2026/04/10/capital-city-looking-for-greater-support-from-province-in-tackling-problem-properties/",
-      "snippet": "The Deputy Mayor of St. John's says the city would like to see more support from the provincial government in dealing with issues in the community tha...",
-      "pub": "Fri, 10 Apr 2026 12:37:50 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/weapons.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Shooting at Lambton College campus bar kills 1, injures 2 others, police say - CBC",
+      "title": "Lambton College shooting victim identified by Sarnia police - CBC",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU29xd2FVaXU0MjdyOWx0OXBNa2RIek9uVlNKU0NuYjZiSGtxWW1GQ2k2V0sySFpIRWxLSThDbXNuVzJvSW9BaDE2cndJd3FMWmFCTVJkdDg0M2JsVGlGRXcxWVRjU3JfQjlGaW5qMXhHemtONlA5azU5d3E0VlBqMDB4dkJJTnJBa0szUnpqV2FETUItTFNrWmVlVnAxNTJDVS1FUGF5NmJxS1ltdlRpM3lLY2tFcGxIcmFxaUduN0M?oc=5",
-      "snippet": "Shooting at Lambton College campus bar kills 1, injures 2 others, police say &nbsp;&nbsp; CBC One man dead in early-morning shooting at Lambton College: Sarnia police &nbsp;&nbsp; ",
+      "snippet": "Lambton College shooting victim identified by Sarnia police &nbsp;&nbsp; CBC One dead after shooting at Lambton College campus bar &nbsp;&nbsp; CTV News Mooretown Flags mourn shoot",
       "pub": "Fri, 10 Apr 2026 16:30:52 GMT",
       "image": ""
     },
@@ -84,34 +84,42 @@
     },
     {
       "source": "Google News Canada",
+      "title": "‘Incredibly difficult time’: Multiple authorities investigate after employee dies at Maple Leaf Foods plant in London, Ont. - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVmwtR1hxWFZnU0wxVGN6b1VNLURlUDd5VHRyTjNNV3J3c3lKYU1Xb2NBSHJKVVJRTmROMHhWQnJGSGNPSWhRc1haNlVsVXBIejhfbGx0SmxfaDdoTk12MDdCcjdZNEkyOTVYcWFXLXlQUUlZa0ZmdjN2OVJtbllBTTJENHktaTdBYnk0YlpXekJXOFVLOWhHNFV5Q2twaUlLRzF5QUlqSUlJVXlmcmtua0ZpMEs5aXRLM1V2cjdCWHlINEFmR2JUYmlIckFmMXZRQzRSMl82eHVyUEg2NjZOM0hYMUFwWlNhQUlrOVBR?oc=5",
+      "snippet": "‘Incredibly difficult time’: Multiple authorities investigate after employee dies at Maple Leaf Foods plant in London, Ont. &nbsp;&nbsp; CTV News",
+      "pub": "Fri, 10 Apr 2026 15:50:06 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "PM Carney says Canada not considering sanctioning Israel over Lebanon strikes - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZnZvUHU5UXlqTEFxWUZRajh6VmgyMm5NU3V1R0UxdmU2R3R2eEF5Mkd2MmY3MlVPcURoaFRTWlJnU2FfWjBWcUtUd055bHBDbi05N2NyUlBmeHltZ3c1TEE4V211LVRZQTBJZUV6MUg3UmhVQnBJYTlUVnhhV3QzZ3lVSFJwUlZLemJmVmdVWUc5azd2bHgtTjlCTjVFektjV0xUQ1hJZDJENTZnQk1TSW13eTJpaFNsSlV4dDZYUXl4ZTdKazhjWEI3dlk?oc=5",
+      "snippet": "PM Carney says Canada not considering sanctioning Israel over Lebanon strikes &nbsp;&nbsp; CTV News Did Israel attack Lebanon to spoil Iran war ceasefire? &nbsp;&nbsp; The Guardian",
+      "pub": "Thu, 09 Apr 2026 19:10:47 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump's peace board faces cash crunch, stalling Gaza plan, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDRjQjk3LUo4Q2ZTdWF2d2k0NS11NkwwRFg5M0xKd25MSmNnYUk4N1Nfb2VlbU1EenRSTGJ2T1ZjRzljVTZCZVJhczFyeFVyRExJRWZuYThjUm1aM0pqN0QyYTZJc1RzUHo0ZVpPWGxZbGdNT2RFb3NrX2VpQ3BtSXNiVHk0aktSRzJoY21hUklTbHRIc19nOXRhMWR1UXl6bVFYMmo5WWRBNS1ZVTJZWlRTaEtrVUM4TXVXTnln?oc=5",
+      "snippet": "Trump's peace board faces cash crunch, stalling Gaza plan, sources say &nbsp;&nbsp; Reuters Board of Peace has received only tiny fraction of $17 billion pledged for Gaza — sources",
+      "pub": "Fri, 10 Apr 2026 15:00:35 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Attention shifts to Artemis II mission’s last steps and dramatic, scorching descent - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUs1ZTVWU1B1Skd6anFlVl83akJQWjVTMFQtNUhBRnVlb0ZodmtIZ3NjNHUyRkY1OUpzLUltX3E3TXhXRkFheDdKZ3NUVlhVSjlPbHFYdWtjZGVhR0lRX0ROdl82UHA5cW1CSVRQSmZjTzlSSmNVQ2gySmVUVTNwbmV1c3NlR0JRQ2g0cl95cE9DNzJ1eThIMEtmbjBDdE1ZU0JPNjJYLTM?oc=5",
-      "snippet": "Attention shifts to Artemis II mission’s last steps and dramatic, scorching descent &nbsp;&nbsp; The Globe and Mail What to expect with the Artemis II return to Earth &nbsp;&nbsp; ",
+      "snippet": "Attention shifts to Artemis II mission’s last steps and dramatic, scorching descent &nbsp;&nbsp; The Globe and Mail Artemis II Lunar Flyby &nbsp;&nbsp; NASA (.gov) Artemis II capsu",
       "pub": "Fri, 10 Apr 2026 00:38:54 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Federal government needs to protect B.C.’s private property rights, Poilievre says - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONWNLTkl0T0FDRXNsVUNfQ2FDdExFcG5HOE5lYnp6cHpaTy1WVnRQTmZSdy1jUVZiV2h3MmJrdWVnSEZVQ1F3cWNWM1g1bzc0ZVVTN3FMUm1oR0dUUFNjUkxBakRlWkhianlxa1lWa0hyQjFXM3VCRWJOZWhCTmFDem5uUEUyem11ZVAyY1NSY0NQSlg2b05RTzcwVXl5NmxOYXBUaDFHeXlCVlU?oc=5",
-      "snippet": "Federal government needs to protect B.C.’s private property rights, Poilievre says &nbsp;&nbsp; Global News View Full Coverage on Google News",
-      "pub": "Thu, 09 Apr 2026 20:54:11 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "New floor-crosser Gladu ‘will vote with the government’ on social issues, PM Carney says - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUlpIRHFyMmVJOEx3VnlNeW10WnhfcVI4MFl5WlEyM0VLSHVjTlVCQ1p0eWN6OEdaZFRGR2g1YXBxR0hNak44RWZXeWpIb19uOFM1cGR4bDRGMWM1c05STzRVZVc3dE9sMjUtS2Znd3ZPeUs5eERXdGhjNzV0dDd5V1hpNVdIY29QdVoxZXQ2Q0doMlRrejNmaW1vVVhtMkNsQ1JfejVZc2pZdUtJclZXR0xNSXdMNEg3SWVmUHdoTkZVdFg3ZjlHZGRR?oc=5",
-      "snippet": "New floor-crosser Gladu ‘will vote with the government’ on social issues, PM Carney says &nbsp;&nbsp; CTV News Gladu says crossing floor to Liberals was ‘best thing’ for her riding",
-      "pub": "Thu, 09 Apr 2026 22:42:31 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Perspectives: When feelings outweigh facts in the Calgary rezoning debate - LiveWire Calgary",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNV9zOXdLM2E2TlA4dW0wLW8wUEtpRm1IcVlsZjhPZ09VcEZma0FOSjJydW9LVmxpSzVoRGNiS2E3Ul9OalpTVXl4WVF5X1g1R1RYSW1tMkczemF4b3VkeHpXQWdlZFlYRHVxSlFhRTY5SElkTmluSzN4VWlHSWV2UElsRlNjX0FxT1RiMlpIbTlsYlZ6N3NxSFU0MGlnRW5xWU16SlUxeVJxVFREM0d6TDlB?oc=5",
-      "snippet": "Perspectives: When feelings outweigh facts in the Calgary rezoning debate &nbsp;&nbsp; LiveWire Calgary Calgary city council repeals blanket rezoning. What does this mean for Calga",
-      "pub": "Thu, 09 Apr 2026 22:28:50 GMT",
+      "title": "Supreme Court upholds reversal of death declaration in case of man found to be alive - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDdrakFDeXdFQ1oxa0hROU92UTE0SF9fXzFFTnJRT1JqdlhsNFJRcWp0bDRhRjVwVEtQcVc1TVlkXzlrSXRMcl9OakltOXFuUTJHWVhzd3J2Q1huME5LejFuclQxZzJuYmNkX1k2bldqMzJXb0lFbzd6RlBSbFhZVmtyRHJzdjZvcFEyNXJqaGFoSTJHY3cyRjFMYkRqbE43R2I3YUxJdnhzNndoRlJJWE1qdVRZYkhvQjBaTWNGbW9KS3M?oc=5",
+      "snippet": "Supreme Court upholds reversal of death declaration in case of man found to be alive &nbsp;&nbsp; CTV News View Full Coverage on Google News",
+      "pub": "Fri, 10 Apr 2026 15:45:08 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdE1tNklvNEtRc0lYYWlMMzV0LTdWSXFLMlNidnA4WS1uaVJnSU1keXlEMndCZXZTWlEtdXdrZVNDZXN0S1RDcFFjNnhSVTJYYlp0LWp3S0NaM21yUTBvS3lZbEpRYjludTNJMUNLdXNVYTdrN29HMGtqYWlQNXFLLVJFbWlJcWxIb0VQRUVnX3JRdEduZXdoandId2Y2V2YtUVhmSGpyYmZnTnRRdVcwcWZQQ0tlR3ZSV1N0UFJVRGZZd1lreWt2VXcwTUZuaGZhRXJZ?oc=5",
       "snippet": "Ontario man prohibited from possessing firearms arrested after police seize 53 long rifles &nbsp;&nbsp; CP24 View Full Coverage on Google News",
       "pub": "Fri, 10 Apr 2026 15:03:20 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Ontario to overhaul teacher training in move to fix educator shortage - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMG85ZmptTkVUdFJ2S1Q5SkxUelBMRnhFUFlrZ2o3TGxmdTlXelRYOVp4b2ROOTBQamZrakxnU3RvODBoanpxMG81NmZQT0dtOGRDVnRUV2FHelV6TlJSbVJJSTZRajJRZmJsd05VaXBxWHJoN2k0ZVBRSEIyN19MSVJGS0RDbmg4eXgzZEk0ZVQwb1RTS2JFNkU5dHFtLUk2ek1rcGdIcW1RSGZLSVloSkMwN2ZvSXE0ckdSbUdJZmhmV0xibTd6TzlkVDRGTGY2VFYwdjJPTlFnd05ZQjAwNm9QV0Qta0E?oc=5",
-      "snippet": "Ontario to overhaul teacher training in move to fix educator shortage &nbsp;&nbsp; Toronto Star View Full Coverage on Google News",
-      "pub": "Fri, 10 Apr 2026 10:00:00 GMT",
       "image": ""
     }
   ],
