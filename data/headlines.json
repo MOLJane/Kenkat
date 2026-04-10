@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T20:00:39.347309+00:00",
+  "generated_at": "2026-04-10T21:01:14.495737+00:00",
   "count": 16,
   "items": [
     {
@@ -68,18 +68,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "1 man dead, 2 others hurt after shooting at Lambton College bar: Sarnia police - Global News",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94cnY1Z2lvV1d4b2RtMjRCRHRaZEdWbUhMd29tUXdKTlIxZlc2Tk9xUVowRzVSSUhjc2dyQThvTlBxb2tPOG5LWVhUWExhS0NFM3FJQmN1OUM2NEJrbEJQSllSRWtlM1RHb2p6THlvX3M1N1U?oc=5",
-      "snippet": "1 man dead, 2 others hurt after shooting at Lambton College bar: Sarnia police &nbsp;&nbsp; Global News One dead after shooting at Lambton College campus bar &nbsp;&nbsp; CTV News ",
-      "pub": "Fri, 10 Apr 2026 13:55:42 GMT",
+      "title": "Former junior hockey player, 20, killed in Lambton College shooting: Police - The Sarnia Observer",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdnBWVy1pSHJGX3ZFQjR5NWdfQ2FlMldXVDRZbElIWjhieEM1Sm51dkZDVXBaajBKNXdSY2RXZ0pISTJpTWFyYnQ5dmFLVWo0TnJNR2hQMTFTYzRXaTJDbDV0ZGs4X2J1Z0tzWDJreWhXallzT1liZUthMXVla1B0RUpXeUVTY2cxamQ4VTNEOGZlb3BncTFFV2JMN0FpYWQ4TXNsVDRXWmxfTUdVaW4xdmhKbU0?oc=5",
+      "snippet": "Former junior hockey player, 20, killed in Lambton College shooting: Police &nbsp;&nbsp; The Sarnia Observer Man killed, two injured in college campus bar shooting in Sarnia, Ont. ",
+      "pub": "Fri, 10 Apr 2026 20:35:52 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Video message from Justin Trudeau shared at Liberal convention - CTV News",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa05rM3dGLU85R3dWazBXaGgzbnZoTVJ5YWk3UGN4N2RjNXJweTVnQzhBLWJhdGZOYzFMRzZ3Mm4zNXZHSldWeGRnaG44TTE4aDZwaURwUFl0ZFhrN2xmUVhYNFpGdXpLWXNRb25Pa0JtcGE5R1I2R25yV0NsMEFLVG1RXzlBRlk5ZVAwVFVMMkFmTzlSV3JzVE5LUnJfYTFUX0NJdll3?oc=5",
-      "snippet": "Video message from Justin Trudeau shared at Liberal convention &nbsp;&nbsp; CTV News Opinion: A Liberal Party in a triumphal mood finds it easier to accept conflicting values &nbsp",
+      "snippet": "Video message from Justin Trudeau shared at Liberal convention &nbsp;&nbsp; CTV News Poilievre calls foul, but celebrating Liberals don't seem to care how they reach a majority &nb",
       "pub": "Fri, 10 Apr 2026 09:43:15 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "‘I know what it requires’: Harris on why she’s thinking about running for president in 2028 - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTBXRnhJbkN6NFVRYk50d1ZWV3AzUHU1MXNKdjg2QTExUmtXYzhRdVZDemIwLU8wVFVESW5UMFhMdU04T2ItNEVvWFQxQzQxVG5XUURGNzhqNVRQcTNGVG1tYm9iVnNIWUJZdVpFRlZDTEJOalhtZmMwYmw0dTNVbWw0ODZ0Nzg?oc=5",
+      "snippet": "‘I know what it requires’: Harris on why she’s thinking about running for president in 2028 &nbsp;&nbsp; CNN Democrat Kamala Harris teases 2028 presidential bid, following Trump lo",
+      "pub": "Fri, 10 Apr 2026 16:38:52 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "What to expect with the Artemis II return to Earth - CBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkMFQyVmZ1N3ZsU2RhUmd6Q1ZBRHVTMmpSWkp0dHp4SHZKYUJseDBMQkxlY2R1OW5Na3RzZXozWGdmcFJlTFczUDdjcWlRNFkzV1h1SkhlTVk2RnRPYWJGTWpmLU81blEydmRtVVFyQ2hQUU5zWXBacw?oc=5",
+      "snippet": "What to expect with the Artemis II return to Earth &nbsp;&nbsp; CBC Artemis II crew to make dramatic return to Earth today. Here’s what to know &nbsp;&nbsp; CTV News Artemis II spl",
+      "pub": "Fri, 10 Apr 2026 19:31:41 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "‘Incredibly difficult time’: Multiple authorities investigate after employee dies at Maple Leaf Foods plant in London, Ont. - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVmwtR1hxWFZnU0wxVGN6b1VNLURlUDd5VHRyTjNNV3J3c3lKYU1Xb2NBSHJKVVJRTmROMHhWQnJGSGNPSWhRc1haNlVsVXBIejhfbGx0SmxfaDdoTk12MDdCcjdZNEkyOTVYcWFXLXlQUUlZa0ZmdjN2OVJtbllBTTJENHktaTdBYnk0YlpXekJXOFVLOWhHNFV5Q2twaUlLRzF5QUlqSUlJVXlmcmtua0ZpMEs5aXRLM1V2cjdCWHlINEFmR2JUYmlIckFmMXZRQzRSMl82eHVyUEg2NjZOM0hYMUFwWlNhQUlrOVBR?oc=5",
+      "snippet": "‘Incredibly difficult time’: Multiple authorities investigate after employee dies at Maple Leaf Foods plant in London, Ont. &nbsp;&nbsp; CTV News",
+      "pub": "Fri, 10 Apr 2026 15:50:06 GMT",
       "image": ""
     },
     {
@@ -92,42 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Attention shifts to Artemis II mission’s last steps and dramatic, scorching descent - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUs1ZTVWU1B1Skd6anFlVl83akJQWjVTMFQtNUhBRnVlb0ZodmtIZ3NjNHUyRkY1OUpzLUltX3E3TXhXRkFheDdKZ3NUVlhVSjlPbHFYdWtjZGVhR0lRX0ROdl82UHA5cW1CSVRQSmZjTzlSSmNVQ2gySmVUVTNwbmV1c3NlR0JRQ2g0cl95cE9DNzJ1eThIMEtmbjBDdE1ZU0JPNjJYLTM?oc=5",
-      "snippet": "Attention shifts to Artemis II mission’s last steps and dramatic, scorching descent &nbsp;&nbsp; The Globe and Mail Artemis II Flight Day 10: Crew Completes Final Burn Before Splas",
-      "pub": "Fri, 10 Apr 2026 00:38:54 GMT",
+      "title": "‘Chemical incident’ at Crystal Pool sends 8 to hospital: Victoria spokesperson - CHEK News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlVLcU1iZ0lpR2VHcl8wS2Q2R2hCMmNmUjRUZGxCVHRlMHJ3bThULThYcm1RelZwc0NuLUJ6NEt0d3hwV3lTYzNUSnJac0t0bHFoUTdhM2hQTUZ4dmFGay1IaFNBVXVMV3lRcVo0UHhVU2Y2NEFicmZ4UU5kNjNmMm9zVUp2UUt0RmdZYlpmOFpCR2VwdzlhbHdqdXNoNms?oc=5",
+      "snippet": "‘Chemical incident’ at Crystal Pool sends 8 to hospital: Victoria spokesperson &nbsp;&nbsp; CHEK News ‘Gas incident’ at Victoria swimming pool sends 8 to hospital &nbsp;&nbsp; CBC ",
+      "pub": "Fri, 10 Apr 2026 19:09:56 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump posts graphic video of deadly hammer attack in Florida, putting renewed focus on immigration debate - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeTYtTW92RmhBaC11ZHdOdVFHVWNkT2hVVWdLd0tSaG1LeTF6OU1rSl93Vjc1d3g2WWVVM19lOHJxTU1RVHVobFRPV09jalRMVURnLV95Z25ydVMxbU1VcVJyN1hoUENybExsN0FOcU5HMTMwX3l4bVN3T3BWRlhSd1Q1NmxPamRIYm9XOGRSdUszdXZuOUE0UmFCNW9JNGFnZTNXbDhUNVVhUV92dEpReE1jMi0zSndYMTNFeUhyd21ibDBjTVRnTFk0Mk01bzdyN2hwTzUxTEJRQQ?oc=5",
-      "snippet": "Trump posts graphic video of deadly hammer attack in Florida, putting renewed focus on immigration debate &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Fri, 10 Apr 2026 19:47:35 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Tensions mount as First Nations leaders hold emergency meeting over B.C.’s DRIPA plans - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNTZkQUhiMGNlYnNlTV9ITXUzWFQ4QUNpR3BSdEZfMk1Sc3dKeXZjREVTWGM0QjNEUnhEWXhGaDNNU2VtNEpuUVc2TE16MkFVeTBuY1ItdVdhYjBnT01jZGxDaVhfUUoyVjBzZ3Z5bEJLQXFzcE9ab0VwLUtERzhUd1hweVRqcUhhYkVEN2pxZGJYVnc1QXJGcXB5dVdtNWh3VjVUVWF0NDloMG0yZmdoVW84TjNKS240LW93QWkxRFc4LWM?oc=5",
-      "snippet": "Tensions mount as First Nations leaders hold emergency meeting over B.C.’s DRIPA plans &nbsp;&nbsp; CTV News Grand Chief Stewart Phillip says ‘heartsick’ MLA wife doesn’t support D",
-      "pub": "Fri, 10 Apr 2026 02:17:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Supreme Court upholds reversal of death declaration in case of man found to be alive - CTV News",
+      "title": "Supreme Court rules Quebec man declared dead is likely alive and living in Iran - CTV News",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDdrakFDeXdFQ1oxa0hROU92UTE0SF9fXzFFTnJRT1JqdlhsNFJRcWp0bDRhRjVwVEtQcVc1TVlkXzlrSXRMcl9OakltOXFuUTJHWVhzd3J2Q1huME5LejFuclQxZzJuYmNkX1k2bldqMzJXb0lFbzd6RlBSbFhZVmtyRHJzdjZvcFEyNXJqaGFoSTJHY3cyRjFMYkRqbE43R2I3YUxJdnhzNndoRlJJWE1qdVRZYkhvQjBaTWNGbW9KS3M?oc=5",
-      "snippet": "Supreme Court upholds reversal of death declaration in case of man found to be alive &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Fri, 10 Apr 2026 15:45:08 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Ontario man prohibited from possessing firearms arrested after police seize 53 long rifles - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdE1tNklvNEtRc0lYYWlMMzV0LTdWSXFLMlNidnA4WS1uaVJnSU1keXlEMndCZXZTWlEtdXdrZVNDZXN0S1RDcFFjNnhSVTJYYlp0LWp3S0NaM21yUTBvS3lZbEpRYjludTNJMUNLdXNVYTdrN29HMGtqYWlQNXFLLVJFbWlJcWxIb0VQRUVnX3JRdEduZXdoandId2Y2V2YtUVhmSGpyYmZnTnRRdVcwcWZQQ0tlR3ZSV1N0UFJVRGZZd1lreWt2VXcwTUZuaGZhRXJZ?oc=5",
-      "snippet": "Ontario man prohibited from possessing firearms arrested after police seize 53 long rifles &nbsp;&nbsp; CP24 View Full Coverage on Google News",
-      "pub": "Fri, 10 Apr 2026 15:03:20 GMT",
+      "snippet": "Supreme Court rules Quebec man declared dead is likely alive and living in Iran &nbsp;&nbsp; CTV News View Full Coverage on Google News",
+      "pub": "Fri, 10 Apr 2026 20:01:45 GMT",
       "image": ""
     }
   ],
