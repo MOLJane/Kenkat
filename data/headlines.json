@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-04-11T13:49:42.599399+00:00",
+  "generated_at": "2026-04-11T14:29:55.666369+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Harry the Swan Doing Well in Nova Scotia says Rescue Group",
+      "link": "https://vocm.com/2026/04/11/296366/",
+      "snippet": "Harry the swan, a long time resident of Mundy Pond and the last of the capital city's municipal swans, is reportedly doing well in his new digs at Hop...",
+      "pub": "Sat, 11 Apr 2026 14:05:20 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/harry-the-swan-submitted-1.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Advocate Raises Concerns Over Placing Mental Health Under Disabilities Office",
@@ -59,35 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/gas-gasoline-fuel-price-pump-pub-gas-station-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "April 11, 2026 – Do you agree with former premier Danny Williams’ efforts to stop the Churchill Falls MOU?",
-      "link": "https://vocm.com/2026/04/11/april-11-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12778').",
-      "pub": "Sat, 11 Apr 2026 08:00:12 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/danny-williams.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Middle East war live: Iranian media say peace talks with the US have begun in Islamabad - France 24",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGdLUHB2QV9zTG5rbWJmeWplMnhaM2tGbDk3WklMUjBOVFVkNDh6NWZoU0w2YXYwcEtYVjQwWTBkTmV6d3dsTjBKNjVQdGJaVXpUWFRVeTVkQkxaMFRvTUVBQ2FOcHRUWFdXTFFWSzJIMzRFbC1HN0hZaEs2RTlzbzV6aFZMZWFlYjJvbS16eW84RUdraXcxa2J2VS1FNVRfcllTTzluQlF4VnFNNWZR?oc=5",
-      "snippet": "Middle East war live: Iranian media say peace talks with the US have begun in Islamabad &nbsp;&nbsp; France 24 Iran War Live Updates: U.S. and Iran Begin Peace Talks, Iranian Media",
+      "snippet": "Middle East war live: Iranian media say peace talks with the US have begun in Islamabad &nbsp;&nbsp; France 24 US-Iran talks on ending war begin in Pakistan &nbsp;&nbsp; Al Jazeera",
       "pub": "Sat, 11 Apr 2026 05:33:12 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Judge temporarily blocks Alberta’s chief electoral officer from certifying provincial independence petition - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMzFuNVowNGNYRTRKM1hBTF9tY0hMc0RFMmRSZHZzeENsaV8tay1fM1hUWWFsNGlNVF84SUxKUjczTmY3emVYNDdBbGFVUGphNGdRWmhUVDlueW13V2ctQWFHX3E2OXB0UHhNVFB6NkhZcmRONHdFb1ltZjA2YkJKVjlERnFlekZuQUFLRFRrQzZ2MW5ZVE5xQTBjYkJOdEowZDk5RWlTRnhqMEZYYnR2cFJCb1MzdDhxTUVSQ2J3?oc=5",
-      "snippet": "Judge temporarily blocks Alberta’s chief electoral officer from certifying provincial independence petition &nbsp;&nbsp; The Globe and Mail First Nations' court challenge may block",
-      "pub": "Sat, 11 Apr 2026 01:15:16 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Delegates express mixed feelings towards floor-crossers at Liberal policy convention - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUjlKMGV5Nml1YjRqMWtGTW00a3ZUZ24zZHBENllzMHZ1Nm54bFZuYVF0R1BWdXpRQ2R0c2RSaUtfbkhOR0FqMURMWWlyLUQ0RzB3d0UtVnhZR0d4M2JNRE9laGxYbHhMV3VfcFp5S3FkcEl0bjJuc2RPUTBoQzN0T1E0Ti1VQjRidndLNzBwcmJibVIxSXJMUjk0b0VoM3RPM3JYbXRjVTd0S1F4WVlHR194T1V6d2p5aDg2eFJNMFZTdUk?oc=5",
-      "snippet": "Delegates express mixed feelings towards floor-crossers at Liberal policy convention &nbsp;&nbsp; CTV News Mark Carney is hard to define, but he is defining the Liberal party &nbsp",
-      "pub": "Fri, 10 Apr 2026 22:19:17 GMT",
+      "title": "First Nations win initial stay in Alberta separatism challenge - Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORThyMkg3R2RIWElEaHIxT1c3U3UzelQ3NmVxeFhNT2M5Z3JZNTBMMHo3WG5KUkdZNXl5b0pfZWN2T0xoMEdXeGZxQzdKVGlPNGp0eUYxMHhoWmR1U01ObEhNWm5rTHlFRWUzODRaQXVsNUMwUXNjcGtaVlVkcmc3Q1loY29fZVZseTREd3ZFZHpzZ045bnd6TQ?oc=5",
+      "snippet": "First Nations win initial stay in Alberta separatism challenge &nbsp;&nbsp; Edmonton Journal First Nations' court challenge may block Alberta separatism itself, not just petition d",
+      "pub": "Fri, 10 Apr 2026 23:44:02 GMT",
       "image": ""
     },
     {
@@ -100,10 +92,26 @@
     },
     {
       "source": "Google News Canada",
+      "title": "New Brunswick judge reduces man's sentence so he won't get deported from Canada - National Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2hrU1lDNGZIbW83MEUycHdMeHNJZ1dsaHFXRWtsWFhxRU0wWGJNb015REhZSTViQTZXWloxcHI0V2xIM1ZDaW8xXzhpTGs2UTVJSFdwdFR1Xzk1R1U4aTB0SmZBUDBKcjVGeXhlMG5aQ0xISlBCUzNqbmJwR05DaEwyX0RsRmZwWndMaFlQVFVHb0p5V0RXMG1UejdvZ01LNlhFRE9QVExELTRCZjRKSzJIUUQ?oc=5",
+      "snippet": "New Brunswick judge reduces man's sentence so he won't get deported from Canada &nbsp;&nbsp; National Post",
+      "pub": "Sat, 11 Apr 2026 10:31:48 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Terrebonne by-election puts Carney’s popularity to the test in Liberal-Bloc rematch - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVNCUW5LV1oyR1pWRVYwRkhGQ0pfdnItR25TTTBSQjVtN19Kd3QxZUpyTnlWZVd0UE0zOHhYSFRaUEZ5ZkRPYzR5NGc5LUV1WnE5RG16R1dUQWdoVTV5b2JnQk84VzhvNnh3cWhrTjVmb1g2X2djODViOS01NlVTUDJCb0pQVFhBcGZVdm0zekJ0b3NSdUlYN3N0dGVUNGtteEpn?oc=5",
       "snippet": "Terrebonne by-election puts Carney’s popularity to the test in Liberal-Bloc rematch &nbsp;&nbsp; The Globe and Mail How does a majority government work? What to know as Carney near",
       "pub": "Sat, 11 Apr 2026 10:30:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Delegates express mixed feelings towards floor-crossers at Liberal policy convention - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUjlKMGV5Nml1YjRqMWtGTW00a3ZUZ24zZHBENllzMHZ1Nm54bFZuYVF0R1BWdXpRQ2R0c2RSaUtfbkhOR0FqMURMWWlyLUQ0RzB3d0UtVnhZR0d4M2JNRE9laGxYbHhMV3VfcFp5S3FkcEl0bjJuc2RPUTBoQzN0T1E0Ti1VQjRidndLNzBwcmJibVIxSXJMUjk0b0VoM3RPM3JYbXRjVTd0S1F4WVlHR194T1V6d2p5aDg2eFJNMFZTdUk?oc=5",
+      "snippet": "Delegates express mixed feelings towards floor-crossers at Liberal policy convention &nbsp;&nbsp; CTV News For a party once thought endangered, the Liberals are enjoying a surprisi",
+      "pub": "Fri, 10 Apr 2026 22:19:17 GMT",
       "image": ""
     },
     {
@@ -116,18 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Appeal dismissed in impaired driving case involving THC, death of 9-year-old - Global News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYTl2cFRmenQwVGI4NklMdW44Rk5LTUlaN2E3Zm1IdjRaTjd1UmMxVkFEbk5LZU11TUdJVUxPUFNIa3RCMXJnekpzQ2RwXzZkUkE0cXRPVWlUSVMydmRUX0VPcUlmeXJfU3J6SUR2eGU1THN1c25oV3J4bjZXNW9UM2pfR1hKN2JObksxNm1tU0U4NE9GbTc3dXhpUlRRU01QM1c4bzZEazc1MlZ4dXFWQnNn?oc=5",
-      "snippet": "Appeal dismissed in impaired driving case involving THC, death of 9-year-old &nbsp;&nbsp; Global News Saskatchewan court upholds stay of proceedings against THC-impaired driver who",
-      "pub": "Fri, 10 Apr 2026 23:46:44 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Liberals wonder: what does their newest MP say about their party? - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGdnMTZFNEZxdzMza0g0UkcyWjh0Y0pwTDJscVpKQ2prSTBNZ2g0YkZhMERVUlFBY3BLaEI5QTZoNXF4SDZXQ1FGM2FzRWlwVWJNWTVLYkI1ckJIX09KNC1vQWNwQmUtUGtwMk5IcVMwZTdoeC1RdGRYOVJGOVdHTlFUSjg2NnIzZFNCbEgxd1hsaDdJQlhUa09YcDFfMjY2cklseWllX3U3blJkRnludU11VQ?oc=5",
-      "snippet": "Liberals wonder: what does their newest MP say about their party? &nbsp;&nbsp; The Globe and Mail Opinion: Three by-elections, a floor-crosser and the week we learned that anyone c",
-      "pub": "Sat, 11 Apr 2026 00:48:16 GMT",
+      "title": "First Nations leaders urge B.C. to uphold DRIPA: ‘We will not back down’ - Global News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kRnNUcDhvWmdtbTYtRkNOLVJWOTZMcTNhbVh5QjhBRFJ2Rkl5dnc0aGEycDFQeWJ0cHcyalJkbGNNWExuR1EwMmFmMFhpZ3hTcnVnVC1MVXVIZ3JRU1k3WFU5SzNQU0RTMHB5ckZlYWNUbk5ma2MyNnNGY2pLcmM?oc=5",
+      "snippet": "First Nations leaders urge B.C. to uphold DRIPA: ‘We will not back down’ &nbsp;&nbsp; Global News B.C.’s reconciliation agenda needs an immediate rewrite &nbsp;&nbsp; The Globe and",
+      "pub": "Fri, 10 Apr 2026 20:50:16 GMT",
       "image": ""
     }
   ],
