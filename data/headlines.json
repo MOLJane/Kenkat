@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-04-10T23:59:51.901184+00:00",
+  "generated_at": "2026-04-11T02:39:56.206496+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Artemis II Splashes Down Near San Diego",
+      "link": "https://vocm.com/2026/04/10/artemis-ii/",
+      "snippet": "The historic ten day journey of the Artemis II has ended successfully as the capsule splashed down in the Pacific Ocean off San Diego Friday evening. ...",
+      "pub": "Sat, 11 Apr 2026 00:23:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/artemis-ii.jpg"
+    },
     {
       "source": "VOCM",
       "title": "UPDATE: 52-year-old Charged with First Degree Murder Following Incident in Grand Falls-Windsor This Morning",
@@ -59,75 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/07/mun-memorial-university-clock-tower-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "RNC Investigating Theft of Firearm from Rabbittown Area",
-      "link": "https://vocm.com/2026/04/10/296377/",
-      "snippet": "The Royal Newfoundland Constabulary is seeking the public's help after a firearm was stolen from a home in the Rabbittown area of St. John's. The RNC ...",
-      "pub": "Fri, 10 Apr 2026 14:36:43 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-3.png"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Former Junior hockey player dead in triple shooting at college campus bar in Sarnia - CityNews Kitchener",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDFFeGZ4ejhwZGV2dmtmRENfZFQxY0gwSGdlcEZLbUlXV18wWS1hb2s0Z1hzOUp5Xy1STDU0aHhoa2NwZkxFeXlIZVZNQm1menNxNW5iZVQ1V01wRVY5OWZFUXQ3Wm5naUp5NXpZRmd4N1pWSng4REdRV0w3TjBxNzYyN1ZvcEphS0FTVWQ2d21QVzZWd2RHV3huVVFTZUVNNkpyQXpNejV2T2JsNDJXc2xOMFFGM2M?oc=5",
-      "snippet": "Former Junior hockey player dead in triple shooting at college campus bar in Sarnia &nbsp;&nbsp; CityNews Kitchener Former junior hockey player, 20, killed in Lambton College shoot",
-      "pub": "Fri, 10 Apr 2026 18:45:30 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Kamala Harris confirms she’s ‘thinking’ about 2028 presidential bid - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS3lFd1ZPaEFVMDl6ejJmOFFvS2ZMcTVxRlVSbHBzWDBFVUMwV0FZa3J6NGZxckxEWm9vNzNPVjF0ZVFHdS0xVlRmVXowcEo0Mzc5c3dyQUhfbUVwRkJYNXRNdDJ2Tm5VbllOdmlEUWpHRFo4OWhiUng0ck0zdHhXdXpISHpHRFRGWlI1dlktZkRQOGVnb0JneVhOQVRPQkdPb0UtLWdFYzVaRlRaa09ONTM3Mld5MzhQdktlcS1vYTk?oc=5",
-      "snippet": "Kamala Harris confirms she’s ‘thinking’ about 2028 presidential bid &nbsp;&nbsp; The Globe and Mail Democrat Kamala Harris teases 2028 presidential bid, following Trump loss &nbsp;",
-      "pub": "Fri, 10 Apr 2026 18:32:47 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "New floor-crosser Gladu ‘will vote with the government’ on social issues, PM Carney says - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUlpIRHFyMmVJOEx3VnlNeW10WnhfcVI4MFl5WlEyM0VLSHVjTlVCQ1p0eWN6OEdaZFRGR2g1YXBxR0hNak44RWZXeWpIb19uOFM1cGR4bDRGMWM1c05STzRVZVc3dE9sMjUtS2Znd3ZPeUs5eERXdGhjNzV0dDd5V1hpNVdIY29QdVoxZXQ2Q0doMlRrejNmaW1vVVhtMkNsQ1JfejVZc2pZdUtJclZXR0xNSXdMNEg3SWVmUHdoTkZVdFg3ZjlHZGRR?oc=5",
-      "snippet": "New floor-crosser Gladu ‘will vote with the government’ on social issues, PM Carney says &nbsp;&nbsp; CTV News Gladu says crossing floor to Liberals was ‘best thing’ for her riding",
-      "pub": "Thu, 09 Apr 2026 22:42:31 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Manitoba teacher commissioner fired for working from Florida: Premier Kinew - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0Mwb3ZjZ0tGQko4ckdJYWEtOEpIMFE3X191YnlENjNURjM5OW9IdkxPbVA5Q0xSOU9Id2lLYm9XMFQwNHU1ZmF4c3FoWjFmSW1Lc0J5SzgwVmhEZG5zUF95ZHJiSl81eGJETy1lZGtITktLVFpXQXhZQ053aUt6N0w3b3huU0xtUVg5dVBEUU4xWjJzZEFncUNyaXBSYUdITEZlcHpyYkFxZjJlbFdfYS1PbVNPZw?oc=5",
-      "snippet": "Manitoba teacher commissioner fired for working from Florida: Premier Kinew &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Fri, 10 Apr 2026 21:18:14 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Artemis II capsule will be a 'fireball' on re-entry. David Saint-Jacques knows what that’s like - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGExTlN2VzRxVkYyaUJSUjBsWkRRNVlyTHptUGtRcmpFNzBKUlRpZ2RxcHVFSGpVNFRvZGx1MU5tOUNLWllGX1NYZE10amc0VDZuZ29ETVlfeE9ldm5ydG55OG81SGpMR1B6T1RwLXB0ajI3U2tsNnJUQU1YY3lrZGZXN083Z3l6M0UxT0tlR29WZw?oc=5",
-      "snippet": "Artemis II capsule will be a 'fireball' on re-entry. David Saint-Jacques knows what that’s like &nbsp;&nbsp; CBC Artemis II astronauts make return to Earth after NASA moon mission.",
-      "pub": "Fri, 10 Apr 2026 17:27:49 GMT",
+      "title": "‘Mission accomplished’: Artemis II crew emerge from capsule after returning to Earth. Live updates here. - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTThmS2lvNVVJcUFfVGMtTElkclRteDN5NTdYZ09iTF9YeHpRQnFPN2RvSWNTdzZHQjczcTg1aUJqTHlYNVlfeGlxajB4dEdWWHU4UldyODJybXA2ZEhVWHdlN1E3S3k4Zkp1VXNESUNyUWF5RUI3V0RoNVAySUktdlJFekhlWUQ4c0lxaHg2T3diaDROOEg3RXNrOERnWExXSzdvTHJidEoxQ19uWUpzTDVUMXJfaVJtQjNGU2RBSmJtT19nc3c?oc=5",
+      "snippet": "‘Mission accomplished’: Artemis II crew emerge from capsule after returning to Earth. Live updates here. &nbsp;&nbsp; CTV News Artemis II Lunar Flyby &nbsp;&nbsp; NASA (.gov) Artem",
+      "pub": "Sat, 11 Apr 2026 01:38:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Poilievre calls foul, but celebrating Liberals don't seem to care how they reach a majority - CBC",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0hnSUl0TzFKcHRJcm1DQUkzcWlfS0RYaXpjWUdiWFFsdFp3dnhOQWdpVXNLbDdScUJiZVFwWk0xMVREOWJldWd5M0ZrakpuVFNwdUdUZnBxRzQ0NE5uVGYtTE9uZEdHeWVkRXIwNjNqcEQxRXhyZVRWNS03UWltNnRwM3R3dDZJV05GcEpR?oc=5",
-      "snippet": "Poilievre calls foul, but celebrating Liberals don't seem to care how they reach a majority &nbsp;&nbsp; CBC Video message from Justin Trudeau shared at Liberal convention &nbsp;&n",
+      "snippet": "Poilievre calls foul, but celebrating Liberals don't seem to care how they reach a majority &nbsp;&nbsp; CBC Mark Carney is hard to define, but he is defining the Liberal party &nb",
       "pub": "Fri, 10 Apr 2026 21:35:45 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "University of Ottawa in Lockdown Amid ‘Violent Incident’ - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWZBa2ZkNnpySWxnRWYtYjd4RklEakhhNzhLQ0JEWkFBcVpKeW1RcFNSTTBCS0dGRDUzZHlOM0lJZ2RSU0pPaDF3Z2x4MmFKTk1Eamx6X0dpQmtUSTVuWElUZGhaeE5hRXlacTZzOUdza1dBYk9Cc1JYQjFWRkRuS3dwZExSeHNuSHV0Um5tZ0VzZERVanBjdQ?oc=5",
-      "snippet": "University of Ottawa in Lockdown Amid ‘Violent Incident’ &nbsp;&nbsp; The New York Times One person arrested following lockdown at University of Ottawa &nbsp;&nbsp; CTV News Lockdo",
-      "pub": "Fri, 10 Apr 2026 22:41:17 GMT",
+      "title": "Top government official says she was promoting 'diversity and inclusion' when she broke hiring rules - National Post",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdS04b3hqVVd3eUk2Um9kUXhCOVN1Q1FrcGZSWl9LclJhVk02c282eTB0UGJSR3o2cDQ5R0h0NnlFTG5zMVN0eExkSmZJTTczekM4d2FaODN0aHl6ZjBab0xlZElNRUM3cGNFV195V1NQQi1iTU1LYzQwMnM4UzA5MUYzRHNiSnQ2VTlJNFZJbzJIdjNHOVg2T0tCS0o0ZmZybzZmeGtxclcyMWJKRGh5aXJfQ1VKWll6Q3FEczdJSl9NbWxBTWRyXzM5ZmQyNGZZ?oc=5",
+      "snippet": "Top government official says she was promoting 'diversity and inclusion' when she broke hiring rules &nbsp;&nbsp; National Post Deputy minister found breaching ethics rules says sh",
+      "pub": "Fri, 10 Apr 2026 23:18:12 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Supreme Court rules Quebec man declared dead is likely alive and living in Iran - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDdrakFDeXdFQ1oxa0hROU92UTE0SF9fXzFFTnJRT1JqdlhsNFJRcWp0bDRhRjVwVEtQcVc1TVlkXzlrSXRMcl9OakltOXFuUTJHWVhzd3J2Q1huME5LejFuclQxZzJuYmNkX1k2bldqMzJXb0lFbzd6RlBSbFhZVmtyRHJzdjZvcFEyNXJqaGFoSTJHY3cyRjFMYkRqbE43R2I3YUxJdnhzNndoRlJJWE1qdVRZYkhvQjBaTWNGbW9KS3M?oc=5",
-      "snippet": "Supreme Court rules Quebec man declared dead is likely alive and living in Iran &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Fri, 10 Apr 2026 15:45:08 GMT",
+      "title": "Judge orders temporary pause on Alberta separation referendum petition process - Global News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVV9LbG5OVG5SZE83WkJ5RVJtdlVTNkRIdmFCaVByQmc4bkdVa0h2YUt4QjhYRUFjN2xhUFFmeEEwUjNZc0M2N0RTREQtT0lfSDI1QXRaak5EZG16ZmM0OWMtUC1aRzYzSWV4cG5iWXBoSWpEa0tRcEdxUEtXbHdsV0laalMtc1BMeU9iTkczXzlWZ2dKaVVGellQWVNmRGRvd0w4RUhDOUJiVHk4RzRUSkp4STVwQQ?oc=5",
+      "snippet": "Judge orders temporary pause on Alberta separation referendum petition process &nbsp;&nbsp; Global News Judge orders pause on signature validation process for Alberta independence ",
+      "pub": "Sat, 11 Apr 2026 00:29:19 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Tensions mount as First Nations leaders hold emergency meeting over B.C.’s DRIPA plans - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNTZkQUhiMGNlYnNlTV9ITXUzWFQ4QUNpR3BSdEZfMk1Sc3dKeXZjREVTWGM0QjNEUnhEWXhGaDNNU2VtNEpuUVc2TE16MkFVeTBuY1ItdVdhYjBnT01jZGxDaVhfUUoyVjBzZ3Z5bEJLQXFzcE9ab0VwLUtERzhUd1hweVRqcUhhYkVEN2pxZGJYVnc1QXJGcXB5dVdtNWh3VjVUVWF0NDloMG0yZmdoVW84TjNKS240LW93QWkxRFc4LWM?oc=5",
+      "snippet": "Tensions mount as First Nations leaders hold emergency meeting over B.C.’s DRIPA plans &nbsp;&nbsp; CTV News First Nations leaders urge B.C. to uphold DRIPA: ‘We will not back down",
+      "pub": "Fri, 10 Apr 2026 02:17:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Charges in GFL shootings lay bare new details of two-year Toronto saga - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQWF1TXJoWlk3SUdiNlJJUUZVZEQ2d0ZRR3NIbUxhTEQzT2VkMkpuNVVYbUhSdkxHcDhlWmdXVWtaVXdyMGtPQWtQUXAwSGg2Q0NtMzliMm9XalNxWlg4ampySHRJQVk1QkdzazdJUWVYOVVFTG1kcFFqc0paby1mT0hHR0ExSWVSNGh5UVJCZHllN1hFZ2JHQkVXOHMyWDZBUHlTMXdKR2ZpbHhoYnBfaTR4dmJzWGxpUmx5OWdhNktqRk5xWi1iZnVjeGhvYW5sU3pvY0o3YUVJUnFsSTV6TEZvanRaWXo3QWdvTg?oc=5",
+      "snippet": "Charges in GFL shootings lay bare new details of two-year Toronto saga &nbsp;&nbsp; Toronto Star Police lay charges in shootings targeting waste giant GFL &nbsp;&nbsp; The Globe an",
+      "pub": "Fri, 10 Apr 2026 16:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Saskatchewan court upholds stay of proceedings against THC-impaired driver who killed child - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdVZNcVY2Y0d5Ty1oYThZMW9YUmxwemZTWjh2R0VwUGx6ODg5MWlzX2VBdHhkZ0tUdm8wNVpmR2o5ZTJZVmJ3cGd5ZHlEOEo3SVp3S3IxektCSGpfWHNrWWxnejZzRmgxc2k0cDFsT1VDQy1fWENOSXVUdkMwM2tSZ01CYU9uZU9SMmd5ejAyeVBOZG5naUt5RVVOMk5MWDIwYXktQkRlalJSdTJCbms3MTVQX296Z3k0cHJRMy1FWDhoSFZmSDQyRGQ2UWFGZw?oc=5",
+      "snippet": "Saskatchewan court upholds stay of proceedings against THC-impaired driver who killed child &nbsp;&nbsp; CTV News ‘Lackadaisical’ approach: Appeal dismissed in Taylor Kennedy impai",
+      "pub": "Fri, 10 Apr 2026 16:44:30 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "8 people taken to hospital after ‘chemical incident’ at Victoria pool - BC - Global News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHlhOXp6Z3pjVlRyZWVXMHNOcWNXd2hlRW9ka0dDQVJzOFBQdmh0blBIT1ZlSkhxMlpFMkZseWxtN1JzTW1QazVSM01VMUtSM21sR0JnWVo3bm1wNzFaOVJESzNkU2Z6OERsM0t5ZGdHbmdlRW1xNzdCTnlrV3h5SS13LVZ5UnZ5TmhNTUtn?oc=5",
+      "snippet": "8 people taken to hospital after ‘chemical incident’ at Victoria pool - BC &nbsp;&nbsp; Global News Two chemicals mixed created chlorine gas at Crystal Pool, sends 8 to hospital: V",
+      "pub": "Fri, 10 Apr 2026 20:00:43 GMT",
       "image": ""
     }
   ],
