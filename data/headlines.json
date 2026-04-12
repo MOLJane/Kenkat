@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-04-12T11:27:44.366281+00:00",
+  "generated_at": "2026-04-12T11:56:09.325394+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Military Presence in Makinsons Area for Training Exercise",
+      "link": "https://vocm.com/2026/04/12/296483/",
+      "snippet": "People around the community of Makinsons may notice members of the military in the area today. About 40 army reservists will be training in the area t...",
+      "pub": "Sun, 12 Apr 2026 11:47:57 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/08/canadian-resesrves.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Liberal Leader Calls for Cap on Political Donations",
@@ -59,12 +67,28 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/newhousingproject.png"
     },
     {
-      "source": "VOCM",
-      "title": "Record Number of NL Recruits Joining RNC, Says Justice Minister",
-      "link": "https://vocm.com/2026/04/11/296450/",
-      "snippet": "The Justice Minister says the Atlantic Police Academy has never seen so many recruits from Newfoundland and Labrador ready to join the RNC. Some 18 ne...",
-      "pub": "Sat, 11 Apr 2026 16:18:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/new-rnc-members-2026.jpg"
+      "source": "Google News Canada",
+      "title": "U.S. Vice President JD Vance says talks with Iran have ended after 21 hours without reaching agreement - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcWVYSWs4cWl6T3hEMVZ6NUhkNFV1NXl4TWZScEhTNThlUm9BWkRfZmxJQnEtYXExQlNEV0tMZmpnQkYwOGtyT3RqazhLa0xXZENQN3BlX1hFMXp2aXNIMGxHRzd3YndFTEtmMUtUb0JJUUVWT2JwYlRrSk1SanEzT0MtZWVNWU1YMlh1UThxQjBuQ3B3T3ROa3RWeGFoRG9hSkY5Y0x5VkZQUjhDNUxrQnFVUVF5cm9GR29XSTVZaHc0OC1vd0tVRHZDODEtaDBoaWFheGdNMnI1cFNUdlVjb3hRbXRXeUhPaEJv?oc=5",
+      "snippet": "U.S. Vice President JD Vance says talks with Iran have ended after 21 hours without reaching agreement &nbsp;&nbsp; CTV News U.S. and Iran blame each other after failing to reach d",
+      "pub": "Sun, 12 Apr 2026 01:59:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "53% of Canadians want Carney Liberals to win majority in byelections: poll - Global News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakVOY0pldnkxUmdPUU8xVDNfWVpveC16ZXFwTm9IMGgxZDNiVGFuTDFRWHJxbjJ1cVcxX0FCSHgwNlZMMzlFLVBITmpWWjV0QzJlRnNWWVBiYXdiWDZIWjdHTDRCUUUtcjYwMldrMlJPalE2SDBJSzh2UkhCREpPUy1nT1h3UGNUNG1MNQ?oc=5",
+      "snippet": "53% of Canadians want Carney Liberals to win majority in byelections: poll &nbsp;&nbsp; Global News A year after the election, PM Carney is on the precipice of a majority. How did ",
+      "pub": "Sun, 12 Apr 2026 08:00:32 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "From insider to rival: how Magyar became Orbán's most serious challenger in 16 years - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGlOZy13S0tjUnEtaWJscl9CcHI5STJBMGY1V3IwNWhnS0dPNGZQZUJ3d1B5SXRLbkNmMHRLVUE2SHJGWlJUSV9EQTgtWGlhcVU3TEZvSWRDcC1fZ0ZORHZyaWt0dm16eDg1d1BTWlBXU1lOcVVWMWExQm5DTWxGdHpTY25qeGRsVF9DMGlweExSRnpITUs1S01QOF82VEFxNDh1MDB0LUhNeVlvVVRZYS1XQlgxSlcwRVJUQkdwcU1iVFBneGZWZmhWbFQxZms?oc=5",
+      "snippet": "From insider to rival: how Magyar became Orbán's most serious challenger in 16 years &nbsp;&nbsp; Euronews.com Hungarians vote in landmark election that could unseat Orbán &nbsp;&n",
+      "pub": "Sat, 11 Apr 2026 17:25:12 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -72,30 +96,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdmYxNUFDTkM0c2lYc1ZfQU1MTTg1WVh4RzVMVlNKUXE2TGpKZmh3UUZXX3htVFNnYkNOY2pkbktGMFVSTzUyOE5MbkVmZHpPelpuQjI0UTVLVkRqby1ESTZ6bzdsSTJuVGF3N05qSTBHWm5Pa09YcVo3cldieDdsY01iazBhTmE5SEdlbHlhdmxteHFoeHZBZ1VYNV8wazZPbGtDYkQ3S2QwOEI5M2VJNElsVmx4Q3VQRzM5bUFkdkk?oc=5",
       "snippet": "Carney tells Liberals that 'unity does not mean uniformity' in closing convention speech &nbsp;&nbsp; National Post Liberals courting as many as eight more potential floor-crossers",
       "pub": "Sun, 12 Apr 2026 10:40:16 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Hungarian election rivals Orbán and Magyar make final push for votes on eve of poll - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHBlbnA3OEVLSVlrTGp4MUVfMVVkNVJ5T3RNMzJlOGlNQmk5OU5KOGhjMURqMFVTdzNNSnJOMm9PQ21TSVlGVEZZeUFjWFlfTUotZ0NnVXJLY2NUWGJoeHR1ZTQ2N0RrQ21qOGE5aFZ3TnJmY1hscVRBZ091RXJ2VnBPZ1I5Mm82TXpnSnJjZWJDU3lWemRtbU5iVlNxVWw5SElpd0tB?oc=5",
-      "snippet": "Hungarian election rivals Orbán and Magyar make final push for votes on eve of poll &nbsp;&nbsp; AP News Hungarians vote in landmark election that could unseat Orbán &nbsp;&nbsp; C",
-      "pub": "Sat, 11 Apr 2026 19:19:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "U.S. Vice President JD Vance says talks with Iran have ended after 21 hours without reaching agreement - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcWVYSWs4cWl6T3hEMVZ6NUhkNFV1NXl4TWZScEhTNThlUm9BWkRfZmxJQnEtYXExQlNEV0tMZmpnQkYwOGtyT3RqazhLa0xXZENQN3BlX1hFMXp2aXNIMGxHRzd3YndFTEtmMUtUb0JJUUVWT2JwYlRrSk1SanEzT0MtZWVNWU1YMlh1UThxQjBuQ3B3T3ROa3RWeGFoRG9hSkY5Y0x5VkZQUjhDNUxrQnFVUVF5cm9GR29XSTVZaHc0OC1vd0tVRHZDODEtaDBoaWFheGdNMnI1cFNUdlVjb3hRbXRXeUhPaEJv?oc=5",
-      "snippet": "U.S. Vice President JD Vance says talks with Iran have ended after 21 hours without reaching agreement &nbsp;&nbsp; CTV News Iran war live: Ghalibaf blames US for failure of Pakist",
-      "pub": "Sun, 12 Apr 2026 01:59:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Terrebonne by-election puts Carney’s popularity to the test in Liberal-Bloc rematch - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVNCUW5LV1oyR1pWRVYwRkhGQ0pfdnItR25TTTBSQjVtN19Kd3QxZUpyTnlWZVd0UE0zOHhYSFRaUEZ5ZkRPYzR5NGc5LUV1WnE5RG16R1dUQWdoVTV5b2JnQk84VzhvNnh3cWhrTjVmb1g2X2djODViOS01NlVTUDJCb0pQVFhBcGZVdm0zekJ0b3NSdUlYN3N0dGVUNGtteEpn?oc=5",
-      "snippet": "Terrebonne by-election puts Carney’s popularity to the test in Liberal-Bloc rematch &nbsp;&nbsp; The Globe and Mail 53% of Canadians want Carney Liberals to win majority in byelect",
-      "pub": "Sat, 11 Apr 2026 10:30:00 GMT",
       "image": ""
     },
     {
@@ -118,16 +118,16 @@
       "source": "Google News Canada",
       "title": "Minister approves Canadian Rangers to help Nunavut hamlet amid power problems - Castanet",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRFk2bHp6Y2F0TnZBM1VRQ3FvTXhmb01abUJXempidmtvNG9VTHRSSjcyRXFzaFZLNXBJdGJDd2ZqYnFnX0VsRkMwWUt0REJrN0xKZWl0R1NkYXBLTHBCMVY4Skh0UVVBY3poSkZnREp2VFJGVlRycHU1Q3ZwajE2WWdqOW5oWG1CZDNuYTQtdHRaejRIaVNiNTBCa3ZQcjZ5VndDU3NFd1pQQU8yakpJZVRyZG11cGZPdEp6XzhR?oc=5",
-      "snippet": "Minister approves Canadian Rangers to help Nunavut hamlet amid power problems &nbsp;&nbsp; Castanet Power restored to Gjoa Haven; federal assistance approved for hamlet &nbsp;&nbsp",
+      "snippet": "Minister approves Canadian Rangers to help Nunavut hamlet amid power problems &nbsp;&nbsp; Castanet View Full Coverage on Google News",
       "pub": "Sun, 12 Apr 2026 02:34:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Judge temporarily blocks Alberta’s chief electoral officer from certifying provincial independence petition - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMzFuNVowNGNYRTRKM1hBTF9tY0hMc0RFMmRSZHZzeENsaV8tay1fM1hUWWFsNGlNVF84SUxKUjczTmY3emVYNDdBbGFVUGphNGdRWmhUVDlueW13V2ctQWFHX3E2OXB0UHhNVFB6NkhZcmRONHdFb1ltZjA2YkJKVjlERnFlekZuQUFLRFRrQzZ2MW5ZVE5xQTBjYkJOdEowZDk5RWlTRnhqMEZYYnR2cFJCb1MzdDhxTUVSQ2J3?oc=5",
-      "snippet": "Judge temporarily blocks Alberta’s chief electoral officer from certifying provincial independence petition &nbsp;&nbsp; The Globe and Mail First Nations' court challenge may block",
-      "pub": "Sat, 11 Apr 2026 01:15:16 GMT",
+      "title": "Immigration official says asylum seekers from Gaza in danger of being denied under new law - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmdDRE1IeVlydjVQcEpXUHBLektic2ZMbmR3YmUweFktZWg1TlladlVpbGU1a3VzM3ZwSDUyMDZDd1pxSWxTcjhINlpuTXdzRTNEeDNBY0tkQ3Nxby1Md2FtS3JQbnN2dU9pNVVjZXNrbWQtQVFjWkszZ1VkMWc5VVFvS1dzeV9tMl9CN0pKRFJiY2VTRVltZkFuWWxUTlUzbDI2RmpwVE1CMUtIa2R6dExvMnJPeE5RN0JsbFBPTWpLa2JVZEhqLW12SQ?oc=5",
+      "snippet": "Immigration official says asylum seekers from Gaza in danger of being denied under new law &nbsp;&nbsp; CTV News View Full Coverage on Google News",
+      "pub": "Fri, 10 Apr 2026 22:38:16 GMT",
       "image": ""
     }
   ],
