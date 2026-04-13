@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-04-13T16:55:24.282480+00:00",
+  "generated_at": "2026-04-13T17:54:39.239121+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Mark Nichols Joins Matt Dunstone’s Manitoba Rink",
+      "link": "https://vocm.com/2026/04/13/mark-nichols-joins-matt-dunstones-manitoba-rink/",
+      "snippet": "A long-time member of the defunct Team Gushue curling rink is heading to Manitoba to join the Matt Dunstone rink. Brad Gushue announced his official r...",
+      "pub": "Mon, 13 Apr 2026 17:35:00 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/curler-mark-nichols-team-gushue-brier-curling.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Lawyer Optimistic ‘Meaningful Change’ Coming to Justice and Court System",
+      "link": "https://vocm.com/2026/04/13/lawyer-optimistic-meaningful-change-coming-to-justice-and-court-system/",
+      "snippet": "A veteran lawyer and advocate for justice is optimistic that meaningful change will come as the system is beginning to buckle in some respects with th...",
+      "pub": "Mon, 13 Apr 2026 17:03:37 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/09/Lawyer-Lynn-Moore-in-Studio-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Polar Bears Spotted off Black Tickle",
+      "link": "https://vocm.com/2026/04/13/polar-bears-spotted-off-black-tickle/",
+      "snippet": "Wildlife officials are aware of a pair of polar bears that have been spotted in and around Black Tickle, Labrador over the last couple of days. Local ...",
+      "pub": "Mon, 13 Apr 2026 16:57:50 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/polar-bear-black-tickle.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Royal Newfoundland Regiment Memorial High School Tournament Underway",
@@ -43,28 +67,12 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/10/2019_06_16_3689-2-2x1-firefighters-truck-lights-sirens-sjrfd-scaled.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Town of Lewisporte to Build Fire Break",
-      "link": "https://vocm.com/2026/04/13/town-of-lewisporte-to-build-fire-break/",
-      "snippet": "The town of Lewisporte will build a fire break around the community thanks to funding provided through the provincial government's Wildfire Prevention...",
-      "pub": "Mon, 13 Apr 2026 12:26:49 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/fire-break-perrys-cove.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Could the Cape Ray Shipwreck Mystery Finally be Solved?",
-      "link": "https://vocm.com/2026/04/13/296514/",
-      "snippet": "A strong candidate has emerged as the possible answer to the identity of a mystery shipwreck exposed at Cape Ray in 2024. The massive beams and hull a...",
-      "pub": "Mon, 13 Apr 2026 12:09:04 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/shipwreck-uncovered-by-erosion-on-the-sandy-shore-near-cape-ray-gordon-blackmore-and-vanessa-hodder-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Restaurants Canada Urging Province to Opt-In to Temporary Foreign Worker Cap Increase",
-      "link": "https://vocm.com/2026/04/13/restaurants-canada-urging-province-to-opt-in-to-temporary-foreign-worker-cap-increase/",
-      "snippet": "Restaurants Canada is urging provinces to opt-in to the federal government's Temporary Foreign Worker cap increase for rural areas. Jannick Cormier sa...",
-      "pub": "Mon, 13 Apr 2026 11:42:59 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/Restaurant-Stock-Photo.jpg"
+      "source": "Google News Canada",
+      "title": "Trump deletes AI image of himself as Jesus-like figure after widespread outrage - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGRBVlJ4MnZ6M1ByR2dWWk16NjEyYzFidTZ1cGNVeEl5OUFuM0RQdDdocGgwZzFqRWVXSkx0MEVZckJCSlEyRjAxdkdwUERmbDYtb0VYOC16UUo3MFI4RExtMFE4a01RWlQzLWZ2NUliQ3V6R2hhajZIQTdUNDdiUE5QQjV6NG1HLXpkdUJ5UEtKT0ZuSS12WllyX0M?oc=5",
+      "snippet": "Trump deletes AI image of himself as Jesus-like figure after widespread outrage &nbsp;&nbsp; The Globe and Mail Trump Caves: Removes Christ-Like Image That Angered Conservative Chr",
+      "pub": "Mon, 13 Apr 2026 16:40:23 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -84,34 +92,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Moscow Warns of ‘Perfect Storm’ for EU After Orbán’s Defeat in Hungary - The Moscow Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUpKcmQ1cENzeEV2ekVneXhUWGtxSGpFNVlZZnRKaUJuVWROT0lXcHVfRFFoRWxfbkhDMDZiYnl4YkF1V0M4cEE1QkJ5RTFNc1IwUUg0dmtrcHN1UHE2Q25iTjFRQi00ZlZZR0w1amlUUGc1ckZsRFFhcW04OFN5M1VZZEhHOWlBRFJ5UU5ydl9PN3k0bzBITFFDbU5tYU9ZNUF5M1lVWVdreUdiX3JBZVBLUDNJUEE?oc=5",
-      "snippet": "Moscow Warns of ‘Perfect Storm’ for EU After Orbán’s Defeat in Hungary &nbsp;&nbsp; The Moscow Times EU president calls Hungary election a 'victory for fundamental freedoms' as wor",
-      "pub": "Mon, 13 Apr 2026 12:27:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump lambasts Pope Leo XIV, extending feud over Iran war with first American pontiff - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVMtY1BGVFlXbXIxZjVhaWlNZm44YUVYY3d3bkptaHNBYkVMZGp6VzJCd0puYTRjZS00R3lUbVpkM1FnVURtMThmbi1rcHVWc1JUb0NVZUc2dWFBWFZNZVJZTXVrbHZoYlNyUjU0S1JQZ1lFOUxUWWxKMFgtcGZWXzlWMnUtc2o2ODJZVFFIUzhGS04wU1lLMXFkT0xucXVtWnJIR1pYWnpLVnJPR1B0enBZQk90aDBIMWlOdE1xMFQ1Zw?oc=5",
-      "snippet": "Trump lambasts Pope Leo XIV, extending feud over Iran war with first American pontiff &nbsp;&nbsp; CityNews Toronto Trump deletes controversial religious-themed Truth Social post &",
-      "pub": "Mon, 13 Apr 2026 01:22:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Quebec’s new premier is a Gen-Xer. So are all her rivals - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMktESU00ejdEN3p1eHliZUY0X0MweHlxMDBBa3BJQk9ZU0tEUWM3OUtkRjZvWFBDblZPVkR3azRTZmpGVDZ1MlJZczBzMXlSWUVjbmVteHN6aTdjMW9ibzc4OVRGVzZaXzFneWMxdmpUQVotQ2hzbWlfNmJKUWpjYnIxV01CU0VVUHFkdmNqUUxkRFZDVEQtTXJTOEVwZVlvaTNvQi1FVGJsTDN6VFBvYUE1UVZBSmxvNVByOTE2MW9xMnRNMnp5VTdVMW1saWVa?oc=5",
-      "snippet": "Quebec’s new premier is a Gen-Xer. So are all her rivals &nbsp;&nbsp; Montreal Gazette View Full Coverage on Google News",
+      "snippet": "Quebec’s new premier is a Gen-Xer. So are all her rivals &nbsp;&nbsp; Montreal Gazette Fréchette’s CAQ win prompts PQ pitch to nationalist voters &nbsp;&nbsp; CityNews Montreal Que",
       "pub": "Mon, 13 Apr 2026 10:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Carney tells Liberals that 'unity does not mean uniformity' in closing convention speech - National Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdmYxNUFDTkM0c2lYc1ZfQU1MTTg1WVh4RzVMVlNKUXE2TGpKZmh3UUZXX3htVFNnYkNOY2pkbktGMFVSTzUyOE5MbkVmZHpPelpuQjI0UTVLVkRqby1ESTZ6bzdsSTJuVGF3N05qSTBHWm5Pa09YcVo3cldieDdsY01iazBhTmE5SEdlbHlhdmxteHFoeHZBZ1VYNV8wazZPbGtDYkQ3S2QwOEI5M2VJNElsVmx4Q3VQRzM5bUFkdkk?oc=5",
-      "snippet": "Carney tells Liberals that 'unity does not mean uniformity' in closing convention speech &nbsp;&nbsp; National Post Opinion: Liberals celebrate imminent majority with a touch of ol",
-      "pub": "Sun, 12 Apr 2026 10:40:16 GMT",
+      "title": "Moscow Warns of ‘Perfect Storm’ for EU After Orbán’s Defeat in Hungary - The Moscow Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUpKcmQ1cENzeEV2ekVneXhUWGtxSGpFNVlZZnRKaUJuVWROT0lXcHVfRFFoRWxfbkhDMDZiYnl4YkF1V0M4cEE1QkJ5RTFNc1IwUUg0dmtrcHN1UHE2Q25iTjFRQi00ZlZZR0w1amlUUGc1ckZsRFFhcW04OFN5M1VZZEhHOWlBRFJ5UU5ydl9PN3k0bzBITFFDbU5tYU9ZNUF5M1lVWVdreUdiX3JBZVBLUDNJUEE?oc=5",
+      "snippet": "Moscow Warns of ‘Perfect Storm’ for EU After Orbán’s Defeat in Hungary &nbsp;&nbsp; The Moscow Times Orbán’s Defeat Shows What Trump’s Opponents Keep Doing Wrong &nbsp;&nbsp; Polit",
+      "pub": "Mon, 13 Apr 2026 12:27:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "'Serious privacy concerns': Library leaders raise alarm over proposed government restrictions - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYkFWci1pSkdhMXgwaHpZSTEyaWlJSWZFT29KVXB3TVBqX1E3MlBxb2E1TjZvTkxybnoxdFpSazVENGV3akhGYTVwVTJWRnBuSTB3aG1YOE5mVXdUWTI3SkFIVmFIS0llakpJSk9CaUNRdHRDZVlBZDdZSE1KN2tJUGhwV1lGZTIwcGVxWVktczVYT2V5cXZZTXdWWHh2WmtUZkxCbTBzMDNfbWQwWTZwZDctaFpfZlg0M1M3OTJFSzhiYnFv?oc=5",
+      "snippet": "'Serious privacy concerns': Library leaders raise alarm over proposed government restrictions &nbsp;&nbsp; Calgary Herald Alberta's access restrictions threaten privacy and democra",
+      "pub": "Sun, 12 Apr 2026 07:31:41 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Montreal streetcar tracks still pop up from pavement decades after last tram retired - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTUF5QlI4ekFjZGJhVmR4WkFLdk84SWYxekY3NEp6TEZHcUxxNk82dkhOOTJ6Q1FVdF8zU2trRnpGOHRHQTZvTkdNM080M00yNnRFdHRYOVhoR3NNTktaT1NraVJpMTVrdGFKS2VxWlJCZmhDR2ZsdXJxNk9zWWFoNVVTRmNZTi1ZTmlVSlM5LXZMaXNMcS1mSmRzNmFNR0czTjdsdTVFWVNRa1FQOE9mdjZndjdTT1ZsSm5FMnF5MURvaDQ?oc=5",
-      "snippet": "Montreal streetcar tracks still pop up from pavement decades after last tram retired &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Mon, 13 Apr 2026 10:24:48 GMT",
+      "title": "‘You will be arrested’: Sarnia police seize gun believed to be used in shooting death of Dane Nisbet - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObnh5MmtMZkl0cDI2b1hKeHdJOG1ma1JvMkdCdHZTQVN3MTR2bFEzbVJJQktwcUZzWWVma3p1LWMzWFl1RmhmLW5meGR6dEJBMG45YWJoZGFRckxWZ1RfZzBlRDh6d01TaVhGdWpaRURKdlB5eGp5a3VyRlE0dTFtbGhFNG96a1hjUmV4WER2WG1rMU9xaTVOZldhN3Fhb2FoSklrRFAzZUdKY3pjaWQ2cWtzc2pvdw?oc=5",
+      "snippet": "‘You will be arrested’: Sarnia police seize gun believed to be used in shooting death of Dane Nisbet &nbsp;&nbsp; CTV News Deadly Lambton College shooting: ‘Turn yourself in,’ poli",
+      "pub": "Mon, 13 Apr 2026 16:33:54 GMT",
       "image": ""
     }
   ],
