@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T02:45:55.972492+00:00",
-  "count": 8,
+  "generated_at": "2026-04-13T05:33:50.777785+00:00",
+  "count": 16,
   "items": [
     {
       "source": "VOCM",
@@ -65,10 +65,73 @@
       "snippet": "This coming Wednesday is National Film Day in Canada and the St. John's Women's Film Festival is hosting a free screening of the movie, \"Midnight at t...",
       "pub": "Sun, 12 Apr 2026 13:07:54 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/10/Allan-Hawco-Crop.jpg"
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Who is Péter Magyar, Hungary's next prime minister? - CBC",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52dGNFdElnZ0pMUVBZaWNIUDlXbGVwSjU2YWFnZExWZHJuQzdZUFl4c052MlpJNXRweXVOa0xZeklhUVBhSTdBNjNmbFhyZlRncG5WQVJFZHU0bHhmNUltZEluM2dyVzZkUjM2Qjh6MA?oc=5",
+      "snippet": "Who is Péter Magyar, Hungary's next prime minister? &nbsp;&nbsp; CBC Péter Magyar: Hungary’s next leader energised voters but is ‘a dark horse’ &nbsp;&nbsp; The Guardian Viktor Orb",
+      "pub": "Sun, 12 Apr 2026 23:28:12 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Oil prices surge past $103 a barrel after US announces blockade of Iran - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWFpUXJxTUtvSUpZTmozSndEYm8wdWg2LUlkS1JDY0FlOHEtZXlDM1ppLThWS0xLeFZESjlOT3ZpUDNPSmZnMXpTNmptZGpVSDZMUHN4VlJ0OWZ5dU8tVWdfcHd5Y1J6cU9xSHFDck5tMzk3WS1wVGxtQTk1a3lWdkdNZEFlMnRBNEpWNWxSX2JraEpkSzZQcENOSGJtZmtPVHVLNzZ4UER1X1NTTGZaNDhrcWPSAboBQVVfeXFMT2xVem5LZ3A4T3JZNTBhdUVMb2pxcmJaaE91RGpzRVBQd1BNLTVzWDBHNmZwanAwTTZyeG1xNlliZjR5T0drYVlZbHVIcnlWNW9saHBCcTVLU0dQNlRwZXpRUHBnWE5VSjl0NFI2aVk1Vlp4YWhfSzZFc2tJSG1lZERsd2gwd2VsU2pGQUJUdTRXN2Ftc0J3U0xHazEwN3VUUG1zSDlNVlhGa2RlX3c5X1lLNTlSRV9GNWZR?oc=5",
+      "snippet": "Oil prices surge past $103 a barrel after US announces blockade of Iran &nbsp;&nbsp; Al Jazeera US to blockade Iran's ports from Monday, as Trump says he doesn't 'care' if Tehran r",
+      "pub": "Mon, 13 Apr 2026 04:29:40 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Christine Fréchette Is Chosen to Lead Coalition Avenir Québec - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRmRpVjBHV21IcVJqV0ZCdEhOOTRiYmYyVnhxamRVZW5MWG5xaGc1a2V6SDRSR1VvZWdJRExZMlZnOHgyQjRsNkZzRHZzbE4wVy1JVUtHRWxhSzdNOXVnZnA0RnZLd0ZZSzk1NFpOZU9yMzdRa2VnSXlGeU9HVjgwRm5WbkFPb0lsNUxydnFILW44SGs0Y09WTjYzZlA?oc=5",
+      "snippet": "Christine Fréchette Is Chosen to Lead Coalition Avenir Québec &nbsp;&nbsp; The New York Times Christine Fréchette is Quebec’s next premier after winning CAQ leadership &nbsp;&nbsp;",
+      "pub": "Sun, 12 Apr 2026 21:58:05 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump blasts Pope Leo for criticism of U.S. foreign policy - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EMDhQN1ozYV9DVkx6ekhTQTEzeWtxMmFrX1Jfbi01WHNzTHZqX1h0QzlwN3JOZTI0WVN6T1VNZkZlMFRxRzVuY0VNRzk1Qm1qbDJYVWQwVUJ5MjVJbE5LZWpyWXhmVWdlMFpwNDMzXzcxdFo0NldQNG9pT2fSAYIBQVVfeXFMTlp4WWtlZmhJQV9GU1ZmQ0EzQk9NbGtfZnFOaVFHWjBONkVOd2lwd3l2TzllSkFuY3FZVHlyTElJQXVGU3BTNjZObVhmNFBKY1VaWi1xb1B5LV9LVjcwOTNoVjFDZUFZNXhsd01peGFtaWlidEN4TFZ0M2I2cHJLNDVyUQ?oc=5",
+      "snippet": "Trump blasts Pope Leo for criticism of U.S. foreign policy &nbsp;&nbsp; CNBC Trump criticizes Pope Leo’s stance on Iran war, says he’s ‘not a fan’ of Catholic leader &nbsp;&nbsp; C",
+      "pub": "Mon, 13 Apr 2026 01:26:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Eric Swalwell ends bid for California governor after sexual misconduct allegations - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2tkZTdQYXBCWTdCQXNaS0dTOFJic2xndE5BUDhqMDA5LXpJOF9zc1JDVHZXZWdaTUEwWWpoektNOG5kYlhLSElrSFFJT3lqcFZOLXBRVXFfYzBvOGdSVFNKYlJZTV8tOEwxVEpkZWl1UWttUDMtQkJIZFhobGVidnZzei1DRjJOWUk1VUFaZDc?oc=5",
+      "snippet": "Eric Swalwell ends bid for California governor after sexual misconduct allegations &nbsp;&nbsp; CNN Ex-staffer says Eric Swalwell, candidate for California governor, sexually assau",
+      "pub": "Mon, 13 Apr 2026 00:43:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "53% of Canadians want Carney Liberals to win majority in byelections: poll - Global News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakVOY0pldnkxUmdPUU8xVDNfWVpveC16ZXFwTm9IMGgxZDNiVGFuTDFRWHJxbjJ1cVcxX0FCSHgwNlZMMzlFLVBITmpWWjV0QzJlRnNWWVBiYXdiWDZIWjdHTDRCUUUtcjYwMldrMlJPalE2SDBJSzh2UkhCREpPUy1nT1h3UGNUNG1MNQ?oc=5",
+      "snippet": "53% of Canadians want Carney Liberals to win majority in byelections: poll &nbsp;&nbsp; Global News Carney’s government shifts into new gear with hopes of reaching majority &nbsp;&",
+      "pub": "Sun, 12 Apr 2026 08:00:32 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Lambton College shooting: Gun seized, two more people charged - The Sarnia Observer",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjN3N0Y5QXROMkpBLUpoaENFWVZXOFFBMFRHZjk3MU9HUEUyN3E0cDNfSWZNUDRRdmNjVkxKQXpRUnhMUkFHcmMwZm5SaklnRkdyZ0p6R092YkNoSkIwXzR2a1dQZi1qUFNwWlgxTkQzVWJIZHMtVEIwSHlyZTJiNkZTbHFUd05mNExRRWF4S1BBMmtVUmFCSG01djhteHBld2JmVg?oc=5",
+      "snippet": "Lambton College shooting: Gun seized, two more people charged &nbsp;&nbsp; The Sarnia Observer Deadly Sarnia college shooting: Latest developments &nbsp;&nbsp; The Sarnia Observer ",
+      "pub": "Sun, 12 Apr 2026 23:59:14 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Carney issues call for unity, says no time for 'politics as usual' - Castanet",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSUxsaVoyUDN5ZjNQNjNubkFjZkdxSjRfaS1ScFlFVVJOWjZSVWVQLXNZSHRrNEtaTF9Gd3RSSTJhaGljS29TR1BscVkwdXg5YU1RbGZ3bzc0WGRLN3M3cWtZN0U2VENNYVM4WE5lbU84TmVQWE1Pbm9xekg3bWRJRy1ZcVIyeGhtS19RVEtTT1dwWkF6OVNXOEg5eGJSVE5tRWhSVjdPUjZ1Mm1zbk5n?oc=5",
+      "snippet": "Carney issues call for unity, says no time for 'politics as usual' &nbsp;&nbsp; Castanet Opinion: Liberals celebrate imminent majority with a touch of old hubris &nbsp;&nbsp; The G",
+      "pub": "Sat, 11 Apr 2026 21:10:00 GMT",
+      "image": ""
     }
   ],
   "errors": [
-    "CBC News failed: The read operation timed out",
-    "Google News Canada failed: HTTP Error 503: Service Unavailable"
+    "CBC News failed: The read operation timed out"
   ]
 }
