@@ -1,14 +1,30 @@
 {
-  "generated_at": "2026-04-14T10:16:12.560603+00:00",
+  "generated_at": "2026-04-14T11:34:58.042187+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Capital City Planning to Allow Humane Services to Issue Tickets for Minor Violations",
+      "link": "https://vocm.com/2026/04/14/capital-city-planning-to-amend/",
+      "snippet": "The City of St. John's will soon have the power to issue tickets on the spot for offences involving pets. Currently, the city can only lay charges for...",
+      "pub": "Tue, 14 Apr 2026 11:17:48 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/01/humane-services-st-johns.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Next Year’s Salt Budget Expected to Balloon as Government Replenishes Stockpiles",
+      "link": "https://vocm.com/2026/04/14/next-years-salt-budget-expected-to-surpass/",
+      "snippet": "The provincial government is anticipating a significant increase in its road salt budget next year. The entire province is grappling with a salt short...",
+      "pub": "Tue, 14 Apr 2026 10:36:03 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/road-salt.jpg"
+    },
     {
       "source": "VOCM",
       "title": "RCMP to Provide Update on Grand Falls-Windsor Shootings",
       "link": "https://vocm.com/2026/04/14/rcmp-to-provide-update-on-grand-falls-windsor-shootings/",
       "snippet": "RCMP will provide an update today on the investigations into two recent shootings in Grand Falls-Windsor. One person was airlifted to hospital with se...",
       "pub": "Tue, 14 Apr 2026 10:06:42 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/police-tape-crescent-heights-grand-falls-windsor-murder.jpg"
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/crescent-heights.jpg"
     },
     {
       "source": "VOCM",
@@ -51,27 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/diesel-pump-gas-station-fuel-prices-irving.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "April 14, 2026 – Are you more confident in the province’s ability to respond to wildfires now that the fifth waterbomber is back in service?",
-      "link": "https://vocm.com/2026/04/14/april-14-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12787').",
-      "pub": "Tue, 14 Apr 2026 08:02:41 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/provinces-5th-waterbomber-in-flight.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Liberals Win All Three Byelections to Reach Majority Government",
-      "link": "https://vocm.com/2026/04/14/296587/",
-      "snippet": "The Liberals have swept the three byelections in Ontario and Quebec, giving Prime Minister Mark Carney a majority government. Dr. Danielle Martin and ...",
-      "pub": "Tue, 14 Apr 2026 07:35:03 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/tatiana-auguste-prime-minister-mark-carney-doly-begum-dr-danielle-martin.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Carney secures Liberal majority government after by-election wins - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10SEEzWG9ZeFNwNGdwRGJRQzFwSGxJbEJ3VGpGaGZaNzhNVEVhUXNlc2x1STVMZzJCV1dwS0hhVVJJaWFiUEIyNmJwMG5uaEEteU0tb3owYTZYZw?oc=5",
-      "snippet": "Carney secures Liberal majority government after by-election wins &nbsp;&nbsp; BBC It’s the first day of Mark Carney’s majority era, what does that mean? &nbsp;&nbsp; CTV News Carn",
-      "pub": "Tue, 14 Apr 2026 07:07:00 GMT",
+      "title": "Carney Clinches Majority Government to Push Energy and Trade Ambitions - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM0JNcE9qakRjaTNHLWJMTkdMZUZCZkx4TzRKdzFqOWRsTWJMbmZqN2F1SXZQNkJXSDZYeUZiYjBCTjRHOVRmMkRGMTNMX2k1MEx0YzFiZnZLdnBmM3VDNThlWHUtdlV4SDRCenBHQVRJVUYwaU8zN2Y0dC1rZDY1MG1aU0doV0ZhYm9FQ3c2R3VsTHFNUmtUREJNWTlCakJ2OXVqTlBfeXprX0N4bk9qVV9TRElBZFpXRnp1dURR?oc=5",
+      "snippet": "Carney Clinches Majority Government to Push Energy and Trade Ambitions &nbsp;&nbsp; Bloomberg.com PM Mark Carney’s majority is official: what it means for Parliament &nbsp;&nbsp; C",
+      "pub": "Tue, 14 Apr 2026 10:45:00 GMT",
       "image": ""
     },
     {
@@ -84,10 +84,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "RCMP responding to ‘serious’ assault at CrossIron Mills mall - CityNews Calgary",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RdWh3dWpvSjF4MUpndGFVOS1yelRfNUJqYTQ1RU9OUnpCOGJ3NkZlY19VWVdtSy1HVllvQVh3ejBnN3o2ZVRXUXozWi1RR0VGSDd0YmZMWmhKTVBqVnlkOW5Za0VvV1N6WFNMZTByYXdibWZxWGhj?oc=5",
-      "snippet": "RCMP responding to ‘serious’ assault at CrossIron Mills mall &nbsp;&nbsp; CityNews Calgary RCMP called to ‘serious’ assault at Rocky View County’s CrossIron Mills mall &nbsp;&nbsp;",
-      "pub": "Tue, 14 Apr 2026 01:29:04 GMT",
+      "title": "Facing NDP caucus tension, David Eby backs down on making DRIPA suspension a confidence vote - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmc3VlZiN1FPWm42cWY4UGtUdmZ6Znp0SGYybHdFelQ2SGhHZXFoRFJrSE9PV1UzVUNNTnd0dXJtWEtLVWxDa1hKWFdJdERzR0JGcjBQRjNGejltZnE0OHZOTXF2UVlIcllIdFdtbjcyS1JQRlUydmxPZFo2WlhvZk43ei1LWktyRnc0ZUllb1ZXdjFZRnhWWkRIcXYwTzNjYlAydHBlQkFDOFQw?oc=5",
+      "snippet": "Facing NDP caucus tension, David Eby backs down on making DRIPA suspension a confidence vote &nbsp;&nbsp; Vancouver Sun DRIPA’s Deadlock. ‘We Will Not Back Down’ &nbsp;&nbsp; The T",
+      "pub": "Tue, 14 Apr 2026 00:56:16 GMT",
       "image": ""
     },
     {
@@ -95,7 +95,15 @@
       "title": "Incident resolved after reports of armed individual on Mount Royal University campus, police say - Calgary Herald",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMnRod25uRzAxN3Q4Nk9ILXRMTlJ0cmQ1cDJKMkk0a3BRRkxuRkJZVXVjbHdpaDA1Z3NFOUFIYW1NM0tFU3lHQjFSUlJvempYVXd6WDJvU3RUOEl2bUxnMTIyZFByLVN6TWNRWEcwbTQyUkhZQ0FzWW1kNktmWGJkaTJHVWx3S01TX0IzeVc0U1A1SnQ3aUZoeUppQURCZGh5WThDRmx0UC1LR1RL?oc=5",
       "snippet": "Incident resolved after reports of armed individual on Mount Royal University campus, police say &nbsp;&nbsp; Calgary Herald View Full Coverage on Google News",
-      "pub": "Tue, 14 Apr 2026 01:34:17 GMT",
+      "pub": "Tue, 14 Apr 2026 06:16:59 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Italy’s PM responds to Trump’s criticisms of Pope Leo - CP24",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXFxYjFhZ0V5emN0Z0o4YXhna0dFTTVENEtWeXFoa0pVSHdQMjZWczJZR0lSbVZHaElvRlRCRDZMV0J1NlRuNkxuNnctZkViMUdPRGFQVjUtdnREbVV5RlhZS2g1MUpfRzBTRXlFenJ5aU9pclA0NTVBSWpUVkVCWjMzazhjX3lobFJVUjEwTS05ckhJMUNBb1BndGE3N3dxYVY2YmFkZlZ3UXByRGl3Y25DUQ?oc=5",
+      "snippet": "Italy’s PM responds to Trump’s criticisms of Pope Leo &nbsp;&nbsp; CP24 GOP senators grow uncomfortable with Trump rhetoric, endgame for Iran &nbsp;&nbsp; The Hill Column | Trump’s",
+      "pub": "Tue, 14 Apr 2026 00:02:00 GMT",
       "image": ""
     },
     {
@@ -108,26 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump deletes image of himself as Jesus-like saviour after backlash - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONXZuSDhWa1FncEo0ZVI1aGJlY1hmOW0tYmpuVTkwVDZpLXJlV0hlVzVHTERjVjdieGV3R3JVeUhkZ3ExOE9KV3hNRnptUUFzSGN2MHc2VEhPdEx1UkctVTJGWUtReGxoV1hfcnNCcjBPdHZKRTdaNVZvX0hMOXAtQ2J3X2hxd3B0V1pnZElHaHRZUFE4RXdJZjJNRFJSWDFqUWRiNjF2SlBURGRyMW80NkZpT0Z4dG_SAbwBQVVfeXFMTkJ5b3RIb3h0Vzl6d2pNUWlVWW54NDM4NWwxcnFTTnlSMFZHT2psQjZpY3l4dUF2ZlZENmk1aE15YjdvVEd4cTd4b2Z0bEtVRWpGZEhHNUl0Q0s2T1VPMDE5R3JWY2lHRTdBS2xwWFc5ZUNRbWlVSlZaWHFzMlZ4THFnMkJmaWpzbXVKRFp6WHptY25yYlhHX001UnBpWjhMMkl0dUJ2NDRfZzVUTlpiZmtXSE8zd3lYRXZpa1c?oc=5",
-      "snippet": "Trump deletes image of himself as Jesus-like saviour after backlash &nbsp;&nbsp; Al Jazeera Catholic JD Vance weighs in after Trump removes Truth Social post with image appearing t",
-      "pub": "Mon, 13 Apr 2026 21:03:28 GMT",
+      "title": "Woman who died of sepsis possibly could have been saved if treated sooner in Ontario hospital, inquest told - CBC",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMDYxY0locjBBTW5tSWVqd25KMVVjVFM2RnBWU2wxVHk0alVhT2dfemRBRHN1T3o0Mjk3VF9TUVdyRUpXTkxFQnVhWjJfYU1yOS1CQUNNQ05QTE1XZ2s4SWFtVHhITGs2SklvRmU3NEM3djdUQUFSU1Y4ckFvWk5Od1N3VmMxRG1KUWVMUXpLbjNlbjc3V18ySFlvR1d1UTFuRWtRempuaTd5eWtJb1lMUU5PTnVIdkU4Tm11S0luSGNScERETW9leTdKV0tPWG9CN0VfVndNTnhPZ3ZqM01Ea3dkOGc3MmhGMEZzc1ZOZw?oc=5",
+      "snippet": "Woman who died of sepsis possibly could have been saved if treated sooner in Ontario hospital, inquest told &nbsp;&nbsp; CBC Were there missed opportunities to save Niagara woman’s",
+      "pub": "Tue, 14 Apr 2026 08:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "B.C. health officer Bonnie Henry is disappointed by reversal of decriminalization - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPek9TTlFQOVV4SDF5ZmlPa2R2U2pMR2JFMWtqeUJtdHk0MkNtUWRpTkNPLXJvcnpDbW50SG84X2VTM0lWbXo0eWlqVW1FSTVQdFMzeDFsZkpfbTRveUUwalJwN0QtMWZZQWRDY3Qtems2WUdLQnZuc21jZ1g0NkNXZmFsbnQ0WVM1VmZxRnRZWXJOQWRINmM0X0ppUVVVbC1tQlFERmxFSk9FdHo3TW4wQkJUZTNDRUlqc2wxWUN3?oc=5",
-      "snippet": "B.C. health officer Bonnie Henry is disappointed by reversal of decriminalization &nbsp;&nbsp; CTV News B.C. declared toxic drugs a public health emergency 10 years ago. Has it mad",
-      "pub": "Mon, 13 Apr 2026 19:32:42 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Ontario school board trustees to lose many powers, TDSB trustees to be slashed, minister announces - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVkVLWnFOMWFCXzhMVHR5UmM0U0k5VHhDZEc0TmUyemFyNkh3ZWRtbnRqMEh6MXpCT2EyOFpTTVVlMHN1X3VhaFd5ZjNsOVVfT0RzUGktbVFJY3VpcnluWWFyWXJqVTlZOHBBM21vZmFmTWJHNVJrWWdtUDJRck10dEQwWkVBcEpIVmVYbWROODg1Rms3V0J2U2h2d1lOWFRjaVRzMnZqVGJGTmhQQVJxNG9RbndSeWdfSDlxWGtIa0o1dllRTU14aTFocUhVZ0JPajl6cjNQZ3RlTVlkdmYwMlpvT0RDZU02RDRLUXVLLTVxWTJsRlkxV055UTN2Y21mT1hSbGtveDg4TFE?oc=5",
-      "snippet": "Ontario school board trustees to lose many powers, TDSB trustees to be slashed, minister announces &nbsp;&nbsp; Toronto Star Ontario introduces sweeping changes to education. Here’",
-      "pub": "Mon, 13 Apr 2026 23:09:00 GMT",
+      "title": "B.C. Conservative Party leadership hopeful Peter Milobar changes campaign manager after investigation - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFBadmRzLU9zelVhX2plMGNtZFl5bG1XOHRrTmZOaWNReXNVenEydm5OdV9oRXhBaXhwTEgyVmkyODZnVHBVQVd4OEQ5M3Z0ZGljWVdOdWxQaTFVWk5PVV9kZjlwNlJuQ2JLejdtaUtsZ3Y1UFZyN3Iwb0I2d3RNNW5fYVlLZDUtdkNDUVppak15VTBtdGc2c21YZDRHa3NPWUE?oc=5",
+      "snippet": "B.C. Conservative Party leadership hopeful Peter Milobar changes campaign manager after investigation &nbsp;&nbsp; The Globe and Mail View Full Coverage on Google News",
+      "pub": "Sun, 12 Apr 2026 18:14:31 GMT",
       "image": ""
     }
   ],
