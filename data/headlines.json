@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-04-14T16:07:55.143708+00:00",
+  "generated_at": "2026-04-14T17:39:50.610358+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "RCMP Seek Public Help in Locating Wanted Man",
+      "link": "https://vocm.com/2026/04/14/296667/",
+      "snippet": "RCMP in Glovertown are seeking the public's help in locating a 45-year-old man who is wanted by police. RCMP say Philip Anstey is the subject of multi...",
+      "pub": "Tue, 14 Apr 2026 17:12:46 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/philip-anstey-wanted.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Minister Calls Travel Nurse Contract Revelations ‘Unsettling’",
+      "link": "https://vocm.com/2026/04/14/296663/",
+      "snippet": "The health minister is calling new information that's come to light about travel nurse spending in the province \"unsettling\" and \"very upsetting.\" Las...",
+      "pub": "Tue, 14 Apr 2026 16:53:18 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/lela-evans.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Archaeologists Sound the Alarm and Race the Clock as Coastal Erosion Threatens Historic Sites",
+      "link": "https://vocm.com/2026/04/14/archaeologists-sound-the-alarm-and-race-the-clock-as-coastal-erosion-threatens-historic-sites/",
+      "snippet": "Environmentalists and climatologists have been sounding the alarm for years, but another group of scientific professionals is seeing first-hand the ef...",
+      "pub": "Tue, 14 Apr 2026 16:23:11 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/bois-island-erosion.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "MUN Med Students Decry ‘Racist’ Changes to Refugee Medical Coverage",
+      "link": "https://vocm.com/2026/04/14/mun-med-students-decry-racist-changes-to-refugee-medical-coverage/",
+      "snippet": "MUN medical students are raising the alarm about federal changes to refugee medical coverage that are slated to come into effect May 1st. They say tha...",
+      "pub": "Tue, 14 Apr 2026 16:13:07 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/stop-cuts.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Michael Howe Facing Numerous Charges Following Salmonier Line Search Last Week",
@@ -35,51 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/pm-prime-minister-mark-carney-april-14-2026.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Cancer Mortality Rates Down According to Latest Stats",
-      "link": "https://vocm.com/2026/04/14/296626/",
-      "snippet": "The incidence of cancer and mortality rates is down according to the latest findings, highlighting progress made in cancer prevention, screening and e...",
-      "pub": "Tue, 14 Apr 2026 13:46:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/10/Doctors-Office-Medical-Hospital.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Former CUP-W President Compares Metro Sorting Station to ‘Mail Warehouse’",
-      "link": "https://vocm.com/2026/04/14/former-cup-w-president-compares-metro-sorting-station-to-mail-warehouse/",
-      "snippet": "A member of the Canadian Union of Postal Workers says inadequate staffing models at the main Canada Post sorting station in St. John's is leading to a...",
-      "pub": "Tue, 14 Apr 2026 12:52:29 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/Canada-Post-Headquarters.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Bulk Garbage Collection to Take Place in Capital City Starting Next Month",
-      "link": "https://vocm.com/2026/04/14/bulk-garbage-collection-to-take-place-in-capital-city-starting-next-month/",
-      "snippet": "It's just about that time of year when people are wanting to do some spring cleaning, and as such those living in St. John's will soon be able to book...",
-      "pub": "Tue, 14 Apr 2026 12:41:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/bulk-garbage-collection-via-city-of-st-johns.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Federal NDP Calls for Ban on Surveillance Pricing",
-      "link": "https://vocm.com/2026/04/14/federal-ndp-calls-for-ban-on-surveillance-pricing/",
-      "snippet": "The NDP is calling on the federal government to ban surveillance pricing that it says is unfairly targeting consumers based on their search histories ...",
-      "pub": "Tue, 14 Apr 2026 12:19:35 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/avi-lewis.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Carney clinches slim majority in byelections, but ‘lacklustre’ Conservative showing makes time ripe to ‘hunt’ floor crossers, say politicos - The Hill Times",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOc2gtMFlDU2UwOG0xeERXeVhKM2M3NjlGZHVhbzQweTRQMmZUUllDRjhtSW5NVVByNHgwTXZMczZ2MDdTcVg2ZFhoclpIR3BMT2p1aXB2blZPb1huZVhWaUdTT183aWFQcUJwRlB3QXpWT05kNmhDZW4zajJXRkdSRWVjWlpWZUc3a2EwZ3dlSXlTeExyazlYcEFCNmJkQlJHamJfdTFvWlEzN1JyX1p6R2NnMWVSS3NYSEtSdDRBdlFEQTcyM1E5Unk3WVU5VVM5c0I1TllQSEEwcnBuMVc4cmxEay1FR1pOV1JoWndWUlJoTUhObDlOcm9XWXlvdDI5MVNRZWZIa1JhQQ?oc=5",
-      "snippet": "Carney clinches slim majority in byelections, but ‘lacklustre’ Conservative showing makes time ripe to ‘hunt’ floor crossers, say politicos &nbsp;&nbsp; The Hill Times Carney vows ",
+      "snippet": "Carney clinches slim majority in byelections, but ‘lacklustre’ Conservative showing makes time ripe to ‘hunt’ floor crossers, say politicos &nbsp;&nbsp; The Hill Times PM Carney en",
       "pub": "Tue, 14 Apr 2026 12:57:26 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "US blockade of Iran ports 'irresponsible and dangerous', China says - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BWS0xMnNzUEpGM1NySmxkemtidjlyWXFBR0FuYXV5SXJKc0R0NDlNWUltLUloQ195WmFuTnJBemRsZHg4WWp4NndSR2tFeUVOQlV4YzVEM2lidw?oc=5",
-      "snippet": "US blockade of Iran ports 'irresponsible and dangerous', China says &nbsp;&nbsp; BBC Iran war live: Three ships pass through Hormuz strait amid US, Iran blocks &nbsp;&nbsp; Al Jaze",
-      "pub": "Tue, 14 Apr 2026 14:18:04 GMT",
       "image": ""
     },
     {
@@ -100,34 +92,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Hezbollah chief demands Lebanon back out of ‘futile’ planned talks with Israel - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb2J1WmkwQ3lST3MyM3lsUEM3b19KYUZ1MnFyTFhVNnVQazllT25nWlNsLW8xOXdNRkR6TmJTalF4cWI5UE9tZlV1OThyRTBMcU10M21UNVZkVVNkYzhoNk9sZklERXZ3a29zOThVLWxDZHRyZTB2QkJIYmNlejJnekZHbjRVc1JzMTJON2lER1JqS3R1ZlFDZ0xOR3R3cGJXYlQ5WVBvNjI2eW_SAbABQVVfeXFMTnNmSGlheEtTancxcGRmRHFKNFliano2ejEtRXlGcUNDQVN4RGZlWHNaanNDU19TR1BQb3Rxbmx3M3AzcTJnRkljb2JvOUpJaXdJMllWTUtGTjc0WndvNmE4S1dvaHhUenVJdl94cklQSFRXSzJnUmJHWjJTU21vdzZ4WWdlNUt4RjVjcTRWSG9ER3Q2b2VOdVhnNGZQQkU4TkIzOUdtbHBOLVZMcFBNQXg?oc=5",
-      "snippet": "Hezbollah chief demands Lebanon back out of ‘futile’ planned talks with Israel &nbsp;&nbsp; The Times of Israel Israel and Lebanon are set for historic talks. But almost no one bel",
-      "pub": "Mon, 13 Apr 2026 20:47:00 GMT",
+      "title": "Iran trolls Trump on social media after he launches his own blockade of the Strait of Hormuz - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOGNjZjdubTJHUFE4S2ZvZjBxQUJPMFBXUk9KVTQtcG0yYk1OZDg3SGs0MFVmY093ZXUtSFBkWHlrWjA4ZTZVTGpKUlA5bERrYVc2SElsNHlaQjAtV0xpbHlmd3FrYWRLMHdwaEp5cjV2ekVIbHFiRkJ1NVN0Rk5HM1pSWkF5ZDA4M3ZteTU0Ni1uQjNCYlBSRmdGWVR1Z2ROdHhxaDh4NFdLMDBIR1FfU2FMRTZFVi1BeHVNNlVBcTJUWmFJRHc?oc=5",
+      "snippet": "Iran trolls Trump on social media after he launches his own blockade of the Strait of Hormuz &nbsp;&nbsp; The Globe and Mail How geography powers Iran’s grip on the Strait of Hormu",
+      "pub": "Tue, 14 Apr 2026 00:03:22 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "RCMP called to ‘serious’ assault at Rocky View County’s CrossIron Mills mall - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0xNT29qcTZqTXVlY0RXRjZjS3FZQTJEbmYxZ29LYzZrRjRoSmk4WGRlY2EwN1NWNno4VGtxa1R0ZE5GZTFGZXhjYm5tbFVwMWxOdTVaTHZnWHpqRmNGekZJbktjMnpWWXRDcFp5SHI2QmJwUlFLaW9EYmhQNXU1Mm9DUXZmQnlUdGs2dzlVWE9TWGs2ZmpCUXR2RTdQelNqRHZwNGVjcXlrU0ItY3VYV3VsNA?oc=5",
-      "snippet": "RCMP called to ‘serious’ assault at Rocky View County’s CrossIron Mills mall &nbsp;&nbsp; CTV News Victim stabbed outside of CrossIron Mills mall: Airdrie RCMP &nbsp;&nbsp; CTV New",
-      "pub": "Tue, 14 Apr 2026 02:53:00 GMT",
+      "title": "He exposed corruption and walked across Hungary. Now Péter Magyar has defeated a powerful state machine - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVGtKNUEzOXR1ZnFQLUFSNm1lY3lDemxRZlV0QV9fcnpId0ZXbkNaSmdwclVrWlp1d1ZSRC1BeE1lZ2ZTRXgwampkd2piZDZZd1pucll1ZGZ2eUtnbkFhWWY5dURUNDNTbVVXbzhaZklWVzNHUjZ5MmktSWZxclhIRzExTVkzaWtzam1wS2FWc1JUc0hNMktZYWpyclZaUmo2blJ5VXlVSEF0QnlnWDFUb1p5cXViSzVIbDFqRGNNNWoxWVVYNFBBZzFyZ0hwbEtTN180?oc=5",
+      "snippet": "He exposed corruption and walked across Hungary. Now Péter Magyar has defeated a powerful state machine &nbsp;&nbsp; The Conversation Orbán’s defeat may signal shift in Europe’s fa",
+      "pub": "Tue, 14 Apr 2026 03:03:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Vaughan pastor believed to be behind organized fraud targeting homeless program: police - CP24",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPanZBVFNZWk9Rd215TWkxcThCdFdHSEhINkNJM3BoMVhleXF0MkVkQ1BxNV9LZFNxaXBrbzFfU1lpckZxZ1o2aEQzdzNJLVdrdHlTcWhKUkotUWZEbFFHS0Z2aHB2aGdnSzlEZTNoUWxNN3lRVmNsY281VDJQSUtaS2s4NVAzdGM2eG9lSGdkbFZ3LXNMUlBqV19nSnA2T29TR0RNclYtVzAxc3NDTTlWdmNYbHJRX2RZQ1N1aTV4aTZ4cGp0?oc=5",
-      "snippet": "Vaughan pastor believed to be behind organized fraud targeting homeless program: police &nbsp;&nbsp; CP24 Former pastor, 14 others accused of defrauding York Region homeless progra",
+      "title": "Earthquake rattles Ottawa area - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nMTY3ZEdaV05ZbFViSk9ZOUJKM1dLZGN0TVNJM2xhSlJuMW9yWjFjQUEtblBzRlZ3LXJyZFRKLU10T3JIeTVTWEFJN0FycEJ5aklsN1NhUkVzSkdfT1J3U3o2VmZ1WWdyeExrdEFTb1psZVJXNVBQcw?oc=5",
+      "snippet": "Earthquake rattles Ottawa area &nbsp;&nbsp; CTV News Minor earthquake rumbles Ottawa-Gatineau area &nbsp;&nbsp; CBC",
+      "pub": "Tue, 14 Apr 2026 16:52:47 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "2 'shocking' Grand Falls-Windsor shootings were acts of intimate partner violence, RCMP say - CBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWlE5RTFKYUc2SVNkM3F5WkQ3Q0N2LWY2R2VxeUc4VzZOTFlxQkh6dWN6VHh2WmRHU09pdlhsMi1DblZCcXN6MG1RcHJuamYyaFByOWhGSjFmVEJucEttYlJyemRPbUZrVWlRYXB1ZkhMQ2FQcDlnNHhXNXVTU3ZuZi1PQVBYRHNsa3JMTnBGYjVTRi1YdDZjQWlqMU02QQ?oc=5",
+      "snippet": "2 'shocking' Grand Falls-Windsor shootings were acts of intimate partner violence, RCMP say &nbsp;&nbsp; CBC RCMP to provide update on two fatal shootings in Grand Falls-Windsor &n",
+      "pub": "Tue, 14 Apr 2026 14:02:47 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Vaughan pastor believed to be behind organized fraud targeting homeless program: police - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkppaDVwVHNNeWhEZXhkYmlOZGdocGxrR2hGdjd1aEJfaFJBdC1IUU02UmhVTVpGbnBKd240MGpjOXlxU0kxTFJrWmotVlJjOXZ5Rms4MzlUcmEtYlpoMXZwelJGZ3hRZzRqckt6UWdoNGdpRFJzRURCMFdQNWlKWnlGOXMwQ0hUNlZoeDNYcTBBWkNPcnduTXU4UkQ1SmxTSHJzaWt4UzFqU0pCVDVCczVZRi1MU2tlc0pz?oc=5",
+      "snippet": "Vaughan pastor believed to be behind organized fraud targeting homeless program: police &nbsp;&nbsp; CTV News View Full Coverage on Google News",
       "pub": "Tue, 14 Apr 2026 13:52:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Heather Winterstein's life possibly could have been saved if treated sooner in Ontario hospital, inquest told - CBC",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMDYxY0locjBBTW5tSWVqd25KMVVjVFM2RnBWU2wxVHk0alVhT2dfemRBRHN1T3o0Mjk3VF9TUVdyRUpXTkxFQnVhWjJfYU1yOS1CQUNNQ05QTE1XZ2s4SWFtVHhITGs2SklvRmU3NEM3djdUQUFSU1Y4ckFvWk5Od1N3VmMxRG1KUWVMUXpLbjNlbjc3V18ySFlvR1d1UTFuRWtRempuaTd5eWtJb1lMUU5PTnVIdkU4Tm11S0luSGNScERETW9leTdKV0tPWG9CN0VfVndNTnhPZ3ZqM01Ea3dkOGc3MmhGMEZzc1ZOZw?oc=5",
-      "snippet": "Heather Winterstein's life possibly could have been saved if treated sooner in Ontario hospital, inquest told &nbsp;&nbsp; CBC Were there missed opportunities to save Niagara woman",
-      "pub": "Tue, 14 Apr 2026 12:40:32 GMT",
       "image": ""
     }
   ],
