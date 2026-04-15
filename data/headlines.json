@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-04-15T13:04:22.587514+00:00",
+  "generated_at": "2026-04-15T14:51:44.881482+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "RNC Modernizing Way it Collects Evidence",
+      "link": "https://vocm.com/2026/04/15/296718/",
+      "snippet": "The Royal Newfoundland Constabulary is going digital with the way it collects and manages certain types of evidence. RNC will now be using Axon's Digi...",
+      "pub": "Wed, 15 Apr 2026 13:17:34 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-5.png"
+    },
     {
       "source": "VOCM",
       "title": "Capital City Using Mix of Salt and Sand to Extend Road Salt Supply",
@@ -59,22 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/premier-tony-wakeham-march-18-2026.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Mounties Not Saying if Suspects in GF-W Shootings Were Known to Police",
-      "link": "https://vocm.com/2026/04/15/mounties-not-saying-if-suspects-in-gf-w-shootings-were-known-to-police/",
-      "snippet": "RCMP are so far declining to say if they had any previous dealings with those involved in last week's fatal shootings in Grand Falls-Windsor. The sepa...",
-      "pub": "Wed, 15 Apr 2026 08:59:25 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/rcmp-superindendent-paul-peddle.jpg"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "How many ships have passed the Strait of Hormuz and how many were attacked? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTjFfdE0wSHkySjMwMDJhWjl0SW96SHRXWEtEckpkZzdtMkVtSU40S3Awako4MmZyRF8tdVdWRG4ybmlCN2FkeDVtZEJtWXl6bGxPUjdfTTlMLXJzR0ZjT0FReTE3eUtHcFNVaVVMcDZUMThybjM1ay04WWhoblZieEFOeXg1X0xOb193OGRpbHNieHplQjFFY0Z4c2RpM2xzeU1vcTdRb2xKM01ZNm1LMDhVSWZyQdIBuwFBVV95cUxNVTNmUXRodjFVZWRfRnNKZzVNT3BoMFljcUdRWTIxQjBPUE8tSE82X2pQYm1wWk5RajFlRXpLVXl6M2pZMlpKQUJZRTY2aGxjSWE0V1I1Mk5QcFJudjlKNkw5U2pSdWthYUoySHpNRWZHZHZDUW9SZDdaMEJyNkpjVUZxQ2t0VW9kcWs3bS1Demw5b2ZidXpfR2daNUszTk5pVDJoVmVka0xlWDFJbk1YTXYyYkRQQkVXSXdr?oc=5",
-      "snippet": "How many ships have passed the Strait of Hormuz and how many were attacked? &nbsp;&nbsp; Al Jazeera Middle East crisis live: Trump claims Iran war is ‘close to over’ after hinting ",
-      "pub": "Wed, 15 Apr 2026 09:40:23 GMT",
-      "image": ""
-    },
-    {
       "source": "Google News Canada",
       "title": "5 vehicles set on fire in Montreal - CTV News",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHA1LXFycTM1d1pXV3QxNWYzanlacEFLeHRycmRWdW9Ud0FTOEVTU05yQU8yeGpzdHRZV1VycjFiMW5TMnE0c2JvODZWdm9NVUVEWU9qS05zZ3JvMmNXVFN4ZDluYlpLTi1pc2U5VTRUSGFTNjNHS3RqbVlWR0tUTXFQa2kwT3pVRnZza3hR?oc=5",
@@ -84,50 +76,58 @@
     },
     {
       "source": "Google News Canada",
-      "title": "High school attendance drops to 40% in Ontario as government considers changes - Global News",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LWlJxX0pPZUpOb2p1MjlhR3ZTd1d3WmljUVY3ZmxTVFVaYTdvdkxKQ1lyVWJrT2FBeUdIaW1KWXZiNHY4OGNiczhWcXRJWkVPSF9PanFhVTFrV1J6M2FpRm9zamM5QXJocjhfTzVGTGhJTHp2N1E?oc=5",
-      "snippet": "High school attendance drops to 40% in Ontario as government considers changes &nbsp;&nbsp; Global News Ontario plans to tie high school attendance to grades and mandate final exam",
-      "pub": "Wed, 15 Apr 2026 10:00:01 GMT",
+      "title": "How many ships have passed the Strait of Hormuz and how many were attacked? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTjFfdE0wSHkySjMwMDJhWjl0SW96SHRXWEtEckpkZzdtMkVtSU40S3Awako4MmZyRF8tdVdWRG4ybmlCN2FkeDVtZEJtWXl6bGxPUjdfTTlMLXJzR0ZjT0FReTE3eUtHcFNVaVVMcDZUMThybjM1ay04WWhoblZieEFOeXg1X0xOb193OGRpbHNieHplQjFFY0Z4c2RpM2xzeU1vcTdRb2xKM01ZNm1LMDhVSWZyQdIBuwFBVV95cUxNVTNmUXRodjFVZWRfRnNKZzVNT3BoMFljcUdRWTIxQjBPUE8tSE82X2pQYm1wWk5RajFlRXpLVXl6M2pZMlpKQUJZRTY2aGxjSWE0V1I1Mk5QcFJudjlKNkw5U2pSdWthYUoySHpNRWZHZHZDUW9SZDdaMEJyNkpjVUZxQ2t0VW9kcWs3bS1Demw5b2ZidXpfR2daNUszTk5pVDJoVmVka0xlWDFJbk1YTXYyYkRQQkVXSXdr?oc=5",
+      "snippet": "How many ships have passed the Strait of Hormuz and how many were attacked? &nbsp;&nbsp; Al Jazeera Iran War Live Updates: Trump Again Offers Conflicting Signals on War’s End &nbsp",
+      "pub": "Wed, 15 Apr 2026 09:40:23 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "The tough job market isn't getting any better for young Canadians - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNkFIZW51Y0xXVnVfd0FBdHJpOWpwcjBGaVBHc2otbjdIampMdE02SloxeldUMXNzZGlyV01QNllsQnBNMHRaSnQwR0piU1JzYVFjV0F0SkxWSFNiTUNrSWJpTm5Rc2JrWVZNa3FPRElBY3Z3Y2xQMHRHcnAwUERaVmtMWDNSbzRzWjhIaXFn?oc=5",
+      "snippet": "The tough job market isn't getting any better for young Canadians &nbsp;&nbsp; CBC Canada is producing more graduates than ever — so why is it harder to find a job? &nbsp;&nbsp; Th",
+      "pub": "Wed, 15 Apr 2026 08:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Finland's president on why he believes Canada could — eventually — be part of the EU - CBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYmdKdFFndVVMa3pINnhrTFdoZlBRZFlKSXdTeTlyT18tRTRyYVpWQU1qTU1RMmVlc1VqcndBSktyRHVjQ0lBRnlkZko0UUpyY3FhVjZob2FuTmdNQ1hqUWtvY21JYnNsd2hPS1hNMkVscnp3aEpLOW9ZYWw5YXNQZHc5OWdERkVx?oc=5",
-      "snippet": "Finland's president on why he believes Canada could — eventually — be part of the EU &nbsp;&nbsp; CBC View Full Coverage on Google News",
+      "snippet": "Finland's president on why he believes Canada could — eventually — be part of the EU &nbsp;&nbsp; CBC Five things Finland and Canada have in common &nbsp;&nbsp; CTV News Joint stat",
+      "pub": "Wed, 15 Apr 2026 14:10:43 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Russia offers China energy lifeline as the Iran war strangles global supply - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXVOdFl4Ul9wQklEX29TRmtJQ2ZZaE9fc2FPS2VIWExIeGF3cTh4elQ5aTJva2RYM0RSQ0FuQVR5UExYbmFZb2swamtIN2pSSHROUVBla25LWjBXX0gwNV9aN3RfMjh2QlVEdmJfMVJqN0gxRl95Z3l3a01PNXdub2Q1UldYREExM0RYQnJpdHlhWHFhZmdYUFc3NmZMcXlRS1J2NElzTVdQUdIBrwFBVV95cUxPRGlDMVhqOUFGc1hicEFoaGloWWR1UTBHN3UyelBVdThhaVpqS0ZhX3l4ZFAtdEhJVGExSUNPaEJQcklKNEJNWUlFbjI0YkVtMndGQmRuX3paZzRyYlZHcEd6Zm8wX21GZ1NxTFFIOVo2TGlhbk5lM3VNUV8yVFhCUDFGTmdvckJuVm92Wmh1dWRlY0VGbGlYYVE0TVNYbkJic2VDRDRSaDR3UW9fd1pz?oc=5",
+      "snippet": "Russia offers China energy lifeline as the Iran war strangles global supply &nbsp;&nbsp; CNBC Xi calls China-Russia ties ‘precious’ in current international context &nbsp;&nbsp; Ci",
+      "pub": "Wed, 15 Apr 2026 09:30:07 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Ontario high school attendance drops to 40% of target as government considers changes - Global News",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LWlJxX0pPZUpOb2p1MjlhR3ZTd1d3WmljUVY3ZmxTVFVaYTdvdkxKQ1lyVWJrT2FBeUdIaW1KWXZiNHY4OGNiczhWcXRJWkVPSF9PanFhVTFrV1J6M2FpRm9zamM5QXJocjhfTzVGTGhJTHp2N1E?oc=5",
+      "snippet": "Ontario high school attendance drops to 40% of target as government considers changes &nbsp;&nbsp; Global News Ontario plans to tie high school attendance to grades and mandate fin",
+      "pub": "Wed, 15 Apr 2026 13:58:27 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Indigenous woman who died of sepsis at high risk of facing many health-care 'biases,' Ontario inquest told - CBC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenl3SXJWdGQwZmJHbHRZNnJKalNrTk9fd1hTcU1IbU8tRXpTQTBTRkFIRThucDVKcHcxY25kcTlKekdubXA5eHVCS0dwMzYzZndtdEZnR0tQOGZxQTRoSWo0RWh3VjdOWHY2NjVfODlqR0JFcWhwNGktSTl4LVQ5NHFKNzk2TWdoTEc5WlpEbnprdw?oc=5",
+      "snippet": "Indigenous woman who died of sepsis at high risk of facing many health-care 'biases,' Ontario inquest told &nbsp;&nbsp; CBC Systemic racism against Indigenous people contributed to",
       "pub": "Wed, 15 Apr 2026 08:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ford says majority gives Carney stronger hand to deal with Trump - CP24",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXpwd2RvYnFWOXJLZDE2dk1pVkUzLVN1UkU5N1pfWnV3MnRVUEZvVjJacC1GWjM5M0FVbElFN0Jodnl4M1BJcjNYaUJtdkhZUlF2WnZ5bFJGQXpxTy1fOE03TzkwS1plbUd2R2J3TnhyZWFDcThJVElGcmR0YUU0MlVqN2NJeFdWOWtTVENmVW00dGVMTEFRX1BrSkphNkR6eU0zd0pNVkphZE9ma3BvUw?oc=5",
-      "snippet": "Ford says majority gives Carney stronger hand to deal with Trump &nbsp;&nbsp; CP24 James Moore: Carney has his majority. Here’s what every party gains from it &nbsp;&nbsp; CTV News",
-      "pub": "Tue, 14 Apr 2026 19:56:55 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Hot or not? The Old Farmer's Almanac just weighed in on our summer weather. - Inside Halton",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQVoxb0VXT1pTTUNteHBrVURSZHJwQnY0M2JtWjNYZHlYUmlGclVSZzl3UXNYS2Z3S1U5dTdhVTNOUDhLWGI1d21DalRBLU9sdjdwNXRXTUhYeG95Rml4YjlPVWpNd1owaU43M1djS0t5cEF4cEpDd2RLcFlsNUJzRm0wSWxUTGd0UV9mQXhPdHhuYllTSjZad0Q4d0hUU19SVzVwVWM4WWw3WXJSVnFpcks1Z041c29oVF9Kd0VMdU5DaWo2WXkzcjhCVXY?oc=5",
-      "snippet": "Hot or not? The Old Farmer's Almanac just weighed in on our summer weather. &nbsp;&nbsp; Inside Halton Ontario's summer forecast for 2026 has officially arrived and here's what's i",
-      "pub": "Tue, 14 Apr 2026 10:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "MOU Mentioned in Wakeham’s Initial Call with Quebec’s New Premier - VOCM",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGc3eHJYQzJBRDE4LXBLclJFYV81alZnZFByOXIydExXZGp1ZXBlb0dna0FZRXpmUlpOdFpRSVdmU2prVW1EXzBUd0oyWFZfQTJ4VGZRX2ZTckZpb0FXdmlrUW1DYmw4ZUZXUzNTbXY0M2RjWXhWU3AxOEFTN0o1RlVxbnFMcnRneW9jMDRiaGo5Y0thbTZj?oc=5",
-      "snippet": "MOU Mentioned in Wakeham’s Initial Call with Quebec’s New Premier &nbsp;&nbsp; VOCM Christine Fréchette to be sworn into office as Quebec’s second female premier &nbsp;&nbsp; CTV N",
-      "pub": "Wed, 15 Apr 2026 09:30:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Dramatic video of crash that closed highway near Hampton emerges online - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX2sxTm1ZcGRKV2x4bXFTdkRkUTBKakdockdMY05uWGZnVS1RbnE3U25DMUZyZ1VVZ3haSUp0eFNDVVZTWGY5VGtPVHdOdGVtWlBNZzFScGxhSVpnaWxUbl9Hd24xQ3NrREVvZmlIZGJPTU5kRWdBdE5oTU8zNXdQbUZDVmlXMkY0YVF0QzhR?oc=5",
-      "snippet": "Dramatic video of crash that closed highway near Hampton emerges online &nbsp;&nbsp; CBC View Full Coverage on Google News",
-      "pub": "Mon, 13 Apr 2026 21:11:19 GMT",
+      "title": "New Brunswick highway fuel spill reached tributary of Hammond River, official says - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUmFjdW1EVzFtbnQ1cnhNU1FKcWEweFlLUUo2VXF5dDZReU1BX1UtZzUxek5Yb0V4V1B2dVhJUlVUSzAxQkdHM3NGeHUxLS0wN2Y0R1ZSc1NXVEJZSm9WX19ZV2hVb2FtNXE4VGZFbkk0MlZQZkt6Q0dwaDEtcmV0UE12eTcwRVNEU3VqaG5FMFBRdFFOamRwVUVYUEoyckVDOG1tWUpmYzFRb1NaMlo5bjNCeDZ2aHlmREg1VWxqVVdBenQwNkxtMkJ6NXFUX0hYbUE?oc=5",
+      "snippet": "New Brunswick highway fuel spill reached tributary of Hammond River, official says &nbsp;&nbsp; CTV News View Full Coverage on Google News",
+      "pub": "Wed, 15 Apr 2026 09:00:26 GMT",
       "image": ""
     }
   ],
