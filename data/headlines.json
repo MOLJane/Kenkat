@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-04-15T16:00:34.035477+00:00",
+  "generated_at": "2026-04-15T17:36:43.025547+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Police Seek Public’s Help in Identifying Suspects",
+      "link": "https://vocm.com/2026/04/15/police-seek-publics-help-in-identifying-suspects/",
+      "snippet": "Police are hoping the public can help in identifying two people in relation to a recent theft from the Foodland Grocery Store in Bay Bulls. Ferryland ...",
+      "pub": "Wed, 15 Apr 2026 16:53:58 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/suspects-bay-bulls.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Woman Convicted for Illegally Working as Nurse in NL",
+      "link": "https://vocm.com/2026/04/15/296742/",
+      "snippet": "A woman's deceitful efforts to work illegally as a nurse in this province were spelled out as she was convicted in court this morning. Lisa Driscoll's...",
+      "pub": "Wed, 15 Apr 2026 16:45:03 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/lisa-driscoll.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Military Police Lay Charges in Incident That Claimed Life of Newfoundland Sailor",
+      "link": "https://vocm.com/2026/04/15/military-police-lay-charges-in-incident-that-claimed-life-of-newfoundland-sailor/",
+      "snippet": "Canadian Military Police have charged two members of the Royal Canadian Navy with multiple offences in connection with the death of a Newfoundland sai...",
+      "pub": "Wed, 15 Apr 2026 16:30:10 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/01/gregory-applin.png"
+    },
     {
       "source": "VOCM",
       "title": "City Council Defers Decision on Demolition Permit for Downtown Properties",
@@ -43,35 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/road-sand-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Nichols Looking Forward to New Opportunity with Dunstone Rink",
-      "link": "https://vocm.com/2026/04/15/nichols-looking-forward-to-new-opportunity-with-dunstone-rink/",
-      "snippet": "Curler Mark Nichols admits it will take some adjustment after joining Matt Dunstone's Manitoba rink after decades on Team Gushue. The long-time third ...",
-      "pub": "Wed, 15 Apr 2026 12:08:02 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/curler-mark-nichols-team-gushue-brier-curling.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "YWCA Highlights Child Care Concerns After Local Operator Files for Creditor Protection",
-      "link": "https://vocm.com/2026/04/15/296701/",
-      "snippet": "The YWCA is concerned about the impact on families now that a private child care operator in the metro region is seeking creditor protection. Pitter P...",
-      "pub": "Wed, 15 Apr 2026 11:44:15 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/02/child-care-daycare-kids-3.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Council to Vote on Changes to Animal Control Act",
-      "link": "https://vocm.com/2026/04/15/296699/",
-      "snippet": "A move to give animal control inspectors the power to issue tickets for minor offences is a step closer to reality. As of now, the city can only lay c...",
-      "pub": "Wed, 15 Apr 2026 11:07:54 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/06/Dog-Pet-.jpg"
+      "source": "Google News Canada",
+      "title": "Ontario plans to tie high school attendance to grades and mandate final exams. It's getting mixed reactions - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZmRLZWJoNVFweXhkTWxoV1oyMVpmTW1rUnJLdldjUWdOeUtjVUk4Vk5TbXE4R1VzTE1YMDcwTU1Yb2dwQ3ZpOEdUOHVBNXlYWF92NlJ1WmdJclg4VHFFZ3RnamJCdXV1RVBRMTVIQ3pGQW9RMXZzTXA0UGUzMDRHejRnOA?oc=5",
+      "snippet": "Ontario plans to tie high school attendance to grades and mandate final exams. It's getting mixed reactions &nbsp;&nbsp; CBC Ontario high school attendance drops to 40% of target a",
+      "pub": "Wed, 15 Apr 2026 15:10:09 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Four killed in second Turkish school shooting in two days - BBC",
+      "title": "Nine killed in second Turkish school shooting in two days - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMU9idnRYM0NQUGl6UGtkSzRWME1Ja1ZzeFBRUjUzU2dKNEQyTmNucXFOOF85RmRJTWNOOG5VZVJKYU10dm9uYmtobU9SaXNyYzNMaHdTdEFiZw?oc=5",
-      "snippet": "Four killed in second Turkish school shooting in two days &nbsp;&nbsp; BBC Student kills 4, wounds 20 others, in second school shooting in Turkiye in 2 days &nbsp;&nbsp; CTV News 5",
+      "snippet": "Nine killed in second Turkish school shooting in two days &nbsp;&nbsp; BBC Nine people killed in second school shooting in Turkey in two days &nbsp;&nbsp; CNN School Shooting Leave",
       "pub": "Wed, 15 Apr 2026 15:26:08 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Vancouver council approves 250-room floating hotel - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeVlZNGZvR2hsVE1JYXlQdG85dmxnblRlaDFDVVIzbXdxQUItX3pVLThvTFNOYnlYNkYtNTRSTVBlUDVXUUtHaWg5NmJvWnVoanRLTW5fNUtOUUM2My11UWxwdnVuVkRFdEhVdm5US05KWWNJR2REa1EzLVVJWk5GSllxN2RCYWFjMHptUDFqbDU3em5fQTVV?oc=5",
+      "snippet": "Vancouver council approves 250-room floating hotel &nbsp;&nbsp; CTV News Vancouver approves 250-room floating hotel in Coal Harbour &nbsp;&nbsp; CBC Council approves floating hotel",
+      "pub": "Wed, 15 Apr 2026 14:28:32 GMT",
       "image": ""
     },
     {
@@ -84,34 +100,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Is this the grand bargain that could end the Iran war? - Responsible Statecraft",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBna3QzVFM0QmFGUXZGemtpQ3dSamRLZTVjWUpVa0piTzYyTVdrYlNvSC1TWmtzSjFwN0VMbzduSmtvZTBWdEhMc3BHVERRdldmM2gya0hrWmtXN3hDQVdYSk81bE1YRjFK?oc=5",
-      "snippet": "Is this the grand bargain that could end the Iran war? &nbsp;&nbsp; Responsible Statecraft Report: US, Iran moving toward 'framework agreement' to extend ceasefire, as American off",
-      "pub": "Wed, 15 Apr 2026 04:15:10 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Finland's president on why he believes Canada could — eventually — be part of the EU - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYmdKdFFndVVMa3pINnhrTFdoZlBRZFlKSXdTeTlyT18tRTRyYVpWQU1qTU1RMmVlc1VqcndBSktyRHVjQ0lBRnlkZko0UUpyY3FhVjZob2FuTmdNQ1hqUWtvY21JYnNsd2hPS1hNMkVscnp3aEpLOW9ZYWw5YXNQZHc5OWdERkVx?oc=5",
-      "snippet": "Finland's president on why he believes Canada could — eventually — be part of the EU &nbsp;&nbsp; CBC Five things Finland and Canada have in common &nbsp;&nbsp; CTV News Joint stat",
-      "pub": "Wed, 15 Apr 2026 14:10:43 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Ontario high school attendance drops to 40% of target as government considers changes - Global News",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LWlJxX0pPZUpOb2p1MjlhR3ZTd1d3WmljUVY3ZmxTVFVaYTdvdkxKQ1lyVWJrT2FBeUdIaW1KWXZiNHY4OGNiczhWcXRJWkVPSF9PanFhVTFrV1J6M2FpRm9zamM5QXJocjhfTzVGTGhJTHp2N1E?oc=5",
-      "snippet": "Ontario high school attendance drops to 40% of target as government considers changes &nbsp;&nbsp; Global News Ontario plans to tie high school attendance to grades and mandate fin",
-      "pub": "Wed, 15 Apr 2026 10:00:01 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Poilievre says he’s not going anywhere, following double-digit byelection defeats - CTV News",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX29JQjdIMGZkeG5aMFgxQzA3Qlpfa1p1X3dJSFAyTVBDYlVXekZaQWI0cEVkdTlaczNVc3psYWY4MFJ0cVlvZFhBbGlaZ1dGSUs3Szcwa3lKaW5tX2hMNDlXOV9GUlQ4Rlk1dDV5M0pUdXYyT2YxaWJNSTc2V3dUMlhKampWQjl2R3VYZlQ1Ui1kT2FRSnFsZnFDOGFwT0hvazBrbWRKX3pKOWtTYk9YWFhkMlBfTlhzSzZfYQ?oc=5",
-      "snippet": "Poilievre says he’s not going anywhere, following double-digit byelection defeats &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Wed, 15 Apr 2026 13:23:57 GMT",
+      "snippet": "Poilievre says he’s not going anywhere, following double-digit byelection defeats &nbsp;&nbsp; CTV News Conservatives say Poilievre’s leadership is secure after Liberals land major",
+      "pub": "Wed, 15 Apr 2026 16:05:26 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Is this the grand bargain that could end the Iran war? - Responsible Statecraft",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBna3QzVFM0QmFGUXZGemtpQ3dSamRLZTVjWUpVa0piTzYyTVdrYlNvSC1TWmtzSjFwN0VMbzduSmtvZTBWdEhMc3BHVERRdldmM2gya0hrWmtXN3hDQVdYSk81bE1YRjFK?oc=5",
+      "snippet": "Is this the grand bargain that could end the Iran war? &nbsp;&nbsp; Responsible Statecraft Live updates: Iran’s military threatens Red Sea shipping if US blockade continues &nbsp;&",
+      "pub": "Wed, 15 Apr 2026 04:15:10 GMT",
       "image": ""
     },
     {
@@ -119,15 +119,15 @@
       "title": "Patient tells Ontario inquest Heather Winterstein was on floor 'crying in pain' in hospital ER on day she died - CBC",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVhXUGJRQ2NyZFpNNnhiTzJfVWdid0hzUHlVa0ltY2JTcFdNVHM3bEIwaDNvV2txWGFUX2E2cFdIc2RHdWlOMm1LdUI5bVpKRC14b0EyNVR2OHNjbzNXOHlZWHdpbWx0dTZmbTRSYk1xS3d1UlhFSFNFUnpGckRFRk50cWtETVRLMFliWTlzbHAzU2RXdXZrRDRib0FLNWpjUkRSa091QQ?oc=5",
       "snippet": "Patient tells Ontario inquest Heather Winterstein was on floor 'crying in pain' in hospital ER on day she died &nbsp;&nbsp; CBC Did ‘confirmation bias’ play a role in care at the S",
-      "pub": "Wed, 15 Apr 2026 15:38:47 GMT",
+      "pub": "Wed, 15 Apr 2026 16:45:04 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "B.C. woman sentenced to 5 1/2 years for smuggling 108 kilograms of meth from U.S. - Global News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWNzcnpJUFRrMjJuWmg4MklfMjJFR0JlSENGOGdCT1lxZldBb0pLVHZTT3IzQnVnWjNaa1JoMkRINTZKdUt3d0RYMk9iX3o5bGlJYzBVemJ1ZXcwU01vdm1lVE92aU1vMWdSVmVJZzJZSWhyemdpM3pVTV9JNl9HbmxmRXhVcjdyTjVBMTU4WFplR1BYZDQ3d0lMNC1QbENNb3lpU0FaUFFwWEZlcFA4aXBEVWN4cVU?oc=5",
-      "snippet": "B.C. woman sentenced to 5 1/2 years for smuggling 108 kilograms of meth from U.S. &nbsp;&nbsp; Global News View Full Coverage on Google News",
-      "pub": "Wed, 15 Apr 2026 13:04:53 GMT",
+      "title": "Two Royal Canadian Navy members facing charges following petty officer’s death - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZkhhYi04M1FXam1OQzBrUGdUcDg3RkFnRVNFRWZET3ZjOFlZNkJvb1Z6LTNkWE5hVGFJOWJid1ZnLWp3TkdsalZzS3NwOGRqT25QUVVLdEdMQVRiMl9wRXZvSkZWYy1Fa3lpQjZwa09MaUE2cWZwb0txaHVfLVZUVVE0NFFSMjR2N2VNM1hqMVlPUDJqeTBNT1lrS2pST1FLU3J4cWxMc0JyVUVwc2c0LUFVcENPSHM?oc=5",
+      "snippet": "Two Royal Canadian Navy members facing charges following petty officer’s death &nbsp;&nbsp; CTV News CP NewsAlert: Two sailors charged after fatal capsizing in Halifax harbour &nbs",
+      "pub": "Wed, 15 Apr 2026 16:28:27 GMT",
       "image": ""
     }
   ],
