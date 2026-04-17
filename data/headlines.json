@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-04-17T06:53:13.237831+00:00",
+  "generated_at": "2026-04-17T08:22:48.208953+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "April 17, 2026 – Are you optimistic that the summer food fishery will be extended to full weeks given the results of a recent survey conducted by DFO?",
+      "link": "https://vocm.com/2026/04/17/april-17-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12796').",
+      "pub": "Fri, 17 Apr 2026 08:00:05 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/08/cod-fish-jigging-recreational-food-fishery-fisheries-boat-fishing-rod.jpg"
+    },
     {
       "source": "VOCM",
       "title": "FFAW and ASP Reach Deal on Snow Crab Price",
@@ -59,27 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/08/cod-fish-fillet-cleaning-fish-jigging-fishery-3.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Man Facing Three Counts of Assaulting a Police Officer Following Disturbance in Sheshatshiu",
-      "link": "https://vocm.com/2026/04/16/man-facing-three-counts-of-assaulting-a-police-officer-following-disturbance-in-sheshatshiu/",
-      "snippet": "A 41-year-old man has been charged with three counts of assaulting a police officer following a disturbance inside a home in Sheshatshiu on Tuesday. P...",
-      "pub": "Thu, 16 Apr 2026 15:26:52 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/09/RCMP-Sign-Stock-1.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Israel and Lebanon agree 10-day ceasefire, Trump says - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2T0l3STJWbjRqT3ZfSWF4ZDZ6TjJETFI5S0U2LWdjTU1JSGcwZFl0OVZ2QkM2WEhYdXJ2cEZHaHhpQVg3OE5YUnFDWDdQZ3VMWElKd3A0cHMyQQ?oc=5",
       "snippet": "Israel and Lebanon agree 10-day ceasefire, Trump says &nbsp;&nbsp; BBC Israel-Lebanon ceasefire in effect as Trump says US 'close' to deal with Iran - follow live &nbsp;&nbsp; BBC ",
       "pub": "Thu, 16 Apr 2026 21:18:31 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Gordie Howe bridge opening date being ‘quietly’ negotiated to avoid angering Trump: source - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWkxkRWdGTEZkbjJiZlBjUEJjbk5WY3hWMml2aFR5VEd2SjN2TGtmZXJOTVdnR1dYR2hmX0tmOTBzY0JqLWdBMFFpb2FGaWl6WHRkUWNlMlZKbkNPRnlaZXFpbllad3FRX2lCNXdHU0NVSDFuMmlVbkN0ekRwY0NfcV9ramtHYkdZVFo0OHA4c3N4cUwxUXlqVmZxelgyQ293RURmQS1PMDk3S0VqTURtaTlKb2JSUGZPU3EzX2hMRXJMc29GeHhF?oc=5",
-      "snippet": "Gordie Howe bridge opening date being ‘quietly’ negotiated to avoid angering Trump: source &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Thu, 16 Apr 2026 23:40:30 GMT",
       "image": ""
     },
     {
@@ -92,17 +84,9 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Judge halts Trump’s ballroom construction, permits bunker work to proceed - Global News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUGxHLTJabE9SVHZQUmMxeWl5RXdaTVd1c2pTZ2R3SEJvWlFLMTVUUG8wbkdaNzNab0pjcDhidHRnRVBIc0pMUU51T3g5T01LZ1pIOUsxUmt3UWhQT29VdHFjeUlVLUZsS2NOLXFLTHRoNGwxSk9FSUg3RUdwV1hkTUd3OThXWENnWms5U1FITnRWaTZD?oc=5",
-      "snippet": "Judge halts Trump’s ballroom construction, permits bunker work to proceed &nbsp;&nbsp; Global News Judge halts above-ground construction of Trump's White House ballroom &nbsp;&nbsp",
-      "pub": "Thu, 16 Apr 2026 19:56:32 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Trump says war in Iran is going 'swimmingly' and 'should be ending pretty soon' - CNBC",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6OHM3WlBOc2FpRlJMNzFsWlF6UDZaYm05dTVkQ0haRGxvdDhLTFU0c3pLZW5FRjNaZEtwQmlLend0cW90M2IwU2xKdHlIcHZVTzNSMlpMWDQ2MkZJcnJ5OGdnd0ZwTGViYTlkdlVkMVI4bjFfeUdsTdIBfkFVX3lxTE94X0Q4SjlyX01BVW82OEMtZmxfdGZKSDZ5blUtRjRxUUIzenk4Y3RmR0o1TTNZcmhZaUtmYmFqUUMxTTJYSXNCMmRGMmdRQmxHM0QwdzJzR00xRWlNZmlVNDlCUTVFdzFOQ3FEYXZ2cDY1VXZOMlJCMGVlSzNFdw?oc=5",
-      "snippet": "Trump says war in Iran is going 'swimmingly' and 'should be ending pretty soon' &nbsp;&nbsp; CNBC ‘More compromises’: Trump wants an end to Iran war &nbsp;&nbsp; Politico Trump say",
+      "snippet": "Trump says war in Iran is going 'swimmingly' and 'should be ending pretty soon' &nbsp;&nbsp; CNBC ‘More compromises’: Trump wants an end to Iran war &nbsp;&nbsp; Politico Trump Say",
       "pub": "Fri, 17 Apr 2026 00:20:00 GMT",
       "image": ""
     },
@@ -116,10 +100,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "CBSA detector dog sniffs out undeclared sausage and salami at Toronto airport - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZW1XdFR1WmxWclcxdlpILTZMT1RlaUJ1UG43N1RjN2tMSmFsNGZ4T2tTWGI4S2NxazliR1ZwN1FtWVZKcWk3VlpLNktyLWNsM3RLa05IcFYyX3NzbzI5dmcxSDlSRzRnekdqNk5KQ05TMFNKQng2Tm9IMjBFMGNxVHEzTHVQNTVXdDVYWGtXaHU4SUZ1RlhYTERsQVN2NTZ4OG56MXRzczNXVmFJZnRKVm5OQWc2dTFE?oc=5",
-      "snippet": "CBSA detector dog sniffs out undeclared sausage and salami at Toronto airport &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Thu, 16 Apr 2026 19:20:27 GMT",
+      "title": "St-Jérôme, Que., closes bridge, distributes sandbags as water levels rise - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNk4yUTEyRXhxV0JMbWYtZ1NtRXBnV21rSnIwWXZmU1FoWGc5Qml5Z3lISEE3ZnZ2Q1BQWFZqZDR2OUZPb2FVS3lvU3AtSThxT2FSVHRHdzlXN0MwN09mSWNqTi0yZW9SMW5uOHJONkJPQUxMWDdiV3l1NkNIcWxRUUxoSXY2OWRFY0Y0OVRxbnpwdXN3XzhTSTV0b3NxeVVHbG9GSFNxNm5MNlNYSmxZ?oc=5",
+      "snippet": "St-Jérôme, Que., closes bridge, distributes sandbags as water levels rise &nbsp;&nbsp; CTV News Quebec municipalities preparing for flooding, Montreal reaches highest alert level &",
+      "pub": "Thu, 16 Apr 2026 16:50:17 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Judge halts Trump’s ballroom construction, permits bunker work to proceed - Global News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUGxHLTJabE9SVHZQUmMxeWl5RXdaTVd1c2pTZ2R3SEJvWlFLMTVUUG8wbkdaNzNab0pjcDhidHRnRVBIc0pMUU51T3g5T01LZ1pIOUsxUmt3UWhQT29VdHFjeUlVLUZsS2NOLXFLTHRoNGwxSk9FSUg3RUdwV1hkTUd3OThXWENnWms5U1FITnRWaTZD?oc=5",
+      "snippet": "Judge halts Trump’s ballroom construction, permits bunker work to proceed &nbsp;&nbsp; Global News Judge halts aboveground construction of Trump's White House ballroom &nbsp;&nbsp;",
+      "pub": "Thu, 16 Apr 2026 19:56:32 GMT",
       "image": ""
     },
     {
@@ -128,6 +120,14 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHpCc3d3UV9JQVFicDdIbTRzS0dla2kyeGRkS003eks5VEFyaHoxbkt3YnNOaXRnR1B6RHFDeVgzQVg4UmpLdHgwVVdvMDRJM3lHOE4wd0h0RC0tRmFnd29nMkFLQktya2xVQ1VrbExKREItZ2VkeWtvYVlFdHVFTm1NS0JMUFE?oc=5",
       "snippet": "Spring rain key to wildfire outlook: BCWS &nbsp;&nbsp; Castanet NWT in line for late start to boreal fire season, outlook suggests &nbsp;&nbsp; Cabin Radio Wet and mild winter is ‘",
       "pub": "Thu, 16 Apr 2026 23:06:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "RCMP warn against non-essential travel as snowstorm hammers southern Alberta - Global News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc3pGY3NiX1dBNkdTRERHUk14czU5UTJzVFFUTEtJdDFsU1dQVXhuVWV5T2YzWktpR0t4M0l3cWt4azFNc1RtY1k3a0hhRjQ2UDF5QWRNdHhKdDZfX1Ffam9YdkVPTDRDYUgwajNmMEU3R0xDV3IxVGJ4Wi1PbldseTV2eDh5MUxVUm1TQmg0LUUyTUNWQ0YxdUJR?oc=5",
+      "snippet": "RCMP warn against non-essential travel as snowstorm hammers southern Alberta &nbsp;&nbsp; Global News Environment Canada lifts snowfall warning as city recovers from latest wintry ",
+      "pub": "Thu, 16 Apr 2026 19:13:59 GMT",
       "image": ""
     }
   ],
