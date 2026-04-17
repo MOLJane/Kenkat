@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-04-17T08:22:48.208953+00:00",
+  "generated_at": "2026-04-17T09:52:08.961718+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Former NLHS CEO Doesn’t Believe Health Accord Will be Thrown Out Under New Government",
+      "link": "https://vocm.com/2026/04/17/former-nlhs-ceo-doesnt-believe-health-accord-will-be-thrown-out-under-new-government/",
+      "snippet": "The former CEO of NL Health Services says he's confident the Wakeham government won't abandon the Health Accord that he co-authored. Dr. Pat Parfrey s...",
+      "pub": "Fri, 17 Apr 2026 09:30:39 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/dr-pat-parfrey.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Parks NL Reservation System Opens Next Week",
+      "link": "https://vocm.com/2026/04/17/296864/",
+      "snippet": "Parks NL opens registration for the summer camping season this coming Wednesday. The province says nine parks will be open for the Victoria Day weeken...",
+      "pub": "Fri, 17 Apr 2026 08:58:31 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/04/butter-pot-provincial-park-camping-sign.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "No Injuries Following House Fire in CBS",
+      "link": "https://vocm.com/2026/04/17/no-injuries-following-house-fire-in-cbs-2/",
+      "snippet": "There were no injuries after a house fire in Conception Bay South overnight. First responders rushed to the scene around 1:15 this morning. The Concep...",
+      "pub": "Fri, 17 Apr 2026 08:42:02 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/CBS-Fire-Truck.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Latest Fuel Prices for Friday, April 17, 2026",
+      "link": "https://vocm.com/2026/04/17/latest-fuel-prices-for-ay-april-14-2026/",
+      "snippet": "The Public Utilities Board has put up the price of most fuels again. Gas is up by less than a cent. Diesel increases by 4.8 cents on the island and 6....",
+      "pub": "Fri, 17 Apr 2026 08:31:49 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/diesel-pump-gas-station-fuel-prices-irving-2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "April 17, 2026 – Are you optimistic that the summer food fishery will be extended to full weeks given the results of a recent survey conducted by DFO?",
@@ -9,6 +41,14 @@
       "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12796').",
       "pub": "Fri, 17 Apr 2026 08:00:05 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/08/cod-fish-jigging-recreational-food-fishery-fisheries-boat-fishing-rod.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "White House Grants Limited Exception for Russian Oil Delivery to Cuba",
+      "link": "https://vocm.com/2026/04/17/white-house-grants-limited-exception-for-russian-oil-delivery-to-cuba/",
+      "snippet": "The White House said the United States allowed a Russian-flagged tanker carrying crude oil to reach Cuba on humanitarian grounds, even as Washington k...",
+      "pub": "Fri, 17 Apr 2026 07:27:57 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/04/10094697.jpg"
     },
     {
       "source": "VOCM",
@@ -27,46 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/provincial-court.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Canadian Companies Not ‘Dumb Enough’ to Use Surveillance Pricing Technology says Retail Analyst",
-      "link": "https://vocm.com/2026/04/16/296814/",
-      "snippet": "A national retail analyst doesn't believe that a ban on so-called surveillance pricing is necessary in Canada. Hotels, airlines and ride shares alread...",
-      "pub": "Thu, 16 Apr 2026 17:12:32 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/08/cell-phone-cellphone-school-student.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Man Who Had ‘Numerous Illicit Drugs’ in System Sentenced to Three Years in Fatal Impaired Driving Crash",
-      "link": "https://vocm.com/2026/04/16/296836/",
-      "snippet": "A Pouch Cove man has been sentenced to three years in jail for impaired driving causing death following a crash on the Veteran's Memorial Highway two ...",
-      "pub": "Thu, 16 Apr 2026 16:51:38 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/07/RCMP-Station-Harbour-Grace-Provincial-Court.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Police Investigating Business Break-in In Lourdes",
-      "link": "https://vocm.com/2026/04/16/police-investigating-business-break-in-in-lourdes/",
-      "snippet": "The RCMP is looking for help from the public after a convenience store in Lourdes was broken into earlier this week. Police say someone broke into Lou...",
-      "pub": "Thu, 16 Apr 2026 16:30:12 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/loudres-superette.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Social Worker Advocating For Policy Changes He Believes Would Address Addiction and Crime Rates",
-      "link": "https://vocm.com/2026/04/16/296797/",
-      "snippet": "A social worker is advocating for policy changes for physicians and pharmacists that he believes could help reduce addiction and crime rates, but fear...",
-      "pub": "Thu, 16 Apr 2026 15:45:35 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/10/pill-container-pills-mental-illness-drugs-capsule.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "DFO Releases Food Fishery Survey; Majority of Respondents Want Dates Extended to Full Weeks During Summer",
-      "link": "https://vocm.com/2026/04/16/296824/",
-      "snippet": "The federal government has released the results of its survey on the recreational cod fishery off Newfoundland and Labrador. The highest percentage of...",
-      "pub": "Thu, 16 Apr 2026 15:33:21 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/08/cod-fish-fillet-cleaning-fish-jigging-fishery-3.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Israel and Lebanon agree 10-day ceasefire, Trump says - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2T0l3STJWbjRqT3ZfSWF4ZDZ6TjJETFI5S0U2LWdjTU1JSGcwZFl0OVZ2QkM2WEhYdXJ2cEZHaHhpQVg3OE5YUnFDWDdQZ3VMWElKd3A0cHMyQQ?oc=5",
@@ -76,50 +76,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Pope lashes out at foreigners who exploit Africa - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLSHdNTkdPSXktN0Mzbjl2bDRyb0Eyemo3a1JGUHZVemp2SWxrdFZmekQyYllWd2t0TDdJc2hEc3UxNGc5WHhYc0ZDNjBkOXM0NHFwU180cWtmZw?oc=5",
-      "snippet": "Pope lashes out at foreigners who exploit Africa &nbsp;&nbsp; BBC Pope criticises 'tyrants' who spend billions on wars, days after Trump spat &nbsp;&nbsp; BBC Is it normal for the ",
-      "pub": "Thu, 16 Apr 2026 16:59:38 GMT",
+      "title": "Pope Leo XIV slams 'tyrants' ransacking world on high-security visit to Cameroon - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVlU0aUVxbTY3S0hVa2JlalJaQlpVOTFHV2ZvMGV6LXI2M1ZmMThGaktiamUwNlpUMHIyNVhmY1dTMlY2N1RPS1JTeFlVRFdMbGNsWTNXbjlvYWI2a1pWZUV0MmthVW1jckZZTHAyUXhZdVc1SnJXRDhEejhrQTF5YjdYRGx4Y2hjMVJEcThHbmZCcVAzUnQwbVp3MkVMUkQwSXdGdmhEZGN0VU9KR1EycmFaclFZZFgzYm5GMkg4WGNLdw?oc=5",
+      "snippet": "Pope Leo XIV slams 'tyrants' ransacking world on high-security visit to Cameroon &nbsp;&nbsp; Euronews.com ‘Popesplaining’ Vance out of depth in row over whether Iran is a just war",
+      "pub": "Thu, 16 Apr 2026 17:24:42 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump’s Hormuz Blockade Has Been Planned For Years - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRExwMUpLNlhDS0cyaTlGNEtQbG5LbUxtdkk5QlZMUWhLSWh3UVNHVWkzVGhDdmdwa1dvM1hUYzVDYTg2LUFOcTVjS0FLQ2p5WmZjS05RaXJVdFM0OEpwcjhNckVvMEJrQVNZUVdEM2dfdXBlcV9Ca0g2ejduanA3NU0wS1ZqelJZNWFrd28tamp3MHdLY3dyMUpBYWdhTmdPMW1V?oc=5",
+      "snippet": "Trump’s Hormuz Blockade Has Been Planned For Years &nbsp;&nbsp; Forbes Duelling blockades test whether U.S. or Iran can better withstand the economic pain &nbsp;&nbsp; CBC Opinion:",
+      "pub": "Wed, 15 Apr 2026 13:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Trump says war in Iran is going 'swimmingly' and 'should be ending pretty soon' - CNBC",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6OHM3WlBOc2FpRlJMNzFsWlF6UDZaYm05dTVkQ0haRGxvdDhLTFU0c3pLZW5FRjNaZEtwQmlLend0cW90M2IwU2xKdHlIcHZVTzNSMlpMWDQ2MkZJcnJ5OGdnd0ZwTGViYTlkdlVkMVI4bjFfeUdsTdIBfkFVX3lxTE94X0Q4SjlyX01BVW82OEMtZmxfdGZKSDZ5blUtRjRxUUIzenk4Y3RmR0o1TTNZcmhZaUtmYmFqUUMxTTJYSXNCMmRGMmdRQmxHM0QwdzJzR00xRWlNZmlVNDlCUTVFdzFOQ3FEYXZ2cDY1VXZOMlJCMGVlSzNFdw?oc=5",
-      "snippet": "Trump says war in Iran is going 'swimmingly' and 'should be ending pretty soon' &nbsp;&nbsp; CNBC ‘More compromises’: Trump wants an end to Iran war &nbsp;&nbsp; Politico Trump Say",
+      "snippet": "Trump says war in Iran is going 'swimmingly' and 'should be ending pretty soon' &nbsp;&nbsp; CNBC ‘More compromises’: Trump wants an end to Iran war &nbsp;&nbsp; Politico Trump Opt",
       "pub": "Fri, 17 Apr 2026 00:20:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Alberta to redraw electoral map, expand legislature to 91 seats in fast-tracked review - Edmonton Journal",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdDdPdnFWd0xsdUFzQ05JN1NYQ0RqaGRXcU5jR1dSNEU3bDRWVm9lcVRhb0FLczZFeU5XZmMwdFB4Uy03Y1BWaVU3cGhiNzJJcUN3X0lZZ21VcmwtS0N0WmQwN0ZVRm1yVmZjSk13V1pOSXZ6YUhpT1lSVDJHVGlQTk5Na0tHU0dv?oc=5",
-      "snippet": "Alberta to redraw electoral map, expand legislature to 91 seats in fast-tracked review &nbsp;&nbsp; Edmonton Journal View Full Coverage on Google News",
-      "pub": "Thu, 16 Apr 2026 20:23:08 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "St-Jérôme, Que., closes bridge, distributes sandbags as water levels rise - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNk4yUTEyRXhxV0JMbWYtZ1NtRXBnV21rSnIwWXZmU1FoWGc5Qml5Z3lISEE3ZnZ2Q1BQWFZqZDR2OUZPb2FVS3lvU3AtSThxT2FSVHRHdzlXN0MwN09mSWNqTi0yZW9SMW5uOHJONkJPQUxMWDdiV3l1NkNIcWxRUUxoSXY2OWRFY0Y0OVRxbnpwdXN3XzhTSTV0b3NxeVVHbG9GSFNxNm5MNlNYSmxZ?oc=5",
-      "snippet": "St-Jérôme, Que., closes bridge, distributes sandbags as water levels rise &nbsp;&nbsp; CTV News Quebec municipalities preparing for flooding, Montreal reaches highest alert level &",
-      "pub": "Thu, 16 Apr 2026 16:50:17 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Judge halts Trump’s ballroom construction, permits bunker work to proceed - Global News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUGxHLTJabE9SVHZQUmMxeWl5RXdaTVd1c2pTZ2R3SEJvWlFLMTVUUG8wbkdaNzNab0pjcDhidHRnRVBIc0pMUU51T3g5T01LZ1pIOUsxUmt3UWhQT29VdHFjeUlVLUZsS2NOLXFLTHRoNGwxSk9FSUg3RUdwV1hkTUd3OThXWENnWms5U1FITnRWaTZD?oc=5",
-      "snippet": "Judge halts Trump’s ballroom construction, permits bunker work to proceed &nbsp;&nbsp; Global News Judge halts aboveground construction of Trump's White House ballroom &nbsp;&nbsp;",
-      "pub": "Thu, 16 Apr 2026 19:56:32 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Spring rain key to wildfire outlook: BCWS - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHpCc3d3UV9JQVFicDdIbTRzS0dla2kyeGRkS003eks5VEFyaHoxbkt3YnNOaXRnR1B6RHFDeVgzQVg4UmpLdHgwVVdvMDRJM3lHOE4wd0h0RC0tRmFnd29nMkFLQktya2xVQ1VrbExKREItZ2VkeWtvYVlFdHVFTm1NS0JMUFE?oc=5",
-      "snippet": "Spring rain key to wildfire outlook: BCWS &nbsp;&nbsp; Castanet NWT in line for late start to boreal fire season, outlook suggests &nbsp;&nbsp; Cabin Radio Wet and mild winter is ‘",
-      "pub": "Thu, 16 Apr 2026 23:06:00 GMT",
       "image": ""
     },
     {
@@ -128,6 +104,30 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc3pGY3NiX1dBNkdTRERHUk14czU5UTJzVFFUTEtJdDFsU1dQVXhuVWV5T2YzWktpR0t4M0l3cWt4azFNc1RtY1k3a0hhRjQ2UDF5QWRNdHhKdDZfX1Ffam9YdkVPTDRDYUgwajNmMEU3R0xDV3IxVGJ4Wi1PbldseTV2eDh5MUxVUm1TQmg0LUUyTUNWQ0YxdUJR?oc=5",
       "snippet": "RCMP warn against non-essential travel as snowstorm hammers southern Alberta &nbsp;&nbsp; Global News Environment Canada lifts snowfall warning as city recovers from latest wintry ",
       "pub": "Thu, 16 Apr 2026 19:13:59 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Ottawa River flood risk rises as city closes some roads - Ottawa Citizen",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcGtEcW05Unk0SWpXVUNGN19yS2VFQ3RFamhUekpMaXBhTmxSUlpRUDBkamdqVUpYbHlCM2RqT2F3ejBrWlI0Yml0d29RR3V1OVRWMURpdFhuNmhlbEpEQlBHVTl1dlgzZkJHbTF3NDRkUWE3cTFiTWpJMmo3bjFLeHdESlFlUGt2WWVnMFczMA?oc=5",
+      "snippet": "Ottawa River flood risk rises as city closes some roads &nbsp;&nbsp; Ottawa Citizen Major Ottawa River flooding can't be ruled out, board says &nbsp;&nbsp; CBC She felt love in Can",
+      "pub": "Thu, 16 Apr 2026 19:06:21 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Spring rain key to wildfire outlook: BCWS - Castanet",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHpCc3d3UV9JQVFicDdIbTRzS0dla2kyeGRkS003eks5VEFyaHoxbkt3YnNOaXRnR1B6RHFDeVgzQVg4UmpLdHgwVVdvMDRJM3lHOE4wd0h0RC0tRmFnd29nMkFLQktya2xVQ1VrbExKREItZ2VkeWtvYVlFdHVFTm1NS0JMUFE?oc=5",
+      "snippet": "Spring rain key to wildfire outlook: BCWS &nbsp;&nbsp; Castanet Warm winter, ongoing droughts could elevate fire risk this season, says B.C. Wildfire Service &nbsp;&nbsp; CBC Wet a",
+      "pub": "Thu, 16 Apr 2026 23:06:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Higher-than-normal freshet swelling rivers across Greater Sudbury region - Sudbury News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZzZEMFRSVEUxVWZJYm1jQjF5bmtjNG9IcFkyYlAyaHM4bHVPQmx0V0ttdThDeC1zLVFBNmZ5eWJjQktDcUVwLUFNRmxqUl9yM3BPTkJVWmRscHdCa2N5MWoxOW9LamNNMS03SVdRdDd5VjE1ZzZQQmFvUEpjci0wZFhXWlJ2bWg2RGVGZFEtek9NN1RtVlRUYklxYmpnWEVNcjRYUUlrYkhNTUhnSVlZV0RKekc1U0U?oc=5",
+      "snippet": "Higher-than-normal freshet swelling rivers across Greater Sudbury region &nbsp;&nbsp; Sudbury News Sudbury, North Bay grapple with rising water, flooding as warnings, watches conti",
+      "pub": "Thu, 16 Apr 2026 18:00:00 GMT",
       "image": ""
     }
   ],
