@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-04-18T08:39:31.712911+00:00",
+  "generated_at": "2026-04-18T09:39:51.784870+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Vehicle Access Restricted on Forest Roads Starting Tuesday",
+      "link": "https://vocm.com/2026/04/18/296972/",
+      "snippet": "The spring thaw means that woods roads in much of central Newfoundland will be closed to vehicle traffic starting next week. The temporary closures af...",
+      "pub": "Sat, 18 Apr 2026 09:10:49 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/09/road-closed-road-work-construction-stock.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "New Report Highlights Shrinking Business Landscape in the Province",
+      "link": "https://vocm.com/2026/04/18/296969/",
+      "snippet": "The Canadian Federation of Independent Business is raising the alarm about data it's compiled showing an \"entrepreneurial drought\" in the country, and...",
+      "pub": "Sat, 18 Apr 2026 09:03:56 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/11/former-st-johns-city-councilor-jonathan-galgay-stephenville-cao.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Gas, Diesel, and Furnace Oil See Price Increase",
+      "link": "https://vocm.com/2026/04/18/296963/",
+      "snippet": "Most types of fuel cost more today than yesterday. Gas across the board is up by about 2 1/2 cents per litre as is diesel on the island. There was lit...",
+      "pub": "Sat, 18 Apr 2026 08:49:34 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/gas-gasoline-fuel-price-pump-pub-gas-station-3.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Municipal Administrators Learn from Each Other in Gander",
@@ -43,34 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/gas-gasoline-fuel-price-pump-pub-gas-station.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Charges Laid After Suspicious Activity at Fogo Island Waste Disposal Site",
-      "link": "https://vocm.com/2026/04/17/charges-laid-after-suspicious-activity-at-fogo-island-waste-disposal-site/",
-      "snippet": "Two people were arrested and one of them charged following a report of suspicious activity at the waste disposal site on Fogo Island. RCMP were called...",
-      "pub": "Fri, 17 Apr 2026 16:13:34 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/05/rcmp-car-vehicle-logo-stock.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "No Hints, but Premier ‘Committed’ to Blue Book Promises in Upcoming Budget",
-      "link": "https://vocm.com/2026/04/17/no-hints-but-premier-committed-to-blue-blue-promises-in-upcoming-budget/",
-      "snippet": "He's not tipping his hand, but Premier Tony Wakeham says government remains committed to meeting the promises made in the PC Blue Book as budget prepa...",
-      "pub": "Fri, 17 Apr 2026 16:06:00 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/premier-tony-wakeham-march-30-2026.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Cocaine and Cash Seized in Sheshatshiu Traffic Stop",
-      "link": "https://vocm.com/2026/04/17/cocaine-and-cash-seized-in-sheshatshiu-traffic-stop/",
-      "snippet": "A woman is facing drug trafficking charges after a traffic stop near Sheshatshiu yesterday. The vehicle was pulled over along North West River Road as...",
-      "pub": "Fri, 17 Apr 2026 15:58:30 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/labrador-drug-bust.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Canadian, US stocks rally and oil falls around 9% after Iran says Strait of Hormuz is open - CBC",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbm9UYzB1YzVMRHFtNEI3REtwRlg1LVBrWHpCbGlpc2t4N3J3LVRwZUtkUVRQV21QOHREaTNvU1dTdzJhQnYxYTFFT0ZXRzN3T25ZelQteHpQVlhEUnZlRlJ2RW9teDVtcEZhcFVIUlpPc3k2WVQ2VFRxSXRiU28yLTl3?oc=5",
-      "snippet": "Canadian, US stocks rally and oil falls around 9% after Iran says Strait of Hormuz is open &nbsp;&nbsp; CBC Iran war live: Tehran says US blockade of ports must end as strait opens",
+      "snippet": "Canadian, US stocks rally and oil falls around 9% after Iran says Strait of Hormuz is open &nbsp;&nbsp; CBC Iran war live: Hormuz Strait shut down again over US ‘piracy’, says Tehr",
       "pub": "Fri, 17 Apr 2026 20:44:51 GMT",
       "image": ""
     },
@@ -86,16 +86,8 @@
       "source": "Google News Canada",
       "title": "Trump says he may go to Islamabad if Iran deal reached - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdzIzTU5vTTBXZ1JfQU9ZVTlleGxaZHZNQXd1WWp1LUFIZHJtTFN5VmlGOEVOYV8zcmNYQnBZS045Sy02dmlybS1uUkFWSjNhU2ZsWk1qUnZlRXVUYnZMSVFWRVNHUFVLMW9Ic1l6S01wTjlLN25GOHdWZXNES2RrT20xaXB3cTZ5NWN6dWk5cVR3OUhUOVd0NjBIOV8wbm1nU3N2S1ZXVHpic2Z6QnlMM012U1E?oc=5",
-      "snippet": "Trump says he may go to Islamabad if Iran deal reached &nbsp;&nbsp; Reuters Live updates: Trump says he may not extend ceasefire with Iran if no deal reached &nbsp;&nbsp; CNN Trump",
+      "snippet": "Trump says he may go to Islamabad if Iran deal reached &nbsp;&nbsp; Reuters Day 49 of Middle East conflict — Iran declares Strait of Hormuz open &nbsp;&nbsp; CNN Trump Sees Iran De",
       "pub": "Thu, 16 Apr 2026 18:43:48 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Ottawa wants LNG to be shipped from Port of Churchill by 2030, Manitoba Premier says - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3ZVOTRqcy1aUDZiY3RoaGlZNlBvaHNJZWRzMThBREQzNzZ2Wk9vMTc5ZUk3N3ZPM0NTYW1sOXBybXMzTVBURG0xQmVEQ3hfNnNXbGU4TmNXalBUdFp6ZU1aWGlpaXV5NFZlNWN0VXN3RlJmWTdkdWJqTmZ3TUdhdC1UZUxabV9MV1BHS002c0psMmtvMXExVTJPcmp2TTQ?oc=5",
-      "snippet": "Ottawa wants LNG to be shipped from Port of Churchill by 2030, Manitoba Premier says &nbsp;&nbsp; The Globe and Mail Researchers aim to map trade route through ice and enable year-",
-      "pub": "Fri, 17 Apr 2026 00:26:03 GMT",
       "image": ""
     },
     {
@@ -108,10 +100,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "'Enough Is Enough': Trump Says Ally Israel Prohibited From Bombing Lebanon Any Longer - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb0MtUUN1dlVWcjVmNWtWXzhvNWRaMGJYVDZJLTE3RUhHdGlkZzdNWGhRQ1dTbk9qZzJHVkdYX0tvZkJWemRwbXRHOVBQTzlRU0d5cFZhSGhPeG9MQjFSZzFKWDlJZjhDeUNBMVNGOTBSMHJLMnJUdS1LOERodXB3WFNfcTBkUENvRTJtc2M5SThuUDBHVzNjMDRFWnlfVXJJVjR4a9IBrAFBVV95cUxOQm83S1pqTkk3eTRGSTFWSlVKdG9nTWlTb1Q3VWRJamxoOTBYVUw2RHVocVpqWTJoVHJIWGJfeDV6ckhMNWRHWmhFVWpWNUJna2JFTlhhMkxXOVlPby1GWXFxWnZZeWVHSnJfVVJ3aDBhWThHcjFzSUkteUpUanctN2tuVXE1dndsaVgyQmtod241VUZFUG5ITFhNZXVVUVU5V3l3Zzl2R3Z5Rnli?oc=5",
-      "snippet": "'Enough Is Enough': Trump Says Ally Israel Prohibited From Bombing Lebanon Any Longer &nbsp;&nbsp; NDTV Profit Lebanon president says country is no longer a pawn amid Israel ceasef",
-      "pub": "Fri, 17 Apr 2026 14:24:58 GMT",
+      "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nYXBsMUMwNUl2cUIwcWE1MFlNWnNKRmdHdWc5WmZrMVcxVU5Ub0xscEdUX0Y1MHFTdG5FUkM4akU2dHl5SzZCTjBETEpGcFJEd3RVWi1jbjhjZw?oc=5",
+      "snippet": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain &nbsp;&nbsp; BBC Lebanon president says country is no longer a pawn amid Israel ceasefire &nbsp;&nbsp",
+      "pub": "Fri, 17 Apr 2026 14:31:51 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Flooded community near North Bay declares state of emergency - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXBVRkJwZzFWRmRvbkRTVnpKM1VuelZIV2tMSjBWa0ZLTFdSMG1fXzRzcVNBVHc1aVlyWkpLMjREQUVPdzZZNzFmcjBIRzhaMXV4Y2U4dHM1OWpmVjVvMmFSQnZjdExXVHpOem00TEhtcXAwWHNxX2NQc280UlNUQTBKcVhfZnpQcUxZbWhOR0tkSFEtblA0OVZQZHlNTWh1akFwUXJtdUJ1ekVKVVE?oc=5",
+      "snippet": "Flooded community near North Bay declares state of emergency &nbsp;&nbsp; CTV News Heavy rainfall warnings in effect as communities grapple with flooding &nbsp;&nbsp; CTV News Chis",
+      "pub": "Thu, 16 Apr 2026 18:16:38 GMT",
       "image": ""
     },
     {
