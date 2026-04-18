@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-04-18T11:57:35.036789+00:00",
+  "generated_at": "2026-04-18T12:59:15.098247+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Almanac Predicts Cool, Wet Summer for Island",
+      "link": "https://vocm.com/2026/04/18/296983/",
+      "snippet": "The big question for many this year, is when will Newfoundlanders get a welcome respite from what feels like a never-ending winter. It was the snowies...",
+      "pub": "Sat, 18 Apr 2026 12:30:57 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/11/Farm-farmer-field-tractor-agriculture.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Iran Re-imposes Strict Control on Strait of Hormuz Amid U.S. Blockade",
@@ -16,7 +24,7 @@
       "link": "https://vocm.com/2026/04/18/296967/",
       "snippet": "The Portugal Cove-St. Phillips Lions Club has made a special donation to St. Pat's Mercy Home in memory of one of their members. The club has donated ...",
       "pub": "Sat, 18 Apr 2026 11:54:10 +0000",
-      "image": ""
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/02/st-patricks-mercy-home.jpg"
     },
     {
       "source": "VOCM",
@@ -59,43 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/09/town-hall-stock.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Susan Sullivan to Chair Gander Airport Board",
-      "link": "https://vocm.com/2026/04/17/former-cabinet-minister-susan-sullivan-to-chair-gander-international-airport-authority-board-of-directors/",
-      "snippet": "A former cabinet minister who served under Danny Williams and Kathy Dunderdale has been elected as the new chair of the Gander International Airport A...",
-      "pub": "Fri, 17 Apr 2026 18:59:13 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/susan-sullivan.jpg"
+      "source": "Google News Canada",
+      "title": "Canadian, US stocks rally and oil falls around 9% after Iran says Strait of Hormuz is open - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbm9UYzB1YzVMRHFtNEI3REtwRlg1LVBrWHpCbGlpc2t4N3J3LVRwZUtkUVRQV21QOHREaTNvU1dTdzJhQnYxYTFFT0ZXRzN3T25ZelQteHpQVlhEUnZlRlJ2RW9teDVtcEZhcFVIUlpPc3k2WVQ2VFRxSXRiU28yLTl3?oc=5",
+      "snippet": "Canadian, US stocks rally and oil falls around 9% after Iran says Strait of Hormuz is open &nbsp;&nbsp; CBC Iran reimposes restrictions on Strait of Hormuz, U.S. continues blockade",
+      "pub": "Fri, 17 Apr 2026 20:44:51 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump says blockade on Iran ‘WILL REMAIN IN FULL FORCE,’ despite Strait of Hormuz reopening - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb0NHM0pvcTlhVGxPeVNaRzc5dXlzQlItOE8wd3gyejdVc3NXa05ISkJDaW5pcVZEMTd1S3o4dThLLVJwTDFHX2NwSzhsSkVBaEl4b2I3c20zeWlBdzFhZHBCZUw5ZDl6UDNpazZjRWJ5TS1yLUJ3Z0hpR1JhY3A0R2taV0k0WElaMklJSXZ2d05FZXhFUWU5bkJPWmhHWXg3d0lXZVQ3Q2ZrejdjT0Q2eU1Zc0RjVk42aEk5blJOUEM3T1ZKN0Jrd0F2eloycVk?oc=5",
-      "snippet": "Trump says blockade on Iran ‘WILL REMAIN IN FULL FORCE,’ despite Strait of Hormuz reopening &nbsp;&nbsp; CTV News As oil prices plunge below $91 after weeks, a new Hormuz crisis em",
-      "pub": "Sat, 18 Apr 2026 01:44:00 GMT",
+      "title": "Capital Dispatch: Here’s how PM Carney plans to use his new majority in Parliament - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM0hXZ25LbTFQbjE5YnNIMjFiNUdKUmt1Z1ZUeDg1b0ROSkNNWXA1X3VDWGFhMW82UjFGRkVJYU5GMDJtQnktQzdYQVpkZ2loU1NHdzFpMmNZdUt2eHZYMlY3NDZTZjRNR3JhdFRHTVYtcFY3eGhNZC00VkUteU9hRnJlRy11MzRLQjktZTYxenExcnRSQ3U2ajAtNGpLdjluMkFsWXVVcGVlVUZEQ3lhaEJTak0taW9yMDk3dXh3?oc=5",
+      "snippet": "Capital Dispatch: Here’s how PM Carney plans to use his new majority in Parliament &nbsp;&nbsp; CTV News The end of the ‘if only’ Prime Minister &nbsp;&nbsp; The Globe and Mail Alt",
+      "pub": "Sat, 18 Apr 2026 09:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nYXBsMUMwNUl2cUIwcWE1MFlNWnNKRmdHdWc5WmZrMVcxVU5Ub0xscEdUX0Y1MHFTdG5FUkM4akU2dHl5SzZCTjBETEpGcFJEd3RVWi1jbjhjZw?oc=5",
-      "snippet": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain &nbsp;&nbsp; BBC Lebanon president says country is no longer a pawn amid Israel ceasefire &nbsp;&nbsp",
+      "snippet": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain &nbsp;&nbsp; BBC Displaced Lebanese return as Israeli shelling violates ceasefire in south &nbsp;&nbs",
       "pub": "Fri, 17 Apr 2026 14:31:51 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Carney calls for resumption of shipping during Strait of Hormuz talks - CBC",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0s5S3hKbDlwOHZkTi1yR0pKNnlHWjdITGwyZ1pmeTRJTUNFN2xDRDFTQU10cVJGai10SHhoVVBGR1FDaFNZcTJVdlBwNHY4ZjU2NXd2eThTVXg5Y0lrZW1Da3VhYnhKZ1V4bkQ3TTFEUHB3M2JqTFFKQld2TmVEempiWjRKSzdGQ0JuMWtBb3lENW9DVE5wZ25PbVBiZ0h4TDUyVnRrbVQ4c1hmYUdFUnZn?oc=5",
-      "snippet": "Carney calls for resumption of shipping during Strait of Hormuz talks &nbsp;&nbsp; CBC View Full Coverage on Google News",
-      "pub": "Fri, 17 Apr 2026 16:55:27 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Carney secured a majority in Parliament. Conservatives say voters were betrayed. - Politico",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORXRfVG9BVk5LeVVrUHh0ZUhMLUYteXFDZWZDbWE4Q0pwUExVNlJZT0FfTW1jNHcxVEJGNHhmdDdMMGZEbndlck9fbkgwX3R1RElJT0ZXdFhSd21oRHJBTHlJYnhxWmh3cTV6UHVIVS1OU0dfenRJWnlPS3hHeEN4TE9GV3ZVRFliV0dPUmEzWVBDZDFuVFFHajBIS1VTenVmR0s1TGpIVF9oaS01ajNZaU56d05Nd2hsbFBaQUtIZU9tYVRmM3o4?oc=5",
-      "snippet": "Carney secured a majority in Parliament. Conservatives say voters were betrayed. &nbsp;&nbsp; Politico Capital Dispatch: Here’s how PM Carney plans to use his new majority in Parli",
-      "pub": "Fri, 17 Apr 2026 09:55:00 GMT",
       "image": ""
     },
     {
@@ -108,10 +100,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Dean Penney pledges '150% honesty' to fake crime boss in interview played in court - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdWltQUNHanc0Tk9WNDRLUHVkSVltVmVjOVFWeXZWdzNabm1uQVdzLXE0TldfVTZyR2hPTm9GYVphY3JBVy1oRmh1T0dMM0JXRFpvWmtWVTk5YWdocGhPbm5FUThGcFliTmg0QWVqS29FX0sxQ01ITlcwZ29JZVhMYWtxWHo1RE5ZXzMyTnUySWdCREE?oc=5",
-      "snippet": "Dean Penney pledges '150% honesty' to fake crime boss in interview played in court &nbsp;&nbsp; CBC 'She'll never be seen': Dean Penney tells involvement in estranged wife's death ",
-      "pub": "Thu, 16 Apr 2026 22:51:01 GMT",
+      "title": "Flooded community near North Bay declares state of emergency - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXBVRkJwZzFWRmRvbkRTVnpKM1VuelZIV2tMSjBWa0ZLTFdSMG1fXzRzcVNBVHc1aVlyWkpLMjREQUVPdzZZNzFmcjBIRzhaMXV4Y2U4dHM1OWpmVjVvMmFSQnZjdExXVHpOem00TEhtcXAwWHNxX2NQc280UlNUQTBKcVhfZnpQcUxZbWhOR0tkSFEtblA0OVZQZHlNTWh1akFwUXJtdUJ1ekVKVVE?oc=5",
+      "snippet": "Flooded community near North Bay declares state of emergency &nbsp;&nbsp; CTV News Flood warning expanded as waters continue to rise throughout Greater Sudbury &nbsp;&nbsp; Sudbury",
+      "pub": "Thu, 16 Apr 2026 18:16:38 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Flooding expected to worsen in coming days in Central Ontario - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWI0NUUxa1JFaGZfMjluczByVEZjWlo5V1NRZWVkWVRsRWhDMGVQOW9sa01uTnZxaG9mY2pfSGdBOWRjYlhGbk5aRVEtMjkyMzZXTk5WR0E2cWRLVzRrOFFoWUgzMl9sX3IwNjRCcEEwdW5HS3UwRk1GNWpSeW9heGVVX0QtazJtaFQzVXRrTkhkd011LVc1WnAwXzA0Q1pyb1E?oc=5",
+      "snippet": "Flooding expected to worsen in coming days in Central Ontario &nbsp;&nbsp; CTV News IN PHOTOS | Flooding swamps parts of Ontario's cottage country &nbsp;&nbsp; CBC Rising waters in",
+      "pub": "Fri, 17 Apr 2026 21:01:46 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Colchester residents fed up with RCMP training during mass shooting anniversary - CBC",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFIzWTRVWVdlMml5QzY3bS03WGpwTjV5eVhFanZmb0E4dHhGTFJlaE1qTHlfcTZNMWFyY3lTcTlyaHk3Qk1BWEgzZWxSbHVrZm5DbEItQW9QbUpaak81R2hJeUtzamZORWttWV92cFhIQzZ0ZmNMN1lkV3BRNFFOUFhmSTdOZnA4aFUzTjVxa2VKbjMtVHdsc2JONDdELXJr?oc=5",
+      "snippet": "Colchester residents fed up with RCMP training during mass shooting anniversary &nbsp;&nbsp; CBC RCMP apologizes for planning N.S. training exercise on anniversary of mass shooting",
+      "pub": "Fri, 17 Apr 2026 19:36:50 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfQUpoWHRkMjlKLUVMWldrNnZMU2JNOERiY1hHME5sR2xXLVVJWklsWTRKYThQU2luUmdDV2lFS0xOU0VvNHNNeWJ4OTNXWUpUV3FXLVZrLWFLanBMbFdPcXRMeEczNTVFYUhsMXJMVUlOVzkweUV0cQ?oc=5",
       "snippet": "Baby & toddler dead in rural Brazeau County house fire &nbsp;&nbsp; Global News Baby and toddler killed in central Alberta house fire &nbsp;&nbsp; CTV News Infant dead, toddler mis",
       "pub": "Fri, 17 Apr 2026 21:36:29 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Flood warning expanded as waters continue to rise throughout Greater Sudbury - Sudbury News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazNfb2NwMFd6QXMyS0ZMNG04X2xvZHFpUHlUV2l6TDI0Slk1RUxZQmlRY0puNlBJVFNWeTlDUTlfUVh2blg2MjFIbmdlbzdHb1JDZWlPZjJ5LU1pUzVxUDRVN0NhMHQ5Z1ZSQ1ppX0d1b0RhZTQ4Q3ZkWTdtQnJKUWhfQUFPRHYyN3d3RzNCOFNqeHB0NzcxYQ?oc=5",
-      "snippet": "Flood warning expanded as waters continue to rise throughout Greater Sudbury &nbsp;&nbsp; Sudbury News Chisholm Township declares state of emergency due to flooding &nbsp;&nbsp; Ba",
-      "pub": "Fri, 17 Apr 2026 22:33:00 GMT",
       "image": ""
     }
   ],
