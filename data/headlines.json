@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-04-19T10:05:12.679703+00:00",
+  "generated_at": "2026-04-19T11:04:50.461080+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Province Seeks to Recognize Municipal Leaders with Bragg Award",
+      "link": "https://vocm.com/2026/04/19/297012/",
+      "snippet": "Nominations are now open for the 2026 Derrick Bragg Leadership Award. Bragg, a former cabinet minister under Andrew Furey, served as the town clerk in...",
+      "pub": "Sun, 19 Apr 2026 10:05:21 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/award.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Trump Signs Psychedelic Research Order With Joe Rogan at White House",
@@ -59,14 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/finance-minister-craig-pardy.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Gros Morne Aims to Attract In-Province Visitors This Season",
-      "link": "https://vocm.com/2026/04/18/296981/",
-      "snippet": "A marketing expert says operators in and around Gros Morne National Park are hoping to attract more visitors from within the province as travelers fee...",
-      "pub": "Sat, 18 Apr 2026 17:26:34 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/11/gros-morne-national-park-01-submitted-by-parks-canada-crop.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Public grocery stores are having a moment. Can they really make food more affordable? - CBC",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnWWJ5VnpUM2oxZHp4RzlIYmk3bGw5NlFuVVU1d3Yxd2ROQnR6M3IzNnFrWktTM1M2OHlnMkJsdUNJdVRlV0h2THhsSHFFMkhMbXZ1b3hCdk5FNzdKYWMtR1h5ay01Q0ZiRWl3dGpIOU5mVXBsc3c?oc=5",
@@ -78,7 +78,7 @@
       "source": "Google News Canada",
       "title": "Iran fully closes Strait of Hormuz over US blockade and fires on ships - North Shore News",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNy1fVlUxMGZnOUkwT3JpTF9NZzBFdWRlZzM3b0Rmbjk0azVSNWtnMF92b0xTaU84cC1KVEpySkNnMGhkaGZURVlaT0Z6YzFHWTdabmNqQVJUemoxX0VvdFhqdUZpbzFaSXBhQmI1OThTa0ViRU5ueWh2d2Y0OXRsb3dZU2x2QlR1YlFMQVNjMHk5WHhnMlZrb2dKVWxDNjRRQVBkRHNaMnl4ZFhvSGZ2NUtSU2lEczFpT1hxcg?oc=5",
-      "snippet": "Iran fully closes Strait of Hormuz over US blockade and fires on ships &nbsp;&nbsp; North Shore News Iran war live: Tehran says no date set for US talks, Hormuz Strait closed &nbsp",
+      "snippet": "Iran fully closes Strait of Hormuz over US blockade and fires on ships &nbsp;&nbsp; North Shore News Iran closes strait of Hormuz again ‘until US lifts blockade’ &nbsp;&nbsp; The G",
       "pub": "Sat, 18 Apr 2026 20:56:25 GMT",
       "image": ""
     },
@@ -100,14 +100,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "French peacekeeper killed in southern Lebanon - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwSWN2VWpoam5uOHBXMmMyNENOcmoxQ1JDd1Z5b0ZTdnBMQlp4R3BuUjltNGZCUHZMYWFtSXlUcEpEdXpieTBrRzhmbW9SdzRnQWh6WW9ueHdyUQ?oc=5",
-      "snippet": "French peacekeeper killed in southern Lebanon &nbsp;&nbsp; BBC French soldier serving with UNIFIL killed in Lebanon attack &nbsp;&nbsp; Al Jazeera Macron says 1 French soldier was ",
-      "pub": "Sun, 19 Apr 2026 03:14:45 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Michael J. Fox Theatre in Burnaby to close to community bookings after June - Global News",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1lwMnJKYndRYnBoZkJwVXptY25aSVljV0ZNM1NjQUxvR2NtVmphUE1sZGdIX1dCTUc2TVItY2ZoTm5ZZmJZVUVxM2JTNFJTYzJTTnZZN1dUSW5ycVdMV0VOYThfeWQyN1FGdFA5UHFleXVQWS1GcGtfOEw1OFhBTG8yR2N2cnB4aWN6UWYwTVl5aG9yZ09xU2VIM2g?oc=5",
       "snippet": "Michael J. Fox Theatre in Burnaby to close to community bookings after June &nbsp;&nbsp; Global News Burnaby's Michael J. Fox Theatre closed to public from July 1 &nbsp;&nbsp; CBC ",
@@ -116,9 +108,17 @@
     },
     {
       "source": "Google News Canada",
+      "title": "The end of the ‘if only’ Prime Minister - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMjNvYlF0Qm5XdzFnVXhYY3RlNUdmMHF4YmhiVm9EbjdPd1UxY1lyR1JmYTQxNmZ6VlMwVGdsUEhlb0d0bXpmUkZvM0tGRzI3TVZTTUJzMnFJemYyR0hiNk1QSlRDNld0ZlQtS0lRY0lOWEFfVEE1dEdfaWJ4bzdZQjRCTVdiTlAwRmpTQS1uRXhENDlRcUVYVDhvOUU3QQ?oc=5",
+      "snippet": "The end of the ‘if only’ Prime Minister &nbsp;&nbsp; The Globe and Mail Jamie Sarkonak: Why the Liberal state always wins &nbsp;&nbsp; National Post Capital Dispatch: Here’s how PM",
+      "pub": "Sat, 18 Apr 2026 10:45:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Peguis, Fisher River declare state of emergency with flood risk 'a certainty' - CBC",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTS1WMGVEWHY5dWdXMmx3aE4zcExMTVc4NEcyUW14OHVodERRNVM0RTVtcHdwU2lHWWppaGtkLUlmbm5kM2wtNTh3cURlMFdVY1JEZ0J5R2JtaEZNS2JlUDdvRzlLY1ljNExMaUNBaEw4emQ4bDVWNVZDWVBRMnMzbzBkMzIzcWFfYnFlNDZra0d4M1YwLVo1N0p3?oc=5",
-      "snippet": "Peguis, Fisher River declare state of emergency with flood risk 'a certainty' &nbsp;&nbsp; CBC Peguis First Nation declares state of emergency, says evacuations will be required &n",
+      "snippet": "Peguis, Fisher River declare state of emergency with flood risk 'a certainty' &nbsp;&nbsp; CBC Most homes at risk of flooding on Manitoba First Nation still need protection: Kinew ",
       "pub": "Sat, 18 Apr 2026 21:31:00 GMT",
       "image": ""
     },
