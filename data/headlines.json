@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-04-22T19:01:04.498398+00:00",
+  "generated_at": "2026-04-22T20:28:16.597513+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Government Encouraging NL Hydro to Use Existing Credit to Mitigate Any Possible Power Rate Increases",
+      "link": "https://vocm.com/2026/04/22/government-encouraging-nl-hydro-to-use-existing-credit-to-mitigate-any-possible-power-rate-increases/",
+      "snippet": "Editor's Note: This story corrects a previous version which suggested that the rate increase had already been approved. The provincial government is s...",
+      "pub": "Wed, 22 Apr 2026 19:55:13 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/07/Power-Lines-Utility-Pole-Electrical-Electricity-3.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Debate Gets Heated in House of Assembly",
@@ -9,22 +17,6 @@
       "snippet": "The Speaker had to name a number of members during a heated debate in the House of Assembly this afternoon. Opposition energy critic Fred Hutton raise...",
       "pub": "Wed, 22 Apr 2026 18:53:54 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/lloyd-parrott-and-fred-hutton.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Power Outage Affecting Churchill Square Area of St. John’s",
-      "link": "https://vocm.com/2026/04/22/power-outage-affecting-churchill-square-area-of-st-johns/",
-      "snippet": "About a thousand customers in St. John's are without electricity this hour. The areas affected include Churchill Square, Elizabeth Avenue, McDonald Dr...",
-      "pub": "Wed, 22 Apr 2026 18:50:56 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/freezing-rain-branch-tree.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Province Calling on NL Hydro to Move $45-M from Rural Rate Alteration Account to Mitigate Approved 7 Percent Increase in Power Rates",
-      "link": "https://vocm.com/2026/04/22/province-calling-on-nl-hydro-to-move-45-m-from-rural-rate-alteration-account-to-mitigate-approved-7-percent-increase-in-power-rates/",
-      "snippet": "The provincial government is going to soften the blow from an increase in electricity rates this summer. The Public Utilities Board granted Newfoundla...",
-      "pub": "Wed, 22 Apr 2026 17:36:41 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/07/Power-Lines-Utility-Pole-Electrical-Electricity-3.jpg"
     },
     {
       "source": "VOCM",
@@ -67,51 +59,59 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/11/img-0483.jpeg"
     },
     {
+      "source": "VOCM",
+      "title": "UPDATE: TCH Reopened Near Appleton/Glenwood",
+      "link": "https://vocm.com/2026/04/22/297261/",
+      "snippet": "The Trans Canada Highway in the Appleton / Glenwood area has reopened after being closed in both directions for a while today. Slippery roads resulted...",
+      "pub": "Wed, 22 Apr 2026 13:59:53 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/springdale.jpg"
+    },
+    {
       "source": "Google News Canada",
-      "title": "Carney says ‘no’ to making more concessions to get to U.S. trade talks - National - Global News",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qUlVFTUM1REhENm0wZVFaT2hxdWZieUJMemhIUjEzWU5tS21xTEtaZEdid29RaGVsdmxxSmxiU2tPdXM4ZjB0Ym00SDcwTXZsUExMNkRVVUkyb2dMT1Ywdm9peTdabXNCejBoYw?oc=5",
-      "snippet": "Carney says ‘no’ to making more concessions to get to U.S. trade talks - National &nbsp;&nbsp; Global News Carney says U.S. trade talks will 'take some time,' vows Trump won't dict",
-      "pub": "Wed, 22 Apr 2026 14:16:56 GMT",
+      "title": "Trump’s team cannot ‘dictate the terms’ of CUSMA talks, Mark Carney says - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU1F3Nl80WWVyWm9qWnI2Zl94OHQxREQtbXRXM21COTNMU2ZzOEVFaG4wWHNpSjhralQ5WDZMXzEtVTBEakNib2l1WjVZRTRHWmF6RzJ4aE5CM3FNRFl4SzVRYXcySmNid20zenctczJvZFpPR0RLX2ZXR2xiZGhycU5hNUY1TE9nenJMZlJ4TUZTVzl6MjNCbzFJQWJRYmpTYTI4c1FqMjNaeHZWeUdLYTNSaVRLTUdIZUh6R1h2NmRGWWtqZEEtc2txSDVnRER4ZXJOYTVTMEs4TkdKQ2ZpMzc5VlMxZw?oc=5",
+      "snippet": "Trump’s team cannot ‘dictate the terms’ of CUSMA talks, Mark Carney says &nbsp;&nbsp; Toronto Star Carney says ‘no’ to making more concessions to get to U.S. trade talks - National",
+      "pub": "Wed, 22 Apr 2026 19:46:59 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada, U.S. trade systems ‘don’t fit together very well,’ Greer says - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONTFZazVUTGlIMDBGaS1zaktYTkVOUEZYUF90cGZQWEZnX2tVYV9XM3dqY0pIeDY3eVJBTmJyZGhHT3FhVGhwVWVzSENHVTlVUHNzX1MzV0ZsM251UjE5YVZFVEk5TTI1RTR4RWpHWDdBWU1McENPOFpYeDZXdUIwZDZOSVN6ZmxralpWdUt2QkhoeEh5bk9TTjhwMzhRUGNFRW8zejNR?oc=5",
-      "snippet": "Canada, U.S. trade systems ‘don’t fit together very well,’ Greer says &nbsp;&nbsp; CTV News Lutnick scolded by a U.S. senator for calling Canada's ban on U.S. alcohol 'outrageous' ",
-      "pub": "Wed, 22 Apr 2026 15:01:52 GMT",
+      "title": "Nearly 500 buildings affected by flood waters in Gatineau, Que. as Ottawa River levels begin to stabilize - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21rSEQ4VEV5Z0trbkxTVlBUNllYS2NIT1FfVG9GNEpERWYySnVXWnVlOFRyeV9KemloZVhPczJjVHpCeVVmUUI4S0xzZHZJRE0xcnl0VlZ0Mk5iR2pGbGNVMEJmTjZhZWc1a3lCdU1YVzZPbXVRRnh6aU02N3dkajg5UTB6cXpHY3ZkUUJuemJ1RGJIN2FnVHE1U3NkVjBwMnFmc0UzZ3hMbmw2TzRvTXlVbw?oc=5",
+      "snippet": "Nearly 500 buildings affected by flood waters in Gatineau, Que. as Ottawa River levels begin to stabilize &nbsp;&nbsp; CTV News Ottawa River flooding forcing some Gatineau resident",
+      "pub": "Wed, 22 Apr 2026 20:00:27 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ontario government sold private jet back to Bombardier, Ford says - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmctampPYjdCVFlGQTZxYlozSHFyMm9fazJZQXJTUWFtWTNidWc4ZjQxU1VRb2ZYSUNuNDdTeVV6ZUhSOXAxSXk0U3NfWGlJakFTaVJFMXpWR2Z5cTRoeTZncWNCS3VTOXdRT0p5TmxkM21iNVpKMmZVckN6Wk5fN0VEQlc?oc=5",
-      "snippet": "Ontario government sold private jet back to Bombardier, Ford says &nbsp;&nbsp; CBC We asked Canada's premiers if they fly private. Here's what they said &nbsp;&nbsp; CBC Ford says ",
-      "pub": "Wed, 22 Apr 2026 17:47:08 GMT",
+      "title": "Canada ‘doubling down on globalization’ at odds with U.S. trade goal: Greer - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRXF5SWY1LTBCTUVpQklVeE5lRXNGU2g0ZThFSlQyR05UXzNaUWk4dUVXYTlDZy1wbmhiOENGWTlKZGYycEpJTXM3RGZXVFdjZFFncENidVh3NzkyOG9EMWtKU1RzTTQ0MXpZcnhBT1FpWTMyLTJ6YzhBY2RySERPY2FCMjhjdkNGMHpZckZwZ0JvZFBZZmlJZzhLc2tpTGY4cXc?oc=5",
+      "snippet": "Canada ‘doubling down on globalization’ at odds with U.S. trade goal: Greer &nbsp;&nbsp; Global News Canada, U.S. trade systems ‘don’t fit together very well,’ Greer says &nbsp;&nb",
+      "pub": "Wed, 22 Apr 2026 18:24:06 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Carney government details plans to change Commons committees - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTEyWHV4MklrQ29uV0FRLW40QTdIQjhQUDZfbjJxVnZRX21EaEdvOHFjV3NFUGd6R1l5Q25iQ3lQVEVHMDVMWHg2amJwVVhndlcwOEtjMWYtUDZpS2F1cWE5VFpZUVF0NmVjYjRlZ1lsM3NiODVVaTI3ckVoQjluYkdsbC1mZXpLNk9IRG5rZlRQUFVpTmY5aUlEcFhzRkpzekdVR0N3d0dlWTFKT2dn?oc=5",
-      "snippet": "Carney government details plans to change Commons committees &nbsp;&nbsp; The Globe and Mail Liberals say changes to House committees will put an end to 'silly partisan games' &nbs",
-      "pub": "Wed, 22 Apr 2026 01:19:39 GMT",
+      "title": "3 ships attacked in Strait of Hormuz, complicating efforts to resume U.S.-Iran talks - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSklOUGtNbW5zNzNmXzN4ZnpxTmhMN3RXYzFiOF9wSndfcGJOX1M1TmpPZUk5UF9OeHRsdk5XRkRYLUhXNHJseVlxN2toZEhZb3JsczdQekp3N2ZiRldfY281d1Y4QV9idmZ0QlRKVi0wSlNFZFhfTzZUaGg0TlNwNG5WWG9PQQ?oc=5",
+      "snippet": "3 ships attacked in Strait of Hormuz, complicating efforts to resume U.S.-Iran talks &nbsp;&nbsp; CBC Iran seizes container ships in Strait of Hormuz for first time since war began",
+      "pub": "Wed, 22 Apr 2026 19:25:40 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "In second confession, Dean Penney told undercover officer he hit Jennifer Hillier-Penney with mallet - ntv.ca",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRlF4a3ZLUW5DNDlESkpTdmphTVB3c2lVbjNJOGR4dWpSX1RBbUZBZlR4THhfamNZbEdQSjVmU0pJVC01RGhDdGJOVldVS1hLd0xDWUNCZXBacUc0ZUJ5eGh2LUtZM09jd2hrbVkyMFNsOXExY1lVTFhlUUVXLVVTT0VyVXVCNU5ld0JIY1FiYktFM3BDQzNOenJidDZOZE15THBNQ3ktejZwdHFVeFBxYXFaX3cydlN4WWg2MQ?oc=5",
-      "snippet": "In second confession, Dean Penney told undercover officer he hit Jennifer Hillier-Penney with mallet &nbsp;&nbsp; ntv.ca Dean Penney murder trial to resume in Corner Brook Tuesday ",
-      "pub": "Tue, 21 Apr 2026 22:25:55 GMT",
+      "title": "UK bans a generation of children from smoking: How it works - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHRYMmhjZUNITkRySVY3MFd0dDBHdlpvcm9lVU5jZHJzUEZZZ21LTFRZTGhMUWZ4cHBBSHlKNHVRRlJRaHNnUHRmbTBESXZRaHVnQjFYNS0wWW9SbjNySGVoM3Vzalk0SDZ6TWxmZkxPT0ZXTVRGZWt0M28ycnRncGx3SHJDWFRzZUxWVGpPOFY0d3VkYTJ1c29XM0hhaGkyaFdDY2hn0gGrAUFVX3lxTE9LcnB6NF9DZEduSnI2OXBqUWRYZXF3QTBteEw5OHZzb1VFNGl5RG53U2VxbE9vNjIwLWdXNVZYajRDVE52R2JWV1JRRG9RWnY0a3hJTDh4Z0pRUWl5SjFveWhmWW11bTJFVXd2b213SE9ZdE4tOVo1ZDJPMVZRQjNwS2p4eTBMVjBFQzRsOFJvVV9RQmM1U2VqYkdpZmF3UHlENjhsRjZXS2hMUQ?oc=5",
+      "snippet": "UK bans a generation of children from smoking: How it works &nbsp;&nbsp; Al Jazeera This country will soon place a lifetime ban on cigarette sales for people born after 2008 &nbsp;",
+      "pub": "Wed, 22 Apr 2026 12:01:56 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "First Thing: Trump announces extension of Iran ceasefire until ‘discussion concluded’ - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaEIxV05NQ1RUWG41TGstVjBXVWRhN2VqdGxVS0JlY0VZX3IxaGtPQ3pmVmhtaTBKcFBUXzVNQy1YTHJMWjA4N3ZIdFVlWTFlRXg1MjFScnZyT1VJRVJ1VWxoZDg4US0tVHN4bG5nTHRBcFltZmJ6M2VvQUhyMmJaejlVSkRnWk5yQlBtWTl4bzlCbVFWSWYxTVpmX2lSNGhHS1V1M1lNbEdudGtLVXhaSGc4dW5EVHY2MVBsdWZZUHJ0YmdQVnVZajhsMGozR3E3ODVZ?oc=5",
-      "snippet": "First Thing: Trump announces extension of Iran ceasefire until ‘discussion concluded’ &nbsp;&nbsp; The Guardian Why Trump’s latest blink on Iran could be more than a TACO Tuesday &",
-      "pub": "Wed, 22 Apr 2026 12:01:00 GMT",
+      "title": "Doug Ford says private jet has been sold for same price - CP24",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWIxUnRqZWFOczR3ckcySFNidlVCMmNNVDdORzA0QmQxaUxBbllNamJ2RHN6bUtPdndnRGxCOS1BVnhVXzFuTWU0NGhLSV9YN21HYVZlcmZzQWN6OFJua3pIbGhSdGhaS3FZcW5KeDJTYUFpTWVCcDBnYVQ4cmdkWDFfdlJDVElIWF96cjdLdjhsa0s3RmxxR2VzVi1JeFdaRlp2U2k3eDZZWmNYVVE?oc=5",
+      "snippet": "Doug Ford says private jet has been sold for same price &nbsp;&nbsp; CP24 Ontario government sold private jet back to Bombardier, Ford says &nbsp;&nbsp; CBC Ford says $28.9-million",
+      "pub": "Wed, 22 Apr 2026 14:18:53 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Majcher trial hears three Chinese officers on Vancouver visit went missing for six hours - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYjRfZFJ2T2dTc0x2bEw3THBlRVJ6UWRBRnB4aDJHdW96MXZhRk54SXh6U0lnb21MOU9ZaFloNm96NUhNb1hqU3B2bllQRmpmdDdteG9OSEJCRkxuS1dpd25QdUFjQ1U4azFRbGdXRGdjQXJTYW83RUlubEpac3E3MzFtU3JkUE5PODF6YmxxTTFxU3ZwRG50ajhrS0Y2cEN4Y3l3cGE3WkViamNvNTZwU2tCeVk?oc=5",
-      "snippet": "Majcher trial hears three Chinese officers on Vancouver visit went missing for six hours &nbsp;&nbsp; The Globe and Mail View Full Coverage on Google News",
-      "pub": "Wed, 22 Apr 2026 02:00:51 GMT",
+      "title": "Fairview Mall shooting suspect stole more than $235K worth of jewelry in Oshawa in 2023: police - CP24",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObVlISFVKZzRuNVJ3S3dRYlB2amp4cm9ldUhUNGM3bTZkZnRRNzhwM3p6ZDlhckt3OFhMRzdsa1l2QjZTcWI0Y2d4YWN0N25XRnREb1F3WHJOeElIMWt5bjZoY1JOdGgwdHpXUzlpenMzcHpvUFY4XzVpWjBzeGpZYTdaTGt1TjR3bjZvYmxKb0huVjdoTFRqTml0QnlWaUd3QUJBRmJqaC1Zbm5OT2FCWmQwdEZqRHZoS3hpeW5KN0xkYk9WeXpiLW9kX212SWlOTkdfUzln?oc=5",
+      "snippet": "Fairview Mall shooting suspect stole more than $235K worth of jewelry in Oshawa in 2023: police &nbsp;&nbsp; CP24 ‘It’s terrifying’: Fairview Mall employee shot after confronting t",
+      "pub": "Wed, 22 Apr 2026 18:50:39 GMT",
       "image": ""
     }
   ],
