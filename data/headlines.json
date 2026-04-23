@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T16:56:54.269236+00:00",
-  "count": 8,
+  "generated_at": "2026-04-23T18:03:49.295594+00:00",
+  "count": 16,
   "items": [
     {
       "source": "VOCM",
@@ -65,10 +65,73 @@
       "snippet": "The host Conception Bay Blues take on the Wentworth Gryphins tonight in Kelligrews in the quarter-final of the Allan Cup. The Stoney Creek Tigers defe...",
       "pub": "Thu, 23 Apr 2026 12:33:42 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/allan-cup.jpg"
+    },
+    {
+      "source": "Google News Canada",
+      "title": "PM Carney says U.S. trade irritants ‘right there in front of us.’ Follow live updates here. - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYzVLOFFpYzd5bDJUSmR0aWFFMlNqUkppbG1uaXA5UE80ZGgtQWZaRURfaWQ2dU1iUWl0VWVIeVdxcHFMMW1fUFVNVDdYV1BhdkdwalM1ejFoMURTcDd3R3dubWplXzdoQk5tQW5PTmxqWndERFVibXVHajlVRm1PYkhqTDN5U19XQWN3WlhXdTFIQ2V6ZEdDdDhiYndlU3FxUXN0NlptVVpTQkFKV3lLUW5JY2pnb2dSNWZWTWM0cG5jUDJnQ2hXUVhqbUJzUFE5Sld1OA?oc=5",
+      "snippet": "PM Carney says U.S. trade irritants ‘right there in front of us.’ Follow live updates here. &nbsp;&nbsp; CTV News Carney says lifting U.S. liquor ban depends on Trump ending assaul",
+      "pub": "Thu, 23 Apr 2026 16:56:21 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Bans on U.S. liquor sales can be resolved if USMCA talks address Canada’s trade irritants, Carney says - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckFUM3JHRlRtU0pnQk81TVgwaG5uWHVYUWctM210c0F2ZjV6eDd4SDh4Vl9ydGhPaV81dkhqMjBCWTV4bWxyYmdvTndfWkFmbFRva29rNnBfMW5HWTlIbFdxQVpZTGNQRXd3TFkzZ3pRNU50dkswb3RJeW5WWjdFY0VFdk9ueFcwbXN3NkFKOXpmM0RqTzJqTHV0OA?oc=5",
+      "snippet": "Bans on U.S. liquor sales can be resolved if USMCA talks address Canada’s trade irritants, Carney says &nbsp;&nbsp; The Globe and Mail View Full Coverage on Google News",
+      "pub": "Thu, 23 Apr 2026 15:49:19 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump orders U.S. military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZVN0cTY3V050ZW5QLWlKX0g1SERPUG56MnpOd0JxVUp3dUdMY3NRak5KbTZaOVBKTENBQWh2MnNsaGdqYS1XSEVpemZ1ejhnMmlncUUyMWhFVEZhS0Z5dHlpR2pUWmo4Vk8wb1pTeHBEQUl0ODhpdW5fMFVSbHNLYnowUktsTUYxWl9hWWRuTDFFYjRVT3pDWFFYa0owTEpfT2NEUmZBZjEtZkxUbE80cFZ4WmNaVjYwbkRrUTdlU1RmT1ZYcHhfOXVzeVRZZkVieU9Dd2hhbHV2QQ?oc=5",
+      "snippet": "Trump orders U.S. military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz &nbsp;&nbsp; CTV News Trump claims US has total control over strait of Hormuz after Iran",
+      "pub": "Thu, 23 Apr 2026 16:04:13 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "John Ivison: Washington’s set to eat Canada’s digital sovereignty for lunch in the CUSMA talks - National Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjNpV3BVTXMxRm8wSXdOTWMwX0NZOUg5STdzd3N5dDNYRnpQUC1ZVXpvQkxNMEtfMVJDLWltaWhnb3FwOWZCZHJpbHdOU1lILXc3cGRQRmVRLWduSkNrYTBQalMtaUYwWGhodjc5M3dtQjVqTEFDZWloN1ZTcFVtamVtRS1fdGJ4QTdPVjRnVXhJeFBxd3dUbzRxYlBhZlI1QTg1emoxVC1IYkdhVXFTTjl3d0ZqQWIwQzdoOGliN2VPZw?oc=5",
+      "snippet": "John Ivison: Washington’s set to eat Canada’s digital sovereignty for lunch in the CUSMA talks &nbsp;&nbsp; National Post Canada ‘doubling down on globalization’ at odds with U.S. ",
+      "pub": "Thu, 23 Apr 2026 10:03:49 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "‘This can come to a quick end’: Doug Ford says U.S. economy is losing out as Canadians boycott country - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYzRrejRVSnNNSlFEZVQ2cUhjcTVWMlYzdTg0R25FM19zM1FySW4zNUs0Y1ZDbGZZWEJFWVRBd19IV3Q5U2pFbGUzSnBRWGVCUFF2b0lQLUN6eHdSNmRVTUpTeFBsa05FdjU4T2dkSHAzWnpTZ2dOR19QZEZaTFFzd09NcU0yQU1kUmtiQzV2UTlmcllkWGIxclhFVVZaZGhWOUxScjZXdnJ3SkpIZ2l1NTA2eWlVRUdfVmhtWV8wLTFSRmFMZDBsRUFDMzFfOS1MSHpB?oc=5",
+      "snippet": "‘This can come to a quick end’: Doug Ford says U.S. economy is losing out as Canadians boycott country &nbsp;&nbsp; CTV News",
+      "pub": "Thu, 23 Apr 2026 16:03:21 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Fire ignites at metal recycling yard in Montreal as city revokes permits - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmd4OVJzNUg3OHVLQkE2NGEwLWZUTzJUZHZuZEtKMFFxQjFFWTlMb0pkMGNMQ1dhY3l3d1ZNQ3g5c2hXTEJ6REwxUi1IZFNleWFTRENvaFhZQ09wU2N2d0p0ZWFLSEhid1pQWVZQV1YzZ19zeVBrRUR6VklnYlhDbVR5LUhKN0Z1?oc=5",
+      "snippet": "Fire ignites at metal recycling yard in Montreal as city revokes permits &nbsp;&nbsp; CTV News View Full Coverage on Google News",
+      "pub": "Thu, 23 Apr 2026 10:53:44 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Alberta Premier Danielle Smith set to update fall referendum question plan - Global News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2RZRE16b0hKRWlwNE83RTVBRTBiMEN0UnAzMU0zUmVubXFrUW9tV2lTY3RFN1lsb1F2UkE4YkVvQVNnWkl1WFZwOW44ZnZqSFRZTzJidHlaR3FqTFNLUm9YMkZpQWptN0RnUlF5WDg2NjRwOUhQSGFsYWkweHhRU0lXYkpDMW1LbURhc2lYeE9HTWptODJUQ2J5T1Mzdw?oc=5",
+      "snippet": "Alberta Premier Danielle Smith set to update fall referendum question plan &nbsp;&nbsp; Global News View Full Coverage on Google News",
+      "pub": "Thu, 23 Apr 2026 12:35:55 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "A year after Lapu Lapu ramming attack, grief, anger and hope intertwine - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlR3X1dKcEdta3VQdkdNZmxuSEdtUENMeGFXRW5mN1E1ZHVWdm1BUmlYaWRKV0FfNG9idl9PalBXalRDRllaNnZUNkVwUFdLTmpGTW1DVTR6cFBrQmZTZkZvZUtYaXRWaUlRU0lXZFh5WGhmcWxfVFRRaXVHSUJEZUM5NjRubGxINGxBR3NmZFZnSWtjeTgzMF9GOWF3Q0FhVGNQejI5SGl1Z3hsQ1dVXw?oc=5",
+      "snippet": "A year after Lapu Lapu ramming attack, grief, anger and hope intertwine &nbsp;&nbsp; CTV News View Full Coverage on Google News",
+      "pub": "Thu, 23 Apr 2026 09:40:15 GMT",
+      "image": ""
     }
   ],
   "errors": [
-    "CBC News failed: The read operation timed out",
-    "Google News Canada failed: The read operation timed out"
+    "CBC News failed: The read operation timed out"
   ]
 }
