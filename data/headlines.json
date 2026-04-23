@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-04-23T10:02:11.341776+00:00",
+  "generated_at": "2026-04-23T11:36:26.665192+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Suspended Driver Ticketed in Bay Roberts",
+      "link": "https://vocm.com/2026/04/23/suspended-driver-ticketed-in-bay-roberts/",
+      "snippet": "A man from North River who was driving a pickup truck in Conception Bay North with virtually no credentials and an unsecured load aboard has been tick...",
+      "pub": "Thu, 23 Apr 2026 11:32:41 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-officer.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "CUPE Members Attending Annual Convention in St. John’s",
+      "link": "https://vocm.com/2026/04/23/297332/",
+      "snippet": "CUPE is holding its annual convention in St. John's this week. The event, which kicked off yesterday at the Delta Hotel, will wrap up tomorrow. The un...",
+      "pub": "Thu, 23 Apr 2026 11:06:11 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/05/cupe-nl-logo.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Local Farmers Getting Hit with Soaring Fuel, Fertilizer Costs",
+      "link": "https://vocm.com/2026/04/23/local-farmers-getting-hit-with-soaring-fuel-fertilizer-costs/",
+      "snippet": "These are uncertain times for those who work the land for a living with the cost of fertilizer and fuel much higher than last year because of the war ...",
+      "pub": "Thu, 23 Apr 2026 10:33:57 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/05/Vegetable-Agriculture.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Town of CBS Changes Design Plans for New Rec Facility",
@@ -43,67 +67,59 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/burgeo-lapoile-mha-michael-king.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Man Wanted by RNC Since 2023 Picked Up by Ferryland RCMP",
-      "link": "https://vocm.com/2026/04/23/man-wanted-by-rnc-since-2023-picked-up-by-ferryland-rcmp/",
-      "snippet": "A wanted man who had been keeping a low profile for the last three years has been arrested. RNC got a call from the RCMP in Ferryland around 9:20 last...",
-      "pub": "Thu, 23 Apr 2026 08:41:46 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/05/Police-Reponding-RNC-RCMP.jpg"
+      "source": "Google News Canada",
+      "title": "Ford says Ontario has sold its private jet back to Bombardier for $28.9M - Global News",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wYzZqOC1mWVhGQ1JvalE3aXRDZ2xPNlFKQjBnR0FINnY1RWNkRTdLSGh6dllVT0pqbGFqLUU4VTNqOWkzNWdJSUVaMFFGMC1xdmtWS3JwZ1FEOFNPSWR1d2g5WDBxTWd5RDQycXhuank?oc=5",
+      "snippet": "Ford says Ontario has sold its private jet back to Bombardier for $28.9M &nbsp;&nbsp; Global News Ontario government sold private jet back to Bombardier, Ford says &nbsp;&nbsp; CBC",
+      "pub": "Wed, 22 Apr 2026 16:45:18 GMT",
+      "image": ""
     },
     {
-      "source": "VOCM",
-      "title": "Latest Fuel Prices for Thursday, April 23, 2026",
-      "link": "https://vocm.com/2026/04/23/latest-fuel-prices-for-thursday-april-23-2026/",
-      "snippet": "It's another day where prices have increased at the pumps. The regulated price of gas is up 3.2 cents per litre. Diesel on the island increases 7.8 ce...",
-      "pub": "Thu, 23 Apr 2026 08:31:40 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/diesel-pump-gas-station-fuel-prices-irving.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "April 23, 2026 – Are you confident in the safety protocols in place in schools across the province?",
-      "link": "https://vocm.com/2026/04/23/april-23-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12836').",
-      "pub": "Thu, 23 Apr 2026 07:58:05 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/08/classroom-desks-tv-board-smart-board-school-paradise-intermediate.jpg"
+      "source": "Google News Canada",
+      "title": "Quebec man faces terrorism charges tied to 764 extremist network - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2p1Q3BRRlpkVXdlRXhTcVVfZTJKWHhJUkdLRmN4R0VjYlptY252cHVVY2dwenFwQmJRTnlQYVVGTElxZmdPdTk0QnBxYzlMQ21vWGJSWndOaWtIc3ZTOFAxNzVkVHdfazFkOG9LSTFLaEZMbFItb1k1MEt6aXJtMnpGdGRYWVpvUXl2V28wVDk3cWdwZXFQbG80UURlN2JNYUE?oc=5",
+      "snippet": "Quebec man faces terrorism charges tied to 764 extremist network &nbsp;&nbsp; CBC ‘They are grooming children:’ B.C. father sounds alarm on 764 extremist network &nbsp;&nbsp; CTV N",
+      "pub": "Wed, 22 Apr 2026 20:08:23 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Trump calls Virginia election ‘rigged’ after redistricting referendum - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQm1vV2tuSGNpNzZvYXNWVHdGd0s3UFhCWVBweHpOLTUxSGxyNDR1N2E1enhVdkVTb3BSMVRZNDZxUTJEQlNPUjh1MVktLVpydDNVTC1FWTZvWm1Tb1dGak9GbUF5VWhUY3prV19pOU9vVV9EWXlXOWtpYV9icTZhQ1FQd1QtSm9NMmljdzRxby1kWGVXLUdZaWtjMFhUY3lOcnZBY1dEbnhmZm5q0gGyAUFVX3lxTE12djBjbEJaemF2MVRxdEd0THFZZUZ4UklpNUlFNkhuZWdIams5VFI1eTh5QkVHOEFFRkFpLTl6VE9QQV9wUGR0cjJzZWFSY2J3X3VEcFZCTFFEcTljN05MUU1XSXVUQXlvamlVemppczhyXzVmS2pBanNfRkJaZ29scDJ3NWh2NTBLMThoMVJXTzdDM3hVbnNRZWpRUTh3WFprWExEVl92TmV1UnpjMzZNaXc?oc=5",
-      "snippet": "Trump calls Virginia election ‘rigged’ after redistricting referendum &nbsp;&nbsp; Al Jazeera Court pauses redistricting in Virginia, day after voters approve new maps &nbsp;&nbsp;",
+      "snippet": "Trump calls Virginia election ‘rigged’ after redistricting referendum &nbsp;&nbsp; Al Jazeera Trump’s Enormous Gerrymandering Blunder &nbsp;&nbsp; The Atlantic Democrats are winnin",
       "pub": "Wed, 22 Apr 2026 20:16:47 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Heather Winterstein's death after 2 Ontario hospital ER visits was accidental, inquest jury finds - CBC",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNalBPNkFuTm8yZFctUzZ5SG9IeWNTdkpQNUlvTmJYQUY3SkdKcHdIOXpqX2dfbF9RUXc2emZuLWpGbDR2QU1MaFUtUElURDNiakVxX3JkOXdSQkdmQVYwV0VZQS1XTUFmU3hVVFdBVDBXbDZJc29LSXkxZXZQYldGVGE1bGw5RWNBdnRBV2tFeGdkRnF2bm9iSmVWRDA?oc=5",
-      "snippet": "Heather Winterstein's death after 2 Ontario hospital ER visits was accidental, inquest jury finds &nbsp;&nbsp; CBC Suggestion of homicide in Winterstein death rocks Niagara Health ",
-      "pub": "Wed, 22 Apr 2026 22:13:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Doug Ford says private jet has been sold for same price - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc2Z4OEs4YW0yXzIzdUJDUEg3ckpYTG1FWDgtRGZBWUhIUTYzc2NNZGtjSnROTkw3dEtjZGRNcTdES1NwTnIzaFZzd05RR3p3YXhydk11ZC1mRm5DWWdUUnI5WExtR1JXTFR3dlNrU2JuWUNuYWN6SllfWm5XN1Z5a3M0QS11UXRlNFAtUlRrNXBiV0YyYlJodlNXSXk2a21qMFFuaFFxZFZfYzZFQl9mcjdDV3NBNFk?oc=5",
-      "snippet": "Doug Ford says private jet has been sold for same price &nbsp;&nbsp; CTV News Ontario government sold private jet back to Bombardier, Ford says &nbsp;&nbsp; CBC Progressive Conserv",
-      "pub": "Wed, 22 Apr 2026 14:18:53 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump’s team cannot ‘dictate the terms’ of CUSMA talks, Mark Carney says - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU1F3Nl80WWVyWm9qWnI2Zl94OHQxREQtbXRXM21COTNMU2ZzOEVFaG4wWHNpSjhralQ5WDZMXzEtVTBEakNib2l1WjVZRTRHWmF6RzJ4aE5CM3FNRFl4SzVRYXcySmNid20zenctczJvZFpPR0RLX2ZXR2xiZGhycU5hNUY1TE9nenJMZlJ4TUZTVzl6MjNCbzFJQWJRYmpTYTI4c1FqMjNaeHZWeUdLYTNSaVRLTUdIZUh6R1h2NmRGWWtqZEEtc2txSDVnRER4ZXJOYTVTMEs4TkdKQ2ZpMzc5VlMxZw?oc=5",
-      "snippet": "Trump’s team cannot ‘dictate the terms’ of CUSMA talks, Mark Carney says &nbsp;&nbsp; Toronto Star Carney says ‘no’ to making more concessions to get to U.S. trade talks &nbsp;&nbs",
-      "pub": "Wed, 22 Apr 2026 21:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "US Navy Secretary John Phelan leaving Trump administration - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11eVRWSktmcU5tZl9PckxVTW0zU0J6WDlkVmZPTW55eG54ckt2ejNUQVBGcldIdGd5TUt0ZGxZekRCNWd1THlrRVVXbjVDNDZZTjNTeGRHZ0hrUQ?oc=5",
-      "snippet": "US Navy Secretary John Phelan leaving Trump administration &nbsp;&nbsp; BBC Middle East crisis live: US and Iran in blockade stalemate as Washington’s navy secretary leaves office ",
-      "pub": "Thu, 23 Apr 2026 07:34:43 GMT",
+      "snippet": "US Navy Secretary John Phelan leaving Trump administration &nbsp;&nbsp; BBC U.S. navy secretary out of his job in latest Pentagon shakeup &nbsp;&nbsp; CBC Who is John Phelan, the U",
+      "pub": "Thu, 23 Apr 2026 08:37:14 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "US Demands Concessions Before Formal Trade Talks with Canada, Charest Says - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMm45Y0RhZ3NzcFJ3ZnRWZmU4c2RTbm5Ec2hPOUVKVDZEMDh5Q09KUXZqUE1rdXpkZWZZdXZFek5aUjFFLUMteTZvR01BRzVxLTNnNmgzbVc2cGE2OFlwMHpJWmhJV1pPb24ybVF1eGNOLVlGb3JBNzNIZkxuZ19CbXgzV2xzLW9WMXRRZUY5Q1h6YWdRNVE4VGRwakduT3k3RUgxVFRYanMzb1VYSDhFMEM0dFFkQW1DVDU3bWtZMVdoUQ?oc=5",
+      "snippet": "US Demands Concessions Before Formal Trade Talks with Canada, Charest Says &nbsp;&nbsp; Bloomberg.com Carney says ‘no’ to making more concessions to get to U.S. trade talks &nbsp;&",
+      "pub": "Wed, 22 Apr 2026 18:49:26 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "‘Step in the right direction’: Health experts hope U.K. smoking ban pushes Canada to do the same - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWQ3WEx2MUtXWG5YMmd4TFFVam5wV1Jpb3R5TmJmbXJseGpCMlpXWkE3aU9raFlQbUlkTm96amE0Z3RNdGpNZEJuUGxSdWNwUHdwTHpPcnBZV09nM0V5R3UwSEMyWXRMS0RvTjVOQVBtbDE2S2JqUHFfSDVjRUZUanZiMnpURzNJTnZHYW01M0M4c09xSWUtU0duQ0ZOWVE5T2w2Um9XRXUyZ2MzbGxIeXpVU3ZuMkk?oc=5",
+      "snippet": "‘Step in the right direction’: Health experts hope U.K. smoking ban pushes Canada to do the same &nbsp;&nbsp; CTV News The U.K. just banned smoking for life for youth. Should Canad",
+      "pub": "Wed, 22 Apr 2026 23:15:57 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Carney government details plans to change Commons committees - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTEyWHV4MklrQ29uV0FRLW40QTdIQjhQUDZfbjJxVnZRX21EaEdvOHFjV3NFUGd6R1l5Q25iQ3lQVEVHMDVMWHg2amJwVVhndlcwOEtjMWYtUDZpS2F1cWE5VFpZUVF0NmVjYjRlZ1lsM3NiODVVaTI3ckVoQjluYkdsbC1mZXpLNk9IRG5rZlRQUFVpTmY5aUlEcFhzRkpzekdVR0N3d0dlWTFKT2dn?oc=5",
+      "snippet": "Carney government details plans to change Commons committees &nbsp;&nbsp; The Globe and Mail Opposition parties cry foul over Liberal move to seize control of committees &nbsp;&nbs",
+      "pub": "Wed, 22 Apr 2026 01:19:39 GMT",
       "image": ""
     },
     {
@@ -111,23 +127,7 @@
       "title": "Nearly 500 buildings affected by flood waters in Gatineau, Que. as Ottawa River levels begin to stabilize - CTV News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21rSEQ4VEV5Z0trbkxTVlBUNllYS2NIT1FfVG9GNEpERWYySnVXWnVlOFRyeV9KemloZVhPczJjVHpCeVVmUUI4S0xzZHZJRE0xcnl0VlZ0Mk5iR2pGbGNVMEJmTjZhZWc1a3lCdU1YVzZPbXVRRnh6aU02N3dkajg5UTB6cXpHY3ZkUUJuemJ1RGJIN2FnVHE1U3NkVjBwMnFmc0UzZ3hMbmw2TzRvTXlVbw?oc=5",
       "snippet": "Nearly 500 buildings affected by flood waters in Gatineau, Que. as Ottawa River levels begin to stabilize &nbsp;&nbsp; CTV News Red Cross pitching in to help Gatineau residents as ",
-      "pub": "Wed, 22 Apr 2026 10:34:48 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Premier Eby says investigation into Tumbler Ridge shooting has entered final stages - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGFuMTdNTUpPSVJ5WHZCd3g0NnZOOUZNWUE2Skc0ajhMUV9zcWlOcm9ub1Y2NFRGNDdwYXc5SDZBMGZFZTVpRUZXNGtQUTRKSHlEOExGZkQ5T1o2WG15b242WVZCSTJPVkhWNlozSU1LTkptSXZkTmtrRjVjaVE3X0ZQUkNDS0thc3JENjNQRGJIWnpHdFliY0FsSy1MQWhiNHVtaDNQSG9rZnIzWHM5TXdOTmdtTW9CVFdsYUdiTDI?oc=5",
-      "snippet": "Premier Eby says investigation into Tumbler Ridge shooting has entered final stages &nbsp;&nbsp; Castanet Investigation into Tumbler Ridge mass shooting has entered final stages: B",
-      "pub": "Wed, 22 Apr 2026 21:49:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Carney government details plans to change Commons committees - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTEyWHV4MklrQ29uV0FRLW40QTdIQjhQUDZfbjJxVnZRX21EaEdvOHFjV3NFUGd6R1l5Q25iQ3lQVEVHMDVMWHg2amJwVVhndlcwOEtjMWYtUDZpS2F1cWE5VFpZUVF0NmVjYjRlZ1lsM3NiODVVaTI3ckVoQjluYkdsbC1mZXpLNk9IRG5rZlRQUFVpTmY5aUlEcFhzRkpzekdVR0N3d0dlWTFKT2dn?oc=5",
-      "snippet": "Carney government details plans to change Commons committees &nbsp;&nbsp; The Globe and Mail Carney Liberals change rules to gain seats in Commons committees &nbsp;&nbsp; Toronto S",
-      "pub": "Wed, 22 Apr 2026 01:19:39 GMT",
+      "pub": "Wed, 22 Apr 2026 20:00:27 GMT",
       "image": ""
     }
   ],
