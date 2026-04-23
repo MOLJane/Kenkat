@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-04-23T13:05:15.074655+00:00",
+  "generated_at": "2026-04-23T15:23:47.610563+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "Main Highway Closed North of St. Anthony Airport Due to Crash",
+      "title": "Pedeatrician Urges Greater Supports for Moms and Babies Born into Addiction",
+      "link": "https://vocm.com/2026/04/23/pedeatrician-urges-greater-supports-for-moms-and-babies-born-into-addiction/",
+      "snippet": "NLHS doesn't track the numbers, but health care providers say they're seeing an increase in the number of babies born with drugs like opioids and coca...",
+      "pub": "Thu, 23 Apr 2026 14:10:33 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/premature-baby.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Trial Dates Set for Man Accused of Sexual Assaults",
+      "link": "https://vocm.com/2026/04/23/trial-dates-set-for-man-accused-of-sexual-assaults/",
+      "snippet": "Trial dates have been set for a St. John's man at the centre of an ongoing investigation into sexual assaults in the downtown area. Fifty-eight-year-o...",
+      "pub": "Thu, 23 Apr 2026 13:52:05 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/11/billy-howse-surrounded-by-sheriffs-officers.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "UPDATE: Highway Reopens But Winter Driving is Poor on the Northern Peninsula say Police",
       "link": "https://vocm.com/2026/04/23/road-to-st-anthony-airport-closed-due-to-crash/",
-      "snippet": "Poor weather persists on the west coast of the province. The highway just north of the St. Anthony airport is closed in both directions due to a colli...",
+      "snippet": "The main highway near St. Anthony airport is cleared and open to traffic following a collision earlier today, however RCMP are advising against travel...",
       "pub": "Thu, 23 Apr 2026 12:54:47 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/route-430-st-anthony.jpg"
     },
@@ -51,22 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/scott-butt.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Suspended Driver Ticketed in Bay Roberts",
-      "link": "https://vocm.com/2026/04/23/suspended-driver-ticketed-in-bay-roberts/",
-      "snippet": "A man from North River who was driving a pickup truck in Conception Bay North with virtually no credentials and an unsecured load aboard has been tick...",
-      "pub": "Thu, 23 Apr 2026 11:32:41 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-officer.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "CUPE Members Attending Annual Convention in St. John’s",
-      "link": "https://vocm.com/2026/04/23/297332/",
-      "snippet": "CUPE is holding its annual convention in St. John's this week. The event, which kicked off yesterday at the Delta Hotel, will wrap up tomorrow. The un...",
-      "pub": "Thu, 23 Apr 2026 11:06:11 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/05/cupe-nl-logo.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "B.C. father shares daughter’s tragic descent into online 764 terror network - CTV News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3prZ2w2VkpnTFJyQ0w0M19fRVRydU5tenZKTW5OaUlLZ2duWDFFU003WUZzSTd3MXd1MGNrYndnOHFSVEU3UDFnaklSN3dtbG9TMTllZVRlRkIzUm40cmU2dzZGdWZsd0NuOUlWTU04RXJnSnM1MklPTnhRX3Z0S0YwNndSd0t1ZzhZalhKbDNiRS00dmZmcTFTbGtuS0xta19DV1h4NlRfVkZMR2xRMA?oc=5",
@@ -76,26 +76,50 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Fire at metal recycling yard in Montreal - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmd4OVJzNUg3OHVLQkE2NGEwLWZUTzJUZHZuZEtKMFFxQjFFWTlMb0pkMGNMQ1dhY3l3d1ZNQ3g5c2hXTEJ6REwxUi1IZFNleWFTRENvaFhZQ09wU2N2d0p0ZWFLSEhid1pQWVZQV1YzZ19zeVBrRUR6VklnYlhDbVR5LUhKN0Z1?oc=5",
+      "snippet": "Fire at metal recycling yard in Montreal &nbsp;&nbsp; CTV News What's that acrid smell? Smoke from recycling plant fire drifts across the city &nbsp;&nbsp; CBC Garbage, old vehicle",
+      "pub": "Thu, 23 Apr 2026 10:53:44 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "US Demands Concessions Before Formal Trade Talks with Canada, Charest Says - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMm45Y0RhZ3NzcFJ3ZnRWZmU4c2RTbm5Ec2hPOUVKVDZEMDh5Q09KUXZqUE1rdXpkZWZZdXZFek5aUjFFLUMteTZvR01BRzVxLTNnNmgzbVc2cGE2OFlwMHpJWmhJV1pPb24ybVF1eGNOLVlGb3JBNzNIZkxuZ19CbXgzV2xzLW9WMXRRZUY5Q1h6YWdRNVE4VGRwakduT3k3RUgxVFRYanMzb1VYSDhFMEM0dFFkQW1DVDU3bWtZMVdoUQ?oc=5",
-      "snippet": "US Demands Concessions Before Formal Trade Talks with Canada, Charest Says &nbsp;&nbsp; Bloomberg.com Carney says ‘no’ to making more concessions to get to U.S. trade talks &nbsp;&",
+      "snippet": "US Demands Concessions Before Formal Trade Talks with Canada, Charest Says &nbsp;&nbsp; Bloomberg.com Carney rejects notion that U.S. ‘dictates the terms’ of USMCA negotiations &nb",
       "pub": "Wed, 22 Apr 2026 18:49:26 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "US Navy Secretary John Phelan leaving Trump administration - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11eVRWSktmcU5tZl9PckxVTW0zU0J6WDlkVmZPTW55eG54ckt2ejNUQVBGcldIdGd5TUt0ZGxZekRCNWd1THlrRVVXbjVDNDZZTjNTeGRHZ0hrUQ?oc=5",
-      "snippet": "US Navy Secretary John Phelan leaving Trump administration &nbsp;&nbsp; BBC U.S. navy secretary out of his job in latest Pentagon shakeup &nbsp;&nbsp; CBC Navy secretary fired and ",
-      "pub": "Thu, 23 Apr 2026 08:37:14 GMT",
+      "title": "Canada ‘doubling down on globalization’ at odds with U.S. trade goal: Greer - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRXF5SWY1LTBCTUVpQklVeE5lRXNGU2g0ZThFSlQyR05UXzNaUWk4dUVXYTlDZy1wbmhiOENGWTlKZGYycEpJTXM3RGZXVFdjZFFncENidVh3NzkyOG9EMWtKU1RzTTQ0MXpZcnhBT1FpWTMyLTJ6YzhBY2RySERPY2FCMjhjdkNGMHpZckZwZ0JvZFBZZmlJZzhLc2tpTGY4cXc?oc=5",
+      "snippet": "Canada ‘doubling down on globalization’ at odds with U.S. trade goal: Greer &nbsp;&nbsp; Global News View Full Coverage on Google News",
+      "pub": "Wed, 22 Apr 2026 18:24:06 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "At least 10 scientists tied to sensitive U.S. research have died or disappeared in recent years, sparking federal investigation - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdGhRZVpRbUJZdzc5VFFDTkVFMUxvMy1NTTdMSWRjZDBUR0gwRVFUbUpTajlJY2tCQVRjNXl4Z2VoV24xWVFyRFRmRWw4YjQzNU03b1FBanNSZHA2blRJbVBFeXZrOHNrV0tPbWNSZ3R1RGpCT2RCSE10a3czRlBJWHFxdURobmF6bnhCczdlTFVIMmxlT0FLWHIzSng3UEZadDJXOENfZVM5bVU1VEFXNXUxekFadW95ZU8xX3ZfN2F2QjdnVDFET21tcjh4UGI4SERHMFJTZmFWakRLNmFsSy11MVZtNVE5aWRiQTFkOXJOVHFT?oc=5",
-      "snippet": "At least 10 scientists tied to sensitive U.S. research have died or disappeared in recent years, sparking federal investigation &nbsp;&nbsp; CTV News White House: We will work with",
-      "pub": "Tue, 21 Apr 2026 16:27:28 GMT",
+      "title": "'Surrey Six' murders mastermind Jamie Bacon released from prison - CBC",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3pfY0hGaExxWW53ekRQSWw2TjFDY29WUzlFb1dLMHpDclMxRkhhMFQ0aEVXQ3V3M2JKMlVyUFFsd3JVVGRKR0ZKRGF2ZGdhYkI2ejNVUzVRX2dBVXpnaEpWYTZMQkNkdDBKbjQtUUJvZVI4WjBic2c1dlNLblpmcTVNN2p6ekZUYTF5NHk0LVdKYmRkbFpOZkxUYl8?oc=5",
+      "snippet": "'Surrey Six' murders mastermind Jamie Bacon released from prison &nbsp;&nbsp; CBC Notorious B.C. gangster Jamie Bacon released from prison &nbsp;&nbsp; Global News Gangster Jamie B",
+      "pub": "Wed, 22 Apr 2026 18:36:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Who is John Phelan, the US Navy Secretary fired by Pete Hegseth? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOanZDSE9mLTJVZ0dHM293RE4zWUhYYURSR2toei1PcEo2OFBHcXRrcEUwMURlQm42QmpmTnlIYWU4ZENqaDBsT3BienRmUXc1YlFLdnlkNUJWWTU4QmVYRUdvX0t5dTYwbU9xLUoxTWptQmduQUYwODZfM0J6UGVOSUo4UGZybUI1ckF4ZEFUVktJbVk3eXoxQmhBWTVpU1pwcjFtSElB0gGrAUFVX3lxTE5aRG5wbmFJZTdfZ0NKandSZzh4SkVkamp1d2ZuRzZSS3BQUXhJdEZMLWhZTmN0T3lWZDliZWxjbXlVUTh6WG9OWEVXTEVIUXEtRDFpZ2prYlBsYXZHR0k3dHlobU1kX0huTkxQYm05TEVWVlFMRUVVaGRUSHlINjc3R0stcmd2eFNwZUdVNmVpd2VCV3ZtY1p0Vzh6NDNsb0Jhb0UtdVI0SXpCWQ?oc=5",
+      "snippet": "Who is John Phelan, the US Navy Secretary fired by Pete Hegseth? &nbsp;&nbsp; Al Jazeera U.S. navy secretary out of his job in latest Pentagon shakeup &nbsp;&nbsp; CBC Navy Secreta",
+      "pub": "Thu, 23 Apr 2026 09:51:38 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Alberta Premier Danielle Smith set to update fall referendum question plan - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3BEdFlaRmVmX1o1SjNudFZEcFpIUG5kVU5PQ2MxT1JVZkdQdVEycTdmMzVyc0RHMzh5YjRFTzJYNy10MDdpVklLTElTX093ODgyYjhCNGVmbkcwQ29zQXAtTkttbFFpb2JDQndfYVUyU3pwSzlyTFZpV3hlcGh5YXEzX09INE5GSFVEVWxaa0tBc0lBNWJ1cnZWRi1ENEJOeVA2TFg3TG5pZjJYUjVBc1dKNDg2UQ?oc=5",
+      "snippet": "Alberta Premier Danielle Smith set to update fall referendum question plan &nbsp;&nbsp; CTV News View Full Coverage on Google News",
+      "pub": "Thu, 23 Apr 2026 10:19:56 GMT",
       "image": ""
     },
     {
@@ -104,30 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBidFJWTXYyZ3diUXBQNWJkZ2pPdHRFUy1pYno1Rk9VX2xXbUR2d19nNE5YQU1JcmdMNFdSYjhDQjZNZnBFRlhuT1JuWk9oWGFtdGEza3l4alk2Ml9XN2h1ZlZ5aEJOTXJaTldLNXAtUm5QNVhnaTBCX3hR?oc=5",
       "snippet": "Liberals will move to take control of House committees with newly secured majority &nbsp;&nbsp; CBC Opinion: The Tories say the Carney majority is illegitimate. Their reasoning spe",
       "pub": "Wed, 22 Apr 2026 02:55:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Nearly 500 buildings affected by flood waters in Gatineau, Que. as Ottawa River levels begin to stabilize - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21rSEQ4VEV5Z0trbkxTVlBUNllYS2NIT1FfVG9GNEpERWYySnVXWnVlOFRyeV9KemloZVhPczJjVHpCeVVmUUI4S0xzZHZJRE0xcnl0VlZ0Mk5iR2pGbGNVMEJmTjZhZWc1a3lCdU1YVzZPbXVRRnh6aU02N3dkajg5UTB6cXpHY3ZkUUJuemJ1RGJIN2FnVHE1U3NkVjBwMnFmc0UzZ3hMbmw2TzRvTXlVbw?oc=5",
-      "snippet": "Nearly 500 buildings affected by flood waters in Gatineau, Que. as Ottawa River levels begin to stabilize &nbsp;&nbsp; CTV News Flood risk isn't over yet for greater Montreal regio",
-      "pub": "Wed, 22 Apr 2026 20:00:27 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Ford says Ontario has sold its private jet back to Bombardier for $28.9M - Global News",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wYzZqOC1mWVhGQ1JvalE3aXRDZ2xPNlFKQjBnR0FINnY1RWNkRTdLSGh6dllVT0pqbGFqLUU4VTNqOWkzNWdJSUVaMFFGMC1xdmtWS3JwZ1FEOFNPSWR1d2g5WDBxTWd5RDQycXhuank?oc=5",
-      "snippet": "Ford says Ontario has sold its private jet back to Bombardier for $28.9M &nbsp;&nbsp; Global News Doug Ford says private jet has been sold for same price &nbsp;&nbsp; CTV News Onta",
-      "pub": "Wed, 22 Apr 2026 16:45:18 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Calgary weather: Potent Prairie storm includes significant risks to travel and infrastructure - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdUdVRWdNY0xxLUZMSHY5VElGV2VseGFaZWJfdHcwWkUybkt6MGRINjRYSWM5TVJEd0dfVEJDbU1hTGRFN21rYnIyMHhfRkE2WWt5NF9TUHp3V0hDamt2a2dMbmlmU1gxMGNHb01uZVh0aFhTN2xjaFozTkI1cTVUdmh0Q0VpLXZBWTlQendqSlhhdjJsYmdaVWlJdHJwU1Z1dnliV0p6V1RkVVVLenJDS3pCdXE0bTBWdTkzVWFXeEtpeTlDellQbkpBNnY?oc=5",
-      "snippet": "Calgary weather: Potent Prairie storm includes significant risks to travel and infrastructure &nbsp;&nbsp; CTV News Blizzard warnings and 50+ cm of snow: Dangerous travel days on t",
-      "pub": "Wed, 22 Apr 2026 17:53:56 GMT",
       "image": ""
     }
   ],
