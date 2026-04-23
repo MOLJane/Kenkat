@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T19:47:40.064804+00:00",
+  "generated_at": "2026-04-23T20:43:51.274477+00:00",
   "count": 16,
   "items": [
     {
@@ -9,6 +9,14 @@
       "snippet": "Environment Canada has issued a yellow snowfall warning for the Avalon Peninsula after upgrading snowfall amounts expected this weekend. A total of 15...",
       "pub": "Thu, 23 Apr 2026 19:32:00 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/highway-driving-snow-visibility.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "‘I Will Not Be Shamed Out of This Chair’ Vows Tourism Minister",
+      "link": "https://vocm.com/2026/04/23/i-will-not-be-shamed-out-of-this-chair-vows-tourism-minister/",
+      "snippet": "\"I'm proud to stand here today to say that enough is enough, that I will not be shamed out of my voice and I will not be shamed out of this chair.\" Th...",
+      "pub": "Thu, 23 Apr 2026 17:38:59 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/andrea-barbour-1.jpg"
     },
     {
       "source": "VOCM",
@@ -59,14 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/01/humane-services-st-johns.png"
     },
     {
-      "source": "VOCM",
-      "title": "CBS Moves on to Allan Cup Quarter Final Round",
-      "link": "https://vocm.com/2026/04/23/297349/",
-      "snippet": "The host Conception Bay Blues take on the Wentworth Gryphins tonight in Kelligrews in the quarter-final of the Allan Cup. The Stoney Creek Tigers defe...",
-      "pub": "Thu, 23 Apr 2026 12:33:42 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/allan-cup.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Carney says lifting U.S. liquor ban depends on Trump ending assault on steel, autos, lumber - CBC",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00TXExQUpNclloSDJNdkhac1U3aEhldmVVV0FQYkxYeHp0alg1U0VibEZSX2ozRWlldFRDcDNmRUU5UmRCcFkzTlc1dlRodTdEdGYtT2JqUklTc2wyM3RiVzZIUG1fbmVYMkZOUQ?oc=5",
@@ -76,18 +76,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Arrests Made in Project Lighthouse, First-of-its-Kind SMS Blaster Investigation in Canada - Toronto Police Service",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iNHR5OHlGalhnYmE4STVYSm84ME95eFJwd0pTX2hHU2J3QkRCWXJBeEJydkV4ellnWXhiclItTEh0WGJsUjRnRW52Tml2NmVtdDROZWI2ekNld1JqU1hPUWZB?oc=5",
-      "snippet": "Arrests Made in Project Lighthouse, First-of-its-Kind SMS Blaster Investigation in Canada &nbsp;&nbsp; Toronto Police Service Toronto police to reveal results of cybercrime probe T",
-      "pub": "Thu, 23 Apr 2026 14:45:23 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada’s Carney Says He’s Prepared to Wait on Trade Talks Until U.S. Addresses ‘Irritants’ - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHhpR2tkLXhuZWVrMm1OSjFMbkR5eXZlQ1VVd1FuWUdzcW1oZTRPLW5wM2hjMkMwQkJkZk56MHNTTXZvSUkxNGpRSG51dFo0eUk2YmttZDlrQWY4SFR5SFVobW05cU5PdkdxWVpna2ZqNmlyUzNnQWtOYzdXWkFPekEydVNrTkxiQ3pjV21iSEtPVW1aQ3lSNkFfUE9ldi04ZXFrUzU4UE12aHJPYkdiaFIxVldsRzh6dWJZYjh2LXJSc0lYV3I0dQ?oc=5",
-      "snippet": "Canada’s Carney Says He’s Prepared to Wait on Trade Talks Until U.S. Addresses ‘Irritants’ &nbsp;&nbsp; WSJ View Full Coverage on Google News",
-      "pub": "Thu, 23 Apr 2026 15:47:00 GMT",
+      "title": "Carney 'disappointed' in Canada's ambassador in Washington for English-only invite to MPs - CBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SeDFCNE12bVViM2hOQU11WW12OVZVdDBIWGFtYkY3c0VsbXNPQXVaTkZXZUxOOURuejM1akxwd1B3cS05RWNkcXkzMUp1cmhxT0I4bkdJekQ3dlBqLWo1eVJRbWhPc0s5ZU15Y2FPckYxYlBNczdDMlFHRjQ?oc=5",
+      "snippet": "Carney 'disappointed' in Canada's ambassador in Washington for English-only invite to MPs &nbsp;&nbsp; CBC Canada's top envoy to Washington apologizes for sending English-only invi",
+      "pub": "Thu, 23 Apr 2026 17:51:46 GMT",
       "image": ""
     },
     {
@@ -100,34 +92,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta Premier Danielle Smith set to update fall referendum question plan - Global News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2RZRE16b0hKRWlwNE83RTVBRTBiMEN0UnAzMU0zUmVubXFrUW9tV2lTY3RFN1lsb1F2UkE4YkVvQVNnWkl1WFZwOW44ZnZqSFRZTzJidHlaR3FqTFNLUm9YMkZpQWptN0RnUlF5WDg2NjRwOUhQSGFsYWkweHhRU0lXYkpDMW1LbURhc2lYeE9HTWptODJUQ2J5T1Mzdw?oc=5",
-      "snippet": "Alberta Premier Danielle Smith set to update fall referendum question plan &nbsp;&nbsp; Global News View Full Coverage on Google News",
-      "pub": "Thu, 23 Apr 2026 12:35:55 GMT",
+      "title": "Canadian astrophysicist among dead and missing scientists at the centre of U.S. probe - National Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbG15X1JzXzU5eHRpY0NzTFNDTHJTRGxjNFlJLVBqMi1YSF9FdGprNDc3ZWRKUFpxNzN4WWpOd3FrNGRJdWJrWVNKbC0xVzBqYVdxWGdzZmxrRUFnMHMwNld5TUluYlpMUXEtUnFUTVRVckg5OVR2RUZ3bTJiZW55d0JZWl9QbmdZdmFyVUlXeUZBV3FvaS10T3FEQms0ZjlqOWJvRnRvdzkzZThueTRHd18temY2WDNnM0pVZXBR?oc=5",
+      "snippet": "Canadian astrophysicist among dead and missing scientists at the centre of U.S. probe &nbsp;&nbsp; National Post At least 10 people tied to sensitive US research have died or disap",
+      "pub": "Thu, 23 Apr 2026 11:36:16 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Parts of Manitoba to get pounded by spring blizzard - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0ZzUVR2M2xaZ1RaUUx4V3R3SzZnTlRkSVZ0UzF0dzZXUXQxTW9MUFBEWFM1aThNU09IWGZEc1dscFlqY2Q2U1FBRHktY0JGTHRyQWh3WnVDQ0Jtdm5PczRaN05SU0VyQ3gzM2lrYjJBeEZqaXBmRVR2RndDbG0wSFRJeTBlcWc?oc=5",
-      "snippet": "Parts of Manitoba to get pounded by spring blizzard &nbsp;&nbsp; CTV News Northern and central Manitoba hit by ice, fierce winds amid blizzard, freezing rain warnings &nbsp;&nbsp; ",
-      "pub": "Thu, 23 Apr 2026 12:33:31 GMT",
+      "title": "Arrests Made in Project Lighthouse, First-of-its-Kind SMS Blaster Investigation in Canada - Toronto Police Service",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iNHR5OHlGalhnYmE4STVYSm84ME95eFJwd0pTX2hHU2J3QkRCWXJBeEJydkV4ellnWXhiclItTEh0WGJsUjRnRW52Tml2NmVtdDROZWI2ekNld1JqU1hPUWZB?oc=5",
+      "snippet": "Arrests Made in Project Lighthouse, First-of-its-Kind SMS Blaster Investigation in Canada &nbsp;&nbsp; Toronto Police Service Toronto police to reveal results of cybercrime probe T",
+      "pub": "Thu, 23 Apr 2026 14:45:23 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Man struck and killed ‘trying to corral dogs’ on B.C. highway - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVR1Ukh3SW1Ja0hfcGdTQS1aYlZxRGRHa2VaSkFEMHpVR2t0Q2VYb1BHWTItc0pmOHMyaVNFbkdwakxwd2tmR1lSbWRRT19aSHBMUGtFd0FSZ05RaGhHTU1teTdENk94dHYwSjVNSXpQdkFPTjdUcDZzQ09JOTJVTEp0T2o2Um83YVFHYldENHNSZlpzTjBGcFZFaDZfREFp?oc=5",
-      "snippet": "Man struck and killed ‘trying to corral dogs’ on B.C. highway &nbsp;&nbsp; CTV News UPDATE: Pedestrian killed in collision on Lougheed Highway in Maple Ridge &nbsp;&nbsp; Maple Rid",
-      "pub": "Thu, 23 Apr 2026 15:34:00 GMT",
+      "title": "Ford government passes budget that lets premier and ministers keep office records secret - CP24",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONFowa29GaUtnZ0dubnllNTU4TUFlNURRT085eGFVWUhJVUJIbkh3Vm81SkkweDN0cXVVMGp2NjNETlRzSUlhcEo1R213Ylp5cnRKWmh4MnlVaHZfRkFwbVQ3NEc3dFZweVY5cU9Kb3l2ZnIzM3VTMlp1MmNKa1VaRHAwQU1uSTFhZ3NxNVc2eDdzMWc5bWVkQVBuT1RuRVZxRGVoWXhFaHBEa1o4eGM0TmdvTV9QT1UzV1NNS3QzczNpb2cwVEpFWEltaFhyeXRwS2tvWmtuMWJHQQ?oc=5",
+      "snippet": "Ford government passes budget that lets premier and ministers keep office records secret &nbsp;&nbsp; CP24 Ontario fast-tracks FOI changes that will shield Doug Ford’s phone record",
+      "pub": "Thu, 23 Apr 2026 17:04:55 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "In tearful speech, N.L. tourism minister decries 'bullying' following AI controversy - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelN2NFljX0wtOGZmbF9Ba2MxYW90ZzFKMUtfWEdXdVlFYmFWNnpydzJpaV9Xb3lHTDN0bGxRZmxESWEyZFRhRnhsT3lzc2g3Qy1nTldDTFVsTzBnUGNTb1NhcjVfdlhlYzhKcUlENXZrQnhrVGJ5WnVIdW5WdGdIbkpsZm1QdWd2VERROGhuSQ?oc=5",
-      "snippet": "In tearful speech, N.L. tourism minister decries 'bullying' following AI controversy &nbsp;&nbsp; CBC N.L. arts and tourism minister says she regrets posting image altered with AI ",
-      "pub": "Thu, 23 Apr 2026 18:46:57 GMT",
+      "title": "Mark Carney blasts U.S. over ‘violations of our trade deal” - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYUJTWGpzU2YxbFVicW4tSHJleXlqZzhZOEVNQXVwNVliOXFuR1lVbGxkNGxFUFNNSG02LUFJYzQ5dE5zbUZPa3M4VU85NldmX2NSZmZoeURLdmdFVXZUMFljemlYOTFjYllWMDBmd1RraDRTcWRPRi1ObTh3a0pHUnZmYkhuLVcxLS1DSkpTV3QwRk9EX3MtbmFGT0tYX1p0M1AzQmJ3VEY3QUdpZ21VMFVxOFBEX0poREtvRFVDdHF6OXl1bTh4UFFFckRza2NIWVhJQmJOd3VvUEtmaWs0?oc=5",
+      "snippet": "Mark Carney blasts U.S. over ‘violations of our trade deal” &nbsp;&nbsp; Toronto Star Steel, aluminum tariffs are trade irritants for Canada, Carney says &nbsp;&nbsp; Global News B",
+      "pub": "Thu, 23 Apr 2026 19:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Cross-examination of fictional crime boss in Dean Penney trial explores timelines, claims of innocence - CBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWDcwcVNNalJ1TG9jVXVrOEVHVTlKNnF6ZnRHMm1WUVlaVmJJbDhSb2wzUFJrQkRteUI2WFdIUlF2d2ZjV2NMWEZlWHhIYlVUdjlHYmFFRWFlUlgtQWhsWUJTQ0JOQlJFTEs0c25oc0Eya0hSbFR2eklicmZyamtXaXdndDdndU1tSVprRkhSMGdxMEE?oc=5",
+      "snippet": "Cross-examination of fictional crime boss in Dean Penney trial explores timelines, claims of innocence &nbsp;&nbsp; CBC Why undercover cops held two interviews with Dean Penney &nb",
+      "pub": "Wed, 22 Apr 2026 21:32:58 GMT",
       "image": ""
     }
   ],
