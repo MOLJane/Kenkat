@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-04-24T09:14:33.114418+00:00",
+  "generated_at": "2026-04-24T10:48:56.566069+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "North Atlantic Not Experiencing Any Supply Shortages So Far",
+      "link": "https://vocm.com/2026/04/24/297410/",
+      "snippet": "North Atlantic has moved into new headquarters on Kelsey Drive in St. John's. The energy company, which is branching out into other sectors of the ind...",
+      "pub": "Fri, 24 Apr 2026 10:32:01 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/north-atlantic-new-office-kelsey-drive.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Barbour Believes Bullying Sends Wrong Message to Women and Girls",
+      "link": "https://vocm.com/2026/04/24/297402/",
+      "snippet": "A much-maligned rookie cabinet minister, tearfully and emotionally, called out her detractors in the House of Assembly yesterday including politicians...",
+      "pub": "Fri, 24 Apr 2026 10:03:56 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/andrea-barbour-house-of-assembly-april-23-2026.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Memorial University says Uproar from Recent Job Postings Fuelled by Misinformation on Social Media",
+      "link": "https://vocm.com/2026/04/24/social-media-spread/",
+      "snippet": "Memorial University says the uproar caused by some recent job postings has been stoked by misinformation shared through social media. The positions in...",
+      "pub": "Fri, 24 Apr 2026 09:32:39 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/07/mun-memorial-university-clock-tower.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RNC Respond to Instances of Shoplifting at Separate Businesses",
+      "link": "https://vocm.com/2026/04/24/rnc-respond-to-instances-of-shoplifting-at-separate-businesses/",
+      "snippet": "Metro police had their hands full yesterday dealing with reports of shoplifting. The first call came in yesterday evening around 7:50 from a store on ...",
+      "pub": "Fri, 24 Apr 2026 09:14:35 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/handcuffs-3.png"
+    },
     {
       "source": "VOCM",
       "title": "AG Scolds Previous Government for Emergency, Fraud Failings",
@@ -35,43 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/03/generic-esso-gas-pump-fuel-prices-pub-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "April 24, 2026 – How confident are you in your community’s emergency plans?",
-      "link": "https://vocm.com/2026/04/24/april-24-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12839').",
-      "pub": "Fri, 24 Apr 2026 08:02:56 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/08/wildfire.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Major Snowfall Coming this Weekend for the Avalon Peninsula",
-      "link": "https://vocm.com/2026/04/23/major-snowfall-coming-this-weekend-for-the-avalon-peninsula/",
-      "snippet": "Environment Canada has issued a yellow snowfall warning for the Avalon Peninsula after upgrading snowfall amounts expected this weekend. A total of 15...",
-      "pub": "Thu, 23 Apr 2026 19:32:00 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/highway-driving-snow-visibility.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "‘I Will Not Be Shamed Out of This Chair’ Vows Tourism Minister",
-      "link": "https://vocm.com/2026/04/23/i-will-not-be-shamed-out-of-this-chair-vows-tourism-minister/",
-      "snippet": "\"I'm proud to stand here today to say that enough is enough, that I will not be shamed out of my voice and I will not be shamed out of this chair.\" Th...",
-      "pub": "Thu, 23 Apr 2026 17:38:59 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/andrea-barbour-1.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "City’s Policy on Parklets Garners Questions from Councillors",
-      "link": "https://vocm.com/2026/04/23/297352/",
-      "snippet": "Some St. John's councillors had to be schooled on the city's seasonal parklet - or patio - program this week. The renewal of the plan came before coun...",
-      "pub": "Thu, 23 Apr 2026 15:38:44 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/06/pedestrian-mall-2024-7.jpg"
+      "source": "Google News Canada",
+      "title": "Carney says lifting U.S. liquor ban depends on Trump ending assault on steel, autos, lumber - CBC",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00TXExQUpNclloSDJNdkhac1U3aEhldmVVV0FQYkxYeHp0alg1U0VibEZSX2ozRWlldFRDcDNmRUU5UmRCcFkzTlc1dlRodTdEdGYtT2JqUklTc2wyM3RiVzZIUG1fbmVYMkZOUQ?oc=5",
+      "snippet": "Carney says lifting U.S. liquor ban depends on Trump ending assault on steel, autos, lumber &nbsp;&nbsp; CBC Steel, aluminum tariffs are trade irritants for Canada, Carney says &nb",
+      "pub": "Thu, 23 Apr 2026 16:12:00 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Why Trump's appearance at White House correspondents dinner is triggering controversy - CBC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEdHODFCZXhNQnVESFpDd2J5UjFFVzhscnRYbklGWmlYY1BSNDduc2o2TjEzZWwycW1xc1Z6aTg5YkVEcEk2N3ZZbV80RGdmWkM3aWFEbGNJR1l0cml2TnliMnFha3ZNRVcwSmVVUWFQVEN1SFVMR2pWQ2JKNG1iVHptRkg1cnVwZGZwS3p1WDlXWll4SVE?oc=5",
-      "snippet": "Why Trump's appearance at White House correspondents dinner is triggering controversy &nbsp;&nbsp; CBC Why are White House journalists partying with Trump? | Margaret Sullivan &nbs",
-      "pub": "Fri, 24 Apr 2026 08:00:00 GMT",
+      "title": "Russia says it received invitation to G20 Miami summit at 'highest level' - The Kyiv Independent",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNajdLVVN4LS1ENGxTNUZVMF9pMDdLaUpYMklyZFVHa2tsc2xoVGkwSE5VMm0zRVBaVDg2Sk9xeDRfRXBUeExlZlVPLXpYSnozSGdwSFpPcVh6b2VCcTFXdWpkWG1CdENzZzZWeUZMQnhZS19QX3hGU1ROLWthS3pfOHdpQmhQRUthOGY2bkVZQQ?oc=5",
+      "snippet": "Russia says it received invitation to G20 Miami summit at 'highest level' &nbsp;&nbsp; The Kyiv Independent Trump intends to invite Putin to G-20 summit in Miami, officials say &nb",
+      "pub": "Fri, 24 Apr 2026 10:18:45 GMT",
       "image": ""
     },
     {
@@ -84,14 +92,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Carney Says Booze Bans Can Be Resolved ‘Quickly’ if US Acts - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1d2OTFuRkF3OHRlTXB0WHNoVFg3MndYTkRzV0NoUTFDNUpzVnYwRjVqQWNFUGM4X2JYVkdNN2FNb25xREVWREhaSUY1SFJpTlBkc1d4bDlGaC1UdHFzYm9uT0JaNzU5emZhRFRlNHc0RHJOSWN3OHFHbEltVUN1eGNnTmt5cDVRNzhENk1lMnNxVmhqN1VZNWs4ZEJ5WjV1RTg0M0hoUDRkUlJPR2daYnpR?oc=5",
-      "snippet": "Carney Says Booze Bans Can Be Resolved ‘Quickly’ if US Acts &nbsp;&nbsp; Bloomberg Steel, aluminum tariffs are trade irritants for Canada, Carney says &nbsp;&nbsp; Global News Opin",
-      "pub": "Thu, 23 Apr 2026 21:50:19 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "WATCH: N.L. minister cries while apologizing for using AI in social media post - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWjc0ZUZsaVJwNm1GeV94MXNNWjZpc0Y4cGdFZkVyREVmZTlkblVQVThiV1lhaFRCUERtbmxkX3doSTZEU0tRRENiTVhxMnduN0htTG5qRmYzOU5YNmIzNkxGVExqM3NaNU5MWnRjTWk0VGNSaTdPV2RRR09ra0t6dmx5aDZXSk82alMxcXlURVJlYWJPUzV3UHYwRVlMRDJVelRjM19tX0R4MVM0MmY1eW8wLTBwSjRhc0RkWEdJTkZSTEx3SlpoYnBidGNvM3luNkJ2a0RwM0Y?oc=5",
       "snippet": "WATCH: N.L. minister cries while apologizing for using AI in social media post &nbsp;&nbsp; CTV News WATCH: N.L. minister cries while apologizing for use of AI in social media post",
@@ -100,34 +100,34 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump orders U.S. military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZVN0cTY3V050ZW5QLWlKX0g1SERPUG56MnpOd0JxVUp3dUdMY3NRak5KbTZaOVBKTENBQWh2MnNsaGdqYS1XSEVpemZ1ejhnMmlncUUyMWhFVEZhS0Z5dHlpR2pUWmo4Vk8wb1pTeHBEQUl0ODhpdW5fMFVSbHNLYnowUktsTUYxWl9hWWRuTDFFYjRVT3pDWFFYa0owTEpfT2NEUmZBZjEtZkxUbE80cFZ4WmNaVjYwbkRrUTdlU1RmT1ZYcHhfOXVzeVRZZkVieU9Dd2hhbHV2QQ?oc=5",
-      "snippet": "Trump orders U.S. military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz &nbsp;&nbsp; CTV News Trump claims US has total control over strait of Hormuz after Iran",
-      "pub": "Thu, 23 Apr 2026 22:05:54 GMT",
+      "title": "MLA asked to withdraw ‘disgusting’ comments made in legislature - CityNews Vancouver",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHZWQ1akN2Q0R6VEI3bmJ2Q0JyaWFTSGpTREFkOTFlYk5qWHRQVzlqNHpSemxIZTN2SXdZSjRJOU5qMDFaeUpGNXNkbzdJemQyRVAwRG01R0NvZjFfS292QmVfTnZvU0R2aWttQ3BSNmM?oc=5",
+      "snippet": "MLA asked to withdraw ‘disgusting’ comments made in legislature &nbsp;&nbsp; CityNews Vancouver ‘Nazi rhetoric’: MLA slammed for ‘blood and soil’ remark in B.C. legislature &nbsp;&",
+      "pub": "Fri, 24 Apr 2026 02:17:50 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "B.C. sees 'no reason' to put U.S. booze back on liquor store shelves, minister says - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0N6VDJzZDdxRG56LXpwbEY4X0tEcnFhc21YRkpoV2NVbHQ2a2J5ZWFISFRuV1E4Mjk4bUMxWVRTRzJ2RWYxWG1lRXplNm9sNXFRcDRlbnFKVVpFQlZjMmhiS0tna09oZ1dxNUNhaF9vblRETDk0dzA3dXN1bVhOeE05dl9NdWM?oc=5",
-      "snippet": "B.C. sees 'no reason' to put U.S. booze back on liquor store shelves, minister says &nbsp;&nbsp; CBC View Full Coverage on Google News",
-      "pub": "Thu, 23 Apr 2026 17:00:57 GMT",
+      "title": "Alberta premier leaves door open to pursuing some referendum initiatives even with ‘no’ vote - Global News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3pBeERZR0cxa2gzS3R0QzhaR1VpZkxzRHJzMjMtbHhYTWxYb0ZPQUVfX1h4Mi16blctUDl0bEE3MVF4dDlFZ3FPTVpFU3VEV2M2OENrYkwzbHg2VllzY3VGRVhkcVg2UFFrdXhZVVI0SGlCZWg1SnNDTk9uQ0tDVzlabS1mcTE4VlJwQ3RkcFNmX3hJZHc?oc=5",
+      "snippet": "Alberta premier leaves door open to pursuing some referendum initiatives even with ‘no’ vote &nbsp;&nbsp; Global News Alberta launches referendum website to educate voters on ballo",
+      "pub": "Thu, 23 Apr 2026 20:19:46 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Residents of Peace River warned of possible flooding, to be ready to evacuate - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWXBxSkVVcXdBd1pBamh6cFJCM1JoTlh5TXNaQmdudzA2TDVRQzl1S2FZblc4bm5uWDNQQ3hQNGJIcGpGWW9KTjdrTEpWeFc4Y0VEb2w2YUl3aU9DNWh5RzhMdlFzYUlKQ01VME9qbl9ETXlGQ3JVRHhhWkt3WkRtZi0tMVozZmZlMTF3Y192TQ?oc=5",
-      "snippet": "Residents of Peace River warned of possible flooding, to be ready to evacuate &nbsp;&nbsp; Global News State of emergency issued amid Peace River flood warning &nbsp;&nbsp; CTV New",
-      "pub": "Fri, 24 Apr 2026 00:14:54 GMT",
+      "title": "Indigenous ancestral remains were found 20 years ago. Ontario says the new homeowners have to investigate - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNemhuRko2U0NyU2lfbTdPbHF6bUc2eFhScGxIQzFSYjBFWDRDVV82Wi1uLWgyUldVXzZjcmV5cnlwNlFkVzJRbUd4UFVrdU5pTVFnb1dqZkVYVG8yV3AtUWRhRTgtV0dzYVZQMVFZS0ZlTXE0aDY3VlVXbHJtZTB2czBKN1ZDaWQ3NFNzVnFR?oc=5",
+      "snippet": "Indigenous ancestral remains were found 20 years ago. Ontario says the new homeowners have to investigate &nbsp;&nbsp; CBC",
+      "pub": "Fri, 24 Apr 2026 08:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta launches lobbying campaign ahead of October referendum on immigration, constitutional reforms - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEtMNGVpVThsS1lGSDJzd1FwaWZ6UjYwamVlTDYtN1hzM0NaNVI2TlNYLWNXSWxmNjJaN0w1SnBMdVloX2YtRy1oUXRud3BnZlYxQWVhTjVjMjlSUFFCX2lFci1BLWw1TzlyU1R1SFA1dXFheFloLUl5MFRLUllyZHU0cUhydlY2U282MnNqWXhNbWlZcmtEMkxMSklpRjdwTkJBOUZR?oc=5",
-      "snippet": "Alberta launches lobbying campaign ahead of October referendum on immigration, constitutional reforms &nbsp;&nbsp; The Globe and Mail Alberta premier leaves door open to pursuing s",
-      "pub": "Thu, 23 Apr 2026 19:21:16 GMT",
+      "title": "Sask. communities could see up to 50 centimetres of snow as major storm rolls in - CBC",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQl9UdTNfSGdVVkk1UEdEMHVibVBLa3h2ZmVVcVlFWGFsYWY3bHN1SjhpSTNVMjdlUm1fa29HX290V2JNRlhqVXdPZHplV3NJQXhFUUd6RXZHTWpYcUZTWE5kWWdYQ016NkREc1NwRmhub05jRUJuY0dqbk5BamVVMUUxejYwaXlDY1FrNmFiZ3NzY09JaUdTbVRidUdiSTFJTE1RaUR2UEhwZkhqMWdBMm1QdkZIMS1CM0paVWxYVQ?oc=5",
+      "snippet": "Sask. communities could see up to 50 centimetres of snow as major storm rolls in &nbsp;&nbsp; CBC Blizzard, freezing rain warnings continue in central and northern Manitoba, southe",
+      "pub": "Thu, 23 Apr 2026 16:12:00 GMT",
       "image": ""
     }
   ],
