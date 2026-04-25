@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-04-25T11:58:40.661149+00:00",
+  "generated_at": "2026-04-25T13:07:20.460258+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Ministers Respond to Critical AG Findings",
+      "link": "https://vocm.com/2026/04/25/297512/",
+      "snippet": "Both the ministers of emergency preparedness and finance say progress is being made in recommendations contained in the latest report from the Auditor...",
+      "pub": "Sat, 25 Apr 2026 12:06:24 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/pleaman-forsey-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Stephenville Business Gutted by Fire",
+      "link": "https://vocm.com/2026/04/25/297529/",
+      "snippet": "A commercial retail outlet in Stephenville went up in flames yesterday afternoon, resulting in heavy damage to the steel building. The fire resulted i...",
+      "pub": "Sat, 25 Apr 2026 12:04:47 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/stephenvillefire-calebfarrell.png"
+    },
     {
       "source": "VOCM",
       "title": "New CorCare System Launches Today Across Province",
@@ -51,22 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/snow-kenmount.png"
     },
     {
-      "source": "VOCM",
-      "title": "Baton Rouge Police Identify Suspect in Deadly Mall Shooting That Killed Lafayette Student",
-      "link": "https://vocm.com/2026/04/25/baton-rouge-police-identify-suspect-in-deadly-mall-shooting-that-killed-lafayette-student/",
-      "snippet": "A 17-year-old suspect is in custody following a targeted shooting at the Mall of Louisiana that claimed the life of an innocent bystander and injured ...",
-      "pub": "Sat, 25 Apr 2026 08:02:03 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/04/1071024.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "April 25, 2026 – How do you feel about the prolonged winter weather the province has seen this year?",
-      "link": "https://vocm.com/2026/04/25/april-25-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12842').",
-      "pub": "Sat, 25 Apr 2026 08:01:18 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/whiteout-drifting-blowing-snow-goulds.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "High winds halt CTrains on stretch of Red Line during afternoon rush - CityNews Calgary",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54Sk8yQU5OWFo4RElfYUktZ1NnV2RQMVp2R2swdG5MN1EtYjJmWjNmNUpLa0VMWlJOMDc3a09UYWRFVDJ3ZHItbjZiTTIxUUpzNXFOWklQMDd1WE9GNGMyaWFPWmNHSkdnekRRLVl3ZHloelpWemdiM0R0VQ?oc=5",
@@ -84,50 +84,50 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Canada, Mexico agree to ‘close coordination’ on USMCA talks - The Globe and Mail",
+      "title": "OpenAI CEO apologizes to Tumbler Ridge for not alerting police about shooter’s account - Global News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcXZKM2w4SzJXWUkxVzFMbF92RkQ3LVMxLWg1RS1HVDhpZnM5bnRNMFR3aWthNFRHbU45VTd5blplTzJuc2s4S0VleVIya0l4c0d2ZW1qZGZ3a1RnNlZTTUJNZVl0N1hTeGhma2YwUUlweWVzXzRfWFBoMEFjdTlQZXhNMUIxUGJOM043aTM2b3BQOFRNQTJBWUNPMXlYQmRjdVpnU3gxOFhld0tOTnc?oc=5",
+      "snippet": "OpenAI CEO apologizes to Tumbler Ridge for not alerting police about shooter’s account &nbsp;&nbsp; Global News OpenAI’s Sam Altman apologises over failure to report Canadian mass ",
+      "pub": "Fri, 24 Apr 2026 20:07:20 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Canada, Mexico agree to ‘close co-ordination’ on USMCA talks - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS3JLMFFteThoWTlEMmp3OWxnVG4taEtVZEpiRTRYWlRULWRrcHJZU28wTFFJY2dyR0hmVjJTRzBmWG45OVNqOTRvaGhES3htSEcyQ1VWVWFhODg1WlVEamtsbHVHWnFPd0c1Sm41bl9oV3p3UFk3WDlaOWp1eEFJWWFGenJFSWJaTF9GRG1hVFgwWk8yeFEzYWVrUkd3WDZ2VVhaYnBxbGhQZw?oc=5",
-      "snippet": "Canada, Mexico agree to ‘close coordination’ on USMCA talks &nbsp;&nbsp; The Globe and Mail Carney talks CUSMA review with Mexican president as official negotiations loom &nbsp;&nb",
+      "snippet": "Canada, Mexico agree to ‘close co-ordination’ on USMCA talks &nbsp;&nbsp; The Globe and Mail Carney talks CUSMA review with Mexican president as official negotiations loom &nbsp;&n",
       "pub": "Fri, 24 Apr 2026 23:57:20 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump administration to prioritise seeking death penalty, use firing squads - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOExsY0tUTXZlanFSeVh1cXptaVZNaElKTTJBT2RDMmEwa3FyeUVtMGpWWWQ5UmNpS0JhOE42Q0Y4d05FR0FXa1VOYzFzWVJwRVN0VGJUbF84cHZQNmQ5cGptaFdhVURqUTRMUk5VU1Y3WDFLM2hUdEl0ZUprVHhzNzdpN2pVNlI3TFNxLVF3aHpJY0lxUFh1cVkzYVdSejV0Y0NaeGk1TU5laW1ua2xHN2tkTVIzd9IBuwFBVV95cUxPUmhCYlpHTVcwTWZhYjBwaFd6UEJuRk1kcGVkb252NnlmSmlTcW5Ncm1HMWxlc1dwNC05b2ZmekRya1FlQkhOa0swREgyRHpmOW90UUR0NDJwZEJaNWRvZUxVTVNvYmFaRFpINzFtTGpQNFh0TTRVSmZrSXZfVFhhaHJMb1djSmNTQllDWUJZV1FHZUdEb08yQXMwUUxGU041Uk56ZENzeGZETURYZ01ORHBWeC1EeDBFMDFF?oc=5",
-      "snippet": "Trump administration to prioritise seeking death penalty, use firing squads &nbsp;&nbsp; Al Jazeera Trump’s Justice Department is bringing back firing squads for federal executions",
-      "pub": "Fri, 24 Apr 2026 17:42:22 GMT",
+      "title": "Highway 63 near Wood Buffalo 'impassable' as blowing snow wreaks havoc on Alberta highways - Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmktdVlLRkxrYkNVSS11RDd1aDJydTFyZWFhRE1iZXhVU0NZTkZ4YWpkQjlXYmxyS3dhblI5NmZOUWRnQjduZTFmTDBZaUFIWTdHV1lOa0FEanBRRlNCSEhaRGhCNDQ4emlvQ09hR05VbDZxWkJ1cDJZYU14NGVGMnFab2ZVSW9XVjkyWDQ1OUFsdTg?oc=5",
+      "snippet": "Highway 63 near Wood Buffalo 'impassable' as blowing snow wreaks havoc on Alberta highways &nbsp;&nbsp; Edmonton Journal Spring storm wallops northern Alberta, stranding motorists ",
+      "pub": "Sat, 25 Apr 2026 05:33:41 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "VIDEO: More than 52 Saskatoon crashes during latest spring storm - 650 CKOM",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaEdCbGZ0N1hMdm02cVRJTktlU0V2WGM0cjBRdE14M2tMTm1JSTZCZnU1VWpYYU9hUWVMcEFEYVA4NDVzYngyZXU0NkRFVmhwMHNqc1YxNTNXaDBUUXRiaUZwb2Zvd0FzY2I3eHhsVVFFLXFwZ2pacGhkODdNMnFuRlNhR0JCQzdibWJPSTNqbHF3Z05qLW1Nd0Y0TGU?oc=5",
-      "snippet": "VIDEO: More than 52 Saskatoon crashes during latest spring storm &nbsp;&nbsp; 650 CKOM UPDATE: Public Advisory: Winter Road Conditions &nbsp;&nbsp; Saskatoon Police Service Update:",
+      "snippet": "VIDEO: More than 52 Saskatoon crashes during latest spring storm &nbsp;&nbsp; 650 CKOM UPDATE: Public Advisory: Winter Road Conditions &nbsp;&nbsp; Saskatoon Police Service Blizzar",
       "pub": "Fri, 24 Apr 2026 21:01:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Landlord facing charges after deadly Old Montreal fire has lawyer’s licence suspended - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazg2NVl6amxLcDNnYndpenRIejQwQXZkTS1pZ3BQdjlhNDNCdUNBa1I3dFpxdExhOV9FZ2VKdElkZ2xkMXNhamxETEdpeHQtblVwaUpCR3NxbENjN1VVOUlndkFVczhwOG1UMURoSVZhRlFDaFEtLXI3d0hWdk16V2I4bXhIWVhyQW91ZjNjMUZPODVvaExWU0ttbUVNLXNybjRFdTFMS3Qxd1NDVUtpOFFYbjd5Q3hFU2RBOE1welBveDFPcUlOODlZbGlXaFE?oc=5",
-      "snippet": "Landlord facing charges after deadly Old Montreal fire has lawyer’s licence suspended &nbsp;&nbsp; CTV News",
-      "pub": "Fri, 24 Apr 2026 20:57:41 GMT",
+      "title": "Prime Minister announces 8 housing projects in Ottawa through Build Canada Homes partnership - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOajJqdXVCZGpLZHRRUlJWTWtSTm9ObFJzdHE2aExkTW5FNGxBM0g5dWF1bTdlS0tlckRna29wZHA3dmFtdDVmLUJMaU5jUnVkOEU0ZGVSTE9ta1cxS2pxbUowZ25GWjVLZkFaZUNCLU83cXN5Ni0tdHJ6MkRvU3pueW9ZNElSeHd4S1lIWlpobGVUT0p6eHZibGc0amhyb1hLdVR3TXUyOExxcVg2bVd5bS11ZGhCNm1uNnlwbmFMVGZzdEVobHp4U2JSYw?oc=5",
+      "snippet": "Prime Minister announces 8 housing projects in Ottawa through Build Canada Homes partnership &nbsp;&nbsp; CTV News View Full Coverage on Google News",
+      "pub": "Thu, 23 Apr 2026 15:23:34 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Drivers Stranded Overnight on Alberta, Canada, Highways After Snowstorm - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNll2MWlrdUpfYVo2QkFrY3dJMHZBeWtzWTVNSEp5aXZRbDFrMHp3M0FFeERvYjRZeWxoZnJRRHprOVRHdGVnTi1HS095UVByQlRwZ1ItUlg0TnQ3cklZVl9ZMTRQcmJfYkFoMUVhYUR6OWFPQXNtSElaQVFEUEtRSnRVQTYxbktIREZjQkRYYWc?oc=5",
-      "snippet": "Drivers Stranded Overnight on Alberta, Canada, Highways After Snowstorm &nbsp;&nbsp; The New York Times Motorists stranded for hours after snowstorm forces Alberta highway to close",
-      "pub": "Fri, 24 Apr 2026 23:04:49 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Ontario could seize most of Toronto Islands under proposed legislation, but province says it won’t - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1RYYmM3WTQ4cmg1aVRGTFlIX3JwNDduamo3U240M0dZVzRuSUxxZWRkNVZhNk85Y0FwckVKN3Z1QldxZWRlUGZhN1I5MlZSZFl3ZEViMXF5a29MdEcxZjRZeGNXWFA1eDdzV2JHWjdjOU1BclZjcjhEQXdWbjV1akxvMnllOWYxdE1DbHpxTFRqNklVaGluRHBOb2lFOWY1WkxOUUpmR3pHaVU?oc=5",
-      "snippet": "Ontario could seize most of Toronto Islands under proposed legislation, but province says it won’t &nbsp;&nbsp; The Globe and Mail Toronto mayor says park takeover for airport expa",
-      "pub": "Fri, 24 Apr 2026 21:40:53 GMT",
+      "title": "Mounties, border officers and cyber spies shut out of early retirement incentive - CBC",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMXBLcVRsaEF0bXNubkFvdWIzUkl2dElYSzBBR2dnQ2V0elFpUTEtVl94LTFHOFNMSjctbjluZnMwbWF3bWlzR0s2ek5pdWZKVnVSbzg3VDE1eHlPZm13LUNkcms3dW0yV3dXU0k0ZlVhUk04bmlteno2cElRTWo0azF0V1c2QW9WdktZNGVib3h6RU1kaGVrcXNUNzlaUFpCSHFaN09oc2NJWU85dG9qSjJWTVRqLXpadWdtb3V5Zw?oc=5",
+      "snippet": "Mounties, border officers and cyber spies shut out of early retirement incentive &nbsp;&nbsp; CBC Front-line officers at RCMP, CBSA not eligible for early retirement incentive prog",
+      "pub": "Fri, 24 Apr 2026 08:00:00 GMT",
       "image": ""
     }
   ],
