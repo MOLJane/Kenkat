@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-04-25T13:07:20.460258+00:00",
+  "generated_at": "2026-04-25T14:11:25.567732+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "ANC Symposium Helps Newcomers Break Into the Arts",
+      "link": "https://vocm.com/2026/04/25/297516/",
+      "snippet": "There's a symposium this weekend for newcomers to the country to talk about getting involved in creative arts, and overcoming barriers and challenges ...",
+      "pub": "Sat, 25 Apr 2026 13:28:27 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/ben-chapman-smith.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Ministers Respond to Critical AG Findings",
@@ -59,12 +67,20 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/09/drunk-driving-impaired.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Avalon Digs Out From Heavy Snow",
-      "link": "https://vocm.com/2026/04/25/avalon-digs-out-from-heavy-snow/",
-      "snippet": "It's a rough day on the roads on parts of the Avalon Peninsula after close to 15 cm of the white stuff fell last night and overnight. The snow is wet ...",
-      "pub": "Sat, 25 Apr 2026 09:21:56 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/snow-kenmount.png"
+      "source": "Google News Canada",
+      "title": "Driver in Humboldt Broncos bus crash granted last-minute reprieve - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN29VU0NINHpJSGlDbXpsR0lhUllxN1BueTZ6eHFod1B3T3BtbWlneEU5YWJMU0dnNHFTaHRzbnVlR1VJYjZka3lnTlVNRzlRTHo0OHJad1RMTHNiLVJXWk1Jc0dEOWEzY2VUdFZiVXFkWm1yOEZYUVhmN00yemtqaGdSLUxXd2xESHZGLWRqVW82Nk4wM0JNRmVWeUV5RmdRMlZUaC0zYTRVODBXTVZfRTM4WWlaRnJBRHpxekVuMlVLWkxaeFE?oc=5",
+      "snippet": "Driver in Humboldt Broncos bus crash granted last-minute reprieve &nbsp;&nbsp; CTV News Court defers deportation of truck driver who caused fatal Humboldt Broncos bus crash &nbsp;&",
+      "pub": "Sat, 25 Apr 2026 11:24:15 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "OpenAI boss 'deeply sorry' for not telling police of Tumbler Ridge suspect's account - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CclZpT2J3aGNDQWdsaGRsNFJqMjczRHpYVjRZSFh3WWRPUDdCRW1aM2M1dGFhVTFZcDNldndhYWRCaktJUFlYczZaTVVJYnNyZE5Kbk8ybVU1UQ?oc=5",
+      "snippet": "OpenAI boss 'deeply sorry' for not telling police of Tumbler Ridge suspect's account &nbsp;&nbsp; BBC OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter &n",
+      "pub": "Fri, 24 Apr 2026 22:45:28 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -72,30 +88,6 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54Sk8yQU5OWFo4RElfYUktZ1NnV2RQMVp2R2swdG5MN1EtYjJmWjNmNUpLa0VMWlJOMDc3a09UYWRFVDJ3ZHItbjZiTTIxUUpzNXFOWklQMDd1WE9GNGMyaWFPWmNHSkdnekRRLVl3ZHloelpWemdiM0R0VQ?oc=5",
       "snippet": "High winds halt CTrains on stretch of Red Line during afternoon rush &nbsp;&nbsp; CityNews Calgary City fire crews responding to multiple wind-related incidents as powerful winds w",
       "pub": "Fri, 24 Apr 2026 22:26:48 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Court defers deportation of truck driver who caused fatal Humboldt Broncos bus crash - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR0NXODUzOHdqUUl4TEczQmZpYlJ2ZTdWTlg5aXFaSW15QUsySmNqRnlzaVREVlppSmNVTzd6bjdzdEdudkU3aWlzbm9mR2J2cXNwRVM4aVpDdUxWdEMzVGlLSEJQdXpNcmJJRWhibjlrNlhJTVRXTTU3dUFXdzVpcURETnFFREs5NlI3bWVZS3Z2dw?oc=5",
-      "snippet": "Court defers deportation of truck driver who caused fatal Humboldt Broncos bus crash &nbsp;&nbsp; CBC View Full Coverage on Google News",
-      "pub": "Fri, 24 Apr 2026 23:49:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "OpenAI CEO apologizes to Tumbler Ridge for not alerting police about shooter’s account - Global News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcXZKM2w4SzJXWUkxVzFMbF92RkQ3LVMxLWg1RS1HVDhpZnM5bnRNMFR3aWthNFRHbU45VTd5blplTzJuc2s4S0VleVIya0l4c0d2ZW1qZGZ3a1RnNlZTTUJNZVl0N1hTeGhma2YwUUlweWVzXzRfWFBoMEFjdTlQZXhNMUIxUGJOM043aTM2b3BQOFRNQTJBWUNPMXlYQmRjdVpnU3gxOFhld0tOTnc?oc=5",
-      "snippet": "OpenAI CEO apologizes to Tumbler Ridge for not alerting police about shooter’s account &nbsp;&nbsp; Global News OpenAI’s Sam Altman apologises over failure to report Canadian mass ",
-      "pub": "Fri, 24 Apr 2026 20:07:20 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada, Mexico agree to ‘close co-ordination’ on USMCA talks - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS3JLMFFteThoWTlEMmp3OWxnVG4taEtVZEpiRTRYWlRULWRrcHJZU28wTFFJY2dyR0hmVjJTRzBmWG45OVNqOTRvaGhES3htSEcyQ1VWVWFhODg1WlVEamtsbHVHWnFPd0c1Sm41bl9oV3p3UFk3WDlaOWp1eEFJWWFGenJFSWJaTF9GRG1hVFgwWk8yeFEzYWVrUkd3WDZ2VVhaYnBxbGhQZw?oc=5",
-      "snippet": "Canada, Mexico agree to ‘close co-ordination’ on USMCA talks &nbsp;&nbsp; The Globe and Mail Carney talks CUSMA review with Mexican president as official negotiations loom &nbsp;&n",
-      "pub": "Fri, 24 Apr 2026 23:57:20 GMT",
       "image": ""
     },
     {
@@ -108,18 +100,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "VIDEO: More than 52 Saskatoon crashes during latest spring storm - 650 CKOM",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaEdCbGZ0N1hMdm02cVRJTktlU0V2WGM0cjBRdE14M2tMTm1JSTZCZnU1VWpYYU9hUWVMcEFEYVA4NDVzYngyZXU0NkRFVmhwMHNqc1YxNTNXaDBUUXRiaUZwb2Zvd0FzY2I3eHhsVVFFLXFwZ2pacGhkODdNMnFuRlNhR0JCQzdibWJPSTNqbHF3Z05qLW1Nd0Y0TGU?oc=5",
-      "snippet": "VIDEO: More than 52 Saskatoon crashes during latest spring storm &nbsp;&nbsp; 650 CKOM UPDATE: Public Advisory: Winter Road Conditions &nbsp;&nbsp; Saskatoon Police Service Blizzar",
-      "pub": "Fri, 24 Apr 2026 21:01:00 GMT",
+      "title": "Trump administration to prioritise seeking death penalty, use firing squads - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOExsY0tUTXZlanFSeVh1cXptaVZNaElKTTJBT2RDMmEwa3FyeUVtMGpWWWQ5UmNpS0JhOE42Q0Y4d05FR0FXa1VOYzFzWVJwRVN0VGJUbF84cHZQNmQ5cGptaFdhVURqUTRMUk5VU1Y3WDFLM2hUdEl0ZUprVHhzNzdpN2pVNlI3TFNxLVF3aHpJY0lxUFh1cVkzYVdSejV0Y0NaeGk1TU5laW1ua2xHN2tkTVIzd9IBuwFBVV95cUxPUmhCYlpHTVcwTWZhYjBwaFd6UEJuRk1kcGVkb252NnlmSmlTcW5Ncm1HMWxlc1dwNC05b2ZmekRya1FlQkhOa0swREgyRHpmOW90UUR0NDJwZEJaNWRvZUxVTVNvYmFaRFpINzFtTGpQNFh0TTRVSmZrSXZfVFhhaHJMb1djSmNTQllDWUJZV1FHZUdEb08yQXMwUUxGU041Uk56ZENzeGZETURYZ01ORHBWeC1EeDBFMDFF?oc=5",
+      "snippet": "Trump administration to prioritise seeking death penalty, use firing squads &nbsp;&nbsp; Al Jazeera US to allow firing squads, gas, and electrocution for federal executions &nbsp;&",
+      "pub": "Fri, 24 Apr 2026 17:42:22 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Prime Minister announces 8 housing projects in Ottawa through Build Canada Homes partnership - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOajJqdXVCZGpLZHRRUlJWTWtSTm9ObFJzdHE2aExkTW5FNGxBM0g5dWF1bTdlS0tlckRna29wZHA3dmFtdDVmLUJMaU5jUnVkOEU0ZGVSTE9ta1cxS2pxbUowZ25GWjVLZkFaZUNCLU83cXN5Ni0tdHJ6MkRvU3pueW9ZNElSeHd4S1lIWlpobGVUT0p6eHZibGc0amhyb1hLdVR3TXUyOExxcVg2bVd5bS11ZGhCNm1uNnlwbmFMVGZzdEVobHp4U2JSYw?oc=5",
-      "snippet": "Prime Minister announces 8 housing projects in Ottawa through Build Canada Homes partnership &nbsp;&nbsp; CTV News View Full Coverage on Google News",
-      "pub": "Thu, 23 Apr 2026 15:23:34 GMT",
+      "title": "Snow system expected to dump more on Sask. before moving on - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMEhENkV3V285Yy1HSUFWd2JzMm44eEI0YUtnRnk1dW5zOWlfcEZSQ3ZYVGZaWHQ1d1lVRzBuWFJUY1o0aDROV01UT0VQTW16OUxMSmhfSHUxUjRLSElHR3JRTDN1UHotOW5OSFdUZHdUQzFuTWFKaGJiUUJPOE5POUxPZUFDdw?oc=5",
+      "snippet": "Snow system expected to dump more on Sask. before moving on &nbsp;&nbsp; CBC UPDATE: Public Advisory: Winter Road Conditions &nbsp;&nbsp; Saskatoon Police Service Highway 16 closed",
+      "pub": "Fri, 24 Apr 2026 21:46:08 GMT",
       "image": ""
     },
     {
@@ -128,6 +120,14 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMXBLcVRsaEF0bXNubkFvdWIzUkl2dElYSzBBR2dnQ2V0elFpUTEtVl94LTFHOFNMSjctbjluZnMwbWF3bWlzR0s2ek5pdWZKVnVSbzg3VDE1eHlPZm13LUNkcms3dW0yV3dXU0k0ZlVhUk04bmlteno2cElRTWo0azF0V1c2QW9WdktZNGVib3h6RU1kaGVrcXNUNzlaUFpCSHFaN09oc2NJWU85dG9qSjJWTVRqLXpadWdtb3V5Zw?oc=5",
       "snippet": "Mounties, border officers and cyber spies shut out of early retirement incentive &nbsp;&nbsp; CBC Front-line officers at RCMP, CBSA not eligible for early retirement incentive prog",
       "pub": "Fri, 24 Apr 2026 08:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Prime Minister announces 8 housing projects in Ottawa through Build Canada Homes partnership - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOajJqdXVCZGpLZHRRUlJWTWtSTm9ObFJzdHE2aExkTW5FNGxBM0g5dWF1bTdlS0tlckRna29wZHA3dmFtdDVmLUJMaU5jUnVkOEU0ZGVSTE9ta1cxS2pxbUowZ25GWjVLZkFaZUNCLU83cXN5Ni0tdHJ6MkRvU3pueW9ZNElSeHd4S1lIWlpobGVUT0p6eHZibGc0amhyb1hLdVR3TXUyOExxcVg2bVd5bS11ZGhCNm1uNnlwbmFMVGZzdEVobHp4U2JSYw?oc=5",
+      "snippet": "Prime Minister announces 8 housing projects in Ottawa through Build Canada Homes partnership &nbsp;&nbsp; CTV News View Full Coverage on Google News",
+      "pub": "Thu, 23 Apr 2026 15:23:34 GMT",
       "image": ""
     }
   ],
