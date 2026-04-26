@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-04-26T07:58:15.021673+00:00",
+  "generated_at": "2026-04-26T09:01:05.470438+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "NL Health Launches New 24/7 Care Coordination Centre",
+      "link": "https://vocm.com/2026/04/26/297544/",
+      "snippet": "The health system in Newfoundland and Labrador has launched a new coordination centre which it says will allow them to improve patient care significan...",
+      "pub": "Sun, 26 Apr 2026 08:54:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/nl-health-services-nlhs-generic-2.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Downtown Street Cleaning Starts Tonight",
+      "link": "https://vocm.com/2026/04/26/297542/",
+      "snippet": "Downtown street cleaning in St. John's starts today as crews rid the roads and sidewalks of sand which has accumulated over the winter. The job is don...",
+      "pub": "Sun, 26 Apr 2026 08:46:30 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/04/streeting-cleaning-stock-city-of-st-johns-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "April 26, 2026 – The provincial budget will be released Wednesday. Which issue do you most want to see addressed?",
+      "link": "https://vocm.com/2026/04/26/april-26-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12845').",
+      "pub": "Sun, 26 Apr 2026 08:00:47 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/04/confederation-building-grey-sky-generic-provincial-government.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Recycling Association Targets Hidden E-Waste",
@@ -43,51 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/ben-chapman-smith.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Ministers Respond to Critical AG Findings",
-      "link": "https://vocm.com/2026/04/25/297512/",
-      "snippet": "Both the ministers of emergency preparedness and finance say progress is being made in recommendations contained in the latest report from the Auditor...",
-      "pub": "Sat, 25 Apr 2026 12:06:24 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/pleaman-forsey-1.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Stephenville Business Gutted by Fire",
-      "link": "https://vocm.com/2026/04/25/297529/",
-      "snippet": "A commercial retail outlet in Stephenville went up in flames yesterday afternoon, resulting in heavy damage to the steel building. The fire resulted i...",
-      "pub": "Sat, 25 Apr 2026 12:04:47 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/stephenvillefire-calebfarrell.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "New CorCare System Launches Today Across Province",
-      "link": "https://vocm.com/2026/04/25/297478/",
-      "snippet": "The province's new health information system officially launches today. CorCare will provide improved access to information for patients and health ca...",
-      "pub": "Sat, 25 Apr 2026 11:03:35 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/nlhs-corcare.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Shots fired as gunman charges toward ballroom at White House correspondents' dinner. Trump unharmed - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNRlhMdU1wMWh5V19mOGNoMUllVGN6emN0YU8tQlpYU19xUGxlVXJYSlVtWWwwSC1LVE9WdmlXbUxSWmF6YW53ZnJTY0ZibmY0MUdGOTNJMFNMeUdDZW9jMmF5U055U2o5UUNiU2NmZGlIQkxBbkV4dHhuQ0ozd29wVm9SLWdwZDl5SFE2MnVjYWpVV29QNVVEdkdQTDlqejliZmxMSVV6bGNVYTRTc2FMU1FtMGxPdUh1RkcyMnhRZF9QMTRNb1paWF9pRjR1bUpzUUdqNEZMdzFlVW45VmdwdFBRSWFBRHJVU1FxeGJxdHJBaUZ2Q3hDa0oyLXY5TzVkSHFZazI1a3p4OWRMbmlLOUwtaF9fWWFNekt3?oc=5",
-      "snippet": "Shots fired as gunman charges toward ballroom at White House correspondents' dinner. Trump unharmed &nbsp;&nbsp; Toronto Star What it was like in the room as shots rang out at corr",
-      "pub": "Sun, 26 Apr 2026 01:06:00 GMT",
+      "title": "Trump unharmed after shooting incident at White House correspondents’ dinner - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb09NUWdjNlI2OFNoWU4tTkRnMk9jb1ZyX1FXbDNtQ25XU0lRNFN2aEpvMVJ1WlN5aUh6NnoxZXFFSGlOT19vcUo2UFRyUWJVSENlR2QtMDNCSzc4OEdEZFVfVm5rM3JSNFFtRjQ4WTVVUDRUcHRCYVo1NlRQZUR3TDFqYUpqRFhjd0ltQmozWXF0NFJlWDBSLXpvdXBWSVd4MFAxc09INUpqWE1wVmZjNFpuQQ?oc=5",
+      "snippet": "Trump unharmed after shooting incident at White House correspondents’ dinner &nbsp;&nbsp; CTV News What it was like in the room as shots rang out at correspondents' dinner &nbsp;&n",
+      "pub": "Sun, 26 Apr 2026 03:45:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Iran talks stumble as Tehran’s top diplomat leaves Pakistan and Trump says he told envoys not to go - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZVNiWTMzNGZacTZXeGhaQkhIcTdJTTRMaXU4RmVpeEtBRjJBYkM2alI1S00yNzJOVFBiM2YtUzVDNUl6SWRQandoSkZyOF9ZMmc2NjlmVzFROUpjSHJqT1hETEZKaHF6RndpbWtxQlRfRG41Ml91WkpmcnNXc3ZWeWRJdnUwLVp3Tmh1Nml5Q3h6bmF5cmZpSk1pY3BxN0FSSnpqc0VDU1hUVWRYNm5KREZNU1lGa09EMXJTU2QtbWhnY2NvRW80dGVGZDNEdGxZSlozWlJtdWhUbXZY?oc=5",
-      "snippet": "Iran talks stumble as Tehran’s top diplomat leaves Pakistan and Trump says he told envoys not to go &nbsp;&nbsp; CTV News Trump cancels US envoys' trip to Pakistan for talks on Ira",
-      "pub": "Sat, 25 Apr 2026 18:30:25 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "40 years after Chernobyl: Pripyat today - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93LS1PNm1ad2RfT2g0aTBXV1ItNzFaUjJPazZvV05pSGhxanNGdU1VMnlxa3F1RjZGMWo1di02LURMZ2VGOUZGS2RBYzdUOUJPaHNxMzN4VDBHellURG1RcXJBWV9nOTZLdU9xVXh1OUVic05ITHdXZmQ4TdIBe0FVX3lxTE82Z3ZMVzk4b19fcUU5bHRiZVlyVWlTOUs0N012QWFHOHB0eDY4ZVhOTjJxRjNLWHZ6WEg1M1NZQ2hyb0JfMUhNZWdCTk9oejQ2Z28tc2M5N1dfNXZadk9FZE1RaW1fRExmQmozT3FVR3E4NlFsM2N3RzJwMA?oc=5",
-      "snippet": "40 years after Chernobyl: Pripyat today &nbsp;&nbsp; DW.com Despite Russia’s war, one Ukrainian city still gathers for midnight Chernobyl vigil &nbsp;&nbsp; CityNews Halifax The in",
-      "pub": "Sun, 26 Apr 2026 00:20:25 GMT",
+      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hVUE4YVZvaEdZSHdadncwMlEtWWVUNDNZUnlrb0NYOHFwNFlSdWhtUEpHRjlCRjd4dExQeVFLbkdPMGdnaGJtbzlYajB3T3YwQWR2QXVWZnM3UQ?oc=5",
+      "snippet": "Trump cancels US envoys' trip to Pakistan for talks on Iran war &nbsp;&nbsp; BBC View Full Coverage on Google News",
+      "pub": "Sat, 25 Apr 2026 21:34:12 GMT",
       "image": ""
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Alberta ski resorts worry move to permanent daylight time could drive visitors to U.S. - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDBBejBxVmNPbEJqOGZiU0JWM0JUU1ZVMjNNdE9KSWJ2UFh5UVY0aTE0Q0szRGF5dGRheDNqNWIzUVNpSmNKMldpVDhhNzJvZ0FiTGJvSFctWUhTc081X19FVHR0eFFMX0N2VmxOVVU5NkhQbFlzVk5NNmdjSjM4a3VuVkVJSEFYTjNaV2V1d2llNmFHMjdiWXluY2xxSS1GdncyeEJvbHpxandwd0RYbnh4X0paVUpPSVhSNHBfWnF2QQ?oc=5",
+      "snippet": "Alberta ski resorts worry move to permanent daylight time could drive visitors to U.S. &nbsp;&nbsp; Calgary Herald As Alberta moves to end time changes, other provinces weigh optio",
+      "pub": "Fri, 24 Apr 2026 21:05:59 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "No injuries reported after victim assaulted at synagogue in Thornhill, 1 suspect at-large - CP24",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb01WeVU5VENZNHdnMDNySE1lT1BXNVUzbThjYTJpNC02bkhFVEQtb0sxcXRjOV9BeDVySVA2SktjaDBfdmYzRnFZdC1IaFMtZmI5MEluRWo5bExuWE5oTERRX001ZW14eWlDOFpQMmxFNGFVQnhOYl9HaTBSeW41VUpnODFyejdEOExUbERtZVhycWx4bGRUNmotM0t6ZV9pVDZ0Zi1DOFZZeE0?oc=5",
       "snippet": "No injuries reported after victim assaulted at synagogue in Thornhill, 1 suspect at-large &nbsp;&nbsp; CP24 View Full Coverage on Google News",
@@ -116,18 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "High winds buffet Calgary region, forcing Parade of Wonders indoors; property damage reported - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWJmU2xxb1NlaXdVd05WLXhFVzJ4YlhWLU1YcGc1SHVtNmZYLXFhYmIzYXlmakszMXNURmk5cUd6X3hKa1NxSnpiTTRTVkpjX0dPcFRzR1htWWpXVy1IYnFYOWRmVTZLZWtTYXNkMy0tQ0pjVUZNdUp5SEE5V1d1OFd1ZWRPb2FDY1ZKYUJGMGpDQzlOQnFFbw?oc=5",
-      "snippet": "High winds buffet Calgary region, forcing Parade of Wonders indoors; property damage reported &nbsp;&nbsp; Calgary Herald POW! Parade of Wonders cancelled as strong winds blow thro",
-      "pub": "Fri, 24 Apr 2026 22:26:58 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "‘It’s not a small thing, your presence here:’ over 1,000 flock to second Nanaimo Infusion - NanaimoNewsNOW",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTURlOUlNTTJfVGhJNEhueWhJWjRqcVZmaFd4dGl6aXUyQjhvR0hEOGZ2WGxuZjljWVlFUTlNOWk3Zm0waWRGVER5TW5yWC1DSzdGUVN3d0xEcC1yZnBKcVdTdHBHaHJwZkpDXzNKYnhmWFNxNjFyV0FieGRIdWtvM2VCeUxrZVpScVBiS3VvVEZETGFHLXQxMlFsM3VBdlNSeVdUWE9vdU1XTjc2WlY2V04zckNheFVyQjlCNXdwQQ?oc=5",
       "snippet": "‘It’s not a small thing, your presence here:’ over 1,000 flock to second Nanaimo Infusion &nbsp;&nbsp; NanaimoNewsNOW Nanaimo's 2nd annual infusion event draws hundreds of American",
       "pub": "Sat, 25 Apr 2026 21:08:09 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "High winds buffet Calgary region, forcing Parade of Wonders indoors; property damage reported - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWJmU2xxb1NlaXdVd05WLXhFVzJ4YlhWLU1YcGc1SHVtNmZYLXFhYmIzYXlmakszMXNURmk5cUd6X3hKa1NxSnpiTTRTVkpjX0dPcFRzR1htWWpXVy1IYnFYOWRmVTZLZWtTYXNkMy0tQ0pjVUZNdUp5SEE5V1d1OFd1ZWRPb2FDY1ZKYUJGMGpDQzlOQnFFbw?oc=5",
+      "snippet": "High winds buffet Calgary region, forcing Parade of Wonders indoors; property damage reported &nbsp;&nbsp; Calgary Herald POW! Parade of Wonders cancelled as strong winds blow thro",
+      "pub": "Fri, 24 Apr 2026 22:26:58 GMT",
       "image": ""
     }
   ],
