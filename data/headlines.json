@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-04-26T15:35:22.888421+00:00",
+  "generated_at": "2026-04-26T16:33:22.188856+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Broad Cove Wildfire Site to Become Public Greenspace",
+      "link": "https://vocm.com/2026/04/26/297567/",
+      "snippet": "Newfoundland Power is giving back to the community by transforming an area in Broad Cove that was devastated by last year's wildfires into a public gr...",
+      "pub": "Sun, 26 Apr 2026 15:53:05 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/melvin-burden-memorial-ball-park-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Corner Brook Still Waiting on Promised Family Care Team",
+      "link": "https://vocm.com/2026/04/26/297565/",
+      "snippet": "The MHA for Corner Brook is seeking answers on when a family care team will be established in the west coast city. Jim Parsons says the promised famil...",
+      "pub": "Sun, 26 Apr 2026 15:46:51 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/04/corner-book-mayor-jim-parsons-via-facebook.png"
+    },
     {
       "source": "VOCM",
       "title": "Cape Spear Riding Getting a New Name",
@@ -51,26 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/04/840025586.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Shots Fired at White House Correspondents Dinner",
-      "link": "https://vocm.com/2026/04/26/297549/",
-      "snippet": "Shots rang out at the White House Correspondents Dinner last night with President Donald Trump at the head table. People began diving under tables and...",
-      "pub": "Sun, 26 Apr 2026 09:06:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/White-House-via-Creative-Commons.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "NL Health Launches New 24/7 Care Coordination Centre",
-      "link": "https://vocm.com/2026/04/26/297544/",
-      "snippet": "The health system in Newfoundland and Labrador has launched a new coordination centre which it says will allow them to improve patient care significan...",
-      "pub": "Sun, 26 Apr 2026 08:54:26 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/nl-health-services-nlhs-generic-2.png"
-    },
-    {
       "source": "Google News Canada",
       "title": "Who is Cole Allen? What we know about White House press dinner shooting suspect - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDBXMW9SaTlfM0FVRmZqX1FnelNERkczWXZjdmJrMGNydldBaU5Tb1RnNFo3V3pGclhpcFpiOFdadlhCTU5ISEFSdDVzQlN5TzFKcmhIMTM2b1dCblVZN2dNbDFKQ3N5V3Q1SFJza3VIN25uVUFOY0RlbGhoZ1FiSTdkQWs1WTVUdmpyNkt2ZFp1ZGNoT0wxNW1hbHFDMUtFMFljRHdRZGNFVjJQVTZVWU1yWjM?oc=5",
-      "snippet": "Who is Cole Allen? What we know about White House press dinner shooting suspect &nbsp;&nbsp; Euronews.com White House correspondents' dinner shooting suspect a part-time teacher, g",
+      "snippet": "Who is Cole Allen? What we know about White House press dinner shooting suspect &nbsp;&nbsp; Euronews.com Live Updates: Investigators Search for Motive in Shooting at Washington Di",
       "pub": "Sun, 26 Apr 2026 10:32:53 GMT",
       "image": ""
     },
@@ -92,9 +92,9 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Manitoba to ban social media, AI chatbots for youth, premier says - CBC",
+      "title": "Manitoba to ban social media, AI chatbots for youth, premier says - cbc.ca",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT0VGS1JaV2h2VWZGQnZieE9DSURCWGtpck5PMzRJYjRLUVdFdmRoam5ncjMzRV8wajJ6cUNCbmpCWUFYdmJ4TEQ1Ylo5ZzMzMTlzV1FXZ0lydWNzTElJOUNISDJKdy0tMmthcllKRkpxaWhEaGtnYzBYRWFURlh2emhxbHUzSktmeXFIb0ZIU2pIdw?oc=5",
-      "snippet": "Manitoba to ban social media, AI chatbots for youth, premier says &nbsp;&nbsp; CBC Manitoba premier says social media ban coming for kids, like Australia &nbsp;&nbsp; CTV News Comm",
+      "snippet": "Manitoba to ban social media, AI chatbots for youth, premier says &nbsp;&nbsp; cbc.ca Manitoba premier says social media ban coming for kids, like Australia &nbsp;&nbsp; CTV News C",
       "pub": "Sun, 26 Apr 2026 02:04:00 GMT",
       "image": ""
     },
@@ -102,23 +102,23 @@
       "source": "Google News Canada",
       "title": "Inside King Charles’ Strict US Visit Rulebook: From No Bowing to No Garlic & More - The Royal Observer",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN29pUGE0ZVlUaXBGdDdRUVpGR2ctenUyNVo3SjZ4TVJPWUszQ0E5ZmJ3M1FEMVBiRkhrTHpzazRqdkxMSFQ3OG5pYUNmeW9FcVBLMVhkWnpuU25YRk5wTUtRX2FsZFJuNVdMelZGNWQ4X1hrTE9RSTdtMFdBd1k4djF5c0hXRjNmX3RvYlMzSDVwZ0t6ZTZQYk5SZG9ibDhLWmZiUGpCbTVVNkMxcExrWThB?oc=5",
-      "snippet": "Inside King Charles’ Strict US Visit Rulebook: From No Bowing to No Garlic & More &nbsp;&nbsp; The Royal Observer Palace holding talks over plans for King's US visit after Washingt",
+      "snippet": "Inside King Charles’ Strict US Visit Rulebook: From No Bowing to No Garlic & More &nbsp;&nbsp; The Royal Observer Palace holding talks over plans for King's US visit after DC shoot",
       "pub": "Sat, 25 Apr 2026 09:04:11 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "'It was very Canadian:' Man spends nearly 24 hours in snowstorm on Alberta highway - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS2JhTjF3ZjlHc0s1RV9IZ3gyOWpieGZydl9LaXQxVW5iSi0ybjl6ckU5Nmk2UmFaN2dVdFhZeU12RnNScDhMSkNUZWYyQWI4YU9HVDZpQTlWZ0U4U0pGSVJHYzhXaHdCNTBDcmFpOUlYWWZZUTFsNU8yaENMUzdtTjg3bGZCWTdjMUdzSlRiejFVVWMwZHE2UHJzUVp4SHJOaXd0S2RYOTdoSXpSVVJxbE5maUU5VUZoR016dg?oc=5",
-      "snippet": "'It was very Canadian:' Man spends nearly 24 hours in snowstorm on Alberta highway &nbsp;&nbsp; CTV News Albertans call for answers after being stranded on northern highway during ",
-      "pub": "Sat, 25 Apr 2026 21:45:40 GMT",
+      "title": "‘So grateful’: Stranded Fort McMurray high schoolers wait out highway closures at Edmonton businesses - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUWlIdjl1NUR1bWRuaVhJblRLOUF0eVhsN1A2aGdLRmpVdW1Pa0xGUGFONG9walFqMzhaVTZZZUxoYk5kS2s4NG1uNk90Z2lIWWc5MEFEMmNKRkFwdDFuXzR4bjVUR0FWVkxOTVZZQVJpX05Ua2FyaHRhSWxsdjZzV2MxendrOXJCczBvRFdJaTdKcEJfNHhLLVRMOXNsTENiY0Zsby00Q2xpaEhOQThnYTR5M01oUUxtZEtNbzd6M0hqTThOc3R5Z2tTY2ZkeHMwZS01MnFR?oc=5",
+      "snippet": "‘So grateful’: Stranded Fort McMurray high schoolers wait out highway closures at Edmonton businesses &nbsp;&nbsp; CTV News Albertans call for answers after being stranded on north",
+      "pub": "Sat, 25 Apr 2026 21:38:48 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Afghanistan and Gulf War veterans hopeful Parliament will recognize them as ‘war veterans’ - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORDBwUnNFajZINHl3MjBmcC1PRUZRQ09lcWxrTnBsOEh5T29YMHprYXRmd1FxWUZzN0tTRmVrUGJjaTVCTnp0VTRzd0JkVV96cjBEOVRPS0RzejdKQXJ3WUpPRlE4Ukc4Z05qcDNVVEo2V3hraUhMblB0SlJxZTRNdXM2c29xTU4wbnNyTVI4bkJZaHNtcWQycDBMaFhiMERaUFhQVjh6UmJ5Zk8zNHlTdGhia3U1ZGJ1WXlpNHozQmIyY2s3bkY2c1NJaWMzR1JT?oc=5",
-      "snippet": "Afghanistan and Gulf War veterans hopeful Parliament will recognize them as ‘war veterans’ &nbsp;&nbsp; CTV News",
+      "title": "‘Canada is an outlier’: Vets push for Ottawa to recognize them as ‘war veterans’ - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0Y2SWl2MnZrNFR3SFFLbGJpUmdPMUJlWWdSemJxbFBHLUpleW1ORG5XWDhsczN1UjlvOXd4dV9GM05iZVVPQ3VoRHdKR2pHQ1ByekJ2UXZNUU9NOUluazRwRnFBTkZWcEQxNUJwY0xuTlRxOElrWk5RT1ZuUGN3aEVfZGVVYmRUbXQ3UVEyT2ROSHJiUEZZeEpvUzlWNlJOS2d6bTh4a2hYSUx2N002X3ZVWjk?oc=5",
+      "snippet": "‘Canada is an outlier’: Vets push for Ottawa to recognize them as ‘war veterans’ &nbsp;&nbsp; CTV News",
       "pub": "Sun, 26 Apr 2026 09:00:00 GMT",
       "image": ""
     },
@@ -127,7 +127,7 @@
       "title": "What to expect from Mark Carney’s fiscal update amid high deficits and rising risks - Toronto Star",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODZ2SHVONnZOaW5zSjNmSms3VTBTLWRrS29iNThiZzF2YldEclZWLVhLNHJtRUhtTmk5VmtMVXpYUE5OZklqUUdZUndIYnVYU3RiWXYzQ2p1T1NBR2paVGhMU0ZGZjVObkFIWTMybGR1c2U4alVXYVFOeHNZekZzMG1IbVNEM0N2N19fUlZHd3RsUjJ3WHBuQXNkUWszZTNXeXR2bnZzQ3htd0NQRWt5b3NnbzJVVmpqT3lQbV9aM21EU2RUZWpYMjdkcUd3SWJsODJPSnBPdzZZMllvblR6ZW9zOS02ZktTTGk3eXZ1VmZ5NW03dHZIZ1VpbzY?oc=5",
       "snippet": "What to expect from Mark Carney’s fiscal update amid high deficits and rising risks &nbsp;&nbsp; Toronto Star View Full Coverage on Google News",
-      "pub": "Sun, 26 Apr 2026 14:39:26 GMT",
+      "pub": "Sun, 26 Apr 2026 11:00:00 GMT",
       "image": ""
     }
   ],
