@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-04-26T14:37:21.288475+00:00",
+  "generated_at": "2026-04-26T15:35:22.888421+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Cape Spear Riding Getting a New Name",
+      "link": "https://vocm.com/2026/04/26/297561/",
+      "snippet": "The name of the federal riding currently known as Cape Spear is changing to better reflect the region it covers. 2025 was the first year that Cape Spe...",
+      "pub": "Sun, 26 Apr 2026 14:40:23 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/05/cape-spear-lighthouse-parks-canada.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Destinations Changing, but Canadians Still Travelling says CAA",
@@ -59,42 +67,34 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/nl-health-services-nlhs-generic-2.png"
     },
     {
-      "source": "VOCM",
-      "title": "Downtown Street Cleaning Starts Tonight",
-      "link": "https://vocm.com/2026/04/26/297542/",
-      "snippet": "Downtown street cleaning in St. John's starts today as crews rid the roads and sidewalks of sand which has accumulated over the winter. The job is don...",
-      "pub": "Sun, 26 Apr 2026 08:46:30 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/04/streeting-cleaning-stock-city-of-st-johns-2.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Who is Cole Allen? What we know about White House press dinner shooting suspect - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDBXMW9SaTlfM0FVRmZqX1FnelNERkczWXZjdmJrMGNydldBaU5Tb1RnNFo3V3pGclhpcFpiOFdadlhCTU5ISEFSdDVzQlN5TzFKcmhIMTM2b1dCblVZN2dNbDFKQ3N5V3Q1SFJza3VIN25uVUFOY0RlbGhoZ1FiSTdkQWs1WTVUdmpyNkt2ZFp1ZGNoT0wxNW1hbHFDMUtFMFljRHdRZGNFVjJQVTZVWU1yWjM?oc=5",
-      "snippet": "Who is Cole Allen? What we know about White House press dinner shooting suspect &nbsp;&nbsp; Euronews.com Washington hotel shooting raises questions about Trump security &nbsp;&nbs",
+      "snippet": "Who is Cole Allen? What we know about White House press dinner shooting suspect &nbsp;&nbsp; Euronews.com White House correspondents' dinner shooting suspect a part-time teacher, g",
       "pub": "Sun, 26 Apr 2026 10:32:53 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Iran talks stumble as Tehran’s top diplomat leaves Pakistan and Trump says he told envoys not to go - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZVNiWTMzNGZacTZXeGhaQkhIcTdJTTRMaXU4RmVpeEtBRjJBYkM2alI1S00yNzJOVFBiM2YtUzVDNUl6SWRQandoSkZyOF9ZMmc2NjlmVzFROUpjSHJqT1hETEZKaHF6RndpbWtxQlRfRG41Ml91WkpmcnNXc3ZWeWRJdnUwLVp3Tmh1Nml5Q3h6bmF5cmZpSk1pY3BxN0FSSnpqc0VDU1hUVWRYNm5KREZNU1lGa09EMXJTU2QtbWhnY2NvRW80dGVGZDNEdGxZSlozWlJtdWhUbXZY?oc=5",
-      "snippet": "Iran talks stumble as Tehran’s top diplomat leaves Pakistan and Trump says he told envoys not to go &nbsp;&nbsp; CTV News Iran war live: Tehran’s FM expected in Pakistan; Israel at",
-      "pub": "Sat, 25 Apr 2026 18:30:25 GMT",
+      "title": "Middle East war live: Iran FM returns to Pakistan after Oman visit amid diplomatic shuffle - France 24",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcFZCYXpIUzVpNkpHTm1nSlhrd19lWW5GdFlLOF8zV29Ybm50akdUNFE2Zk84ZUx3MHhLNDk5VGRkY2w0aWE3SnBDZUhsbUt4dXBLM1cxenJtNUJoYnVYMnEtdElwLWw5Y2RvMXZvaUdVdkpGZVBQRk5IWHdzXzdzN3Bzc2NOdlkwbno3c005d1ZzZTJBVlJNOUNhOUU0cTRRbVdDMzZmNWlBM2VoV0t2TWtlU0FRVkxrMS1Tc0lHdVF5YXpzQThrM25JcG1EeGowMmd3?oc=5",
+      "snippet": "Middle East war live: Iran FM returns to Pakistan after Oman visit amid diplomatic shuffle &nbsp;&nbsp; France 24 Live updates: Iran’s top diplomat returns to Pakistan despite Trum",
+      "pub": "Sun, 26 Apr 2026 05:13:33 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "The invisible enemy: 40 years on from nuclear disaster, Chornobyl liquidators return - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX1hzSDQxRzVVUUwzN3FuWTRoN1dkR1Z0ME04ZlVqQlVWd2lZYUZiTW9RQnYyUkNaaUE2d2k5UEtQUmVhelJmbVNNTlBFYlhMdUVkc3Q1eXEzMVExcGNtM3hvRUJTNWZFamVEY0EweFFWbk9zTGhGSmpOS0dRb01IWnFsVUREUzBvMGFSMERqNTAydVVmMmQwLUM5NURlZHA2a2FPQjhSd0tCR1lOcU8yM2xGT1hPTUJHaE16SDVXeDRycU1EanhuVkpueTI?oc=5",
-      "snippet": "The invisible enemy: 40 years on from nuclear disaster, Chornobyl liquidators return &nbsp;&nbsp; The Globe and Mail Surviving in a poisoned land: Chernobyl's wildlife is different",
-      "pub": "Sat, 25 Apr 2026 20:20:47 GMT",
+      "title": "A climber left his girlfriend to die on Austria’s tallest mountain. Now other stories of ‘Alpine divorce’ are emerging - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82OWZYd1J0Um1fVkd6VkNQM2llZHo5QnJvQVBZM1NibUIzeHpCMkJGSUE1ZGdLVjN5RWtrSGNyb0pyZ29YcEstakotRUlIeE5EYWJ2bmEtZmpUZzNWaEtfMjlGeGVNR1ZqbkUxYTBhWVVHcVJ3Ul9TeDRR?oc=5",
+      "snippet": "A climber left his girlfriend to die on Austria’s tallest mountain. Now other stories of ‘Alpine divorce’ are emerging &nbsp;&nbsp; CNN",
+      "pub": "Sun, 26 Apr 2026 06:00:51 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Manitoba to ban social media, AI chatbots for youth, premier says - CBC",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT0VGS1JaV2h2VWZGQnZieE9DSURCWGtpck5PMzRJYjRLUVdFdmRoam5ncjMzRV8wajJ6cUNCbmpCWUFYdmJ4TEQ1Ylo5ZzMzMTlzV1FXZ0lydWNzTElJOUNISDJKdy0tMmthcllKRkpxaWhEaGtnYzBYRWFURlh2emhxbHUzSktmeXFIb0ZIU2pIdw?oc=5",
-      "snippet": "Manitoba to ban social media, AI chatbots for youth, premier says &nbsp;&nbsp; CBC View Full Coverage on Google News",
+      "snippet": "Manitoba to ban social media, AI chatbots for youth, premier says &nbsp;&nbsp; CBC Manitoba premier says social media ban coming for kids, like Australia &nbsp;&nbsp; CTV News Comm",
       "pub": "Sun, 26 Apr 2026 02:04:00 GMT",
       "image": ""
     },
@@ -108,17 +108,17 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Buses, food and water sent to those still stranded on Alberta highway after storm - CityNews Calgary",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnBuaFAwdk84Ti1rMTlTZDJNZ2lkSmlqSDJMRExnVWM1S2hFUTJtbU81UjFhM2lJM0pEYWQtMXJMWHUwWWtwaGtnQUYzWE1QN2R3ZUE1bW03aUZCTmZnTEh3Y2pNYzZzVVA0WmVjbjI4Uk9oYkxxNm5XT1l4NE5EZWhlYjZJNXJCWS1sVkR0dGRvTEJhblNOZ3NvUlpqdjNhaUptLVRaTUl3bWE1dlFRR2Zaa05obXhwZXNsSg?oc=5",
-      "snippet": "Buses, food and water sent to those still stranded on Alberta highway after storm &nbsp;&nbsp; CityNews Calgary Albertans call for answers after being stranded on northern highway ",
-      "pub": "Sat, 25 Apr 2026 20:40:56 GMT",
+      "title": "'It was very Canadian:' Man spends nearly 24 hours in snowstorm on Alberta highway - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS2JhTjF3ZjlHc0s1RV9IZ3gyOWpieGZydl9LaXQxVW5iSi0ybjl6ckU5Nmk2UmFaN2dVdFhZeU12RnNScDhMSkNUZWYyQWI4YU9HVDZpQTlWZ0U4U0pGSVJHYzhXaHdCNTBDcmFpOUlYWWZZUTFsNU8yaENMUzdtTjg3bGZCWTdjMUdzSlRiejFVVWMwZHE2UHJzUVp4SHJOaXd0S2RYOTdoSXpSVVJxbE5maUU5VUZoR016dg?oc=5",
+      "snippet": "'It was very Canadian:' Man spends nearly 24 hours in snowstorm on Alberta highway &nbsp;&nbsp; CTV News Albertans call for answers after being stranded on northern highway during ",
+      "pub": "Sat, 25 Apr 2026 21:45:40 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘Canada is an outlier’: Vets push for Ottawa to recognize them as ‘war veterans’ - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0Y2SWl2MnZrNFR3SFFLbGJpUmdPMUJlWWdSemJxbFBHLUpleW1ORG5XWDhsczN1UjlvOXd4dV9GM05iZVVPQ3VoRHdKR2pHQ1ByekJ2UXZNUU9NOUluazRwRnFBTkZWcEQxNUJwY0xuTlRxOElrWk5RT1ZuUGN3aEVfZGVVYmRUbXQ3UVEyT2ROSHJiUEZZeEpvUzlWNlJOS2d6bTh4a2hYSUx2N002X3ZVWjk?oc=5",
-      "snippet": "‘Canada is an outlier’: Vets push for Ottawa to recognize them as ‘war veterans’ &nbsp;&nbsp; CTV News",
+      "title": "Afghanistan and Gulf War veterans hopeful Parliament will recognize them as ‘war veterans’ - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORDBwUnNFajZINHl3MjBmcC1PRUZRQ09lcWxrTnBsOEh5T29YMHprYXRmd1FxWUZzN0tTRmVrUGJjaTVCTnp0VTRzd0JkVV96cjBEOVRPS0RzejdKQXJ3WUpPRlE4Ukc4Z05qcDNVVEo2V3hraUhMblB0SlJxZTRNdXM2c29xTU4wbnNyTVI4bkJZaHNtcWQycDBMaFhiMERaUFhQVjh6UmJ5Zk8zNHlTdGhia3U1ZGJ1WXlpNHozQmIyY2s3bkY2c1NJaWMzR1JT?oc=5",
+      "snippet": "Afghanistan and Gulf War veterans hopeful Parliament will recognize them as ‘war veterans’ &nbsp;&nbsp; CTV News",
       "pub": "Sun, 26 Apr 2026 09:00:00 GMT",
       "image": ""
     },
@@ -126,8 +126,8 @@
       "source": "Google News Canada",
       "title": "What to expect from Mark Carney’s fiscal update amid high deficits and rising risks - Toronto Star",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODZ2SHVONnZOaW5zSjNmSms3VTBTLWRrS29iNThiZzF2YldEclZWLVhLNHJtRUhtTmk5VmtMVXpYUE5OZklqUUdZUndIYnVYU3RiWXYzQ2p1T1NBR2paVGhMU0ZGZjVObkFIWTMybGR1c2U4alVXYVFOeHNZekZzMG1IbVNEM0N2N19fUlZHd3RsUjJ3WHBuQXNkUWszZTNXeXR2bnZzQ3htd0NQRWt5b3NnbzJVVmpqT3lQbV9aM21EU2RUZWpYMjdkcUd3SWJsODJPSnBPdzZZMllvblR6ZW9zOS02ZktTTGk3eXZ1VmZ5NW03dHZIZ1VpbzY?oc=5",
-      "snippet": "What to expect from Mark Carney’s fiscal update amid high deficits and rising risks &nbsp;&nbsp; Toronto Star Carney faces pressure to show results in spring fiscal update: former ",
-      "pub": "Sun, 26 Apr 2026 11:00:00 GMT",
+      "snippet": "What to expect from Mark Carney’s fiscal update amid high deficits and rising risks &nbsp;&nbsp; Toronto Star View Full Coverage on Google News",
+      "pub": "Sun, 26 Apr 2026 14:39:26 GMT",
       "image": ""
     }
   ],
