@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-04-27T07:43:47.402207+00:00",
+  "generated_at": "2026-04-27T10:07:26.352259+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Housing Inventory in St. John’s Hit Record Low Last Month",
+      "link": "https://vocm.com/2026/04/27/housing-inventory-in-st-johns-hit-record-low-last-month/",
+      "snippet": "Housing inventory in this province is at an all-time low according to the Association of Realtors, but demand is high. That translates into a seller's...",
+      "pub": "Mon, 27 Apr 2026 09:58:42 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/house-for-sale-sold-real-estate-3.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "NL to Table Budget, Feds to Provide Spring Economic Statement This Week",
+      "link": "https://vocm.com/2026/04/27/nl-to-table-budget-feds-to-provide-spring-economic-statement-this-week/",
+      "snippet": "This is a big week on the financial front - not only in Newfoundland and Labrador, but for the entire country. Prime Minister Mark Carney will deliver...",
+      "pub": "Mon, 27 Apr 2026 09:32:41 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/nl-newfoundland-and-labrador-premier-tony-wakeham.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "President’s Choice Zero Sugar Cola Recalled Due to Packaging Error",
+      "link": "https://vocm.com/2026/04/27/297601/",
+      "snippet": "Loblaw has issued a recall on some President's Choice diet cola due to the possibility that it may contain the full-sugar version. The retailer says s...",
+      "pub": "Mon, 27 Apr 2026 09:11:11 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/08/dominion-new-logo.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "More Than $100K in Fines Collected from Speed Camera Violations",
+      "link": "https://vocm.com/2026/04/27/more-than-100k-in-fines-collected-from-speed-camera-violations/",
+      "snippet": "The provincial government says it is making headway getting traffic tickets, created by speed cameras, out to people after the postal disruptions clog...",
+      "pub": "Mon, 27 Apr 2026 08:57:36 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/11/speed-cam-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Some Users Reporting Inaccuracies on New MyChart Health App",
+      "link": "https://vocm.com/2026/04/27/some-users-reporting-inaccuracies-on-new-mychart-health-app/",
+      "snippet": "The agency which runs the health care system is making changes to the personal profiles of patients, but some people are citing inaccuracies under the...",
+      "pub": "Mon, 27 Apr 2026 08:41:07 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/nl-health-services-nlhs-generic-3.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Metro Records Snowiest Winter in 23 Years",
+      "link": "https://vocm.com/2026/04/27/metro-records-snowiest-winter-in-23-years/",
+      "snippet": "That weekend wallop in metro was enough to send the region into snowfall territory not seen in over twenty years. About 17 cm came down between Friday...",
+      "pub": "Mon, 27 Apr 2026 08:31:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/snow-snowman-family-fun-storm.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "April 27, 2026 – Do you use apps like the new MyChart to access/keep track of your health information?",
+      "link": "https://vocm.com/2026/04/27/april-27-2026-do-you-use-apps-like-the-new-mychart-to-access-keep-track-of-your-health-information/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12848').",
+      "pub": "Mon, 27 Apr 2026 08:00:02 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/02/img-3772.jpeg"
+    },
     {
       "source": "VOCM",
       "title": "Safety NL Urges Drivers to Watch for Motorcycles and E-Bikes",
@@ -11,99 +67,51 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/05/motorcycle-safety-awareness-stock-photo.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Newfoundland Power Funding Green Space in Broad Cove",
-      "link": "https://vocm.com/2026/04/26/297567/",
-      "snippet": "Newfoundland Power is giving back to the community by transforming an area in Broad Cove that was devastated by last year's wildfires into a public gr...",
-      "pub": "Sun, 26 Apr 2026 15:53:05 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/melvin-burden-memorial-ball-park-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Corner Brook Still Waiting on Promised Family Care Team",
-      "link": "https://vocm.com/2026/04/26/297565/",
-      "snippet": "The MHA for Corner Brook is seeking answers on when a family care team will be established in the west coast city. Jim Parsons says the promised famil...",
-      "pub": "Sun, 26 Apr 2026 15:46:51 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/04/corner-book-mayor-jim-parsons-via-facebook.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Cape Spear Riding Getting a New Name",
-      "link": "https://vocm.com/2026/04/26/297561/",
-      "snippet": "The name of the federal riding currently known as Cape Spear is changing to better reflect the region it covers. 2025 was the first year that Cape Spe...",
-      "pub": "Sun, 26 Apr 2026 14:40:23 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/05/cape-spear-lighthouse-parks-canada.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Destinations Changing, but Canadians Still Travelling says CAA",
-      "link": "https://vocm.com/2026/04/26/297559/",
-      "snippet": "Canadians are changing their travel plans thanks to ever-shifting geopolitics, but rather than staying home, they're picking different destinations. T...",
-      "pub": "Sun, 26 Apr 2026 13:34:08 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/travel-airport-luggage-airline-tourism-vacation-flight.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Province Announces 2026 Arts and Letters Winners",
-      "link": "https://vocm.com/2026/04/26/297556/",
-      "snippet": "The provincial government has named the winners of the 2026 Arts and Letters competition. Prizes totaling more than $47,000 were awarded in a number o...",
-      "pub": "Sun, 26 Apr 2026 12:27:10 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/09/arts-and-letters.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Applications Open for Summer Camp Inclusion Grants",
-      "link": "https://vocm.com/2026/04/26/297553/",
-      "snippet": "Applications are now open for the provincial government's 2026 Summer Camp Inclusion Grant. The program helps children with disabilities participate i...",
-      "pub": "Sun, 26 Apr 2026 11:10:30 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/06/confederation-building.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Costco Recalls Gina Bambino Pizza Kits",
-      "link": "https://vocm.com/2026/04/26/297551/",
-      "snippet": "A gluten free pizza kit sold at Costco is being recalled by the outlet because of potential mould growth. The Gina Bambino kit (item #1974721) would h...",
-      "pub": "Sun, 26 Apr 2026 10:06:58 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/05/galway-costco.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Who is the suspect arrested in the attack at the White House correspondents’ dinner? - CTV News",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1FBdWlNYVR2cDJpSkM0bHYwek9JVUNhVlJGclFGOU5HRHdvYVpGdGtkTFdfVlA0dmhPaklncEJIWXA1NE96VTE3RVRZY1dNZjBPZFY0Q2R1VmhXODFBdUU0V0xINzkyZktVTS10MkFnMkg4Q09FQTBZeTlkNEdwakF2NGgzcUgzWnBGSUFpWVAyUklvMW9rWTlGNGlabjNaYk45RENhVHFrRzl4c01mUzNBY2JTbFJ1ZHFVTQ?oc=5",
-      "snippet": "Who is the suspect arrested in the attack at the White House correspondents’ dinner? &nbsp;&nbsp; CTV News Why Trump, MAGA and Fetterman say correspondents’ dinner shooting seals d",
+      "snippet": "Who is the suspect arrested in the attack at the White House correspondents’ dinner? &nbsp;&nbsp; CTV News White House Correspondents’ Dinner suspect to be charged as Trump prepare",
       "pub": "Sun, 26 Apr 2026 19:27:30 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Man stabbed Sunday afternoon in Mount Royal Park - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGdlekZNOHNWd292VnFxSnZRSDlvNDhZRThMT2xlcGtYUTBJT3p1ZkN1YlhmU1hhTUg4NkJsb3FuQVo2Q21vZ1VyRGhlSzlLTzBJR2ZqbmJwOU4tbThZOFMzMFZRTlAwdl84QmVHb1A1M3FSNG1neWI4enN6RmhNMGVIOUdCSFp2Wnc?oc=5",
-      "snippet": "Man stabbed Sunday afternoon in Mount Royal Park &nbsp;&nbsp; Montreal Gazette",
-      "pub": "Sun, 26 Apr 2026 23:11:38 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Manitoba set to become 1st province to ban social media for children - Global News",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ydDVYRXBZcWMzQXZhZFhOQ2lJZDl4NW9abERES1V3enBQa2FLT3pSQ2RjaTdISlRiZFBMN3hzVm9OWl8tOURLdmhOOXZqY2lDT2Fzby1ScWFfSWFxaGRERDZfZ1ljcm55VVUwVWZFV1VGMWxGTEQyVUdvZVE?oc=5",
-      "snippet": "Manitoba set to become 1st province to ban social media for children &nbsp;&nbsp; Global News 'Not everything deserves to be banned,' kids say as Manitoba plans to block youth from",
+      "snippet": "Manitoba set to become 1st province to ban social media for children &nbsp;&nbsp; Global News Manitoba to ban social media, AI chatbots for youth, premier says &nbsp;&nbsp; CBC Soc",
       "pub": "Sun, 26 Apr 2026 21:44:11 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Iran talks stumble as Tehran’s top diplomat leaves Pakistan and Trump says he told envoys not to go - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZVNiWTMzNGZacTZXeGhaQkhIcTdJTTRMaXU4RmVpeEtBRjJBYkM2alI1S00yNzJOVFBiM2YtUzVDNUl6SWRQandoSkZyOF9ZMmc2NjlmVzFROUpjSHJqT1hETEZKaHF6RndpbWtxQlRfRG41Ml91WkpmcnNXc3ZWeWRJdnUwLVp3Tmh1Nml5Q3h6bmF5cmZpSk1pY3BxN0FSSnpqc0VDU1hUVWRYNm5KREZNU1lGa09EMXJTU2QtbWhnY2NvRW80dGVGZDNEdGxZSlozWlJtdWhUbXZY?oc=5",
-      "snippet": "Iran talks stumble as Tehran’s top diplomat leaves Pakistan and Trump says he told envoys not to go &nbsp;&nbsp; CTV News Iran's foreign minister visits Russia after Israeli strike",
-      "pub": "Sat, 25 Apr 2026 18:30:25 GMT",
+      "title": "Israel and Hezbollah accuse each other of violating Lebanon ceasefire - France 24",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcFZCYXpIUzVpNkpHTm1nSlhrd19lWW5GdFlLOF8zV29Ybm50akdUNFE2Zk84ZUx3MHhLNDk5VGRkY2w0aWE3SnBDZUhsbUt4dXBLM1cxenJtNUJoYnVYMnEtdElwLWw5Y2RvMXZvaUdVdkpGZVBQRk5IWHdzXzdzN3Bzc2NOdlkwbno3c005d1ZzZTJBVlJNOUNhOUU0cTRRbVdDMzZmNWlBM2VoV0t2TWtlU0FRVkxrMS1Tc0lHdVF5YXpzQThrM25JcG1EeGowMmd3?oc=5",
+      "snippet": "Israel and Hezbollah accuse each other of violating Lebanon ceasefire &nbsp;&nbsp; France 24 Iranian foreign minister blames US for talks breakdown as he visits Russia &nbsp;&nbsp;",
+      "pub": "Sun, 26 Apr 2026 05:13:33 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "14-year-old suspect in fatal Jackson Square mall shooting surrenders to Hamilton police - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdk1RZDB2UFhaZ2dFWWlOaFNOTXdXNHpobG1wam0tX3FZUVR3dzJ0SEk2aHRlRFlOay1xY2RsVDFMcldiYXZoc2RiYk94NWJCRjBDcWg1WFFfYXcyRUozS0dVMmVMRXJyVU1CUUgwWVNnV1h1cktkbEc3TFlTSXU0TnRVdzBCby1KT1FkUlJWX0hxajV5QkE0SEtwWEc1NHBOSGZMbnQtRzQ4WHh1TnJFcWNFTm1mVWxlMkxfY245ODVhdGM0cjctMGVNTU1ydkl2?oc=5",
-      "snippet": "14-year-old suspect in fatal Jackson Square mall shooting surrenders to Hamilton police &nbsp;&nbsp; CP24 Police get court order to ID teen wanted in fatal Hamilton mall shooting &",
-      "pub": "Mon, 27 Apr 2026 02:10:00 GMT",
+      "title": "Police get court order to ID teen wanted in fatal Hamilton mall shooting - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFNtb0Z5YlVLd2tCWU1pYWc5U095UUNnY0pJdzhQbnhuelU0SXBXY2toR1lwQjNoQjdXNURXaW10YVh5aVRxOEtrUUItdE9CVGt4aFVfNENmX19xMGJldl9mRHdYLVUtMGpHM2VpQ3h2NGctb2o4Q3lmbHo0VnNZcldDWVJJWkM2SmI2QV9zcElYR1h3OXFraEliazZrTTYzdDhEWXhjSkdWT1hGeUpDYm50Rkc2alljSl9nQ1dRWnVFRmc5WVE?oc=5",
+      "snippet": "Police get court order to ID teen wanted in fatal Hamilton mall shooting &nbsp;&nbsp; CTV News Woman recalls moment at Hamilton mall when Westdale Secondary student was killed &nbs",
+      "pub": "Mon, 27 Apr 2026 02:16:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "What to expect from Mark Carney’s fiscal update amid high deficits and rising risks - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODZ2SHVONnZOaW5zSjNmSms3VTBTLWRrS29iNThiZzF2YldEclZWLVhLNHJtRUhtTmk5VmtMVXpYUE5OZklqUUdZUndIYnVYU3RiWXYzQ2p1T1NBR2paVGhMU0ZGZjVObkFIWTMybGR1c2U4alVXYVFOeHNZekZzMG1IbVNEM0N2N19fUlZHd3RsUjJ3WHBuQXNkUWszZTNXeXR2bnZzQ3htd0NQRWt5b3NnbzJVVmpqT3lQbV9aM21EU2RUZWpYMjdkcUd3SWJsODJPSnBPdzZZMllvblR6ZW9zOS02ZktTTGk3eXZ1VmZ5NW03dHZIZ1VpbzY?oc=5",
+      "snippet": "What to expect from Mark Carney’s fiscal update amid high deficits and rising risks &nbsp;&nbsp; Toronto Star Lower-than-forecasted deficit, new affordability measures expected in ",
+      "pub": "Sun, 26 Apr 2026 14:58:34 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Ottawa’s economic update to show lower projected deficits, source says - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZU1aLS1uR2tKczltQ2VJOThsaDFjRFZnOXVpZGtZb2tGdktIbW94c0xOTi01N3NocnZEU2tJTUg3TXJpWDg4bnBXa1EzMV9JS0Z5aTc0bk1YTXFfV2I1aEhBR0hpQnNrT0J5SnF3aXBNVmhXSXRUUGZkM2FGM25pLTVZa3dtRzM5YVdKYjRPUVJybUdVY3lZSFBNT21YVThHbEVkNGtyc2JXei1ick0tWS1SdUdFWDlxOFE?oc=5",
+      "snippet": "Ottawa’s economic update to show lower projected deficits, source says &nbsp;&nbsp; The Globe and Mail Canada budget deficit over first 11 months of 2025/26 rises to C$25.55 bln &n",
+      "pub": "Mon, 27 Apr 2026 00:51:51 GMT",
       "image": ""
     },
     {
@@ -116,18 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Carney, Eby lament 'senseless' violence of Vancouver festival attack one year later - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaTFZQnJKU3NNa2R3aXdTSFFKVFByY2RLbHZOM0RkNm9EUFJYVkhwd3ZQNlhLN3RzbGtiNzVnTkZSS2hkSzVXMllVSjdSY2g2Y1ZaTmRQcXYya3NOUy0yOHRxM2lVZ0RSbHM3RWROcUNUZi1vQWdCTDd0TGVTR0hWNFpjLWUzNTlkdkN6V1p5OVFVdEJoRGVVa3JWT0MxZ2JQVFVfdG5FckZSZ2NKLUtiRTVUQkpCalE1Nmlwbi1vUzRtNkhVQ25QQXRpZXpSZw?oc=5",
-      "snippet": "Carney, Eby lament 'senseless' violence of Vancouver festival attack one year later &nbsp;&nbsp; Castanet View Full Coverage on Google News",
-      "pub": "Sun, 26 Apr 2026 17:55:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "What to expect from Mark Carney’s fiscal update amid high deficits and rising risks - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODZ2SHVONnZOaW5zSjNmSms3VTBTLWRrS29iNThiZzF2YldEclZWLVhLNHJtRUhtTmk5VmtMVXpYUE5OZklqUUdZUndIYnVYU3RiWXYzQ2p1T1NBR2paVGhMU0ZGZjVObkFIWTMybGR1c2U4alVXYVFOeHNZekZzMG1IbVNEM0N2N19fUlZHd3RsUjJ3WHBuQXNkUWszZTNXeXR2bnZzQ3htd0NQRWt5b3NnbzJVVmpqT3lQbV9aM21EU2RUZWpYMjdkcUd3SWJsODJPSnBPdzZZMllvblR6ZW9zOS02ZktTTGk3eXZ1VmZ5NW03dHZIZ1VpbzY?oc=5",
-      "snippet": "What to expect from Mark Carney’s fiscal update amid high deficits and rising risks &nbsp;&nbsp; Toronto Star Carney faces pressure to show results in spring fiscal update: former ",
-      "pub": "Sun, 26 Apr 2026 14:58:34 GMT",
+      "title": "‘Just wreckage’: Vancouver police, witnesses recall Lapu Lapu tragedy on 1st anniversary - Global News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZWh1UVpHMGpTbzJqTjZybmN5M3JpU3hIQ0VTeURPY0NIcjFuckF0M2hRQlh1SDdpOEVFMXp4S0E0SW1TVUI4QVZvRFhmM0lhUzBkU1pla1BZOXNSOEdLWC1BU1JHSE01TU5iZlBUQ1VfSlJjREQzSkR0RmVlT3hXT2RxY3NuUk5KazI5VTFPWEZaZw?oc=5",
+      "snippet": "‘Just wreckage’: Vancouver police, witnesses recall Lapu Lapu tragedy on 1st anniversary &nbsp;&nbsp; Global News View Full Coverage on Google News",
+      "pub": "Sun, 26 Apr 2026 15:30:43 GMT",
       "image": ""
     }
   ],
