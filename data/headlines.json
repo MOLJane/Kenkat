@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-05-01T10:00:53.606644+00:00",
+  "generated_at": "2026-05-01T11:36:05.412711+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Government to End Housing Initiative at Old Airport Comfort Inn",
+      "link": "https://vocm.com/2026/05/01/298011/",
+      "snippet": "The PC government plans on scrapping the housing initiative at the old Comfort Inn on Airport Road at the end of the year. The previous Liberal govern...",
+      "pub": "Fri, 01 May 2026 11:04:46 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/04/transitional-housing-airport-comfort-inn-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Trail of the Caribou U18 Hockey Team Off to Europe",
+      "link": "https://vocm.com/2026/05/01/trail-of-the-caribou-u18-hockey-team-off-to-europe/",
+      "snippet": "For the second year in a row, a group of young NL hockey players is heading to France and Belgium to honour the memory of Newfoundlanders and Labrador...",
+      "pub": "Fri, 01 May 2026 10:33:57 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/trail-of-the-caribou-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "US Passes Legal Deadline for Iran Military Authorization",
+      "link": "https://vocm.com/2026/05/01/us-passes-legal-deadline-for-iran-military-authorization/",
+      "snippet": "A legal deadline tied to U.S. military action against Iran is approaching, placing renewed focus on the scope and duration of the conflict. Under the ...",
+      "pub": "Fri, 01 May 2026 09:30:00 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/05/70180781.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Town of Harbour Grace to Celebrate Return of Amelia Earhart Statue",
+      "link": "https://vocm.com/2026/05/01/town-of-harbour-grace-to-celebrate-return-of-amelia-earhart-statue/",
+      "snippet": "The statue of Amelia Earhart will be back on display in Habour Grace in time for the anniversary of her historic solo transatlantic flight. Earhart, t...",
+      "pub": "Fri, 01 May 2026 09:59:35 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/04/amelia-earhart-and-the-spirit-of-harbour-grace-2022.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Health Minister Reveals Own Struggles in Response to Absence from Budget Day Speech",
@@ -35,83 +67,51 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/07/RNC-winter-night-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Latest Fuel Prices for Friday, May 1, 2026",
-      "link": "https://vocm.com/2026/05/01/latest-fuel-prices-for-friday-may-1-2026/",
-      "snippet": "The price of oil has shot up in recent days and so have the prices at the pumps. A litre of gas has now surpassed the 2-dollar mark after the PUB jack...",
-      "pub": "Fri, 01 May 2026 08:31:47 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/gas-prices-may-1-2026.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "May 1, 2026 – Do you think government will achieve its target of doubling the number of adoptions in Newfoundland and Labrador this year?",
-      "link": "https://vocm.com/2026/05/01/may-1-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12860').",
-      "pub": "Fri, 01 May 2026 08:01:46 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/housing-social-supports-minister-joedy-wall-budget-2026.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Brandon Tobin Sentenced to Five Years for Manslaughter in Death of Grandmother",
-      "link": "https://vocm.com/2026/04/30/297975/",
-      "snippet": "A judge himself apologized today to the family of a woman who died at the hands of her own grandson, who he then sent to prison. Justice Peter O'Flahe...",
-      "pub": "Thu, 30 Apr 2026 18:46:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/tobin-gruchy.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Premier Defends Health Minister Lela Evans Following Public Comments",
-      "link": "https://vocm.com/2026/04/30/premier-defends-health-minister-lela-evans-following-public-comments/",
-      "snippet": "Premier Tony Wakeham has declared his \"full confidence\" in the minister of health following comments that aired on CBC Radio this week. Questions abou...",
-      "pub": "Thu, 30 Apr 2026 18:42:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/lisa-dempster-and-tony-wakeham.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Alberta judge orders separatist group to pull list containing voters personal information from website - Edmonton Journal",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEdGOGRjd1B0eERxUVR5SURVbmFEbTVQNjRzUlpRdDg3Q3R5TXpjODdsT3NrTnVTUkl5UENHblZWMFFLQUFqSnlVU1lpQjVodlplQ3VTY2RoaHJZT25MLU80RmYwN01GV0plZ21EY1Vid0NQR3BpaTZHZkJVTTNkRnZvM0JHRHdoamVYY1BxMkN1MXFVamN0djZYREo5b0hyNFE4?oc=5",
-      "snippet": "Alberta judge orders separatist group to pull list containing voters personal information from website &nbsp;&nbsp; Edmonton Journal Alberta separatist group ordered to pull down l",
-      "pub": "Thu, 30 Apr 2026 21:15:29 GMT",
+      "title": "Man charged with attempted murder of two Jewish men in Golders Green - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hdUF1alFMS2ljYzNLU3ZORDRwNVUwRjlLSXJzZzRUdGxlYjF4a3NxUExRWTBWNnlSVzhmSHd4Y1BXTzNBMUlsQzdBb283RV9xTGhPQS1xLVVqZw?oc=5",
+      "snippet": "Man charged with attempted murder of two Jewish men in Golders Green &nbsp;&nbsp; BBC Man charged with attempted murder after stabbings of Jewish men in London &nbsp;&nbsp; CTV New",
+      "pub": "Fri, 01 May 2026 06:57:53 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump administration says war in Iran ‘terminated’ due to ceasefire, in bid to dodge Congress - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdXlqRzdsMGo4NW4yckJMTE9PNWFMc3dIb3ZVSkRYOVJZSTBmeUpBR1k5MF9SdmNEOWxvd05fV1ZYTnpIazFUSUpxN0JzU2JWVUNEVl93c1ktN09GWjRidTYtcDF5ZlJ0ZXB1dVBYWDdnQzV3eGZFQUMwd0lJOGdKd092amUzbFE?oc=5",
-      "snippet": "Trump administration says war in Iran ‘terminated’ due to ceasefire, in bid to dodge Congress &nbsp;&nbsp; The Globe and Mail Oil rises as White House says Iran ceasefire halts 60-",
-      "pub": "Fri, 01 May 2026 01:15:02 GMT",
+      "title": "Trump administration says its war in Iran has been ‘terminated’ before 60-day deadline - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjEzMmRZOVU0aE9sREd1YnJvODB6NWdlT2hsNUJHb2s0VVlON2RvMGFXZjIwR1YtVHl1bUZxaUp0MmEwUno5M2gzb2tqa1Z4ZjBoR1dzU2JlZWdRTzRoNFpNMmY3RVZidXRmRFdabFBEcThVX2ZqNmstMC1KdW5tRE5YdHRxdVR3amVrRUljenh4eXlkTGdmdVpRSGFpMjVPeEF2blc3SWVkOGZva2Y4bE5DcUZDWnphZnduREdRc1pTZw?oc=5",
+      "snippet": "Trump administration says its war in Iran has been ‘terminated’ before 60-day deadline &nbsp;&nbsp; CityNews Toronto Trump administration rejects need for Iran war Congressional ap",
+      "pub": "Fri, 01 May 2026 00:36:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "‘Speculation won’t lead us to Lilly and Jack’: N.S. police seek ‘fact-based tips’ on missing siblings - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN3c4M0Jrak1JendTaWhBLVhKV0o0U0FUbGs3eXhHLV9CTUNIY0lJVWY0M2FvNVRMRUF0cWZoY2RXdThDNGU0aUlZc01URVAzN0pmWE5sejByS0pUYi1vd0k3U2JwcHZuTjdhVDIyZXlFNXA2N2dna3NpTlRVNl9uYVNSd3BHb0RJTWJMSk5fVWZydi1XSUluWnNQZTVUNGROMEhLRGFjblNxaGxhVXF3eTFYcmM3dlpkbTZ3eFJuY3YzcnVxd0tTVVlUcEdFM2ZrZlZlQnQwaw?oc=5",
-      "snippet": "‘Speculation won’t lead us to Lilly and Jack’: N.S. police seek ‘fact-based tips’ on missing siblings &nbsp;&nbsp; CTV News 1 year later, few answers: the 'profoundly rare' disappe",
+      "snippet": "‘Speculation won’t lead us to Lilly and Jack’: N.S. police seek ‘fact-based tips’ on missing siblings &nbsp;&nbsp; CTV News View Full Coverage on Google News",
       "pub": "Thu, 30 Apr 2026 12:58:01 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Campaign period for city election kicks off Friday - CBC",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzI4TzRHSlFvS0QwRE5wbG5kcjllSW9ubnQxZWhmLU8wakJmUTNHMC0zdUJVQXRrcXZtQTM3NWFabGdPb0pKQnB6TUs1RXJCUHFkY01kNGZCRmljUHVKUVBWajh0Nl9Wbmdmbl9Gcmgza3g1Q0Z6VHFMTy1teFNHYk5JNkpSc19Jc2U5cS1SM19ldUFmMTdVTnpqV2YxWW8?oc=5",
-      "snippet": "Campaign period for city election kicks off Friday &nbsp;&nbsp; CBC View Full Coverage on Google News",
-      "pub": "Thu, 30 Apr 2026 08:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Comedian Rob Schneider Demands ABC Cancel Jimmy Kimmel For Making Jokes - HuffPost",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQTZkS2ZIRlRWSVdZYnlXTDJfRkowUkNPMnJnQllyc1Fhb01UQ2VzYUFJM1lQNUEyY1N3U3JxTXJELS1xRWttZU0wSzd4NFh5ZC1lVnRxVDQ5WkZ1QkprS2ZGc09KeDJ2WWI0ME9qam4xWW04ZDNnTDZWbFZ6TEc4TW1RakNaY3pHMDhYOGRBMmRWd2RoTE5lSm8tWGRKTVFCdW1ERmpLVFFYVTNNOFEzdUtR0gG3AUFVX3lxTFBxby1nQnN5RHpKODBvbGItQnFhMkxXeTFWT3hicmRfWDlxcVkyYVZ3aFZKYkRfNFQyOWJfYmhSc25La1NEd0d4c0p6WG5WeTNqRHpiaGxGLWdhOXI2WFM3dy1xMGdvckdUYmJIUWw4ajdiREhXem9lLXB1UXMybGtyRHFMQ1RFaWhOWDZXMHlsLWpMVTBfMDliYmp5MndUZzlQQ2RxNVFGSlhFSnNONTdUMk9zcS1xNA?oc=5",
-      "snippet": "Comedian Rob Schneider Demands ABC Cancel Jimmy Kimmel For Making Jokes &nbsp;&nbsp; HuffPost Could the FCC yank ABC's TV licenses amid Trump spat with Kimmel? &nbsp;&nbsp; CBS New",
+      "snippet": "Comedian Rob Schneider Demands ABC Cancel Jimmy Kimmel For Making Jokes &nbsp;&nbsp; HuffPost FCC chair denies ABC license review is related to Kimmel controversy &nbsp;&nbsp; The ",
       "pub": "Thu, 30 Apr 2026 22:15:54 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Three ways the spring economic update affects your wallet - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEhqVTdMLTJGT1dZU3hyRzl4WXl0b3JxR1d1RlhrYURKRlpGMVhsWmZwQUEzNE5lMjRORnRhT0NCSXBfejA0MXdRMHJkTjYyU0RlZ3A0NE1CUU1WUmxDX2NUcEtMSDJHVUV4Z1NCZ0NqVGdmNWwwc3hUTVRiVFR0MHh3RmVYYTJwX3ZlQzFWcjAtanBXY2VuTE9BSVBwVDhVbjMzTk9ySW4yWmFwSWpLclFFOXpQaTBXMTFsRUxXWDNQeC0tU0kw?oc=5",
-      "snippet": "Three ways the spring economic update affects your wallet &nbsp;&nbsp; The Globe and Mail New PBO says economic update lacks details on targets, results &nbsp;&nbsp; CBC Matthew La",
-      "pub": "Wed, 29 Apr 2026 20:46:59 GMT",
+      "title": "Brazil Congress overrides Lula veto to reduce Bolsonaro prison sentence - France 24",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSWxUVzQ2MTREVGdNX3NJNEJ0Y29tYnh1ZXYzaExLSXN4djJ2S1lmU2VQbXlQbzY5QlIycGxOWUhxd1dwM1AwYTVlODJkYUtwbVhhUm5nZC00SWhxU2c1UUsxWm5KdXJHdU9HTEZreWtRSlk4ZlJmQ3FqMmg3M1ZXNmUwMUJNOU1Ub1cwbFJZT19NTzZHMm1tWUN4VWppTlVlLXBPQ0FWcw?oc=5",
+      "snippet": "Brazil Congress overrides Lula veto to reduce Bolsonaro prison sentence &nbsp;&nbsp; France 24 Brazil's Congress approves plan to drastically cut Bolsonaro's jail term &nbsp;&nbsp;",
+      "pub": "Fri, 01 May 2026 03:43:17 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBacFRzTm9GRmgwWmpOeHFRTHdZd1BrVmhpandkMmpZX2pDODhfLTFhVENwX1pvelRPS1lteVlFM2QtTzQ5RnIwbHBVdGhJWTlvNHFxV21vUl9KZw?oc=5",
+      "snippet": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla &nbsp;&nbsp; BBC Israeli authorities taking 2 activists who led a Gaza-bound flotilla to Israel",
+      "pub": "Fri, 01 May 2026 10:12:57 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Province Protects District’s Classrooms and Budget by Funding Arbitration Ruling - Burnaby Schools",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVdLYkJqQzNaaUVBRGZKbWRFS1p4THIzSUs1LVBNTzhQZlVKQmxmcFVWa3ZneXJTLW1CMTZUWDFaTnBNVnF2UnN4UUNqeTlEdURWd0JqSTVXVWZDSlR0Z0JnYkloRjhtdGxsYWVLNUZEeVFVWnVrUGdrZm5KYmJlMWdFWlNLeW9RQ2lpcVNfNnlsc2FGWm5XLVFyRVhPSXA2MEk1bUx5SzVnQQ?oc=5",
-      "snippet": "Province Protects District’s Classrooms and Budget by Funding Arbitration Ruling &nbsp;&nbsp; Burnaby Schools View Full Coverage on Google News",
-      "pub": "Fri, 01 May 2026 03:45:03 GMT",
+      "title": "Motorcyclist killed in crash on Hwy. 407 near Trafalgar Road - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY2ZzMjNrX1J0eTkzSC1xLVlRYmJvUFJLLXRYVjVJeV9WVWJsUHFGSmRSVHE1UnRkNU1wLXlzYUJaN1R3dTBvcWZDQlo3anowS1dBZURoSm1WWU1FbVU1RkNmb0pndldaQ3dRd3g0WG5jaWJIQnhFUHNkam5nVXVrZGlBM2s1M2o5eUtER2Vyb0xYLUtoUTJBT2tIRmxLUTZl?oc=5",
+      "snippet": "Motorcyclist killed in crash on Hwy. 407 near Trafalgar Road &nbsp;&nbsp; CityNews Toronto View Full Coverage on Google News",
+      "pub": "Fri, 01 May 2026 09:24:00 GMT",
       "image": ""
     }
   ],
