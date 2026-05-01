@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T05:51:45.384101+00:00",
+  "generated_at": "2026-05-01T08:02:52.128499+00:00",
   "count": 16,
   "items": [
     {
@@ -17,14 +17,6 @@
       "snippet": "Premier Tony Wakeham has declared his \"full confidence\" in the minister of health following comments that aired on CBC Radio this week. Questions abou...",
       "pub": "Thu, 30 Apr 2026 18:42:45 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/lisa-dempster-and-tony-wakeham.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Government Budgets for Creation of Provincial Travel Nurse Team to Help Move Away from Agency Nursesa",
-      "link": "https://vocm.com/2026/04/30/government-budgets-for-creation-of-provincial-travel-nurse-team-to-help-move-away-from-agency-nursesa/",
-      "snippet": "The province is budgeting $38-million for the use of travel nurses this year, but they hope to reduce that reliance through a new provincial travel nu...",
-      "pub": "Thu, 30 Apr 2026 18:15:54 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/09/rnu-registered-nurses-union-logo.jpg"
     },
     {
       "source": "VOCM",
@@ -67,11 +59,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/confed-confederation-building-st-johns-provincial-government.jpg"
     },
     {
+      "source": "VOCM",
+      "title": "Powerful Synthetic Opioid Confirmed in the Province for the First Time, Prompting Public Warning",
+      "link": "https://vocm.com/2026/04/30/297939/",
+      "snippet": "An illicit drug which is about ten times more potent than fentanyl has been seized in this province for the first time - prompting a warning from RCMP...",
+      "pub": "Thu, 30 Apr 2026 14:09:55 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/fake-drugs.jpg"
+    },
+    {
       "source": "Google News Canada",
-      "title": "Braid: Private data of millions of Albertans allegedly leaked for separatist campaign - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYXA2VlQ4a3hoLTV6RjNfWE96YVhjbDU1ZW02ek9RWjZVaXp5eWdqb3hSM2hPbzhacWh5XzZocjY3aXFuUzRiWUkxdTFMZjhjYmdoQ2JocGh3bVNXREhJcEZVeVZBMDNBeWd6M1dpUlZ1ZnBZRVpuZ2tzOE1qV2RnUHp6LXVnRmVTV0hXcURZMzZWNndDaVp2RjhpNHY2ckd1eTRoZDZzbVFNQXNSOEZ4Q2IxLWliTGR2OHZfZzdOTUNjb0tsTUZkSA?oc=5",
-      "snippet": "Braid: Private data of millions of Albertans allegedly leaked for separatist campaign &nbsp;&nbsp; Calgary Herald Alberta separatist group ordered to pull down list with millions o",
-      "pub": "Thu, 30 Apr 2026 22:40:16 GMT",
+      "title": "Alberta judge orders separatist group to pull list containing voters personal information from website - Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEdGOGRjd1B0eERxUVR5SURVbmFEbTVQNjRzUlpRdDg3Q3R5TXpjODdsT3NrTnVTUkl5UENHblZWMFFLQUFqSnlVU1lpQjVodlplQ3VTY2RoaHJZT25MLU80RmYwN01GV0plZ21EY1Vid0NQR3BpaTZHZkJVTTNkRnZvM0JHRHdoamVYY1BxMkN1MXFVamN0djZYREo5b0hyNFE4?oc=5",
+      "snippet": "Alberta judge orders separatist group to pull list containing voters personal information from website &nbsp;&nbsp; Edmonton Journal UPDATE: Unauthorized Use of List of Electors &n",
+      "pub": "Thu, 30 Apr 2026 21:15:29 GMT",
       "image": ""
     },
     {
@@ -84,10 +84,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Chinese envoy warns Canada against sending MPs to Taiwan or warships through Taiwan Strait - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOejVGQVozakxrSkZZWHlMVHBnWVB6R1NFdVVZXzc0c3AwVUtYZkpfdEItT21BWUJmOWNsbjBnSVB2WkMwR29TY0FBejk4WUxmcTlISU1GUmZuYUV5S21odzFlWG1VVlZ3M1h5em9YS2RWeTFXSGNXRGRuUzJFUVoxakNzLWN5NHVMYlN2Q0Yxd3pPLTdRaVp5R1NnTXc?oc=5",
-      "snippet": "Chinese envoy warns Canada against sending MPs to Taiwan or warships through Taiwan Strait &nbsp;&nbsp; The Globe and Mail",
-      "pub": "Fri, 01 May 2026 00:34:33 GMT",
+      "title": "Comedian Rob Schneider Demands ABC Cancel Jimmy Kimmel For Making Jokes - HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQTZkS2ZIRlRWSVdZYnlXTDJfRkowUkNPMnJnQllyc1Fhb01UQ2VzYUFJM1lQNUEyY1N3U3JxTXJELS1xRWttZU0wSzd4NFh5ZC1lVnRxVDQ5WkZ1QkprS2ZGc09KeDJ2WWI0ME9qam4xWW04ZDNnTDZWbFZ6TEc4TW1RakNaY3pHMDhYOGRBMmRWd2RoTE5lSm8tWGRKTVFCdW1ERmpLVFFYVTNNOFEzdUtR0gG3AUFVX3lxTFBxby1nQnN5RHpKODBvbGItQnFhMkxXeTFWT3hicmRfWDlxcVkyYVZ3aFZKYkRfNFQyOWJfYmhSc25La1NEd0d4c0p6WG5WeTNqRHpiaGxGLWdhOXI2WFM3dy1xMGdvckdUYmJIUWw4ajdiREhXem9lLXB1UXMybGtyRHFMQ1RFaWhOWDZXMHlsLWpMVTBfMDliYmp5MndUZzlQQ2RxNVFGSlhFSnNONTdUMk9zcS1xNA?oc=5",
+      "snippet": "Comedian Rob Schneider Demands ABC Cancel Jimmy Kimmel For Making Jokes &nbsp;&nbsp; HuffPost Trump says ABC had ‘better’ fire Kimmel as Disney stands firm &nbsp;&nbsp; CTV News Ji",
+      "pub": "Thu, 30 Apr 2026 22:15:54 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Three ways the spring economic update affects your wallet - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEhqVTdMLTJGT1dZU3hyRzl4WXl0b3JxR1d1RlhrYURKRlpGMVhsWmZwQUEzNE5lMjRORnRhT0NCSXBfejA0MXdRMHJkTjYyU0RlZ3A0NE1CUU1WUmxDX2NUcEtMSDJHVUV4Z1NCZ0NqVGdmNWwwc3hUTVRiVFR0MHh3RmVYYTJwX3ZlQzFWcjAtanBXY2VuTE9BSVBwVDhVbjMzTk9ySW4yWmFwSWpLclFFOXpQaTBXMTFsRUxXWDNQeC0tU0kw?oc=5",
+      "snippet": "Three ways the spring economic update affects your wallet &nbsp;&nbsp; The Globe and Mail New PBO says economic update lacks details on targets, results &nbsp;&nbsp; CBC Matthew La",
+      "pub": "Wed, 29 Apr 2026 20:46:59 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Parents urge UK to act after son detained by Israel - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MZThJVE9NNG1udG9lNVRJZnBrcUg4T1JLTFMyYmVfSHRrLUwxU2N5U0tzTEt6Qk5oV0ZuU1phQjFrRXlFMDdkandUWGVSeU1aNlhIRno5c255dw?oc=5",
+      "snippet": "Parents urge UK to act after son detained by Israel &nbsp;&nbsp; BBC RSF condemns ‘kidnapping’ of three journalists on board Gaza aid flotilla &nbsp;&nbsp; Al Jazeera Israel navy t",
+      "pub": "Thu, 30 Apr 2026 20:07:48 GMT",
       "image": ""
     },
     {
@@ -100,34 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "1 person killed in Hamilton shooting, police say - CP24",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTZHc3NONUZnVEVONm1VbGtjMzR3ckR5VlE3QnQzVmZLenpHN282Q1VsTnJQZnFkU0JvUW1TcEk4WC1UYmVCekVQdlU0VkRHOUpXY1ppLWI2OGIxaEl3OUlQNEVSZlM0UnM4T0FVMjV1M0VQUkEtcWdaczhfSmpvM0FyOHNSQ2JDTUx2LXgzQ1J0amFRYTVWWTNDVQ?oc=5",
-      "snippet": "1 person killed in Hamilton shooting, police say &nbsp;&nbsp; CP24 View Full Coverage on Google News",
-      "pub": "Fri, 01 May 2026 01:55:00 GMT",
+      "title": "Province Protects District’s Classrooms and Budget by Funding Arbitration Ruling - Burnaby Schools",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVdLYkJqQzNaaUVBRGZKbWRFS1p4THIzSUs1LVBNTzhQZlVKQmxmcFVWa3ZneXJTLW1CMTZUWDFaTnBNVnF2UnN4UUNqeTlEdURWd0JqSTVXVWZDSlR0Z0JnYkloRjhtdGxsYWVLNUZEeVFVWnVrUGdrZm5KYmJlMWdFWlNLeW9RQ2lpcVNfNnlsc2FGWm5XLVFyRVhPSXA2MEk1bUx5SzVnQQ?oc=5",
+      "snippet": "Province Protects District’s Classrooms and Budget by Funding Arbitration Ruling &nbsp;&nbsp; Burnaby Schools View Full Coverage on Google News",
+      "pub": "Fri, 01 May 2026 03:45:03 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Parents urge UK to act after son detained by Israel - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MZThJVE9NNG1udG9lNVRJZnBrcUg4T1JLTFMyYmVfSHRrLUwxU2N5U0tzTEt6Qk5oV0ZuU1phQjFrRXlFMDdkandUWGVSeU1aNlhIRno5c255dw?oc=5",
-      "snippet": "Parents urge UK to act after son detained by Israel &nbsp;&nbsp; BBC Quebec City student and Ontario nurse held by Israeli forces after aid boats intercepted &nbsp;&nbsp; CBC RSF c",
-      "pub": "Thu, 30 Apr 2026 20:07:48 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "EXCLUSIVE: Doug Ford says he hasn’t lost his way, despite recent backlash - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNHF5RUZ6WHZrcXBnTHhwMG1QRlFoTDVjRjRnSHBPVXhZWEZMeHNrNjlyS1FXVHl4MW82YUN1OUtRRGF0R2h2WllTUERhVDZZdHNOQjhvMG5SYk9ja1ZnZ2I1RklFaDFhTWhMSU10VjFabk1yZTI4WjN6NGlEd1J0MWE5TmE5WkFENmlvaTJzb1I1S0JOQ0JTYWRlWktzV193SmhMemk4ZlVZTHdDTGgyTDA2SFN3eDFVaFNZX2U1MjV5dXM5bHNjUm5WZ01Ec0RMVVZNaG8weGZYbmxOQ1hIbE5rR25QT00?oc=5",
-      "snippet": "EXCLUSIVE: Doug Ford says he hasn’t lost his way, despite recent backlash &nbsp;&nbsp; CP24 View Full Coverage on Google News",
-      "pub": "Thu, 30 Apr 2026 21:09:35 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Lake Nipissing water level ranked ninth-highest since 1933 - BayToday.ca",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2VzdGRHYnljVzE0T2RzdVZrQkxyMUFvS3NrMDg2UU82SGczbnVCTEZKeVViUXVBaWpsdk5wU0N6QloyczBmT1ZMeG1RQzVfSUFFTDdMeEpwLVlFUUs2WUlZVWM4QWVUa3RXU1huUHZGYUMxX3Nob0dMeXlxZ2tvcW1tN2stZlJHZk42VS1mUy1zck5jMWRtcS1FaDVnUkp1SkJDUg?oc=5",
-      "snippet": "Lake Nipissing water level ranked ninth-highest since 1933 &nbsp;&nbsp; BayToday.ca Ottawa River flood watch: Here's the latest &nbsp;&nbsp; CBC Waters levels remain close to histo",
-      "pub": "Thu, 30 Apr 2026 18:13:01 GMT",
+      "title": "B.C. government cancels Burnaby Hospital redevelopment, sort of - Daily Hive",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IOWpNNWYxbzBUVVpiNWZ6UzdvV25sVEE4RWxBXzdNYmtkaDdnR1otS0xwa3FSMHMtczZrQTcweWhjdkZ6NkNUZlR0SzBtZFlGMVpleER2YzYtbEp6YkhCQjFMajhiQ3ZnTWJ0VHpnbktncG5nMldLbQ?oc=5",
+      "snippet": "B.C. government cancels Burnaby Hospital redevelopment, sort of &nbsp;&nbsp; Daily Hive B.C. cancels contracts for delayed long-term care facilities, hospital expansion, amid growi",
+      "pub": "Thu, 30 Apr 2026 22:52:00 GMT",
       "image": ""
     }
   ],
