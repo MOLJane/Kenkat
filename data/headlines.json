@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-05-01T08:02:52.128499+00:00",
+  "generated_at": "2026-05-01T10:00:53.606644+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Health Minister Reveals Own Struggles in Response to Absence from Budget Day Speech",
+      "link": "https://vocm.com/2026/05/01/298007/",
+      "snippet": "The health minister says Labradorians will have \"no reason\" to sue government after changes are made to the medical transportation system in Labrador....",
+      "pub": "Fri, 01 May 2026 09:33:42 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/health-minister-lela-evans-may-1-2026.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "VOCM Cares Foundation Spring 50/50 Draw Taking Place This Afternoon",
+      "link": "https://vocm.com/2026/05/01/vocm-cares-foundation-spring-50-50-draw-taking-place-friday-afternoon/",
+      "snippet": "One lucky person entered in the VOCM Cares Foundation 50/50 draw will be over $80,000 richer today. Ticket sales exploded yesterday as the jackpot hit...",
+      "pub": "Fri, 01 May 2026 09:11:58 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/05/VOCM-Cares-Logo-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Premier Now in Possession of Report from Churchill Falls Review Panel",
+      "link": "https://vocm.com/2026/05/01/premier-now-in-possession-of-report-from-churchill-falls-review-panel/",
+      "snippet": "The Churchill Falls Review Panel has delivered its report on the Upper Churchill MOU to government, but when its findings will be released to the publ...",
+      "pub": "Fri, 01 May 2026 08:56:00 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/premier-tony-wakeham-may-1-2026.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Man Charged with Impaired After Crashing into Parked Car",
+      "link": "https://vocm.com/2026/05/01/297995/",
+      "snippet": "A man has been charged with impaired after crashing his vehicle into a parked car in downtown St. John's last night. Police were called to the collisi...",
+      "pub": "Fri, 01 May 2026 08:41:44 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/07/RNC-winter-night-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Latest Fuel Prices for Friday, May 1, 2026",
+      "link": "https://vocm.com/2026/05/01/latest-fuel-prices-for-friday-may-1-2026/",
+      "snippet": "The price of oil has shot up in recent days and so have the prices at the pumps. A litre of gas has now surpassed the 2-dollar mark after the PUB jack...",
+      "pub": "Fri, 01 May 2026 08:31:47 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/gas-prices-may-1-2026.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "May 1, 2026 – Do you think government will achieve its target of doubling the number of adoptions in Newfoundland and Labrador this year?",
+      "link": "https://vocm.com/2026/05/01/may-1-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12860').",
+      "pub": "Fri, 01 May 2026 08:01:46 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/housing-social-supports-minister-joedy-wall-budget-2026.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Brandon Tobin Sentenced to Five Years for Manslaughter in Death of Grandmother",
@@ -19,74 +67,42 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/lisa-dempster-and-tony-wakeham.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Supreme Court Approves Settlement on Government Compensation to Victims of Abuse at Church-Run Institutions",
-      "link": "https://vocm.com/2026/04/30/supreme-court-approves-settlement-on/",
-      "snippet": "The Supreme Court has approved a settlement that will see the province help compensate victims of abuse at church-run institutions decades ago. Source...",
-      "pub": "Thu, 30 Apr 2026 18:09:00 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/03/confederation-building-st-johns.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Prescription Drug Program Expanding",
-      "link": "https://vocm.com/2026/04/30/prescription-drug-program-expanding/",
-      "snippet": "The Finance Minister says $26 million dollars has been budgeted to expand the prescription drug program. Craig Pardy told VOCM Open Line with guest ho...",
-      "pub": "Thu, 30 Apr 2026 18:05:08 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/07/Pills-Drugs-Prescription.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Ratification Vote Set for Renegotiated Agreement Between Innu and Hydro Quebec",
-      "link": "https://vocm.com/2026/04/30/297942/",
-      "snippet": "A ratification vote is scheduled for late May and early June on a revised and renegotiated settlement agreement between the Innu Nation and Hydro Queb...",
-      "pub": "Thu, 30 Apr 2026 17:10:22 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/08/churchill.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Students say Core Funding for MUN Needs to be Increased",
-      "link": "https://vocm.com/2026/04/30/students-say-core-funding-for-mun-needs-to-be-increased/",
-      "snippet": "The Canadian Federation of Students is pleased with some of the funding provided for post-secondary education in this year's budget, but says core fun...",
-      "pub": "Thu, 30 Apr 2026 15:50:21 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/nick-keough-lis.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Public Sector Unions say Budget ‘Missing the Mark’ Without Action on Wages",
-      "link": "https://vocm.com/2026/04/30/297945/",
-      "snippet": "Union leaders say the provincial budget is missing the mark without action on wages. Gordon Piercey of the Allied Health Professionals says adding MRI...",
-      "pub": "Thu, 30 Apr 2026 14:24:16 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/confed-confederation-building-st-johns-provincial-government.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Powerful Synthetic Opioid Confirmed in the Province for the First Time, Prompting Public Warning",
-      "link": "https://vocm.com/2026/04/30/297939/",
-      "snippet": "An illicit drug which is about ten times more potent than fentanyl has been seized in this province for the first time - prompting a warning from RCMP...",
-      "pub": "Thu, 30 Apr 2026 14:09:55 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/fake-drugs.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Alberta judge orders separatist group to pull list containing voters personal information from website - Edmonton Journal",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEdGOGRjd1B0eERxUVR5SURVbmFEbTVQNjRzUlpRdDg3Q3R5TXpjODdsT3NrTnVTUkl5UENHblZWMFFLQUFqSnlVU1lpQjVodlplQ3VTY2RoaHJZT25MLU80RmYwN01GV0plZ21EY1Vid0NQR3BpaTZHZkJVTTNkRnZvM0JHRHdoamVYY1BxMkN1MXFVamN0djZYREo5b0hyNFE4?oc=5",
-      "snippet": "Alberta judge orders separatist group to pull list containing voters personal information from website &nbsp;&nbsp; Edmonton Journal UPDATE: Unauthorized Use of List of Electors &n",
+      "snippet": "Alberta judge orders separatist group to pull list containing voters personal information from website &nbsp;&nbsp; Edmonton Journal Alberta separatist group ordered to pull down l",
       "pub": "Thu, 30 Apr 2026 21:15:29 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump administration says its war in Iran has been ‘terminated’ before 60-day deadline - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjEzMmRZOVU0aE9sREd1YnJvODB6NWdlT2hsNUJHb2s0VVlON2RvMGFXZjIwR1YtVHl1bUZxaUp0MmEwUno5M2gzb2tqa1Z4ZjBoR1dzU2JlZWdRTzRoNFpNMmY3RVZidXRmRFdabFBEcThVX2ZqNmstMC1KdW5tRE5YdHRxdVR3amVrRUljenh4eXlkTGdmdVpRSGFpMjVPeEF2blc3SWVkOGZva2Y4bE5DcUZDWnphZnduREdRc1pTZw?oc=5",
-      "snippet": "Trump administration says its war in Iran has been ‘terminated’ before 60-day deadline &nbsp;&nbsp; CityNews Toronto Trump administration says hostilities in Iran ‘terminated’ ahea",
-      "pub": "Fri, 01 May 2026 00:36:00 GMT",
+      "title": "Trump administration says war in Iran ‘terminated’ due to ceasefire, in bid to dodge Congress - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdXlqRzdsMGo4NW4yckJMTE9PNWFMc3dIb3ZVSkRYOVJZSTBmeUpBR1k5MF9SdmNEOWxvd05fV1ZYTnpIazFUSUpxN0JzU2JWVUNEVl93c1ktN09GWjRidTYtcDF5ZlJ0ZXB1dVBYWDdnQzV3eGZFQUMwd0lJOGdKd092amUzbFE?oc=5",
+      "snippet": "Trump administration says war in Iran ‘terminated’ due to ceasefire, in bid to dodge Congress &nbsp;&nbsp; The Globe and Mail Oil rises as White House says Iran ceasefire halts 60-",
+      "pub": "Fri, 01 May 2026 01:15:02 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "‘Speculation won’t lead us to Lilly and Jack’: N.S. police seek ‘fact-based tips’ on missing siblings - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN3c4M0Jrak1JendTaWhBLVhKV0o0U0FUbGs3eXhHLV9CTUNIY0lJVWY0M2FvNVRMRUF0cWZoY2RXdThDNGU0aUlZc01URVAzN0pmWE5sejByS0pUYi1vd0k3U2JwcHZuTjdhVDIyZXlFNXA2N2dna3NpTlRVNl9uYVNSd3BHb0RJTWJMSk5fVWZydi1XSUluWnNQZTVUNGROMEhLRGFjblNxaGxhVXF3eTFYcmM3dlpkbTZ3eFJuY3YzcnVxd0tTVVlUcEdFM2ZrZlZlQnQwaw?oc=5",
+      "snippet": "‘Speculation won’t lead us to Lilly and Jack’: N.S. police seek ‘fact-based tips’ on missing siblings &nbsp;&nbsp; CTV News 1 year later, few answers: the 'profoundly rare' disappe",
+      "pub": "Thu, 30 Apr 2026 12:58:01 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Campaign period for city election kicks off Friday - CBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzI4TzRHSlFvS0QwRE5wbG5kcjllSW9ubnQxZWhmLU8wakJmUTNHMC0zdUJVQXRrcXZtQTM3NWFabGdPb0pKQnB6TUs1RXJCUHFkY01kNGZCRmljUHVKUVBWajh0Nl9Wbmdmbl9Gcmgza3g1Q0Z6VHFMTy1teFNHYk5JNkpSc19Jc2U5cS1SM19ldUFmMTdVTnpqV2YxWW8?oc=5",
+      "snippet": "Campaign period for city election kicks off Friday &nbsp;&nbsp; CBC View Full Coverage on Google News",
+      "pub": "Thu, 30 Apr 2026 08:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Comedian Rob Schneider Demands ABC Cancel Jimmy Kimmel For Making Jokes - HuffPost",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQTZkS2ZIRlRWSVdZYnlXTDJfRkowUkNPMnJnQllyc1Fhb01UQ2VzYUFJM1lQNUEyY1N3U3JxTXJELS1xRWttZU0wSzd4NFh5ZC1lVnRxVDQ5WkZ1QkprS2ZGc09KeDJ2WWI0ME9qam4xWW04ZDNnTDZWbFZ6TEc4TW1RakNaY3pHMDhYOGRBMmRWd2RoTE5lSm8tWGRKTVFCdW1ERmpLVFFYVTNNOFEzdUtR0gG3AUFVX3lxTFBxby1nQnN5RHpKODBvbGItQnFhMkxXeTFWT3hicmRfWDlxcVkyYVZ3aFZKYkRfNFQyOWJfYmhSc25La1NEd0d4c0p6WG5WeTNqRHpiaGxGLWdhOXI2WFM3dy1xMGdvckdUYmJIUWw4ajdiREhXem9lLXB1UXMybGtyRHFMQ1RFaWhOWDZXMHlsLWpMVTBfMDliYmp5MndUZzlQQ2RxNVFGSlhFSnNONTdUMk9zcS1xNA?oc=5",
-      "snippet": "Comedian Rob Schneider Demands ABC Cancel Jimmy Kimmel For Making Jokes &nbsp;&nbsp; HuffPost Trump says ABC had ‘better’ fire Kimmel as Disney stands firm &nbsp;&nbsp; CTV News Ji",
+      "snippet": "Comedian Rob Schneider Demands ABC Cancel Jimmy Kimmel For Making Jokes &nbsp;&nbsp; HuffPost Could the FCC yank ABC's TV licenses amid Trump spat with Kimmel? &nbsp;&nbsp; CBS New",
       "pub": "Thu, 30 Apr 2026 22:15:54 GMT",
       "image": ""
     },
@@ -100,18 +116,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Parents urge UK to act after son detained by Israel - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MZThJVE9NNG1udG9lNVRJZnBrcUg4T1JLTFMyYmVfSHRrLUwxU2N5U0tzTEt6Qk5oV0ZuU1phQjFrRXlFMDdkandUWGVSeU1aNlhIRno5c255dw?oc=5",
-      "snippet": "Parents urge UK to act after son detained by Israel &nbsp;&nbsp; BBC RSF condemns ‘kidnapping’ of three journalists on board Gaza aid flotilla &nbsp;&nbsp; Al Jazeera Israel navy t",
-      "pub": "Thu, 30 Apr 2026 20:07:48 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Police investigating after 2 children found dead in northwest Calgary - CBC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNW5YaUFIUjRRSGFRMkMyRm8tWEdHeHJUTVhrc0NYQ09kd3JrUGZSUVRqU2tmLWVmUk1FNlhuS1g0cUgxYTd6NFNyRzdDRFhYOEVnb3FVemJua0dUbDlLZ3Bpd2VMb1lZUkpjM3ExN21GeWVycUlteEVmUlVMX3ByYndrTkJfa0FhQ3d2SlRiMC15dXBtOFg4?oc=5",
-      "snippet": "Police investigating after 2 children found dead in northwest Calgary &nbsp;&nbsp; CBC 2 children found dead in Calgary vehicle, homicide team investigating &nbsp;&nbsp; Global New",
-      "pub": "Thu, 30 Apr 2026 20:05:37 GMT",
+      "title": "Man arrested after two children found dead in vehicle in northwest Calgary - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWJDZUc4UEljQzlDelFad2ZLOEc1UnFGbkltUWdHeDNiLWVKMjllRmRzQzFreHRiR0hkS242NVgwbG9ScUZPbWxYdWRvazIzMFdRc3JSNDhiTVVGYkU0NWk5Uk4ybTJpQUlwRlRDUWs2T2czQ3ZIRFJZRWZWb0JQVmxrczZCNUJNYjFXSWp2MUFlUWpTMjlR?oc=5",
+      "snippet": "Man arrested after two children found dead in vehicle in northwest Calgary &nbsp;&nbsp; The Globe and Mail 2 children found dead in Calgary vehicle, homicide team investigating &nb",
+      "pub": "Thu, 30 Apr 2026 20:31:31 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVdLYkJqQzNaaUVBRGZKbWRFS1p4THIzSUs1LVBNTzhQZlVKQmxmcFVWa3ZneXJTLW1CMTZUWDFaTnBNVnF2UnN4UUNqeTlEdURWd0JqSTVXVWZDSlR0Z0JnYkloRjhtdGxsYWVLNUZEeVFVWnVrUGdrZm5KYmJlMWdFWlNLeW9RQ2lpcVNfNnlsc2FGWm5XLVFyRVhPSXA2MEk1bUx5SzVnQQ?oc=5",
       "snippet": "Province Protects District’s Classrooms and Budget by Funding Arbitration Ruling &nbsp;&nbsp; Burnaby Schools View Full Coverage on Google News",
       "pub": "Fri, 01 May 2026 03:45:03 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "B.C. government cancels Burnaby Hospital redevelopment, sort of - Daily Hive",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IOWpNNWYxbzBUVVpiNWZ6UzdvV25sVEE4RWxBXzdNYmtkaDdnR1otS0xwa3FSMHMtczZrQTcweWhjdkZ6NkNUZlR0SzBtZFlGMVpleER2YzYtbEp6YkhCQjFMajhiQ3ZnTWJ0VHpnbktncG5nMldLbQ?oc=5",
-      "snippet": "B.C. government cancels Burnaby Hospital redevelopment, sort of &nbsp;&nbsp; Daily Hive B.C. cancels contracts for delayed long-term care facilities, hospital expansion, amid growi",
-      "pub": "Thu, 30 Apr 2026 22:52:00 GMT",
       "image": ""
     }
   ],
