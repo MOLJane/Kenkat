@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-05-02T06:04:07.482871+00:00",
+  "generated_at": "2026-05-02T08:03:50.707504+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "May 2, 2026 – Do you agree with the province’s decision to introduce mandatory registration for students to avail of bussing in the K-12 system?",
+      "link": "https://vocm.com/2026/05/02/may-2-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12863').",
+      "pub": "Sat, 02 May 2026 08:00:15 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/08/school-bus-stop-sign-flashing-lights-stock-pic-1.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Charming MOMS",
@@ -59,43 +67,35 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/10/lawyer-bob-buckingham-1.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Province Aiming to Reduce Adoption Wait Times",
-      "link": "https://vocm.com/2026/05/01/298036/",
-      "snippet": "The minister of social supports and well-being says he hopes to double the rate of adoptions in Newfoundland and Labrador, and reduce the wait times t...",
-      "pub": "Fri, 01 May 2026 14:40:25 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/housing-social-supports-minister-joedy-wall-budget-2026.jpg"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "1st-degree murder charges laid after 2 kids found dead in Calgary vehicle - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX0Z1cTIzRENyWlJsdHR4VF82OVRfWUxObkpDMkxwTmxUWnpDV1Nyc3BCdllPVi1iRlc4MXRpcnUtc01HNDVnekdaSUlmdUZEVXh5cXo4X2EwSFdPT3lUS2dSSlliV0JkeWs1TmsxNFpyZjRJc05YU09iRndtLWpOS2tJT0l1ZVYwZGc?oc=5",
-      "snippet": "1st-degree murder charges laid after 2 kids found dead in Calgary vehicle &nbsp;&nbsp; Global News View Full Coverage on Google News",
-      "pub": "Fri, 01 May 2026 18:15:23 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Elections Alberta alerted to improper use of voters’ information in late March, journalist says - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLVJRRjBzZXN2dXAxS28xV0U0akVBRmFWaFV1cHNiS1l4NlhoOGh3QUdFX2o3VDQxSndRODRKeHZnaXF6SkpZTlJ6amhwRlJpa1JpLUJKUmZPT3Foc01WWGcwckJxcWZkel9qY1dpa00tUXVSUGlHelkxeTFQeUpVRHRhWHljd3VPdk9SMkVvdmFPdw?oc=5",
-      "snippet": "Elections Alberta alerted to improper use of voters’ information in late March, journalist says &nbsp;&nbsp; CBC Albertans question timeline of alleged voter list leak, call for el",
-      "pub": "Sat, 02 May 2026 01:20:00 GMT",
-      "image": ""
-    },
-    {
       "source": "Google News Canada",
       "title": "U.S. withdrawing 5,000 troops from Germany, Pentagon announces - CBC",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWE2TEFJMEtiMEtuUmFMRXpxbFFxeXJCbkFTN3lER01zNGVDbFNrd3hncUV5NVFodF9QaE9BeVVVRm9YaEtEeHpxN1NrQm1yUHl4elVyWGtVWVQxR0RFOFFWSmtzUV9GNkkyZlZ4SDNuNlR2SVBpWUNrdlRhN1VTa0p0RQ?oc=5",
-      "snippet": "U.S. withdrawing 5,000 troops from Germany, Pentagon announces &nbsp;&nbsp; CBC US to cut troop levels in Germany by 5,000 amid Trump spat with Merz &nbsp;&nbsp; BBC U.S. to withdr",
+      "snippet": "U.S. withdrawing 5,000 troops from Germany, Pentagon announces &nbsp;&nbsp; CBC US to cut troop levels in Germany by 5,000 amid Trump spat with Merz &nbsp;&nbsp; BBC How Germany Mi",
       "pub": "Fri, 01 May 2026 23:43:29 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Calgary journalist notified Elections Alberta about voter list breach weeks ago - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcm9aeWVwcVMwMFFsaGdXWU1CNVZLNE0yUW1vUE9wMHoyUllPamw0Q0tLUy12aXhCQ290ak8wdzZLekVJYnd3VTBkSW1GNGxELWdnWDMwZ0ljc1B5QmtVOEdYd0RCbk9NTzcxYmFyMDJyZlk1aldXMXRlT3paR1pzUW9MYlBsUmtURzUtTnh4UEUzT3dncm1LNHl1eHliakl6amJ1RFl1b2RfZXhvZjd2U1ctcFhnM0lnVkRF?oc=5",
+      "snippet": "Calgary journalist notified Elections Alberta about voter list breach weeks ago &nbsp;&nbsp; CTV News Albertans question timeline of alleged voter list leak, call for election law ",
+      "pub": "Fri, 01 May 2026 22:20:16 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "U.S. court restricts abortion access by blocking mailing prescriptions of pill - CTV News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORWNqMWlodXkwNk10alRpWTBSV3JWc05Od1BPaWxyLUtVUnltWkZfdE9fT1Q1ZkV4djlSUDhIaEtFZmhoemZpZlNFTHVwYzRzNnFRY25oaUpna25wMXpoTXhjQjdIZk9VcEdPWVotdE0wY1doOXF3WmVqa1ItaXJjdVlGQTNCLUF5Q2ZhN2RGS3VHUEJuNWNVbG9Ea3J3MjJXT3c2SzY5VVQyTDd1dUdpcEVRLWF0UQ?oc=5",
-      "snippet": "U.S. court restricts abortion access by blocking mailing prescriptions of pill &nbsp;&nbsp; CTV News US appeals court blocks mail-order access to abortion drugs &nbsp;&nbsp; The Gu",
-      "pub": "Fri, 01 May 2026 22:11:10 GMT",
+      "snippet": "U.S. court restricts abortion access by blocking mailing prescriptions of pill &nbsp;&nbsp; CTV News US court limits mail-order access to abortion pill mifepristone &nbsp;&nbsp; BB",
+      "pub": "Sat, 02 May 2026 00:20:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Father charged with killing young son, daughter who were found in vehicle in Calgary - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTVNpVUlkdTFfTnZmNTkyUVF0TTRxSF9ZOE8xTlR6UTZyT2x1Z1pLX0RWRVVobFNkamhNVm1Najl2b3g1YkRFNjRMQ3BoZzBER0JOeVN6REVOYnEwWkxKcmpENjFTMGtqS3A1R1NnQXZHczZ4M3hyNHEySHVrM2Q2UVF5S19aZjJLOThib0RxNA?oc=5",
+      "snippet": "Father charged with killing young son, daughter who were found in vehicle in Calgary &nbsp;&nbsp; The Globe and Mail 1st-degree murder charges laid after 2 kids found dead in Calga",
+      "pub": "Fri, 01 May 2026 17:59:23 GMT",
       "image": ""
     },
     {
@@ -108,18 +108,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump: Not satisfied with the latest Iran proposal, not sure we're going to get a deal - investingLive",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTE15ZHNFME5YWjBiUGJHdGZtN2NYeHd2UlNoUzJ6ZHFCZkU2d1J1ZnlTcGdvdng0dGtrT3lwWG82SXBQUS1ncVU5bTFKLXVsZUFZSU9tdXdReGEzQW1jUlVxYkZyRFJlMkR6SktTSXJZZUtBaVVuZ2poRTRhMUxTaTgteTBNdDVSeW5CQjZ5dU9PZFNuNHU3THJrR1hPZFBjTENmczl3UzhVaFZXWG9seHlfYVNJNmRoQ3lZbzJJOGRQdw?oc=5",
-      "snippet": "Trump: Not satisfied with the latest Iran proposal, not sure we're going to get a deal &nbsp;&nbsp; investingLive Trump says Iran seeks terms he ‘can’t agree to’ in latest peace pr",
-      "pub": "Fri, 01 May 2026 21:49:28 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "RCMP say suspects in custody, at least one still at large after shots fired in Behchokǫ̀, NWT - Global News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tWm1DQnZCWkIxbVRuNUFDU3BvZEh6SWtCbGQ4N2Rfa2dmU3hQRVNja21XZHZhMFpNcVpPQ1BiUThKVlI3UWxDWDY2dmkxRF9sSWRJN2dTWHZsRFdFcFpnemMwLVV0X0VsQmF1ek9EYUVFM2dIVy1IRHBOVHI?oc=5",
-      "snippet": "RCMP say suspects in custody, at least one still at large after shots fired in Behchokǫ̀, NWT &nbsp;&nbsp; Global News Behchokǫ̀ lockdown ends with ‘several individuals arrested’ &",
-      "pub": "Fri, 01 May 2026 20:17:44 GMT",
+      "title": "Thousands defrauded out of nearly US$215M, including Canadians, in global hacking scheme - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVJydEYtUkZSbGtadmVKWFZydVlpZFdiZGlYUzNjTHVCbFZOTElfSmNaazVSbzNpSUJ4bGNhSmpDLVJ6aDZIRVh5a3Q3M0RHSWowNmEzUG5rb3NKV1RCRW84ZWJWT3g4R2NPRUpQMl9vTUVmYXl5QjE4QmU5X01SaTR2cl9hcVFNcTlFWnhrTUctTTd3LW5JdG1KckVVOUxHb19vWHNxcjg2WWJaUFJhZA?oc=5",
+      "snippet": "Thousands defrauded out of nearly US$215M, including Canadians, in global hacking scheme &nbsp;&nbsp; CTV News",
+      "pub": "Sat, 02 May 2026 02:52:00 GMT",
       "image": ""
     },
     {
@@ -128,6 +120,14 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYTl2U2t0c2NPWHgyX1NvNFpVT3pVWVVVOUY5d29RR2hrbTNBYTRBZl9BMXpITDBJeHJ2dlMySjd4czZ3YWphTFFBQjRueDdta1Jfa3NpRmE5QzBrc25lTW1ZWlZraW5WQlROUEtyRlpOdnJtanlnYm5VRk5uRWhCU1BGR3AyMjVHUE9TQTktMEkxczJwOXMzOXBsaUQwX3RyaVVGVi16bVZrTi01?oc=5",
       "snippet": "First list of registered candidates for Belleville municipal election &nbsp;&nbsp; Quinte News Candidates begin filing papers to run for municipal election in October &nbsp;&nbsp; ",
       "pub": "Fri, 01 May 2026 22:11:34 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Liberals commit to open committees amid flak for moving several behind closed doors - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeGxvUWhtbFluUmhuSXFuWTduLTNmQ2lReDBvT3JDSy02MmVWZFZHWXpXaTl6YkdfTEttWGpscmUzM3hxMlVsdWMzTXlUX1hqQlZQbElUamFxcnJ5VlNITzc5NUhfZW1zTVRwNEU2cVF1VTRCRDZtblJUZHJ6YlE5QXZaenltM3M?oc=5",
+      "snippet": "Liberals commit to open committees amid flak for moving several behind closed doors &nbsp;&nbsp; CBC Minister says Liberals want committees ‘open’ after Tories accuse them of secre",
+      "pub": "Fri, 01 May 2026 19:27:32 GMT",
       "image": ""
     }
   ],
