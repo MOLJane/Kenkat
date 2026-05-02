@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-05-02T09:38:10.232617+00:00",
+  "generated_at": "2026-05-02T10:42:57.495445+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Province Issues Fire Safety Reminders as Forest Fire Season Starts",
+      "link": "https://vocm.com/2026/05/02/298103/",
+      "snippet": "Forest fire season is now officially underway on the island, meaning that residents must acquire a permit in order to burn brush, wood or paper outsid...",
+      "pub": "Sat, 02 May 2026 10:28:51 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/08/Fire-bonfire-campfire.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Province Considers New Cost-of-Living Measures",
@@ -59,19 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/07/dbrs-morningstar-building-logo.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Three Schools to See Expansion, Renovation with Budget Funding",
-      "link": "https://vocm.com/2026/05/01/three-schools-to-see-expansion-renovation-with-budget-funding/",
-      "snippet": "Three schools in the province will see some significant upgrades over the next few years. Government has earmarked $4-million in the budget for the ex...",
-      "pub": "Fri, 01 May 2026 15:57:06 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/st-theresas-elementary-ecole-st-therese.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "U.S. withdrawing 5,000 troops from Germany, Pentagon announces - CBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWE2TEFJMEtiMEtuUmFMRXpxbFFxeXJCbkFTN3lER01zNGVDbFNrd3hncUV5NVFodF9QaE9BeVVVRm9YaEtEeHpxN1NrQm1yUHl4elVyWGtVWVQxR0RFOFFWSmtzUV9GNkkyZlZ4SDNuNlR2SVBpWUNrdlRhN1VTa0p0RQ?oc=5",
-      "snippet": "U.S. withdrawing 5,000 troops from Germany, Pentagon announces &nbsp;&nbsp; CBC US to cut troop levels in Germany by 5,000 amid Trump spat with Merz &nbsp;&nbsp; BBC US withdrawing",
-      "pub": "Fri, 01 May 2026 23:43:29 GMT",
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LZEdLTVlrWk9vblFjWmloaHE2WFVGOTNZVmtRY2dNVFJ6U2ZJVUVOWWtpQ3V3RDVsUFozdnVYdVNudkp6YzhDM3ZKU09PVEVvaEtyM3Q1ZFdUUQ?oc=5",
+      "snippet": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz &nbsp;&nbsp; BBC U.S. withdrawing 5,000 troops from Germany, Pentagon announces &nbsp;&nbsp; CBC US to withdraw",
+      "pub": "Sat, 02 May 2026 08:14:09 GMT",
       "image": ""
     },
     {
@@ -84,10 +84,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Father charged with killing young son, daughter who were found in vehicle in Calgary - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTVNpVUlkdTFfTnZmNTkyUVF0TTRxSF9ZOE8xTlR6UTZyT2x1Z1pLX0RWRVVobFNkamhNVm1Najl2b3g1YkRFNjRMQ3BoZzBER0JOeVN6REVOYnEwWkxKcmpENjFTMGtqS3A1R1NnQXZHczZ4M3hyNHEySHVrM2Q2UVF5S19aZjJLOThib0RxNA?oc=5",
-      "snippet": "Father charged with killing young son, daughter who were found in vehicle in Calgary &nbsp;&nbsp; The Globe and Mail 1st-degree murder charges laid after 2 kids found dead in Calga",
-      "pub": "Fri, 01 May 2026 17:59:23 GMT",
+      "title": "China, India among countries active in foreign interference and spying in Canada, CSIS says - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcjFlbl9SUC1scnhaaEZJbUhDS0ZpVHUtN3JrTkxrVXQ5LW9RbFU5TmpybEJaMFlYSDlIYW1WWFAzVXlPOTVHZVhvR2xDeloxYjN0UHNrZG12VXFKeW5GdUxUNFdOWmhUelNHZG43aWp5ckxZZ1M4MmZMazJpYUY3bWxmVFFZcDRvVlk3ejk5Qk9YREU?oc=5",
+      "snippet": "China, India among countries active in foreign interference and spying in Canada, CSIS says &nbsp;&nbsp; The Globe and Mail View Full Coverage on Google News",
+      "pub": "Fri, 01 May 2026 22:02:02 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Murder charges laid after 2 children found dead in vehicle - CityNews Calgary",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2dIVzlrTzBPZEpWZEtCbU1YZk9JWnJqM2lrRVo1aDEwRkYwaEtWdU12VWVOVjdRX1ltNUs4UGRMQWZHVTY4VFZBclVXd2xPbFFFSEZYcmRfM1ZLdkpZWXdERzhkZU05LVBFMlRZTW5OSjktb0JBcFoydU5mbnNNTGp3?oc=5",
+      "snippet": "Murder charges laid after 2 children found dead in vehicle &nbsp;&nbsp; CityNews Calgary 1st-degree murder charges laid after 2 kids found dead in Calgary vehicle &nbsp;&nbsp; Glob",
+      "pub": "Fri, 01 May 2026 17:53:06 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Elections Alberta alerted to improper use of voters’ information in late March, journalist says - CBC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLVJRRjBzZXN2dXAxS28xV0U0akVBRmFWaFV1cHNiS1l4NlhoOGh3QUdFX2o3VDQxSndRODRKeHZnaXF6SkpZTlJ6amhwRlJpa1JpLUJKUmZPT3Foc01WWGcwckJxcWZkel9qY1dpa00tUXVSUGlHelkxeTFQeUpVRHRhWHljd3VPdk9SMkVvdmFPdw?oc=5",
+      "snippet": "Elections Alberta alerted to improper use of voters’ information in late March, journalist says &nbsp;&nbsp; CBC Albertans question timeline of alleged voter list leak, call for el",
+      "pub": "Sat, 02 May 2026 01:20:00 GMT",
       "image": ""
     },
     {
@@ -100,18 +116,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Albertans question timeline of alleged voter list leak, call for election law changes - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9saXBVX05sc2hGaUFyUUlXQ092MktrUFpLOS1NaHl2ZGFzSVd3b0dqLVZpOEN2OURyWkZxMXlkdnY2ZGRfazAtTWd2Tlp4RFU2czlKY1M3cVdqaE43SldubDZwem9WLXQxZnN3WlJmTGROcXRsQlJsa3FR?oc=5",
-      "snippet": "Albertans question timeline of alleged voter list leak, call for election law changes &nbsp;&nbsp; Global News Alberta premier calls for accountability as separatist group faces vo",
-      "pub": "Fri, 01 May 2026 18:12:27 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Race for Sarnia mayor’s seat officially underway - Sarnia News Today",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWko2U3JZeWZ1UlNWWnktdDZNZ0REd3F3N1p5akRxamxycU5BaG1yaXhJWjVIeDkxTkJNSERUdDQzTm0xdzM0c3BDaE5kZ1BqZVhmbE90WU50SFJwTTd1QnIyb2JuLU1rOXpidkV6dkFiRkJBZ3o4ZVd2RXJoRGxKOTZET0tOSWl5Ty1ZYkhRS1BrcTltdDQw?oc=5",
-      "snippet": "Race for Sarnia mayor’s seat officially underway &nbsp;&nbsp; Sarnia News Today View Full Coverage on Google News",
-      "pub": "Fri, 01 May 2026 21:24:04 GMT",
+      "title": "First list of registered candidates for Belleville municipal election - Quinte News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYTl2U2t0c2NPWHgyX1NvNFpVT3pVWVVVOUY5d29RR2hrbTNBYTRBZl9BMXpITDBJeHJ2dlMySjd4czZ3YWphTFFBQjRueDdta1Jfa3NpRmE5QzBrc25lTW1ZWlZraW5WQlROUEtyRlpOdnJtanlnYm5VRk5uRWhCU1BGR3AyMjVHUE9TQTktMEkxczJwOXMzOXBsaUQwX3RyaVVGVi16bVZrTi01?oc=5",
+      "snippet": "First list of registered candidates for Belleville municipal election &nbsp;&nbsp; Quinte News Candidates begin filing papers to run for municipal election in October &nbsp;&nbsp; ",
+      "pub": "Fri, 01 May 2026 22:11:34 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHFOSmxtX2tRbXBlWmxWcWRXRHZxdi1peTZBR2lHSWFnUTZZQzI0bzJ4NWdhZG5ZNkhWeDJaa09ZTFNaSkJrMWc1TzNOTE0weVlZY2xJUVZvVjl2UldXSjVrQlpBM2hwbXFldFo3ODZhejlBbW1GOGxDSmFfenYzSnAyT3BEVGhOb2NaZEdLbm9Gb1dCZ0laeEVDWS10V3pOYlc4Mk9mcGcwRnZlNVQ2UnQ3Nng0ckczb1o2RklR?oc=5",
       "snippet": "Winnipeg police training needs update after fatal shooting of 16-year-old: expert &nbsp;&nbsp; CTV News View Full Coverage on Google News",
       "pub": "Fri, 01 May 2026 22:33:57 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Liberals commit to open committees amid flak for moving several behind closed doors - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeGxvUWhtbFluUmhuSXFuWTduLTNmQ2lReDBvT3JDSy02MmVWZFZHWXpXaTl6YkdfTEttWGpscmUzM3hxMlVsdWMzTXlUX1hqQlZQbElUamFxcnJ5VlNITzc5NUhfZW1zTVRwNEU2cVF1VTRCRDZtblJUZHJ6YlE5QXZaenltM3M?oc=5",
-      "snippet": "Liberals commit to open committees amid flak for moving several behind closed doors &nbsp;&nbsp; CBC Minister says Liberals want to keep committees ‘transparent’ and ‘open’ &nbsp;&",
-      "pub": "Fri, 01 May 2026 19:27:32 GMT",
       "image": ""
     }
   ],
