@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-03T13:52:46.865196+00:00",
+  "generated_at": "2026-05-03T14:41:48.527440+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "Newfoundland Power Donates $80,000 to Cancer Care",
-      "link": "https://vocm.com/2026/05/03/298135/",
-      "snippet": "Newfoundland Power has donated about $80,000 to programs, supports and facilities for cancer patients. The money, which comes from the utility's Power...",
-      "pub": "Sun, 03 May 2026 12:40:06 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/nl-power-edit.jpg"
+      "title": "Chamber CEO Cautiously Optimistic About New Red Tape Reduction Office",
+      "link": "https://vocm.com/2026/05/03/298144/",
+      "snippet": "The Atlantic Chamber of Commerce is pleased to see government take a renewed interest in reducing the amount of red tape that slows business developme...",
+      "pub": "Sun, 03 May 2026 14:22:33 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/03/rhonda-tulk-lane.png"
     },
     {
       "source": "VOCM",
@@ -52,6 +52,14 @@
     },
     {
       "source": "VOCM",
+      "title": "Newfoundland Power Donates $80,000 to Cancer Care",
+      "link": "https://vocm.com/2026/05/03/298135/",
+      "snippet": "Newfoundland Power has donated about $80,000 to programs, supports and facilities for cancer patients. The money, which comes from the utility's Power...",
+      "pub": "Sun, 03 May 2026 08:40:06 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/nl-power-edit.jpg"
+    },
+    {
+      "source": "VOCM",
       "title": "St. John’s Urgent Care Back, But Challenges Remain",
       "link": "https://vocm.com/2026/05/03/298123/",
       "snippet": "The Urgent Care Clinic in St. John's reopens this morning after being shut down for the second half of Saturday. Staffing issues have plagued the heal...",
@@ -59,19 +67,35 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/east-end-urgent-care-centre-clinic-old-costco-building-stavanger-drive.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "May 3, 2026 – Have you booked a spot at a campsite this year?",
-      "link": "https://vocm.com/2026/05/03/may-3-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12866').",
-      "pub": "Sun, 03 May 2026 08:01:31 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/04/Tent-Camping-Summer-Stock-Camp-Campsite.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump reviewing new Iranian proposal to end war but ‘can’t imagine’ terms are acceptable - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnE0UlBfdEhaLWd0V3VYY0V3WEJSSklBYnNhRjJZSXF4NHlBckprMmtVVUtUYm9xR3VKU3I5akxJRi1Lb2VGQkcwdUU4UEYxaWZYYnduZF9aWXlYU0NqaHdnMmVST1h5WUZUNkZjOFhrUzdZUTV4ZW1ieWZCbGt3bElWNDU1bzhYVEtXS1hJc1hzQU1iVFE?oc=5",
       "snippet": "Trump reviewing new Iranian proposal to end war but ‘can’t imagine’ terms are acceptable &nbsp;&nbsp; The Globe and Mail Live updates: Trump says Iran has ‘not yet paid a big enoug",
       "pub": "Sat, 02 May 2026 11:48:35 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "The oil spill in Tuapse and the lessons Russia didn't learn - The Kyiv Independent",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXZ4QmdIYmM3WEFqWXk0eUdMVmgwSHdEeXpIWnFDM0hHQ3pkU3pjZVBDTm1sTXVoVnV5TXdtUnlfcS0tRWdYWERKSi1VbkI4QjVkR3ZVd1lLN3RpYmhjNW5TVjFQSEJnZjVnZXVxZFJ3LTlHLS1kLWtuQWFPQnYxUlF4S0pMZkhFcVJrbVhUQU0?oc=5",
+      "snippet": "The oil spill in Tuapse and the lessons Russia didn't learn &nbsp;&nbsp; The Kyiv Independent Ukraine hits Russian oil-loading port, 'shadow fleet' tankers &nbsp;&nbsp; CBC Ukraine",
+      "pub": "Sun, 03 May 2026 09:51:27 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "As Carney visits Armenia, experts urge deeper Canada ties in the Caucasus - CBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZSE5WWWw4Tnhud2V6SUYxRjQzTlpWRmpweUE0dUc0VU14UFVLVG51U25iWE5sSTdtQjJEUTR0Ni14b2lLOXFlTHJSOTBZYzUxT1YwcWs1c0tMQkFVM2JGQnZSbTZ5UFNtT1dSYllpb2dQNVBTbERXSzlGQQ?oc=5",
+      "snippet": "As Carney visits Armenia, experts urge deeper Canada ties in the Caucasus &nbsp;&nbsp; CBC Carney meets with Armenian Prime Minister Nikol Pashinyan ahead of European leaders’ summ",
+      "pub": "Sun, 03 May 2026 13:34:14 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Masked robbers enter Montreal bakery in broad daylight, and steal bags of goods - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQelJfT3NtMEZuRnJQVk40bW5hYnpnQUNxZUVqeGtWX1hEZGdHanZQUW8yX1pHNXFHbFpUNG13ZlBZZ3hwQlU3MmN6bEdIQXl1SGdlNDRxRFJocmo0MnM5aW1FQTQxbGtXNWN6Wk9PSElpcFpoNlVpQzl1eEFTS2o5VXpNazE1WGQ5V0NYYlIwaEIzWXUzX3ByMTY1SW1DdFlrN0ZYUzRyTnRnZWkxdVUtbC1lYUI2UQ?oc=5",
+      "snippet": "Masked robbers enter Montreal bakery in broad daylight, and steal bags of goods &nbsp;&nbsp; CTV News ‘Anti-capitalists’ rob, vandalize Montreal bakery to mark International Worker",
+      "pub": "Sat, 02 May 2026 20:46:50 GMT",
       "image": ""
     },
     {
@@ -84,34 +108,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "As Carney visits Armenia, experts urge deeper Canada ties in the Caucasus - CBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZSE5WWWw4Tnhud2V6SUYxRjQzTlpWRmpweUE0dUc0VU14UFVLVG51U25iWE5sSTdtQjJEUTR0Ni14b2lLOXFlTHJSOTBZYzUxT1YwcWs1c0tMQkFVM2JGQnZSbTZ5UFNtT1dSYllpb2dQNVBTbERXSzlGQQ?oc=5",
-      "snippet": "As Carney visits Armenia, experts urge deeper Canada ties in the Caucasus &nbsp;&nbsp; CBC View Full Coverage on Google News",
-      "pub": "Sun, 03 May 2026 13:34:14 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "‘Anti-capitalists’ rob, vandalize Montreal bakery to mark International Worker’s Day - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNDJFVlhYc2doUE1GcTlfSFZfNHNGR29IOUtYX3RrOWpBOWFpNDA0M1NKUGI2MUhpRkxEb0VuTkN6bnQyNmZ1Z2RaTWp5Z2RiTi1IZjFZSmVBYzZ0allRWWpqMnJydDd1aFJaRHhQd2hwQklQYk9kX0xVQkE1eUlybk1kNklqXzd6cVZ5SFVCWi1oSURnWVJWM3Q0TWdQM2VyV084ZWw4eVNiY3JxME90ZUdvYjk?oc=5",
-      "snippet": "‘Anti-capitalists’ rob, vandalize Montreal bakery to mark International Worker’s Day &nbsp;&nbsp; Montreal Gazette View Full Coverage on Google News",
-      "pub": "Sat, 02 May 2026 16:37:51 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Cuba slams ‘unprecedented’ Trump threats - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX2UyMmVUSGNzZGtJLVVyV1RHR2NNTGxQX2dXQXpMUC1vOTYyZmF0ZDFPVDBmamVqbDhReE03ZDAyUHBEWll3dEs3cmZnVzZGcm8wOURaWWI4QzJFellBSG5NcXBHVHdOdzBSNlhFNHJNcVVzaEtZVmhDUUJ2ZlZUUUhn?oc=5",
-      "snippet": "Cuba slams ‘unprecedented’ Trump threats &nbsp;&nbsp; CTV News Trump signs executive order to broaden sanctions against Cuban government &nbsp;&nbsp; CBC Havana slams new Trump san",
-      "pub": "Sat, 02 May 2026 18:51:36 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "TC bargaining update: Employer wage offer unacceptable, impasse declared - Public Service Alliance of Canada",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZNTBIQlhXZ2JRUWMzREViQUV1WEhKR3ZvMW5zX2FVeGZUWlpaRUE4X0lQQWQwY2d3bDY4aGR6eUhmdkpEMWJIanNPSFZDRWIwUlF6UnNvVjE3RGEzS1l4UVhmZWx6R2l0M2JnRGZB?oc=5",
-      "snippet": "TC bargaining update: Employer wage offer unacceptable, impasse declared &nbsp;&nbsp; Public Service Alliance of Canada SV bargaining: Employer’s wage offer betrays “Canada strong ",
-      "pub": "Fri, 01 May 2026 23:16:59 GMT",
+      "title": "Nova Scotians demand answers about missing Sullivan children in rally outside RCMP detachment - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVzF5Sm14RE1OcGVnVlRkSTBHTUVFaVpmWUxtUjJDUnBHemN5aXI3M0pzS3hIbnlvRUV1Ny1TeHZCbUhYVEhBbHF2Y3lEcmR4NUp5M1lmZ3dzTmNkWXBLcnk1Rkd6WndINkFETGhaN0R2NWliSVU2NjhwdFNjYWtTSVZMQkY3a0RxQXZyZjhTdFlCS05TR3c0V0xTSmZWVVdUQUkwQl96d1RzUExvTkFLV1pVbUxaa2FU?oc=5",
+      "snippet": "Nova Scotians demand answers about missing Sullivan children in rally outside RCMP detachment &nbsp;&nbsp; The Globe and Mail ‘We need more answers’: Rally for N.S. missing kids 1 ",
+      "pub": "Sat, 02 May 2026 21:54:01 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Rally held to demand answers about Jack and Lilly Sullivan disappearance - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWEFEOFg0dTNDOU5DNnFVYTNLbGlmaWIzMVkwSngzMWcxUXNsMzV4aVpRVk9YRk1mem5lTGZacjM1TEpIQmx6U3A2WTN3RFVjbFNnUkNwUlcyNHVaOW53MVEzMlFpWXFFWGhCdVhUWjlKX052OW1ySlJUbERVTnpjajRMay04dWU4V1lWQnE2Y3U5ckMxTnQwaTVQRFZaYWlmT0tNYkRMenBKd282dVZuVjY0STRwMVNQQWQ0?oc=5",
-      "snippet": "Rally held to demand answers about Jack and Lilly Sullivan disappearance &nbsp;&nbsp; CBC ‘We need more answers’: Rally for N.S. missing kids 1 year after disappearance &nbsp;&nbsp",
-      "pub": "Sun, 03 May 2026 12:16:41 GMT",
+      "title": "Around 1,000 square meters of grass caught on fire: WFPS - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTk5MZTExZHZCcnROSFFUR3JUcjdxa0FnT0tvSEhoMHlraXdrU0tOUDJSLTVab2NFb3NyTjNSYjNySU8yQ2lBUTNUdHRaZExGUDhVM0s1SGg1TEV2aXl0QUtsa2ZZRWdsOWc1RnQ1WHlGc1hqNHZRbURYcUlwc2FZZ2lOdTNBV2YxWk5sdVMwMzhON2lIOEZUelZxYw?oc=5",
+      "snippet": "Around 1,000 square meters of grass caught on fire: WFPS &nbsp;&nbsp; CTV News Winnipeg firefighters respond to 3 fires in the last 24 hours &nbsp;&nbsp; CityNews Winnipeg Winnipeg",
+      "pub": "Sat, 02 May 2026 19:20:39 GMT",
       "image": ""
     }
   ],
