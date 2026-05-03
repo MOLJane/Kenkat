@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-05-03T12:02:53.712361+00:00",
+  "generated_at": "2026-05-03T13:52:46.865196+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Newfoundland Power Donates $80,000 to Cancer Care",
+      "link": "https://vocm.com/2026/05/03/298135/",
+      "snippet": "Newfoundland Power has donated about $80,000 to programs, supports and facilities for cancer patients. The money, which comes from the utility's Power...",
+      "pub": "Sun, 03 May 2026 12:40:06 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/nl-power-edit.jpg"
+    },
     {
       "source": "VOCM",
       "title": "College of the North Atlantic Overhauls Music Program for Modern Industry",
@@ -59,12 +67,12 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/04/Tent-Camping-Summer-Stock-Camp-Campsite.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Campground Bookings Surge Across the Province",
-      "link": "https://vocm.com/2026/05/02/298109/",
-      "snippet": "The province is seeing huge demand for campground reservations this year. The online reservation system, which went live last Wednesday morning, saw m...",
-      "pub": "Sat, 02 May 2026 14:27:22 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/04/butter-pot-provincial-park-camping-campsite.jpg"
+      "source": "Google News Canada",
+      "title": "Trump reviewing new Iranian proposal to end war but ‘can’t imagine’ terms are acceptable - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnE0UlBfdEhaLWd0V3VYY0V3WEJSSklBYnNhRjJZSXF4NHlBckprMmtVVUtUYm9xR3VKU3I5akxJRi1Lb2VGQkcwdUU4UEYxaWZYYnduZF9aWXlYU0NqaHdnMmVST1h5WUZUNkZjOFhrUzdZUTV4ZW1ieWZCbGt3bElWNDU1bzhYVEtXS1hJc1hzQU1iVFE?oc=5",
+      "snippet": "Trump reviewing new Iranian proposal to end war but ‘can’t imagine’ terms are acceptable &nbsp;&nbsp; The Globe and Mail Live updates: Trump says Iran has ‘not yet paid a big enoug",
+      "pub": "Sat, 02 May 2026 11:48:35 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -79,14 +87,22 @@
       "title": "As Carney visits Armenia, experts urge deeper Canada ties in the Caucasus - CBC",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZSE5WWWw4Tnhud2V6SUYxRjQzTlpWRmpweUE0dUc0VU14UFVLVG51U25iWE5sSTdtQjJEUTR0Ni14b2lLOXFlTHJSOTBZYzUxT1YwcWs1c0tMQkFVM2JGQnZSbTZ5UFNtT1dSYllpb2dQNVBTbERXSzlGQQ?oc=5",
       "snippet": "As Carney visits Armenia, experts urge deeper Canada ties in the Caucasus &nbsp;&nbsp; CBC View Full Coverage on Google News",
-      "pub": "Sun, 03 May 2026 07:00:00 GMT",
+      "pub": "Sun, 03 May 2026 13:34:14 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "‘Anti-capitalists’ rob, vandalize Montreal bakery to mark International Worker’s Day - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNDJFVlhYc2doUE1GcTlfSFZfNHNGR29IOUtYX3RrOWpBOWFpNDA0M1NKUGI2MUhpRkxEb0VuTkN6bnQyNmZ1Z2RaTWp5Z2RiTi1IZjFZSmVBYzZ0allRWWpqMnJydDd1aFJaRHhQd2hwQklQYk9kX0xVQkE1eUlybk1kNklqXzd6cVZ5SFVCWi1oSURnWVJWM3Q0TWdQM2VyV084ZWw4eVNiY3JxME90ZUdvYjk?oc=5",
+      "snippet": "‘Anti-capitalists’ rob, vandalize Montreal bakery to mark International Worker’s Day &nbsp;&nbsp; Montreal Gazette View Full Coverage on Google News",
+      "pub": "Sat, 02 May 2026 16:37:51 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Cuba slams ‘unprecedented’ Trump threats - CTV News",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX2UyMmVUSGNzZGtJLVVyV1RHR2NNTGxQX2dXQXpMUC1vOTYyZmF0ZDFPVDBmamVqbDhReE03ZDAyUHBEWll3dEs3cmZnVzZGcm8wOURaWWI4QzJFellBSG5NcXBHVHdOdzBSNlhFNHJNcVVzaEtZVmhDUUJ2ZlZUUUhn?oc=5",
-      "snippet": "Cuba slams ‘unprecedented’ Trump threats &nbsp;&nbsp; CTV News Cuba condemns new US sanctions as 'illegal' and 'abusive' &nbsp;&nbsp; BBC Trump signs executive order to broaden san",
+      "snippet": "Cuba slams ‘unprecedented’ Trump threats &nbsp;&nbsp; CTV News Trump signs executive order to broaden sanctions against Cuban government &nbsp;&nbsp; CBC Havana slams new Trump san",
       "pub": "Sat, 02 May 2026 18:51:36 GMT",
       "image": ""
     },
@@ -100,34 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Capital Dispatch: PM Carney says ‘Canada strong’ is more than a ‘slogan’ - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ1BkRFZRblVwNVF6dlJFRmc3TDYwLXJNYmEybWNZNS10eFozOW53WURFZURFbzQ4VERVSnFQX00xNE9mS2I0VHR0VjBCd1FEbFRPSThuX1pKdmU4ODhnVVRmc0drWG9SU3lGMVMzUkJEVThjWjcySmg3SHA5cjJUc1NSeV9oazFhdlNETUNRTndpc3YtbWVZcFVwOGhwMkdCOTRwRGZnSDE5TWx1Q1E?oc=5",
-      "snippet": "Capital Dispatch: PM Carney says ‘Canada strong’ is more than a ‘slogan’ &nbsp;&nbsp; CTV News Opinion: What an actual ‘Canada Strong’ economic update would look like &nbsp;&nbsp; ",
-      "pub": "Sat, 02 May 2026 15:21:52 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "NATO: working with US to understand details of troop reduction in Germany - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNUt6bjV3cENqV3VfRFlCb3RHRWNQUk9kOWs1ZDdUQVVoc0dyRDVGTVIyeE5mdkYyVDRFT2JublF3RlA1dmkyWDNXTVM3bXJSY2lsbGZoYWc5MGZ5RVpadHJqaXluNE5aWEJfd3lRTkpTbUxia2VPVnNnNkpvMDFfd0VjQkhmdmNhQy14Y09sa2RYSDVYaVNLYXlUSUNSc3ViQXZQcFI2YWY?oc=5",
-      "snippet": "NATO: working with US to understand details of troop reduction in Germany &nbsp;&nbsp; Reuters Germany troop cuts send wrong signal to Russia, say two top US Republicans &nbsp;&nbs",
-      "pub": "Sat, 02 May 2026 09:08:13 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Youth radicalization rising in Canada: Canadian Security Intelligence Service report - CTV News",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdll4eTdSVnA3clpoNmVEMnJFMHFtczZqTi0tNXZwQWxhWGRMcWpPM0R3Sy13LUNLSkxjWUpQdDJNdlFsbFhNUGpQTm4tM0p0RjZ3c1ZlNXdpLUtzOXc0R2FtajdoeFRyNkRFY3VDRWZsdjJ0NGRHZnZvQmQybFhteWdLcEZFVUZSOVNwdmQzSGEtdmkxaVcwUTFhTjhuWVlJZlRlOHp5bWlJMGF5eFFVYk95REE5amZrSVRrekhvOA?oc=5",
-      "snippet": "Youth radicalization rising in Canada: Canadian Security Intelligence Service report &nbsp;&nbsp; CTV News China, India among countries active in foreign interference and spying in",
+      "snippet": "Youth radicalization rising in Canada: Canadian Security Intelligence Service report &nbsp;&nbsp; CTV News CSIS says violent extremism radicalization becoming more complex to count",
       "pub": "Sat, 02 May 2026 22:11:20 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta separatist petition reaches final day for collecting signatures - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdkppdERBaWR3ZktjelpiejlvWFJzSTZOd09nckIxbUxVbldUME1aSFpEWHhvQ294WjFob3JpamlDRW01dk9HeWJDWnBxdnh0NjVZSEJXLTZBMmhVUWhpTU9ocWhnOE1GN0g4elVNc2RURmVBd0hSejlsRF9oZUpNZmJzUFZiMUIzbjk5TXBaelV6Y2xmRlpZZndnYkVJNC11YUE?oc=5",
-      "snippet": "Alberta separatist petition reaches final day for collecting signatures &nbsp;&nbsp; CBC View Full Coverage on Google News",
-      "pub": "Sat, 02 May 2026 16:36:35 GMT",
+      "title": "Rally held to demand answers about Jack and Lilly Sullivan disappearance - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWEFEOFg0dTNDOU5DNnFVYTNLbGlmaWIzMVkwSngzMWcxUXNsMzV4aVpRVk9YRk1mem5lTGZacjM1TEpIQmx6U3A2WTN3RFVjbFNnUkNwUlcyNHVaOW53MVEzMlFpWXFFWGhCdVhUWjlKX052OW1ySlJUbERVTnpjajRMay04dWU4V1lWQnE2Y3U5ckMxTnQwaTVQRFZaYWlmT0tNYkRMenBKd282dVZuVjY0STRwMVNQQWQ0?oc=5",
+      "snippet": "Rally held to demand answers about Jack and Lilly Sullivan disappearance &nbsp;&nbsp; CBC ‘We need more answers’: Rally for N.S. missing kids 1 year after disappearance &nbsp;&nbsp",
+      "pub": "Sun, 03 May 2026 12:16:41 GMT",
       "image": ""
     }
   ],
