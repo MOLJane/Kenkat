@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-05-06T05:40:59.148667+00:00",
+  "generated_at": "2026-05-06T08:09:38.326500+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
+      "title": "May 6, 2026 – Do you have an emergency kit prepared in your home?",
+      "link": "https://vocm.com/2026/05/06/may-6-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12875').",
+      "pub": "Wed, 06 May 2026 08:01:45 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/09/city-of-st-johns-emergency-preparedness-kit-hurricane-weather-flood-flashlight-water-food-essentials.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Strategic Pause: Trump Halts “Project Freedom” Amid High-Stakes Iran Talks",
+      "link": "https://vocm.com/2026/05/06/strategic-pause-trump-halts-project-freedom-amid-high-stakes-iran-talks/",
+      "snippet": "President Donald Trump has paused Project Freedom, the U.S. military effort to help commercial ships move through the Strait of Hormuz, while talks wi...",
+      "pub": "Wed, 06 May 2026 06:35:44 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/05/878479264.jpg"
+    },
+    {
+      "source": "VOCM",
       "title": "Man Charged in Alleged Kidnapping",
       "link": "https://vocm.com/2026/05/05/man-charged-in-alleged-kidnapping/",
-      "snippet": "A man is facing a long list of charges following an alleged kidnapping in the metro region. The Royal Newfoundland Constabulary was called on Monday a...",
+      "snippet": "The Royal Newfoundland Constabulary was called on Monday around 8 a.m. to reports of a woman in distress at a business on Thorburn Road. The woman, wh...",
       "pub": "Tue, 05 May 2026 18:25:47 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/damaged-car.jpg"
     },
@@ -17,14 +33,6 @@
       "snippet": "The Opposition member for Waterford Valley rose on a Point of Order in the House of Assembly today, seeking an apology from the Government House Leade...",
       "pub": "Tue, 05 May 2026 18:06:44 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/jamie-and-lloyd.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Concerns for Woman Reported Missing from Gander",
-      "link": "https://vocm.com/2026/05/05/concerns-for-woman-reported-missing-from-gander/",
-      "snippet": "RCMP are seeking the public's help in locating a young woman reported missing from Gander. Twenty-four-year-old Chris \"Tinka\" Heffern was last seen ju...",
-      "pub": "Tue, 05 May 2026 15:59:20 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/chirs-tinka-heffern.jpg"
     },
     {
       "source": "VOCM",
@@ -59,75 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/vocm-news.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Home Again Furniture Bank Hosting ‘Heads Without Beds’ Fundraiser",
-      "link": "https://vocm.com/2026/05/05/home-again-furniture-band-hosting-heads-without-beds-fundraiser/",
-      "snippet": "Home Again Furniture Bank is hosting its annual Heads Without Beds fundraiser - challenging people to spend one night without their beds so that other...",
-      "pub": "Tue, 05 May 2026 13:21:46 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/sleep-bed.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Who is Canada's new governor general Louise Arbour and why did Wendy Crewson play her in a movie? - National Post",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMzI0cXBsa2xXNkk1X1Nac1p4aGhrb19zX2NWZFlmMmRsTXFfcDBuNWgtVk5BcjVjR0VYOHhGcVpBNkY2Zm9TUlJqanJpcmVWLWpNeEtvUlIwWHBFWWtVLVEweUlJVzQtS1prZnhTbUpNT1RRMG1fc0hGR2xsOHBwejdoaFdJVkhBMTRhMThlSWNudTBFRDkyaGZVdm5LaENaSWY3aUhaektxUFJfVXpsSVRlYXcydzBJUzU5WllMbHlsbHZMdmdlQ2FqRU0?oc=5",
-      "snippet": "Who is Canada's new governor general Louise Arbour and why did Wendy Crewson play her in a movie? &nbsp;&nbsp; National Post Louise Arbour will become governor general at a delicat",
+      "snippet": "Who is Canada's new governor general Louise Arbour and why did Wendy Crewson play her in a movie? &nbsp;&nbsp; National Post PM Carney names Louise Arbour as Canada’s next governor",
       "pub": "Tue, 05 May 2026 18:36:37 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump pauses US operation in Strait of Hormuz in push for deal with Iran - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMWQyLUxOQm1qeGpfYUc4T25yS0w1cFNJWFZuTFBrU2ZEN29IVndZbW9IQllTN0ZYMlRfZkpIVlpKbVBzOGVWYXVMdnY2ZWJDLUVPbmlweS1iY0NiQndhRVBkZ3NvdkdYZU9FalRJcFFJZ2N3RUtyMk5HZ3JYR09nQVo3Nkp0RklZM090VjZfOGJpcy1NMzVkM1ZCa2RBMEVUVGsyQW00Nl_SAa4BQVVfeXFMTlk0VERhZExnNnFTVEl2SHdqaU1QT2UwYTRxZVhfNmZyYzhFYXdFeGtoOGxDeG81OHd6N3RFby1iRHRhTndqR2lCX0hIY0hSeWxXeTBZR2NpaG1qRy1XVVVrVGJDeEIzTFMyeWE5NDVHY3BleW1Ldng3RnhPa1JWVWJqRU1HRHZSUVNXNEpPNDkwY3hCTXQ5Q1JsZ3Rmc1NCUnUxNTFKMEcyRGY2RDhn?oc=5",
-      "snippet": "Trump pauses US operation in Strait of Hormuz in push for deal with Iran &nbsp;&nbsp; Al Jazeera Iran war live: Trump says Hormuz operation paused amid US, Tehran talks &nbsp;&nbsp",
-      "pub": "Wed, 06 May 2026 01:14:36 GMT",
+      "title": "Trump says operation to reopen Strait of Hormuz will be 'paused' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRThBWWVHdGdiN3dET0g1cHdKeTM1QmZsVjBDY3BPMUVzY2lpWDZUSlVwYnNfck94d3BnMnNNNEh6SHdoV2o0WmJzY0ZybUZCSFBJd3g5T1ZsYmpHX1hMYThTWGZkVlBiODQ4YlRMNUxadzZOcjctb2tMaEZKbzlEbmExY0hGSmV2Nm9VekJ4ekxTSENfY3g3YWZQQ3VfeVFsVUpQelFLQkZhcmhCTEtn?oc=5",
+      "snippet": "Trump says operation to reopen Strait of Hormuz will be 'paused' &nbsp;&nbsp; Reuters Trump puts ‘Project Freedom’ on hold, saying he hopes to finalise a deal with Iran &nbsp;&nbsp",
+      "pub": "Tue, 05 May 2026 23:39:10 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Toronto woman who wants to die by MAID asks court for urgent exemption - CBC",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41YVM5SjE2aVFfX0JfTUdTdlppcDNmdk5DUUlVQWdzMHNNMHpENjl6cS1aQjQ1TGZtR0syd2xDSlYzbE16ZHVHYzkzYnZKdndhcHkzUC02a202bExvUF9LVjVOdDlTTHFYa1czckQ2eG11R01NRm5RQ0s4dXk?oc=5",
-      "snippet": "Toronto woman who wants to die by MAID asks court for urgent exemption &nbsp;&nbsp; CBC Toronto woman asks court for emergency relief to receive medical assisted death &nbsp;&nbsp;",
+      "snippet": "Toronto woman who wants to die by MAID asks court for urgent exemption &nbsp;&nbsp; CBC Ottawa prepared to halt plan to allow MAID for mental illness &nbsp;&nbsp; The Globe and Mai",
       "pub": "Tue, 05 May 2026 22:29:38 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘Dangerous violation’: Jason Kenney lawyering up after alleged Centurion Project leak - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWi0wazgxRVhQSFZqVWJIYmJndUhmRi05Y0R2ZkxNc0Q5RjYyaWJUYjMwQVZiX2lNaHhsQjZxLVo5U2dyNDBWS0FCQ0RxLXNCUGF4bGEycTV4SVk5MUswbmtpMlRqZDRKUGR5TzFiSUZaTE1mQUdWeXlRMnN6X01iX3BuUHBIT0RzS05LN1NPbTIyUE9Fdjdja0NralJFSkgzLXc?oc=5",
-      "snippet": "‘Dangerous violation’: Jason Kenney lawyering up after alleged Centurion Project leak &nbsp;&nbsp; Global News UCP caucus staff attended Alberta separatist group’s online meeting, ",
-      "pub": "Wed, 06 May 2026 00:36:29 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Overdose prevention site in downtown Vancouver gets new location — with mayor strongly opposed - CBC",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDljenAzRnZIc3MzQUppUVRRbTZGdTNoQzVzZE93YXlDUEg5LTNWQmFsYUxVb1lkalJkOFZoeS1xeEhZWGRBUW9xSHJqOWRMV0hZOVVpekNPSEh1Rm1JUVcwV0dDMUpROUtGWmRFNldyOUEyR0FMX3ZRZUoyNmFjUVJjMHh5X1VwLTMyd0JQM2NlOENQQ2hjbjgwbHZ6VlNPdUJVeExsZ21RcUQ5U1ZXeHJxNlg?oc=5",
-      "snippet": "Overdose prevention site in downtown Vancouver gets new location — with mayor strongly opposed &nbsp;&nbsp; CBC Vancouver mayor opposes new OPS relocation on Helmcken Street &nbsp;",
-      "pub": "Tue, 05 May 2026 16:46:00 GMT",
+      "title": "UCP caucus staff attended April call with Alberta separatist group accused of publishing voters list - Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa05fZWxwdE5qRjZZNi1CUlhsSXVHbi0tZjNaSlRwNlhEa3RqS1pySjJwVVhnSVJZa2xNMTlvUEJBYXhLSnBDTTNxTHZKbXVhalhBd2tkUjRXUmpUNlN4Uml5T2FXN0lPa3NmOXhnSjVoMFptTEVyVy1uWWlYQTFFcg?oc=5",
+      "snippet": "UCP caucus staff attended April call with Alberta separatist group accused of publishing voters list &nbsp;&nbsp; Edmonton Journal ‘Dangerous violation’: Jason Kenney lawyering up ",
+      "pub": "Tue, 05 May 2026 23:51:14 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "A 128-year-old heat record was just broken in Vancouver - Daily Hive",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaeC03bW05eXV2eVYwakpJa1hvQ0N6bjcwWUItT2FXTFJVU2RwMlhtT21xRGxRUkhQaW9oeWhyUzVBOFRaRFZEZHpTa0ZWVDlhcVFGZzg0bU9BdjgyODRzSkNpd2RBc0pVU0JxWQ?oc=5",
-      "snippet": "A 128-year-old heat record was just broken in Vancouver &nbsp;&nbsp; Daily Hive 19 daily temperature highs broken across B.C., including 128-year-old records &nbsp;&nbsp; Today in ",
+      "snippet": "A 128-year-old heat record was just broken in Vancouver &nbsp;&nbsp; Daily Hive Early heat wave: B.C. Hydro sets a record for peak May demand &nbsp;&nbsp; Vancouver Sun Electricity",
       "pub": "Tue, 05 May 2026 17:19:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Red Dress Day being marked by events across B.C. - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUDNHR0NlLXVSVUtzeHM2YmV2TUhMMmMtRnRLanIwbnhXLXZXeENwcUNIVlZEeWFHSkI1YzQ1ZlJVeDlHY0I3ZEZvcEZqa0RiUTdUUW13c05GYzg2THdBVkFMLUFYelg1RTZtM0gtUkxGU25ueFhfM1AwM0d5TS1WeW4zb09nRE9zcWt4d00yOA?oc=5",
-      "snippet": "Red Dress Day being marked by events across B.C. &nbsp;&nbsp; CBC 20 years of marching for missing, murdered loved ones on B.C.'s Highway of Tears &nbsp;&nbsp; CBC Dozens of Manito",
-      "pub": "Tue, 05 May 2026 14:00:00 GMT",
+      "title": "‘U strangled him’: Crucial text leads to 1st-degree murder conviction for two Burlington moms - Inside Halton",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOUwyMG5IeGFmbzBJX05zUUFQN3R5Q2pVWmlwcENqaEMxYVcwU0xjMzJENUVtMjNlbzdOTmFlUFF3Vl9UNW5HM2plZ3FNaDBYYUxGNlZFOXJnYVVnNE5DSDVEUlBoOGFONTRYbElVaGFhNVMwSkdjWG1pTUtJNm9tRHItQ3k4UllwbGdoTG1qRFRmWF9GZ3JGNWdXdHBCX2xCa1RnWnZGU09aSXA4VXg3Y0FWS1hpWmRNVFBFSEpOVUVrMHhkMVRUNHJON1dxTU9UQ3VZVF9B?oc=5",
+      "snippet": "‘U strangled him’: Crucial text leads to 1st-degree murder conviction for two Burlington moms &nbsp;&nbsp; Inside Halton Ontario couple found guilty of boy’s murder, brother’s tort",
+      "pub": "Tue, 05 May 2026 17:07:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "North York murder suspect was once a police officer in Collingwood - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ1NxTi14cW5Od3FlQjhQcFFLX21ZMTlWeVEtb3ZfakNac2JiNUhYWEh5cWNRc2QybHIyaXFwT3JhV20tRFlpb3N3Umt2Nm4tam1yLUotZDVEd0RVb2lGQmZRVVE1X1F0c29nSXdObFRUdW1iRkdVY2tzNXNRM25QenVmNnU4ZC1hRUVwV2tVSklKSXlKbHBpMnlHc1J0bEJUMUZ4N29XZ2F0YXNBV0VTc2pMaU9Sa1VXWS05aERBS3VmSHlXUm1zb2lmNTI2UlR1WkE?oc=5",
-      "snippet": "North York murder suspect was once a police officer in Collingwood &nbsp;&nbsp; CP24 View Full Coverage on Google News",
-      "pub": "Tue, 05 May 2026 19:32:36 GMT",
+      "title": "‘I just want to bring her home’: Families of MMIWG2S+ speak out on Red Dress Day - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSm94OHBJaGJUdmlFelNuTzV2OEZRbzR4UF9VRDFpV0h6WllVeWw2UlY0Z2JyenhtQ2lNY0ZtUW9yVGNWaFBzNXRYc0Y3SEFfMFRVM0M2alN4WHZPZ0F2RlRNQkYybjNFdFlTR1g1bzVDUlp5NFJCZFhBckxiVGxDZG9UZ3hOMXBCeXJtLWZhdjQ0a2h0eGw2NE5uRU5LNmhwWDNUS1VIUlpFVXY2NkVRSnZVaGRhQQ?oc=5",
+      "snippet": "‘I just want to bring her home’: Families of MMIWG2S+ speak out on Red Dress Day &nbsp;&nbsp; CTV News 20 years of marching for missing, murdered loved ones on B.C.'s Highway of Te",
+      "pub": "Tue, 05 May 2026 22:19:24 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Video captures moment jet ski hits grey whale off Stanley Park - Global News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUJDOU1ObFh0eW5KdmhtSzE5M253TUdoWEkwUnlVdzN2MlZBeW1adnNKampIQzZQX0NpYXNOVVhEbGU5cVVYS3o1dzdLTHJPSV9uM0c4aUM4amtCSjJHNUtFM1htTEJsMjhYejdiZkg1VVlBcXlrZ2ZpV1pvQk5VTG9LajBaUQ?oc=5",
+      "snippet": "Video captures moment jet ski hits grey whale off Stanley Park &nbsp;&nbsp; Global News Video captures grey whale being struck by Sea-Doo in Vancouver &nbsp;&nbsp; CBC Watercraft o",
+      "pub": "Tue, 05 May 2026 20:36:53 GMT",
       "image": ""
     }
   ],
