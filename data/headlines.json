@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-05-08T07:02:35.939059+00:00",
+  "generated_at": "2026-05-08T08:52:37.906645+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Man Caught Hitting Vehicle in Paradise Tries to Give Police the Slip",
+      "link": "https://vocm.com/2026/05/08/man-caught-hitting-vehicle-in-paradise-tries-to-give-police-the-slip/",
+      "snippet": "A 65-year-old man is in all kinds of trouble with the law after ramming his vehicle into another in Paradise last night. RNC got the call around 9:55,...",
+      "pub": "Fri, 08 May 2026 08:41:00 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/rnc-royal-newfoundland-constabulary-metro-police-crime-cop-car.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Latest Fuel Prices for Friday, May 8, 2026",
+      "link": "https://vocm.com/2026/05/08/latest-fuel-prices-for-friday-may-8-2026/",
+      "snippet": "The Public Utilities Board has lowered the regulated price of most fuels. Gas drops by 6.6 cents per litre - putting the price around $202.3 in metro....",
+      "pub": "Fri, 08 May 2026 08:31:03 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/03/generic-esso-gas-pump-fuel-prices-pub-4.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "May 8, 2026 – The Speaker of the House of Assembly has warned MHAs about “wasting” his staff’s time  with “trivial and childish matters.” Do you think MHAs make effective use of their time during Question Period?",
+      "link": "https://vocm.com/2026/05/08/may-8-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12881').",
+      "pub": "Fri, 08 May 2026 08:00:36 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/04/house-of-assembly-stock-photo.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Traffic Slowed on TCH Near Arnold’s Cove Due to Accident Involving Big Rig",
+      "link": "https://vocm.com/2026/05/08/traffic-slowed-on-tch-near-arnolds-cove-due-to-accident-involving-big-rig/",
+      "snippet": "RCMP is warning the public of slowdowns on the TCH near Arnold's Cove due to a tractor trailer that is partially off the road. Traffic is alternating ...",
+      "pub": "Fri, 08 May 2026 07:42:11 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-17.png"
+    },
     {
       "source": "VOCM",
       "title": "Mushuau Innu Supports Minister on Labrador Health Advocacy",
@@ -35,83 +67,51 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/nl-newfoundland-and-labrador-college-of-nurses-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Geraldine Rubia Centre Temporarily Closed Following Fire",
-      "link": "https://vocm.com/2026/05/07/geraldine-rubia-centre/",
-      "snippet": "A facility which caters to adults with special needs is closed for the time-being after smoke damaged the large commercial building in which it is hou...",
-      "pub": "Thu, 07 May 2026 14:56:57 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/geraldine-rubia-centre-shaw-street.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Testy Exchange in House of Assembly",
-      "link": "https://vocm.com/2026/05/07/testy-exchange-in-house-of-assembly/",
-      "snippet": "Tensions boiled over in the House of Assembly yesterday in an exchange between Opposition Leader John Hogan and Government House Leader Lloyd Parrott....",
-      "pub": "Thu, 07 May 2026 14:34:35 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/hogan-and-lloyd-angry.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "World Health Organization Provides Update on Hantavirus Outbreak Aboard Cruise Ship",
-      "link": "https://vocm.com/2026/05/07/298511/",
-      "snippet": "The World Health Organization has provided an update on the evolving situation involving human-to-human transmission of a deadly form of hantavirus on...",
-      "pub": "Thu, 07 May 2026 14:05:57 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/mv-hondius-cruise-ship-hantavirus.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Man Retires from Renews Transportation Depot After 54 Years",
-      "link": "https://vocm.com/2026/05/07/298502/",
-      "snippet": "A public servant was recognized in the House of Assembly this week. Leo Cose, who started his career in 1972, retired as supervisor at the transportat...",
-      "pub": "Thu, 07 May 2026 13:09:08 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/leo-cose.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Elections Alberta issues cease-and-desist letters over voter info breach, privacy commissioner launches probe - CBC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQjJRdWprY3VHd0FtUzM4QW9QbXNNekd1YVJpaWxkNGloWlVhOWJUaVBNc05LSGZaWGtwOHZfTXRKVFUySnZaVEgydVZBeHJncmV2Skp5czJvNkxBRHJkMU5uSk9CVHVkTlJmRkZjUlRTTjdYd2VWVXVvLWxtMThyVW9lVkVNNGJSQTZlYnZqUWEwSlkzUmVN?oc=5",
-      "snippet": "Elections Alberta issues cease-and-desist letters over voter info breach, privacy commissioner launches probe &nbsp;&nbsp; CBC After his personal info may have been exposed by Albe",
-      "pub": "Thu, 07 May 2026 23:27:02 GMT",
+      "title": "3rd investigation launched into Alberta voter database accessed by nearly 600 people - Global News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnNEVHJ4TnNjdXZETy1NaDRSZHEwcmFSY2k0YzBOUU5PaHphamJtV3VDWHMtb2MzbkFSMXdTT3BhcHlMV2huTVlpdjFCM3pqNUc3aUppZHEtbzJXbGRYdDdaNUZ3WnRIdnpLZXBGU2lPT0lVX2hyd1gtLVBfenlVT3dpd3prTC1xVHU2bg?oc=5",
+      "snippet": "3rd investigation launched into Alberta voter database accessed by nearly 600 people &nbsp;&nbsp; Global News After his personal info may have been exposed by Alberta separatists, ",
+      "pub": "Thu, 07 May 2026 20:20:36 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "New secondary school to be built in Tumbler Ridge following mass shooting - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanoyWTUzUF9Xck1iaFVDN1FBckl2cTRkYThRZ2JHVElWNzdDOTdDYnJ4X3pVRHFCMmpYX2hwMjY1X3lGZ05PM2lkd1lRdjk2WU5kalhNMW1FM3RJQ1E1a0g4RlNRZnY4S3NzTm05S2VFaVIwY0lKTm45SXh3MnBXWFAxQWVwQmhUcXJHZ0JB?oc=5",
-      "snippet": "New secondary school to be built in Tumbler Ridge following mass shooting &nbsp;&nbsp; Global News Tumbler Ridge Secondary School to be torn down and rebuilt after mass shooting, p",
-      "pub": "Thu, 07 May 2026 22:02:03 GMT",
+      "title": "Tumbler Ridge Secondary School to be torn down in wake of mass shooting - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPandCZjViOW1faEY3eE40bkRJS0VMSFRLalI4engtUVpybDVnZnA1Zl9oTzUxSnlVeDJMYXN6T29EdkpidWpGZkRmbDlnZTljSTNGalNlWC1MTjhJVFhubFBkVkZlLWxLcEpLOFllYVozUUhkcFI5c0VONTJWTTdYdHoyakxKVXR5b3hrWXB4ckU5YlFibDh2dlNSUVhxSnZMVkp6RTZwU19Rc1dlOUVxcGl2WGw?oc=5",
+      "snippet": "Tumbler Ridge Secondary School to be torn down in wake of mass shooting &nbsp;&nbsp; CTV News Tumbler Ridge Secondary School to be torn down and rebuilt after mass shooting, provin",
+      "pub": "Thu, 07 May 2026 21:49:10 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Middle East war live: UAE responds to Iranian attacks as fragile ceasefire is challenged - France 24",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOEJfemRVeFNmb0FsUkdWNUZNWnJWMlc3aFlkMnpCeXk4WEJKeGVsanVmQnNkby04VlZKU0J0b2l1c1BjOGF5emxMMWN5TXZiX0dBZkpGbUdaVmZxSDRPOXVBU0ZFaThsQ2F1TXZVd2c0dTJvZFViZnpjanFqSlN3YlFqd25zNkNVY25TQVFqdHVLZm5qTUF1TVNiNjdPaG1tZkl1XzNlS0Z6TnpoU1JlbUJ3eEItUk80bXl1S2t1dThoQmxGdU1selQ3QXdvRUZ3Y2VSQm1FM2lCVFE?oc=5",
-      "snippet": "Middle East war live: UAE responds to Iranian attacks as fragile ceasefire is challenged &nbsp;&nbsp; France 24 US says it has targeted Iranian military facilities after responding",
-      "pub": "Thu, 07 May 2026 23:12:00 GMT",
+      "title": "US and Iran exchange fire in Strait of Hormuz, Trump says ceasefire holds - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaEdaVVZhbkdLNDZqZnhJNzltOFAtTTdwUVBScGN6cGtOZXJDS2lTLWtjTjIxQm9MdTZlM1RYbkV1cV9MbXZ0S0JUeXZBckpzcjJiRnBtSVd3bUZRVU00aXVvNVQzeDluVzFVQkdrb3RrLXduZVRtcmJRVlJITENzQ0tZLWFwUHlXbHFVRHA3QkF5eXNyVmdWb3NTTnNDRDZidHBzdldveFJJbkhqbnZoSEFWUUpsVDFjeDJwNg?oc=5",
+      "snippet": "US and Iran exchange fire in Strait of Hormuz, Trump says ceasefire holds &nbsp;&nbsp; Euronews.com Iran war live: UAE says it responded to attacks after Iran, US trade blows &nbsp",
+      "pub": "Fri, 08 May 2026 07:00:35 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Calgary Transit considering fare structure changes - CBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2NyY3VBMjBldTBBeS1Xa250cDd1QTVMUVNTeG1VaU8tMl84WWVXbGhVZVRjVl9HcE8zMDFUbjMzZi1FQWo0WXVsMmppdlRvMDlpS0pWUmNnNElRcHdiWjM5X0QwazVzTjB3UUhxbHV5cUhjZHIyRUg0Z2Nxb2NNd1laWUt1UnJIbGVZLW1Tc3BNR1ZtMnRvaGFn?oc=5",
-      "snippet": "Calgary Transit considering fare structure changes &nbsp;&nbsp; CBC Calgary Transit wants to end free fare zone downtown, generate up to $5 million in additional revenue &nbsp;&nbs",
-      "pub": "Thu, 07 May 2026 20:51:00 GMT",
+      "title": "CUSMA exemptions make trade war ‘less of a crisis’: Canada’s ex-trade envoy - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEZLMm9zb0lyTkx3cFlnUngyaFUwTFd2V1FnbTFla1hVdGxPUmJUVy16R2xaMVVWZ0JDRkM0by1ySl8yNkRhWl9MdExRTHY2VmNZWVBjTmkyYTlONl8tTDdFNjUtdjhfQktGWlp6akR3Wmppb3RnLXF4TTlhOUg0OGYzNUd2OUpDbWc?oc=5",
+      "snippet": "CUSMA exemptions make trade war ‘less of a crisis’: Canada’s ex-trade envoy &nbsp;&nbsp; Global News News of the day: U.S. trade tensions, sovereign wealth fund ETF, WestJet fare h",
+      "pub": "Thu, 07 May 2026 16:45:22 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "People on hantavirus ship ate every meal ‘side by side,’ even after first death, passenger says - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU0JiRklTOFF0bER5NWZLUUladHhkbTQ0Z1ZaUnZfc1FDNDU5TGFfT3Qzd1JzZDFZTjVMTlBrRk9JQmtrdjNvLXZOTTdVOWxrakx1aTgyME1odUtrS25yV0swQzk0dmk3ZXZEQkxxdkJiSUNrZXNqY2dLZU4yU0R2NVlOVEFxeUFLdEJ6U2VhMkNaM0toWld1dVF4QS1kNGFvN01VMGlGdVZjVFVEd08wYjNGbU9kX0lvZkJnTEZtVkpGT25KOW1sU0FNYnBFT3JuU0FidEZKWURVVjFpRmNYX0pB?oc=5",
-      "snippet": "People on hantavirus ship ate every meal ‘side by side,’ even after first death, passenger says &nbsp;&nbsp; CTV News This American doctor thought he was going on vacation. He ende",
-      "pub": "Fri, 08 May 2026 01:25:00 GMT",
+      "title": "Take hantavirus precautions when opening cottages, sheds, PHAC expert advises - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcjdGQ09nUVhDak5oLXpxYUM0LXBGc3FIMmFoaW0yN2lwNWd4T3VvcTd3S2RTWGo1Nm04RHdYWFo2bm5JQm5QZkg5Vmpaa2ViTjVhbEhzMFROMkViaDlmUmVnd3ZKWGtvZGpnQVB4RkVTX0R4WlpsQVlQZ3ZtTngxZHpkNkF3UDhUaHo5RENtZmkwRWREeGswYTJn?oc=5",
+      "snippet": "Take hantavirus precautions when opening cottages, sheds, PHAC expert advises &nbsp;&nbsp; The Globe and Mail People on hantavirus ship ate every meal ‘side by side,’ even after fi",
+      "pub": "Thu, 07 May 2026 21:07:36 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "U.S. trade court rules against Trump’s latest 10% global tariffs, but issues narrow block - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1lfcXIzbi1TcW1FODd6S3R6UWh1NHBnMDE1YlE3ZU5Sb1dacktGNlp2LU1aUDJ3aHhSV2ROVzVYZTh6WFFLdndiR3dVdlJ3bUpWendpN01VNHM5N1FXbEhqU0tZOVZRTlFNc2wxY3VwSmVSWkNPUldibUEyTDdxMTJ3Ry1xcmtk?oc=5",
-      "snippet": "U.S. trade court rules against Trump’s latest 10% global tariffs, but issues narrow block &nbsp;&nbsp; The Globe and Mail US trade court rules against Trump’s 10% global tariffs &n",
-      "pub": "Thu, 07 May 2026 22:22:45 GMT",
+      "title": "U.S. trade court rules in favour of plaintiffs who challenged Trump's global tariffs - CBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sVDl4bFBkSXB5NGl3OVROOWRXeGFZUHNESmw3RDdEMWRaZHAtN1dDc3FVUHFwSnA2X0tzRURjc1dxMlZxc25vdUNpOHA5aTQ2c0VPVGJ0Umc3X3pZb1NYa2pBN2xESXJfZmE1cDJjOTA4ckxiNE03QUpUeUY?oc=5",
+      "snippet": "U.S. trade court rules in favour of plaintiffs who challenged Trump's global tariffs &nbsp;&nbsp; CBC US trade court rules against Trump’s 10% global tariffs &nbsp;&nbsp; The Guard",
+      "pub": "Thu, 07 May 2026 21:26:00 GMT",
       "image": ""
     },
     {
@@ -119,14 +119,14 @@
       "title": "Manitoba Premier Wab Kinew wants word ban lifted in legislature - CTV News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU2hMNm02U3VPRi10MjhHSmRyeGZ5X1J3X255UkhGYXo0SnBfQzdVQV9mTEZhb2p5U1o5d1VSNnBnVFNrYXAtUjI5Zkwxbm5WQ2htVzNjdWduazk4NWl5Z01QM0R2Y19zZm96Um56c2lxU0dUR2QxYmo1VEM3WHJvM0JBRFg5ZlpMd2U4bC1HLThQOFdfNHZJaEJ5TDZfVElkS28xUjZqRQ?oc=5",
       "snippet": "Manitoba Premier Wab Kinew wants word ban lifted in legislature &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Thu, 07 May 2026 22:17:43 GMT",
+      "pub": "Fri, 08 May 2026 00:50:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Floodwaters ease near Prince Albert, but officials warn risk remains as hundreds stay evacuated - paNOW",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaGVqa1g3RGRXLUVOSHpLZVpNZGJBcWdjaC1ERnFPbEpkaTFKY1R3c1N0MjBzNy1wMXJTTFNPS1VPWXM5MkpEWmZhRnY2M2tTbWVEaXowMTR5X2lFSjNVR0VfaDljc3hzMnNFMURkQlZqTHloUjZhNk12VmhBWUtkOHpWYkdhMTFjZjhTcTdQQW84R2M2UWpvYktVWkxUb0k0QTJmVWROWHo5NTRpYmp1b1pESTJCX19reThpby1jVTZnQQ?oc=5",
-      "snippet": "Floodwaters ease near Prince Albert, but officials warn risk remains as hundreds stay evacuated &nbsp;&nbsp; paNOW Saskatchewan flooding has caused a state of emergency in 35 commu",
+      "snippet": "Floodwaters ease near Prince Albert, but officials warn risk remains as hundreds stay evacuated &nbsp;&nbsp; paNOW Already-flooded areas of Sask. warned snowpack melt will accelera",
       "pub": "Thu, 07 May 2026 23:31:42 GMT",
       "image": ""
     }
