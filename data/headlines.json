@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-05-08T11:49:57.490226+00:00",
+  "generated_at": "2026-05-08T13:11:23.752309+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Dominion at Memorial Stadium Shutting Down Today",
+      "link": "https://vocm.com/2026/05/08/dominion-at-memorial-stadium-shutting-down-today/",
+      "snippet": "Today is the last day for the Dominion at the old Memorial Stadium down by Quidi Vidi Lake. Loblaw announced in January that it would not continue to ...",
+      "pub": "Fri, 08 May 2026 12:52:54 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/lake-avenue-memorial-stadium-dominion.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Toronto Metropolitan Prof Stressing Importance of AI Literacy for All Sectors",
+      "link": "https://vocm.com/2026/05/08/toronto-metropolitan-prof-stressing-importance-of-ai-literacy-for-all-sectors/",
+      "snippet": "A professor at Toronto Metropolitan University is stressing the importance of AI literacy for all as the new technology becomes more engrained in ever...",
+      "pub": "Fri, 08 May 2026 12:41:06 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/professor-at-toronto-metropolitan-university-wendy-cukier-ai-conference.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Over $145M Generated Through NL Airbnbs in 2025",
+      "link": "https://vocm.com/2026/05/08/298588/",
+      "snippet": "Officials with Airbnb say there was a \"domestic travel boom\" in 2025, which created significant economic impacts in Newfoundland and Labrador. There w...",
+      "pub": "Fri, 08 May 2026 12:09:23 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/11/airbnb.jpg"
+    },
     {
       "source": "VOCM",
       "title": "St. John’s West MHA Raises Concerns About Increased Violence",
@@ -14,7 +38,7 @@
       "source": "VOCM",
       "title": "YYT Sets Sights on Multi-Level Parking Garage",
       "link": "https://vocm.com/2026/05/08/yyt-sets-sights-on-multi-level-parking-garage/",
-      "snippet": "Plans are in the works to build a multi-level parking garage at St. John's International Airport. CEO Dennis Hogan says the airport expanded its parki...",
+      "snippet": "Plans are in the works to build a multi-level parking garage at St. John's International Airport. CEO Dennis Hogan says the airport has expanded its p...",
       "pub": "Fri, 08 May 2026 10:56:57 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/02/st-johns-airport-yyt-winter.png"
     },
@@ -28,9 +52,9 @@
     },
     {
       "source": "VOCM",
-      "title": "Opposition Concerned About Changes to Municipal Operating Grants",
+      "title": "Opposition Concerned About Changes to Municipal Capital Works Programs",
       "link": "https://vocm.com/2026/05/08/opposition-concerned-about-changes-to-municipal-operating-grants/",
-      "snippet": "There are concerns that communities will lose out on much-needed funding as the result of changes made to municipal operating grants. The Opposition s...",
+      "snippet": "There are concerns that communities will lose out on much-needed funding as the result of changes made to municipal capital works programs. The Opposi...",
       "pub": "Fri, 08 May 2026 10:17:31 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/04/corner-book-mayor-jim-parsons-via-facebook.png"
     },
@@ -43,75 +67,51 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/10/daycare-stock-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Driver Involved in Crash on TCH Was Under Medical Suspension: RCMP",
-      "link": "https://vocm.com/2026/05/08/driver-involved-in-crash-on-tch-was-under-medical-suspension-rcmp/",
-      "snippet": "RCMP say the driver of a car involved in a collision that resulted in a traffic disruption on the Trans Canada was medically suspended from operating ...",
-      "pub": "Fri, 08 May 2026 09:26:27 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/whitbourne-crash.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Two More Points of Order Raised in House of Assembly",
-      "link": "https://vocm.com/2026/05/08/two-more-points-of-order-raised-in-house-of-assembly/",
-      "snippet": "Again yesterday two Points of Order were raised in the House of Assembly, this time stemming from an exchange between Opposition Leader John Hogan and...",
-      "pub": "Fri, 08 May 2026 09:07:29 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/hogan-and-lloyd-angry.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "U.S. and Iran Exchange Fire in Strait of Hormuz; Peace Proposal Still Under Review",
-      "link": "https://vocm.com/2026/05/08/u-s-and-iran-exchange-fire-in-strait-of-hormuz-peace-proposal-still-under-review/",
-      "snippet": "U.S. and Iranian forces exchanged fire near the Strait of Hormuz, putting a month-old ceasefire under renewed pressure. U.S. military officials said t...",
-      "pub": "Fri, 08 May 2026 08:29:16 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/05/876393020.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "3rd investigation launched into Alberta voter database accessed by nearly 600 people - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnNEVHJ4TnNjdXZETy1NaDRSZHEwcmFSY2k0YzBOUU5PaHphamJtV3VDWHMtb2MzbkFSMXdTT3BhcHlMV2huTVlpdjFCM3pqNUc3aUppZHEtbzJXbGRYdDdaNUZ3WnRIdnpLZXBGU2lPT0lVX2hyd1gtLVBfenlVT3dpd3prTC1xVHU2bg?oc=5",
-      "snippet": "3rd investigation launched into Alberta voter database accessed by nearly 600 people &nbsp;&nbsp; Global News Elections Alberta issues cease-and-desist letters over voter info brea",
-      "pub": "Thu, 07 May 2026 20:20:36 GMT",
+      "title": "This woman’s identity was stolen in a CRA hack. Why hasn’t the impostor been charged in her case? - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0JzbHAtYU5ZU2NOMDZXVF92V0hOeHRFU0RibF9pNWtLQ1NMZHZsNXczb2MyNVBfVzM5UVBGeEpPRTBKaGUxcUFpVTJuT09yR0RNRC16djVNX3dzdHFrdTZEbkZtLVB6QU5CSmQ1V2NGVHhTa1BZWHM5WU5sYjJrODZicE1qVDJXT3BJ?oc=5",
+      "snippet": "This woman’s identity was stolen in a CRA hack. Why hasn’t the impostor been charged in her case? &nbsp;&nbsp; CBC",
+      "pub": "Fri, 08 May 2026 08:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "US military strikes Iran’s Qeshm port and Bandar Abbas, Fox News reporter says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMTZwUEpxOWVFbWliMVZyLS1LNkx2bEV6cFRVUzRfN3pxY1Y5S0dhd3kwR0VtOTl2MVdhUEduLVc4Wm9HR0ZBbDNGYklrNEU0dlJyalBaZmpLU3FHc1RsTEdmclJUZXpRNC1vcU1WY1M3Q012Y1o3N096VlNwWTlaaC1qdGdLMFpnbDA2SmI4a2VIcjlYaW56cHVwYnRCcG5EUGxLMFpOZ0drZkVSczR1RUlPVThBY3RzRGEzbWNFMVF4RXhV?oc=5",
-      "snippet": "US military strikes Iran’s Qeshm port and Bandar Abbas, Fox News reporter says &nbsp;&nbsp; Reuters Iran war live: Ceasefire holds despite Iran, US blows; Israel hits Lebanon &nbsp",
-      "pub": "Thu, 07 May 2026 21:11:07 GMT",
+      "title": "‘Every parent’s worst nightmare’: Mothers push for runaway child bill after teens repeatedly leave home - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM1dIcFBBRXZ4UUZYY0V1WGZqSjZxc1lOemRDZlM4SXh3eXZteHFsbERZTjdaUmlnaUFtaUt0bk5ITVVfc2xvdGJIS1BYTlJJY2lINzRGVEE2R2hGVjRtZWlHNkxLUUdSeFJEbFhOcUF0cF9nYmlVOEY5VzlMYl8ybmNUS1FPbjZqTS1CU0pQWGM1eUo3QTBEYW1OSFNpRjNpQXVMal9JMTZBTlp0a2VqNmJvRmo4RV9YTU44U09CTjF1RG9McEhGaHRKWTRoeEtrWE9GdUZDbk9UQQ?oc=5",
+      "snippet": "‘Every parent’s worst nightmare’: Mothers push for runaway child bill after teens repeatedly leave home &nbsp;&nbsp; CTV News",
+      "pub": "Fri, 08 May 2026 09:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "CUSMA exemptions make trade war ‘less of a crisis’: Canada’s ex-trade envoy - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEZLMm9zb0lyTkx3cFlnUngyaFUwTFd2V1FnbTFla1hVdGxPUmJUVy16R2xaMVVWZ0JDRkM0by1ySl8yNkRhWl9MdExRTHY2VmNZWVBjTmkyYTlONl8tTDdFNjUtdjhfQktGWlp6akR3Wmppb3RnLXF4TTlhOUg0OGYzNUd2OUpDbWc?oc=5",
-      "snippet": "CUSMA exemptions make trade war ‘less of a crisis’: Canada’s ex-trade envoy &nbsp;&nbsp; Global News News of the day: U.S. trade tensions, sovereign wealth fund ETF, WestJet fare h",
-      "pub": "Thu, 07 May 2026 16:45:22 GMT",
+      "title": "New House of Commons design proposes benches, cinema-style seats and desks for the front bench - National Post",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYnJnUmRYdkM2UzFnZUZheU1sZXdmU1M2SDUwM015MXE1c3RmMUZ1Y2hCRUR4d1pQcTZud21LbGw0cTBpYTIzUTFuTzB1M2RGdERIWUJ4SndRWHRpSTZvUV9jbmpKMm5rWV9hQVZ6Vjd6RXVFcmJYZEFqOVgzR2ZfX2xKaHpHSjVFN2tNZzk4SlpYOEJiR2c3OC1laE0tMWNrWlUxWGI5OXZGM1F0T19TUHNMUGFhUGZfOVpkVlVwRkFuMHgwRVd4SmVBczk?oc=5",
+      "snippet": "New House of Commons design proposes benches, cinema-style seats and desks for the front bench &nbsp;&nbsp; National Post",
+      "pub": "Fri, 08 May 2026 08:04:18 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Take hantavirus precautions when opening cottages, sheds, PHAC expert advises - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcjdGQ09nUVhDak5oLXpxYUM0LXBGc3FIMmFoaW0yN2lwNWd4T3VvcTd3S2RTWGo1Nm04RHdYWFo2bm5JQm5QZkg5Vmpaa2ViTjVhbEhzMFROMkViaDlmUmVnd3ZKWGtvZGpnQVB4RkVTX0R4WlpsQVlQZ3ZtTngxZHpkNkF3UDhUaHo5RENtZmkwRWREeGswYTJn?oc=5",
-      "snippet": "Take hantavirus precautions when opening cottages, sheds, PHAC expert advises &nbsp;&nbsp; The Globe and Mail Spain prepares for evacuations as hantavirus-hit cruise ship heads for",
-      "pub": "Thu, 07 May 2026 21:07:36 GMT",
+      "title": "Middle East war live: UAE responds to Iranian attacks as fragile ceasefire is challenged - France 24",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOEJfemRVeFNmb0FsUkdWNUZNWnJWMlc3aFlkMnpCeXk4WEJKeGVsanVmQnNkby04VlZKU0J0b2l1c1BjOGF5emxMMWN5TXZiX0dBZkpGbUdaVmZxSDRPOXVBU0ZFaThsQ2F1TXZVd2c0dTJvZFViZnpjanFqSlN3YlFqd25zNkNVY25TQVFqdHVLZm5qTUF1TVNiNjdPaG1tZkl1XzNlS0Z6TnpoU1JlbUJ3eEItUk80bXl1S2t1dThoQmxGdU1selQ3QXdvRUZ3Y2VSQm1FM2lCVFE?oc=5",
+      "snippet": "Middle East war live: UAE responds to Iranian attacks as fragile ceasefire is challenged &nbsp;&nbsp; France 24 Iran war live: Ceasefire holds despite Iran, US blows; Israel hits L",
+      "pub": "Thu, 07 May 2026 23:12:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Nearly 600 people had unauthorized access to Alberta’s electors list, watchdog alleges - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0M0eGxzOExKX0gzRThocEtXc0pPYzZYTE90VUlZUEJrUW44bXpRNWRsdnFncWpKWlI2YnFnSDFiZEhpQU1NeGNGMlhaNlFGdEpqLWhOQWJNdW42Q2NmN3dVeGVrODk4M0hVMDdqY18xa0RVd3RPX0x6UV9TQUJsT0F6d2dXZUZSZnNNQlhPUGkzVVo4bU9qU2pRenhoVndTaUxmUDg4TjZONGE3MXY0WmtNVmhsMk9N?oc=5",
+      "snippet": "Nearly 600 people had unauthorized access to Alberta’s electors list, watchdog alleges &nbsp;&nbsp; The Globe and Mail After his personal info may have been exposed by Alberta sepa",
+      "pub": "Thu, 07 May 2026 19:55:31 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "'Abject degradation': Alberta appeal court ups jail term for man who forced woman to eat own finger - Edmonton Journal",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPek5XQ0RuVm1tSExmTGQxV3Fzd0M1U3RfV251WWJiTVg3UUlCZndsVzdtQWNicTh4YWE2eUI3Qnd4VU1pdlB2NXRkc2loMm1xTlFpMjJUWWhrd1huZEhVUWRvUkotQlM5NTN1UGp4RENCcE9WTEEyY05qZmV4cnBfcHJNNm4zSXp5QkVZU0dud0FGdzA0aXZ3MllwSktsWGlVZVdzVkhIbkJGU054MzFiRXB2V0Z4TXhHU1VweklpbzJWV2JIYlhlTXdIMDNiMWpo?oc=5",
-      "snippet": "'Abject degradation': Alberta appeal court ups jail term for man who forced woman to eat own finger &nbsp;&nbsp; Edmonton Journal MARTIN: Court of Appeal rights a wrong in imposing",
+      "snippet": "'Abject degradation': Alberta appeal court ups jail term for man who forced woman to eat own finger &nbsp;&nbsp; Edmonton Journal Sentence hiked for man who cut off woman's finger ",
       "pub": "Thu, 07 May 2026 18:47:32 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Manitoba Premier Wab Kinew wants word ban lifted in legislature - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU2hMNm02U3VPRi10MjhHSmRyeGZ5X1J3X255UkhGYXo0SnBfQzdVQV9mTEZhb2p5U1o5d1VSNnBnVFNrYXAtUjI5Zkwxbm5WQ2htVzNjdWduazk4NWl5Z01QM0R2Y19zZm96Um56c2lxU0dUR2QxYmo1VEM3WHJvM0JBRFg5ZlpMd2U4bC1HLThQOFdfNHZJaEJ5TDZfVElkS28xUjZqRQ?oc=5",
-      "snippet": "Manitoba Premier Wab Kinew wants word ban lifted in legislature &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Fri, 08 May 2026 00:50:00 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Boil Water Advisory: Keep boiling water, PHSD says - Sudbury News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcEcxbEd3RFpOOXlldnVoc0dCcU0yNDREVTZvTDc4c3RUcjBOY01CdXRIMG1RV0xwbDg1YUU2RnkwTGdIV195cFN3ZDJ6TzBnbm85RW1sejZPeFFWczhVdzZfcGxEWExtUmNJRTNycWpJNnQzNVlId19ha2lwZHVXSERUTFpFeDRpRVdSS2poUktpOUpBRmlz?oc=5",
-      "snippet": "Boil Water Advisory: Keep boiling water, PHSD says &nbsp;&nbsp; Sudbury News Need safe water? Greater Sudbury has a water station in Whitefish &nbsp;&nbsp; Sudbury Star Boil water ",
-      "pub": "Thu, 07 May 2026 21:18:00 GMT",
+      "title": "Boil water advisory affecting more than half of Greater Sudbury residents - Sudbury Star",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUJoMV9zU1RPV0Zqc056TGd0d01pX1MxZmJLdm1nbTB6YVlRUU1ueFVrMXlSenozdWE1eFRYVGdObXIwZUhHOF9Zb3lueWlESzZyQUtucVQtb0RWTWVqT2JudEtDMm45V0ZILTdrTW1OUzlSVFRDdkozRDViNDNuY1JoZWlhSkQ4ejRXZ1RHNWtoUlNpeVVVYkFaNjF4UmhMUUhKSHBxOW1MNHBJbkE?oc=5",
+      "snippet": "Boil water advisory affecting more than half of Greater Sudbury residents &nbsp;&nbsp; Sudbury Star Boil water advisory for large parts of Sudbury in effect until at least Friday e",
+      "pub": "Thu, 07 May 2026 23:26:34 GMT",
       "image": ""
     }
   ],
