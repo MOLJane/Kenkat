@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-05-09T07:44:39.640707+00:00",
+  "generated_at": "2026-05-09T09:09:46.941816+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Woman Charged After Violent George Street Incident",
+      "link": "https://vocm.com/2026/05/09/298667/",
+      "snippet": "A woman is in the lockup after a violent incident at an establishment on George Street. The RNC were called to the downtown area around one o'clock th...",
+      "pub": "Sat, 09 May 2026 09:02:44 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/12/rnc-police-george-street.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "PUB Adjusts Fuel Prices; Next Review Tuesday",
+      "link": "https://vocm.com/2026/05/09/298665/",
+      "snippet": "The Public Utilities Board jumped in and changed fuel prices last night but only marginally. The next time they will realign the price schedule will b...",
+      "pub": "Sat, 09 May 2026 08:57:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/09/diesel-gas-pump.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "May 9, 2026 – Have you experienced any significant delays accessing healthcare since implementation of the CorCare system several weeks ago?",
+      "link": "https://vocm.com/2026/05/09/may-9-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12884').",
+      "pub": "Sat, 09 May 2026 08:01:44 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/corcare-training.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Arrest Warrant Issued for Wanted Man",
@@ -43,30 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/04/Bell-Island-Dock.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Investigations Continue into Last Year’s Fires on the Conception Bay North Shore",
-      "link": "https://vocm.com/2026/05/08/investigations-continue-into-last-years-fires-on-the-north-shore/",
-      "snippet": "The RCMP file on the fire that devastated the Conception Bay North Shore last August remains open. The RCMP Major Crimes division is being assisted by...",
-      "pub": "Fri, 08 May 2026 16:09:10 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/08/kingston-wildfire-ccg.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Mother Speaking Out About ‘Terrorism and Drugs on Our Streets’ After Son Beaten with Chains",
-      "link": "https://vocm.com/2026/05/08/mother-speaking-out-about-terrorism-and-drugs-on-our-streets-after-son-beaten-with-chains/",
-      "snippet": "The mother of a young man who was badly beaten in an incident in St. John's earlier this week is urging the provincial government and the justice syst...",
-      "pub": "Fri, 08 May 2026 14:33:01 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/pic-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "NLMA Raising Concerns About Delays and Gaps in Care from Implementation of CorCare",
-      "link": "https://vocm.com/2026/05/08/nlma-raising-concerns-about-delays-and-gaps-in-care-from-implementation-of-corcare/",
-      "snippet": "The NL Medical Association understands that introducing a massive system change like the CorCare program is going to result in growing pains, but they...",
-      "pub": "Fri, 08 May 2026 14:11:56 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/09/dr-cynthia-slade-nlma.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Feds want pipeline projects reviewed by energy regulator instead of impact agency - Global News",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qYThrcTVtNmlmMFRFczRUSDVUWm1CWnYtVkI3RGtsWldqZjY5U2lYNlhFbGZLbjkzeGNDRUVndmVtN0VVd19LeG1VN2VQMTFtZlhCOEt3NEZUV1NaeDN3Y1dVaWc0NnZqZE5yWWJnZ3hmajN1WGxXY3JRc3NJQQ?oc=5",
@@ -78,7 +78,7 @@
       "source": "Google News Canada",
       "title": "U of T, OCAD among Ontario universities impacted by Canvas cyber breach - CBC",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcmoyQS12SlhyaU10ZjY1ZEZySXBiS2ZVcE9pU3hfUHRtVnBocFBjc0FITTNaZlREbXEyb19OSXRVMlQyTVNxRnhsRXVVTnFkQmtiMFpXOE82aUNqZXlZRHNNRnNqNExQRkZ3ZzRtRm4yN3FrN0xEWU5QSFpkcEpNblZValNaMGhvYTFN?oc=5",
-      "snippet": "U of T, OCAD among Ontario universities impacted by Canvas cyber breach &nbsp;&nbsp; CBC Several Canadian universities face security breach, student data leaked &nbsp;&nbsp; Global",
+      "snippet": "U of T, OCAD among Ontario universities impacted by Canvas cyber breach &nbsp;&nbsp; CBC A cyberattack hit universities worldwide, including top Canadian schools. Here's what we kn",
       "pub": "Fri, 08 May 2026 22:40:19 GMT",
       "image": ""
     },
@@ -92,18 +92,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Two Albertans may have come in contact with hantavirus on flight - CityNews Calgary",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mM2xRdmhtcUpYZERuR3kzXzhCQ2xiOTBEQkRyZWNfMTNnQUZRcWdkYmtVcW5tOU01VGxkT21aUjNlQWUzZ09ReHkweXdmVDE0NThVVHZBNzhKbWdqc1VyaElsaFRuc2tYS2YtdU5Zb0F1ZkVqTG1WRDlmVllNZw?oc=5",
-      "snippet": "Two Albertans may have come in contact with hantavirus on flight &nbsp;&nbsp; CityNews Calgary 10 Canadians connected to hantavirus outbreak on cruise ship. Live updates here. &nbs",
-      "pub": "Fri, 08 May 2026 19:54:03 GMT",
+      "title": "UCP staffer appears to have been more than just 'observing' the doxxing of Jason Kenney - Canada's National Observer",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQm5heTdpcFJPdndpUURRaE9HOUdIbXRxQUpQSTNsRHFNMVVycEJwcHFZbXZ4N1o5T2RXWG9ic0FoSHhXM183MGg2MHRJWEhSQ2dkNWZFOURYOWx1UXZCTTZ4bG42RWJlS0NsWTRxb1VvanJVQm5WVmkwUkFUamRyUnQ4ZW9ib3lLV21OWTFfbjd3Z3JPbExkSExvRWtEdW9n?oc=5",
+      "snippet": "UCP staffer appears to have been more than just 'observing' the doxxing of Jason Kenney &nbsp;&nbsp; Canada's National Observer ‘I’m tired of being a punching bag for that crowd’: ",
+      "pub": "Fri, 08 May 2026 21:58:14 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "UCP staffer appears to have been more than just 'observing' the doxxing of Jason Kenney - Canada's National Observer",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQm5heTdpcFJPdndpUURRaE9HOUdIbXRxQUpQSTNsRHFNMVVycEJwcHFZbXZ4N1o5T2RXWG9ic0FoSHhXM183MGg2MHRJWEhSQ2dkNWZFOURYOWx1UXZCTTZ4bG42RWJlS0NsWTRxb1VvanJVQm5WVmkwUkFUamRyUnQ4ZW9ib3lLV21OWTFfbjd3Z3JPbExkSExvRWtEdW9n?oc=5",
-      "snippet": "UCP staffer appears to have been more than just 'observing' the doxxing of Jason Kenney &nbsp;&nbsp; Canada's National Observer Carney expressed 'concern' to Smith over leak of Alb",
-      "pub": "Fri, 08 May 2026 21:58:14 GMT",
+      "title": "10 Canadians connected to hantavirus outbreak on cruise ship - CP24",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWG1FYXlfMU5QazNZcHRlbUQ4dVhaYWRya1NlODJoeXpEeUdkcnV2NXI2aS00cnRxNXlBQUw4djZHZzJxWlFseEFDUklPSHUtcV9zTWZzdFI0RS0zWi1Dcl9YTEltUEF5eEQ4TU5nRGhCUDRYRmJXSTl4Wk5HaFlhbW43VERoUHZURllEZHRaX1gyMEZpcDFyd1hjVXdFOXBaVF9rYVpiaw?oc=5",
+      "snippet": "10 Canadians connected to hantavirus outbreak on cruise ship &nbsp;&nbsp; CP24 B.C. man feels 'very fortunate' to be alive after nearly dying from hantavirus 3 years ago &nbsp;&nbs",
+      "pub": "Sat, 09 May 2026 00:09:00 GMT",
       "image": ""
     },
     {
