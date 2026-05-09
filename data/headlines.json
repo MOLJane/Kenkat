@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-05-09T12:56:53.677063+00:00",
+  "generated_at": "2026-05-09T14:15:37.649957+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Port de Grave Gains Vital New Waterfront Hub",
+      "link": "https://vocm.com/2026/05/09/298683/",
+      "snippet": "The wharf at Ship Cove in Port de Grave is getting a major facelift. Nearly $1-billion was allocated in the spring economic update for the federal gov...",
+      "pub": "Sat, 09 May 2026 13:04:20 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/mp-joanne-thompson-paul-connors-port-de-grave-small-craft-harbours-2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "RNC Confirm More Charges Loom After Violent Cowan Heights Attack",
@@ -59,35 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/09/diesel-gas-pump.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "May 9, 2026 – Have you experienced any significant delays accessing healthcare since implementation of the CorCare system several weeks ago?",
-      "link": "https://vocm.com/2026/05/09/may-9-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12884').",
-      "pub": "Sat, 09 May 2026 08:01:44 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/corcare-training.jpg"
+      "source": "Google News Canada",
+      "title": "A cyberattack hit universities worldwide, including top Canadian schools. Here's what we know - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObU1UR184eDVhZTdQaXN0R2Z2SVZTY1BDeTZFcFpadW5VeldLZ2dnMktEaGhYSFRodFFEb1libXdLNmtaYXBWd0tidTVCb2RGeHVLVkRjY29qa08tbFo1QTZfanByVnJCUnlZT2FCLVZjZGc3cm52U05nVE5SQVNxQXpTX3lISkxQTEE?oc=5",
+      "snippet": "A cyberattack hit universities worldwide, including top Canadian schools. Here's what we know &nbsp;&nbsp; CBC U of T among Canadian schools targeted in widespread cyberattack on C",
+      "pub": "Sat, 09 May 2026 12:50:33 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "‘I’m tired of being a punching bag for that crowd’: Jason Kenney on Alberta voter data leak - CTV News",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVdLS0ZqNGtRY3lmSXc2bUowNmFUdGVOeTBwRWxPbzFSbEhYZ0FrMWJmeGJJNXA2UnZQaVhJM3R3bTNxMTh5WWxpbjlSNnlFUHYzT1lHdkJZOE9RVV9BQ0tHZWtfSDFZRXgtcGhmVHdzbzMtZ1FvMlBFUnZ1LUFUVkdxeGZ5cUFCU1RudlIyUEhvZzRQdXViWS1xSGQtZ2RHQ1VEYUFkc1R1cUJYUlNCN2NGY05nVElKMVFHeG5tbWJ5ZzJZM1Vv?oc=5",
-      "snippet": "‘I’m tired of being a punching bag for that crowd’: Jason Kenney on Alberta voter data leak &nbsp;&nbsp; CTV News UCP staffer appears to have been more than just 'observing' the do",
+      "snippet": "‘I’m tired of being a punching bag for that crowd’: Jason Kenney on Alberta voter data leak &nbsp;&nbsp; CTV News 3rd investigation launched into Alberta voter database accessed by",
       "pub": "Sat, 09 May 2026 09:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Feds want pipeline projects reviewed by energy regulator instead of impact agency - Global News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qYThrcTVtNmlmMFRFczRUSDVUWm1CWnYtVkI3RGtsWldqZjY5U2lYNlhFbGZLbjkzeGNDRUVndmVtN0VVd19LeG1VN2VQMTFtZlhCOEt3NEZUV1NaeDN3Y1dVaWc0NnZqZE5yWWJnZ3hmajN1WGxXY3JRc3NJQQ?oc=5",
-      "snippet": "Feds want pipeline projects reviewed by energy regulator instead of impact agency &nbsp;&nbsp; Global News Carney government pledges reform to get infrastructure projects approved ",
-      "pub": "Fri, 08 May 2026 20:42:11 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "A cyberattack hit universities worldwide, including top Canadian schools. Here's what we know - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObU1UR184eDVhZTdQaXN0R2Z2SVZTY1BDeTZFcFpadW5VeldLZ2dnMktEaGhYSFRodFFEb1libXdLNmtaYXBWd0tidTVCb2RGeHVLVkRjY29qa08tbFo1QTZfanByVnJCUnlZT2FCLVZjZGc3cm52U05nVE5SQVNxQXpTX3lISkxQTEE?oc=5",
-      "snippet": "A cyberattack hit universities worldwide, including top Canadian schools. Here's what we know &nbsp;&nbsp; CBC U of T among Canadian schools targeted in widespread cyberattack on C",
-      "pub": "Sat, 09 May 2026 08:00:00 GMT",
       "image": ""
     },
     {
@@ -100,6 +92,30 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Feds want pipeline projects reviewed by energy regulator instead of impact agency - Global News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qYThrcTVtNmlmMFRFczRUSDVUWm1CWnYtVkI3RGtsWldqZjY5U2lYNlhFbGZLbjkzeGNDRUVndmVtN0VVd19LeG1VN2VQMTFtZlhCOEt3NEZUV1NaeDN3Y1dVaWc0NnZqZE5yWWJnZ3hmajN1WGxXY3JRc3NJQQ?oc=5",
+      "snippet": "Feds want pipeline projects reviewed by energy regulator instead of impact agency &nbsp;&nbsp; Global News Ottawa suggests letting cabinet green-light pipelines before technical as",
+      "pub": "Fri, 08 May 2026 20:42:11 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Smith touts ‘significant progress’ between Alberta and Ottawa on pipeline deal - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQXM4c0RRak1jbWtzM2FMMjRzOFlCWDVrNEhac09zajMxLWVYdmZEV2tILUU5Sy0xTXV0U2E2d1BqanUyWV94OFM4U2Z1TDN2MkYxS2c5RzZjY1FyY0ppVjN5Uk1SS0lldkcwdDlZSlFjRkh5bnBBRE5SNnZudGRGVXNmUU9VQ2ZxUkcwVHJlVFpLdw?oc=5",
+      "snippet": "Smith touts ‘significant progress’ between Alberta and Ottawa on pipeline deal &nbsp;&nbsp; The Globe and Mail Working through differences with Ottawa key to quelling Alberta separ",
+      "pub": "Fri, 08 May 2026 16:23:42 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Boil Water Advisory: Map released to show affected areas - Sudbury News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbktreEFEUG42NzB4RmMxYmxqMnZoUzlTQk1Vc3JGQU5jemVuVDVJUEZDaFk2UnpWT2FXTEFldlBJNjVqMlpMWElrY3dsa0pHa0tiR1o1UWlLSHRrSzFkWURDd3QyXzNHTk5YaHlxaHlKT09QZ2lWM2pwYzBtYXdndTJ4R2p2aTlJbFo4bHFqamwxR2d0NFh2U1JSVjE0aktM?oc=5",
+      "snippet": "Boil Water Advisory: Map released to show affected areas &nbsp;&nbsp; Sudbury News Boil water advisory in Greater Sudbury lifted &nbsp;&nbsp; Sudbury News Opinion: Sudbury has lear",
+      "pub": "Fri, 08 May 2026 19:03:03 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "In Scarborough Southwest, an Ontario Liberal nomination with big political consequences - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNi1iamZIMXVmczhFU3dUVFpNd3RiOUlfMVNrTWhQaS0yajh5WDJlaHJKT1VFSndLc0R5a3VveEV5OFgtTkhrUmRRbm1FNFNmM1lwVWEzUUc0ZlhSQk5GR2JQUl9TYjZjTVREM1IxcFY4NzZsVjVXTTVhSWR2Y3NSOHltZm9oX3dEclFOWF9RaHpBc0g2YU00ZFBBazV1YnFscXllaQ?oc=5",
       "snippet": "In Scarborough Southwest, an Ontario Liberal nomination with big political consequences &nbsp;&nbsp; The Globe and Mail See more headlines & perspectives on Google News",
@@ -108,25 +124,9 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Danielle Smith sees progress on pipeline deal with Ottawa after Carney meeting - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VMHRsZjhMU0RGNFEwaXE2VmZncFc4R3lTak9PSDVkU2FfQWZCTElzRkVYR2o0dU1JYW85YnZmWEZESTlxdkM3ZDM0bGV3Y0ZUYXRZRnprTllNb3VsdUZUMW9wOVoxbFBOU0wwYUJPNXNEN1l2b2Z3VVZR?oc=5",
-      "snippet": "Danielle Smith sees progress on pipeline deal with Ottawa after Carney meeting &nbsp;&nbsp; CBC Danielle Smith says working out differences with feds key to quelling Alberta separa",
-      "pub": "Fri, 08 May 2026 22:10:06 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Boil water advisory in Greater Sudbury lifted - Sudbury News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZkpFdFBqczNTQ2h2X25ESjVFR3FCUzFiUTNUeG1Qa28tZFNrSnRZaG1lWDItX2J6M01JaUVheEh5X2lMUVlmWHo5QmY5ay1vcE1pajRNd0FldVZNZ1ZFaFZmUTNlQ2ZtUVpjZWh5MmduRTU0Snd2ZmEzQk8wUlh6ZjZGTE5LNmh4TmozeG5fREVfa0k?oc=5",
-      "snippet": "Boil water advisory in Greater Sudbury lifted &nbsp;&nbsp; Sudbury News Boil water advisory affecting more than half of Greater Sudbury residents &nbsp;&nbsp; Sudbury Star Boil wat",
-      "pub": "Fri, 08 May 2026 23:17:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Man arrested for firing replica weapon in 2 drive-by attacks on Toronto Jews - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV3pKVVVDU252SGwxTmFXc3NlZ3lnMjZyYzNNVWxrMTN2cjZldmZ6enFHX3FpRk15aHlVcXA0UUVlaEZ5VzJGVlp5RTZRVGgzd3ZidkhkS1JnZGRMSDBHWkxBQ0ctU0xzOV9kcGpSTFFpSWctMERFUEd1QlpBTGY0ZlpwRHI1Rmd0WGY5RlNLc2c1akxaa2xISTc2a3pEektfXzl2MFFfa2FUamfSAbABQVVfeXFMUE93UWR0WGlRUktqeEdFQVZEYko2MlhzcGs5UUlZSXEwTUlmNUhOeGFJWGR1bXN3RkQxalVfQlJXVXlRTzlNUUp3TnlvdEFvU2pjZGtBNXFBYXJmSEhyZ3EtOWVqTWQ2Wk1oSFJRN3NsbWp6SmU1b2FaWTNtTmd6UEUzMElNMU5zOXdWcklaRmhuMjlzS0hoUnhjYjNFSVg2eUI2eU5sYXVQbGR2SWctOFc?oc=5",
-      "snippet": "Man arrested for firing replica weapon in 2 drive-by attacks on Toronto Jews &nbsp;&nbsp; The Times of Israel Charges laid after groups of Jews shot at with imitation firearm in To",
+      "snippet": "Man arrested for firing replica weapon in 2 drive-by attacks on Toronto Jews &nbsp;&nbsp; The Times of Israel See more headlines & perspectives on Google News",
       "pub": "Fri, 08 May 2026 20:49:00 GMT",
       "image": ""
     }
