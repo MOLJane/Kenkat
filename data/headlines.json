@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-05-10T07:58:17.509323+00:00",
+  "generated_at": "2026-05-10T09:27:36.806948+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Hardline Resistance: The Faction Working to Block Iran-U.S. Diplomacy",
+      "link": "https://vocm.com/2026/05/10/hardline-resistance-the-faction-working-to-block-iran-u-s-diplomacy/",
+      "snippet": "A hardline political faction in Iran is working to limit support for any possible agreement with the United States, as internal pressure grows around ...",
+      "pub": "Sun, 10 May 2026 09:01:58 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/05/392158796.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Public Input Sought for Queensway Gold Project",
+      "link": "https://vocm.com/2026/05/10/298725/",
+      "snippet": "People have about a month to comment on a proposal currently before government to construct a gold mine just east of Appleton in central Newfoundland....",
+      "pub": "Sun, 10 May 2026 09:08:36 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/queensway-north-property-via-new-found-gold.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Flood Watch Issued for Humber River and Deer Lake Area",
+      "link": "https://vocm.com/2026/05/10/298723/",
+      "snippet": "The provincial government has issued a flood watch for Humber River, Deer Lake and surrounding communities. Water levels are expected to remain elevat...",
+      "pub": "Sun, 10 May 2026 09:01:55 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/07/deer-lake-generic.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Farmers Invited to Bid on 3,000 Acres of Crown Land",
+      "link": "https://vocm.com/2026/05/10/298721/",
+      "snippet": "The provincial government is opening up some farmland for long-term use. About 3,000 acres are currently available in 14 parcels located in western, c...",
+      "pub": "Sun, 10 May 2026 08:51:27 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/09/hay-bale-farm-farmer-federation-of-agriculture.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "May 10, 2026 – Projections indicate St. John’s International Airport could exceed 2-million passengers annually over the next decade. Do you think that will happen?",
+      "link": "https://vocm.com/2026/05/10/may-10-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12887').",
+      "pub": "Sun, 10 May 2026 08:00:21 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/08/yyt-st-johns-international-airport-airplane-plane-window-porter-2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Young Workers Continuing to Leave Newfoundland and Labrador Fraser Institute Finds",
@@ -27,59 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/jessica-mccormick-budget.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Minister Hails MRI as Key Recruitment Tool for North",
-      "link": "https://vocm.com/2026/05/09/298690/",
-      "snippet": "The minister of health says a new MRI slated for Happy Valley-Goose Bay will serve as a recruiting tool for healthcare workers in central Labrador. Fu...",
-      "pub": "Sat, 09 May 2026 17:01:44 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/health-minister-lela-evans-may-1-2026.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Folk Arts Society Seeks New Funding to Save Summer Tradition",
-      "link": "https://vocm.com/2026/05/09/298688/",
-      "snippet": "The Newfoundland and Labrador Folk Arts Society says if they can make a folk festival happen this year, it will look very different. The society has a...",
-      "pub": "Sat, 09 May 2026 15:49:38 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/friends-of-the-festival-poster-folk-fest.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Minister says Plan in Place to House Residents of Horizons 106 When Lease Expires at End of Year",
-      "link": "https://vocm.com/2026/05/09/298685/",
-      "snippet": "The minister whose department is responsible for social affairs says they have a plan to accommodate the occupants of the old Airport Comfort Inn. The...",
-      "pub": "Sat, 09 May 2026 14:44:43 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/housing-social-supports-minister-joedy-wall-budget-2026.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Two Men Wanted by RCMP Taken into Custody",
-      "link": "https://vocm.com/2026/05/09/298699/",
-      "snippet": "RCMP have a man from Labrador and one from the island who were on their wanted list in custody. Forty-three year-old Paul Abia Obed of Nain was wanted...",
-      "pub": "Sat, 09 May 2026 14:18:11 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/twowanted.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Funding Announced to Replace Port de Grave Wharf",
-      "link": "https://vocm.com/2026/05/09/298683/",
-      "snippet": "The wharf at Ship Cove in Port de Grave is getting a major facelift. Nearly $1-billion was allocated in the spring economic update for the federal gov...",
-      "pub": "Sat, 09 May 2026 13:04:20 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/mp-joanne-thompson-paul-connors-port-de-grave-small-craft-harbours-2.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Durham police investigate homicide in Oshawa - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWHdtZk9iNUFOdFhQcHk5T2ZUUkp1QmRHX0Npd1Q0ZVVtdDczN2NWaV9CbVVVS2tfeFdNalM3LVgwb1Rka21raWtBU2ZUeHI4a0FHYVNZQnhfdHJtb2F5end6UHRYUjl2ZDNCT2lkQkZuenFrUVRYYzR2YVZiU0xtRWVNUmJHX0FqTFBBSA?oc=5",
-      "snippet": "Durham police investigate homicide in Oshawa &nbsp;&nbsp; CityNews Toronto",
-      "pub": "Sun, 10 May 2026 01:50:00 GMT",
+      "title": "'This is not another COVID': WHO head reassures Tenerife residents before hantavirus cruise ship arrives - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlBkb2kwTjVzbmN2cFU1YnNxbUpVOTBJMXFLUEpNbkhnWFFRazlhMFNQbUtlc1FVVGo0amxoc19BTVU1dTVwNnBSN0c0MGhwUGV5Wm1HMjRjclliME1qMnVtLXhEbERWMnVFRWg2RTRjTC1LZ1kzZkpXbGsyalk2Rll5cjlXdms?oc=5",
+      "snippet": "'This is not another COVID': WHO head reassures Tenerife residents before hantavirus cruise ship arrives &nbsp;&nbsp; CBC Message by the WHO Director-General to the people of Tener",
+      "pub": "Sat, 09 May 2026 15:04:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "'This is not another COVID': WHO head reassures Tenerife residents before hantavirus cruise ship arrives - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlBkb2kwTjVzbmN2cFU1YnNxbUpVOTBJMXFLUEpNbkhnWFFRazlhMFNQbUtlc1FVVGo0amxoc19BTVU1dTVwNnBSN0c0MGhwUGV5Wm1HMjRjclliME1qMnVtLXhEbERWMnVFRWg2RTRjTC1LZ1kzZkpXbGsyalk2Rll5cjlXdms?oc=5",
-      "snippet": "'This is not another COVID': WHO head reassures Tenerife residents before hantavirus cruise ship arrives &nbsp;&nbsp; CBC Hantavirus-hit cruise ship arrives in Tenerife, passengers",
-      "pub": "Sat, 09 May 2026 15:04:00 GMT",
+      "title": "'Colonial thinking': Inuit criticize backlash to Gov. Gen. Mary Simon’s brand of bilingualism - CBC",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFNsX0VuWHFxYlhlU2c2OE96NGRwSm1TMnZtV3NjdmN3QTM1bUdCYzhOR1VvMElLTlhOZ0w4UzFTZld0Z3JyWmV2MTNldWtLSU1WWmxwRW5Wc1dNVHVEby1ON1NXeU9XS3dUM3c3dEk0REtfN3AzdU5sNG9kWTNUNFE4VG1KS204bGItMzBLMWI3Sl9kQWpibHJneTZkWENHcUs5endQX0tDMG43TkRz?oc=5",
+      "snippet": "'Colonial thinking': Inuit criticize backlash to Gov. Gen. Mary Simon’s brand of bilingualism &nbsp;&nbsp; CBC Outgoing Governor General Mary Simon insists she took learning French",
+      "pub": "Sat, 09 May 2026 12:51:19 GMT",
       "image": ""
     },
     {
@@ -110,24 +110,24 @@
       "source": "Google News Canada",
       "title": "Scaled-back Victory Day parade held in Moscow - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWNYR0RVRU1idzNtUDNBZmRyN3kxNGJNeVlWcURvOHlEMWw2b3ZvdzRsMk1nUzZtNWc2LWlBeXJBcENpalRmeFJNbXJHVEphcnJXT05hdWpEX2p2ZkgySVB1S3hqU185SEk3UEpkdDc1VDBCR2tvRmEyQmxlMU5oY3FuVXlvemV1alhHa2VJOHYwZ9IBlwFBVV95cUxQTENka3RxZ2FaaV9HVDczM0Z6SjVyM3lOMDFqZUkybG94Vk5UeVp0U2tKMW1Ta084cGJQYWxNeGRsRHlxbzRRWkxQbm1jajlGRXBzQUlxaVp5UmE0LVZlLUJXSFhjdzFRckFtbzhTR0NTWGtTbHJ1Nmlual96SFlhOS1JSkEwWjVvYVBLa2t1czdObWFXMGJJ?oc=5",
-      "snippet": "Scaled-back Victory Day parade held in Moscow &nbsp;&nbsp; Al Jazeera Putin denounces Nato at scaled-back Victory Day parade &nbsp;&nbsp; BBC Russia holds scaled-down Victory Day p",
+      "snippet": "Scaled-back Victory Day parade held in Moscow &nbsp;&nbsp; Al Jazeera Steve Rosenberg: This year's Victory Day parade in Moscow felt very different &nbsp;&nbsp; BBC Russia will alw",
       "pub": "Sat, 09 May 2026 10:06:23 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "'Colonial thinking': Inuit criticize backlash to Gov. Gen. Mary Simon’s brand of bilingualism - CBC",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFNsX0VuWHFxYlhlU2c2OE96NGRwSm1TMnZtV3NjdmN3QTM1bUdCYzhOR1VvMElLTlhOZ0w4UzFTZld0Z3JyWmV2MTNldWtLSU1WWmxwRW5Wc1dNVHVEby1ON1NXeU9XS3dUM3c3dEk0REtfN3AzdU5sNG9kWTNUNFE4VG1KS204bGItMzBLMWI3Sl9kQWpibHJneTZkWENHcUs5endQX0tDMG43TkRz?oc=5",
-      "snippet": "'Colonial thinking': Inuit criticize backlash to Gov. Gen. Mary Simon’s brand of bilingualism &nbsp;&nbsp; CBC Mary Simon should have been considered bilingual even if she didn't s",
-      "pub": "Sat, 09 May 2026 12:51:19 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Opposition demands action after historical flooding washes out roads across the province - paNOW",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVFFYbEFmQmV1NW5GY2NMZmk5Ykd6NzRuMTVzWlM5bkxYQTNrczl3My1rcnpEMkQwWFJTNUE3d0FhSF9qOGx6N21tVU96bm04UEhkeWtjendXMXlybmZhdGVBSExrUXdsdjNmbGY5bkdacDBvQmg5ZlZ2QWc4bEd1NDY5TlZyQU5pVGN4MkNuaW4zeUVaVU1MSVdiblNaR3hudXBLZ2Z4SHBBTkxRTEFXblRLODFfY3V2blE?oc=5",
-      "snippet": "Opposition demands action after historical flooding washes out roads across the province &nbsp;&nbsp; paNOW Optimism competes with anxiety as northern Sask. continues to deal with ",
+      "snippet": "Opposition demands action after historical flooding washes out roads across the province &nbsp;&nbsp; paNOW Fuel, fertilizer, floods: Saskatchewan farmers hit by triple threat &nbs",
       "pub": "Fri, 08 May 2026 22:56:23 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "UCP staffer appears to have been more than just 'observing' the doxxing of Jason Kenney - Canada's National Observer",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQm5heTdpcFJPdndpUURRaE9HOUdIbXRxQUpQSTNsRHFNMVVycEJwcHFZbXZ4N1o5T2RXWG9ic0FoSHhXM183MGg2MHRJWEhSQ2dkNWZFOURYOWx1UXZCTTZ4bG42RWJlS0NsWTRxb1VvanJVQm5WVmkwUkFUamRyUnQ4ZW9ib3lLV21OWTFfbjd3Z3JPbExkSExvRWtEdW9n?oc=5",
+      "snippet": "UCP staffer appears to have been more than just 'observing' the doxxing of Jason Kenney &nbsp;&nbsp; Canada's National Observer After his personal info may have been exposed by Alb",
+      "pub": "Fri, 08 May 2026 21:58:14 GMT",
       "image": ""
     }
   ],
