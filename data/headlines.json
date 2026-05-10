@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-05-10T14:19:43.192056+00:00",
+  "generated_at": "2026-05-10T15:29:28.046001+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Time Running Out to Complete the National Census",
+      "link": "https://vocm.com/2026/05/10/298732/",
+      "snippet": "The deadline to respond to the federal government's head count of all people in Canada is fast approaching. The Census, which is carried out by Statis...",
+      "pub": "Sun, 10 May 2026 14:32:02 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/census.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Public Advised to Avoid Lower Churchill River Areas Due to Flood Risk",
@@ -59,14 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/09/hay-bale-farm-farmer-federation-of-agriculture.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "May 10, 2026 – Projections indicate St. John’s International Airport could exceed 2-million passengers annually over the next decade. Do you think that will happen?",
-      "link": "https://vocm.com/2026/05/10/may-10-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12887').",
-      "pub": "Sun, 10 May 2026 08:00:21 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/08/yyt-st-johns-international-airport-airplane-plane-window-porter-2.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Outgoing Gov. Gen. Mary Simon insists she took learning French ‘seriously’ - CTV News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHdOUVhMY0diQzZmTW1naGVzZWNrTnZBUnI5VXhyWld0czFxNGg5MjRuSXhDQlV3dGFkd3JmS2pGSExRM0NmSWl0YnVTRzRMbEdwbzh1bnFRLVBTQjN4bzlOTGtaWkpwTWZHR3RDd0lqTXZsblMxaFRpaV9VS2QxSEE3SHZoVmhnUXotX1lKcjE5NE1zLXNrTEdOcXg0dE9kUm14WGJ4VFBnZFROZGFoLQ?oc=5",
@@ -76,10 +76,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Spanish passengers from hantavirus-stricken cruise ship depart by plane for Madrid - The Globe and Mail",
+      "title": "Iran says it has replied to US proposal as reported drone strikes strain ceasefire - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVm9rQU1IVEthbFBLRGJVNHhWTXJRSDhKbkMtWERycmtBdzJLcU5IQkJFbWxaVFQ0TmR6VzZaVkcxNG92bXZSd1ZSMUlkbFhGX1BhRjlzSGVRbGdka3kzVHJKVTRVa3R1Rk5TNzlyc3FKejNsaU1qb091akNocVBVVVdKcXFtT2xjREMxNzNwWFNJVHpTMFROMGxDRERzTFZjVUNmajlpUTFmZFRqVkoyVlZKVG5mVjVw?oc=5",
+      "snippet": "Iran says it has replied to US proposal as reported drone strikes strain ceasefire &nbsp;&nbsp; The Guardian Live updates: Iran says it has responded to US proposal for ending war ",
+      "pub": "Sun, 10 May 2026 14:38:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Countries start evacuating passengers from hantavirus-stricken cruise - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcjZLMUdYSE5TV1d5X1FKSW4yakZzR1BkZHRUNTVWUWk4OFYxb2NJX3k5dGlvQzI1MEVZelgwNlhmU1VfMkNyWEtDdHN3Ny1qMmJjWE0wSGhac2MxV3RLck5GRUt6ZXB0ZV9fcENsWHFiejVLU01Jb25OeTcwcDNaWDRaM2RmUFVjSktKTVJGQUJIR3FiQW9rOWp3TTZGTzAxSnVXQw?oc=5",
-      "snippet": "Spanish passengers from hantavirus-stricken cruise ship depart by plane for Madrid &nbsp;&nbsp; The Globe and Mail Evacuation of hantavirus-hit ship begins in Canary Islands &nbsp;",
+      "snippet": "Countries start evacuating passengers from hantavirus-stricken cruise &nbsp;&nbsp; The Globe and Mail Hantavirus latest updates: Passengers begin disembarking cruise ship off Spain",
       "pub": "Sun, 10 May 2026 11:24:23 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Scaled-back Victory Day parade held in Moscow - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWNYR0RVRU1idzNtUDNBZmRyN3kxNGJNeVlWcURvOHlEMWw2b3ZvdzRsMk1nUzZtNWc2LWlBeXJBcENpalRmeFJNbXJHVEphcnJXT05hdWpEX2p2ZkgySVB1S3hqU185SEk3UEpkdDc1VDBCR2tvRmEyQmxlMU5oY3FuVXlvemV1alhHa2VJOHYwZ9IBlwFBVV95cUxQTENka3RxZ2FaaV9HVDczM0Z6SjVyM3lOMDFqZUkybG94Vk5UeVp0U2tKMW1Ta084cGJQYWxNeGRsRHlxbzRRWkxQbm1jajlGRXBzQUlxaVp5UmE0LVZlLUJXSFhjdzFRckFtbzhTR0NTWGtTbHJ1Nmlual96SFlhOS1JSkEwWjVvYVBLa2t1czdObWFXMGJJ?oc=5",
+      "snippet": "Scaled-back Victory Day parade held in Moscow &nbsp;&nbsp; Al Jazeera Steve Rosenberg: This year's Victory Day parade in Moscow felt very different &nbsp;&nbsp; BBC Putin oversees ",
+      "pub": "Sat, 09 May 2026 10:06:23 GMT",
       "image": ""
     },
     {
@@ -92,14 +108,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Ahsanul Hafiz wins Scarborough Southwest Ontario Liberal nomination, beats Nate Erskine-Smith - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRucDVORTQ2c1BkejZVRm9HS3NVMmEwMVQ4RnZSLUJLVzZaTjN2eXdmYm1BMDdFMFpmbWtWMnZzU0Y1TklhaUZnNl9hQWRXWGxXemJrQ3JpQ2pRcjVVb2RZek1pNUpVSmw1bF8yMGd0dlVfV2tISXNlbXRYY1otTXJETC1jOFRFTjVPQlZ2dlpXbm5CVGhKc0l6UHRFel9Fam9ncnBrZTRvVVN6dHBKYmY3QQ?oc=5",
-      "snippet": "Ahsanul Hafiz wins Scarborough Southwest Ontario Liberal nomination, beats Nate Erskine-Smith &nbsp;&nbsp; CBC Nate Erskine-Smith loses Ontario Liberal nomination in Scarborough, d",
-      "pub": "Sat, 09 May 2026 23:34:13 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Magyar sworn in as Hungary's prime minister as Kyiv eyes reset in ties - The Kyiv Independent",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZVluY1QxcU5mMlN2Tm9zWkE0RHg4M3BJNHdYOHFKVXFXVnlqbXVoNnJXNXFXYk5aNHNmRFIzbWRGVTBEQ3ljRVNQNmtPbm1GWS1TTlpMTy16cnZLN3lXSVVXWjBadmtHVVVoNnFqMjh1OVN5S3FIV0hoR25MSDJ2eGdOcXk4bWpYTVFYNGVkdw?oc=5",
       "snippet": "Magyar sworn in as Hungary's prime minister as Kyiv eyes reset in ties &nbsp;&nbsp; The Kyiv Independent Hungary’s Péter Magyar sworn in as prime minister, ending Viktor Orbán’s 16",
@@ -108,26 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "HISTORY! Lionel Messi shatters MLS 100 goal contributions record - MLSsoccer.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdHlGcl9rbE9TMlNoQkVtNnVFX0JLMUlBMGdkUU1WNTA4T3pSakNBM0hIXzZuQTRmOE9adGN5QzVKTFF3X1FpU2xibVRuZnZVR0M1aVJYZkVmSHdjRVE4UVJMUEZHcC1VVUY3ZHdMOTFaT2t2akVEZEVhVUU4RHd0U3drLWtNWjBSbUZ2Z2labVZ0em5RZ2pseExn?oc=5",
-      "snippet": "HISTORY! Lionel Messi shatters MLS 100 goal contributions record &nbsp;&nbsp; MLSsoccer.com Toronto lost to Messi, but ‘world-class’ BMO Field nailed its World Cup test run &nbsp;&",
-      "pub": "Sun, 10 May 2026 09:37:40 GMT",
+      "title": "Fuel, fertilizer, floods: Saskatchewan farmers hit by triple threat - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWxoZ3FYQ1BYREZnajFCTlpaZklRSFd1dHVVS0dqWUpSbTVMM1J3NkRGam1zSXA4bGQwZGJZZm5BTXBvWjlzU0hvRVNPeU9faEhxbVBSeVVrcU5IQWxLMThlOG9LS25HQkdZOUsxSTRnWWJHU0ZQU0JaRTkzX3BtUlk0QlpqelotQXMtSXEwOTVZOFFuQVBzcHZxZmFnV0dndEZhVWNB?oc=5",
+      "snippet": "Fuel, fertilizer, floods: Saskatchewan farmers hit by triple threat &nbsp;&nbsp; CTV News More communities, rural municipalities and First Nations added to the flooding emergency l",
+      "pub": "Sun, 10 May 2026 09:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Boil Water Advisory: provincial tests confirm safety of Sudbury water - Sudbury News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXhkUTEybGdDOWRzd01DVThBUFpNdVdhU3ZiRTktYm8tcGVqVVhWUDN3a0dUN2w1SFlEWUs5Sjc0ZUZCTXV5d2RoZWdjSU5NMmJYcUlYZ1pYemZ1OTJUamVvUk5Xby1GTzY4eDVHYk5yMlNhTXhwZmlINllVMXNtMzBzQXpqZ3lXeVhjVHhxd0p3QkxRVUNnNTJscWxnTzZoamZPeGgyMGZlWDdRTDJkNkJB?oc=5",
-      "snippet": "Boil Water Advisory: provincial tests confirm safety of Sudbury water &nbsp;&nbsp; Sudbury News Breaking: Public Health lifts Sudbury’s boil water advisory &nbsp;&nbsp; Sudbury Sta",
-      "pub": "Sat, 09 May 2026 13:24:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Opposition demands action after historical flooding washes out roads across the province - paNOW",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVFFYbEFmQmV1NW5GY2NMZmk5Ykd6NzRuMTVzWlM5bkxYQTNrczl3My1rcnpEMkQwWFJTNUE3d0FhSF9qOGx6N21tVU96bm04UEhkeWtjendXMXlybmZhdGVBSExrUXdsdjNmbGY5bkdacDBvQmg5ZlZ2QWc4bEd1NDY5TlZyQU5pVGN4MkNuaW4zeUVaVU1MSVdiblNaR3hudXBLZ2Z4SHBBTkxRTEFXblRLODFfY3V2blE?oc=5",
-      "snippet": "Opposition demands action after historical flooding washes out roads across the province &nbsp;&nbsp; paNOW Fuel, fertilizer, floods: Saskatchewan farmers hit by triple threat &nbs",
-      "pub": "Fri, 08 May 2026 22:56:23 GMT",
+      "title": "5 years after promising to restrict vaping flavours, its unclear whether Canada will - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0hDUk83RExhMWM2SnhPc3VuRTRtaWxlZzlDZHpLVXVjbUY5ajBWTGU5dUl0c2VXTkJSdGFCckQ3SzNFTXV5VUdiOGpQZWlIemVYTTFwcjBEOUNKVk55SlpqVkFxOVBLQktDUFpSdEFwN1NqVXV4OTVuRFpJSkVob1B6cEV0YTBhQnFIeUF2akVoWS1xbFNvY1JfMW9aQ1M2aWlFTTBBRWE?oc=5",
+      "snippet": "5 years after promising to restrict vaping flavours, its unclear whether Canada will &nbsp;&nbsp; CBC",
+      "pub": "Sun, 10 May 2026 12:47:24 GMT",
       "image": ""
     }
   ],
