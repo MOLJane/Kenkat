@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-05-12T05:50:18.351436+00:00",
+  "generated_at": "2026-05-12T08:28:09.234787+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "May 12, 2026 – How do you feel about the province’s economic future?",
+      "link": "https://vocm.com/2026/05/12/may-12-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12913').",
+      "pub": "Tue, 12 May 2026 08:02:29 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/06/newfoundland-flag.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Wanted Man Facing New Charges after Motorcycle Stopped in Green’s Harbour",
@@ -59,43 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/05/Happy-Valley-Goose-Bay-town-hall-suymmer.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Two Men Arrested and Charged in Commercial Break-in and Theft in HV-GB",
-      "link": "https://vocm.com/2026/05/11/two-men-arrested-and-charged-in-commercial-break-in-and-theft-in-hv-gb/",
-      "snippet": "RCMP have arrested and charged two men in connection with a break-in and theft from a business in Happy Valley-Goose Bay. A commercial alarm was trigg...",
-      "pub": "Mon, 11 May 2026 16:00:11 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/hamilton-river-road-hvgb.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Separatist leader accused of misusing Alberta electors list refuses to co-operate with investigators - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVkhLR3hoeHV6UlZUbEdwNnN5QlZiRlIzRnlsNGM0MjFpYUk5cHVXWWNxWXktMTZXN0trS2lKaS1HdkxIelBMLTc4bzFwMGhMbk1Bb0ZWaFBjcjRwNGFOdnI5UEVuQ0c3WDJSTWlLVnVuQ1FYU1lyLTRYUmVNWFJUMk5RaGg3ZC1KVVkzbXZOc1ppaEU0U1I3RUQ0Rkp4bWJJT3BXWDVUZ1FVY2poUjNYeGRySTZXODJwZkMxR19wOGRnU3Nj?oc=5",
-      "snippet": "Separatist leader accused of misusing Alberta electors list refuses to co-operate with investigators &nbsp;&nbsp; The Globe and Mail See more headlines & perspectives on Google New",
+      "snippet": "Separatist leader accused of misusing Alberta electors list refuses to co-operate with investigators &nbsp;&nbsp; The Globe and Mail ‘Truly terrifying’: Alberta voter data breach r",
       "pub": "Tue, 12 May 2026 02:21:08 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Supreme Court allows Alabama to eliminate congressional district held by a Black Democrat - CNN",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkdLd1oxWkplR0t0WTcwMWlua19ycG9GaTBxeGVqaEktMXludFJtYjJOTDdPSkdKOTVnb3lzMy1SQ3JZU20ybGdiUDIxSHBKajZmVTZ6SnZ1ejh2aFh2emVFMHdNNHdJdHFMQnFrVU51S1o0Vm5zQW5iVHpIWWtsZVM0RWl3eThQajFvOTRUMkhBZ0pE?oc=5",
-      "snippet": "Supreme Court allows Alabama to eliminate congressional district held by a Black Democrat &nbsp;&nbsp; CNN Alabama can use electoral map that favors Republicans, supreme court rule",
-      "pub": "Mon, 11 May 2026 21:50:13 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Steven Guilbeault evasive about political future after criticizing major projects reform - National Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQnJmbmJodlJ4ckxUd0JzUEJfVFBFbFpxNm5uSm9tV3hkU2Ntd3cyWV9zQWhYNGlYc3VzNkdxZks4Z3VvUHFrVzlZT1JXX1JvekQ3dWtULV90Unk3SU1yVTFybkREYVRDTkhYcXprMVRvT0VfLTBRRGoyNEx6ZmRmNDlBeV9Vei1IRE5iZmROUlNWSXpNZ29fUjlTTG4weUhoLW9ZYmsyUnNXQVc2S0Q1RUd6QmJlUXBYLXc?oc=5",
-      "snippet": "Steven Guilbeault evasive about political future after criticizing major projects reform &nbsp;&nbsp; National Post Ottawa suggests letting cabinet green-light pipelines before tec",
-      "pub": "Mon, 11 May 2026 20:57:44 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "‘Flipped his switch’: Noise dispute with neighbour led to killing of B.C. grandparents, court hears - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU21PLTgtamw3bjBWaTI2LThmM2F5SjlGbWpxanlNTGI3ZlE1SXpKZXg0UzdDZHJDNFR3dzZtbjcwT1NPM1VZOW56aFdkTm10UHpfRXk5QUgxS191LUhMWGZTWlZHT3FlRXpmNmVCTndiQWVXUTYxVzlHTXdFQ3RVTFNmNmhyT09GSFNfQXNPbHdZTG5NclRDajVSRVZ5bVJxOUZENWg2blJtSWZUT2JmeUNUWlFpMnZOeTBMYWRNdS14dXdod2lMbnpCTGtIS0J6?oc=5",
-      "snippet": "‘Flipped his switch’: Noise dispute with neighbour led to killing of B.C. grandparents, court hears &nbsp;&nbsp; CTV News Chilliwack man, 85, pleads guilty to 2nd-degree murder, ma",
-      "pub": "Tue, 12 May 2026 01:27:00 GMT",
+      "title": "Trump administration asks trade court to pause ruling on global tariffs - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGpwaXVMeHpkMDdUakhWVHJDVkV1Z3ROTlpPTGNVb2xGaUV6WHFHUkNSV0dJamdzU2E0NUg4cmRseWpLOUVVMFBlcFp6dzlKb1NEWWhiem1yckVxNE1BcUV0ZVI5UE4xS05iV01FNF9sM1JYVlFpdG1jMi1Hd2piNA?oc=5",
+      "snippet": "Trump administration asks trade court to pause ruling on global tariffs &nbsp;&nbsp; CBC What the Trump administration's latest tariff blow means for businesses &nbsp;&nbsp; CBS Ne",
+      "pub": "Tue, 12 May 2026 00:07:00 GMT",
       "image": ""
     },
     {
@@ -108,10 +92,26 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Four Canadians from hantavirus cruise ship now isolating on Vancouver Island - Times Colonist",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmwyMy1lTXlNN1YwbFZ5bUJFY1lwX0x2dnF5eWlCbjBDZUUxTTZPMElRdTlJQ3hQakNLMklBalNQMTRzaTFKb1RLMzFzdlpSUGh3ejFmMXYzaHkwY1ZPcmlrVXdiX3dqZTU5RVc4NXRTQUpRNGtrSHF5QUVySzQyTVF6VWZtUDljV016T0d1WUo4WjFsbWhGQWpMQzZLLTBPSWZVX0VkTkc3RHBaY1A0cXlDU0hSUQ?oc=5",
+      "snippet": "Four Canadians from hantavirus cruise ship now isolating on Vancouver Island &nbsp;&nbsp; Times Colonist The cruise ship hantavirus outbreak offered a real-life simulation exercise",
+      "pub": "Tue, 12 May 2026 07:40:24 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Some polling stations in N.B. opened late but will stay open longer tonight - CBC",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1dnTFN1amRoVHhKRTZJbXJYM2dwdkVQV2wyX0M0NUdFRU5Jd1h3LUowN1UtbFBpTGk2WVNtb2NxX0EzNl9saWNVbkJ4NjgtRDV4T3RUSXUwdmxFbnpvOHBtMWtaLWk0dktoaE5tb3V5UkxIRGF0TUdja2RLd0JtcFRFbHh4NTFRU0JqRGdXejlUQ3psaHo1MkRrRjZBYVRi?oc=5",
-      "snippet": "Some polling stations in N.B. opened late but will stay open longer tonight &nbsp;&nbsp; CBC New Brunswick elections: Voters head to polls to choose mayors, councillors &nbsp;&nbsp",
+      "snippet": "Some polling stations in N.B. opened late but will stay open longer tonight &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
       "pub": "Mon, 11 May 2026 21:56:45 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Out-of-control wildfire prompts evacuation south of Whitecourt - Global News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzFRWU1WYTJiWVZPdFhqYUJUVFJOZEVKNnNpUm1jbXlkQXFURk9jbUFkNmpfd1F6ZFpEWjMyNjNlVXg2ZVhYWFZTMS05MUN4YTA4d0kxUnhMVDE5Y1EzYldZbjNkUW1Pa2dzdVNUUWt5UU9GS2kzOVF0UGFGZ0NGRw?oc=5",
+      "snippet": "Out-of-control wildfire prompts evacuation south of Whitecourt &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
+      "pub": "Tue, 12 May 2026 00:56:27 GMT",
       "image": ""
     },
     {
@@ -119,15 +119,15 @@
       "title": "Toronto councillor asked for ‘considerable amount’ of money to move developments forward: source allegations - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNkFkWlp0d2c5VzFTZVVTVWNTTFI4UWQ5UWxYS3JLTWc5WGNEOWNIWENmR1lhWGdCaGZNbVhpSkZpcHJKdk5KVWZNWTlkQkJMZEFlNlJRQ1hCXzB5VUpySW1LTm85Rm5sUXZRbllkMUNsaE1HakxfMlFTZDZHSVdCMEVINjlyUDVGOHJTb0xoNVctejJlcER3Tk5qNG1oWVRPZFJmc0xVZFA2WXQ0c2h5dVpsNjNKLXpPWFdYYWRhbU55SHZpTHdydHJYc0h0QzdQN3E0YWVlUW8zWTQtcHc?oc=5",
       "snippet": "Toronto councillor asked for ‘considerable amount’ of money to move developments forward: source allegations &nbsp;&nbsp; CTV News Scarborough councillor Kandavel ‘surprised’ he is",
-      "pub": "Mon, 11 May 2026 22:56:50 GMT",
+      "pub": "Tue, 12 May 2026 01:46:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Census day arrives Tuesday. Have you submitted your questionnaire? - CBC",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6SXBLbUNGOFFRenh5ZzlpenVaNHQ0YkZsZnBNUmFaWlBtMkVuUWxIVjlhRzF6cjVwRndwajNpd0h5WjlaZFpfOThfOXNFMWJJUUdGZEdrbnBUZnYyTTBKMUU4QWdZdkEwY2hweXln?oc=5",
-      "snippet": "Census day arrives Tuesday. Have you submitted your questionnaire? &nbsp;&nbsp; CBC Susan Delacourt: Census day is a harder sell in an age of data insecurity &nbsp;&nbsp; Toronto S",
-      "pub": "Mon, 11 May 2026 19:16:00 GMT",
+      "title": "Police investigate fatal shooting in Calgary’s northwest - Global News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUnhWTXJwdW5Da01JN0FiWmw1N1NWY0cwcGROd0pVWldscEVIblJCQ21OUXVJM2ZNc3B5UVZXYzJBYVpGWG5HRzF6TG0wTEdGOVl3M0hNdHJuTVBtZEpmbU51RzFZU21GNGRvM25zSFh6aE8xbEhKMmw1Wlh0Y1RHaF9VMy1aRTZIQ3J2TV80WjBZbjRaQk9J?oc=5",
+      "snippet": "Police investigate fatal shooting in Calgary’s northwest &nbsp;&nbsp; Global News 1 dead following shooting in broad daylight at Calgary Co-op parking lot: police &nbsp;&nbsp; CBC ",
+      "pub": "Tue, 12 May 2026 03:57:30 GMT",
       "image": ""
     }
   ],
