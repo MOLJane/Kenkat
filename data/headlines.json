@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-05-13T09:22:35.348153+00:00",
+  "generated_at": "2026-05-13T11:38:36.078491+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "St. John’s City Council Asks Residents to Report Any Needles Found in Public Spaces",
+      "link": "https://vocm.com/2026/05/13/st-johns-city-council-urging-residents-to-report-any-needles-in-public-spaces/",
+      "snippet": "The St. John's council lead for public works is encouraging people to contact the city directly if they notice needles in public spaces. There has bee...",
+      "pub": "Wed, 13 May 2026 11:19:14 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/05/greg-noseworthy-needle.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "NDP Hosting Panel Discussion on Restorative Justice",
+      "link": "https://vocm.com/2026/05/13/ndp-hosting-panel-on-restorative-justice/",
+      "snippet": "The NDP is hosting a panel discussion on restorative justice this evening in St. John's. The MHA for St. John's East-Quidi Vidi, Sheilagh O'Leary, tol...",
+      "pub": "Wed, 13 May 2026 10:54:21 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/11/sheilagh-oleary.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RNC Not Trying to Spoil Fun but Urges Teens to be Mindful Playing ‘Senior Assassin’",
+      "link": "https://vocm.com/2026/05/13/rnc-not-trying-to-spoil-fun-but-urges-teens-to-be-mindful-playing-senior-assassin/",
+      "snippet": "Police in Newfoundland and Labrador are encouraging kids who take up a game called the \"Senior Assassin\" where they try to take each other out with wa...",
+      "pub": "Wed, 13 May 2026 10:26:47 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/rnc-media-relations-officer-cst-constable-steph-stephanie-myers-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Quebec’s Low Electricity Rates Impacting Equalization Payments to Other Provinces: Report",
+      "link": "https://vocm.com/2026/05/13/298951/",
+      "snippet": "The Fraser Institute says low electricity rates in Quebec are affecting equalization payments to other recipient provinces by more than $3 billion. Ne...",
+      "pub": "Wed, 13 May 2026 09:57:12 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/hydro-quebec-via-hydro-quebec-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Dr. Todd Young Has Licence Temporarily Suspended in Ontario",
+      "link": "https://vocm.com/2026/05/13/298948/",
+      "snippet": "A Newfoundland physician who is no stranger to controversy has had his licence to practice temporarily suspended by the College of Ontario Physicians ...",
+      "pub": "Wed, 13 May 2026 09:28:53 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/11/dr-todd-young-main-street-medical-clinic.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Tobacco Revenue Down, Vape Sales Up in NL",
@@ -27,59 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/retired-rnc-police-dog-garvey.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Latest Fuel Prices for Wednesday, May 13, 2026",
-      "link": "https://vocm.com/2026/05/13/latest-fuel-prices-for-wednesday-may-13-2026/",
-      "snippet": "Fuel prices are up again this morning. Gas increases by 2.9 cents per litre. Diesel is up 2.7 cents and 2 and a half cents in Labrador West. Furnace o...",
-      "pub": "Wed, 13 May 2026 08:31:08 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/06/gas-prices-pump-gas-station.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "May 13, 2026 – Do you think that increasing the financial support for foster and other children in care will entice more people to take in children who have no permanent residency?",
-      "link": "https://vocm.com/2026/05/13/may-13-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12916').",
-      "pub": "Wed, 13 May 2026 07:59:20 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/minister-of-social-supports-joedy-wall.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Trade and Diplomacy: What to Expect from Trump’s State Visit to Beijing",
-      "link": "https://vocm.com/2026/05/13/trade-and-diplomacy-what-to-expect-from-trumps-state-visit-to-beijing/",
-      "snippet": "President Donald Trump's state visit to China is set to put trade, diplomacy, and global security on the same table as he meets with Chinese President...",
-      "pub": "Wed, 13 May 2026 06:47:52 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/05/51007149.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Police Operation on Salmonier Line Causes Delays Over Supper Hour Commute",
-      "link": "https://vocm.com/2026/05/12/police-operation-on-salmonier-line-causes-delays-over-supper-hour-commute/",
-      "snippet": "A police operation on the Salmonier Line caused a significant backlog of traffic over the supper hour commute Tuesday. Officers converged on an area a...",
-      "pub": "Tue, 12 May 2026 22:37:13 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/rcmp-lights.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Dawson Mercer to Play for Team Canada in the IIHF World Championships",
-      "link": "https://vocm.com/2026/05/12/dawson-mercer-to-play-for-team-canada-in-the-iihf-world-championships/",
-      "snippet": "Bay Roberts native Dawson Mercer will play for Team Canada in the IIHF World Championships in Switzerland. The 24-year-old was added as a late entry t...",
-      "pub": "Tue, 12 May 2026 18:46:01 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/dawson-mercer-irondawg.png"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Ottawa, Alberta close to reaching industrial carbon pricing deal, sources say - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVFoN3ZmR0hCSjlDRDUwWm45a2txN25yc3d4cEZTZzIwMEw1bEUxOXdNTktsQkc4blpydUVXVlg2UHNFOWtVOTVDTDUtTlBfaXQ3QXNuamw0WDlMV1hNNWtvWmVMVV9FTVNWTXdnSEV6TzhTQ0dfYUw0d2FNSmRxUGllSEsySzBhekZ5UUJiNUZjZDNWc21rcnotZHBWSUVtU2txZm4zRUR4NU1QSkFLSHotZmJ0WUE?oc=5",
-      "snippet": "Ottawa, Alberta close to reaching industrial carbon pricing deal, sources say &nbsp;&nbsp; The Globe and Mail Carney, Smith to announce oil pipeline update Friday: sources &nbsp;&n",
-      "pub": "Wed, 13 May 2026 01:37:37 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Political organizer from separatist group not co-operating with voter list investigation: Elections Alberta - CBC",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUHd0cDNkMUk1STVPZWhWUFpkcUVPeEkzVFJ2Nk1TcGZRNExiLWdyU1BUWFBWLVpydUdwemczWjRSdXRWLVAtTW1sWGhJcGNRRkpBN2FXVmg0b1lQRElveHF4dEJQcGVOZDgzbTNUblRXQkNQbzZDb19jNGk1RFNGaElBOGExbm5VX1hJNXJwcTNhV3dHb0MzaHp3dVpMYTBpTC0tRkVVU2xzVEtwWGhNencxX2xtWVpnVXpzZDJZOUZuYjBBLTN3ZGl2bjBoMjgzai1qMEpVbzhxaXBLM3NIZENDT3NZRVAxa0hoeQ?oc=5",
-      "snippet": "Political organizer from separatist group not co-operating with voter list investigation: Elections Alberta &nbsp;&nbsp; CBC Separatist leader behind voter list leak not co-operati",
-      "pub": "Tue, 12 May 2026 22:16:16 GMT",
+      "title": "Fentanyl ingredients entering Canada via Vancouver en route to cartel-run drug labs, U.S. DEA boss says - CBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHlyUXhfM2J4SEI0NURaN1V4c2oza2RqVW52TFdWSVpoS2Y1eFRQcFJ6Y05OY0VLNk9HTkFsdHpJZjFKOFkyQmtHNUZRNnpxUlpQNWs2SFV4UTJJNzYtN3V0RlNJQlk1V3JXd0xnUDJaMDZmRFM5QXRCdThxQ1pMOW42d0NXbFgtZDRtUDlySF9aX3RiWXpUM2FXZ1drdw?oc=5",
+      "snippet": "Fentanyl ingredients entering Canada via Vancouver en route to cartel-run drug labs, U.S. DEA boss says &nbsp;&nbsp; CBC The head of the U.S. Drug Enforcement Agency says the Port ",
+      "pub": "Wed, 13 May 2026 08:00:00 GMT",
       "image": ""
     },
     {
@@ -92,6 +84,22 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Separatist leader David Parker behind voter list leak is uncooperative: Elections Alberta - Global News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDh5WDFZLVpCT2RuN2tlbC10dU1zckRUdDlTNEdvdnk5NHFnbGxuT0Y2dFR6UmY1cDU4UXF2MTRlVHhOdkVVaURpNUtybVBFdkFIZmZrOHprZ2lOOTRKSVFqVW9kdXV3VWZDcWgtRVBBbUZJaGxIby13V210QW5IYlZ2Q2JKckczdmU3NkVzMUtIX0lycUZlTzFhUlZpU05V?oc=5",
+      "snippet": "Separatist leader David Parker behind voter list leak is uncooperative: Elections Alberta &nbsp;&nbsp; Global News Political organizer from separatist group not co-operating with v",
+      "pub": "Tue, 12 May 2026 19:10:39 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Ontario monitoring 7 additional people considered ‘low risk’ hantavirus contacts - CP24",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN3V2WjZvUHR1LVAtWDZKMTJpR3FuTEI3WDBGSGFRYmJtYjlnUkhGR3hkMHcyYk9nbmR6Z0N0UDVNOEU5S19fLXRQbVJybzA0NVNnX2xXX3ctX2UxeVZZN01wUjlOZVhac05mRHlNMWx5Z3ZEWURMajB0TGRWS18yZVdPVEtKbHRVRzZNWnVGY3ViRmd3TEY5VmIxR0U0c1gzZEZXVFJ4UFhES0VLdjRoQVBaWktFLVNpSE5PUXFCNUI?oc=5",
+      "snippet": "Ontario monitoring 7 additional people considered ‘low risk’ hantavirus contacts &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
+      "pub": "Wed, 13 May 2026 00:10:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Toronto MP Erskine-Smith says provincial leadership bid ‘less likely’ now as he challenges nomination loss - CTV News",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3VjWHYyTXA1ZUlEcmJiTVNiMUlleWZMMVFmeUZFMWhEZ0d6Nnk4ekpDWE9jY3B0anBZU1d3aUJ5QzVQamh1MUE0djU1a3lFUXRwa1Z1TzlTcXE5WmwwZktDT2ZxQl9fWmtXSmhZbklMWGljaGVNVkhvRl9FZlRhQ21wUHVHOHFQcFQ0VXowcDczMGt1UWlhcTA0cV9iVE1DMm8xRkw1WFJhR29kSTgwTlE4eXBzb3J2MjlOZlBRbVk?oc=5",
       "snippet": "Toronto MP Erskine-Smith says provincial leadership bid ‘less likely’ now as he challenges nomination loss &nbsp;&nbsp; CTV News Liberal MP challenges nomination loss for Scarborou",
@@ -100,34 +108,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "'Raining down ash': Fast-moving wildfire continues to rage near Whitecourt, Alta. - CBC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkFfX01aUlpRZkxySm9ndm5jV2Z0UHBMVTl2V1cxdko0eTdOUXRhV2tXc3l6VjhvTlpzTjB0TXYxWGdtX3FaVmRQYUhSM3lqZ2tDWGxfUWs0OGotRmRUekZPYy1kTk8yRkQtSUtaQTV1bmFMT1EwVndkU2dsMzNCS0doRUI0b19FQzFCNGx6bU1FS0ZNRkE?oc=5",
-      "snippet": "'Raining down ash': Fast-moving wildfire continues to rage near Whitecourt, Alta. &nbsp;&nbsp; CBC Wildfire near Whitecourt, Alta., forces about 140 out of their homes &nbsp;&nbsp;",
-      "pub": "Tue, 12 May 2026 20:02:34 GMT",
+      "title": "Ottawa, Alberta close to reaching industrial carbon pricing deal, sources say - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVFoN3ZmR0hCSjlDRDUwWm45a2txN25yc3d4cEZTZzIwMEw1bEUxOXdNTktsQkc4blpydUVXVlg2UHNFOWtVOTVDTDUtTlBfaXQ3QXNuamw0WDlMV1hNNWtvWmVMVV9FTVNWTXdnSEV6TzhTQ0dfYUw0d2FNSmRxUGllSEsySzBhekZ5UUJiNUZjZDNWc21rcnotZHBWSUVtU2txZm4zRUR4NU1QSkFLSHotZmJ0WUE?oc=5",
+      "snippet": "Ottawa, Alberta close to reaching industrial carbon pricing deal, sources say &nbsp;&nbsp; The Globe and Mail Varcoe: 'Herculean challenge': Industry awaits details of Ottawa-Alber",
+      "pub": "Wed, 13 May 2026 01:37:37 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Some Canadians are refusing to fill out the 2026 census and it could cost them - Daily Hive",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TN2wtTTg4VFhvcXBJQlJKeEs3T2MyZjFPQUtCNVBUbUVYOVl3N1FtZE9JVUhlUGJBd29PYWZwUlRTQVBVdlpLZC1xMkFIbEZJUjI5Tzh0dHdhdk5RMWNKV1ZGT0NjLVJsOXVBSVh3?oc=5",
-      "snippet": "Some Canadians are refusing to fill out the 2026 census and it could cost them &nbsp;&nbsp; Daily Hive It’s census day in Canada. Here’s how long you get before facing a fine &nbsp",
-      "pub": "Tue, 12 May 2026 19:06:00 GMT",
+      "title": "New Brunswick voters wake to new mayors, councillors after municipal elections - Global News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mbzJXeE1RdFFaWGdWdjJ1WFpBLWtybWt0S0VfNlpGSzhDUTlrUU4yQ2ZfUUMxNWVzMTdIQV9HRFhfaEx4X0hreVhnUHFQODdpOGFwZjY4V09WSGRzazR0NTNxclIySG9Wa3A5YlBGSklzTG9qUk9j?oc=5",
+      "snippet": "New Brunswick voters wake to new mayors, councillors after municipal elections &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
+      "pub": "Tue, 12 May 2026 12:37:36 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘I felt completely unwanted’: Some migrants in limbo with new asylum law - Global News",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKLXk3Y0dBSUkydkJvTldENnFZTExfOHhYV3hZUTB3TGkwX2RSOGhFQllnYkxFSm11Q3doNFVEMXJRcUlCX0VsRjVkUFNuWl9qRk0yOVBzbFpoTGVxazktNmswOF9Kd0RFenBCZ2R5aEo2TEVFeXc?oc=5",
-      "snippet": "‘I felt completely unwanted’: Some migrants in limbo with new asylum law &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
-      "pub": "Tue, 12 May 2026 15:00:28 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Worker dies after tire ruptures at Kanata auto shop: Ottawa police - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOME80OEZjRzFEOG4wa2lSaTBhaGtqMUJveldRcVp1VnBtdDczbHlwV1hWcTk5R1RxY3NteHlPRW5oSXV6eTdON2NSQV9PaHNKeDhJVnZCZm1wSm44a2QwdHhWY19zREZiaXdiT2NCamo1OUFnal9NVU5yYWJMTHFXdlFlaHlJeDZGNXYxQlRLYUp2T0hObm1ZM2JkakY5bHNhOTNYam9uOA?oc=5",
-      "snippet": "Worker dies after tire ruptures at Kanata auto shop: Ottawa police &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Wed, 13 May 2026 01:20:00 GMT",
+      "title": "Canada's new asylum law leaves 2SLGBTQ+ claimants fearing deportation - CBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3TkxYYWdmUTJ5UmxVVHpTSl9MMnJKT2R1aFdjWXBCTnVRVDg5TTIxQlFIbE1Fak1kOFVPbmd5UjlSb3ZmUlNlbnp1clBqeTdiM25PdkpUb0xMWm5YVzVwY3pZVTJ3SVk0UUxsRU9hS0pnRWxNOUE?oc=5",
+      "snippet": "Canada's new asylum law leaves 2SLGBTQ+ claimants fearing deportation &nbsp;&nbsp; CBC",
+      "pub": "Wed, 13 May 2026 08:00:00 GMT",
       "image": ""
     }
   ],
