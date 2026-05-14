@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-05-14T11:24:45.055085+00:00",
+  "generated_at": "2026-05-14T13:11:55.798195+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "NDP Echoes Concerns About Data Protection Following Report on PowerSchool Data Breach",
+      "link": "https://vocm.com/2026/05/14/ndp-echoes-concerns-about-data-protection-following-report-on-powerschool-data-breach/",
+      "snippet": "The NDP says government has to \"get serious\" about how the data of Newfoundlanders and Labradorians is collected, used, stored and protected. Leader J...",
+      "pub": "Thu, 14 May 2026 13:07:15 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/ndp-leader-jim-dinn-may-5-2026.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "ER Wait Times Up, Procedures Down Since Implementation of CorCare",
+      "link": "https://vocm.com/2026/05/14/er-wait-times-up-procedures-down-since-implementation-of-corcare/",
+      "snippet": "New numbers from NLHS show a significant increase in wait times at emergency rooms and a drop in medical procedures following the implementation of Co...",
+      "pub": "Thu, 14 May 2026 12:38:16 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/ron-johnson.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Capital City Introduces New System for Water Conservation Orders",
+      "link": "https://vocm.com/2026/05/14/capital-city-introduces-new-system-for-water-conservation-orders/",
+      "snippet": "The city of St. John's has a new tiered system for water conservation orders. It has four stages. The first stage involves standard conservation pract...",
+      "pub": "Thu, 14 May 2026 11:36:45 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/05/city-of-st-johns-water-tower.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Interim CEO Appointed as Search Continues for Permanent Hire at The Rooms",
@@ -43,75 +67,59 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/05/617230480.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Gander International Reports Increase in Passenger Traffic in 2025",
-      "link": "https://vocm.com/2026/05/14/gander-international-reports-increase-in-passenger-traffic-in-2025/",
-      "snippet": "The Gander International Airport Authority is reporting continued recovery in passenger traffic over the last year - bringing it to about 74 per cent ...",
-      "pub": "Thu, 14 May 2026 09:24:44 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/gander-international-airport-airline-yqx-terminal-departures-catsa-security-line.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Those Lost in Line of Duty Remembered During Annual Peace Officers’ Memorial Day Service",
-      "link": "https://vocm.com/2026/05/14/those-lost-in-line-of-duty-remembered-during-annual-peace-officers-memorial-day-service/",
-      "snippet": "Members of law enforcement from across the province gathered in St. John's yesterday to mark the International Peace Officers' Memorial Day. The annua...",
-      "pub": "Thu, 14 May 2026 09:09:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/st-johns-seventh-day-adventist-church-peace-officers-memorial-day-ceremony.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RCMP Seeking Public’s Help Identifying Suspect Connected to GF-W Break-Ins",
-      "link": "https://vocm.com/2026/05/14/299030/",
-      "snippet": "RCMP in Grand Falls-Windsor have released a surveillance image in hopes of identifying the person captured on camera. RCMP have responded to repeated ...",
-      "pub": "Thu, 14 May 2026 08:54:03 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/image.jpg"
+      "source": "Google News Canada",
+      "title": "China’s Xi, warning of a clash, tells Trump: ‘We must make it work’ - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMW1XRzB6ZmdMdWl2dVI0VVBObnFoemQ4SVpLN0lpb2tITTBBTGVxb1VZTFh4UURxU0hjeFh5cmstUndxa3hNVjZnc0FVUnBac3Z3ZjJqTkppSFFaX0VsU1lER2RKbHJDOUxRdFlWVEtBc3BFUGhRbHgzVHJHSVRyLUZBRUpIeU9DT1FWY3NyX3FwR0t5YWV2QnluS3BMWmdwUXc?oc=5",
+      "snippet": "China’s Xi, warning of a clash, tells Trump: ‘We must make it work’ &nbsp;&nbsp; Los Angeles Times Xi tells Musk, Tim Cook and other CEOs on Trump's trip: China will 'open wider' &",
+      "pub": "Thu, 14 May 2026 11:24:00 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Canada court quashes bid by Alberta separatists for independence referendum - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUFDWFdrNWxIcXhNUmVTVTlCUjU2SHlqMDV3azNZcTBIOHNhUWlmbDhNcUdpMmxoSjBQSGppMFRUOVhPNTVWMXBQVlJpUUFQU1RRaFluVTJ0aVB5ZzRlWmhsZ1VIZ09BajU2ZGV3dG9aOTZDS0VKZGdpaG04SGxfX2FNWEFiaENreEVBT0tIbHJtY0NiM3VZb0xlVUJOc21qQ09HeDc1TnV2el9rbXJXVkN1bkZOYkQ3aF9WVkRn?oc=5",
-      "snippet": "Canada court quashes bid by Alberta separatists for independence referendum &nbsp;&nbsp; The Guardian Alberta judge tosses out petition to separate from Canada &nbsp;&nbsp; BBC Dwi",
+      "snippet": "Canada court quashes bid by Alberta separatists for independence referendum &nbsp;&nbsp; The Guardian Alberta judge tosses out petition to separate from Canada &nbsp;&nbsp; BBC Jud",
       "pub": "Thu, 14 May 2026 09:43:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump-Xi summit: Why Beijing might have the advantage - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTFVhSXJCbXpHWGtlU2o1Qi02U0NsRzFfVTh0Y2hDTi1SaHlLQVppNWpEMWFfTGREaWktQ3BydW5sYlpPVDhKSDc2TEhuWWdEb1F2QmxoZEh4a0I3cVFvMTFIVEdWeUhiMFpsMHFMWWlzN0RGWUstYklNVmFGZ2tLUS1kZFpGUkdwcFBMSHp4VWJVUzRLZUFRSUJ3elRVNGR2Q3pfemc3NlBkS3lIRnfSAbMBQVVfeXFMUHVPRE15OS0wWkJqRU01SWhsUzNEeUFiNDBNWWVfX1dlR1lHMkwyalF4cEl1Y3ZudzZBRHJhbTFMeUtIT2YwUVRuS0ZXcTQ4a0haV2Vya2paZXFKVkN0Z1F5WlhzZTNUVlRNU01EWHlIcF9BX1hsMUZpdDJhTmV1OHdORnRLT2NFY2ZlMWw3em9pMmFUWFVYV25CeUszNHdzRHZtVjFQRnFBTVVvQW5nVjRDSVk?oc=5",
-      "snippet": "Trump-Xi summit: Why Beijing might have the advantage &nbsp;&nbsp; Al Jazeera Xi warns Trump that mishandling of Taiwan could lead to conflict &nbsp;&nbsp; CBC Flags, Flattery and ",
-      "pub": "Wed, 13 May 2026 21:18:09 GMT",
+      "title": "EXCLUSIVE: Family raises alarm amid new deaths from chemical once sold by Kenneth Law - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcDg3QmgyZlRvQUZ0TzdMNTQzNXNXRmp3QzdqS0VjQVhTV25zWUFJeE55aFFRb2Y3eW5iTWNOeWFRdE5uV2Rfclo2TUtYTDItNWtHSUN1bjFmLVpCTnc0bEgtYnh0dFNQSlFDR05TeHUtVzVSYU1wSklDV3Vzc0Q2N1NfeTlBc1ZjUEhsWHg0NHBHNDJ3cVF1LU5Fd0hHUTJfcmJuaXVhbGYxNGtwX2hRQmp5eER5NElHSVY3T0EwUWE?oc=5",
+      "snippet": "EXCLUSIVE: Family raises alarm amid new deaths from chemical once sold by Kenneth Law &nbsp;&nbsp; CTV News",
+      "pub": "Thu, 14 May 2026 10:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Ontario pans Quebec language requirements in new offensive for Toronto to host defence bank - National Post",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0xIVDJ6THNRNXpaUEdnMFZXRXo5WGQ0QTFBNmNtNURIVWxKTmo1X01odWd3ZWxEX05VZG9OQ0poWEdPV0ZHMHpkaDdDNy1McVNfMGg0bFNCQUk4OWxXcFpXRE9LNFRVV3lsdFJ0emZZZi1RZkJmTUVnSW9FZjdxNWRqU29VLU1ySW9lUUgtT3cyWXVtNGlPbzlveU91WE12QkxJSzh2TkZaLU9jY3Y4NnpDdHJWX01yLTY5Vl93?oc=5",
-      "snippet": "Ontario pans Quebec language requirements in new offensive for Toronto to host defence bank &nbsp;&nbsp; National Post Doug Ford says he won’t attack other bids in his push for Tor",
+      "snippet": "Ontario pans Quebec language requirements in new offensive for Toronto to host defence bank &nbsp;&nbsp; National Post William Watson: Is it NATO’s new Canadian bank that's rattlin",
       "pub": "Wed, 13 May 2026 01:02:13 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Utah grief author Kouri Richins gets life sentence in husband’s poisoning death - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb0ZBYWFIZWVLd0dPajYyMXRMNHJqbjk0NEFuNTB5c3RLYkpDRnFkNmV4c2pqM0h2X3AxVmdmZXFsb0xNMUZ2R1Nma3RiaUpCQkVJY1JremVyZzJ0LVB0TXNHSUtUN284UlYxVERUTUtiUVlsdjFSS3BIdmNlRWtqNHhTc0hqcmtZSmNYWGs2NA?oc=5",
-      "snippet": "Utah grief author Kouri Richins gets life sentence in husband’s poisoning death &nbsp;&nbsp; Global News Kouri Richins, author of a children’s book on grief, gets life sentence for",
-      "pub": "Wed, 13 May 2026 20:25:32 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "A coin and two special flags: PM Carney exchanges gifts with Artemis II crew - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPODdFT21GRVMydXFicHhFMmN6SV9KU2pNMTI2TktFZVZ5Yk9PMmE5bEhLY1FMR1VINTF3cWFxREdOYjhYcGdLTHVvUEdsYU9mbjkyY0VCMlBwTmtXbXRPdG9CbmNVVnNOUlpDejlWVGxvNUo2Y1NNcjZIY0lNaTJST0VCa0pIWjRFaDFTOTZYcnZvdHo4am9MakxlVGFZeXI1U2NiM2FlWmRKOFJONmd6bXEweVdzTWs?oc=5",
-      "snippet": "A coin and two special flags: PM Carney exchanges gifts with Artemis II crew &nbsp;&nbsp; CTV News Jeremy Hansen returns home with the Artemis II crew to talk not about science or ",
-      "pub": "Wed, 13 May 2026 14:56:22 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Keith Gerein: Monstrous breach of voter data reveals Alberta’s backward slide on information security - Edmonton Journal",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOak92N2hsc1lyVVRKWGR5XzgtWndKaktFTTB0SzVfcGU5UTV5dGlzdzg1MklKcE9HNDFra3JEWWdUV0hVT1gxUThBaFlUN3U1QVVIb0dfRFVLNnJ5b2k2czFoQlpjd3VJWms4OFFsZzhXRlRVN1RhVW9DTVVRa2xwbHh0d1I2TWtsVFZKcXJwSG5JeW1t?oc=5",
-      "snippet": "Keith Gerein: Monstrous breach of voter data reveals Alberta’s backward slide on information security &nbsp;&nbsp; Edmonton Journal Separatist leader David Parker behind voter list",
+      "snippet": "Keith Gerein: Monstrous breach of voter data reveals Alberta’s backward slide on information security &nbsp;&nbsp; Edmonton Journal Elections Alberta says separatist group’s app co",
       "pub": "Wed, 13 May 2026 12:23:24 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "'That Seems To Be A Pattern': Obama Nails Trump's Short-Sightedness With Iran Nuke Deal - HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzI4MlQxQ1ZoZkhWdUJVVzF3bk9yT0Zpa3EySG0xQWg4cDQ0YWZsV2t1a3hwdGVuMDV2OTc3TkpPZDRwYXYxdWhTdHpoQXp4dlpqdy1sOFl5ZEhYYmRTNl8yMEcza1JkQmpTVDZua2VVRElWZTJraXVST2xBNEF4VWlKLWpvS25UTm1FMzIzbDRVWHowaENocmxnMVdJRWVteURhN0Frbi1Id1BQOVJF0gG0AUFVX3lxTE5xcDFyZHFqNzhKbjVNd2NrempQWlNUdUR4UWhubjNaV1FPRXhGd1BiXzNZaTQ2ejYxbnRGRXJEd2swcm82aThLdTNxbjVlWENtZzJxRE5BSFRGTmJISW5LWERGbDdUcC1uQl8tZHpqcnBjMktSaG5jUzV6RkpfMk9vYlBZeGdSMXkyRWVNVEJFQWYzc2RGRjlZYm9fODBWcXNCSFhqa295Z3RvblRRdFZTSlRYYw?oc=5",
+      "snippet": "'That Seems To Be A Pattern': Obama Nails Trump's Short-Sightedness With Iran Nuke Deal &nbsp;&nbsp; HuffPost",
+      "pub": "Thu, 14 May 2026 06:11:24 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "3 suspects arrested, 2 outstanding after assault, robbery at Toronto hotel: police - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXVrN05nTU83M3VNckZaNEp6YUIyRXM5TWpYNmRkT2tqNmNQeU96WUx0Qk9lbkpQN29VVGxBbDVzVHRvSHNSQm9sV25CT3plMWthbEdPbDc0T1ZRZ24yWjdBZ3A0WFRUYkhCNmNSaGg0OENWUnptMnQyQ0g1NVJUZEl3OFAteVRWaU9PWW1ZMFNWeE10NXItQ3Mtdk5YMWdXLXg2bDB2WVFJY1FrSmxsYjE1T3FHbThwTU44?oc=5",
+      "snippet": "3 suspects arrested, 2 outstanding after assault, robbery at Toronto hotel: police &nbsp;&nbsp; CTV News",
+      "pub": "Thu, 14 May 2026 11:09:31 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SSXVOWFc0SmRwQXMxNjdqUFNEMVM2LThSWElELVFIa3lHQWRJWWxRNkplWUNWRjNUbE9sVS1DY0o4SjN2R09RZk16V1R4X01hckFvU2NpZmhTVGx4V1h3Q2owbE5EdXB5N2cyX2E2MG5uSjAxMXg0eQ?oc=5",
       "snippet": "Ottawa, Alberta near deal on carbon pricing rising to $130/tonne by 2040 &nbsp;&nbsp; CBC Opinion: Ottawa, listen to Alberta, stop apologizing for Canada’s energy advantage &nbsp;&",
       "pub": "Wed, 13 May 2026 22:27:53 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Major Alberta county opts to pay more to keep ambulance service after province reduces compensation rate - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb1JQaGZiR29OUlJhYVN4ek5QdFNZTzZsWEw4UER6dklhcjF3MVRsQXRGV2taUUxHWFhmR2RnbmRlM2Y1WEpjVkJYRjcyYVlqeFVuU3RzNG1PVjZWMGR1SWdPMWt0Q3BvSndJcEpLaEpaY21lNUNDeVBTVE90dVUwT0FQd194Z2doOWRTNGVWMm5icXk0UlRFeWgtQ3Y0RVVCVjllR2Vib2c0ajRySkZpMVpEQkdHUzhWTGh2Z004WWJMNXhEcHl4SzdVcXVyYkpwVnNxTWtyUG1VUjNrcmc?oc=5",
-      "snippet": "Major Alberta county opts to pay more to keep ambulance service after province reduces compensation rate &nbsp;&nbsp; CTV News Alberta municipalities split on future of integrated ",
-      "pub": "Wed, 13 May 2026 00:27:00 GMT",
       "image": ""
     }
   ],
