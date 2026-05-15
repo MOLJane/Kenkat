@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-05-14T23:26:46.874074+00:00",
+  "generated_at": "2026-05-15T01:19:58.312659+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Hospital Road in Bonavista Closed to Traffic Due to Collision",
+      "link": "https://vocm.com/2026/05/14/hospital-road-in-bonavista-closed-to-traffic-due-to-collision/",
+      "snippet": "Hospital Road in Bonavista is closed to traffic as first responders attend to the scene of a collision. RCMP issued the notification at 9:33 p.m. indi...",
+      "pub": "Fri, 15 May 2026 00:15:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/05/rcmp-car-vehicle-logo-stock-1.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Three Sent to Hospital After Box Truck Crosses Centre Line and Collides with Pickup on ORR",
@@ -59,27 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/tailrace-bridge-near-power-station-tch-deer-lake.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Cowan Heights Town Hall Highlights Public Safety Concerns in Light of Increased Crime, Violence",
-      "link": "https://vocm.com/2026/05/14/cowan-heights-town-hall-highlighted-public-safety-concerns-in-light-of-increased-crime-violence/",
-      "snippet": "Public safety was front and centre at a town hall meeting in Cowan Heights last night. Residents are concerned after a series of violent incidents in ...",
-      "pub": "Thu, 14 May 2026 13:28:02 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/greg-noseworthy-meeting.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "PM says best place for Alberta is in Canada, after judge tosses separation petition - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHFFZXM4Mzdpa0FIUmkzbTFFZWY5ZkNJSk9mVW8yVVFVRGp1ZHE1bWFQeE1QWlNHeTM1X1ppMC10aXJ4aUEyLWgwVW1pbmgzdWJ4UXN1NHdCS3FXYnlNWkV4ZUFuWmt0aWlVSDJ0QkhvdzdzLS1VcHRSUGluUmtFclZuUDVnN1Rsd0cxRQ?oc=5",
-      "snippet": "PM says best place for Alberta is in Canada, after judge tosses separation petition &nbsp;&nbsp; Global News Alberta separatists have new hoops to jump through. What happens now? &",
-      "pub": "Thu, 14 May 2026 16:05:57 GMT",
+      "title": "Alberta separatists have new hoops to jump through. What happens now? - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd09iOTc2ajJONWdGdDRJbFVYbDRrUjlXa0Rqd1pjNzdJX0JBN1R0OTdvd2pVOHJrRnA2X1RrOHd3ZnYwQ1VtTFY2R1IyU0dpaTF4UDFWLWh2ODRCeHF3TExNenJfdlZISThCVmR5NVhJdlc1LXZ6dGR6V19DNUtudklzRy1qWFhBaVppTlVpejJaa2FKZXlmblVDTTg3RTBPS2RyY210WFVNSHpf?oc=5",
+      "snippet": "Alberta separatists have new hoops to jump through. What happens now? &nbsp;&nbsp; CTV News PM says best place for Alberta is in Canada, after judge tosses separation petition &nbs",
+      "pub": "Thu, 14 May 2026 22:36:20 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump and Xi hold talks but no trade deal agreed - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9od1N1WUJLY3JDTnNJQzZtU0pUY041S2VhSXQycUtLUVU1aHg1X2ROZGFXTTB6alhJWU4yVWwxMFlnd3ZnVWxFTjMxbVJCdndUR0J2VEVZcXBFUQ?oc=5",
-      "snippet": "Trump and Xi hold talks but no trade deal agreed &nbsp;&nbsp; BBC Trump in China: Xi Jinping welcomes US president but thorny issues remain &nbsp;&nbsp; BBC Trump and Xi set for se",
-      "pub": "Thu, 14 May 2026 21:06:44 GMT",
+      "title": "In pictures: Trump hosted by Xi Jinping in Beijing on two-day summit - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TQVBqSTg3ZEd6WlVTc1l4RmhiR2tDYnNvMk03NmxqaVFld0VnWjZfMmZEa09OaDNhQlY5Zkl6LTNiTjZjWjVycl9jTWR4RTc4MW9rNVdQVS1IQQ?oc=5",
+      "snippet": "In pictures: Trump hosted by Xi Jinping in Beijing on two-day summit &nbsp;&nbsp; BBC Trump in China: Xi Jinping welcomes US president but thorny issues remain &nbsp;&nbsp; BBC A f",
+      "pub": "Thu, 14 May 2026 14:55:44 GMT",
       "image": ""
     },
     {
@@ -92,6 +92,14 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Kash Patel went snorkelling at Pearl Harbor memorial during FBI trip to Hawaii: emails - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRFJkZmFabHl5eGRLX3IwSEFvT05UaHVEanlCRWdJMGZnUTBjaDJmVkdOSDFIaXJRcHItTUhnWmZ5T3dqQzYzbTYtaFhLNVIybi1oZTlhZ1BVanBYTlhndzRLck9PZjBzSVpRNTBwVFR5VHhZOHNuSG5VZjRpYVR1MzJLNDdObTBmNTFHUVcycW1ia0tiLTJvS2UzM2FnM3NZNjNiR3lYNUVhR2lEN0pMSXpZY1JZUFc1SHNJQkZPQ1U0Rk9zNktpd3Y1YUlLMGM?oc=5",
+      "snippet": "Kash Patel went snorkelling at Pearl Harbor memorial during FBI trip to Hawaii: emails &nbsp;&nbsp; CTV News A sacred Pearl Harbor site became the backdrop for FBI director's priva",
+      "pub": "Thu, 14 May 2026 19:24:08 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Toronto woman accused of murdering her young daughter makes brief court appearance - CP24",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMFRrVnFvbVQ4OHlaQm52MC1MdkE2UzAtQlYyNzV3a3R3Nlh1MkpVSmktQS1UOFI5V2dsRzNLM0J0NjRnZHRmRjhJdUNXVVpkbGFMdGFGLTQxNG1XcHFRaS00c3RLMW0wMmhNLUdES1NPSXhUWmthVTFHNjVmTjliblVLaVVhdVVlSlJoQWZUVVVqWmRhSU9jd3hwSXhhTmNDV0x0cmRwRFJISUM5RUJjSUpRaUlJNzhrdFdlTHFNRVRuMVMxQS0ycw?oc=5",
       "snippet": "Toronto woman accused of murdering her young daughter makes brief court appearance &nbsp;&nbsp; CP24 Scarborough toddler suffers cardiac arrest; mother arrested &nbsp;&nbsp; CityNe",
@@ -100,18 +108,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Federal government issues advisory to Canadians travelling abroad this summer - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFZCai1JNUt1WEhJLVlIM0JfQlVuamZSSk9KMmc0dlllb3BHaDZyQkUweWo0NXRrQ0xWY25UdGhpaVRoQV9WVnJJNXltaThlTS11N241LVVkQlFWZkZjUmhndlZuRWtoQWtUS3Y0N21HWXAyVnBtRHF1WlV1ZktGdVdlQlNmMDRrMW00dlJKQWtUYko3eWM4T0dTS1puRkFvcE00R2VCOHN6VnZTQklYMkJ1cXJfams?oc=5",
-      "snippet": "Federal government issues advisory to Canadians travelling abroad this summer &nbsp;&nbsp; CTV News Canada updates travel advisories on key European tourist hot spots &nbsp;&nbsp; ",
-      "pub": "Thu, 14 May 2026 15:21:39 GMT",
+      "title": "Man pleads guilty to manslaughter after 2025 fatal stabbing outside Coquitlam pub - CityNews Vancouver",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTNzM0MxUlBad1BFc0lJWjBIZENteXl0Um9lTXR1RzdJb2k4VnpfVFJlMG9va05XUEd5UnpDR2g4aFpka0t3ZmhNX2xleU5kcHgyOFBoNFByZzBDLVJHNTB1TllQSWMtWk84SmpFUFEzWElGLWZCdVJhall5MUNqaWFTQlg1TGRxcHYtd3JCMnNVSnZ1MVRxVU4ycVhXa0FySUxnTF9n?oc=5",
+      "snippet": "Man pleads guilty to manslaughter after 2025 fatal stabbing outside Coquitlam pub &nbsp;&nbsp; CityNews Vancouver See more headlines & perspectives on Google News",
+      "pub": "Thu, 14 May 2026 18:33:05 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Cuba says CIA chief visited Havana as energy crisis worsens - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUUnRTRTZyb0R6OEF4V2RRTUQ3cm05cHVfUFBwQXoyWkdYVWNzUzJYQ0xHNHVkb2Vzcjh0TXhIRzF6N2hXX01ibE5TVDVmUnpNbHplQ0UyeGFzdw?oc=5",
-      "snippet": "Cuba says CIA chief visited Havana as energy crisis worsens &nbsp;&nbsp; BBC CIA director has met officials in Havana for talks, Cuba claims &nbsp;&nbsp; The Guardian Cuba says CIA",
-      "pub": "Thu, 14 May 2026 21:39:10 GMT",
+      "title": "Father of boy killed in Summerside dog attack testifies at owner’s trial: ‘Kache is dead’ - Global News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcjhQZ1VNdTZzbW9mQXhWWXJuQVdJWGpMbUx4VGwyMjhBS2J5YVdSOWw2QWZoS2swVFUzWlByb3Q0blplRnR6X0ZCQzJKSURTYWRkNDJaNDFydDVGR1ZGRkthd1VBTURla3p6dklzMnRWTUhuTWtMUWtFdkJFWVZFMlFmQmctc0U?oc=5",
+      "snippet": "Father of boy killed in Summerside dog attack testifies at owner’s trial: ‘Kache is dead’ &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
+      "pub": "Thu, 14 May 2026 18:13:52 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONE9MZTliaGM0aDNmMmJkb3lUdnZIRms1RXpSVjQ1VUhHOHcwTGFwUTAxUHhiVGdkYkUxMTJkaUVKZVAtYkhOOVFCOXBRWnZnbjJ6X3l3M0w3S3JmWWRmd050S3lza2hMRUh0OVV4ZG9jM3VOY0I4cGc5X3F1MElPblA4LU9BNEl3VmZnUlMxUFlhNDVIYnVNdWlfMGNhZGw0Wk05Z2M1eUVDdjNod2gzTmlsVzhkSG1JNklneXdlZWRkMXE3YXc?oc=5",
       "snippet": "B.C. court upholds prison term for cocaine trafficker despite family hardship plea &nbsp;&nbsp; CTV News",
       "pub": "Thu, 14 May 2026 21:03:08 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Recall petition for OneBC leader gets Elections B.C. approval - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0VROHlDZHQtcHlWcDFDYzdNeEZiU0tUZkdUVFFiUW9tN2VsckJVam9QZGppTDFlUFhCekN6S1Q5NGZoOWFFRlBMblYxdVBFWTJtbGVCX0pYNS10UVFTWlVOb1BseG1OSmpwU2NlQmhEMnh2YmZBNU15WUYxSmNNcnQyM0dKMU03MkhnalROaEFVRU54VUUzLTFyaHpqWlYtRktqUE1vdGxmMzBiUjlLTTdSOA?oc=5",
-      "snippet": "Recall petition for OneBC leader gets Elections B.C. approval &nbsp;&nbsp; Castanet See more headlines & perspectives on Google News",
-      "pub": "Thu, 14 May 2026 18:12:00 GMT",
       "image": ""
     }
   ],
