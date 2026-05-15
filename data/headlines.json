@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-15T14:59:01.041845+00:00",
+  "generated_at": "2026-05-15T16:52:04.072137+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Evening Crash Downs Power Lines in Bonavista, Road Reopened Last Night",
+      "link": "https://vocm.com/2026/05/15/299217/",
+      "snippet": "A young woman was taken to hospital after the vehicle she was driving struck a utility pole on Hospital Road in Bonavista. RCMP say the crash occurred...",
+      "pub": "Fri, 15 May 2026 15:47:29 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/rcmp-lights.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Mayor says Town Faced ‘Unenviable Scenario’ When Presented with Condition of Now Demolished Heritage Structure",
+      "link": "https://vocm.com/2026/05/15/mayor-said-town-faced-unenviable-scenario-when-presented-with-condition-of-now-demolished-heritage-structure/",
+      "snippet": "Harbour Grace Mayor Terry Barnes admits the town is getting \"lambasted\" for the demolition of the Ridley Offices, but says the matter was out of counc...",
+      "pub": "Fri, 15 May 2026 15:34:22 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/ridley-offices-1998.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Deer Lake Power Opens Spill Gates in Anticipation of Even Higher Water Levels",
@@ -17,14 +33,6 @@
       "snippet": "The Department of Fisheries and Oceans is extending the food fishery in some parts of Newfoundland and Labrador to reflect the desires of residents an...",
       "pub": "Fri, 15 May 2026 13:00:02 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/cod-fish-dfo-recreational-food-fishery.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Burin Peninsula Farmer Confused After Being Pushed Out of Storage Facility Intended to Store Vegetables",
-      "link": "https://vocm.com/2026/05/15/burin-peninsula-farmer-confused-after-being-pushed-out-of-storage-facility-intended-to-store-vegetables/",
-      "snippet": "A Burin Peninsula farmer wants to know what is happening with a local cold storage facility originally built to store vegetables. Andrew Warren of War...",
-      "pub": "Fri, 15 May 2026 12:57:38 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/winterland-cold-storage.jpg"
     },
     {
       "source": "VOCM",
@@ -59,14 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/provincial-court.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Town of Victoria Elects New Council",
-      "link": "https://vocm.com/2026/05/15/town-of-victoria-elects-new-council/",
-      "snippet": "After nearly six months, the town of Victoria has a new elected council. A special byelection was held in the town yesterday after the previous counci...",
-      "pub": "Fri, 15 May 2026 10:53:36 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/12/town-of-victoria-municipal-centre.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Underwhelming summit outcome in China brings Trump back to reality - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSnRlSERnbkJzUWhRNnlma1hMV3dqbHp3QnBBTWlFYTBORl9xTUhlSU9ERjM0aTIza1I2SFBFNWV6WVBEVXFmcXRTdEhrSGNJdXFpRkkyTENDSi1yTHl4Z0pFU1B4c2pXME8zbzVmOW15Z25GNU9pMklxbEJCUUxwV3pLVFNjeGpIQnZFNXpXRVhnUnVkekdUUFZ3VzJ6aVQ4UWpuMQ?oc=5",
@@ -78,32 +78,16 @@
       "source": "Google News Canada",
       "title": "Supreme Court rules intimate partner violence can be basis for lawsuits - CBC",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGdsdWpqS1FMVjhqYmUzaUpVbExodWhZa2hUc29XSnZlLTlvc21jVGxWQXlhR2cxUzB2aF9WaHduRDdjcnFjYW9nOU5obkFyNHV2cjVQczF4MjZ5amFVUndZOWU3VEVzYVBwbVZIaDNFeWhuejktZ1MwTFVCT2gtaHQ4OUpSbGx6dHc?oc=5",
-      "snippet": "Supreme Court rules intimate partner violence can be basis for lawsuits &nbsp;&nbsp; CBC Landmark Supreme Court of Canada decision creates new tort of intimate partner violence &nb",
-      "pub": "Fri, 15 May 2026 14:21:11 GMT",
+      "snippet": "Supreme Court rules intimate partner violence can be basis for lawsuits &nbsp;&nbsp; CBC Supreme Court rules that victims can sue coercive and controlling abusive partners for dama",
+      "pub": "Fri, 15 May 2026 15:53:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Why the U.S. is noticing this Canadian security bill - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmJpRTJQLUNWSmg4WGNuaUJYbmxseXVMcFJESHU4NlFlTm1Rd1p5RXUwVG44X1NkeWJ2MDNmcGFCeUYwY1AtWnZXbUw3TDdXTVowSTBDQjNPZXViME5fTXJCNHNnQktRNVJtcTJ1bG90bENOc1pFdi14VGtQM3FNbC1fVEdlM2Y2NU14V0VMOVRIQQ?oc=5",
-      "snippet": "Why the U.S. is noticing this Canadian security bill &nbsp;&nbsp; CBC Signal warns it would pull out of Canada if made to comply with lawful access bill &nbsp;&nbsp; The Globe and ",
-      "pub": "Fri, 15 May 2026 08:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Legal experts weigh in on what’s next for Alberta’s proposed separation referendum - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTUzMGNGd19zTTJPbjlSeGJqUmU2eER1X0J1dl9TaVlRV2dXQ0NQeVg3ZWNfMVU1Q1pOTXZtZmxXZWl1dl9rWVQyc0dGWUFqZm1LdFZHM3YwaHA5ckE3bjJfUm5mQmI3b3FXQUNTNmkxd3dsT002YUx4N3NKZGxWYU9CaTUwNmRST3dMVjlZd0U1YUUxeFFYQnNqVWsyMkc4OHp0RHpVSGMzV0ZUSUR0NU14YURCWktD?oc=5",
-      "snippet": "Legal experts weigh in on what’s next for Alberta’s proposed separation referendum &nbsp;&nbsp; The Globe and Mail Alberta separation petition signature sheets remain locked up aft",
-      "pub": "Fri, 15 May 2026 00:37:51 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Why is the UK prime minister facing calls to quit? - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzU0I1TnBteWY0V3dJR2VXd0s1R0tjTTlJT1pTVUpfV185YjJ1UElQUlhlNjFvbnFoQXRxRkQ2bGRKTHNEVGJWaGZsSFE4NWs5WDN0N3lpZ0VzQQ?oc=5",
-      "snippet": "Why is the UK prime minister facing calls to quit? &nbsp;&nbsp; BBC Sir Keir Starmer has failed abjectly. He should go &nbsp;&nbsp; The Economist What you need to know about the ne",
-      "pub": "Fri, 15 May 2026 06:29:30 GMT",
+      "title": "Legal action looms over Nakba portrayal at CMHR in Winnipeg - National Post",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUnlfSGlVSW8xbk9XamQzdnc1enY2Z01IYkpVbDk5QWpsYTFCLWhMRDFGSnZfV3R5WjFtamNadWhLaTM5SXFxc1dkN1AwWHY1eWhpenpVNU1GUEp1RDdTSnBad0daOGRtTUM1eHA4aV9oZEkwS0p3S3I1YWhocnQtRk5vRFZUSnY2RlgxMzdaUEFjbEI2TUxRTjVQdC0?oc=5",
+      "snippet": "Legal action looms over Nakba portrayal at CMHR in Winnipeg &nbsp;&nbsp; National Post Legal threat issued over nakba exhibit’s portrayal at CMHR &nbsp;&nbsp; Winnipeg Sun",
+      "pub": "Fri, 15 May 2026 13:11:28 GMT",
       "image": ""
     },
     {
@@ -116,18 +100,34 @@
     },
     {
       "source": "Google News Canada",
-      "title": "B.C. symposium puts spotlight on dangers associated with strangulation - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZFF5WUNhUG9YNE1hSUtZRmxXSmlIQ2ZPdmUyd0VsMWZtMmIxOUNFbTZVSkw3eVdvYXAwYUNpODZ6eFZvelhBTG13b3FnRW9DNEpyNEE1RHJlWTFhN1AwY1diQXdudFdySGE0cU5wQTlGeVB5YmhSWEFROFRiTzZXd2FsTXZ5dFZZaV9IdGpRMXhXaXBZVGpYS1RnZk9zTDZXMENEQndxWTVCUQ?oc=5",
-      "snippet": "B.C. symposium puts spotlight on dangers associated with strangulation &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
-      "pub": "Thu, 14 May 2026 13:31:36 GMT",
+      "title": "Snow on the way for Calgary with up to 20 cm on tap for parts of Alberta - Daily Hive",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fak0tQ1ZfMTR4VkZaSHFWYnpCTDhpSjdkM2ZRTDJpXzJVQlptWkJNQUw3dHkzWTk1N0ctdDhMLUJENzFRV1d0ZHN4aUVmN0xOQzVNMkVaaTNwSHJ3NXpXUHgwVm8xTmszeEtOX1JqVXIwYVZvNHc?oc=5",
+      "snippet": "Snow on the way for Calgary with up to 20 cm on tap for parts of Alberta &nbsp;&nbsp; Daily Hive Spring snowstorm threatens May long weekend travel &nbsp;&nbsp; CityNews Calgary Co",
+      "pub": "Thu, 14 May 2026 22:55:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Snow on the way for Calgary with up to 20 cm on tap for parts of Alberta - Daily Hive",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fak0tQ1ZfMTR4VkZaSHFWYnpCTDhpSjdkM2ZRTDJpXzJVQlptWkJNQUw3dHkzWTk1N0ctdDhMLUJENzFRV1d0ZHN4aUVmN0xOQzVNMkVaaTNwSHJ3NXpXUHgwVm8xTmszeEtOX1JqVXIwYVZvNHc?oc=5",
-      "snippet": "Snow on the way for Calgary with up to 20 cm on tap for parts of Alberta &nbsp;&nbsp; Daily Hive Cool start, but a decent finish to the long weekend &nbsp;&nbsp; CTV News Spring sn",
-      "pub": "Thu, 14 May 2026 22:55:00 GMT",
+      "title": "'Not acceptable': AFN national chief decries timeline for Liberals' proposed overhaul of rules for major projects - National Post",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPREZyZXFDWGd5eUZLOGhMcF9JNUpkMEpTejl3LUloTDFMNk1uX09KbE5CZ2ZHMFNlVnl1bktCY25lNjZXTEpRTFBRUFY0WGE3dDdSWktSMlZwMTBIYmdheWhQX2J5R0pPR21QM0xJc2ZDMDBiRE0wRlJkSHJHUEw0S2p0bmZDREZSV3d4cjA4QWRvUGJtMzhjMGZSOHFKSFljem04LXJSMWx5ZEhVUzFhWXkyRnFHdkpaZll3WjVwNmRTRnNzV2o2T2gxM1NCNF9ZTWVlMEtHV2d4WWlUeVFBWjJn?oc=5",
+      "snippet": "'Not acceptable': AFN national chief decries timeline for Liberals' proposed overhaul of rules for major projects &nbsp;&nbsp; National Post See more headlines & perspectives on Go",
+      "pub": "Thu, 14 May 2026 17:48:20 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Legal experts weigh in on what’s next for Alberta’s proposed separation referendum - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTUzMGNGd19zTTJPbjlSeGJqUmU2eER1X0J1dl9TaVlRV2dXQ0NQeVg3ZWNfMVU1Q1pOTXZtZmxXZWl1dl9rWVQyc0dGWUFqZm1LdFZHM3YwaHA5ckE3bjJfUm5mQmI3b3FXQUNTNmkxd3dsT002YUx4N3NKZGxWYU9CaTUwNmRST3dMVjlZd0U1YUUxeFFYQnNqVWsyMkc4OHp0RHpVSGMzV0ZUSUR0NU14YURCWktD?oc=5",
+      "snippet": "Legal experts weigh in on what’s next for Alberta’s proposed separation referendum &nbsp;&nbsp; The Globe and Mail Alberta separation petition signature sheets remain locked up aft",
+      "pub": "Fri, 15 May 2026 00:37:51 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "OPP charge driver caught filming self on Hwy. 417 - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdnRzVHNaZ0w4S2FiaGVTQlJqdFpwNmJYaVZGc2FVOG5aYXE5M1plRG5CWDlmME1SRzFabXNRbmxqVmRfbnpDY2JjU0JWbXBFSGdTV3ZFei0xczFkZjJCRXlESFVsZGtKb0QxMFpWNTBCUEdHNDJvRzJHOWdiOVhmU01PQTZWV0hXMW5TYzVOVlU?oc=5",
+      "snippet": "OPP charge driver caught filming self on Hwy. 417 &nbsp;&nbsp; CTV News OPP nab driver filming themselves and Ottawa speeder &nbsp;&nbsp; CityNews Ottawa MADD, ICBC warn against im",
+      "pub": "Fri, 15 May 2026 12:15:24 GMT",
       "image": ""
     }
   ],
