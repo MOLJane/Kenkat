@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-05-15T05:06:38.753868+00:00",
+  "generated_at": "2026-05-15T08:19:50.165387+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "May 15, 2026 – Do you agree with the Prime Minister’s plans to connect provincial power grids from across the country?",
+      "link": "https://vocm.com/2026/05/15/may-15-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12922').",
+      "pub": "Fri, 15 May 2026 08:02:03 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/mark-carney-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Trump Claims China Eyes Major US Oil Purchases Following Beijing Summit",
+      "link": "https://vocm.com/2026/05/15/trump-claims-china-eyes-major-us-oil-purchases-following-beijing-summit/",
+      "snippet": "President Donald Trump said China is interested in buying oil from the United States, adding energy to the list of issues tied to the relationship bet...",
+      "pub": "Fri, 15 May 2026 07:04:25 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/04/7347748.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RNC Appealing to Public in Search for Missing Mount Pearl Woman",
+      "link": "https://vocm.com/2026/05/15/rnc-appealing-to-public-in-search-for-missing-mount-pearl-woman/",
+      "snippet": "Police are hoping the public can assist in their search for a missing Mount Pearl woman. Forty-nine-year-old Denise Taylor was last seen in the Blackm...",
+      "pub": "Fri, 15 May 2026 07:30:34 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/missing-woman-denise-taylor.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Hospital Road in Bonavista Closed to Traffic Due to Collision",
@@ -43,91 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/mark-carney-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Alex Newhook and Montreal Canadiens Head to Buffalo for Game 5 Tonight",
-      "link": "https://vocm.com/2026/05/14/299072/",
-      "snippet": "Alex Newhook and the Montreal Canadiens are in Buffalo tonight for game five of their playoff series with the Sabres. Newhook has scored six goals and...",
-      "pub": "Thu, 14 May 2026 14:27:29 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/newhook-canadiens.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "NLMA says ‘Significant Workflow Disruptions and Delays’ Reported Since Implementation of CorCare",
-      "link": "https://vocm.com/2026/05/14/nlma-says-significant-workflow-disruptions-and-delays-reported-since-implementation-of-corcare/",
-      "snippet": "The President of the NL Medical Association takes exception to the health authority's assessment that issues encountered by patients and doctors since...",
-      "pub": "Thu, 14 May 2026 14:05:02 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/doctors-office-medical-exam-hospital-nlhs-generic-2.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Contract Awarded to Rebuild Bridge Near Deer Lake Power Plant",
-      "link": "https://vocm.com/2026/05/14/contract-awarded-to-rebuild-bridge-near-deer-lake-power-plant/",
-      "snippet": "Government has awarded a contract to rebuild the bridge next to the power plant in Deer Lake. The new $14.4-million bridge will be built at a higher e...",
-      "pub": "Thu, 14 May 2026 13:35:49 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/tailrace-bridge-near-power-station-tch-deer-lake.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "A sacred Pearl Harbor site became the backdrop for FBI director's private snorkel trip - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYUR0aHNBMVFXR2Z0bEhjaS1fNDFuRXgxZjFrUERUV0JKUTFQT1JHTGJYeEI4YVZGTnhSZi1PMF9jdGNIa3lsa3FScjhBbTFIejRWQkppRF95UU9WTEV5YWZSWDRmUk5COE5HdTdvckR6dXdXMWc3YVdNLWNPMDQyelVwY2IwNmJ2azlF?oc=5",
-      "snippet": "A sacred Pearl Harbor site became the backdrop for FBI director's private snorkel trip &nbsp;&nbsp; CBC Emails show FBI Director Kash Patel's Hawaii trip included 'VIP snorkel' at ",
-      "pub": "Thu, 14 May 2026 21:44:18 GMT",
+      "title": "Independence referendums must respect Indigenous rights, Carney says - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNWZKdk0zSnViWVhPQV85QXRBeFFON25BSWtHcFJCOHJXa0lXNEhBSHpMM2Ric1NNdEFTRW5sbWU5dTdYOFd0akEzYlBCV1NSZHBRVDRqR3ZjRVFrV1FqeFdwV2MzeFlqZ2d0cVRrX29WV0Z6bTJ6d0hTc1ZxdUhEYWx6aDVBc2JDdzRwVjYzRG9CLVl1S2RoUE10dTRPQUV1bzlib2FJZkVDWDF0YVRFT2JDeUdabXF5LVEtUDA0cw?oc=5",
+      "snippet": "Independence referendums must respect Indigenous rights, Carney says &nbsp;&nbsp; The Globe and Mail For Danielle Smith and Alberta separatists, no clear path left for referendum a",
+      "pub": "Thu, 14 May 2026 17:36:11 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Latvian government collapses after Ukrainian drones strike oil facility - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRm90VXpQVDUxbkVYdEpyMXBENUV1czNZRUtXbDdhVGxRVk04eWFHQ2xWeUZZQlJvdVE2Rm9GOHZRZlVCSFQ2ZUx0ZDFWZ0Z2Qy1DazRTdnRmUmpQcl9VcEVjYnJxLU9LeFZ3TGl6bW52UXZzRmZ1bjVTYVVaS0VrTHg0d19qbDk3UEdqRTVnS3pjOUd1NUQ1WmdzSUlKbzhNYm5laGl3SHNzMEU?oc=5",
-      "snippet": "Latvian government collapses after Ukrainian drones strike oil facility &nbsp;&nbsp; The Globe and Mail Latvian PM Evika Silina resigns over response to drone incursions &nbsp;&nbs",
-      "pub": "Thu, 14 May 2026 23:17:30 GMT",
+      "title": "‘A lot of good has come of it’: Trump is bullish on China visit - Politico",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmtrbmhPWl9EcXplRFV5ODN2MU9uVjVJekJGT0VONmo2TnJ2WXd6ZUI4VFY1azFpa1pmYjR0R0pvbGktQ1A0TEhzNnFEZ09xSWt3YWZWRnFuU2pTMHJLTmpkckluVG4xOHZ0SGpwN2ItTmdQQ2djQWVNMElQeGlZTU9takZyV0FHZ1UzQTNyMDlmVm9fSExQVHlGWWh0MTZMTzVzU3RHQ3NHVENZakxj?oc=5",
+      "snippet": "‘A lot of good has come of it’: Trump is bullish on China visit &nbsp;&nbsp; Politico Trump China visit live: US president says a lot of problems ‘settled’, as he meets with Xi on ",
+      "pub": "Fri, 15 May 2026 05:27:10 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘No financial assistance will be provided by the Government of Canada’: Travel advisory issued to this region - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFZCai1JNUt1WEhJLVlIM0JfQlVuamZSSk9KMmc0dlllb3BHaDZyQkUweWo0NXRrQ0xWY25UdGhpaVRoQV9WVnJJNXltaThlTS11N241LVVkQlFWZkZjUmhndlZuRWtoQWtUS3Y0N21HWXAyVnBtRHF1WlV1ZktGdVdlQlNmMDRrMW00dlJKQWtUYko3eWM4T0dTS1puRkFvcE00R2VCOHN6VnZTQklYMkJ1cXJfams?oc=5",
-      "snippet": "‘No financial assistance will be provided by the Government of Canada’: Travel advisory issued to this region &nbsp;&nbsp; CTV News Canada updates travel advisories on key European",
-      "pub": "Thu, 14 May 2026 15:21:39 GMT",
+      "title": "Bell: Carney agrees! Sept. 2027, approval for construction of Alberta's west coast pipeline - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0ZMNmwzdDJVMWo2QVVZR0xIZWVIM2s3UUt5ZDhvMklTQXJrMU1DX3BwLUZRVXZHMzZFdnpSNFB0NlJHZXktR1R4TS1MamthM1ZrV0xpRFZNZTYwdk1FcGZmSloxLTVWMUtmVF9wTkRwMVh3TGZMZktRdklySktmMEp2eHJyU0FYbXl0QVdVcUpFZ0VaWTY1TkJWdUdOQ1lYSURjMHR6bmpWZw?oc=5",
+      "snippet": "Bell: Carney agrees! Sept. 2027, approval for construction of Alberta's west coast pipeline &nbsp;&nbsp; Calgary Herald West Coast pipeline is conditional on carbon-capture project",
+      "pub": "Fri, 15 May 2026 01:53:58 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "How Canada would be affected by what could be the ‘strongest El Nino’ in recent history - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd01RZS01aHRZZVF4ZGJsbjkyT2pRTXVLRURKSndTUGxMdDhFcjNqTEhpY1gxaEtabTdMNUtRbHg3UklWcUxnVGJjR1VuazEzMVgzYUdIOTFMMW5xeDd6aS1KLUFMQ3ViQnJ2NkNQdDNtWGdDTzMySzB0TUh0QUMzYlB4cnZWdUVMWm5xdmx0VlBIdw?oc=5",
-      "snippet": "How Canada would be affected by what could be the ‘strongest El Nino’ in recent history &nbsp;&nbsp; CTV News What could a supercharged El Nino mean for Canada? &nbsp;&nbsp; Global",
-      "pub": "Thu, 14 May 2026 16:34:04 GMT",
+      "title": "Snow on the way for Calgary with up to 20 cm on tap for parts of Alberta - Daily Hive",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fak0tQ1ZfMTR4VkZaSHFWYnpCTDhpSjdkM2ZRTDJpXzJVQlptWkJNQUw3dHkzWTk1N0ctdDhMLUJENzFRV1d0ZHN4aUVmN0xOQzVNMkVaaTNwSHJ3NXpXUHgwVm8xTmszeEtOX1JqVXIwYVZvNHc?oc=5",
+      "snippet": "Snow on the way for Calgary with up to 20 cm on tap for parts of Alberta &nbsp;&nbsp; Daily Hive Canada’s changing weather pattern for the May long weekend &nbsp;&nbsp; The Weather",
+      "pub": "Thu, 14 May 2026 22:55:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Father of boy killed in Edmonton dog attack testifies at owner’s trial - CBC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcG43SzhXa0t5TFlLbDlGeklsUVlCenQtZC1WcXBVX1YtRTNvcllTZWJpemhpU1RVaFZHYzlydk1uNFBlUkQ2d2dodUtabjc4cUZja0swMnQwZDZIOTcxWE4zc1o5ZEtuWDgtVVZSLXBWWmtqV2cwWkRUYTgwdkREcWU2M1liWVg4ODhLNnpRVHRZUXJ3TWFF?oc=5",
-      "snippet": "Father of boy killed in Edmonton dog attack testifies at owner’s trial &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Thu, 14 May 2026 23:05:00 GMT",
+      "title": "U.S. says dozens of illegal guns trafficked from New Hampshire into Canada - Global News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90YWZ3THdWT2VTV1BncklzNXZ6UXFLZWZfWEwwVVlsanNRVGJjdkZHZ1RsZURsaGV1cWNSSnBBUVY2bjlSS3ZZbE1NWGxLdl96TmNHV3dES3RVZTdXUkdPUURXWUIwUHJRNnJ6cWVRRm9sdGFJS240MnF4UzhrUQ?oc=5",
+      "snippet": "U.S. says dozens of illegal guns trafficked from New Hampshire into Canada &nbsp;&nbsp; Global News U.S. authorities charge 13 with trafficking guns into Canada &nbsp;&nbsp; CTV Ne",
+      "pub": "Thu, 14 May 2026 20:17:54 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Federal Court grants request to group constitutional challenges against new asylum law - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEk4WEtCS1d0NTlzS2NXYkZJaXRTa2ViRjIyR2N3V0R2N1pHeUxCSEdHd0JVQmlJZGJDNzdLTmk4NUVJakpBODAtdHp3NVJYc24tNGM0bFExQlFEemhiNnVZeGpwRzlYUG82clptZmFXXy00aEZVbWlSVXplMThYWVF3?oc=5",
-      "snippet": "Federal Court grants request to group constitutional challenges against new asylum law &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Thu, 14 May 2026 16:42:42 GMT",
+      "title": "Crowd on Parliament Hill for national pro-life rally told 'Canada must do better' - National Post",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2pmQ3o5RmlfcDk5THlET2F0UHR6SUp5WTZ4QlVjaWdzQzBHc1NyRDRfcFB4c2duOFZ3SzRXeGFybWFxN1RaU0N5R25ZV1AxcG1iWTMtU0tlcFpoYWREamFycTI5c0R0UW5KTElvTFRDbk5YbTI3b3NJVE1Pc1dOQnp6VVlXbEV5NkdrWVFyNEZta1YzRElWbEIxQV93NVY1Zm52OE93clVuZw?oc=5",
+      "snippet": "Crowd on Parliament Hill for national pro-life rally told 'Canada must do better' &nbsp;&nbsp; National Post Hundreds of pro-life supporters from Lower Mainland march at legislatur",
+      "pub": "Thu, 14 May 2026 22:52:53 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "CBC called out for role in prank interviews of Kamloops residential school grave critics - CBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01QVc4YVZSam9laGwwOXhzMUVNa01CcEktQmFSZFlTQ2tnUjJ0bUp3MUZaYkNXV1pPUUNHeFhSZDBjSFdSNXhMNFRhb3JINEdOQlJhajNoeC1ZcGFON1c5SDA3WXpFRXdqRDhHNlFGQVVORHNRRlg0?oc=5",
-      "snippet": "CBC called out for role in prank interviews of Kamloops residential school grave critics &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Thu, 14 May 2026 23:01:21 GMT",
+      "title": "About 1,000 people without power in Eastend, Sask., area as high winds make repair impossible | CBC News - CBC",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFdlbnR1dWVIcnk2OEROaVlhOGFkUWx1YkZidXBPYnJDUUtrN2RUNXc5LUppb2taLXBXMExQd1h4VjE4aDVPcXRnVWRPdC1SZFhCV2lQb1djZWN5VGg2NER1NTZ4YklzQzNwV2NIdXpfdFpaM0QyY0NrQXdoNTFiaWN1aE1uYVNnYnAwYkpyVklLWWw3UEJFcnN0cnRhN1duSHJhai02T19OYlhRaEhWRnVQTllrVGVYVm1JSkNfVzRYdE9odnc?oc=5",
+      "snippet": "About 1,000 people without power in Eastend, Sask., area as high winds make repair impossible | CBC News &nbsp;&nbsp; CBC High winds causing power outages across Saskatchewan &nbsp",
+      "pub": "Thu, 14 May 2026 17:08:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Vancouver mayor 'objectively harassed' city councillor, breached code of conduct, investigation finds - CBC",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ3NGNEw4UDJiSGNPUGVWcGgwMjJqQS1zM2RYVmRxZVBFWHZadVdkZFdmYWpfbnFkaktPa0NxN0kydVROd1N5UFBFVGJBWEJvWFN3UHJDZGxPOTI0WURCcC1FZUZ2OHZJSnZzUHRZeS1wLVozY1hmRjg1ZW9PWV9FRUxvNXpyZld0Tk0xZ3NNb2hYMzljZ3dFQTdOc0JoS2FWMzlRQy1tYmxPMHFWMzR0ZTV6cy1LOGJfYXp3bQ?oc=5",
-      "snippet": "Vancouver mayor 'objectively harassed' city councillor, breached code of conduct, investigation finds &nbsp;&nbsp; CBC Vancouver Mayor Ken Sim 'misused' power of office, harassed r",
-      "pub": "Thu, 14 May 2026 22:24:00 GMT",
+      "title": "Jeremy Hansen returns home with the Artemis II crew to talk not about science or space, but humanity - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2VibEFZT2haMEtZb2xhOThjZDNyUXVsTWhXUmxTeGZ6UnNybm1heV91N05QMUdwdEdGeVhldGsxUnVDV3RwakZ6RTEzOHVodWxYd0Uxc0dmd3h2cTBVdGFfU3duYjJrQU92QnFaYS1LTm5qR0tianB3YU1aV0k4Q081OC1xVFFiNFZsX2NxUWRha1lXd3VWSXNQRmo5SndHUkdzaWhfcFFSdDBlY28xd0daTnRuYzk4LWow?oc=5",
+      "snippet": "Jeremy Hansen returns home with the Artemis II crew to talk not about science or space, but humanity &nbsp;&nbsp; The Globe and Mail Artemis II crew recieve hero’s welcome at Canad",
+      "pub": "Thu, 14 May 2026 02:25:44 GMT",
       "image": ""
     }
   ],
