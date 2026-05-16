@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-05-16T16:48:13.351557+00:00",
+  "generated_at": "2026-05-16T17:48:52.738532+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Loss of Heritage Buildings in Harbour Grace Draws Criticism",
+      "link": "https://vocm.com/2026/05/16/299289/",
+      "snippet": "There is plenty of public outrage over the recent demolition of two heritage homes in the town of Harbour Grace, but some heritage officials say the i...",
+      "pub": "Sat, 16 May 2026 17:13:54 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/ridley-office.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Council of Canadians Pushes for National Pharmacare Access in Province",
@@ -59,35 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/john-hutton.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Opposition Leaders Demand Transparency Regarding MOU Review Panel",
-      "link": "https://vocm.com/2026/05/16/299261/",
-      "snippet": "We will find out the provincial government's take on the tentative deal with Quebec on hydro development in Labrador Tuesday afternoon, but the Libera...",
-      "pub": "Sat, 16 May 2026 10:12:48 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/08/churchill-falls-govt.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Eby says Ottawa is rewarding Alberta’s ‘bad behaviour’ with pipeline agreement - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tZzlBYUpOSUY3RXd3QTRBOXAtSmhjbGZqdTRwNUt3RGJ1djFXY0daeU9VS3lQU3lyNkVzWDRGTGFmZ2xmclZhZU5tWDBzQXRoa3ZsZi1yNTUzd0hnTnlWWkJQekwyZnh0SHgzb2JycDhuVlBsb1M4NTJB?oc=5",
-      "snippet": "Eby says Ottawa is rewarding Alberta’s ‘bad behaviour’ with pipeline agreement &nbsp;&nbsp; Global News New energy accord will ease concerns of ‘disaffected’ Albertans, Danielle Sm",
-      "pub": "Fri, 15 May 2026 22:58:19 GMT",
+      "title": "The $600M cost of Danielle Smith’s carbon deal with Ottawa - National Post",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc2xzT3IwQ2JmZk5udkN0Qld4Tzg1djIzYlZ6Q2ZsVkRFXzJmQVppUUVWQU1WYVg0Wm5KR2VQek9ZRER5bG5Kdjh2VHBYSDVuQUJaNENNZkhoSFJYakJLZnZTY1ZndEJucEhyczJnUEtTbmJvcGtIYm4yaEplNDVmR2ZLckxTb1YwYnpBTmxSbw?oc=5",
+      "snippet": "The $600M cost of Danielle Smith’s carbon deal with Ottawa &nbsp;&nbsp; National Post New energy accord will ease concerns of ‘disaffected’ Albertans, Danielle Smith says &nbsp;&nb",
+      "pub": "Sat, 16 May 2026 11:03:47 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tLXJqZ0xaMVFCbVJhMnhqdlZWRXByanJ6Y0lXdzRLbmd4T1VhOEFid1pqbnp4SG5CVlJhSTBUdDViblMwOGdMTGN0cUstUzhXb254TnZ4STBmUQ?oc=5",
-      "snippet": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves &nbsp;&nbsp; BBC Maldives diver dies in operation to recover bodies of Italians from cave &nbsp",
+      "snippet": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves &nbsp;&nbsp; BBC Maldives rescue diver dies in search for missing Italians &nbsp;&nbsp; CTV New",
       "pub": "Sat, 16 May 2026 15:01:40 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Major Canadian online privacy company plans to leave country if lawful access bill passes - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFVQd25LTkkyb3JrbWJURVZENENVdklKckFMSFNQcmV1YzB1dF9hT3JGY1JMdGFwTDZLSi16am9zY0ZCWDg1c01mUWdvazlmSm54c3dPTndiTlFtZHpYZnVDQlVjcVJVZWY0dllkTDFEVWJSLVpKMF95bGtsX3JSOENHRGIwbF9Ud0R4RHRYOGFSNTFLM0Jqa25R?oc=5",
-      "snippet": "Major Canadian online privacy company plans to leave country if lawful access bill passes &nbsp;&nbsp; The Globe and Mail Why the U.S. is noticing this Canadian security bill &nbsp",
-      "pub": "Fri, 15 May 2026 23:13:31 GMT",
       "image": ""
     },
     {
@@ -100,34 +92,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Schizophrenic man who stabbed stranger at Toronto Tim Hortons gets absolute discharge - National Post",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHlPVUZ4d1NaZXEwem92ZlZ5MXg5WHJELXlaS2oxOXlNU3JBZDJFOE5jUmVzVmFOSmF3WUVta0hQaHp3S2RXSTdvVFlxUmhCSGl6ako2ZVloUXhFTlFGZXg5ZUZhelZYeDQxN3YtRE9Zb3RmQnRpUGxKVnFzSDVjcEI3WjBxWGk5dnBzOERuM2VpSjN5RHhSMXdvS0ZuZzF1bWcweFBpSQ?oc=5",
-      "snippet": "Schizophrenic man who stabbed stranger at Toronto Tim Hortons gets absolute discharge &nbsp;&nbsp; National Post",
-      "pub": "Sat, 16 May 2026 10:32:47 GMT",
+      "title": "Major Canadian online privacy company plans to leave country if lawful access bill passes - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFVQd25LTkkyb3JrbWJURVZENENVdklKckFMSFNQcmV1YzB1dF9hT3JGY1JMdGFwTDZLSi16am9zY0ZCWDg1c01mUWdvazlmSm54c3dPTndiTlFtZHpYZnVDQlVjcVJVZWY0dllkTDFEVWJSLVpKMF95bGtsX3JSOENHRGIwbF9Ud0R4RHRYOGFSNTFLM0Jqa25R?oc=5",
+      "snippet": "Major Canadian online privacy company plans to leave country if lawful access bill passes &nbsp;&nbsp; The Globe and Mail Why the U.S. is noticing this Canadian security bill &nbsp",
+      "pub": "Fri, 15 May 2026 23:13:31 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Governor general strips 2 Order of Canada appointees of their honours - CBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yTDQ0eF9zeW5RMURhOWVqVVJmX1Bvci1TTlJqV1JiRGh4MWoxTTVVVnVCSGZTVExZdXRHcXRxWWRaVlFLLXUxc3ROMUkxSlJxOUNXWGFrTEJoNG9XRDVkaUE4NGxqV3JDOWIxSXFpeUlYV0hNLUFPZ1Jpdw?oc=5",
-      "snippet": "Governor general strips 2 Order of Canada appointees of their honours &nbsp;&nbsp; CBC Two Order of Canada appointees stripped of honour &nbsp;&nbsp; The Globe and Mail Ex-SNC Lava",
-      "pub": "Fri, 15 May 2026 21:36:32 GMT",
+      "title": "Man killed by 13ft great white shark in Western Australia - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DMUhvV3I3aHcwdnI5eFlQUElVd014ZmNCcXJuakgyZk5ZS19kZWJiQkwtS2tISXpBeDZKVHZxcXB3aW14R2FHOC0wTTdnUWJLWUFUUXM4SXhjQQ?oc=5",
+      "snippet": "Man killed by 13ft great white shark in Western Australia &nbsp;&nbsp; BBC A shark fatally mauls a spearfishing diver off Australia's Rottnest Island, police say &nbsp;&nbsp; CP24 ",
+      "pub": "Sat, 16 May 2026 07:04:36 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta's separatists hit by legal setback as Carney seeks unity - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNGNuWW15Qk5BYzFnQnVxLTRGZUhKMjFlRktqNGZSbXd6YjQ1Vm0yMnBiNHRJYnBDeUJYNVdhbVhmUWNDdU1pbUY1bHhtV3dDRVpxenZpaFVsR1doR3lBRUJRM0d6dGZScG5TRXZiUzJDYXVxdjdCSDZ2MWFrZjE2UVdyaW9kT2hGaUxSYWhwSVN3UnN1VnE3RGNrSVBucHM0eDV3eQ?oc=5",
-      "snippet": "Alberta's separatists hit by legal setback as Carney seeks unity &nbsp;&nbsp; Reuters Legal experts weigh in on what’s next for Alberta’s proposed separation referendum &nbsp;&nbsp",
-      "pub": "Fri, 15 May 2026 21:03:35 GMT",
+      "title": "10-20 cm of snow and thunderstorms mark Alberta's wild long weekend - The Weather Network",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGtSN3BlelpEQzkta050Qk1BTUkyZURQVFZ2dEpkcmQ4NFhCUWJFUmx5QTFYdkNMMUxBT05lSzFQSkJYVjV5MS1FMTU1S18xbklVSzcwdkhQUXdab2xBNW5sdGdocVBsQ0thbko0eng3ZnFSV05SaWhyUk1uY0FDbGZJa0RqSkt5bkRvMUZMaXJpeWVMZDdhYWd3VDBqd0o3Y3U2SUNPTWFYQ081azA4ZmFSUEFGX19nOTBxSTU4N2pDTmVw?oc=5",
+      "snippet": "10-20 cm of snow and thunderstorms mark Alberta's wild long weekend &nbsp;&nbsp; The Weather Network Snow warning still in effect for Allison Pass, Pennask Summit and Coquihalla &n",
+      "pub": "Sat, 16 May 2026 10:39:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Campers ready for whatever Mother Nature throws at them with snowstorm forecast for Alberta foothills - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRnlxUFpVQ3hET2paellPdlpEN01SUHloWF9qNE5fS1VaMVhUS1hYUy1ES0J2UWRsMUZYRFlDd2FQQWREQ29hR1ZpdzBULUlvbHBJWjNTVlZQc2swRHYtY0xMbzQ2a0p1SG9RYUozM0xCakx0Y2VSeFI0SHEtMzFWZktZbU1URHNYWEdiUHJST0pMQ1FyX1JjODE4ZmhQMno3cFd6aC1VQ2xjN2QzbzRKZVY0NldzTXF5WmlhUHc5RkZ0Q0swRzZ1MG1jVDhyMzZhNXBOQXEwTDc?oc=5",
-      "snippet": "Campers ready for whatever Mother Nature throws at them with snowstorm forecast for Alberta foothills &nbsp;&nbsp; CTV News 30 cm of snow to 30 C: Long weekend weather varies great",
-      "pub": "Sat, 16 May 2026 00:55:00 GMT",
+      "title": "Legal, political battles escalating around Alberta separation petition as pipeline timeline enters debate - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYkhFcjI2dW5lbWY1OUdYcHJSNVVNRVFUdGNuTDFpUkt0OV9jQXRFbmdWcG1uUi1HYWU1V3NKRFdVWUxESno0VEdKZmVPWEh4VlpVNERZbHlxSFNILUdaY1VGRnFmbEF1bmpVZlZhbEU0TmljdDFBSWxrMHBiSDVPZGVHb3FhZENjT1RRX0QzRC05bXpiMlNtUXJidGtPOEtOa0dxQXVrLUVWU2o2TDhKVXZHTmpBV1FKakk2VEZ2VlJZS2JMd0FmUW5jNGtraGp0ODRGcjRJbVRjTVJi?oc=5",
+      "snippet": "Legal, political battles escalating around Alberta separation petition as pipeline timeline enters debate &nbsp;&nbsp; CTV News Separatist leader appealing court decision on Stay F",
+      "pub": "Sat, 16 May 2026 01:49:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Canadiens playoff run has increased ridership on Montreal's light-rail network - Castanet",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSS02Rmpoc2JzdTZSYjVRamQ3OE1Ydk91alA1TU5DQmhfU1RES1otZ1ZzbDZUeXdBUmdmNzkyMGpvLUQxSjZnQ2ZjOFU1UFA0TXEwS28tLUtLT3VETHhTR0twUThJejh3ajRHdkhXazhQdFZidDVxRE5OLXhSdnVtbTV4R3UxcWpZZUd0OFpFb0RTUDluMXBmOWNwT1FMRzRYaHByaWJNU1lNUGhQdnNyR2VOY2JRaG5YZjVKTURZQQ?oc=5",
+      "snippet": "Canadiens playoff run has increased ridership on Montreal's light-rail network &nbsp;&nbsp; Castanet REM billed as 'game changer' for West Island: What to know about the new light-",
+      "pub": "Sat, 16 May 2026 13:38:00 GMT",
       "image": ""
     }
   ],
