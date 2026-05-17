@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-05-17T05:58:55.703287+00:00",
+  "generated_at": "2026-05-17T08:23:34.594598+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "May 17, 2026 – How have you been spending this Victoria Day long weekend?",
+      "link": "https://vocm.com/2026/05/17/may-17-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12928').",
+      "pub": "Sun, 17 May 2026 08:00:24 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/08/Fire-bonfire-campfire.jpg"
+    },
     {
       "source": "VOCM",
       "title": "St. John’s Expects Ten Thousand More Cruise Visitors This Year",
@@ -59,14 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/rnc-royal-newfoundland-constabulary-metro-police-crime-cop-car.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Local Robotics Team Earns Spot at World Championship in St Johns",
-      "link": "https://vocm.com/2026/05/16/299271/",
-      "snippet": "St. Mark's in King's Cove may have just 20 students, but its robotics team is off to compete in the MATE ROV International Championships after placing...",
-      "pub": "Sat, 16 May 2026 12:25:13 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/st-marks-robotics.png"
-    },
-    {
       "source": "Google News Canada",
       "title": "Bill Cassidy: Republican senator who voted to convict Trump battles for re-election in Louisiana - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wVDVXREFrcG5ycWdzOXJVcl9kRHJHanZvaXZXSDQxVzNlZ0MzTE1ueXVGOUNwVHdWOENFM21XUU5qaHVNT2wxNC1VOXlFUms3T3ZXT2FxOEVqUQ?oc=5",
@@ -76,18 +76,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Canadian mushroom growers warn new U.S. tariffs could ‘flood’ domestic market - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGxkMWZnUm1vSjhXOFRMRFBzbUdoWGZJeld6MmtJV1Y4bDRUTWx2b3ltNF9xaG1wckNXTVZOSXRBQ3dhamZYZFhmT3pPTXAwNlVEXzNBVVVVZmRjWnZRWGRpM1U2Si1uVDZja3pPTXBtVG1LaU04QUhDMlB6ZzV4amtTdlBpc2t6V0VVb1VRRm9vUQ?oc=5",
-      "snippet": "Canadian mushroom growers warn new U.S. tariffs could ‘flood’ domestic market &nbsp;&nbsp; CTV News U.S. to slap tariffs on Canadian mushrooms as growers warn of broader risks for ",
-      "pub": "Sat, 16 May 2026 23:49:13 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada confirms first hantavirus case in isolation in British Columbia - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDNheS1KQm5zRXhjWk5QSmlYbWd3dU41TmJZUHNvSnhGTFJkZ0prUWh6UlU3elZwZzAxVzdHVExwMDNoRTl0eElsUjNpR3FsOEsxWWR5c0hWU0Z5NFd0NVczczFYTWdUZUJmazlTWV9WeWJFRFdzTUdPbnFNWU1FMHVKcUtNbURfdEZrbnpJekdYZ3lOMkE?oc=5",
-      "snippet": "Canada confirms first hantavirus case in isolation in British Columbia &nbsp;&nbsp; The Guardian Canadian cruise passenger isolating in B.C. tests 'presumptive positive' for hantav",
-      "pub": "Sun, 17 May 2026 01:30:00 GMT",
+      "title": "Canadian cruise passenger isolating on Vancouver Island tests positive for Hantavirus - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUFmUXdWX0lCNEFMYkZvMmQ4eHlFUzNyTjhTUVVXaFBKeWxpVWhTNkdpV0lGUTc4VHJ5aG55d2lCM2toczg5akpFUkh0dUJBdlV4ZkZNdXVlN3lGME9vNElCdmZUMHdnZ19MU0prdDhtRk8yQl9USUQxam5TS3dNWHlIblBFcUpHbFJ2cUFWTVFzTnVpSnF0WlIyYWxINmFKOVNhTUtHZEd3Q2hSZVd6M1N3UmtzZw?oc=5",
+      "snippet": "Canadian cruise passenger isolating on Vancouver Island tests positive for Hantavirus &nbsp;&nbsp; Vancouver Sun Canadian cruise passenger isolating in B.C. tests 'presumptive posi",
+      "pub": "Sat, 16 May 2026 20:00:58 GMT",
       "image": ""
     },
     {
@@ -100,10 +92,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Another man has died while waiting for care at hospital: Alberta Medical Association - Global News",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DUklQbTVKMkc1M2h4bTNtUUVMcW5WUmZRNDdEUkl6V2x2SGRvR0lFVmtUMDFtZWlHczF1S1Z3Wnl6X2JmanB1Y0V0UXRPNXNZTDVNTW1VWk1vU3laX0FnS3NDNUJjMFZZZkVzQjBrbnJzV00?oc=5",
-      "snippet": "Another man has died while waiting for care at hospital: Alberta Medical Association &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
-      "pub": "Sat, 16 May 2026 22:01:13 GMT",
+      "title": "WHO Declares Congo Ebola Outbreak Global Health Emergency - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWNlazdYODhFalhXdFVEWXFoVENoOGh2QTB0RXFYblJfRjdsY2d1OXRYZEdaTGxvSFpTVVBhek8xTEZ5ejl5Qjc5cjktZjZUUHFkUTZvVDQ0cU1KS3I4S1ZKM3dzTENJZW1tYUhxMTNkTmFYcWEtajhycXY0cDNQMThmMXRpZVFDWlZ4anFCTVlvY0htcWEyazM5WW1SN2E0ckhVNHUtZERSRVZyMlBuM0paMnBXUQ?oc=5",
+      "snippet": "WHO Declares Congo Ebola Outbreak Global Health Emergency &nbsp;&nbsp; Bloomberg.com WHO declares Ebola outbreak in DR Congo a global health emergency &nbsp;&nbsp; BBC World Health",
+      "pub": "Sun, 17 May 2026 02:16:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "B.C. energy minister says Carney making national pipeline deals without involving other provinces - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdzFrZ2pYeHpkU1FiV04yWmg0SlJEbTJYRTlCVHJzQ1kxRC0tTDI2VHAxV3o1NzNyWTVVWEgtX2lBLWZDbDNmT05zQjNJQnFUOEgwcll2T2FiNURJWHpzVDhKX3lCLU5KbzNFekJjT001dnM4WGJRcXltekZEMmNrWnAxaVB6bHI0UWg2QjdZVE5DUnR0T0VoVTEtLWphQUtxeWc?oc=5",
+      "snippet": "B.C. energy minister says Carney making national pipeline deals without involving other provinces &nbsp;&nbsp; CBC New energy accord will ease concerns of ‘disaffected’ Albertans, ",
+      "pub": "Sat, 16 May 2026 01:07:00 GMT",
       "image": ""
     },
     {
@@ -116,18 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Carson Jerema: Carney ensnares Danielle Smith in pipeline blackmail - National Post",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRW5DT1RLUG1RVFd1enFlRFduY1FOY3hBa2Zsc09QWERaMHIweGxGWW1OWlR4SmREV2NOVlV6VlRtaUxGMzZDZXBqM0l2elVEYU0zOFhsQTJWMTh0TnJ0ZndYbmNyWUtsVHlLWXF3UUhsRlloTGlWRUY0S0ZkYkhVQlE1SE92OEVUM1R2UDNwTVdHUER2VzREVTRpRVp4OGh3?oc=5",
-      "snippet": "Carson Jerema: Carney ensnares Danielle Smith in pipeline blackmail &nbsp;&nbsp; National Post New energy accord will ease concerns of ‘disaffected’ Albertans, Danielle Smith says ",
-      "pub": "Sat, 16 May 2026 10:04:29 GMT",
+      "title": "Another man has died while waiting for care at hospital: Alberta Medical Association - Global News",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DUklQbTVKMkc1M2h4bTNtUUVMcW5WUmZRNDdEUkl6V2x2SGRvR0lFVmtUMDFtZWlHczF1S1Z3Wnl6X2JmanB1Y0V0UXRPNXNZTDVNTW1VWk1vU3laX0FnS3NDNUJjMFZZZkVzQjBrbnJzV00?oc=5",
+      "snippet": "Another man has died while waiting for care at hospital: Alberta Medical Association &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
+      "pub": "Sat, 16 May 2026 22:01:13 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Separatist leader appealing court decision on Stay Free Alberta petition - CBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVlQQ0Y3Y1FYRmczVnhtN3NjVUVUUVRuUWlzNXpSbWloc3JBdHlNUDVaYUZhbmFST2dqbUJPVmI3QnFnR0Q0QjJCYkZXdncwUUptWWRSMnNUZGYtcUUyZS1iSm1yQVl3aFpKcDA4QUtRS2phc1drd2d0eUtrbEJJYlpDVzRXeW5qOGJTZ1hmUElqRE8zTkJWQVAwU05ka0hU?oc=5",
-      "snippet": "Separatist leader appealing court decision on Stay Free Alberta petition &nbsp;&nbsp; CBC Legal, political battles escalating around Alberta separation petition as pipeline timelin",
-      "pub": "Sat, 16 May 2026 23:15:03 GMT",
+      "title": "Alberta Premier Danielle Smith defends decision to appeal court ruling on separatism petition - Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0xta0pzdFUycnpuTlRjVi1Zb1B1YmFPdDlxQURTT001bW9yYkdSanVnVUxZWGJKVW90aXBleGNibFF2X3F6NXFhX2hicWRXQmtaeTFLNWNWUDcwZDdBWENqMGkxa256XzBESVFGVHRlNUZCQlBacTI2TjhtS1pLbkVDWnhwWE56bWd0QTlxWHB4a1RQaXVJM0xNQlFnTzRaNzl5VnJ2eVR4TWs?oc=5",
+      "snippet": "Alberta Premier Danielle Smith defends decision to appeal court ruling on separatism petition &nbsp;&nbsp; Edmonton Journal Separatist leader appealing court decision on Stay Free ",
+      "pub": "Sat, 16 May 2026 19:03:59 GMT",
       "image": ""
     }
   ],
