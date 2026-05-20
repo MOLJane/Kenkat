@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-20T04:42:53.570158+00:00",
+  "generated_at": "2026-05-20T08:20:19.634780+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "May 20, 2026 – Do you agree with the provincial government that aspects of the hydro deal with Quebec should be renegotiated?",
+      "link": "https://vocm.com/2026/05/20/may-20-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12937').",
+      "pub": "Wed, 20 May 2026 08:01:47 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/churchill-falls-review.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Ukraine Outpacing Russia in Battlefield Innovation, Says Ex-U.S. Official",
+      "link": "https://vocm.com/2026/05/20/ukraine-outpacing-russia-in-battlefield-innovation-says-ex-u-s-official/",
+      "snippet": "Russia's war in Ukraine is entering a more difficult phase for Moscow, according to Brett McGurk, a former senior U.S. national security official who ...",
+      "pub": "Wed, 20 May 2026 06:43:46 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/05/606411032.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Southwest Coast Communities Seeking Changes to Food Fishery",
@@ -51,35 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/collis-parsons-building.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Man Sent to Hospital with Serious Injuries Following Home Invasion on Barachois Street",
-      "link": "https://vocm.com/2026/05/19/man-sent-to-hospital-with-serious-injuries-following-home-invasion-on-barachois-street/",
-      "snippet": "A 45-year-old man suffered serious injuries as the result of a home invasion on Barachois Street early Saturday morning. It's the same area where a be...",
-      "pub": "Tue, 19 May 2026 17:16:36 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/img-7976.jpeg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Innu Nation Urges Government to Finalize Churchill River Hydro Expansion ‘As Soon as Possible’",
-      "link": "https://vocm.com/2026/05/19/innu-nation-urges-government-to/",
-      "snippet": "The Innu Nation is encouraged to hear that the Premier is seeking a better deal on Churchill River hydro expansion, and it wants to see the parties in...",
-      "pub": "Tue, 19 May 2026 17:12:40 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/churchill-falls.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Xi and Putin meet in Beijing days after Trump's visit - follow live - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4ZUJlSDRYa3htVzR2enBZZkh3OGVDd3BZUE02aDlRaDVWUGduNjVNSklSQ1VYTmo3NlZtMy1nazA5RGZzeW8zWmVLTklXX3NYZ0tkaA?oc=5",
-      "snippet": "Xi and Putin meet in Beijing days after Trump's visit - follow live &nbsp;&nbsp; BBC Putin hails ‘unprecedented’ ties with China as he follows Trump to Beijing &nbsp;&nbsp; The Glo",
-      "pub": "Wed, 20 May 2026 02:15:06 GMT",
+      "title": "US President Trump, family granted immunity from pending tax audits - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUEpVTzJkYWtkX25mVEFLZTlSU3ZFeVdaRzRzOTNMSUdKbC1ZTDVVcmlpeVRCQjVzT0NnbkdDLURMdUJFeXNOanpKSjRJMl94WWc0NjVKN1hFU0Z6NE1uTmx0c2hsaFdmNzZmTEplNm8xNlhTNHFyUEpnR0JQVG1mei1MZko0eXpfdDdZVjJLODVVWUtOZ1VWajhtcTZaRXQ1SExhUmg0SDFIMlZVZmfSAbMBQVVfeXFMTW9OVDRiWTVhVFV2MGpVS2dmMmpDa2JiV2pkejNPcV9PcmtuU21kRDNQcFZrNGJuY1VMU3ZQTGMwdVgtbVFqMFpOeU9UZzJFeG1ReEVMTndydUxQb3Q1NWVTNmR5QW5iUnJjdDZSTENrblF4QWNTbVk4dzBFU0RscWZYeHR2di1jR2pSM09jeWdDck5SQXM1QmM1UGExVU5JRm9ULV9fUVJUeVZPVEZqTy05Mjg?oc=5",
+      "snippet": "US President Trump, family granted immunity from pending tax audits &nbsp;&nbsp; Al Jazeera Todd Blanche grilled over Trump administration's $1.8B 'anti-weaponization' fund &nbsp;&",
+      "pub": "Wed, 20 May 2026 05:15:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "US President Trump, family granted immunity from pending tax audits - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUEpVTzJkYWtkX25mVEFLZTlSU3ZFeVdaRzRzOTNMSUdKbC1ZTDVVcmlpeVRCQjVzT0NnbkdDLURMdUJFeXNOanpKSjRJMl94WWc0NjVKN1hFU0Z6NE1uTmx0c2hsaFdmNzZmTEplNm8xNlhTNHFyUEpnR0JQVG1mei1MZko0eXpfdDdZVjJLODVVWUtOZ1VWajhtcTZaRXQ1SExhUmg0SDFIMlZVZmfSAbMBQVVfeXFMTW9OVDRiWTVhVFV2MGpVS2dmMmpDa2JiV2pkejNPcV9PcmtuU21kRDNQcFZrNGJuY1VMU3ZQTGMwdVgtbVFqMFpOeU9UZzJFeG1ReEVMTndydUxQb3Q1NWVTNmR5QW5iUnJjdDZSTENrblF4QWNTbVk4dzBFU0RscWZYeHR2di1jR2pSM09jeWdDck5SQXM1QmM1UGExVU5JRm9ULV9fUVJUeVZPVEZqTy05Mjg?oc=5",
-      "snippet": "US President Trump, family granted immunity from pending tax audits &nbsp;&nbsp; Al Jazeera Justice Department expands Trump settlement to cover his tax audits &nbsp;&nbsp; Politic",
-      "pub": "Wed, 20 May 2026 02:13:28 GMT",
+      "title": "Vladimir Putin arrives in Beijing for state visit hot on heels of Trump - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTUZpdXRZME9XUjdrTE1IVFhpcVk4djJZeXVDSmk5Zm42cjA5Q3ZXRDVPQXFwT25nWnJqMDBBMkNVY2p4M05PMTFnSGwtVnZjeUdmSTVBSXZOQ1R0dE14amdobTVvS3BNNUc4alFFTVg5UkVaRDZydFBLUjFOVGNGMzRsYnVpdTd4N0QyUndsNzFqeThKWGJfNExoaWRFX3hDWGlzZ1ZWRQ?oc=5",
+      "snippet": "Vladimir Putin arrives in Beijing for state visit hot on heels of Trump &nbsp;&nbsp; The Guardian Putin tells Xi Russia-China ties have hit 'unprecedentedly high level' &nbsp;&nbsp",
+      "pub": "Tue, 19 May 2026 13:24:00 GMT",
       "image": ""
     },
     {
@@ -92,14 +92,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Carney says not to ‘overplay the importance’ of paused U.S. military board - Global News",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iWFlBa2hGZ2pTRTRsLWZrRWNVbTlTTkpxQXRmeTU5QUdrbTZFb2VVbDVONjUzQnNtMWR0azhWWlFmV0JpUFlSb05YLU1XZ1pPY0k2dDExWWxZV2hLclJxbXBBVU1QMTViWWNodllBWUliYjhP?oc=5",
-      "snippet": "Carney says not to ‘overplay the importance’ of paused U.S. military board &nbsp;&nbsp; Global News Opinion: With its pause on the Permanent Joint Board on Defence, the U.S. is att",
-      "pub": "Tue, 19 May 2026 17:42:51 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Severe thunderstorm warning moving across Southwestern Ontario, with 'destructive wind gusts' expected - CBC",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWjhKd0N3Y3F3STNyVXo2TS1IM2RBdjFLYllwVEVHclZta1BKS19pQWpjX3pPa09QcmtkUGtVRW92QTk0VER2ZlpGbHVvLThrd2VkMXU1V0pMeWo4M09MRTBfU1dKMzFHYlI0d0NQeS1qdzhEWUVqUHN5NUY5cnA4VXBpdEhqbkdLUG1sUnY5NkJnTjQ0Skt5UUJkNlhzMmNlRE9DNi15YklWT2NoODQwLW1rM2VlVll2LXQ0YWFpWWZFTU5IMHN6MGYtZkdqU2twV2h0anFlcnFZZGhXUnVTVA?oc=5",
       "snippet": "Severe thunderstorm warning moving across Southwestern Ontario, with 'destructive wind gusts' expected &nbsp;&nbsp; CBC Weather warnings issued across parts of southern Ontario as ",
@@ -108,18 +100,26 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Man facing slew of extortion-related charges over incidents in Surrey and Abbotsford - CBC",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVl6UUlkOE1HVGEtLUN1RWxHU2tJNnpwcWpJSWFGYlpxZDl1U3RONXJVbXFMVWFsempRaWtyb3Nfem1EYXF0MFVxMzVoN0ZyWXRHS1NhU3ByU3RBZEVOX2tMSjlzTEFibWZxSXhJNEdfYVRhVzVaZkFDdmlodmd2Tkpramlla1prWUp3NlFtWXVtNHQ4NnV4bw?oc=5",
+      "snippet": "Man facing slew of extortion-related charges over incidents in Surrey and Abbotsford &nbsp;&nbsp; CBC 15 charges laid for extortion incidents in Abbotsford and Surrey &nbsp;&nbsp; ",
+      "pub": "Tue, 19 May 2026 22:22:36 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Flotilla organizer confirms identities of 12 Canadians detained by Israel - CTV News",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSUxJN3RpLXZHVGlCb1BhcjUxZmpmT0NPYWR1c3JjTUMtaFowX1oza2RndnF4bjJpaDZ6UGJXekd6NG56MlFwd0FsUDBqSEJydC04Z0dPRWIyZUh5aWdoREJrcU4zYVVvSXlBZXJvejByTVoyQmVxeFlrbFc5TXU5aEhOZ3F3WmpsR2M1eE11NEdBQlRCcDJJUDQ0cE9NeUJvZ3I4Z1U1WWJqOWZ0R3F6Q2F4UVZnUmNCWE1jUjJpWFB4ZGNsX08xZ3FsS2U?oc=5",
-      "snippet": "Flotilla organizer confirms identities of 12 Canadians detained by Israel &nbsp;&nbsp; CTV News Israeli forces fired shots at Gaza aid flotilla vessels, video shows &nbsp;&nbsp; CB",
+      "snippet": "Flotilla organizer confirms identities of 12 Canadians detained by Israel &nbsp;&nbsp; CTV News Israeli detention of President Connolly's sister 'unacceptable' - Irish PM &nbsp;&nb",
       "pub": "Wed, 20 May 2026 00:46:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "'Good to be back': Sixties Scoop survivor raised in U.S. reunites with siblings in Winnipeg - CBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXZHa3BxNElsLVZMdGxyeEE3aTBOTHoyd1h5TGhlU3FHcVU5RHo2azFsVEZaSklCTnZ0aGI5Ukp4SzJDSDhSRmY0R0draXBhb3VYWEVLcHN0R2NxNnMtZlNyQlZoVkstb084ZjNhLTlnNUpLb29wb2VyX0JUNDVfSnNJc3JrcVQtUzZFQmdQdmlKeE03VXJsbmNGN21BOFNJ?oc=5",
-      "snippet": "'Good to be back': Sixties Scoop survivor raised in U.S. reunites with siblings in Winnipeg &nbsp;&nbsp; CBC Sixties Scoop siblings reunite in Winnipeg after decades apart &nbsp;&n",
-      "pub": "Tue, 19 May 2026 12:58:30 GMT",
+      "title": "Sixties Scoop siblings reunite in Winnipeg after decades apart - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDEtQlluRUZ2VUttanRrX1gwQTFzd0w0U1UtbWhtdTVkM2wxVWxPa2paRVpxYjRDbFAxWENlSGlyU1pELW5Xd3VGZEhaa01iQ0FkZGVLbjFRekxQYzZmLXhHeWFjQkhNN1RJV3JkN3Nrb3V1RlQ0YUlHMWhoWVU0U3N5VS1ENnVJa2FUa3gzcXFDQjl2QldIOHJkZGpJSWZQOEVaWi13?oc=5",
+      "snippet": "Sixties Scoop siblings reunite in Winnipeg after decades apart &nbsp;&nbsp; CTV News 'Good to be back': Sixties Scoop survivor raised in U.S. reunites with siblings in Winnipeg &nb",
+      "pub": "Wed, 20 May 2026 00:36:00 GMT",
       "image": ""
     },
     {
@@ -127,7 +127,7 @@
       "title": "Saskatchewan open to talks on industrial carbon tax, 'refining' the deal struck with Alberta, Moe says - National Post",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTFRYX1R0RnJfaVN5LVdXY2hiWFIzQWdHN1pRbmRoalNRc2ZkaG9abDRyTkIya1RYN0RzSk5GdnJEdXd2Qm91RjZIV191T2FPazVKZF92MGNDak5VUGNpa0NHSklURHo3Sk8xNmtlajdfMGY2dU04NTY3WGJmT0JtOXR6WXhuNVduSURaVVh4VDhoV0JjMUlJci05WkF2dG5Nd2I3V2IwcG5xcmdXb1ZFOUZVRHNrQnNtSjFSRzQ0TXZXYUh6WFBSTUlSRmJIT1Mz?oc=5",
       "snippet": "Saskatchewan open to talks on industrial carbon tax, 'refining' the deal struck with Alberta, Moe says &nbsp;&nbsp; National Post Alberta's timeline for West Coast pipeline 'best-c",
-      "pub": "Tue, 19 May 2026 21:57:41 GMT",
+      "pub": "Wed, 20 May 2026 05:01:59 GMT",
       "image": ""
     }
   ],
