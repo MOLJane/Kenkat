@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-20T22:07:57.850371+00:00",
+  "generated_at": "2026-05-20T23:45:28.623769+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "EVREC Submits Botwood Wind Farm Proposal for Environmental Assessment",
+      "link": "https://vocm.com/2026/05/20/evrec-submits-botwood-wind-farm-proposal-for-environmental-assessment/",
+      "snippet": "The Exploits Valley Renewable Energy Corporation has submitted its Botwood and Area Green Energy Project for Environmental Assessment. The corporation...",
+      "pub": "Wed, 20 May 2026 23:08:50 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/12/wind-turbine-stock-energy.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Statutory Review of ATIPP Legislation Getting Underway",
+      "link": "https://vocm.com/2026/05/20/statutory-review-of-atipp-legislation-getting-underway/",
+      "snippet": "A statutory review of the province's Access to Information and Protection of Privacy legislation is about to get underway. Government has appointed la...",
+      "pub": "Wed, 20 May 2026 22:05:00 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/confederation-building-blue-sky.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Government Action on Trap Houses Raised Again in House of Assembly",
@@ -51,83 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/ambulance-paramedic-5.png"
     },
     {
-      "source": "VOCM",
-      "title": "Snowbirds Fleet Temporarily Grounded Until 2030s",
-      "link": "https://vocm.com/2026/05/20/snowbirds-fleet-temporarily-grounded-until-2030s/",
-      "snippet": "It's the end of an era in Canada as the federal government has announced that the Canadian Snowbirds aeronautic team will be grounded until its aging ...",
-      "pub": "Wed, 20 May 2026 13:35:05 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/04/Snowbirds-Royal-Canadian-Air-Force.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "St. John’s to Host 2027 Canadian Country Music Awards",
-      "link": "https://vocm.com/2026/05/20/st-johns-to-host-2027-canadian-country-music-awards/",
-      "snippet": "The Canadian Country Music Awards are coming to St. John's in September 2027. The announcement was made this morning at Mary Brown's Centre. The event...",
-      "pub": "Wed, 20 May 2026 13:06:03 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/img-9821.jpeg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Trump administration indicts Cuba’s Raul Castro over 1996 plane shootdown - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLXlHVVowSnlJS0thN1VNSnItcXhJejRQcHc0UUtYLTkzVTJEWUFhY1pxN3pXWW84ZExaSjAwWUxlb3pISmdITE5Ga21id3NUdWJSYUZvb2hUSGEtNDRqRk9WRW91LTJDZ2pGWTE2di1oa3dQdlJkRVU2TEoxTm9KNndfaTNubC1ma2Q4UHgzaU1FTkhjV28wM0dTMENQUEFKLTNMT2VmY3J1MGgxVUNpRWpnY9IBuAFBVV95cUxPNEVEMF9JVTZsLU1WeGlUMWgxQW80RjBHamZmYVZtc19qazBlcWNPODE3bVBacll5TGdWeUpVdlBORXh4VXBHRmFOQTJHMzFNZDhMUFFFbE9EcE9YVVIxWnpRUlc1Z0p3N1U0U2hpcFJ3NVl0anFXUW5YLXZLRVFzNVF0VWRnZWtvU3F3MGl4WEMxWmxkcW1lWURlWjJkUklsOXZ2WHhWLUVZbXNMOGdWZ2JxZ2tGREtG?oc=5",
-      "snippet": "Trump administration indicts Cuba’s Raul Castro over 1996 plane shootdown &nbsp;&nbsp; Al Jazeera U.S. indicts former Cuban president Raúl Castro, escalating Trump pressure campaig",
-      "pub": "Wed, 20 May 2026 20:03:40 GMT",
+      "title": "Cuba's Raúl Castro indicted in US over 1996 fatal downing of two planes - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2eWtyMF9MR1BWSHNVVllCS1JxSnVUNjZ6ZHp0TERRZHhVRFl4WUdtSkcwZG9lYUNaVHp2N29yS3Z1QVhSZ0VFdmVUNGd0bTVNWUlZVg?oc=5",
+      "snippet": "Cuba's Raúl Castro indicted in US over 1996 fatal downing of two planes &nbsp;&nbsp; BBC U.S. indicts former Cuban president Raúl Castro, escalating Trump pressure campaign &nbsp;&",
+      "pub": "Wed, 20 May 2026 19:54:55 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Carney says the world is facing an 'energy crisis' and Canada must help solve it - CBC",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGFQUHp5QXA0Q1pOOTlOUlpQSnJtcG11dk9qWjRuN0pHSm5MbUJCTHd3RkUwS01WOUlpeFcyVFFYUXdpVTVyQlZHNEdaY29JbGZLVHBiMVJsOF9oSHpsOURSajhkOUp6QVp5aU40dmxfN1RHcmRGUXZGNXhYcjZnY3BSeEh4TjE5T002Nk9GN3JkLWFfbHc?oc=5",
-      "snippet": "Carney says the world is facing an 'energy crisis' and Canada must help solve it &nbsp;&nbsp; CBC Prime Minister Mark Carney declares B.C. central to 'build Canada' agenda &nbsp;&n",
-      "pub": "Wed, 20 May 2026 20:13:47 GMT",
+      "snippet": "Carney says the world is facing an 'energy crisis' and Canada must help solve it &nbsp;&nbsp; CBC Carney lays out pipeline conditions as Eby flags negotiations on B.C.’s priorities",
+      "pub": "Wed, 20 May 2026 22:40:21 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Netanyahu needs to fire Ben Gvir after his flotilla provocation, but of course he won’t - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3NjNF82TllNY1NLdXRDZ3NzbVhadUJ3a1BDWUZKaERRY1k0UnNqRXdVWkxCQ29jLVBFNFRCMlF1c3BaT1BXcGhQS1otcnF1VUxYVkcyblVBWnUtb0ZNYlhEdFZXeVJFbXNOemQ4WkFLT29YWkJTRThxZVNyNy0xQXlTbjRINVVIOHN2U283YVJXTG9OZWx0aWpqMDVSRnhLV0psNUdwRnRHaXpOaF9lVjN1bmpJRzjSAbwBQVVfeXFMUGNMQVB5Y3JDVFdTaDVRVEdOdG40bjBvcTRUSUVJaTM1TnFLVjB2QTNsQTFMdExnbFd3MEg2MDN3bm5OeWF1cVBqWHhGdlV5UWJBbzgyQ1ZsVGdOeHFreElSd0ItT0ZPSWt2U1gxU2F0SnQ5Nkk0WlE4TDh0NEFsMGlZRnJyR2toQjZvNGVYQmw2dHpIeVI5MnNBTzVQRHljci1lcEp6VmlPTjdXOHBiVGZFaFNfTGlMMGI3dnM?oc=5",
-      "snippet": "Netanyahu needs to fire Ben Gvir after his flotilla provocation, but of course he won’t &nbsp;&nbsp; The Times of Israel Canada summons Israel’s ambassador over handling of activis",
-      "pub": "Wed, 20 May 2026 17:20:06 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Members of Hells Angels and Mexican cartels among 33 arrested in Manitoba’s largest drug bust - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSVh2Uzlsd1dlUzJxajB3ZUR2OXhVNWQwcmY0aGl4UGcyX210cERUMjB1M0c1RjRWSFgzUm10ektHOHBBY3N5c3dyWEtsWTJCS0VzSFNtSV83RkwxbU9uOURKcHZUQWZPcWZmRENpaG55OWJXcG5UV3JfOHBUOFYxZWxmTWtRRlc3WFlMMlpfYW5PazlPMm15YVFUbEpJRkpPcEdURnBLRUx5bjJ2QkE?oc=5",
-      "snippet": "Members of Hells Angels and Mexican cartels among 33 arrested in Manitoba’s largest drug bust &nbsp;&nbsp; CTV News Mexican cartel, Hells Angels associates among 33 arrested in $37",
-      "pub": "Wed, 20 May 2026 17:04:07 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Tornado sirens blare in London, alerts ping phones in Waterloo Region - CityNews Kitchener",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVBNdUJkd29iUTMxR0FIVHcwTmlwT2pkLVFjcEQ3MVlPVVRKVHNKbldpTE1VUEpmZDJ0WVRqOUFuc1JzWS1nNWxEQ3ptUkZQM1VnT0VoX1FKUWFLRXVqaE9Rd3ZKdEgtd20wQ3pUcW1QcjMwTGZxUHNxakJ3Q1dOdkFFS0kwTHZ4Mm5kZHN3TFl0WUJ1VFZtaWpXVGNPQ0NxaFpleDJ1MnlCSmtzNmNV?oc=5",
-      "snippet": "Tornado sirens blare in London, alerts ping phones in Waterloo Region &nbsp;&nbsp; CityNews Kitchener ‘I’m in a tornado!’ Residents recount storm that blew through London, Ont. &nb",
-      "pub": "Wed, 20 May 2026 10:24:00 GMT",
+      "title": "Flotilla organizer confirms identities of 12 Canadians detained by Israel - CP24",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSHV1Q1pmdE1MWFBpN3FzUmw0alhab2JUblV1OFRfXzk1MV9rTk4ySjdDWmt1LUFONXlUcEdoZW85eXEtQkZhN254ZEdKZTBUNUJkaUs2TlkzQmg2X2FhYUh4R05EajhVNVdDd3MwbWhUUGdNZ1FGeTVVX1F4SkY2Y3dyZk5nSHpZeWNyc2s1bzJ0am1GaGVvMUpKd3FwZ1ZLY3BiT3pRZ0FnWVJsQmZuNXEzNXRCTk1KaXIzRzVWMlg0VGY5NnE1Mi1kR3VBdkRzYmc?oc=5",
+      "snippet": "Flotilla organizer confirms identities of 12 Canadians detained by Israel &nbsp;&nbsp; CP24 Israel's treatment of detained Gaza flotilla members is 'abominable,' Carney says &nbsp;",
+      "pub": "Wed, 20 May 2026 00:46:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Florida prosecutor charged with emailing herself the most sought-after documents from Jack Smith’s Trump investigation - CNN",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkQ1cjNINVhINjU5TDBjQTg1MFVNZENNRFRNYm1UX1JSZkF5cWluWXItM1BraVNKaTFZZmtfN1g0dHRRM3VzUmF0Ym14QUR1bGJra1lnNTNWYmtwcV9IZjJSWEZZZVk2Z0o4U3BkZWt6NFk4eFdjRmNNeUJvLVNGTnFBOEQ?oc=5",
-      "snippet": "Florida prosecutor charged with emailing herself the most sought-after documents from Jack Smith’s Trump investigation &nbsp;&nbsp; CNN Former federal prosecutor indicted for steal",
+      "snippet": "Florida prosecutor charged with emailing herself the most sought-after documents from Jack Smith’s Trump investigation &nbsp;&nbsp; CNN Prosecutor charged with stealing Jack Smith’",
       "pub": "Wed, 20 May 2026 17:39:57 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Transnational investigations are being hindered by Canada’s lack of lawful access powers, CSIS says - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON3Q3aWdSMW96ckE5UEN0UVFmNjFnZk44aVg4UUpnMjhvUDRzSjlvQ0swS3FkclVoZFJPZHR1LWJMUGNqMzFib19BVVJZYVB3bks3X042R0YxMUdfZk4tOVVWWG1SbjJaWW4wM29IWTl1WXZkMUZzWllXMFRRRW00RGF4ZUFBaXotbkdZTXFLY3pWdzZjalBvTlRYQ2d6LWJUd3BPM3V3ZE8xT2dINGw3UmdnYXNXT052Tnc?oc=5",
-      "snippet": "Transnational investigations are being hindered by Canada’s lack of lawful access powers, CSIS says &nbsp;&nbsp; The Globe and Mail Federal officials on the defensive as momentum g",
-      "pub": "Wed, 20 May 2026 01:53:01 GMT",
+      "title": "CBC pausing production on satirical Indigenous show - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSlBPVzBTQUZWYTVDeFlfbnV5VG1SV1g4SnV3aUhuV0R5aXZPaDlUYngySHJIZzRoVUFwS09VRG5CbFA2SUkzaHNHWV8ydTh5Z2Fld3RjMGNwV1ZvN3lPVWpLNDM4TS1yQllkUUV3U29DV2NWZXRDeE1yMUwwb21YWUhoQTM0NE9rc1QzajJUczhjTVdkNWc?oc=5",
+      "snippet": "CBC pausing production on satirical Indigenous show &nbsp;&nbsp; CityNews Toronto See more headlines & perspectives on Google News",
+      "pub": "Tue, 19 May 2026 23:31:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Toronto man deemed a ‘significant threat’ to public safety to get escorted visits - CP24",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPZkJNSGliREk4SkU0SFpvRFRDY2stbjRueUJpSXM0cTNoTFRrZERxRHBWZXJGLTN0M1N6N3NRaEIzaTJKdU9SS1h0WVo2NkNfR2c1N1Z5dkw4YmQySVBOQ0JOaVNjSS1nQWU2VXZ0MnA5TmFQUld5Vk1OYmhKeWM5UTBnekxBc0xDVHQwWTRJYzJVTGUzcGRyQmZyZ0NtOV9nU1MtUVVFb0FHZktac180aFduWUhNbHVra3hIN3Utd0VIQ2ZtbkhGcUZ3NXdYR21vX3NwTWl3QVR4M2t1dmNvaXEyQ3BOSF9oekVBbnpVOF9FMEZIeG5jVU91OEZOLWo1eklZYW1DNnJsU1lkVGZYRm1jdmM1YUhjZGdEalJn?oc=5",
-      "snippet": "Toronto man deemed a ‘significant threat’ to public safety to get escorted visits &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
-      "pub": "Wed, 20 May 2026 17:23:50 GMT",
+      "title": "Winnipeg plasma donor died following sudden cardiac arrest, family representative says - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM3VPNm4xVzU0b2NUdmM1ZWdmLVVYSlBfRGhDcHJkVEdoYmxWZ3NfRUhxRnpvZ3pyWnFZQ3VDUzNkRm41bHBaZGVvd0hpN3RsMGxWLW5LRnYyZk9BemxseGpETUVvSXVtX243NGlsSDBSNmVObWJoLTZLVHlwTmdqSFUtTXQ?oc=5",
+      "snippet": "Winnipeg plasma donor died following sudden cardiac arrest, family representative says &nbsp;&nbsp; CBC Conservatives demand more scrutiny of plasma sites after deaths of two donor",
+      "pub": "Wed, 20 May 2026 21:32:39 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Nate Horner, Matt Jones stepping down as Alberta cabinet ministers - CBC",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcUNGMVo2dmhpb3dRX3N3cTJCVWV6S1lMdXVXeWNPWGNobU1TbDhVWTZucmVoaURjem1FaVRmUnhRTF9UaUY4dE0wR1lqdHJiYkJMOTJsT3BMQXFxTnVzUlFLeXFqVUhaYnZuTFhlanBVYzluWVYzUi1NY0tRTmJuUm45ZGxrN3lpYkZzSmxyMmJKaGt4cHBMR1pvYkQ?oc=5",
+      "snippet": "Nate Horner, Matt Jones stepping down as Alberta cabinet ministers &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "pub": "Wed, 20 May 2026 22:25:23 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Toronto police chief addresses allegations against officers charged in Spain for the first time - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjh2Z2hKbkhfOWNPZk05QlBWaWlnbEJHSFNpakRla0RBWHlCQ0xUVjVZUlN5ek9zb2FScjI5ZmJORjZVT0ZaQ1hTOWJ6dUFDUUpDUUt4OWNJOWNjcXVKYnhCdEVBZ19WZjEtLXAyRGRjaTRqeVAzVGcwYThDcU50UTVnb1h0QnJ4WmlOYkNMNjJRM18xY09WMU5NOFd0S0dsdXJCNnd1Q0h5TmhyZUVXQmh0Ykpza0xpN3lBRlNXUEdrU04yZE5IQTF6YndGZUJ2?oc=5",
+      "snippet": "Toronto police chief addresses allegations against officers charged in Spain for the first time &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
+      "pub": "Wed, 20 May 2026 13:20:05 GMT",
       "image": ""
     }
   ],
