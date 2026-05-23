@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-23T14:45:43.481558+00:00",
+  "generated_at": "2026-05-23T15:56:31.227496+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "DFO Asks Cabin Owners to Be Mindful of Fish Habitats",
+      "link": "https://vocm.com/2026/05/23/299778/",
+      "snippet": "DFO is asking people doing activity around the water to be mindful of fish habitat. It's the time of year when many Newfoundlanders and Labradorians g...",
+      "pub": "Sat, 23 May 2026 15:21:00 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/06/atlantic-salmon-recreational-fishery-via-dfo.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Police Seek Information on Missing Man Last Seen Near Deer Lake",
+      "link": "https://vocm.com/2026/05/23/299797/",
+      "snippet": "Police on the west coast need help finding a man in the Corner Brook area. Dylan Kiteley, who's 35, was reported missing early Friday afternoon. The R...",
+      "pub": "Sat, 23 May 2026 14:56:54 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/dylan-kiteley-missing-person.png"
+    },
     {
       "source": "VOCM",
       "title": "RCMP Investigate Break and Enter at Lucy’s Bar in Kippens",
@@ -51,22 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/mining-rescue.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Public Utilities Board Announces Further Drop in Fuel and Heating Costs",
-      "link": "https://vocm.com/2026/05/23/299763/",
-      "snippet": "There was another drop in the price of gas overnight. The two cent decrease follows an 8-cent reduction the night before. That puts the price at just ...",
-      "pub": "Sat, 23 May 2026 08:47:31 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/gas-gasoline-fuel-price-pump-pub-gas-station-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Trump Meets With National Security Team as Iran Decision Looms",
-      "link": "https://vocm.com/2026/05/23/trump-meets-with-national-security-team-as-iran-decision-looms/",
-      "snippet": "President Donald Trump gathered senior national security officials at the White House on Friday as his administration reviewed its next steps on Iran....",
-      "pub": "Sat, 23 May 2026 07:39:57 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/03/752222784.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Opposition accuses Premier Danielle Smith of gaslighting: ‘Albertans are not idiots’ - Global News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFlMUE1MWGxSSmh6akdOSE5zb0ZqMThucGx3M2NjdF9qZ3RoV0JvWEFlWVlPU2YtVng1TGtvMkplUi1UWHFuQkRxZjdyVmY2VjBpS0RHQmtHZ1pZdkRTYjdoVFdCVEFnLTBINUkwaUR1M3hXdW9mbnpabHNnMmxQc2xVNC1IU056eWhEYVhQcGJkUjE0?oc=5",
@@ -84,18 +84,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Canadian Gaza flotilla activist says he was beaten for days in Israeli detention - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazIzT2tQa3RLNUJxcThWTGE2ODZTWUNuZ2dUMWVNZjgzZGpOdklsWGw2QnFyMkx2dmdtZEg3V3RpUWRDb21relU5Ui1zbFViUnZUQlRQSFFuaEZyUS1mbFYzNnZqRnZuT0FuRUdWZmdzZVA4eGFlRm9Cb3RheUlHd0lZSkFjV1N5LVBr?oc=5",
-      "snippet": "Canadian Gaza flotilla activist says he was beaten for days in Israeli detention &nbsp;&nbsp; CBC France bans far-right Israeli minister Ben-Gvir over abuse of activists &nbsp;&nbs",
-      "pub": "Fri, 22 May 2026 21:37:53 GMT",
+      "title": "Can a province just decide to leave Canada? Here's what the law says - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN3YxV2RFUkM0X0VfTV9wemlsWGhickFGUmgxQjA2aTE0RDJEVkIwMHFXTnVjZkpMVWQyTEFqeGpMbG96UWVoR2pwdWY1LUdodHN2akpvWEppVnpJWDVMdFBtTmhJUlkzWm9SZ19FNUdlU010ZjJDZDJIYW11ZzJWdUctanc?oc=5",
+      "snippet": "Can a province just decide to leave Canada? Here's what the law says &nbsp;&nbsp; CBC Here's how the Clarity Act could still apply to Alberta Premier Danielle Smith's referendum &n",
+      "pub": "Sat, 23 May 2026 12:47:39 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Explosion at Staten Island dry dock leaves 1 dead, 36 injured - CBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41aXpuQm1zZldaVEx0TXJZcEdSUk1FUzNIcFhMWUtsYkdhdjNybXBJcjdYYXBiWFpvakF5aFlyTHhmTFg3OElxb1hrRThuV2pSQU5hSnZRdGlJdF9UWElLQVEzUmxLZkpocUJIM2JRbTJmV1FJMlZ6ekFkRXE?oc=5",
-      "snippet": "Explosion at Staten Island dry dock leaves 1 dead, 36 injured &nbsp;&nbsp; CBC 1 dead, 36 injured after blast at New York City shipyard: officials &nbsp;&nbsp; CTV News Deadly Expl",
-      "pub": "Sat, 23 May 2026 01:17:00 GMT",
+      "title": "Far-right Israeli minister Ben-Gvir banned from French territory, FM says - France 24",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNazhyN3FNNmNnbEs1Y3AyUE5MczBudVJTQlQwdmNwSWdvalVGcGhydnlxaVZpWGFNNFl6ejhGWHJITFM2VERnaTVCaUkxTHprR3pEcHJ5dkZGY3lOY1hFWU56WDFzSTd4b0ZZZTlROTRZTWJFMlVTcDV5bHNFWmRZMl9FTVdXOUE4R083YTdnVnBlTnF3QXZxRktyU1ZlY3JjRENVRVRpOHpUWndQWVZkQnVsWXluWk0?oc=5",
+      "snippet": "Far-right Israeli minister Ben-Gvir banned from French territory, FM says &nbsp;&nbsp; France 24 Canadian Gaza flotilla activist says he was beaten for days in Israeli detention &n",
+      "pub": "Sat, 23 May 2026 12:25:44 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump's intelligence chief Tulsi Gabbard resigns - The Kyiv Independent",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0VJLU4wemJKT0pMVElaZlZSNXNtbExfZXpVY0ZwV0xPSXF5YmhjengzR3RtRnF6U2g4M1VhOFduRDFINlE4NHhxOHJiTUlQbDltR2tSZGF6Mi1jU0tKbFZvNEtwdWE2clJvYWZIb2hNLVMtYkZKeWNTcmJfUzVlVnRR?oc=5",
+      "snippet": "Trump's intelligence chief Tulsi Gabbard resigns &nbsp;&nbsp; The Kyiv Independent Opinion | Tulsi Gabbard self-humiliation wasn’t enough for Trump &nbsp;&nbsp; MS NOW Tulsi Gabbar",
+      "pub": "Fri, 22 May 2026 17:42:09 GMT",
       "image": ""
     },
     {
@@ -108,26 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "14 Liberal MPs pen letter to Carney raising concerns over environmental backslide - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYmRObkRrT0hoTHFKSXFQSlA4OEowN0pUcUp1RDE2MGlKalN6WUhQOU9VLVdVSkhLXzIwV0JpRjdYY1ktUzBNcm50VS02U0VRc1k3MWh5R0ZuekJBOGFJaElKWXRzcXFyLWlGVldtNU95NnN5QWVfUldZbXc0TVRQZTdZZlk5dw?oc=5",
-      "snippet": "14 Liberal MPs pen letter to Carney raising concerns over environmental backslide &nbsp;&nbsp; CBC",
-      "pub": "Fri, 22 May 2026 08:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Can a province just decide to leave Canada? Here's what the law says - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN3YxV2RFUkM0X0VfTV9wemlsWGhickFGUmgxQjA2aTE0RDJEVkIwMHFXTnVjZkpMVWQyTEFqeGpMbG96UWVoR2pwdWY1LUdodHN2akpvWEppVnpJWDVMdFBtTmhJUlkzWm9SZ19FNUdlU010ZjJDZDJIYW11ZzJWdUctanc?oc=5",
-      "snippet": "Can a province just decide to leave Canada? Here's what the law says &nbsp;&nbsp; CBC Here's how the Clarity Act could still apply to Alberta Premier Danielle Smith's referendum &n",
-      "pub": "Sat, 23 May 2026 12:47:39 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Doors Open Toronto grants visitors free access to over 160 sites this weekend - CBC",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zcEdUMEZqSUVVU19mUVZHVWtKdEtvSHpzS1ByTFptMmJaY0JKODkxZEYyOUVmbVBiQmNjNUw2dUtMOVZBN3NVZGg2Y0RJc2xrdTYwUnZ4aVJCdkRtcjYybmlnWGVlMG5SZU1YLUJ1ZGtiZw?oc=5",
       "snippet": "Doors Open Toronto grants visitors free access to over 160 sites this weekend &nbsp;&nbsp; CBC Events Calendar - SOLD OUT - Inside the CN Tower: Behind-the-Scenes Tour &nbsp;&nbsp;",
       "pub": "Sat, 23 May 2026 09:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Premier Doug Ford slams judge’s ruling on Ontario encampment - CP24",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZDdjNYU3lCdXVsUlQ4bzNxRVVHWTQ5SVBGN09ER2pKUG9DY0x2Z19vVkN5ZUNzMFlNdEwzVE93WDI1YWk1TDQyWkdTNHI1V0NHbk9TazZodGJtYlVYYzZQbkVoZkNSRGw3SFJLQWlsT1dEakhJamhUcXJVQ1l2Tkd5R3dEaGhZYnFFMlRwdGxZaTdqVm9ZME40VzJPWTg0bXpEd3NKSzZha0JTTFZVenpjbw?oc=5",
+      "snippet": "Premier Doug Ford slams judge’s ruling on Ontario encampment &nbsp;&nbsp; CP24 'Most ridiculous ruling': Premier slams judge's decision barring region from clearing Kitchener encam",
+      "pub": "Fri, 22 May 2026 20:26:22 GMT",
       "image": ""
     }
   ],
