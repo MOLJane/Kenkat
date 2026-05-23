@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026-05-23T13:04:26.244672+00:00",
+  "generated_at": "2026-05-23T14:45:43.481558+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "George Street Disturbances Lead to Three Arrests Overnight",
+      "title": "RCMP Investigate Break and Enter at Lucy’s Bar in Kippens",
+      "link": "https://vocm.com/2026/05/23/299790/",
+      "snippet": "Police need help from the public in solving a break-and-enter at a business on the west coast. Just before 2:30 Wednesday morning, somebody forced ope...",
+      "pub": "Sat, 23 May 2026 13:24:28 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/09/town-of-kippens-sign.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Downtown Disturbances Lead to Three Arrests Overnight",
       "link": "https://vocm.com/2026/05/23/299787/",
-      "snippet": "There was a ruckus on George Street in the wee hours which began inside a bar and spilled out onto the street. Police on patrol came upon the disturba...",
+      "snippet": "There was a ruckus downtown in the wee hours which began inside a bar and spilled out onto the street. Police on patrol came upon the disturbance invo...",
       "pub": "Sat, 23 May 2026 12:19:22 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/12/rnc-police-george-street.jpg"
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/rnc-royal-newfoundland-constabulary-metro-police-crime-cop-car.jpg"
     },
     {
       "source": "VOCM",
@@ -59,35 +67,35 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/03/752222784.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "May 23, 2026 – What’s your assessment of decorum in the House of Assembly during the current sitting?",
-      "link": "https://vocm.com/2026/05/23/may-23-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12946').",
-      "pub": "Sat, 23 May 2026 08:00:59 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/04/house-of-assembly-stock-photo.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "'Ridiculous lack of leadership': Jeromy Farkas criticizes referendum question on Alberta separation - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLThOaDA0NUd1cFhZRXZiQUNzVElQeHVQcVpzLWJ4NUFRVW54dThoblJIRTBTcHpPcHNMeVUyY0M1bVJNb1dlWVBILXhZLURaeHFjdk1xaDZpbEY4NkNPdGJTbDd2MUNBcHlRTm9QUUlYRDhQRThTS1dwZ2kyTFVQOWtJaGcwTGs4N2FkVUtaMXdZdHBOTDJRbWNNcjZGQQ?oc=5",
-      "snippet": "'Ridiculous lack of leadership': Jeromy Farkas criticizes referendum question on Alberta separation &nbsp;&nbsp; Calgary Herald What comes next as Alberta plans a vote on separatio",
-      "pub": "Fri, 22 May 2026 21:12:05 GMT",
+      "title": "Opposition accuses Premier Danielle Smith of gaslighting: ‘Albertans are not idiots’ - Global News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFlMUE1MWGxSSmh6akdOSE5zb0ZqMThucGx3M2NjdF9qZ3RoV0JvWEFlWVlPU2YtVng1TGtvMkplUi1UWHFuQkRxZjdyVmY2VjBpS0RHQmtHZ1pZdkRTYjdoVFdCVEFnLTBINUkwaUR1M3hXdW9mbnpabHNnMmxQc2xVNC1IU056eWhEYVhQcGJkUjE0?oc=5",
+      "snippet": "Opposition accuses Premier Danielle Smith of gaslighting: ‘Albertans are not idiots’ &nbsp;&nbsp; Global News What comes next as Alberta plans a vote on separation &nbsp;&nbsp; BBC",
+      "pub": "Fri, 22 May 2026 23:23:59 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Can a province just decide to leave Canada? Here's what the law says - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN3YxV2RFUkM0X0VfTV9wemlsWGhickFGUmgxQjA2aTE0RDJEVkIwMHFXTnVjZkpMVWQyTEFqeGpMbG96UWVoR2pwdWY1LUdodHN2akpvWEppVnpJWDVMdFBtTmhJUlkzWm9SZ19FNUdlU010ZjJDZDJIYW11ZzJWdUctanc?oc=5",
-      "snippet": "Can a province just decide to leave Canada? Here's what the law says &nbsp;&nbsp; CBC Here's how the Clarity Act could still apply to Alberta Premier Danielle Smith's referendum &n",
-      "pub": "Sat, 23 May 2026 08:00:00 GMT",
+      "title": "Doctors warn against ‘overwhelming’ surge of online disinformation on menopause - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTDZmaWFYLVpmZ0s4d01iZjhrbW9LMUFGZDNTU1lNMFFia1A1MGZFTzNuZFdCZmlpZm9zMFBUNnBqQXpxSlhmQ3pyN3lBQmRSLUxFWXNVN1dmS3MtcGp6VEZhWjR4YUZVMGkwOGpIZ1RXODlVRlFnQUNzV1dra19MMzZFRzZ2Z3ppTktEd1B6b3AwWk5wbFQtUDlzVWtfcjA2OWdYejZsTVJZMjBFNlgtcHBvbFQ1cnc?oc=5",
+      "snippet": "Doctors warn against ‘overwhelming’ surge of online disinformation on menopause &nbsp;&nbsp; CTV News",
+      "pub": "Sat, 23 May 2026 09:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Freed Gaza flotilla activists allege Israeli abuse including rape - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGxoZEJIRTRyZklEWHJvWk1vWkl6VFVLLVo0d0c0Tm15cVJPTkRqZDZjWUlPbmVBTGJVWGFsT2VpTVMyME4wOUV0ZWNLM0lFNnFfUjJoSkNfLWp1bkFURkJSN3liY0pnWm5vcGNfY0U4eWJmNHZXQU9SZjB6WGI3LWplZmhVUlg0TG9jRGVzRjczWDFsdkE?oc=5",
-      "snippet": "Freed Gaza flotilla activists allege Israeli abuse including rape &nbsp;&nbsp; The Globe and Mail Canadian Gaza flotilla activist says he was beaten for days in Israeli detention &",
-      "pub": "Fri, 22 May 2026 13:11:34 GMT",
+      "title": "Canadian Gaza flotilla activist says he was beaten for days in Israeli detention - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazIzT2tQa3RLNUJxcThWTGE2ODZTWUNuZ2dUMWVNZjgzZGpOdklsWGw2QnFyMkx2dmdtZEg3V3RpUWRDb21relU5Ui1zbFViUnZUQlRQSFFuaEZyUS1mbFYzNnZqRnZuT0FuRUdWZmdzZVA4eGFlRm9Cb3RheUlHd0lZSkFjV1N5LVBr?oc=5",
+      "snippet": "Canadian Gaza flotilla activist says he was beaten for days in Israeli detention &nbsp;&nbsp; CBC France bans far-right Israeli minister Ben-Gvir over abuse of activists &nbsp;&nbs",
+      "pub": "Fri, 22 May 2026 21:37:53 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Explosion at Staten Island dry dock leaves 1 dead, 36 injured - CBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41aXpuQm1zZldaVEx0TXJZcEdSUk1FUzNIcFhMWUtsYkdhdjNybXBJcjdYYXBiWFpvakF5aFlyTHhmTFg3OElxb1hrRThuV2pSQU5hSnZRdGlJdF9UWElLQVEzUmxLZkpocUJIM2JRbTJmV1FJMlZ6ekFkRXE?oc=5",
+      "snippet": "Explosion at Staten Island dry dock leaves 1 dead, 36 injured &nbsp;&nbsp; CBC 1 dead, 36 injured after blast at New York City shipyard: officials &nbsp;&nbsp; CTV News Deadly Expl",
+      "pub": "Sat, 23 May 2026 01:17:00 GMT",
       "image": ""
     },
     {
@@ -102,32 +110,24 @@
       "source": "Google News Canada",
       "title": "14 Liberal MPs pen letter to Carney raising concerns over environmental backslide - CBC",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYmRObkRrT0hoTHFKSXFQSlA4OEowN0pUcUp1RDE2MGlKalN6WUhQOU9VLVdVSkhLXzIwV0JpRjdYY1ktUzBNcm50VS02U0VRc1k3MWh5R0ZuekJBOGFJaElKWXRzcXFyLWlGVldtNU95NnN5QWVfUldZbXc0TVRQZTdZZlk5dw?oc=5",
-      "snippet": "14 Liberal MPs pen letter to Carney raising concerns over environmental backslide &nbsp;&nbsp; CBC Sharan Kaur: Why 14 Liberal MPs need to own their dissent on the Carney-Smith dea",
+      "snippet": "14 Liberal MPs pen letter to Carney raising concerns over environmental backslide &nbsp;&nbsp; CBC",
       "pub": "Fri, 22 May 2026 08:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Premier Doug Ford slams judge’s ruling on Ontario encampment - CP24",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZDdjNYU3lCdXVsUlQ4bzNxRVVHWTQ5SVBGN09ER2pKUG9DY0x2Z19vVkN5ZUNzMFlNdEwzVE93WDI1YWk1TDQyWkdTNHI1V0NHbk9TazZodGJtYlVYYzZQbkVoZkNSRGw3SFJLQWlsT1dEakhJamhUcXJVQ1l2Tkd5R3dEaGhZYnFFMlRwdGxZaTdqVm9ZME40VzJPWTg0bXpEd3NKSzZha0JTTFZVenpjbw?oc=5",
-      "snippet": "Premier Doug Ford slams judge’s ruling on Ontario encampment &nbsp;&nbsp; CP24 'Most ridiculous ruling': Premier slams judge's decision barring region from clearing Kitchener encam",
-      "pub": "Fri, 22 May 2026 20:26:22 GMT",
+      "title": "Can a province just decide to leave Canada? Here's what the law says - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN3YxV2RFUkM0X0VfTV9wemlsWGhickFGUmgxQjA2aTE0RDJEVkIwMHFXTnVjZkpMVWQyTEFqeGpMbG96UWVoR2pwdWY1LUdodHN2akpvWEppVnpJWDVMdFBtTmhJUlkzWm9SZ19FNUdlU010ZjJDZDJIYW11ZzJWdUctanc?oc=5",
+      "snippet": "Can a province just decide to leave Canada? Here's what the law says &nbsp;&nbsp; CBC Here's how the Clarity Act could still apply to Alberta Premier Danielle Smith's referendum &n",
+      "pub": "Sat, 23 May 2026 12:47:39 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Edmonton dog owner guilty of criminal negligence causing death of 11-year-old boy - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakZqdUNDczlMSTVqRVBUeG10LTNoRklqTG9zLWVINkVldlRQV2dyVnlLYVJ4anVNcmNvbkRTQ0o1Z0lGZ3RKOC1TRHpDX3ZuT3ZmcUZJS1h6NUw0eThPZkRsRW5RVVRmcVRhamUtcENVckdiN01rVU5WV0o3aFBVMjdfcHY2UVB5VXlWNHRZNzZfRmFDTE5OWGtnSG5ZSWdrTmdtUGdPcDhQUHZQQVJpb2tCSEFNTG9kMUhxQ3NfVjA1QQ?oc=5",
-      "snippet": "Edmonton dog owner guilty of criminal negligence causing death of 11-year-old boy &nbsp;&nbsp; The Globe and Mail Edmonton dog owner guilty of criminal negligence in death of 11-ye",
-      "pub": "Fri, 22 May 2026 20:52:29 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Charges not approved against officer who shot man who stole skid-steer in head in North Cowichan - CHEK News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmJScngxY0tfNndEV19ZMC1tRkVqUXQxX3BwUHFrSGMwbEUxOGQ1S2xKTkZJMERzQ0Rzd1R1c0JsQzR1TnBLb0VrY2w2RGJtOWtFcjlvOHNueU1RdlF0emhDU3FndGRBdXdQQ2dxdENjV1lNaVdRZlpObDQ4WWxwVGdMZ0FTSVhPbDRWcUg2R0FoUWd1TXhKRGhEc2tYclB1VjVEZmZvaVVNaGxWZnhRUUF5bmdFMEx3Sk1TcVRlSTZ6MjQ?oc=5",
-      "snippet": "Charges not approved against officer who shot man who stole skid-steer in head in North Cowichan &nbsp;&nbsp; CHEK News See more headlines & perspectives on Google News",
-      "pub": "Fri, 22 May 2026 19:16:28 GMT",
+      "title": "Doors Open Toronto grants visitors free access to over 160 sites this weekend - CBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zcEdUMEZqSUVVU19mUVZHVWtKdEtvSHpzS1ByTFptMmJaY0JKODkxZEYyOUVmbVBiQmNjNUw2dUtMOVZBN3NVZGg2Y0RJc2xrdTYwUnZ4aVJCdkRtcjYybmlnWGVlMG5SZU1YLUJ1ZGtiZw?oc=5",
+      "snippet": "Doors Open Toronto grants visitors free access to over 160 sites this weekend &nbsp;&nbsp; CBC Events Calendar - SOLD OUT - Inside the CN Tower: Behind-the-Scenes Tour &nbsp;&nbsp;",
+      "pub": "Sat, 23 May 2026 09:00:00 GMT",
       "image": ""
     }
   ],
