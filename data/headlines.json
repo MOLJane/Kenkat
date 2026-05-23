@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-05-23T16:55:15.498031+00:00",
+  "generated_at": "2026-05-23T17:55:45.616694+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Waterford River Cleanup Aims to Clear Winter Debris This Weekend",
+      "link": "https://vocm.com/2026/05/23/299784/",
+      "snippet": "One of the prized rivers in the metro region is the target of a cleanup this weekend. The Waterford River, which spans Paradise, Mount Pearl and St. J...",
+      "pub": "Sat, 23 May 2026 16:59:37 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/waterfordriver.png"
+    },
     {
       "source": "VOCM",
       "title": "DFO Asks Cabin Owners to Be Mindful of Fish Habitats",
@@ -59,18 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/johnson-geo-centre.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Major Mining Firms Compete in Atlantic Mine Rescue Event",
-      "link": "https://vocm.com/2026/05/23/299767/",
-      "snippet": "Mining companies and emergency responders are attending the Atlantic Mine Rescue Competition and Symposium at the Glacier in Mount Pearl today. The ev...",
-      "pub": "Sat, 23 May 2026 08:52:30 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/mining-rescue.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Opposition accuses Premier Danielle Smith of gaslighting: ‘Albertans are not idiots’ - Global News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFlMUE1MWGxSSmh6akdOSE5zb0ZqMThucGx3M2NjdF9qZ3RoV0JvWEFlWVlPU2YtVng1TGtvMkplUi1UWHFuQkRxZjdyVmY2VjBpS0RHQmtHZ1pZdkRTYjdoVFdCVEFnLTBINUkwaUR1M3hXdW9mbnpabHNnMmxQc2xVNC1IU056eWhEYVhQcGJkUjE0?oc=5",
-      "snippet": "Opposition accuses Premier Danielle Smith of gaslighting: ‘Albertans are not idiots’ &nbsp;&nbsp; Global News What comes next as Alberta plans a vote on separation &nbsp;&nbsp; BBC",
+      "snippet": "Opposition accuses Premier Danielle Smith of gaslighting: ‘Albertans are not idiots’ &nbsp;&nbsp; Global News Danielle Smith's wishful thinking: her separation vote loses, and that",
       "pub": "Fri, 22 May 2026 23:23:59 GMT",
       "image": ""
     },
@@ -84,6 +84,22 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Trump calls a climate projection 'WRONG!' Turns out, climate action is working - CBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mcXQyTGQ4QVprZEZkTTZ4ZmNneHA1N1QxYjN5NC1IRXdNOUJHWHFqeldEWG02Wm91WlpWMzdMWFVhTzJ1M0tjQnhRYldNdGpPSk1SaV9sTFRIZjh2aTdYajdnMmZrc2R4X19SZjU0bE40b0dlSmdwRE95WHdRc1k?oc=5",
+      "snippet": "Trump calls a climate projection 'WRONG!' Turns out, climate action is working &nbsp;&nbsp; CBC On the death of RCP8.5 &nbsp;&nbsp; theclimatebrink.com Climate change’s worst-case ",
+      "pub": "Sat, 23 May 2026 08:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "US, Iran close to agreeing a 60-day ceasefire extention - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBScE05b2J6cWJRX0huUUJnRGVzdHhaeVlURHZzSk85ZVpiTHUtcVhRS1VQRHNPWUhuTGs5b0NVSTRoaC03RWd5aVdOVlkxeGRGTkJzWl9rMVp2QnVuSk5sVVV4U3l3ZkNnOGc?oc=5",
+      "snippet": "US, Iran close to agreeing a 60-day ceasefire extention &nbsp;&nbsp; The Jerusalem Post U.S. and Iran are closing in on a 60-day ceasefire extension with nuclear framework, FT repo",
+      "pub": "Sat, 23 May 2026 16:18:56 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Israeli minister Ben-Gvir banned from French territory - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLThRUGhjSTMzSEVwYkV1NjhLUUpSUzE5dUcwZ1hUb0xQcVhsdF8wTFVPLUhRZU5pdUJ2WGROb2JIUzJhU0VCME5STUFiWHVFOTZZY1M2ZGphcUtLZHlqa3BlcnNrbDhSUVAta3JLNkJUSmRBZDBEbVZoNi1CUS02d2licEdWeGdRajFHdktqYUVBTnB0QkE3dXc4NENWREFkdDl0RzM0YXhmekFSYktF?oc=5",
       "snippet": "Israeli minister Ben-Gvir banned from French territory &nbsp;&nbsp; Reuters Canadian Gaza flotilla activist says he was beaten for days in Israeli detention &nbsp;&nbsp; CBC France",
@@ -92,26 +108,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Explosion at Staten Island dry dock leaves 1 dead, 36 injured - CBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41aXpuQm1zZldaVEx0TXJZcEdSUk1FUzNIcFhMWUtsYkdhdjNybXBJcjdYYXBiWFpvakF5aFlyTHhmTFg3OElxb1hrRThuV2pSQU5hSnZRdGlJdF9UWElLQVEzUmxLZkpocUJIM2JRbTJmV1FJMlZ6ekFkRXE?oc=5",
-      "snippet": "Explosion at Staten Island dry dock leaves 1 dead, 36 injured &nbsp;&nbsp; CBC 1 dead, 36 injured after blast at New York City shipyard: officials &nbsp;&nbsp; CTV News Deadly Expl",
-      "pub": "Sat, 23 May 2026 01:17:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "B.C. nurses reach tentative agreement with province - CityNews Vancouver",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1BzYmNvRXNpdmhrZXdEOWxLRFBqY3lkUHlwNmFnVllfbGxPa2U1S0xwcFVONDJ4Vl9XZEIzZ3FaLTlzc0NjQklNODFhOEFLd3B5LWM2UGNPRFAwQURSdzlGRmhKS213azE4UWJmRmtEazhxbTBzTTNYY0cwb2hyV1dBWWRvVS1hb0otNk1hVjU1bk51U29F?oc=5",
       "snippet": "B.C. nurses reach tentative agreement with province &nbsp;&nbsp; CityNews Vancouver Nurses union, B.C. employer reach tentative agreement after strong strike vote &nbsp;&nbsp; Glob",
       "pub": "Fri, 22 May 2026 21:15:10 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump's intelligence chief Tulsi Gabbard resigns - The Kyiv Independent",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0VJLU4wemJKT0pMVElaZlZSNXNtbExfZXpVY0ZwV0xPSXF5YmhjengzR3RtRnF6U2g4M1VhOFduRDFINlE4NHhxOHJiTUlQbDltR2tSZGF6Mi1jU0tKbFZvNEtwdWE2clJvYWZIb2hNLVMtYkZKeWNTcmJfUzVlVnRR?oc=5",
-      "snippet": "Trump's intelligence chief Tulsi Gabbard resigns &nbsp;&nbsp; The Kyiv Independent Opinion | Tulsi Gabbard self-humiliation wasn’t enough for Trump &nbsp;&nbsp; MS NOW Tulsi Gabbar",
-      "pub": "Fri, 22 May 2026 17:42:09 GMT",
       "image": ""
     },
     {
