@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-05-23T07:27:31.774670+00:00",
+  "generated_at": "2026-05-23T09:19:41.170270+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Local Astronomers Hope for Clear Skies for Signal Hill Stargazing Event",
+      "link": "https://vocm.com/2026/05/23/299769/",
+      "snippet": "There will be plenty of stargazing going on this weekend as it is Astronomy Day. The Royal Astronomical Society of Canada, St. John's Centre and MUN's...",
+      "pub": "Sat, 23 May 2026 09:07:07 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/johnson-geo-centre.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Major Mining Firms Compete in Atlantic Mine Rescue Event",
+      "link": "https://vocm.com/2026/05/23/299767/",
+      "snippet": "Mining companies and emergency responders are attending the Atlantic Mine Recue Competition and Symposium at the Glacier in Mount Pearl this weekend. ...",
+      "pub": "Sat, 23 May 2026 08:52:30 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/mining-rescue.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Public Utilities Board Announces Further Drop in Fuel and Heating Costs",
+      "link": "https://vocm.com/2026/05/23/299763/",
+      "snippet": "There was another drop in the price of gas overnight. The two cent decrease follows an 8-cent reduction the night before. That puts the price at just ...",
+      "pub": "Sat, 23 May 2026 08:47:31 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/gas-gasoline-fuel-price-pump-pub-gas-station-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Trump Meets With National Security Team as Iran Decision Looms",
+      "link": "https://vocm.com/2026/05/23/trump-meets-with-national-security-team-as-iran-decision-looms/",
+      "snippet": "President Donald Trump gathered senior national security officials at the White House on Friday as his administration reviewed its next steps on Iran....",
+      "pub": "Sat, 23 May 2026 07:39:57 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/03/752222784.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "May 23, 2026 – What’s your assessment of decorum in the House of Assembly during the current sitting?",
+      "link": "https://vocm.com/2026/05/23/may-23-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12946').",
+      "pub": "Sat, 23 May 2026 08:00:59 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/04/house-of-assembly-stock-photo.jpg"
+    },
     {
       "source": "VOCM",
       "title": "WWII Vet Passes Away at 102",
@@ -27,46 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/06/RCMP-Police-Car-Logo-Stock-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Taxpayers Federation Calling for Stricter Rules Around Government Event Spending",
-      "link": "https://vocm.com/2026/05/22/taxpayers-federation-event-spending/",
-      "snippet": "The Canadian Taxpayers Federation is asking the provincial government to introduce stricter rules on event spending after learning former Premier Andr...",
-      "pub": "Fri, 22 May 2026 15:58:03 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/devin-drover-canadian-taxpayers-federation.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Stun Gun Found Near Playground Injures Child in Happy Valley-Goose Bay",
-      "link": "https://vocm.com/2026/05/22/stun-gun-found-near-playground-injures-child-in-happy-valley-goose-bay/",
-      "snippet": "RCMP in Happy Valley-Goose Bay are investigating following a frightening and unusual incident in the town earlier this week. Police were contacted Tue...",
-      "pub": "Fri, 22 May 2026 15:24:33 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/stun-gun.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Sharing of ‘Shit Knocking ‘ Post Stirs Reaction in House of Assembly",
-      "link": "https://vocm.com/2026/05/22/sharing-of-shit-knocking-post-stirs-reaction-in-house-of-assembly/",
-      "snippet": "A Liberal MHA lashed out at a PC backbencher in the legislature yesterday for sharing what she saw as a threatening post in one of the most heated sit...",
-      "pub": "Fri, 22 May 2026 14:56:11 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/stoodley-and-russell.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Three Women Arrested on Outstanding Warrants in Spencer Street Operation",
-      "link": "https://vocm.com/2026/05/22/three-women-arrested-on-outstanding-warrants-in-spencer-street-operation/",
-      "snippet": "Three women were arrested on outstanding warrants as the result of a major police operation on Spencer Street in St. John's yesterday. RNC and members...",
-      "pub": "Fri, 22 May 2026 14:47:30 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/spencer-street-3.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Some Services at Mundy Pond Being Moved to West End Urgent Care Clinic",
-      "link": "https://vocm.com/2026/05/22/299702/",
-      "snippet": "The Urgent Care Clinic in Mount Pearl, which has yet to open for its intended purpose, will soon be occupied, but by facilities currently housed at Mu...",
-      "pub": "Fri, 22 May 2026 13:10:15 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/09/urgent-care-centre-topsail-road.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "'Ridiculous lack of leadership': Jeromy Farkas criticizes referendum question on Alberta separation - Calgary Herald",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLThOaDA0NUd1cFhZRXZiQUNzVElQeHVQcVpzLWJ4NUFRVW54dThoblJIRTBTcHpPcHNMeVUyY0M1bVJNb1dlWVBILXhZLURaeHFjdk1xaDZpbEY4NkNPdGJTbDd2MUNBcHlRTm9QUUlYRDhQRThTS1dwZ2kyTFVQOWtJaGcwTGs4N2FkVUtaMXdZdHBOTDJRbWNNcjZGQQ?oc=5",
@@ -86,8 +86,16 @@
       "source": "Google News Canada",
       "title": "Edmonton dog owner guilty of criminal negligence in death of 11-year-old Kache Grist - Global News",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2E4TmpDZGlJN2p3ekd4TFR2cVdjbDlCUTVMWGNHbFIwX1NDbEx2a2xBbmVQQkJQNzh2ZGZrLWV4THoxMEZJVXhtU3BfSnFMcEQ4M3FwMjR1SXBWd2k1NTMtU0lQbG5xNF8tZ1ZNREQ2TEt5QU9odjBMMFlMV2VUd0lVRVhadC13?oc=5",
-      "snippet": "Edmonton dog owner guilty of criminal negligence in death of 11-year-old Kache Grist &nbsp;&nbsp; Global News Edmonton dog owner found guilty in fatal dog attack that killed 11-yea",
+      "snippet": "Edmonton dog owner guilty of criminal negligence in death of 11-year-old Kache Grist &nbsp;&nbsp; Global News Edmonton dog owner guilty of criminal negligence in boy's mauling deat",
       "pub": "Fri, 22 May 2026 21:04:53 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Doors Open Toronto 2026: List of building sites, dates, and hours - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MOHpQVHRwMlRzb3dwOERReVRXQ2RnQ3Q0OE5IYlMwRWxuZ2M5WnJhUmV5ZS1XWlBDYTBQMFQtLVhvUzEtcDBuaTZzWmNpanY5QmdGNlBnZmt6WXBXMXFsTEdGNHlXSnRLbGJ4UW1qTXZsZkp6UzYwYjVIUGNjUQ?oc=5",
+      "snippet": "Doors Open Toronto 2026: List of building sites, dates, and hours &nbsp;&nbsp; CityNews Toronto Doors Open Toronto returns this weekend with CN Tower debut &nbsp;&nbsp; CP24 Doors ",
+      "pub": "Thu, 21 May 2026 20:09:00 GMT",
       "image": ""
     },
     {
@@ -100,18 +108,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Premier Doug Ford slams judge’s ruling on Ontario encampment - CP24",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZDdjNYU3lCdXVsUlQ4bzNxRVVHWTQ5SVBGN09ER2pKUG9DY0x2Z19vVkN5ZUNzMFlNdEwzVE93WDI1YWk1TDQyWkdTNHI1V0NHbk9TazZodGJtYlVYYzZQbkVoZkNSRGw3SFJLQWlsT1dEakhJamhUcXJVQ1l2Tkd5R3dEaGhZYnFFMlRwdGxZaTdqVm9ZME40VzJPWTg0bXpEd3NKSzZha0JTTFZVenpjbw?oc=5",
-      "snippet": "Premier Doug Ford slams judge’s ruling on Ontario encampment &nbsp;&nbsp; CP24 'Most ridiculous ruling': Premier slams judge's decision barring region from clearing Kitchener encam",
-      "pub": "Fri, 22 May 2026 20:26:22 GMT",
+      "title": "EXCLUSIVE: Whistleblowers say organized crime has infiltrated Canada’s largest airport - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcU9sMlE4YzlMQXRwR2NUdUtWVVlwVzR6OHQwLWlUVmJQQUxsMEhLTElFOGlsYWRqbE5ZVXVuS1FNMUEtQ0ZUa2g1TjctS2lITFRjU1d2MWczd2o1SUY2QzRyZ2ZMcDJLYXFVVXdOdG5XeWtob0gtMjJhaGhja0N4X3ZrRWR6T2FNVDg0SjBaSXlDWGl0SWJtdkZxc1RvSTdNRFpvcVY5VW0xZzdXOEpzNUxzSHQ2dHF3d05hdlU2TVZDQlQ3aG9hMDN3elIydTdLcndxSmkwUV9VemFw?oc=5",
+      "snippet": "EXCLUSIVE: Whistleblowers say organized crime has infiltrated Canada’s largest airport &nbsp;&nbsp; CTV News How Canadian flyers can stop their luggage from turning into a drug shi",
+      "pub": "Fri, 22 May 2026 09:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Smith optimistic that Indigenous communities will agree to pipeline proposal - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hUlVRZ1kxNDBER0pHR3NNdHh3UEs2MjVTR212MEpnNFVIUWtwbG03Rk42Zk5SNUlWYUs4bDBlME51U3B2WTlrZkItX3VKT2lZcTdvUTRVMlU1NEFHNko1UmNWZWZaRk94bjhGZkpzbUNGQ2tW?oc=5",
-      "snippet": "Smith optimistic that Indigenous communities will agree to pipeline proposal &nbsp;&nbsp; Calgary Herald In one Alberta town, frustration with Ottawa is fuelling separatist support",
-      "pub": "Thu, 21 May 2026 20:46:04 GMT",
+      "title": "Can a province just decide to leave Canada? Here's what the law says - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN3YxV2RFUkM0X0VfTV9wemlsWGhickFGUmgxQjA2aTE0RDJEVkIwMHFXTnVjZkpMVWQyTEFqeGpMbG96UWVoR2pwdWY1LUdodHN2akpvWEppVnpJWDVMdFBtTmhJUlkzWm9SZ19FNUdlU010ZjJDZDJIYW11ZzJWdUctanc?oc=5",
+      "snippet": "Can a province just decide to leave Canada? Here's what the law says &nbsp;&nbsp; CBC Here's how the Clarity Act could still apply to Alberta Premier Danielle Smith's referendum &n",
+      "pub": "Sat, 23 May 2026 08:00:00 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmJScngxY0tfNndEV19ZMC1tRkVqUXQxX3BwUHFrSGMwbEUxOGQ1S2xKTkZJMERzQ0Rzd1R1c0JsQzR1TnBLb0VrY2w2RGJtOWtFcjlvOHNueU1RdlF0emhDU3FndGRBdXdQQ2dxdENjV1lNaVdRZlpObDQ4WWxwVGdMZ0FTSVhPbDRWcUg2R0FoUWd1TXhKRGhEc2tYclB1VjVEZmZvaVVNaGxWZnhRUUF5bmdFMEx3Sk1TcVRlSTZ6MjQ?oc=5",
       "snippet": "Charges not approved against officer who shot man who stole skid-steer in head in North Cowichan &nbsp;&nbsp; CHEK News No charges for police officer who fired at man in stolen loa",
       "pub": "Fri, 22 May 2026 19:16:28 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Caspian Construction pays Winnipeg $28M on final day of police HQ inquiry - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY1hVU0xIY29KSlpQZmNoMGYwM1NjRkhvQ2NNU3BuZmtBV2h1UTR5NXNwa3pnNXRGNnFacUsyUW5aUF9hVnFvUWxkWUlnWExaLU1PbXgxUkZOYTduUUdBOGRmR2g0VDVSSjhBVE1nR1cxVXRRaHdVZUgzUFI2WHRyS1RVaHBFSTF6S0E?oc=5",
-      "snippet": "Caspian Construction pays Winnipeg $28M on final day of police HQ inquiry &nbsp;&nbsp; CBC Police HQ contractor pays $28M in city settlement &nbsp;&nbsp; Winnipeg Free Press Commis",
-      "pub": "Fri, 22 May 2026 23:37:02 GMT",
       "image": ""
     }
   ],
