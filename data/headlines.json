@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-05-24T05:33:46.314610+00:00",
+  "generated_at": "2026-05-24T08:18:26.016613+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "May 24, 2026 – Should the provincial government introduce stricter policies around event spending?",
+      "link": "https://vocm.com/2026/05/24/may-24-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-12949').",
+      "pub": "Sun, 24 May 2026 08:04:10 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/churchill-falls-mou-signing-furey-legault.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Water Street Museum Showcases Century Old Pharmacy Practices",
@@ -59,27 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/rnc-royal-newfoundland-constabulary-metro-police-crime-cop-car.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "El Niño Expected to Bring Average Hurricane Season This Year",
-      "link": "https://vocm.com/2026/05/23/299773/",
-      "snippet": "It is expected to be an average hurricane season in terms of the number of storms, but officials are urging people to be prepared should a significant...",
-      "pub": "Sat, 23 May 2026 11:34:51 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/canadian-hurricane-centre-warning-preparedness-meteorologist-bob-robichaud.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Suspect shot and killed after opening fire on White House checkpoint, Secret Service says - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uajYxUFFpa2NjTHo4OHNCenV0WlNIRkxPQ2U1QlU3Wk1VVDFlYkpxeVZpT0hQUVJ4em9VSnl6WVNtYmI0Y1pkZDJpdVNHeEF5YXRWN2Z4dmVrWEYzZkVVOUpfV0ctVW8wVWZIVWVES3I5c3JSTUJvVGpRZUtreTg?oc=5",
       "snippet": "Suspect shot and killed after opening fire on White House checkpoint, Secret Service says &nbsp;&nbsp; The Globe and Mail Suspect dead after approaching White House checkpoint with",
       "pub": "Sat, 23 May 2026 23:43:19 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BeXpHWk9FU1RfRHJIMGFNQ2tacWNvM2dCanhJNVlxODFJWWtrWS1aLTc2UVJKc1dGdC1HRC1fbTlQNnNBYWZYRnZJM0JTYUFXLXhYc0FEeWNCZw?oc=5",
-      "snippet": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz &nbsp;&nbsp; BBC Trump says Iran agreement ‘largely negotiated’, awaiting finalisation &nbsp;&nbsp; A",
-      "pub": "Sun, 24 May 2026 01:18:31 GMT",
       "image": ""
     },
     {
@@ -92,6 +84,14 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Russia strikes Kyiv with massive missile and drone attack, killing four - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTF3TzRleUdUZEptV2xCbjAyVWRISkNuTTBEM1hTWXZtZk9fT25jV0M3X0x5NlJWN2FxeUtqMjRMWWhac1RSX1U1MHl4dFJJSkZPZWE2M3lsNlJkTUtTZ3BvSkRmWXdBOHRTbG1FSDdiSUpGN0p1THdLaE1mUFBGM2FEY19wLXZEcjA4V0doX1BCUmlINUkzYU0zQTZ6djYyY0V4NTZNOEpEZw?oc=5",
+      "snippet": "Russia strikes Kyiv with massive missile and drone attack, killing four &nbsp;&nbsp; Reuters ‘Massive’ Russian missile barrage hits Kyiv after Putin orders retaliation for deadly U",
+      "pub": "Sat, 23 May 2026 23:48:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Opposition accuses Premier Danielle Smith of gaslighting: ‘Albertans are not idiots’ - Global News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFlMUE1MWGxSSmh6akdOSE5zb0ZqMThucGx3M2NjdF9qZ3RoV0JvWEFlWVlPU2YtVng1TGtvMkplUi1UWHFuQkRxZjdyVmY2VjBpS0RHQmtHZ1pZdkRTYjdoVFdCVEFnLTBINUkwaUR1M3hXdW9mbnpabHNnMmxQc2xVNC1IU056eWhEYVhQcGJkUjE0?oc=5",
       "snippet": "Opposition accuses Premier Danielle Smith of gaslighting: ‘Albertans are not idiots’ &nbsp;&nbsp; Global News Alberta will vote on whether to remain part of Canada. What now? &nbsp",
@@ -100,18 +100,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Israeli minister Ben-Gvir banned from French territory - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLThRUGhjSTMzSEVwYkV1NjhLUUpSUzE5dUcwZ1hUb0xQcVhsdF8wTFVPLUhRZU5pdUJ2WGROb2JIUzJhU0VCME5STUFiWHVFOTZZY1M2ZGphcUtLZHlqa3BlcnNrbDhSUVAta3JLNkJUSmRBZDBEbVZoNi1CUS02d2licEdWeGdRajFHdktqYUVBTnB0QkE3dXc4NENWREFkdDl0RzM0YXhmekFSYktF?oc=5",
-      "snippet": "Israeli minister Ben-Gvir banned from French territory &nbsp;&nbsp; Reuters Canadian Gaza flotilla activist says he was beaten for days in Israeli detention &nbsp;&nbsp; CBC Canadi",
-      "pub": "Sat, 23 May 2026 13:13:03 GMT",
+      "title": "Trump says agreement to end Iran war 'largely negotiated' - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZEZjcjQ3YVVIdm1xMUgwaUtlN2pSM0ZqY21VUENiSVFnLWpONkN1R1dfdjRjXzB6U21rdnpzTjVtZ1ZQU1p5eHc0X2hRTWx0d0VDTmt6ZldUUDFtc3FrR25kQzFIMjlEb0pybmtoREpyQWxBdFNYYnRqMVI2S1pIRFR0SjN1Rk9Jd3l1cHVqNWJieVpXOUE?oc=5",
+      "snippet": "Trump says agreement to end Iran war 'largely negotiated' &nbsp;&nbsp; Euronews.com Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz &nbsp;&nbsp; BBC ",
+      "pub": "Sat, 23 May 2026 21:38:25 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Pope decries ‘unscrupulous’ polluters at deadly, mafia-linked dumping ground - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORzhDd3RFMUpuU240RU84dHlxVGpMSWpjSGR3WXF1bXNJaWpKUTY4dXRlUTVHeGNqSXVyY3h6Y21oZVVjczBIWDUtR1ByTnV0dHh2TlVveUZwaFYzMGYtTWFBcG96OEtnTFFnbjZ5TUFrc3k5S3Y3b1hIUnJnanF3cVo4MmRWangxWTZFeTItSGVRNlRPSFlONXpSTnZXNF9LZlV3cnlLVnhETkxJUlp1V2I5ZzI?oc=5",
-      "snippet": "Pope decries ‘unscrupulous’ polluters at deadly, mafia-linked dumping ground &nbsp;&nbsp; The Guardian Pope Leo decries 'dizzying' profits earned by companies that pollute &nbsp;&n",
-      "pub": "Sat, 23 May 2026 12:45:00 GMT",
+      "title": "India’s Goyal to visit Canada with 150 business leaders to boost trade ties - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHFYSk8teGU2dFo3bGVTOVlwcFktMmREcUp5YXd6WFNPTklpZkpPeTV0WG41RHBZUUFBU0liYlBxZTVUTkVDLWJzTnpTek5UcU0zdk1ONjBUdDAtdjVId0ZxbVRrYXdYMnVOMzVTSDJwSDBNaG1iUlZ0enliUzd4N0RmSGdkblR0dENTOHhGRDZLX0xDT05vMzVxYjNRNVFFTlJ6bWZpLVRlVEd5ZGVRNEdiMS1vTW8?oc=5",
+      "snippet": "India’s Goyal to visit Canada with 150 business leaders to boost trade ties &nbsp;&nbsp; Reuters See more headlines & perspectives on Google News",
+      "pub": "Sat, 23 May 2026 10:28:21 GMT",
       "image": ""
     },
     {
