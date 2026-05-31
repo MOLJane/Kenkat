@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T21:51:48.073497+00:00",
+  "generated_at": "2026-05-31T22:51:45.749207+00:00",
   "count": 16,
   "items": [
     {
@@ -68,14 +68,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Polls close in Colombia presidential election that may reshape relations with US - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcU9MS2FfUVlRTklsYXdEN0JqNlZEV1E5T2xzQzNuSDlDTXNGYWRQOTVJOE1Qd3ctMDY4aWxpeWJrOWJQY2tWVTM1aGxGRTNGektnQU5od3hPQQ?oc=5",
-      "snippet": "Polls close in Colombia presidential election that may reshape relations with US &nbsp;&nbsp; BBC Colombians head to the polls to choose President Gustavo Petro’s successor &nbsp;&",
-      "pub": "Sun, 31 May 2026 21:08:21 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Man awaiting trial in fatal Brampton crash charged again with stunt driving in Mississauga - CP24",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1FEQTJndDNyQkhRV1RzU0ZRYnRrZlB3TzhkcFZPcnBhc2YyUjFkQ3BVLVVZbjg0dVN5czBXQ1ZXd0RWamhBRnpmVlp1NWtuOURjZjNJa3RFa1JLcFlRdTYwV3BCWnpCQzdzVkNSWURVNFBGTlJkYnZ1bVNaNUlRNU00OWVrM1Rtc0lwUk1lVlk3b1FWN1dfM1h4MEtGbUgzUW5KWXFXdGotdXFyY3FLZ2VBaDMycGMtNGVVdTJfOGxMMEU2TzExeWFCWk5IYW9MUjNJ?oc=5",
       "snippet": "Man awaiting trial in fatal Brampton crash charged again with stunt driving in Mississauga &nbsp;&nbsp; CP24 Man awaiting trial for fatal crash in 2024 arrested for stunt driving &",
@@ -86,16 +78,16 @@
       "source": "Google News Canada",
       "title": "Pence calls Trump's 'anti-weaponisation' fund 'deeply offensive' and says it should be dropped - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0R2ZpOTFDcWdpMWhvWU5INVgzTTNkZ2dvVTRCZDI1c2xETjIzTENhV09vajUwQU5Mc1FmQkt2enliWmRoWjRMZnNmSGRtcDdNSXhRVFFHNmk2dw?oc=5",
-      "snippet": "Pence calls Trump's 'anti-weaponisation' fund 'deeply offensive' and says it should be dropped &nbsp;&nbsp; BBC ‘Anti-Weaponization Fund’ is ‘deeply offensive,’ Pence says &nbsp;&n",
+      "snippet": "Pence calls Trump's 'anti-weaponisation' fund 'deeply offensive' and says it should be dropped &nbsp;&nbsp; BBC What Congress can and can’t do to rein in Trump’s $1.8 billion payou",
       "pub": "Sun, 31 May 2026 20:00:08 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Flood warnings, evacuation alerts issued in southeastern B.C. - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUlVbHVxQVZMbmZBTzhkcjRMTV96aTF4MlNZSnVFOEhwZW1nRl9CbTl2WUVaZmRqdGNtSENjbGVUQ0UxTWhTQWhVRjExM0s0OTNma1dReWNPYzdqSWR4MlpqaVVHN01WclVsZHdvQTdac0t1RUdEbkVxcGlxbmRtcFQwR0NOSWJPVUt4RW81WnB6VDVUN01pQURrXzY3aEh1LWc?oc=5",
-      "snippet": "Flood warnings, evacuation alerts issued in southeastern B.C. &nbsp;&nbsp; CTV News Flood watches, evacuation alerts due to snowmelt in southeastern B.C. &nbsp;&nbsp; CBC Flood war",
-      "pub": "Sat, 30 May 2026 18:24:41 GMT",
+      "title": "Former Snowbird pilots call on Ottawa to scale back aerobatic show instead of suspending it - CBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVWFlYXlsbkE2MnczNG0wY1Z6dlFaT3hyaTBvRTI0YWVEcmo4bkVQSVdlSTBUWV9MMFFpMnNuRV9ZQ2dTc2dWXzB6eUMwNkxFYkR3NzRJcnlsY18xT3VLaWVZb0hoX0NwSXlkLVVPdktJS1NoZWFiVkljTFltT2U1VW5aOFpSZ256d2tGY3daM3F3NTBsYzVYNHliV2FSX1NBbkZ5YkpB?oc=5",
+      "snippet": "Former Snowbird pilots call on Ottawa to scale back aerobatic show instead of suspending it &nbsp;&nbsp; CBC ‘Shining symbol of our very nation’: Campaign launched to keep Snowbird",
+      "pub": "Sun, 31 May 2026 08:00:00 GMT",
       "image": ""
     },
     {
@@ -103,31 +95,39 @@
       "title": "Update: Stretch of Atwater Ave. reopens after viaduct incident - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRUFVWXVhYUljRDcwZmVici1XTGZ3MGhMamhFd2Z5WmlPOWJ0VktVN3Z5WnpEUWZNMDRMbWVQaDF2cGhwQ0pHdGpVTXFyZ2wzRmRQd1BkRzExN1Q0MEh6VUlPbjI5WVFhdEN0cmtnTzFTSHJTYV9JOXNLTk83ZHhHTTlKMm5hcjBLMUdNMzMyU3U4NEF0YXM4cU9rcF9IM2JBemJYTXFwSQ?oc=5",
       "snippet": "Update: Stretch of Atwater Ave. reopens after viaduct incident &nbsp;&nbsp; Montreal Gazette",
-      "pub": "Sun, 31 May 2026 16:26:13 GMT",
+      "pub": "Sun, 31 May 2026 21:15:19 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Kerry-Lynne Findlay wins BC Conservatives leadership race - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQODBlMGFEZXZSd1N5MnRnMEphMHV4VkNoVDdmWVA2NnRKR2g3TWdaUy10WjA3WlAxbHVKOUgxNTV3VlNac1pzaERXbGRZQlk2SklHWmRQcjgtZUJoVm9NRmlNdnVVaXdWaEQ4dlhLZlZfN0Fvb0RBZVJOYllqSkRtTFN6eXdRR0ZaOXdoZVJFTHl4c2U4OTZFY3lWNlU4Zw?oc=5",
-      "snippet": "Kerry-Lynne Findlay wins BC Conservatives leadership race &nbsp;&nbsp; The Globe and Mail See more headlines & perspectives on Google News",
-      "pub": "Sun, 31 May 2026 02:20:52 GMT",
+      "title": "Update: Murrin Provincial Park closed as crews search for two missing paddleboarders - Squamish Chief",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSlFjQXlkSVM3S09PUnFUY2pKVXc4X2FsTEdManRyRUVsSkF0TUVLRDNSSjB5MkNUN2dKLS1zbVJOSFZIMU9EbjJWTkQyS2NGRlJHRlVIUnpOX0phWTA1Ymt4MFRWbE5FMktaSU14UlVtYTB0dEIwLXFWTzhFd0tYX1FBSUJjSF9KX05HS3dva1RQaWlwTFJ1Q0dETkk1eTlHYVZ0SFBxYzY2N0c2Y1N1dlg5X1RYUDZQQlN6MjNKb0F2Q1M3NDY3cEllc3JKMnM?oc=5",
+      "snippet": "Update: Murrin Provincial Park closed as crews search for two missing paddleboarders &nbsp;&nbsp; Squamish Chief Search underway for 2 paddleboarders who fell into lake near Squami",
+      "pub": "Sun, 31 May 2026 01:43:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Why attending university closer to home could be a game changer for Inuit - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94UTc0TVB0NEx6bHNabkljdXZEU0xZb2hSRlJ4bFlFdWdtWmdVOEtadzhneEVWTUVmblgydVNHVmp2bS03b3JQUFN6a1c2RWwwVUlCUUpvRmNmOUQ0N2ZyQ2lEMUU1TG5kNjlYUWpEZFZjR1JERWpEcnp3?oc=5",
-      "snippet": "Why attending university closer to home could be a game changer for Inuit &nbsp;&nbsp; CBC",
-      "pub": "Sun, 31 May 2026 08:00:00 GMT",
+      "title": "Men found guilty of second-degree murder in roadside shooting of county worker - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSHFKcXJtQjAxOGt1QS1ELTFlWTZEaW81VHgxMlN0cHlmNUpqY1dFWmJUN2NPeWktS3Niek1saHJmQlk2YlBpOHZtTzQ3Rm1yb2ZpNzZFdDBaN09xeS03OW9SXzAzV2dDTm0tMnJjOHJkUEhZVHJLRTVwWnlwX2pzaS1TSVk5SERhX1hMSi1oYkx5aDd6VFRUVk5rQkxOT3VqUURPTTlPZXJmNHRZeEhOR19B?oc=5",
+      "snippet": "Men found guilty of second-degree murder in roadside shooting of county worker &nbsp;&nbsp; Calgary Herald Two men found guilty of second-degree murder in random roadside shooting ",
+      "pub": "Sat, 30 May 2026 23:59:07 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Manitoba police watchdog investigating man's death after hostage-taking, house fire - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQczBsOTdGTUNHbTFKSDNySjljMmRRZk4tdUZ3Z3lnVDVzLUZRaUsxOUU5TEJiRTNPUklVZldOUUtxUGtSdlpfT3BkR3VPQjY2LW80RzI0cFFXZ1NqOWxpa18tXzkxaW9PeVZPLVRDMHZ0eGFQU3ZVOFV2ZzRSQTRDb3VtdlpkSnk4LThJV3hDQ2wzVzB0UldndC1HLWdmd2sxU2lSREJEOFpGYnc1cXpLc0xsck80a1pMM3l1VlBKMFdFQ01p?oc=5",
-      "snippet": "Manitoba police watchdog investigating man's death after hostage-taking, house fire &nbsp;&nbsp; Castanet Suspect in King Edward hostage situation dies from gun shot injuries &nbsp",
-      "pub": "Sun, 31 May 2026 18:02:00 GMT",
+      "title": "Kerry-Lynne Findlay voted new leader of the B.C. Conservative Party - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1BPSWdjQ3B2dms2cjZBdUZkMThoQzd6cjd3VE5mdmlmTlhZdlVBVzZYYkNFZ1pvdENOQ1l1SmNEdFRvOUZMV0g0bUROcnlvemtnSDVpQ1V0R3ZuN3VQS0F2UjVSWTV2VnFuMEhRa0R0bjBKMEl4dklLRXN4YV9qZ3A1YUpDT2ZSQjZydWgyeWFHQTJXM3FCbkZXaw?oc=5",
+      "snippet": "Kerry-Lynne Findlay voted new leader of the B.C. Conservative Party &nbsp;&nbsp; Vancouver Sun See more headlines & perspectives on Google News",
+      "pub": "Sun, 31 May 2026 16:52:12 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Resources pour into Lobstick and Cayford wildfires, as crews contend with challenging conditions - paNOW",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFBJN3BtMjIwMWVCSnFROExhX2RKbnJXcExEWTlyMWJPTFBrVU9rampKbklYaHVOODhybFEzcTV5NGhIdmVBOTNmNFJyNUFDd3FWQmlZcnVUNmhPZjYxZDZBd0N1cXJnQ3d5THp0WjVSaWR3cHlBd25JVktIYktxQWIxOHRZRThJQ2toRHlhYk5lTWR5YjM2UmJxRkhaTldtMnJDVElhMGF6NUI0TjgtazZYYUJEdXJyNWYxYkdTWEJObFU?oc=5",
+      "snippet": "Resources pour into Lobstick and Cayford wildfires, as crews contend with challenging conditions &nbsp;&nbsp; paNOW Fast-moving wildfire prompts evacuation order near Shellbrook, S",
+      "pub": "Sun, 31 May 2026 18:22:43 GMT",
       "image": ""
     }
   ],
