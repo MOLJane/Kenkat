@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-06-03T15:11:59.605917+00:00",
+  "generated_at": "2026-06-03T19:04:46.860637+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Moose-Vehicle Collision near Gander Claims Life of Woman",
+      "link": "https://vocm.com/2026/06/03/moose-vehicle-collision-near-gander-claims-life-of-woman/",
+      "snippet": "A 34-year-old woman is dead following a moose-vehicle collision last night near Gander. Emergency responders were called to the crash, which occurred ...",
+      "pub": "Wed, 03 Jun 2026 17:58:45 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/10/rcmp-gander.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Man Sent to Hospital After Stabbing on Spencer Street",
+      "link": "https://vocm.com/2026/06/03/man-sent-to-hospital-after-stabbing-on-spencer-street/",
+      "snippet": "*Warning, an image contained within this story is graphic in nature A 29-year-old man was sent to hospital following an apparent stabbing in the centr...",
+      "pub": "Wed, 03 Jun 2026 16:21:54 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/spencer-street.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "UPDATE: One Person in Custody Following Police Operation in Buchans Junction",
+      "link": "https://vocm.com/2026/06/03/increased-police-presence-in-buchans/",
+      "snippet": "One person is in custody as the result of a police operation in Buchans Junction earlier today. Grand Falls-Windsor RCMP say area residents are now fr...",
+      "pub": "Wed, 03 Jun 2026 15:13:31 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/buchans-junction.jpg"
+    },
     {
       "source": "VOCM",
       "title": "28-year-old Charged and Weapons Seized in Mount Pearl Police Operation",
@@ -43,91 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/06/Janeway-telethon-2019-crop.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Capital City Names New Deputy City Manager",
-      "link": "https://vocm.com/2026/06/03/capital-city-names-new-deputy-city-manager/",
-      "snippet": "A familiar face has been appointed as the capital city's new Deputy City Manager of Finance and Corporate Services. Kris Connors has been working with...",
-      "pub": "Wed, 03 Jun 2026 12:55:03 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/kris-connors.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Federal Finance Minister Calls National Energy Grid ‘Win-Win-Win’",
-      "link": "https://vocm.com/2026/06/03/federal-finance-minister-calls-national-energy-grid-win-win-win/",
-      "snippet": "The federal finance minister believes a national energy grid is a \"win-win-win\" for Newfoundland and Labrador, Quebec and Canada as a whole. Franois-P...",
-      "pub": "Wed, 03 Jun 2026 12:38:06 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/federal-finance-minister-francois-philippe-champagne-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Man Assaults Officer During Attempted Arrest in St. Lunaire",
-      "link": "https://vocm.com/2026/06/03/man-assaults-officer-during-attempted-arrest-in-st-lunaire/",
-      "snippet": "A 32-year-old man has been arrested and charged in connection with a disturbance outside a home in St. Lunaire on the weekend. St. Anthony RCMP were c...",
-      "pub": "Wed, 03 Jun 2026 11:36:17 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/handcuffs-3.png"
-    },
-    {
       "source": "Google News Canada",
-      "title": "U.S. plans new levies on dozens of countries, including Canada, as Trump looks to rebuild tariff wall - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTlgzZDdkVUhaTHRTQnd3cnBjR0ZMcUZfV21tOUtFaTJ5Z1pHd0ZaSkNIUXlIZW1weFpoN3BvWXFnNWtQdkZ4Z0gxT2o1Q24wNDhWUzlyaVJ2cm8xdmg2emZ6aE9pcy1mRlItdHdCekZKWFVUUGNMa1pBUlU1YVZ3ZU5GN3RFZnkzSG5qUEpLQldCbUlBNzFmTnIxTQ?oc=5",
-      "snippet": "U.S. plans new levies on dozens of countries, including Canada, as Trump looks to rebuild tariff wall &nbsp;&nbsp; The Globe and Mail Proposed U.S. forced labour tariffs are ‘not a",
-      "pub": "Wed, 03 Jun 2026 13:49:39 GMT",
+      "title": "Carney says latest Trump tariffs 'not a surprise' after U.S. promises new 10% levy on Canada - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNWtrb0pEWmFjZFVyNFR5TFhEUWxOR0VsdHV3Ml81S1lvSHN0TjJXb2x6MDB1YW9EUmE5STMwc2FoY2s2WVZ0bXZDR2hjNmRBMjVYNldzSV9kMjBrY1F1S3Zkc180OWR5clM1dkd5U3p0TlAzY2ROSjJic1RualNoWUlPOA?oc=5",
+      "snippet": "Carney says latest Trump tariffs 'not a surprise' after U.S. promises new 10% levy on Canada &nbsp;&nbsp; CBC Canada looking to beef up forced labour laws as U.S. imposes new tarif",
+      "pub": "Wed, 03 Jun 2026 16:23:17 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘51st State’: Trump revives threats after Canada slips into recession - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWjNvX3E2blgzTVZuNG44TDNQVXNENGxzSE5QSGlUSnRYYjBnU0RXWFVvOENpM0xXWTBzajlQeWdWSU4tclREREVXMGF5U1hzRmJhNmxDMUtsbjhRajd6YjRqUXgtcS1SSEQzLXpCa3JwdHlVZlRXR05wTkFHM0xaODhPU0NOcS1CeFdhRDJuWllGUk9sdG1qUVhsQUdCeTkxRWFhaHRjWlVySUFiU01nb3F5N2UwZUl5TjJGbU9zR3dhdw?oc=5",
-      "snippet": "‘51st State’: Trump revives threats after Canada slips into recession &nbsp;&nbsp; CTV News 51 state 'a great discussion' for Trump and Carney, says Hoekstra as president trolls ah",
-      "pub": "Wed, 03 Jun 2026 00:16:00 GMT",
+      "title": "Alberta man charged after 500,000 child abuse images, videos found - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUxrLTIwLUdrZXhENGFDTzhFUWlxMWJ3YWwzdE5TT1o5OU9ucktxX1Q0bVEtc1V3N1JBM1M4aTlhWEJqNDBpeFZkVWgtNTl2MzVqMmt6dXYtdWdOYUVmaU1hblduQUo3dzlHTUdFSkFCcUc2UE4teV9oNGlwSDQ5UEFZR1d0V2pDaG1nVkVBMkRJTW5ERHNNblZtQlBFSmw4TTNzTFlXMA?oc=5",
+      "snippet": "Alberta man charged after 500,000 child abuse images, videos found &nbsp;&nbsp; CTV News Massive cache of child sexual exploitation files found in Okotoks &nbsp;&nbsp; CityNews Cal",
+      "pub": "Wed, 03 Jun 2026 16:18:55 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada tells U.S., Mexico it wants CUSMA renewed - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb0pFQ3JZTno3aXZkQXByeTZXZWp1X1NqQlVhcC10VEVhZEs4Y1pBd0t1aGtuN2NvY1hFSXY0RXNGcVZHMU4yWjVYeFpURE9VeHNJVkZCT0RpM05qSnk3NDB5TDMtQW5WZXl5cVQ5bU1aTlRRTFpTVmwxcHJISzdUalVKSzFib0lEVDU5Qg?oc=5",
-      "snippet": "Canada tells U.S., Mexico it wants CUSMA renewed &nbsp;&nbsp; CBC Canada calls for CUSMA renewal, but economists see no quick end to uncertainty &nbsp;&nbsp; Financial Post The Dai",
-      "pub": "Tue, 02 Jun 2026 23:22:52 GMT",
+      "title": "Ontario education unions serve formal notice to bargain. Here is what parents should know - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUzV5RVpxTnBLcXZlVmo2TmM5Ty1UX0dPeGN1Rml2NGlNaE5SaVE0ajNqenE5aXpSQTZMTnhkQS12eThfQnhHUEpsbkc0eDdoWmNtQ2tRdm5RRTdFMWp1YXRLdG95cFB0ekJVQ3JrTkFSbUd0MEN4WHFnSXRySXNBaWlteUhxSlJ5R0ZGUWVGTXpfb3B2RkVYcnZldG12VXAya2xpYTdGZWNqWVJNTEExeXZCUXF3S0ZTbTdyOHFJU0ZWejA3dC1r?oc=5",
+      "snippet": "Ontario education unions serve formal notice to bargain. Here is what parents should know &nbsp;&nbsp; CTV News Education unions serve notice to bargain, begin countdown for contra",
+      "pub": "Wed, 03 Jun 2026 17:46:45 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘Systemic’ Retaliation: Kremlin Shrugs Off Questions After Ukraine Hits St. Petersburg Targets - Kyiv Post",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjYVF4U1k3Zll4YUJyOUZYWU1iS3gwRDZNNVh3V2N3dl9Fb2pQR0tKUHo2TWoxZDdzRXlpbXhFQWtEb2RXT0ZHaDJfdw?oc=5",
-      "snippet": "‘Systemic’ Retaliation: Kremlin Shrugs Off Questions After Ukraine Hits St. Petersburg Targets &nbsp;&nbsp; Kyiv Post Ukrainian drones strike St. Petersburg, hours before ‘Putin’s ",
-      "pub": "Wed, 03 Jun 2026 11:23:44 GMT",
+      "title": "Ukraine strikes St. Petersburg with drones ahead of 'Russian Davos' - France 24",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzdzU3lmT2Fjd3oxVU5mdUlvM2VZQWF1LWxwTXJlaS1kN2doVWhjejF2NHBpSWJzRjF2QmUzWWJCbk5hYzdIVUdiZ2RHbWM3TzJIbmJTUnQ3cC1ucVp0UW9USzRseVNud2pxMkxaSy1JVGp4a014SURKemRTOHZxWkJCRWZmV2h2OWxfbGtUemx4RGRsNU51NWlvZkxuTjA4Z0R2OUk4OERDa1liSjVpQXJwZjU2c3M?oc=5",
+      "snippet": "Ukraine strikes St. Petersburg with drones ahead of 'Russian Davos' &nbsp;&nbsp; France 24 Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens &nbsp;&nbsp; ",
+      "pub": "Wed, 03 Jun 2026 12:59:36 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada and Québec forge new partnership to build strong new local infrastructure - pm.gc.ca",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGtFVE9lc2d1dHZ6Vk1iU1BkazFTQlJsUThqa09zMzBIMzhPZHM3TE9UYjlHdTYtdVBzX0pmOGpJYkpta0ZrcW1pQ28zcmJuemllcDVKOHVHRmc3cTdXSjc1Z0plOFpXMFhHTWZXOU9HQkNhUGhIa0loNWhzVmZDZE11VE5iM003TXpMTVVkdGRrZTVELW92N2ZWQlhqZXVMaUItRVVmZ3dRbFhhLUhfTkhDaTZMTlU?oc=5",
-      "snippet": "Canada and Québec forge new partnership to build strong new local infrastructure &nbsp;&nbsp; pm.gc.ca See more headlines & perspectives on Google News",
-      "pub": "Tue, 02 Jun 2026 19:00:00 GMT",
+      "title": "Trump confirms calling Netanyahu 'f****** crazy' in telephone row over Lebanon strikes - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU09CdG43b2E2T3JFQlB3czNOU2c1aFRCd0tBOXpudTVFUVpucHRxNEYwRTRONUt1N2N6WmtQWmYzM01xU3ZKY0ZfT0tpTWFLOEhWNGxBam5KVFZNRXRqWjFLYk9LQWQxN0FGR1htU0d6enY3TnI5VGJ3QjU5Q3ZCZGt2eUJEakhGXzBEMHBqWkkwbUxOVnZnYUtJUURMNlhVaUZSN2V0Qk44Y0tWbUliNzBnSVM?oc=5",
+      "snippet": "Trump confirms calling Netanyahu 'f****** crazy' in telephone row over Lebanon strikes &nbsp;&nbsp; Euronews.com Middle East crisis live: Netanyahu downplays US row as Trump confir",
+      "pub": "Wed, 03 Jun 2026 13:49:52 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Montreal weather: June is going to be a stinker, Environment Canada says - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSVlwUERHMmE3R0ZtWFlTOWJ2akQxcHAtMXBUdWlIWUJQRjZ3b3VvWXV5OWpMSnZiQkY2Qml3eUpnT3BhVDljY0p2SmNsREN2dnVmeGxENXJ5QlY3SGk2Q2xpVXEzQi16bTNOS0ZpbXNHMlI4U1JSNFNjMGZzYnUzaGNrVjN5MnlCaGpaV2dXdko2OGJfbWlWZ0l2Y1VlakdKY2RvcXlrREN3c2VyS2FnbWNR?oc=5",
-      "snippet": "Montreal weather: June is going to be a stinker, Environment Canada says &nbsp;&nbsp; Montreal Gazette",
-      "pub": "Wed, 03 Jun 2026 11:38:36 GMT",
+      "title": "Eby says Kerry-Lynne Findlay applying to be ‘MAGA regional manager,’ not premier - Global News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXFlSXJ2azZNY0lpU3F2djFBMzVQREpmTUl0d1c5WEdpRjF2eTNPT2EySkQ1dlE2dkMya2VtRUhyZXFONHZ5VWlFb2lycWtGb09lUTl1bk5sSUdKWGh5RXhxbmM1OVFKMjVLV1JDWTNGd3N0eXNYRTNETUFadWhnMFpib1cxZEp5RTdSNjR6dXpBOGxqTzhJWHl4ZjJEY2VBWGI0X3pkZFNBQTFhMlE?oc=5",
+      "snippet": "Eby says Kerry-Lynne Findlay applying to be ‘MAGA regional manager,’ not premier &nbsp;&nbsp; Global News Opinion: Will the B.C. Conservatives now become MAGA North? &nbsp;&nbsp; T",
+      "pub": "Tue, 02 Jun 2026 19:44:43 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "3-year-old child's death in Montreal highlights dangers of inflatable play structures - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbmZxVDdDSVpjX1VDemYyMjJta25jQ0pkVDZaWFNCWWZuNjhKY2o4Ri1YZk16V3RyMjctNlU5NFN6S05oSGZfc0VLUUozU1NPaktkYmNzZlJsUm9Dbm5wSXhFVzU3TGl0SndqamhLcE1ZeWpFYzZHc00wcHMwQTVrT1ZfNDJ5Z1Nza1NVaHctNm5oXzZZaGJQcFpBOGFSWUFRcXFKQ053NHFnTkxPQmhqOWhCUkFEZnFJOXF2ZUp0WUE0VXM?oc=5",
-      "snippet": "3-year-old child's death in Montreal highlights dangers of inflatable play structures &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Wed, 03 Jun 2026 09:28:19 GMT",
+      "title": "Severe storm threat lingers over the Prairies after three confirmed tornadoes - The Weather Network",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOW5oVExNZXZDSVhHc2d0dk43M3lncUVza0lqRjBubXE2c1pvVjg1WllSWGQ4Ynp4djUwVFY5bGVJMWtFTG1nTzlhMVRQOWhJcHJNZTdpSzY3YWZ3TndrUlREM0k0TTZMd210dWF0Tmx4TXNJbWNtOHRTRWI3QXYxQWFHay13am9aX0NHT3l3dTRFbzVDaXlnZ3lWWWVqYTZLa0lsRklZZS1MLWxQck1USTJMeTJlb0JURmlWeUhUX0pvZEgzMlNidVdIV0RabEJQQUJn?oc=5",
+      "snippet": "Severe storm threat lingers over the Prairies after three confirmed tornadoes &nbsp;&nbsp; The Weather Network Environment Canada confirms at least 3 tornadoes touched down in Mani",
+      "pub": "Wed, 03 Jun 2026 09:10:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Bodies of 2 paddleboarders who fell into B.C. lake have been recovered, RCMP say - CBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTGM5M2V6OUNuSzF2bVJNYjFPWmFUSTY4a0JjYXI4OEk4VlZkWDFORjhyWDZ3aVdaU0h4X0ZzLUxDR0NMMFRCdHgySnZFMVRGV3UyU2twUzF0bTl5UnVxdWZRdEowVHdhOFJVZWpDUmdDemZHcDgzU29BRlVqd04zN0JIMDdoTWlDdmxtSmIxTVY4SE5JcVZyTFZn?oc=5",
-      "snippet": "Bodies of 2 paddleboarders who fell into B.C. lake have been recovered, RCMP say &nbsp;&nbsp; CBC Bodies of 2 paddleboarders recovered from Browning Lake in Squamish - BC &nbsp;&nb",
-      "pub": "Wed, 03 Jun 2026 04:43:00 GMT",
+      "title": "51st state 'a great discussion' for Trump and Carney, says Hoekstra as president trolls ahead of trade talks - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMjhYM2F6UzZMUDdZTF9td2IzN194WFhVVkNNMVdELTRNa204akJNUGJoMzRscWY4T0sxWXdXVGRUNjZHdHNOTHhfaURiU0tENmlmYTcySlRJd3lYbzNsd2JNVENXcGpZY2h6d19YNzVLSGtNMVR0V3lkNXRqblNTQk1nMG41R19EempOd053?oc=5",
+      "snippet": "51st state 'a great discussion' for Trump and Carney, says Hoekstra as president trolls ahead of trade talks &nbsp;&nbsp; CBC Controversial U.S. ambassador to Canada adds to Trump’",
+      "pub": "Wed, 03 Jun 2026 15:39:42 GMT",
       "image": ""
     }
   ],
