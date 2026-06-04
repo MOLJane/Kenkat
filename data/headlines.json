@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-06-04T15:55:44.834284+00:00",
+  "generated_at": "2026-06-04T18:10:04.104388+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Contractor says Both Government-Cancelled Construction Projects ‘Presented Significant Challenges’",
+      "link": "https://vocm.com/2026/06/04/300737/",
+      "snippet": "The contractor which was awarded the work in Stephenville Crossing and Cartwright says it was advised verbally of the cancellation yesterday. The comp...",
+      "pub": "Thu, 04 Jun 2026 17:36:13 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/the-former-cna-building-in-stephenville-crossing.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Taxpayers Federation says Government Grocery Stores Tried Before, and Failed",
+      "link": "https://vocm.com/2026/06/04/taxpayers-federation-says-government-grocery-stores-tried-before-and-failed/",
+      "snippet": "The Canadian Taxpayers Federation is throwing cold water on the concept of government grocery stores. NDP Leader Jim Dinn raised the issue in the Hous...",
+      "pub": "Thu, 04 Jun 2026 17:20:28 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/07/Produce-Groceries-Stock-Photo.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Minister says Department Still Working on Filling Chief Pilot Position for Water Bomber Fleet",
+      "link": "https://vocm.com/2026/06/04/minister-says-department-still-working-on-filling-chief-pilot-position-for-water-bomber-fleet/",
+      "snippet": "The Department of Transportation is working on getting a new Chief Pilot in place for the province's water bomber fleet. The former Chief Pilot resign...",
+      "pub": "Thu, 04 Jun 2026 17:14:09 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/06/newfoundland-and-labrador-waterbomber-photo-via-vince-mackenzie-twitter.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Negotiations with Quebec on Churchill Falls to Resume ‘Really Soon’ says Minister",
@@ -12,15 +36,15 @@
     },
     {
       "source": "VOCM",
-      "title": "73-year-old Taken to Hospital in Latest Violent Incident in Metro",
+      "title": "UPDATE: 73-year-old man in Hospital Following Incident Near West End Grocery Store",
       "link": "https://vocm.com/2026/06/04/300718/",
-      "snippet": "A 73-year-old man is in hospital following a violent incident near the Sobey's on Topsail Road last evening. Police and emergency responders rushed to...",
+      "snippet": "Editor's note: An earlier version of this story has been updated to reflect the latest information available A 73-year-old man is in hospital followin...",
       "pub": "Thu, 04 Jun 2026 15:10:31 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/rnc-sobeys-store-topsail-road-police-tape-2.jpg"
     },
     {
       "source": "VOCM",
-      "title": "Communities Blindsided by Government’s Decision to Cancel Projects",
+      "title": "Communities ‘Blindsided’ by Government’s Decision to Cancel Projects",
       "link": "https://vocm.com/2026/06/04/300710/",
       "snippet": "The PC government continues to dismantle multi-million dollar projects initiated by the previous Liberal government - the latest two cancellations \"bl...",
       "pub": "Thu, 04 Jun 2026 13:21:05 +0000",
@@ -43,28 +67,12 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/tony-wakeham-and-tim-houston-via-facebook.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Offshore Regulator Exploring Ways to Incorporate Artificial Intelligence into Industry",
-      "link": "https://vocm.com/2026/06/04/offshore-regulator-working-to-incorporate-artificial-intelligence-into-industry/",
-      "snippet": "The regulatory body for the energy sector in Newfoundland and Labrador is figuring out how AI can be used in the industry - both in-house and for the ...",
-      "pub": "Thu, 04 Jun 2026 11:42:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/11/west-white-rose-floatel-endurance-offshore-project-cenovus.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "MUNFA Members Resign from Board of Regents",
-      "link": "https://vocm.com/2026/06/04/munfa-members-resign-from-board-of-regents/",
-      "snippet": "Relations between those at Memorial University who prepare young adults for the work world, and the employer have gotten even frostier. The associatio...",
-      "pub": "Thu, 04 Jun 2026 11:07:18 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/mun-memorial-university-generic-3.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Equinor Canada VP Optimistic About Bay du Nord",
-      "link": "https://vocm.com/2026/06/04/equinor-canada-vp-optimistic-about-bay-du-nord/",
-      "snippet": "A top official with Equinor is optimistic about the future of the Bay du Nord project as timelines for a final investment decision draw near. It was d...",
-      "pub": "Thu, 04 Jun 2026 10:37:34 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/06/equinor-bay-du-nord-illustration-of-the-floating-production-storage-and-offloading-fpso-unit.jpg"
+      "source": "Google News Canada",
+      "title": "Alberta separatists claim independence means holding onto a Canadian passport. We asked legal experts - CBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU1ZudGo3N25MUU1CdFVHNjB6MUI3OWVmREFpNnZmd2hrYlE2bGQ1ZlR2aEtJY0tSbHREd3dPeEdPWldsUHlOcnk1QmlqSjAxZERmcEMtRGZ0WUo2dXI1RGVEQl9fcjZvdUZiNXpMRHBwNjVuYkxnSkdpX21Ec0hJNUpZN3RsVkluWGlpRDl4Zk5IckwzRWhMbEFIbWRZT3M?oc=5",
+      "snippet": "Alberta separatists claim independence means holding onto a Canadian passport. We asked legal experts &nbsp;&nbsp; CBC",
+      "pub": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -76,58 +84,50 @@
     },
     {
       "source": "Google News Canada",
+      "title": "RCMP officer charged with organizing illegal border entry of family member - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUUxYQUZ3VGRGMUQyNFNYSVFzOURMMzdCR0FIeHN4cFk1MTR5LThrNUMyMmRhdU1YV3IybmVqTmlZUk5QejdETHFYc2lQSFFlRkJVdEpFamxYU1VlZUVaV1kwdmVsVXYtSU5XdmpSb1JPaHV4c282alhZWURIRmEyS1R4VEZKeG5rMmRKd1VzWVZHV3paeUJ5QUJ1YlFqcGRmMDBOSFFvWkhqSTZKeGdHRnVvOWhiQQ?oc=5",
+      "snippet": "RCMP officer charged with organizing illegal border entry of family member &nbsp;&nbsp; CTV News Quebec RCMP officer charged after allegedly organizing family member’s illegal entr",
+      "pub": "Thu, 04 Jun 2026 15:31:13 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "First US screwworm case in 60 years: Should America be worried? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRjZLZkQ5dGFHZlU1UnFkWjg0eWJkX3ZoazFaTE00Q0xaNkV1eVNkYThqOUFqRUI0NWRXcnhwQXE3ZW9weGcxU05jZWR4TlJZbUYtZnVuS3QzQTZJTHBVT1hsdXBRd2M0QmxjS1k4OW9FV0Z6ejJ1MFk1dnI4dUVuSjUtYmZPUkMwV2RMNUxSVmc2QmtYcWVsOGEwai1EWHlIcXc40gGoAUFVX3lxTE13aEFkYWd1RDQ3MWtibmdYTlZiRnhySnFrY2drbHZzVVl2WG9oVmlibFkzZkRRWERZWk9YSFZ5a1Rib0tLemJmLWczTTlqWmtkRDRNd2lQWmZoTWFHbTRqR3VnTFpNcWYzRHJJa2gxY2NHRHZzYnc1djRzMDZmb0NVaXZiYUI1cXFYTUNleG53bTZXdXV6NENUenNzMTVJZ25MelN0alR5NA?oc=5",
-      "snippet": "First US screwworm case in 60 years: Should America be worried? &nbsp;&nbsp; Al Jazeera Flesh-eating screwworm arrives in US with first case in Texas &nbsp;&nbsp; BBC Screwworm fly",
+      "snippet": "First US screwworm case in 60 years: Should America be worried? &nbsp;&nbsp; Al Jazeera New World screwworm fly has reached south Texas, USDA confirms &nbsp;&nbsp; CTV News Confirm",
       "pub": "Thu, 04 Jun 2026 13:18:57 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada, Five Eyes warn China using online job sites in spy operation - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2VZYUFheFVoekZXR09falJWSUgtcGk3Y2VQclVDM1RTTmZxMUdGbGpGdDIyWk02WnhCTkQ4bjJXV3VONkd0b29lNXpLWTNDdWdtWG9EaVh1eGpCUlRBb3NNbl93aWRBUVZScmdCdXM2XzhnejZTdlhXcXRsdnNXS2k4Uk9tbl9VWEY5Q092cklKX1NnMXZJTnlrNlpZSU5BeHBjQUZhaklWdw?oc=5",
-      "snippet": "Canada, Five Eyes warn China using online job sites in spy operation &nbsp;&nbsp; CTV News China Uses LinkedIn to Lure Spy Recruits in West, U.S. and Allies Warn &nbsp;&nbsp; WSJ M",
-      "pub": "Thu, 04 Jun 2026 01:10:00 GMT",
+      "title": "B.C. MLA Jordan Kealy charged with sexual assault - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSmFPTDduM2RyLW9qbFVkUU9RelNlY19KNzRSSXppNU1MZlJVdDJ0LUpBS19qUEF3c25zbFNwa3E0Y0VwRkhQcWVXcmh2alZhTU1EemUtdnpTbU0tMlJ5Sm41NEQ2NVJMbkN5ekMwMHNUelhDcHc1WjBwckU3SkNLT2RhSVhYcXpoaEY3UW4wRThyYmRoS0xPSk1ib0FQckRnb1ZRWnNhZ24tVjZ0STdJNkRjM1BIdHl5TnY0Vg?oc=5",
+      "snippet": "B.C. MLA Jordan Kealy charged with sexual assault &nbsp;&nbsp; The Globe and Mail See more headlines & perspectives on Google News",
+      "pub": "Thu, 04 Jun 2026 16:55:47 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta premier warns separation could cost $400B. Separatists, economists and Brexit scholars have thoughts - CBC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaGJ2eTI2SW1tU2VDeC1QZFV4eTVrc1FhSFBCem5WYVVQUzZhRVpCLTJhWXJkRTZ1T3loS21aX1ZrY25mdHg1WVhQRHRTcXkzc3A1dTcxb0FSNGliUGpnMzktajBiVHNhZG9LNWlJcXRwNGVLUkV4S3BXcVVVVmpUdlYxNFc1enAzTVpXSVBDX0x6YzZURzFB?oc=5",
-      "snippet": "Alberta premier warns separation could cost $400B. Separatists, economists and Brexit scholars have thoughts &nbsp;&nbsp; CBC Lorne Gunter: Separatists’ response to cost issue flip",
-      "pub": "Wed, 03 Jun 2026 23:49:19 GMT",
+      "title": "Professional networking sites and online job platforms being used to target Five Eyes nationals - canada.ca",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPM1J5TWtoSWRNeUZ0NkFXc0psbXE1b2pWbkcxb3hPYXZzOEJyR1kyaTdXODIzNjRib0xUdTJ2cnpiQkVQSkRKSGktampkTkpEdG1CT0V2bGs2UWxRWUpjVENQaVZLNXplenNJWFYtdVZaaDllVHd4b2w2cnZkR2FpNlJqSVJLeXUzY2tXZXJGZmMycmRBZFNickdCVDZVV091LTNFWUtMejdtTWl2TlNTa29fZUk4Wl8zNUdKVS1nOG92R21iTTBnOThId0NNMjhEdC1kUExmVEk3U0FicUlwTnVTVHl3RTlJWHh5aDI0MGU4Znh6cTV3b1I2eVU?oc=5",
+      "snippet": "Professional networking sites and online job platforms being used to target Five Eyes nationals &nbsp;&nbsp; canada.ca China Uses LinkedIn to Lure Spy Recruits in West, U.S. and Al",
+      "pub": "Wed, 03 Jun 2026 20:18:55 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "4 teens arrested after man killed in a Walmart in Montreal North - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnI0ZEt1QlMzT2haeE5sLUhvLWFRemxVUEJwelFvTjBNcVJHaVJ2b0c2MDZXazFLNFViLWRQN1ZNcFc3MUZ4dy1ZYXlyUHA0T3VET0xBNERmckZMTTNhRWxWaVpoQWR5VlpJSHRPZW9FakQyU09TWkYxdHR3S0lJbEk0dnI3ZHFOVWxwTFR1T1pmRXQ5N0tvdXlXV2prTGgtTWNRNVdPZ3pvbExFSFFtME5tQjY2UQ?oc=5",
-      "snippet": "4 teens arrested after man killed in a Walmart in Montreal North &nbsp;&nbsp; CTV News Four 15-year-olds arrested in connection with fatal Walmart stabbing in Montreal North &nbsp;",
-      "pub": "Thu, 04 Jun 2026 12:49:45 GMT",
+      "title": "Quebec men among suspects arrested in 2 separate Ontario auto theft probes: police - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnJlV3VXTTEzbW5ua3kyY0FCN3dKYUZTOXJ0Yi1ZVTd5RDNLWjJsWFA2YWI5YmVfRi1WcEhyVms1UFNzYXB6bXYtZnZ2UnZrX0dSdEEzWlhmd0dyU0dITUkzc2Y1dTRyRkNrRXQ5bG9zUnJ0VWt5aVhmc2dmNGRQTWMwY1gwN2hjTTVveVpPRElrOTVXNVNtM0VMYWxoa1l4eGUyU0dQZDNERnF1ckR2ZGJ2Q3pEOGZCSURZMnFR?oc=5",
+      "snippet": "Quebec men among suspects arrested in 2 separate Ontario auto theft probes: police &nbsp;&nbsp; CTV News Two Quebec suspects linked to more than 100 stolen vehicles in Toronto-Hami",
+      "pub": "Thu, 04 Jun 2026 13:37:08 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Quebec girl’s death highlights lack of regulations for bouncy castles - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOajNSbXFydmdXZHplYUNURi1TQ1pKYlNnSEdDY1VKeXpPbzdYU3dQMUs4aFU4c215UkRFcDN4RHh2dENfV3phT1lvT0JUMW9iVlNrd1MyQ1N5aTVqNWR0X2FkdjNrUE8zSkUweVFxOW1ZU2ZROGlhb3dyQTdoaVQ5czJEdVVQM3djMVE?oc=5",
-      "snippet": "Quebec girl’s death highlights lack of regulations for bouncy castles &nbsp;&nbsp; CBC Rental companies criticize Quebec oversight after fatal bouncy castle incident &nbsp;&nbsp; G",
-      "pub": "Thu, 04 Jun 2026 12:54:21 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Four Toronto streets are among the 10 worst roads in the province. Take a look at CAA’s 2026 list. - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaW90ajYxYTd5MVluM2VsWlhtSjdaOHNvWUJIUDdxV0lIVEFpQWxiZXM2ejR3NEdwemFuTkVHbFljcWkzUW44S3RUaVY2RktZdVpRU0k1elJjMHVZVFNMOFJUSkhDbWFHdlAtSFQ0Nk9odGl5VEFQMmNJdlJ5NUNKeG1mcUk4djBLam1NRVZ4TERrLXRVczRJMWZsLUgwTlk?oc=5",
-      "snippet": "Four Toronto streets are among the 10 worst roads in the province. Take a look at CAA’s 2026 list. &nbsp;&nbsp; CTV News What’s the worst road in Ontario? These Toronto streets mad",
-      "pub": "Thu, 04 Jun 2026 10:50:57 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "2 major auto-theft rings in Oakville busted, more than 100 vehicles involved: Halton police - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd212Y1FZRlR0ejhwQWFnazktOVgxbTRPVjE1eElYUHRZbnJPSGpiaXRIT1Jfakcxa2pvQndnQkZjNk1xWURLV092U19FSHU3aWFlSVVLSWxjR1NjaVN1S2lQeUM2QzBOakswR2t0cWFhVHpIV3JQSU1tMFdkc3BxNW45eDIzNEVZbGhBdG93SllkWWxQdW1WSGt0SkJYS1NpRm8wNEJNZi1xQThneUxURkctU08?oc=5",
-      "snippet": "2 major auto-theft rings in Oakville busted, more than 100 vehicles involved: Halton police &nbsp;&nbsp; CityNews Toronto Quebec men among suspects arrested in 2 separate Ontario a",
-      "pub": "Thu, 04 Jun 2026 13:35:00 GMT",
+      "title": "66 opioid calls in 1 day. This is how bad the overdose crisis is, Winnipeg first responders say - CBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRDA4TzBZR09rSEVJbkJIdUxtSzl1dDk4a0x5ZUlXOE82bUo3UHl1VmZ2OEtrNUJkOUpnT1V6bFVUcl9Ua19vNUlsbWpxemZsTF91bWRlLVRIQ0hUVTBzTFl6RHFWcUJWdlN5VmdyY1FfUm10T2RTQ2NqTzRrNE1xT0RaNmkxMDVmS0hTSUQtVEtzMUpfeWJhZDVoYw?oc=5",
+      "snippet": "66 opioid calls in 1 day. This is how bad the overdose crisis is, Winnipeg first responders say &nbsp;&nbsp; CBC Manitoba announces project as data show opioid emergencies now outn",
+      "pub": "Thu, 04 Jun 2026 12:13:17 GMT",
       "image": ""
     }
   ],
