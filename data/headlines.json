@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-06-05T13:48:56.233124+00:00",
+  "generated_at": "2026-06-05T16:26:34.277585+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Sheshatshiu Chief says Town Needs Greater Police Resources",
+      "link": "https://vocm.com/2026/06/05/300799/",
+      "snippet": "The Chief of the Sheshatshiu Innu First Nation says his community needs a greater police presence to deal with ongoing issues. The comments come after...",
+      "pub": "Fri, 05 Jun 2026 15:41:34 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/10/Pic-Chief-Eugene-Hart.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Sierra Club says Fight ‘Far From Over’ After Court of Appeal Rejects Application to Overturn Bay du Nord Approval",
+      "link": "https://vocm.com/2026/06/05/sierra-club-says-fight-far-from-over-after-court-of-appeal-rejects-application-to-overturn-bay-du-nord-approval/",
+      "snippet": "The Federal Court of Appeal has rejected the Sierra Club of Canada's application to overturn the approval of the Bay du Nord project. The organization...",
+      "pub": "Fri, 05 Jun 2026 15:10:05 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/03/bay-du-nord-map-via-equanor.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Figgy Duff Reuniting for Friends of the Festival Fundraiser This Sunday",
+      "link": "https://vocm.com/2026/06/05/300789/",
+      "snippet": "The Folk Arts Society is hosting a Friends of the Festival concert tomorrow night to help raise funds for a possible NL Folk Festival. It's hoped that...",
+      "pub": "Fri, 05 Jun 2026 14:55:21 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/11/Folk-Festival-2018-via-Greg-Smith.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Kesha to Headline Churchill Park Music Festival",
+      "link": "https://vocm.com/2026/06/05/kesha-to-headline-churchill-park-music-f/",
+      "snippet": "The wait is over. Pop music singer Kesha has been announced as the final headliner for the Churchill Park Music Festival. Kesha became one of the most...",
+      "pub": "Fri, 05 Jun 2026 14:30:56 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/kesha-churchill-park-music-festival.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Local Business Community Very Worried About Possible Marine Atlantic Strike",
@@ -35,51 +67,43 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/roddickton-bide-arm-vandalism-ashton-house-heritage-site.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Projects in Cartwright and Stephenville Crossing Could Have Cost Nearly $100M: Petten",
-      "link": "https://vocm.com/2026/06/05/300759/",
-      "snippet": "Infrastructure Minister Barry Petten says he agonized over the decision to cancel contracts for the renovation of the old CNA building in Stephenville...",
-      "pub": "Fri, 05 Jun 2026 10:21:07 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/barry-petten.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Carney Unveils Federal Artificial Intelligence Strategy",
-      "link": "https://vocm.com/2026/06/05/carney-unveils-federal-artificial-intelligence-strategy/",
-      "snippet": "The Prime Minister has unveiled the federal government's AI strategy to help protect Canadians, grow jobs and enable people to use the technology to t...",
-      "pub": "Fri, 05 Jun 2026 09:44:48 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/mark-carney.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Province Considering Changes to Start and Dismissal Times at Some Schools",
-      "link": "https://vocm.com/2026/06/05/province-2/",
-      "snippet": "Ring ring goes the school bell but, maybe not at the times that parents, teachers and students are used to. The provincial government is considering m...",
-      "pub": "Fri, 05 Jun 2026 09:21:18 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/08/classroom-desks-tv-board-smart-board-school-paradise-intermediate.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "One-Time GST/HST Top-Up Out Today",
-      "link": "https://vocm.com/2026/06/05/one-time-gst-hst-top-up-out-today/",
-      "snippet": "Eligible Canadians might be waking up to a bit of extra cash in their bank account this morning. Earlier this year, Ottawa announced a one-time GST/HS...",
-      "pub": "Fri, 05 Jun 2026 09:06:57 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/09/Piggy-Bank-Money.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Carney government presses pause on new environmental-assessment legislation - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTRkdTlSQ1BmYmtjUW5scGJzbGFrTWxnM2FOSDB6MFRTSmM2VXZIWVUxOHlMczU5bFktb0xDT0t4dXZHbG1vOWhHMEViSS1sd0JHZHhabkJobllaSXloSnhiQ0cwSGFTTGlTR0NvWlFxS25OcHRRenItUjVlaGxVOTR4dVYwdlJzQVpZYU5jODI1VC1rNk4wM0NvRDBQbnRYWHgzT1hnMmd0VHhKU1A3dUx1OA?oc=5",
-      "snippet": "Carney government presses pause on new environmental-assessment legislation &nbsp;&nbsp; The Globe and Mail After 'feedback from thousands,' Carney government slows down sweeping e",
-      "pub": "Fri, 05 Jun 2026 02:05:10 GMT",
+      "title": "Buffy and Ted Lasso star Anthony Head dies at 72 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LMkpsQjU5RHdFeDd0amNkWDV6M240RTdZLVl1aVdpak1zRjBpSXFscW1FaG9JTmxtUnFzN0pPdlRYalpjUWpoYWVidHdRTV9OWTBDbFkyeTh3UQ?oc=5",
+      "snippet": "Buffy and Ted Lasso star Anthony Head dies at 72 &nbsp;&nbsp; BBC Actor Anthony Head, known for ‘Ted Lasso’ and ‘Buffy the Vampire Slayer,\" has died at 72 &nbsp;&nbsp; CTV News Ant",
+      "pub": "Fri, 05 Jun 2026 15:32:54 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Niger: Nearly 50 people die of thirst after lorry breaks down in Sahara desert - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QSWxRNkptY1BJYXNOeGgtb0M3cl9WM015aTd4S0ZWSXZ1UGRnRTZ0eVlId0ljQnNRTDhheDM5dnpmQjVudWc0aEhPVUNEeGx6VTZ6cmhnNlRWZw?oc=5",
-      "snippet": "Niger: Nearly 50 people die of thirst after lorry breaks down in Sahara desert &nbsp;&nbsp; BBC 49 die of thirst in Niger desert after truck breaks down &nbsp;&nbsp; CTV News Truck",
-      "pub": "Fri, 05 Jun 2026 09:37:38 GMT",
+      "title": "Child killer Allan Schoenborn’s conditional discharge ‘baffling,’ says family spokesman - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVpUeXRMWGF4dFNXS2w4WWJycXFPQmdkUnA0MXUtVFZFNWRxbTM3ajZNeUNKbnZwZ0JKMFlKbW5oeDd4MGFPT1pYUWZRdjkycFF4M3RmZW1CcktoTW13Nm1aZmZQOG8zcEFaTmhWTFhSZ3FQNjc1SnJLMmplcjkxSGRjZ0FaclpnTG9IQU00TTJIaUoxYkx4UjZYVTVqMzJDcV9YNjJMWDFpRVFMcUdEZnlYczhEd2s?oc=5",
+      "snippet": "Child killer Allan Schoenborn’s conditional discharge ‘baffling,’ says family spokesman &nbsp;&nbsp; The Globe and Mail Man who killed his children granted conditional discharge: B",
+      "pub": "Fri, 05 Jun 2026 00:50:16 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Men charged in Sharif Rahman death to appear in person in Owen Sound court Friday - CBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nVm1SbmZBbC1ia1BFTVozckxQYjA1c0R5YldhTlNpQUo0N05jUy1QbHU0aHhUOUY3OWQydUlZNHhjV1VXS2VuQkpCeVlVTWpuMDltc3FlRXYyZTAwWFBCQ211ZlM2Wlp1WFlCd0cyYXMxcnhRcllhTm5IbTZBUQ?oc=5",
+      "snippet": "Men charged in Sharif Rahman death to appear in person in Owen Sound court Friday &nbsp;&nbsp; CBC 3 Scottish men plead guilty in death of Ontario restaurant owner &nbsp;&nbsp; CBC",
+      "pub": "Thu, 04 Jun 2026 16:11:03 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "NASA tells International ‌Space Station astronauts to resume planned operations after shelter order - CBC",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbHhyR0JPS3IyZDlycnNhOW81N1pfUndQbDlUN3lLOTVLQXFBZ3VYeFQzTGZsMGlOeFBUSjVsMWx2dHJHTFFrUjNMSE1HZ2lJQm1zU0dKbTRnSVRvZHQ2Ym9wSnd6TmhNVUVTTWFkYjBXN2VPUlkwQkxqN3VWX1gzd0R1MnN2RGp6VHE3OUVNbUlEOFpxNVE?oc=5",
+      "snippet": "NASA tells International ‌Space Station astronauts to resume planned operations after shelter order &nbsp;&nbsp; CBC International Space Station astronauts told to shelter from air",
+      "pub": "Fri, 05 Jun 2026 15:28:49 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Three people injured, multiple homes evacuated after Markham house fire - CP24",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVlCSDVzNmlYQkkzdnoxOTdaNFV2dFRUWTQ4NjBST01DRmo3TWtMZTBjMm4xYUdCTFktdjB1aU04ZUNFMUZySkZMNDh4VlRpcU5Id05sM2ZnQjhmZjdieGhJYl9CTHBkU0M0UDZYUnk5ZGVFeVJuLWFka2VEMVBmWHNoUDJxaXpNTzdBcmJxRl9QMWNhS201bFRiYnQ2djBsT3JURGd1bkQzV1lSY2s1dlRnSk5RUWth?oc=5",
+      "snippet": "Three people injured, multiple homes evacuated after Markham house fire &nbsp;&nbsp; CP24 Residential fire prompts evacuations in Markham &nbsp;&nbsp; CityNews Toronto Three people",
+      "pub": "Fri, 05 Jun 2026 12:29:35 GMT",
       "image": ""
     },
     {
@@ -92,42 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "1 dead, at least 2 suspects sought after shooting inside Brampton home - CP24",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0NQclFkNUxFUzdxVGZjdFpLbjgtUnp0RWJUSVdkVXpRQ3ZzWWIwUnJuMnJzR21iSEQ3eFh0RVd5V194QnVMWFJMYmpwbWNYRXU2cnh3cXBOQjkycGVwTXY3SkdNaHh4OTNXTHZhV1hQd3JTdmwxUkdudURxVWkwdjB3ZWxhTDM2Ty1IOURn?oc=5",
-      "snippet": "1 dead, at least 2 suspects sought after shooting inside Brampton home &nbsp;&nbsp; CP24 Man dead, police search for 2 suspects after Brampton shooting &nbsp;&nbsp; CBC 1 person de",
-      "pub": "Fri, 05 Jun 2026 03:32:00 GMT",
+      "title": "Judge sentences Alberta man to eight years in 'inconceivable' rabbit killings - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHJ5NkJydks5dHFvbkZnYk5HbjBsa0hWRlhvSVhoa3VoZXZKVUVScHVsendWVTJCVUhTYUtrS05xekhZWWVpWWpDbUVDZHVKcU1lT0JhcGVSSFlJU0k3NzBIc3Q2d0V4R2hMMTMwcE96MFlnNnRmcTZ3WHRVeEt1NlZ5RjZzSTZlRDRaRnB3R3ZQRUxTSERxYVZfTHMyRk9fbVNpX2RHWGVYOEhULVpwTVVIR1k2eDQ?oc=5",
+      "snippet": "Judge sentences Alberta man to eight years in 'inconceivable' rabbit killings &nbsp;&nbsp; CTV News",
+      "pub": "Fri, 05 Jun 2026 15:27:34 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "'Worst breach in Canadian history': Privacy watchdog cites Alberta voter list leak concerns in renewed call for oversight - Edmonton Journal",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjdZUS0zRU44d2pWVkFhRHJqaUVnTDRqclVjazJ1VEtoeTF4Z0dLbHBMVDR6aXNKLVN3R0dZeXdlVnplVEZIY1E4NE9oLWdDYVllU1hjblNWYzFISmtuWFlvWG1SQlFtdmtibEJMRTI2bndCYV8yT1NCdEJmYV9xU19raWRXT2ZhbVdrdW5KZjIzeDVO?oc=5",
-      "snippet": "'Worst breach in Canadian history': Privacy watchdog cites Alberta voter list leak concerns in renewed call for oversight &nbsp;&nbsp; Edmonton Journal Poll suggests 84% of Alberta",
-      "pub": "Wed, 03 Jun 2026 19:05:44 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "'Enough of the war' — Zelensky throws down gauntlet to Putin in open letter - The Kyiv Independent",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSU10d3RtYU52a0FEV0NWTkVEVS1QbDZSMlB5VV81MU9kZzlvQm1tSUNmcjhyRkdyRThaRE83M2NEYUJBNmJWbzRZenctWHd0TzJuLVFSR0sxQldidHNDeWpFTFJ5OHk2VGlnOTVfNDVzUXEzSml4SnI1T2lsUmpjWnE0RHY2ZXI0enZqeXM2RVZMN2IxV2tObTBETGVMSXAxX0E?oc=5",
-      "snippet": "'Enough of the war' — Zelensky throws down gauntlet to Putin in open letter &nbsp;&nbsp; The Kyiv Independent Zelensky proposes face-to-face talks in open letter to Putin &nbsp;&nb",
-      "pub": "Thu, 04 Jun 2026 21:32:04 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Married couple busted in ‘province-wide crime spree’ targeting B.C. jewelry stores - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTm5HTFpNbXA2aXp6amJ2OFZXbmxDZFlzV2xRNUdqUC1HeFdZNVpGNU5kaUVmMXdJNVQ5SkU5b0FGWVRacTlNT2JUQm5zMmJrQ1lEVkxHOUN5Wkx6eE1nODZVOElsTUV5czRHR3A3STlubWxCT1BYdm5uVGF5Vjgtdmhjb2MxeU05X2lrbDFsdVZXbVZjN1h4bU95SGZmSXpva0lUX2NoS3cxQk9mTURyc0FEVnNSUFlvN2IyeA?oc=5",
-      "snippet": "Married couple busted in ‘province-wide crime spree’ targeting B.C. jewelry stores &nbsp;&nbsp; CTV News For better or worse: Husband and wife plead guilty to distraction thefts at",
-      "pub": "Thu, 04 Jun 2026 18:33:11 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Spike in Moncton overdose calls raises concerns drug supply may have tranquillizers - New Brunswick - Global News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SN0NYSm1tSXBVWjM4bFFBOWNDZWdFZlkwSXk5UmVwMng5ZDJQWHFVUlpJYmRxMlppaEJfMjlvVzZsc1RUbXpxWnJQdGx3bWs4RDFpbVZvV0l0bVpSUHdsUU1TZ2tPX1NDblFjQjFMeWNUd3ZfY18ydkVWcEZpUQ?oc=5",
-      "snippet": "Spike in Moncton overdose calls raises concerns drug supply may have tranquillizers - New Brunswick &nbsp;&nbsp; Global News Nova Scotia Health issues drug alert after multiple fen",
-      "pub": "Wed, 03 Jun 2026 20:01:54 GMT",
+      "title": "3 teens facing charges after man killed in Montreal Walmart - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX083R24ycUJiUFJpUWhhcXhSOTJfZ2M3WERzM2sxZFlpN3FiOHVYcktscW5TWkIwMlR6R05sbWJES1lWcmNHVFlEamg4eDRVWmJNcnVlVkFrVXl0dTZRbnNhODYyaXBCS2g2TlNTOHNsSG9za0dobjJPUThBdXBCOGV5T0xGalVNSm1KSVFNSjUzSk1STm10ZnlUSGhfYVhDajhsTU5PZmc2U1hLSHY0?oc=5",
+      "snippet": "3 teens facing charges after man killed in Montreal Walmart &nbsp;&nbsp; CTV News Three teens charged following fatal Montreal North Walmart stabbing &nbsp;&nbsp; CityNews Montreal",
+      "pub": "Fri, 05 Jun 2026 13:04:32 GMT",
       "image": ""
     }
   ],
