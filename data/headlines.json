@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-06-06T07:41:04.172631+00:00",
+  "generated_at": "2026-06-06T09:54:48.847341+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Environment Canada Forecasts Warmer Temps, Less Rain This Summer",
+      "link": "https://vocm.com/2026/06/06/300839/",
+      "snippet": "Environment Canada released its summer weather outlook yesterday, showing that much of the country will see lower than normal precipitation levels and...",
+      "pub": "Sat, 06 Jun 2026 09:37:22 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/el-nino.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RCMP Investigating Early Morning Break-In at Lewisporte Car Wash",
+      "link": "https://vocm.com/2026/06/06/300836/",
+      "snippet": "Police in Lewisporte are investigating a break and enter at a car wash. Video surveillance shows the suspect entering Cabot Car Wash, which is on Main...",
+      "pub": "Sat, 06 Jun 2026 09:28:42 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/cabotcarwash.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Wild Cove Landfill Fire in Corner Brook Contained But Still Active",
+      "link": "https://vocm.com/2026/06/06/300832/",
+      "snippet": "A fire which broke out Thursday evening at the Wild Cove landfill in Corner Brook is still active but contained. Crews are on site dousing hot spots. ...",
+      "pub": "Sat, 06 Jun 2026 09:10:47 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/wild-cove-fire.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Gas, Diesel, and Heating Fuels All See Price Drops Overnight",
+      "link": "https://vocm.com/2026/06/06/300830/",
+      "snippet": "The price of gas dropped overnight by four cents a litre as the Public Utilities Board adjusted the cost of all fuels. Diesel province-wide is down by...",
+      "pub": "Sat, 06 Jun 2026 09:04:27 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/gas-fuel-prices-pumps-gas-station-pub-public-utilities-board.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "June 6, 2026 – Will you make use of the federal government’s new AI literacy initiative once it is launched?",
+      "link": "https://vocm.com/2026/06/06/june-6-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13009').",
+      "pub": "Sat, 06 Jun 2026 08:00:16 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/07/Computer-Keyboard-Crop.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Cartwright Mayor says Town Needs New School",
@@ -27,46 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/10/Pic-Chief-Eugene-Hart.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Sierra Club says Fight ‘Far From Over’ After Court of Appeal Rejects Application to Overturn Bay du Nord Approval",
-      "link": "https://vocm.com/2026/06/05/sierra-club-says-fight-far-from-over-after-court-of-appeal-rejects-application-to-overturn-bay-du-nord-approval/",
-      "snippet": "The Federal Court of Appeal has rejected the Sierra Club of Canada's application to overturn the approval of the Bay du Nord project. The organization...",
-      "pub": "Fri, 05 Jun 2026 15:10:05 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/03/bay-du-nord-map-via-equanor.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Figgy Duff Reuniting for Friends of the Festival Fundraiser This Sunday",
-      "link": "https://vocm.com/2026/06/05/300789/",
-      "snippet": "The Folk Arts Society is hosting a Friends of the Festival concert tomorrow night to help raise funds for a possible NL Folk Festival. It's hoped that...",
-      "pub": "Fri, 05 Jun 2026 14:55:21 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/11/Folk-Festival-2018-via-Greg-Smith.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Kesha to Headline Churchill Park Music Festival",
-      "link": "https://vocm.com/2026/06/05/kesha-to-headline-churchill-park-music-f/",
-      "snippet": "The wait is over. Pop music singer Kesha has been announced as the final headliner for the Churchill Park Music Festival. Kesha became one of the most...",
-      "pub": "Fri, 05 Jun 2026 14:30:56 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/kesha-churchill-park-music-festival.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Local Business Community Very Worried About Possible Marine Atlantic Strike",
-      "link": "https://vocm.com/2026/06/05/local-business-community-very-worried-about-possible-marine-atlantic-strike/",
-      "snippet": "The local business community is worried about the impact of a possible work stoppage at Marine Atlantic. Talks have broken off and conciliation comes ...",
-      "pub": "Fri, 05 Jun 2026 12:38:17 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/10/Ferry-marine-atlantic-port-aux-basques-1.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Canada-Wide Arrest Warrant Issued for Man Charged in 2023 HV-GB Murder",
-      "link": "https://vocm.com/2026/06/05/canada-wide-arrest-warrant-issued-for-man-charged-in-2023-hv-gb-murder/",
-      "snippet": "A Canada-wide warrant has been issued for a 30-year-old man charged with first-degree murder in the death of a man in Happy Valley-Goose Bay nearly th...",
-      "pub": "Fri, 05 Jun 2026 11:34:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/david-faucher-wanted-first-degree-murder.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Alberta cabinet minister won't say if he supports keeping province in Canada - CBC",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT2FxdlpEeS1pd2xUS1F0cC13RjVnVFA2TnJudXR0cm5Cd2VVT0xlLXBjNW51S0FIblpNa0NIeEFTVVhSd1BRZE5tbHFrN3I0UnNFeGRXMkhVRmxySElOVjA0TkxvS080dTBRWXVfZF91SmJwajFDRjZfRlBSZndvNmw3cWh4QUNlRmZjSXhtMWFESzJBYTc4QQ?oc=5",
@@ -76,18 +76,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54QmRjcjM4dXNoUUJDUkJUVDdYeWJyanFqcDhsdEF4amJZY1RsVnY2aTl2SXBRLVZWRnB0OTdDUTZlcEJack81b3JlRlZmc3YtZklkeVFSSS1tdw?oc=5",
-      "snippet": "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says &nbsp;&nbsp; BBC IDF troops fire at vehicle in Hebron, killing 7-month-old baby and wounding his paren",
-      "pub": "Fri, 05 Jun 2026 23:12:24 GMT",
+      "title": "CBP ‘ready to go’ on Gordie Howe International Bridge linking Windsor and Detroit - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckN1dFQxbHRSOG91M1AwRlJTVGFjTk44VHFUMVJQUUtvSUY4VWdDQUNwakMxUWVpYUFTdjh1V2N5Nm16TFdyQkk4WjlTLTNMOEhwVGtkaDVLQ0lfMi10LXdfbHhSZXE0dHUyY0t3YUEzaVRlM3BZMXdkVTdrSVVjcVE3YUVZZHdmbFlwYy1fRHdBN3EyNDBaRTVrRHNRR2NtQ1YyWkRUaTlfYk4xYVk5WFo5MVBuZ29peVZJ?oc=5",
+      "snippet": "CBP ‘ready to go’ on Gordie Howe International Bridge linking Windsor and Detroit &nbsp;&nbsp; CTV News The Gordie Howe International Bridge is 'essentially complete.' The fight ov",
+      "pub": "Thu, 04 Jun 2026 14:47:35 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Hunter Biden goes viral on social media with posts on Trump, drug use and his father - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQllVM21qQlRMeE56cW82NDZHSUtLWHpNME1tZ1ROWjVURTBSWUlBQlItRVJBOVhxaFhjVXZsXy1iSkxET0dNbTJNckJfcmZSN3prTGFQa0dDRmR5X3g5TnloWDBhT19rdnZsWU1seFpFT3BTclk4R0FfNmoxbC02ajdFYllnY3I4azZYY0RRNlpYNER1R0xVR25tbDdJa2VNQ1YxSUk3dDZPZzBlS2JnTkU5WQ?oc=5",
-      "snippet": "Hunter Biden goes viral on social media with posts on Trump, drug use and his father &nbsp;&nbsp; CTV News \"Someone called me the MAGA whisperer\": Hunter Biden charms his trolls &n",
-      "pub": "Fri, 05 Jun 2026 23:15:50 GMT",
+      "title": "Man, 38, charged after Westmount synagogue targeted by arsonist - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY0lzWU54VUlVd1NpME9WT3h1NWFqZjlWcDFfdWo2aldlNGphd2ZKVThkU0tYU3RJMXNpOGRqNFpDclUzZUxZblBDVHFlclUyYnVoS1ZQVjhuSHp3MVpHQ0FtMmpYVGRLVVlQMDd5eDdnOFlzZWlmd0E3Q1JXT0tSZVhNOWxidw?oc=5",
+      "snippet": "Man, 38, charged after Westmount synagogue targeted by arsonist &nbsp;&nbsp; Montreal Gazette 'Time for action,' says rabbi after attempted arson at Westmount synagogue &nbsp;&nbsp",
+      "pub": "Fri, 05 Jun 2026 11:18:30 GMT",
       "image": ""
     },
     {
@@ -108,10 +108,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "RCMP warn against 'vigilante action' in Okotoks child exploitation case - CityNews Calgary",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZjRPQ1B3ai1uVlVEbmZTOW1oRG9XRXVfTWNjS0E1N2JrUUN1VlowdjdDb1VhVFdmUUpDOEotVGVJQ0FUN1dZWURiR3JmdS1GUWoxY05jNnByNWR0WjVCeDd0ZGI2Y1NkMmtTcGhGWUN5YlNDWTIwLXYtczN6dmdHM1VTUWlPbnhr?oc=5",
-      "snippet": "RCMP warn against 'vigilante action' in Okotoks child exploitation case &nbsp;&nbsp; CityNews Calgary Okotoks man charged after thousands of child sexual exploitation photos found ",
-      "pub": "Thu, 04 Jun 2026 22:03:19 GMT",
+      "title": "An airport link to downtown Calgary? Premier to update passenger rail plans - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVM4c3poc185YjNZWER5WWFRWTFKZC1mVnkxc1RsWWZHaU5Udi1mVUROYlRrdDBxdllzbkxGTTA1Z2R3VE9JNEZyZEdUaWFNSE9OYUhTZzM5WFJLdWs4Zm4yM1BxZ1E0clU4bTVFVmZJYy1PMnZiOTVoT3ZWQnQxXzlaZ3ZrSUFJbVlETUFxa2hnLWQ4NllJTDFWV0NheTNhQlBOOEVEVFNuUWhWT1ppWmtB?oc=5",
+      "snippet": "An airport link to downtown Calgary? Premier to update passenger rail plans &nbsp;&nbsp; Calgary Herald Alberta eyes downtown-to-airport trains as 1st passenger rail master plan pr",
+      "pub": "Fri, 05 Jun 2026 14:01:13 GMT",
       "image": ""
     },
     {
