@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-06-06T14:24:38.683502+00:00",
+  "generated_at": "2026-06-06T15:47:56.871751+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Update: Power Returning After Brief Midday Grid Bump",
+      "link": "https://vocm.com/2026/06/06/power-returning-after-brief-midday-grid-bump/",
+      "snippet": "The electrical grid is returning to normal after a trip on the Labrador Island Link cause an interruption in power just before noon today. Thousands o...",
+      "pub": "Sat, 06 Jun 2026 14:58:33 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/07/Power-Lines-Utility-Pole.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Solo Sailor Rescued Off NL Coast During Transatlantic Crossing",
+      "link": "https://vocm.com/2026/06/06/300869/",
+      "snippet": "The Canadian Coast Guard (CCGS) rescued a sailor from his vessel yesterday afternoon. The Big C Atlantic Challenge, which is a small vessel being sail...",
+      "pub": "Sat, 06 Jun 2026 14:46:36 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/09/coast-guard-canada.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Power Slowly Returning After Widespread NL Outage",
+      "link": "https://vocm.com/2026/06/06/300883/",
+      "snippet": "Thousands of people on the island are without electricity this hour - from the metro region and other parts of the Avalon to the Burin Peninsula, cent...",
+      "pub": "Sat, 06 Jun 2026 14:25:24 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/outages.png"
+    },
     {
       "source": "VOCM",
       "title": "Botwood Port Looks to Cruise Industry to Help Revitalize Local Economy",
@@ -43,43 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/08/churchill-falls-govt.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Janeway’s Biggest Fundraiser of the Year Set to Kick Off This Weekend",
-      "link": "https://vocm.com/2026/06/06/300844/",
-      "snippet": "The largest fundraiser for Newfoundland and Labrador's children's hospital is all set for this weekend with riveting stories, information, entertainme...",
-      "pub": "Sat, 06 Jun 2026 11:51:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/janeway-childrens-hospital-miracle-network-telethon-2025-results.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Holy Heart High School Issues Warning to Parents After Reports of Dangerous Driving",
-      "link": "https://vocm.com/2026/06/06/300842/",
-      "snippet": "Holy Heart High School in St. John's is warning students and parents about instances of reckless and dangerous driving near the school. In a memo sent...",
-      "pub": "Sat, 06 Jun 2026 10:37:26 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/holy-heart-helly-heart.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Marine Institute Hosts 17th Annual World Oceans Day Celebrations Today",
-      "link": "https://vocm.com/2026/06/06/300848/",
-      "snippet": "The 17th annual World Oceans Day will take place today at the Marine Institute. The event teaches about the protection of oceans and marine life in Ne...",
-      "pub": "Sat, 06 Jun 2026 10:09:58 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/11/Marine-Institute.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "The Gordie Howe International Bridge is 'essentially complete.' The fight over it is not - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbTFRRnF4S3FfWHZpSndhaDNxLUhCMWp3X21iY2Fia2p3YksxVlFPYkhQVElPY0VNZlVrUWZkNklaeG1LMWNIQVNReVZrdUs4Smt3bG9wWW9TOVpRV0lJS1dGd216dVBtYWNiSlllNWVDTWpteUdxY0VkU0NPZnBjbEdZVl9SdDE4UUpN?oc=5",
-      "snippet": "The Gordie Howe International Bridge is 'essentially complete.' The fight over it is not &nbsp;&nbsp; CBC Windsor-Detroit Tunnel preparing for traffic dip when Gordie Howe bridge o",
-      "pub": "Sat, 06 Jun 2026 08:00:00 GMT",
+      "title": "Ukraine launches large-scale drone attack as Putin meets Schröder - Euronews",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczVocFlRcEwxUXVEMWpYOFFUNlpYaW4zVHdfLUNXcFhYZGgzQ2ZUR01SRFVfcm5Lc0s0YmphZDdZd2RneGFyRFBDbVBMWE5rNGl4Vi1FV1BaVzBvb1pQTjRnc280dG9hQ1A5T3ZZa1hzMVQ1dFdRQ2ZXck5DS0R2OUM1V1I4SnhDcFhtZEFaWmVWaWZhcEdtTUZXSTNvSVlDYTB3NTFRelVjdlpuX216Rg?oc=5",
+      "snippet": "Ukraine launches large-scale drone attack as Putin meets Schröder &nbsp;&nbsp; Euronews Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented' &nbsp;&nbsp; BB",
+      "pub": "Sat, 06 Jun 2026 10:02:23 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "As Carney faces pressure to deliver, some Liberal MPs question his leadership style - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeUpmb3pRcnotMXZFank5YmZiajdOYjhwUy1tRjhZX0RPeDlEcF9tdlI0OU5CVm9LNmFFaUhjd0hIZXNUMk9ibk5vMWdiWkxFNndQRE5nZWhiTjdCUDNYSEczaUVxbVBBbnd6RS1IVzBrTms2Q2U4ZFNNU0toY09tVXc2MjFodlpLMjFVaW5vaTZNaHZobnAxMmhLYzNIZXhPNWM4S3lqb0hueGpKOE9tX04zQnhBZw?oc=5",
-      "snippet": "As Carney faces pressure to deliver, some Liberal MPs question his leadership style &nbsp;&nbsp; The Globe and Mail ‘Absolutely not true’: Liberal caucus chair denies accusations C",
+      "snippet": "As Carney faces pressure to deliver, some Liberal MPs question his leadership style &nbsp;&nbsp; The Globe and Mail ‘The story is wrong’: Liberal caucus chair defends Carney amid r",
       "pub": "Sat, 06 Jun 2026 09:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Air raid sirens sound in Bahrain as Iranian missiles and drones head for Gulf neighbours - CBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hNHlrTVdwOG9sY1VLUlA4OWM3aXQ0ZDdHRUpsV05Ib08zMmQwdk5yWEgwMmo0UDNOY19CSjZQU0dLMzB4ZG9WODBuRjNscTBsOU9TemNPSUpUal9FYm5PLURUUTRxUDZ2Qlo5eHdZa0VrQQ?oc=5",
+      "snippet": "Air raid sirens sound in Bahrain as Iranian missiles and drones head for Gulf neighbours &nbsp;&nbsp; CBC Live updates: Tehran targets Gulf neighbors after US attack on Iranian mil",
+      "pub": "Sat, 06 Jun 2026 13:32:21 GMT",
       "image": ""
     },
     {
@@ -92,14 +100,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Three Brits admit killing restaurant owner in Canada after 'unpaid bill' row - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5dDBJU0E2SXdHamRkbzN2S3gwSHpKSEhxT2hpRGEyak5zV29WbkdidEZTN1JvMkt6cVBWYnhvUC1oTnNtSWdNUldURnZmTUZPTXh5d1o4MTdqZw?oc=5",
-      "snippet": "Three Brits admit killing restaurant owner in Canada after 'unpaid bill' row &nbsp;&nbsp; BBC Three plead guilty to charges laid after death of Owen Sound restaurant owner Sharif R",
-      "pub": "Sat, 06 Jun 2026 12:56:36 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Moroun family of Michigan expanding controversial concrete empire to Canada - CBC",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd0JoWEhNeXF0aHFWYURSWFd3M0xCa0t5cmZNMGVKLW4tR0xfelgtY3hzeDY0QUVhMzk5QVNUNy0yYlFZSlJaTXl4dkZqOVE4MEk0amNfc2FqZ1E3bnZ0WWs2TXBjb1p4R1dwRkU0d0xsa1E1bVMwSE9BblhkSHZpMnhIcVBiRHM1ZVpNaGE0WVg0b3FnOXJGbmx0REV2UnJJZk93TmtpUEh0SDU4LVd0LQ?oc=5",
       "snippet": "Moroun family of Michigan expanding controversial concrete empire to Canada &nbsp;&nbsp; CBC",
@@ -108,10 +108,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Canada to limit livestock imports from Texas over flesh-eating screwworm - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTUJtUXBlYmNXdTdkcXFiOEsyemttc3NmWE5xZjBwUzgxY250UlRGcGFjcnN5cnRWNUNuSkcyQXppWGRNVk1zdDEzcW5TMWRQRDBxcHYyVy1UY2ppaVMydVFwcGZUWk51VzZDVzhrelhXNzRjeS1oR0xzUEZOYlhjU2c3blBpSE9BY2pabA?oc=5",
-      "snippet": "Canada to limit livestock imports from Texas over flesh-eating screwworm &nbsp;&nbsp; Global News Canada bans Texas cattle over flesh-eating screwworm outbreak in US &nbsp;&nbsp; B",
-      "pub": "Fri, 05 Jun 2026 23:26:54 GMT",
+      "title": "Three Brits admit killing restaurant owner in Canada after 'unpaid bill' row - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5dDBJU0E2SXdHamRkbzN2S3gwSHpKSEhxT2hpRGEyak5zV29WbkdidEZTN1JvMkt6cVBWYnhvUC1oTnNtSWdNUldURnZmTUZPTXh5d1o4MTdqZw?oc=5",
+      "snippet": "Three Brits admit killing restaurant owner in Canada after 'unpaid bill' row &nbsp;&nbsp; BBC Three plead guilty to charges laid after death of Owen Sound restaurant owner Sharif R",
+      "pub": "Sat, 06 Jun 2026 12:56:36 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "B.C. Ponzi schemer Greg Martel arrested in Georgia - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdEd3SU1SN19ZemM4ZnpSSnI2eG9oemZVNW1VQ3ZfY3E2SzZQNXdjVzFvSmphY1RONUo3V21aM2Npc2F0TFo4d3pmNU5HdE1wM2k3UjlYUjJaTWNBVENyUjJPdnhkTFZieUt0UEUtYWZ5XzlsUHlTWUZHVWw4U1djc3Jtd2FtTmU1ZUE?oc=5",
+      "snippet": "B.C. Ponzi schemer Greg Martel arrested in Georgia &nbsp;&nbsp; CBC",
+      "pub": "Fri, 05 Jun 2026 22:07:10 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT2FxdlpEeS1pd2xUS1F0cC13RjVnVFA2TnJudXR0cm5Cd2VVT0xlLXBjNW51S0FIblpNa0NIeEFTVVhSd1BRZE5tbHFrN3I0UnNFeGRXMkhVRmxySElOVjA0TkxvS080dTBRWXVfZF91SmJwajFDRjZfRlBSZndvNmw3cWh4QUNlRmZjSXhtMWFESzJBYTc4QQ?oc=5",
       "snippet": "Alberta cabinet minister won't say if he supports keeping province in Canada &nbsp;&nbsp; CBC Alberta separatism support drops sharply from early 2026: Ipsos poll &nbsp;&nbsp; Glob",
       "pub": "Fri, 05 Jun 2026 23:11:42 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Cambridge mayor speaks out after Pride flag ceremony incident - CityNews Kitchener",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUl2WEhERTJnYVRvandZN3Z5WGVUNGNzMHZkcWhEMUN3SmN4MG9KUEtuUTBmZDBOMUNhTkc3akpMRWZWYlU5VndVR0tuUkNtY0x3NFV6S0VtRF9SRDJNVUY5N3VZamxXWVMyQnBsNjhjLUZLb25Dd2JtUS1KTC1UTE1wMS0zLWk0bzFMalAyd0xFNDcydU0yZlQwNndGS3dmRVZxbEln?oc=5",
-      "snippet": "Cambridge mayor speaks out after Pride flag ceremony incident &nbsp;&nbsp; CityNews Kitchener Cambridge, Ont., mayor 'stands by' stopping teen's speech at Pride event &nbsp;&nbsp; ",
-      "pub": "Fri, 05 Jun 2026 21:49:01 GMT",
       "image": ""
     }
   ],
