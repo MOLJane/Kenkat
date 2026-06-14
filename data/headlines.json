@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-14T20:44:27.310180+00:00",
+  "generated_at": "2026-06-14T22:02:19.925330+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "Smoke from Robin Hood Bay Landfill Covers East End",
+      "title": "Update: Air Quality Statement in Effect Following Fire at Robin Hood Bay",
       "link": "https://vocm.com/2026/06/14/fire-at-robin-hood-bay-landfill-covers-east-end-in-smoke/",
-      "snippet": "Residents across the east end of St. John's noticed a significant amount of smoke rising from the area of the Robin Hood Bay Waste Management Facility...",
+      "snippet": "Environment Canada has issued an air quality statement after residents across the east end of St. John's noticed a significant amount of smoke rising ...",
       "pub": "Sun, 14 Jun 2026 18:07:44 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/img-0705.jpeg"
     },
@@ -68,18 +68,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "11 skydivers and pilot killed in plane crash - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VaW9hV1UwVFc5ajg4Q09iWnNaTWFhNUJfcnJVb3hQalRUTEIxQ3Z1TUt0WXZiaGFIWmF5U0ttQ0oxN1BCc0dhRHZxangtVnBmSG5KX1NtOERjUQ?oc=5",
-      "snippet": "11 skydivers and pilot killed in plane crash &nbsp;&nbsp; BBC Twelve people killed in plane crash on a skydiving flight in Missouri &nbsp;&nbsp; Australian Broadcasting Corporation",
-      "pub": "Sun, 14 Jun 2026 18:37:04 GMT",
+      "title": "6 people killed after helicopters collide in Brazil - CBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3WFJmS3I0U0RuV2xyU0dPMVFFYW5zSWFVM1lSQklBMXF4aXZxeTJZVFp0WGo1UzVsa0tUTTBrN0NKbFBjTXdKb2ZPMkZ2Nzczc0RWWUl0UEJNVjdzM0dNaHFULU15RF9DeUlIOWttX2FZc1BRQkE?oc=5",
+      "snippet": "6 people killed after helicopters collide in Brazil &nbsp;&nbsp; CBC US musician Oliver Tree, 32, killed in helicopter crash in Brazil &nbsp;&nbsp; The Guardian Oliver Tree, “Life ",
+      "pub": "Sun, 14 Jun 2026 20:58:53 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada’s Carney charmed by Irish county filled with dozens of cousins - politico.eu",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZVhNYk9zVTItbjJYY29mRUhpTXV1ZUNrNFA0N2hydE5oZkQ5SUQxMW9tVWRSdGpLZlpkZjEweXl3NGc0bHozb1dHVkdxc0MtaGtxaFJ4emtmX2ljLWIyOHBvUHpHcFVlSkdrMEtWMFc3ZkJoUWVTSUlGbW9nUWtvSDZjdmVWVmJWdVRKcHVJek45LXFYX2t2a0xpektKY1haS29J?oc=5",
-      "snippet": "Canada’s Carney charmed by Irish county filled with dozens of cousins &nbsp;&nbsp; politico.eu Ahead of G7, Carney says no one country will characterize new world order &nbsp;&nbsp",
-      "pub": "Sun, 14 Jun 2026 14:53:00 GMT",
+      "title": "Mark Carney: Canadian PM heads west towards ancestral homeland - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHNUduWmVZQVpjMjQ1UTAxQWV0ZkRaVGVQWFdnMDRYTTQ5Y2psTDJyb3I4WFp5VWJiRHBWWHdka0l0Z1ZLTTh2LTduZjhYTUkxbDBCQlQxemREdw?oc=5",
+      "snippet": "Mark Carney: Canadian PM heads west towards ancestral homeland &nbsp;&nbsp; BBC Carney visits family’s ancestral home during Irish trip: ‘Exciting day’ &nbsp;&nbsp; Global News Ahe",
+      "pub": "Sun, 14 Jun 2026 21:18:30 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Live updates: Trump urges Israel not to strike Lebanon with US and Iran ‘so close’ to agreement - CNN",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTTHBYQ1FMM3d4UGFxYnlsMVVVR014REs4S0IzaEpNeUZRSEpuZU5WcTFLR3dkdjhkcGVKVFc2NUdFZnJ1Q1FTWExBbno5SlR3SXpQOGR4NWdWWG8zRHFBWTFpWERDNFR0NF9DU0E3MEJ5QUVEb0dB?oc=5",
+      "snippet": "Live updates: Trump urges Israel not to strike Lebanon with US and Iran ‘so close’ to agreement &nbsp;&nbsp; CNN Iran war live: Trump says Iran deal ‘so close’, urges calm in Leban",
+      "pub": "Sun, 14 Jun 2026 21:45:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "11 skydivers and pilot killed in plane crash - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VaW9hV1UwVFc5ajg4Q09iWnNaTWFhNUJfcnJVb3hQalRUTEIxQ3Z1TUt0WXZiaGFIWmF5U0ttQ0oxN1BCc0dhRHZxangtVnBmSG5KX1NtOERjUQ?oc=5",
+      "snippet": "11 skydivers and pilot killed in plane crash &nbsp;&nbsp; BBC Pilot and 11 skydivers dead after Missouri plane crash, officials say &nbsp;&nbsp; CNN Twelve Dead in Skydiving Plane ",
+      "pub": "Sun, 14 Jun 2026 20:32:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Six people remain in hospital after rural Ontario crash killed five children - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVllb2JRT19xNXdUaW9MMWF1dzhVb3dtQlB5VGhaM3g3N1E4X1hBSHJNMl92eUhQTHRRN1Axbl9CUkdKTkk4eFFLUEVJUjUxOWtURWlZbXhCLXNESW5lV3ZhOTIyYzFIODB0WjdJLW84VE1PT2RoSmFmZzQzcko0cFcyZDFSZk9mV0JoVGZQSHJIMDQ0ei0xYVdsbVBPNkdoME8ydVEtd3hTWGRYYXVBTXBxTkdOM296WDZ5bWc2V1o?oc=5",
+      "snippet": "Six people remain in hospital after rural Ontario crash killed five children &nbsp;&nbsp; The Globe and Mail Ontario collision leaves 5 children dead: OPP &nbsp;&nbsp; Global News ",
+      "pub": "Sun, 14 Jun 2026 17:00:31 GMT",
       "image": ""
     },
     {
@@ -92,10 +116,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "OPP intersection safety blitz follows deadly crash in rural Ontario - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZU1iN0x2cDlQSUFORklySjFIczdSc2pnR1h4TGRQcmM5X0ZITy05YUpjbTEzSjNObjA4bm1NRTQxT09Nck5CMW1qLVBDWDRSMmxSWGIxYXlkUFBVU1NFWlhVdmlwNC1leUN6WjBGbXNfUnNJWUc5N3NfR29qb1c0MkFCREdWcHRwNWNWREpJRXRVTlpQeXVLbXpwT1VrMkJhV1QxdmRkX3Znc2M?oc=5",
-      "snippet": "OPP intersection safety blitz follows deadly crash in rural Ontario &nbsp;&nbsp; CityNews Toronto ‘This is an unimaginable loss’: Five children killed in Mapleton Township crash &n",
-      "pub": "Sun, 14 Jun 2026 10:54:00 GMT",
+      "title": "Change is coming to Winkler, ralliers say as southern Manitoba city hosts 1st Pride march - CBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uTnN3SzBzVUxBc3lQbkN2Q3lXUDFyQ3IwWExpTFBFZExyT0V2eGRhQWJWYTRleEM3bER2Z1ZVRXFKQU41OXU4M1c1TnBYbUh4SmR4bEp3aW5NRFVDZDFlMGwxQnFCWlpOY2lEOGhSNkU1b0ZwNzR1ZA?oc=5",
+      "snippet": "Change is coming to Winkler, ralliers say as southern Manitoba city hosts 1st Pride march &nbsp;&nbsp; CBC Pembina Valley Pride comes to Winkler &nbsp;&nbsp; PembinaValleyOnline Hu",
+      "pub": "Sun, 14 Jun 2026 16:44:29 GMT",
       "image": ""
     },
     {
@@ -104,30 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMHNxWUVtNnF6YzhMUFY4eUZCVksyZjhVMG1Xa05LT1dBSUd2ZWhIUGducWdNaUJlLWNNZm9WQTdrbVhWZnF6b0RsWWRVMkdaQ09qSnFjc0RRMXVxU1FLM2dSMHJmU05yckRCMmw3OUtfaGRsNkRpbG1mYTdaREhucjhnOUVMQThIX0VWUExhb0tydEJzWnJSYVNLT09jczVBWXBlRUFIV2ZFdkpWNlBpWmo2MER4ZlY1UmcwU09jOWNWcXgySWxORTRQQ0pFSHJueFdtRXRBeWlJdDY1aWlTWA?oc=5",
       "snippet": "‘Kids just aren’t on the bargaining table’: Miller insists Canada won’t capitulate to Trump on social media ban &nbsp;&nbsp; CTV News 'I'd cry my eyes out': Some P.E.I. teens push ",
       "pub": "Sun, 14 Jun 2026 09:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump says peace deal with Iran will be signed Sunday, but Tehran yet to confirm timing - CBC",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wQlFZT3NGd2Z3cm1pYzhpbnp6aDdVMkJ3MUltVHFlc25tZkNJbVNqZFFTd3FkRFZMLWh0Z0c4LTB3eEVfaDVkblduU1ZXb3R0Mkt5WEdoTTNhcGxhc2xUNl9SLU96dWF0c1lsVGVLZlloMVZWc0E?oc=5",
-      "snippet": "Trump says peace deal with Iran will be signed Sunday, but Tehran yet to confirm timing &nbsp;&nbsp; CBC Mike Waltz hedges on Iran signing &nbsp;&nbsp; Politico Jeffries questions ",
-      "pub": "Sat, 13 Jun 2026 21:55:47 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Procession now underway for fallen Toronto police officer Const. Marc Pinizzotto - CP24",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb3JfVFYwMHBjeU5lZFdnSUxzcnJxVmJNU01qMHBKRUVUbEgxZTI5enZnRVZhUjJodnlzc2ozam5FYmlObVpoVWp1bW0zUnAtcDZlZTlQYzFHb05WcjcxanlYN1VXT0prQm1WM0tWcU1na2I5T3pJWXJET3NWU29WaHJyQUlUcWJLTDE0Mk51NmlYTW5CdE5td0xKWklrSGhIRmVpVTdNQXdVZHIzaWhHQ0cwM1Y3eEhaSk9CbldPUUl1Z29t?oc=5",
-      "snippet": "Procession now underway for fallen Toronto police officer Const. Marc Pinizzotto &nbsp;&nbsp; CP24 ‘We have it from here’: Police salute fallen Toronto officer at procession &nbsp;",
-      "pub": "Sun, 14 Jun 2026 19:07:13 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Change is coming to Winkler, ralliers say as southern Manitoba city hosts 1st Pride march - CBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uTnN3SzBzVUxBc3lQbkN2Q3lXUDFyQ3IwWExpTFBFZExyT0V2eGRhQWJWYTRleEM3bER2Z1ZVRXFKQU41OXU4M1c1TnBYbUh4SmR4bEp3aW5NRFVDZDFlMGwxQnFCWlpOY2lEOGhSNkU1b0ZwNzR1ZA?oc=5",
-      "snippet": "Change is coming to Winkler, ralliers say as southern Manitoba city hosts 1st Pride march &nbsp;&nbsp; CBC Pembina Valley Pride comes to Winkler &nbsp;&nbsp; PembinaValleyOnline Hu",
-      "pub": "Sun, 14 Jun 2026 16:44:29 GMT",
       "image": ""
     }
   ],
