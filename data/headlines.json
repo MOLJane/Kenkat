@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-06-14T16:16:28.563747+00:00",
-  "count": 8,
+  "generated_at": "2026-06-14T17:54:21.062305+00:00",
+  "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Healthy Northern Cod Stock Permits Larger Catch",
+      "link": "https://vocm.com/2026/06/14/301509/",
+      "snippet": "The northern cod stock is in the healthy zone and able to support a 55 per cent increase in the total catch this year according to DFO but it's a diff...",
+      "pub": "Sun, 14 Jun 2026 17:17:55 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/cod-fish-dfo-recreational-food-fishery.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Province Opens Applications for Youth Grants",
@@ -59,16 +67,71 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/kevinwadman.png"
     },
     {
-      "source": "VOCM",
-      "title": "Solar Lights Coming to Quidi Vidi Trail",
-      "link": "https://vocm.com/2026/06/14/301485/",
-      "snippet": "A project is underway to improve the experience of the thousands who use the trail network around Quidi Vidi Lake. The Grand Concourse Association is ...",
-      "pub": "Sun, 14 Jun 2026 08:55:38 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/08/img-6155.jpeg"
+      "source": "Google News Canada",
+      "title": "‘Kids just aren’t on the bargaining table’: Miller insists Canada won’t capitulate to Trump on social media ban - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMHNxWUVtNnF6YzhMUFY4eUZCVksyZjhVMG1Xa05LT1dBSUd2ZWhIUGducWdNaUJlLWNNZm9WQTdrbVhWZnF6b0RsWWRVMkdaQ09qSnFjc0RRMXVxU1FLM2dSMHJmU05yckRCMmw3OUtfaGRsNkRpbG1mYTdaREhucjhnOUVMQThIX0VWUExhb0tydEJzWnJSYVNLT09jczVBWXBlRUFIV2ZFdkpWNlBpWmo2MER4ZlY1UmcwU09jOWNWcXgySWxORTRQQ0pFSHJueFdtRXRBeWlJdDY1aWlTWA?oc=5",
+      "snippet": "‘Kids just aren’t on the bargaining table’: Miller insists Canada won’t capitulate to Trump on social media ban &nbsp;&nbsp; CTV News 'I'd cry my eyes out': Some P.E.I. teens push ",
+      "pub": "Sun, 14 Jun 2026 09:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Canadian prime minister heads west to ancestral homeland - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHNUduWmVZQVpjMjQ1UTAxQWV0ZkRaVGVQWFdnMDRYTTQ5Y2psTDJyb3I4WFp5VWJiRHBWWHdka0l0Z1ZLTTh2LTduZjhYTUkxbDBCQlQxemREdw?oc=5",
+      "snippet": "Canadian prime minister heads west to ancestral homeland &nbsp;&nbsp; BBC Canada, Ireland agree to work together on AI, tech and food security &nbsp;&nbsp; The Globe and Mail Ahead",
+      "pub": "Sun, 14 Jun 2026 16:04:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "OPP intersection safety blitz follows deadly crash in rural Ontario - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZU1iN0x2cDlQSUFORklySjFIczdSc2pnR1h4TGRQcmM5X0ZITy05YUpjbTEzSjNObjA4bm1NRTQxT09Nck5CMW1qLVBDWDRSMmxSWGIxYXlkUFBVU1NFWlhVdmlwNC1leUN6WjBGbXNfUnNJWUc5N3NfR29qb1c0MkFCREdWcHRwNWNWREpJRXRVTlpQeXVLbXpwT1VrMkJhV1QxdmRkX3Znc2M?oc=5",
+      "snippet": "OPP intersection safety blitz follows deadly crash in rural Ontario &nbsp;&nbsp; CityNews Toronto Ontario collision leaves 5 children dead: OPP &nbsp;&nbsp; Global News OPP to laun",
+      "pub": "Sun, 14 Jun 2026 10:54:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump decries Israeli strike on Beirut, insists deal still close - Yahoo News Singapore",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yNDZEQkdqRzRKSXBaRkFPem9UZHpXdHpIZEJzOFdCYk5QR3dNbHE2T0tWck8zSWpFQ1k3dU1pUlh4UmpCQThSdDlzSllpTnczT3ZvZjJEUExPalZzMlBtYUI5b3FrYjFFdFRvQzdiRm1WcGRm?oc=5",
+      "snippet": "Trump decries Israeli strike on Beirut, insists deal still close &nbsp;&nbsp; Yahoo News Singapore Live updates: Trump urges Israel not to strike Lebanon with US and Iran ‘so close",
+      "pub": "Sun, 14 Jun 2026 16:31:50 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Forecast El Nino has arrived; what it means for the Maritime provinces - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJQLWRYQnVpUElpX29DNGF6UnRDMkxzSXB3djdpVXFEWDdPdy1DUHZja280T0Z6TU56ZmVSN1BzLVlmQV9NYTB2TlVMTEJ5UUpyOElZOUJlWkwwR2xKa0VweFI5OWdfakpma1h0QW82SVh0X2VMcFI0c3hWR2s1R1AyajNIcFgxUlFQekxwR2VRd1VTMUx5MmZkZjFmZDFUSG9sYi1RZWxFeXVPSGY0?oc=5",
+      "snippet": "Forecast El Nino has arrived; what it means for the Maritime provinces &nbsp;&nbsp; CTV News The wait is over: El Niño is officially here and it may make history &nbsp;&nbsp; The W",
+      "pub": "Sat, 13 Jun 2026 14:29:29 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Accused in cop’s death worked for hired-gun network: sources - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZ29oQ0xQOVg0SUpfWlM5ZWhlbzhWSTZOZGhWd2NQTHpuM25nT0JyUUVhZWZaRnJfMGJudGxXRVd6eGJoWXhjT1FOaVNsOHNvMWlIeWxMMFNhTXh5MmR3U3RxS0tmcDNuLTFrNUNmZzlMM0JCaW9hSFZvV1gtcHR5WWpieFFHZ0lTVHJqT0ctcXB5aDFXNFN1YjJFb0NkQ2NwMGpPMFBQN00xNm1aM3UxQWxXc2VkcE5vbnpGMkQtT3RnMFpCMXNic2tEVklCRWpxdWk5M3lxbERYT2wyZmQydlhIYnkxMUxGenQ3QTlWUXNzaWhuY28xQzFIN2k4d09LaTBHaE1SdmVwN2R6dDZORXA0eFZ4YW4w?oc=5",
+      "snippet": "Accused in cop’s death worked for hired-gun network: sources &nbsp;&nbsp; Toronto Star See more headlines & perspectives on Google News",
+      "pub": "Sat, 13 Jun 2026 09:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Renfrew County school board prepares to cut librarian jobs by half - CBC",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFFpY2lrTWhteGtuTnB1aU9vVEJLZXhSRVBHb0RLd2JFZlozMDhFRk9hUncwMUloNzRsMThHdDRrSzA3LTJpMnBkNDh4Q0UyZE5RMTlOVFVyc2poaXhKMV9tbjR5WVUyZmJzZHNxLXY1SXBWUnN3dllTcEpuQ2hoSmdrazJpcDAyYmJ0X0UwczVpRXhiNVlpUFZ0MERGMTMzUTZuTGl2V2w2QWVydk9tZUFvZjE?oc=5",
+      "snippet": "Renfrew County school board prepares to cut librarian jobs by half &nbsp;&nbsp; CBC",
+      "pub": "Sun, 14 Jun 2026 08:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Manitoba homeowners stunned to find storm flooding not covered by their insurance - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYUZjOGttN0lpTWdjUHE2MG95ZU5UWHFhamw4Rlk3enlGYk9LRzJQRzVJUlBCazBYWjJaTGFnWVBUeVd5TDVXMFJPVGlaQUk4STgzR0Mxb2VHc0syUnJ3WjFkVTFzbzlGenNTdlNqV2o0bzU1aDRlN0w1ZEY1MENFVXI3Rmx2RXFWa011ekI2MkZxLVo1R2d5b3ZGejFoMDdVVTNaYlE4U3dnSUNKa09mcGxPNWpPQ0xVb2ZuUDQ3Tm1OeHNVWVlDYXZwWHVNOF9uYmU4?oc=5",
+      "snippet": "Manitoba homeowners stunned to find storm flooding not covered by their insurance &nbsp;&nbsp; CTV News 20,000 MPI claims after southern Manitoba storm, on track to break record &n",
+      "pub": "Fri, 12 Jun 2026 21:57:23 GMT",
+      "image": ""
     }
   ],
   "errors": [
-    "CBC News failed: The read operation timed out",
-    "Google News Canada failed: The read operation timed out"
+    "CBC News failed: The read operation timed out"
   ]
 }
