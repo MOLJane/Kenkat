@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-06-14T06:26:12.549495+00:00",
+  "generated_at": "2026-06-14T10:01:27.457036+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Influential Placentia Bay Businessman Passes Away",
+      "link": "https://vocm.com/2026/06/14/301487/",
+      "snippet": "A man who was seen as being instrumental in the development of a flourishing town in the island's industrial heartland has passed away. Kevin Wadman, ...",
+      "pub": "Sun, 14 Jun 2026 09:09:05 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/kevinwadman.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Solar Lights Coming to Quidi Vidi Trail",
+      "link": "https://vocm.com/2026/06/14/301485/",
+      "snippet": "A project is underway to improve the experience of the thousands who use the trail network around Quidi Vidi Lake. The Grand Concourse Association is ...",
+      "pub": "Sun, 14 Jun 2026 08:55:38 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/08/img-6155.jpeg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Spaniard’s Bay Whale Towed Out to Sea",
+      "link": "https://vocm.com/2026/06/14/301483/",
+      "snippet": "Bay Roberts has gotten rid of what could have become a smelly mess on a beach near the rec centre. The whale that became entangled in fishing gear dee...",
+      "pub": "Sun, 14 Jun 2026 08:47:49 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/dead-whale-spaniards-bay-pam-parsons.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "June 14, 2026 – Do you think Ottawa’s new Food Security Strategy will result in lower food prices for Canadians?",
+      "link": "https://vocm.com/2026/06/14/june-14-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13033').",
+      "pub": "Sun, 14 Jun 2026 08:00:34 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/11/vegetables-turnip-cabbage-jiggs-dinner.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Trump Signs $70 Billion Immigration Enforcement Funding Bill",
@@ -12,7 +44,7 @@
     },
     {
       "source": "VOCM",
-      "title": "Two Arrested in Goulds Attack That Targeted the Wrong House",
+      "title": "Two Arrested in Goulds Attack that Targeted Wrong House",
       "link": "https://vocm.com/2026/06/13/wrong-house-allegedly-targeted-in-goulds-attack/",
       "snippet": "A family in the Goulds is breathing easier today after a frightening incident Thursday night in which a large rock came crashing through their living ...",
       "pub": "Sat, 13 Jun 2026 15:46:55 +0000",
@@ -35,38 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/09/teresita-mccarthy-bell-island-community-museum.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Proposed School Bus Schedule Changes Spark Concern",
-      "link": "https://vocm.com/2026/06/13/301464/",
-      "snippet": "The leader of the NDP and former president of the NLTA is concerned about the potential impact of proposed changes to school busing schedules. Governm...",
-      "pub": "Sat, 13 Jun 2026 12:00:49 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/08/School-bus-stock-crop.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Holy Heart Student Selected for National Scholarship",
-      "link": "https://vocm.com/2026/06/13/301462/",
-      "snippet": "A grade 11 student at Holy Heart has been named as the 2026 recipient of the Lester B. Pearson Scholarship. Each year a Level II student is selected t...",
-      "pub": "Sat, 13 Jun 2026 11:57:43 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/minister-paul-dinn-and-julian-murdy.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Diesel and Heating Fuel Prices Drop Overnight",
-      "link": "https://vocm.com/2026/06/13/301458/",
-      "snippet": "Fuel prices went down overnight as Brent crude oil dropped by about $5 a barrel to around $84. Diesel costs about 4 cents less on the island and in La...",
-      "pub": "Sat, 13 Jun 2026 11:03:26 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/diesel-pump-gas-station-fuel-prices-irving.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Spaniard’s Bay Planning to Remove Beached Whale",
-      "link": "https://vocm.com/2026/06/13/301456/",
-      "snippet": "The MHA for Harbour Grace-Port de Grave says a whale carcass that's washed up onto the beach in Back Cove, Spaniard's Bay is drawing a crowd. Pam Pars...",
-      "pub": "Sat, 13 Jun 2026 09:52:20 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/dead-whale-spaniards-bay-pam-parsons-1.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Five children killed, six people injured in two-vehicle crash near Guelph, Ont. - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOanE3YjZFd1FuTEstanM4UlJhWUo5aTNqeUtqTkZYbnBLa2VIZEp5bGRpVTF5SGFnLV85eVR0TlcwYTNuWGd4SkdLZmN1UmtTLWkxa1RQOUJ1VU5lRlN5dW9QUUNjaTN6YmJsSjFncm5ldDVxTEFmMnprSEVZeEgtR0FRLUg0RENHaEFUVjdBYU1tbGZRaThETTJrcVdjaDU2dnhBLXZOdHhIanBhTVZfRmdrQTlNZ1lQeldCVUZ3ODdVQms?oc=5",
@@ -76,18 +76,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump says peace deal with Iran will be signed Sunday, but Tehran yet to confirm timing - CBC",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wQlFZT3NGd2Z3cm1pYzhpbnp6aDdVMkJ3MUltVHFlc25tZkNJbVNqZFFTd3FkRFZMLWh0Z0c4LTB3eEVfaDVkblduU1ZXb3R0Mkt5WEdoTTNhcGxhc2xUNl9SLU96dWF0c1lsVGVLZlloMVZWc0E?oc=5",
-      "snippet": "Trump says peace deal with Iran will be signed Sunday, but Tehran yet to confirm timing &nbsp;&nbsp; CBC Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on tim",
-      "pub": "Sat, 13 Jun 2026 21:55:47 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Doctors in England looking to make the move to Canada amid labour unrest - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRF9hRlhDM1c0b0l1VXEtQkZFY01qdGF6YlEyTmlDTGd5ZU4tUXU5WUJWdzlySHdCRGxLb2xZeVE5YUc0VGVFdXFUd2dQVUJFTnVqZkNWUjhWRjJ6UmJzWDZvNHBPV3ozazBsZkY0azlFeE9JV1JTaEZZOHIzUE9LS3BJY2RUcXNBQ1ExT3czR3Y0NmFlQVN4cGhn?oc=5",
-      "snippet": "Doctors in England looking to make the move to Canada amid labour unrest &nbsp;&nbsp; CTV News Senior doctors are considering leaving the U.K. for Canada. Here’s why. &nbsp;&nbsp; ",
-      "pub": "Sat, 13 Jun 2026 23:11:31 GMT",
+      "title": "Canada vows to restrict social media for kids under 16. Teens say they'll 'always find a way' - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSVNtRzE4Q1RRdnJBbUVrSVU3NkU1WU5nbzZHR3dFWG41NWl4RlVyTDF2Um44TTVKZzJDZHhhaHZQV2pKdjlJZXREb0FRTXBmQ0xiSmk0c1RzZHBzSk9EMmp6OTI1V0w5RzZCeXpkQXRQN1RvN2ZldDRCTW5QekNWcjJheld1c0wz?oc=5",
+      "snippet": "Canada vows to restrict social media for kids under 16. Teens say they'll 'always find a way' &nbsp;&nbsp; CBC Ottawa moves to restrict social media for kids under 16 &nbsp;&nbsp; ",
+      "pub": "Sat, 13 Jun 2026 14:41:07 GMT",
       "image": ""
     },
     {
@@ -102,24 +94,32 @@
       "source": "Google News Canada",
       "title": "Canadian Prime Minister Mark Carney 'back home' on two-day visit to Ireland - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xbW9FbWFyZmtoZGJSMzMzLUE2SGVvZ3BSZU0wVUZRQTg0eGY0UW8yYmpWNjYtSFctMnAtakF4Z3NOWTkzc3ZNWFJoNjNtdWx2ZW42VEc0dkJLdw?oc=5",
-      "snippet": "Canadian Prime Minister Mark Carney 'back home' on two-day visit to Ireland &nbsp;&nbsp; BBC Carney says G7 no longer ‘runs the world or pretends to’ &nbsp;&nbsp; CTV News Canada, ",
+      "snippet": "Canadian Prime Minister Mark Carney 'back home' on two-day visit to Ireland &nbsp;&nbsp; BBC ‘A global rupture’: Carney calls for Canada-EU unity before G7 summit &nbsp;&nbsp; Al J",
       "pub": "Sat, 13 Jun 2026 21:00:32 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Knicks rally from down 16 to beat the Spurs for their first NBA title since 1973 - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZQWxYbDhtMENpdDlQZ0RaLVZOOXk4RTFtamtRWHdUNzRPZzJnelplYkpJNUhxUkI3S0oyeGUtQWZ6Rll5VkNQU002ZW1UNFJpS3BKZmx2TGNWXzRwR1NBRg?oc=5",
-      "snippet": "Knicks rally from down 16 to beat the Spurs for their first NBA title since 1973 &nbsp;&nbsp; NBA.com 'Surreal': New York Knicks win NBA championship for first time in 53 years &nb",
-      "pub": "Sun, 14 Jun 2026 04:32:49 GMT",
+      "title": "Trump says he’ll sign deal with Iran to reopen Hormuz Sunday - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcDFBMWZmZU9mR0c3OGFOci1HOFpWcjBaUENicUtHbDJrbHQ0WHNXdDFhVnJZckRvYnYtbHRyelMtOVZoZU40QS1FUVhSZzBJZE5mOHpqVWpmYXloX050V1JOZC00TmhrMzg4YmpFYWlqYmVpOUZMeTEtaUY0c2RESGNlZ1l3RS1CU2tYSFNn?oc=5",
+      "snippet": "Trump says he’ll sign deal with Iran to reopen Hormuz Sunday &nbsp;&nbsp; Fortune Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing &nbsp;&nbsp; BBC Li",
+      "pub": "Sat, 13 Jun 2026 18:06:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Danielle Smith addresses disability benefits following death of AISH recipient - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQblRJLW9QYnN6M0IyMFRxT0stU2l4ODVmOEhCb2VqNjdPS0p2QWZjcndrMFZOMTRVM0Mzem1PT1FDNklmaFRxbDctVksxUTZnUGc2S3lSeHJYUEwtQzYydEIzdlB0cXAtdF8xdjhLWE8zTmlBU19OdUVNSFNva2VvS3RLZnhmdzhVR3ZJT0I1OFNfYTQ4cXVUMUFwMmpLMVZnWjEtbFhfUlVVdWdybE1XeHYxWGhGc0VkWUE?oc=5",
-      "snippet": "Danielle Smith addresses disability benefits following death of AISH recipient &nbsp;&nbsp; CTV News Empress man dies by suicide, blames AISH changes &nbsp;&nbsp; Medicine Hat News",
-      "pub": "Sat, 13 Jun 2026 20:56:36 GMT",
+      "title": "Knicks clinch first NBA title in 53 years, as Brunson shines against Spurs - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHBHTmZyQ0ZMWHE1RFJ5bGdvRU9nNUk4cU5OSTQxMWk4WFdxSnpCYncwVkdVTzFGUTFqLUdrSE8xRnJQeXljSldhSEZ6R29oeDFHZnhEdGk4S2YtREFfUG03X3NtNkpyUHFDNGtZOU56U1poRmk3NnV5Y0xNRkctTmN1Y0dobmNxUWd1UWdzNk56MjBCNkN2NjdXWGMtQdIBowFBVV95cUxQOWwtWkRNSWE1cG9Ebl95eFdoSEJaMWJ3OER1SlJaZ19pQkJON1A0a0l1MFVNUFc5UHhHRk4zb0FGcUZleDk0Rm1iS2VjY29RbkNfcDU4a1dXUG1VOGF1LUFKV0tNS012UW54ZVpuTkNIOVdwdGlINGFSVGVWazMzeHE5WW1UQWtmMW9aY3JhVG5MamxzbnpMUk1IZVRWaGYxOFBv?oc=5",
+      "snippet": "Knicks clinch first NBA title in 53 years, as Brunson shines against Spurs &nbsp;&nbsp; Al Jazeera NBA Finals: New York Knicks beat San Antonio Spurs to win championship &nbsp;&nbs",
+      "pub": "Sun, 14 Jun 2026 07:06:22 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Manitoba storm on pace to break 30-year insurance claims record, MPI says - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWRJSkM3T0xEWExETDdQbDJxZmU2Y2VCX1VCZmZxbG0ydF80WGlmUjlrOHgybXd1UE1mR19iek9kcWJxVUVtckR4TnZnU0lST2VWcngzRnZkWHpxODBVd3NyUHFWeEV0Q01VSm8tR19jc3Z6UXhEckVkUW9mZVJoTFhYSTFhcGZvTUdSZ00xZERid2paNmg3dG8tUzN2dUE3YklQTm52SnhkdmVPVTJFOWJVaw?oc=5",
+      "snippet": "Manitoba storm on pace to break 30-year insurance claims record, MPI says &nbsp;&nbsp; CTV News 20,000 MPI claims after southern Manitoba storm, on track to break record &nbsp;&nbs",
+      "pub": "Sat, 13 Jun 2026 01:08:00 GMT",
       "image": ""
     },
     {
