@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-06-15T02:51:58.071107+00:00",
+  "generated_at": "2026-06-15T08:49:22.516988+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Environment Canada Lifts Air Quality Warning Following Fire at Robin Hood Bay",
+      "link": "https://vocm.com/2026/06/15/environment-canada-lifts-air-quality-warning-following-dump-fire/",
+      "snippet": "Environment Canada has ended an air quality warning triggered by a fire at Robin Hood Bay yesterday afternoon. Firefighters and city crews were busy b...",
+      "pub": "Mon, 15 Jun 2026 08:36:59 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/img-0705.jpeg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Woman Charged with Theft at Blackmarsh Road Store",
+      "link": "https://vocm.com/2026/06/15/woman-charged-with-theft/",
+      "snippet": "A woman is in the lockup after a theft from a business on Blackmarsh Road yesterday. RNC was called around 2:45 about a woman who was trying to take o...",
+      "pub": "Mon, 15 Jun 2026 08:32:16 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "June 15, 2026 – Do you think that any Government in Newfoundland and Labrador, no matter the political stripe, will actually reduce spending?",
+      "link": "https://vocm.com/2026/06/15/301519/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13036').",
+      "pub": "Mon, 15 Jun 2026 08:00:04 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/nl-house-of-aseembly-confederation-building-government-nl-hoa-2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Update: Air Quality Statement in Effect Following Fire at Robin Hood Bay",
@@ -43,30 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/05/img-2101.jpeg"
     },
     {
-      "source": "VOCM",
-      "title": "Transitional Housing Closure Sparks Safety Concerns",
-      "link": "https://vocm.com/2026/06/14/301496/",
-      "snippet": "An organization heavily involved in helping people find stable housing is worried about what the future holds with the pending closure of the transiti...",
-      "pub": "Sun, 14 Jun 2026 12:30:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/04/transitional-housing-airport-comfort-inn-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "WorkplaceNL Expands Psychological Injury Policy",
-      "link": "https://vocm.com/2026/06/14/301493/",
-      "snippet": "Workplace NL says the number of psychological injuries being suffered at work has been declining over the last several years. The organization recentl...",
-      "pub": "Sun, 14 Jun 2026 11:19:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/03/workplace-nl-logo.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "New Energy Storage Project Proposed for Bay St. George",
-      "link": "https://vocm.com/2026/06/14/301490/",
-      "snippet": "Triple Point Resources has registered its proposed Fischells Salt Dome Power Generation Project for environmental assessment. Triple Point is proposin...",
-      "pub": "Sun, 14 Jun 2026 10:09:31 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/fischells-salt-dome.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Deal is reached to end Iran war and Trump orders stop to U.S. naval blockade - CTV News",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQjRnbUdXWjZDOVo3aU4xRndpTDhsYXZXenBYMTU5eUpZQzBfOEx3eUJJT3Via1Z0MzRXWTJxT3lPU0tKOXctWU9wU3RnU19zQ0VHNlVMSjUwUnFOYTNzMTB0dEkyWDIyMDZyZmpvUWtjRnA2ZnBQdkdqbWVBcmpTRHJLRGlpY1FCb2x2WVhBNVM5RnB4MTUwRFdzMERxRmpaOXNWUVE2dXZOaTRtdzREdFFkS3ZPQUJSSXpERmxMWjgtVS1jaEduSg?oc=5",
@@ -76,18 +76,34 @@
     },
     {
       "source": "Google News Canada",
+      "title": "‘Forever be a hero in life’: Police funeral for OPP officer killed in the line of duty in northern Ontario set for Thursday in Mississauga - CP24",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPdTBoUDQ5Rld0NmRUdW5oVlh3ejc3QzVWSi1qWGFqdnVYOHplUFdZdDBkUFZ4YlVxTWh4b0RUY3NEMmo1a1NfdXFvYU83WEZsajc1QzJkb3BibHIwX3lVOWkwR29uY0lVNjFtQzVpUzVnYXVNT0FRVEtIQWE4b3AtZ2toWnlISXJCVU1RUzVBeFpVOVhwbUZqaUhiOVY5STIyLXZFdTRRSkRGMDlnVE1OMTRuMF8zMXJlbnhrOGZiSWhsZUFKbnpMTW5tU09QTzVCNU9wOTJGSDltT2I2QkNBcDFDc0djS2FsRldrUGxvcFlLMmZqaVB1Zk4xZE5uN3VWX1NPU0xWLUFFUVRmR2Mw?oc=5",
+      "snippet": "‘Forever be a hero in life’: Police funeral for OPP officer killed in the line of duty in northern Ontario set for Thursday in Mississauga &nbsp;&nbsp; CP24 Funeral for fallen OPP ",
+      "pub": "Mon, 15 Jun 2026 02:01:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Mark Carney: Canadian PM heads west towards ancestral homeland - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHNUduWmVZQVpjMjQ1UTAxQWV0ZkRaVGVQWFdnMDRYTTQ5Y2psTDJyb3I4WFp5VWJiRHBWWHdka0l0Z1ZLTTh2LTduZjhYTUkxbDBCQlQxemREdw?oc=5",
-      "snippet": "Mark Carney: Canadian PM heads west towards ancestral homeland &nbsp;&nbsp; BBC Prime Minister Carney expands Canada’s partnership with Ireland across science, technology, and cult",
+      "snippet": "Mark Carney: Canadian PM heads west towards ancestral homeland &nbsp;&nbsp; BBC Ahead of G7, Carney says no one country will characterize new world order &nbsp;&nbsp; CBC Carney vi",
       "pub": "Sun, 14 Jun 2026 23:03:12 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Police intercept car driving toward pedestrians near Angrignon Park; gunshots heard, two flee - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmVpNWdxS2hORTNBYkhkcFJXTTN2MFkwbVhacGpJcXg3REh4bjlnTnRFTVF4dGkyVm0yTWE1YTlmRDVkWjNOT3Q0bmhBeDBTb0RLU3h5VnlRS2JBQXMwREJveDFrTmJEQ2FEZC1Ec0RZZllWeWZFeU9SQ3FrSGxFQjVwS2JxZ2lLc0pxalBXOE5wZmZLUFpjRm10emhzTXlkdTBYdExQT1B6OHc2cUU0XzRQdHZZWndEV19zSWl3WmpabU9lYlRhWU9KaDc?oc=5",
-      "snippet": "Police intercept car driving toward pedestrians near Angrignon Park; gunshots heard, two flee &nbsp;&nbsp; CTV News",
-      "pub": "Sun, 14 Jun 2026 13:54:12 GMT",
+      "title": "Victim identified in ‘gruesome’ North York homicide investigation - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmotVzdjeXl1NzI5MHNaQ183MHVXVVNHSmx1YjRiUTEybGhUTG5vRzhXRWhYR3I1MDNHNXJRM0hDUXhialJJclpVSmZUTmg1c3B3RVFKY2NMSWdHR0toejl6anBqZnlJMFFXazY1Qzg5eUdVdWZhWDJlSXIzUHdON2EyQjFCTEpwQUtPMWJQNVpxN3ZGT0VEYnNDQXllUHpXb2Rsc0RR?oc=5",
+      "snippet": "Victim identified in ‘gruesome’ North York homicide investigation &nbsp;&nbsp; CityNews Toronto ‘Find a lawyer and turn yourselves in’: Police investigate fatal hit-and-run linked ",
+      "pub": "Mon, 15 Jun 2026 02:25:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Grass at Vancouver’s BC Place gets thumbs up from World Cup stars - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWY2SjVPcnNDVlZBSWp4U0lDempNWGkyOHo0bElmZnUtRVc2LVUwSHNRLXVqMFp6UWdmbndnSklNa01fdHFlVE83UW1xZzZoQUVSbl9vVmR4bk5tYU5ka3RuQU5OaV9HNWdUY3RycmlZNlo3aG5sUlVpWmtqTFh1R0RQMlkzX21hYmliRTltSjh3dFVRM0N5UFgtbw?oc=5",
+      "snippet": "Grass at Vancouver’s BC Place gets thumbs up from World Cup stars &nbsp;&nbsp; The Globe and Mail 10 takeaways from the first-ever FIFA Men’s World Cup match hosted in Vancouver &n",
+      "pub": "Sun, 14 Jun 2026 23:20:27 GMT",
       "image": ""
     },
     {
@@ -100,26 +116,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Vancouver’s 1st World Cup game sees 2 arrests, no major incidents: police - Global News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYVdJczFpZFhvR0RPWnl4VDVtdUszNTU2OWIwOVVfNC1PX0cwb2E4c05rSml0Q1FkVEdHQ0cyOVdWUWZVZW50bFZndUxXZ1pJWS1TamN0andPaTNCS1lhNzhuQXJPY290NjkzRTNhTHl5MncwWU5HVTF6S0prLVZQckVRX1l5bTI1VmFPZkJ5T3NSZTA?oc=5",
-      "snippet": "Vancouver’s 1st World Cup game sees 2 arrests, no major incidents: police &nbsp;&nbsp; Global News 10 takeaways from the first-ever FIFA Men’s World Cup match hosted in Vancouver &",
-      "pub": "Sun, 14 Jun 2026 18:53:55 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Procession held for Toronto police officer shot in investigation tied to U.S. consulate shooting - CBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYkd4ajNteElLYXRvYS1MQnF4Z04zSmN3SzRtOGt6NlctRmd0WTQwMUMxSXJxeEhPdjhfT0F6aEdBR0Vxa2tOdUc2bElxb3lTaTd1dFF1bWpLYVFRVi1UQm4zc0hKLW5MRzBTdVNuVnNwUE83U2FueW1OSFFCdzNCWQ?oc=5",
-      "snippet": "Procession held for Toronto police officer shot in investigation tied to U.S. consulate shooting &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Sun, 14 Jun 2026 22:41:52 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Pro-separation billboard in Alberta town remains up after removal deadline - Global News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV0o0UmZXVkZTSEszV3pOX2ljVF95Nk9TUUZvR1RHbUloa1BzOHEzSkJSeHZFVi1mY25tUHo1LXdWQ0oyWmxIVng2dFE3Q2JvY04tTEJvT0xFOU9YWEQta1NscUZ1RUwxUFVGdE9HLVJRQ0lycU1HTlJYUVRscWVldWNUc1dDQWowdDJIdkNrZnBwcEhFSnZxMURTUDU2X0t0NUlZZ0ExSFR6X21zZzlpOQ?oc=5",
-      "snippet": "Pro-separation billboard in Alberta town remains up after removal deadline &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
-      "pub": "Sun, 14 Jun 2026 22:45:47 GMT",
+      "title": "'So many other people in need': Interlake residents take stock of damage caused by heavy rains - CBC",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2ZLY3V0eVVENEtnOHgxc0YzRGNfVF9NWVlRbGg2dHlKaDRqM2NrUWhvTHJwMU9laHcxbjZZUU95a3pTNVFwVmVrS1ROc1Q5MG1wMkh2TGdqRUF5RTk4b1U1bFlFQW9lbmh6N0ozN0hoNzJXSmVkam14RjlDdDJkSV9ObHp1OEQ3NkpwWWZSZUdncXBkRmxOY1V1enZyam81dUtHLThpWlJFcTk3NmZHMFZB?oc=5",
+      "snippet": "'So many other people in need': Interlake residents take stock of damage caused by heavy rains &nbsp;&nbsp; CBC Impacts of flooding still felt in the town of Stonewall &nbsp;&nbsp;",
+      "pub": "Sun, 14 Jun 2026 23:31:46 GMT",
       "image": ""
     },
     {
