@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-06-15T21:58:55.357644+00:00",
+  "generated_at": "2026-06-15T23:46:30.905608+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Discontent Grows in Labrador Over Cod Fishery Expansion",
+      "link": "https://vocm.com/2026/06/15/301674/",
+      "snippet": "There is discontent from several quarters in Labrador over this year's expanded commercial cod fishery. The quota in 2J3KL, that's roughly from southe...",
+      "pub": "Mon, 15 Jun 2026 22:05:41 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/dwight-russell.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Cocaine Seized During Goose Bay Traffic Stop",
@@ -59,75 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/08/nlta-newfoundland-and-labrador-teachers-association-president-dale-lambe.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Tragic End to Neyles Brook Search",
-      "link": "https://vocm.com/2026/06/15/301651/",
-      "snippet": "A sad ending to the search for a person reported to have fallen into the water at Neyles Brook Bridge in Central Newfoundland. Lewisporte RCMP were al...",
-      "pub": "Mon, 15 Jun 2026 17:32:13 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/nyles-brook-exploits-ground-search-and-rescue-1.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Live updates: US and Iran reach agreement but key questions remain - CNN",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96MkdnSWJIck92NmhSbHp0cGl0LW1FSFhTM0tLR0FCYndhMnJLd2VVZ09NSzlhX2JrMmRENXNNaGFVTzBzY3hWUUFJdWZReUM1VWhVX0w2QWVORV9CbUhGNWpjbTRMRzVEdWIwT0kzNl9oWk1TYU83Tg?oc=5",
-      "snippet": "Live updates: US and Iran reach agreement but key questions remain &nbsp;&nbsp; CNN Iran war live: Trump confirms Iran ‘deal is all signed’ &nbsp;&nbsp; Al Jazeera Trump claims vic",
-      "pub": "Mon, 15 Jun 2026 21:02:00 GMT",
+      "title": "B-52 bomber crashes after takeoff from U.S. air force base in California - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXJrOGM1TjhXR3VwQXVLU0VVT2htYkpNSElZVU5IaDVGZ0l4YnBEVHlrWEJuZkFPR3E5elBGRHdtZUlRUk5FU1JMeGZtTFRNSmlzdHBERDlhZW1tRlFjdkxxbXFaVklKZTNvUnliRFExaUMySmRfcU8tRF9pWHU4QlZ4WjdGMnBpcktV?oc=5",
+      "snippet": "B-52 bomber crashes after takeoff from U.S. air force base in California &nbsp;&nbsp; CBC Eight feared dead after US Air Force B-52 bomber plane crashes in California &nbsp;&nbsp; ",
+      "pub": "Mon, 15 Jun 2026 23:10:37 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "US Air Force B-52 bomber plane crashes after take off in California - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4taG93RGNJdXN0TzVWcXV0azU4TXZaVWI1X0ZzZFp1VUJKTE9vQXNjTkJ6dmtQWEVnUG0wSV9nT3R1SFhSTkhfWWxpQ0o2OVFJU3NhQnRabmRBQQ?oc=5",
-      "snippet": "US Air Force B-52 bomber plane crashes after take off in California &nbsp;&nbsp; BBC B-52 bomber crashes after takeoff from U.S. air force base in California &nbsp;&nbsp; CBC B-52 ",
-      "pub": "Mon, 15 Jun 2026 20:09:04 GMT",
+      "title": "Iran deal: Trump is back to square one, but the cards are now in Tehran’s favor - France 24",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2JJblJHRzlrN0pMeGppMm1OeE9jbGItV1hNY29mWmpuZ3hTN1Vpdzg5OTV3QTFFS1YxNlV6ckcydGdSeGk3SGRRdWxhOVRkbEdqaEpVNVVzaUYzYUk4ZHlGTVNYcUt6eFRXTEtDek1OZTR5MVVPUkZaUnpwd1RkZlFfVC1TeWMyNW8wS0VNMkV1RXE4X3RJNnNkWFd4a1M0YUVsZEdBVUhhZ2xQZ0RhOEFR?oc=5",
+      "snippet": "Iran deal: Trump is back to square one, but the cards are now in Tehran’s favor &nbsp;&nbsp; France 24 What was it all for? US-Iran agreement brings bitter rivals full circle &nbsp",
+      "pub": "Mon, 15 Jun 2026 19:43:04 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Gavin Newsom says Trump Justice Department is investigating him and his wife - CNN",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFBTblFFb2VaMmVMZjRDX0tjTE1YRGJxSXlhNktlOFlrb0RYcVFSbDF4SXNoLUNmQjhxRjdabmMzcVJMWmg0Yjl0djFkbVdPUUQ5am1ITHlQRVUzZHlHZGhWOV85SGEzWmVSRHowVi13dWpnb3BrcDh5NnQySEd5WlZ3ODBzMWhmLXJ6OGRleGVrWEt2X2c?oc=5",
-      "snippet": "Gavin Newsom says Trump Justice Department is investigating him and his wife &nbsp;&nbsp; CNN Gavin Newsom says Trump directed U.S. Justice Department to investigate him &nbsp;&nbs",
-      "pub": "Mon, 15 Jun 2026 18:39:27 GMT",
+      "title": "Canada asks new citizens to hand back their citizenship certificates - CIC News",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjd0SnY5aWdjQ2xRQUFnUEJRQ1pWejNJRHltYklpVlpBZzRESGtrNndrd0daZ0liZ3RiUHliV011V3phaGpUOC1CM05uZEdmUmI4X0Jfb3FYcFZTTVBpVHZmR1dQZEFhRXFpQmVKWDJwTlE5cDQ3RE1IdVRLY01aS0xrSldtazctNFFHTVZkcWItUktEYy1xVnRXVXo2SnlscWtzWjZTQXZaeVVpSnN3UDdQSFU0cVB2QXZvT0pHUlFDTG9ZVFlDYm5Dc01qVGdfOC1EQkhHZE3SAaMDQVVfeXFMTmZNUlhTUGx1TEl2NUR4UkJGTTNkT3JNN284WnllRFZvUE9tZFVBZTVtU241S0d2aERJSEJWVWVrV2ozSzdiS2hFOXlyeHlITDJDTGdMYjhVakpucmxjWEFYZC1HS3BJRXhHbTdVM3pyeWNPLUllLXQ4M2dzVXBpZDZMM3hReUhJRGJDTlNwWGQ5WHlJMFpnVl9adlFoQ0JzSURBT0hhdm1wN0p6UzU5ajBlZnhOaWZxSVUzaXlUSTNmTU9ja0VVRTIyMUd4UmVkcl9ZN3czR1JZVGdzUFc0VjhVRk4xa0h1b1pNRHhRWWtqMXp6ZXAzTDNkdVZoR1l0VkpOR3FlU2JZWDktQThWRVB5NDAweHJTMERLOFlvX1FNRVVsdXYwYy1tVFFXckwyYVJVeWoxLTN2Z0t2d2ZwdzlMZTNRcnlVTlhGc2tlS19PYXJDdVlvZzlBSER1SVppbEd6Y3ZVWVlpUEFmOGdqZU5ETmg1VTBVUW5YYUFSY0Itb3k1UmNhT3pFUXk2LXFWRkllSDNnX2piUWhUTE9SZFlFRk0?oc=5",
+      "snippet": "Canada asks new citizens to hand back their citizenship certificates &nbsp;&nbsp; CIC News See more headlines & perspectives on Google News",
+      "pub": "Mon, 15 Jun 2026 21:24:44 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Gavin Newsom says Trump directed U.S. Justice Department to investigate him - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBia2M1LU9IQlNyTnFYa1BGX2NjYmx4TGFuU1J2SG5yWkxzQkxGVk9VWEdQVDRVM3NQSV93UG9odldVVnRILVhJN3JEQ2d2WU1reFBhMFpZcFdzRk8tbVdiVHE2XzNLWXAtRmVlcVBUQy1IS1FkRXBONmd3?oc=5",
+      "snippet": "Gavin Newsom says Trump directed U.S. Justice Department to investigate him &nbsp;&nbsp; CBC Newsom alleges politically motivated justice department investigation against wife, ex-",
+      "pub": "Mon, 15 Jun 2026 20:00:30 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "UPDATE: Twelve people, including children, injured at Cultus Lake Waterpark - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54QmdpTHBPaEVnTi1lTzg3eENaY2FrZ1NxZnNOLVJ1WVJnRHJYMXByaTVGN1FBTm9JcjRDR3hOQmU1aUVwaVZQcFJNTUlXcnU1REowTFljemdVOE9FVGg0eTF4b25JcjhDMEg2QmRmVzlOWHk3V2lNZg?oc=5",
+      "snippet": "UPDATE: Twelve people, including children, injured at Cultus Lake Waterpark &nbsp;&nbsp; Vancouver Sun 10 youths, 2 adults injured at B.C.'s Cultus Lake Waterpark: RCMP &nbsp;&nbsp",
+      "pub": "Mon, 15 Jun 2026 22:40:08 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "PM Carney: 1st Canadian firm awarded contract under SAFE agreement - BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWERrbVFOQW15NHhRUmFITDFmbWJNTUVXcVZ4SFMyVGw3UWNBcm1LRnIwNHloalJpSzV2aGg0bTgxajZEdWN1MVV3Tk9DeURIZjQwcy13MWRxRWUwczhYOTBvaFB1cFVicWxYdWMzYUs0V29NcnVaZVd5aXFnV0NLVG5jN0NBbGNNNXV4d0dNNEhNTy0tTzc5TUhxT2s0SmhQMXNnc2dmamFMSWRvZUNRaXlRbmo?oc=5",
-      "snippet": "PM Carney: 1st Canadian firm awarded contract under SAFE agreement &nbsp;&nbsp; BNN Bloomberg See more headlines & perspectives on Google News",
+      "snippet": "PM Carney: 1st Canadian firm awarded contract under SAFE agreement &nbsp;&nbsp; BNN Bloomberg 1st Canadian firm awarded contract under European rearmament deal &nbsp;&nbsp; CBC SAF",
       "pub": "Mon, 15 Jun 2026 17:40:05 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ottawa directs some with citizenship by descent to surrender citizenship certificates - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQUlsYU1Ua3dERkRUOG92WnNzUHdzaHUxaFZsUzJTVDdsQ054aThkM2dQSXBWNUxFNU5xdm1DRFZ0QjRRQkZrZ1NnZzhWenNCeGdsOWE1Q0ZyN250VGl6RjByekszYXZsN2JyQ1BDMWpVMmtlVGxrMGlsd09EY2FMLWlKQjNMWHZTRnc3RXg3Y3F3MndQektEMXpOOVlzb3VMa1FKREdPdDU4SU1hLUc4LW5pelJmZkNVWC1lTXFuei1ndjZj?oc=5",
-      "snippet": "Ottawa directs some with citizenship by descent to surrender citizenship certificates &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Mon, 15 Jun 2026 21:11:47 GMT",
+      "title": "'The heartbreak and grief are beyond words': Daughter details loss after 5 siblings killed in Ontario crash | CBC News - CBC",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNREdvc2xqZzB2NEVockVsTEN0YTdLYnJSVkxyZWh5ajZNYS05Q2t0Z2tiVVZOTmtmbFdCTjc2OW5KanRReXpRZzMtMEpoMW4waUk0ZXZmNExRSGlyZmRsamF2aHJkZEE5bXBYN1I0REVmMHdxNndXT0FiT1RHcXZ2ZGctOEhCZFl5R2lycER1eWpIMkFILW15TERBcjhqazFJaEhMQVB5aG5WZUVZNkpwMnpQaFUtaElxU2I5aUlfX2RtS2U2bkV6TEZuNWthVEhxczVOcTdXRmZpXzhiek80LVRybw?oc=5",
+      "snippet": "'The heartbreak and grief are beyond words': Daughter details loss after 5 siblings killed in Ontario crash | CBC News &nbsp;&nbsp; CBC Condolences pour in for Ontario family who l",
+      "pub": "Mon, 15 Jun 2026 22:34:32 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Sixteen Montreal police officers sanctioned over racism allegations - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSktqWklqN0V5OFRURDVidVAyanREcWkwUllJcmMtTlRLUkxRN3VhWktKRVBNTWlCd3AwRzNhclJYVkdCVE5UVE9QT0o4Sk5qaVJaV1lsS0dtcU8zeWY1WEs0R3FzNVM1RWdtMVh6UFdPTkVIZU9DcU9oN0tiZ0tuenFLaFlNZmV1alBxMzJHMHI?oc=5",
-      "snippet": "Sixteen Montreal police officers sanctioned over racism allegations &nbsp;&nbsp; The Globe and Mail Quebec to appoint independent observer for Montreal police racism probe &nbsp;&n",
-      "pub": "Mon, 15 Jun 2026 01:46:38 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Opioid deaths dropped 23% in 2025 — bringing 'cautious optimism' from Canada's top doctor - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFNORktSLTc0WXBRZHVrWWhFWDRVWXNydWJzWDNrLWVvYlltMXJRTFJWQkIySGRpU0dVS05qMkVrXzFQUmhTRUp5N3BiaWtXTHV6Skl4UHE0ZUNYT1pWUldWeHZnYlItTUhud21fdXE5WkxEelVtYmhWTEZxQ2FzLW9sQldCUHdrWVJJSUlsTWI?oc=5",
-      "snippet": "Opioid deaths dropped 23% in 2025 — bringing 'cautious optimism' from Canada's top doctor &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Mon, 15 Jun 2026 18:11:25 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Ottawa police have a sexual misconduct problem. A decade of fixes have largely failed - CBC",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSWlucWgxOVhzZmRmeHJoQUtUTGR4MUZEaEl3eDJLdVFqY0l5bmlOSTdBa2UyMmhPaVVPMVUweTk2eGViY3hrcTRSaWZXXzFHeVhQOWd0ZHVTaHR4WUtoenZKVnhFdmxFN0NEc1ZIUGYwWmxQb3BPVVZNUDJxZW9FVTJWZ3FtNmczLXQxNkF0MGlEdXZNbUlHTkRGMHhIRGtBZDZINjlPdUdhbFkydTN1a2dLRW40NjlZRDY4dndhUndKbENVb1pobDNNZmM?oc=5",
-      "snippet": "Ottawa police have a sexual misconduct problem. A decade of fixes have largely failed &nbsp;&nbsp; CBC ‘Change your behaviour or quit’: Ottawa police chief addresses pattern of sex",
-      "pub": "Mon, 15 Jun 2026 16:29:22 GMT",
+      "title": "‘Change your behaviour or quit’: Ottawa police chief addresses pattern of sexual misconduct within service - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMHZEM1FsanF1TURaNUNHWG5hLXVHaUtuTmVtT2JweWlFc1ZXNkZ3aHdTVDNNZ0U2SjhSLTRIODVDMmIwXzBnLVhGd2I2NUk1YkhyS2dtdDZhUXU0TTdqZVQtTEZQYmI3bldYUlBzODUyVzQ4WlpEZ0dmZndSMklTVGFqa2RBZXNNZkJvX2VTSHBQYWVzYjZscmljT2UyeC1qdXVoek5iUC1aQmp4Sy0zQmc5WU5mYnhtWFdtUkhYWFl3WmpVcGJtcWFmYlNBOXhaQkI1aW1IR284UQ?oc=5",
+      "snippet": "‘Change your behaviour or quit’: Ottawa police chief addresses pattern of sexual misconduct within service &nbsp;&nbsp; CTV News Ottawa police have a sexual misconduct problem. A d",
+      "pub": "Mon, 15 Jun 2026 19:53:48 GMT",
       "image": ""
     }
   ],
