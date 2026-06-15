@@ -1,10 +1,42 @@
 {
-  "generated_at": "2026-06-15T19:01:35.378689+00:00",
+  "generated_at": "2026-06-15T21:58:55.357644+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "RNC Warns of Phony Calls Used for Extortion",
+      "title": "Cocaine Seized During Goose Bay Traffic Stop",
+      "link": "https://vocm.com/2026/06/15/301672/",
+      "snippet": "A traffic stop in Happy Valley-Goose Bay resulted in the arrest of a Sheshatshiu man and the seizure of suspected cocaine. RCMP pulled a vehicle over ...",
+      "pub": "Mon, 15 Jun 2026 20:51:53 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/drug-bust-labrador.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Red Head Cove Man Charged in Hit and Run",
+      "link": "https://vocm.com/2026/06/15/301662/",
+      "snippet": "A 43-year-old man from Red Head Cove on the tip of the Bay de Verde Peninsula has been charged in connection with a hit and run in Old Perlican in Mar...",
+      "pub": "Mon, 15 Jun 2026 20:19:47 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/07/town-of-harbour-grace-provincial-court-nl.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Seniors’ Advocate Focuses on Ageism on World Elder Abuse Day",
+      "link": "https://vocm.com/2026/06/15/301589/",
+      "snippet": "The province's seniors' advocate is focusing attention on ageism - negative stereotypes and discrimination based on age - on this World Elder Abuse Aw...",
+      "pub": "Mon, 15 Jun 2026 19:47:07 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/seniors-abuse-elder.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Food First NL Welcomes Federal Food Strategy",
+      "link": "https://vocm.com/2026/06/15/301627/",
+      "snippet": "An organization in Newfoundland and Labrador which focuses on food availability and cost likes what it sees with the federal government's new food str...",
+      "pub": "Mon, 15 Jun 2026 19:27:46 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/10/josh-smee-food-first-nl-3.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RNC Warns of Violent Online Extremists Targeting Children After Local Incident",
       "link": "https://vocm.com/2026/06/15/301667/",
       "snippet": "An investigation involving national and international police agencies is underway after the RNC were able to link an incident in downtown St. John's l...",
       "pub": "Mon, 15 Jun 2026 18:50:38 +0000",
@@ -35,99 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/nyles-brook-exploits-ground-search-and-rescue-1.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "CBN Communities Rebuild After Devastating Wildfires",
-      "link": "https://vocm.com/2026/06/15/301638/",
-      "snippet": "Communities on the Conception Bay North Shore are trying to rebuild after losing everything in last year's wildfires. Insurance company belairdirect t...",
-      "pub": "Mon, 15 Jun 2026 17:21:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/jo-hogan-property.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Braya Makes First Canadian Renewable Diesel Sale",
-      "link": "https://vocm.com/2026/06/15/301618/",
-      "snippet": "Braya Renewable Fuels has completed its very first sale of renewable diesel to the Canadian market. The company has sold 100,000 barrels of renewable ...",
-      "pub": "Mon, 15 Jun 2026 16:58:44 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/09/come-by-chance-refinery-2022.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "UPDATE: Missing Nine Year Old Found Safe",
-      "link": "https://vocm.com/2026/06/15/search-underway-for-missing-nine-year-old-nathan-pike/",
-      "snippet": "The RNC have located a nine year old who was reported missing in the Karwood area of Paradise. The child was located after being reported missing earl...",
-      "pub": "Mon, 15 Jun 2026 16:39:11 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/07/rnc-headquarters-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RNC to Discuss Online Extremist Groups Targeting Children",
-      "link": "https://vocm.com/2026/06/15/rnc-to-discuss-online-extremist-groups-targeting-children/",
-      "snippet": "The RNC is warning about violent online groups which are targeting and extorting young people, and are set to discuss the issue publicly this afternoo...",
-      "pub": "Mon, 15 Jun 2026 16:12:38 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/03/thumbnail-mac-keyboard-computer-online-crop.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Officer struck by stolen vehicle driven by 12-year-old in Toronto’s east end fired multiple shots - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPekdISUlVQTNGdDVBZUlxVmhYeFRacnVEenpwT2JWTzVWUVNJZnF6eE1YWXhUT1VDUlNXUTFLZWJXX3JkSGh3SDlyak5KZWdBX1NuQVZvSXZHZ0hMaGJoMWdpMHBzaUdUczRyLUstMEc5RmgtdkQtdWcyY0Z2V0JjOXlXMF91YklSZW1mbnhIQkxHWmVVcXRRSV9nTUd3eEcwNzR5R3NWTUtPMWdJdW5MVlAya1RKcGxjWDRFeGF3?oc=5",
-      "snippet": "Officer struck by stolen vehicle driven by 12-year-old in Toronto’s east end fired multiple shots &nbsp;&nbsp; CTV News 12-year-old boy charged with attempted murder after hitting ",
-      "pub": "Mon, 15 Jun 2026 17:33:29 GMT",
+      "title": "Live updates: US and Iran reach agreement but key questions remain - CNN",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96MkdnSWJIck92NmhSbHp0cGl0LW1FSFhTM0tLR0FCYndhMnJLd2VVZ09NSzlhX2JrMmRENXNNaGFVTzBzY3hWUUFJdWZReUM1VWhVX0w2QWVORV9CbUhGNWpjbTRMRzVEdWIwT0kzNl9oWk1TYU83Tg?oc=5",
+      "snippet": "Live updates: US and Iran reach agreement but key questions remain &nbsp;&nbsp; CNN Iran war live: Trump confirms Iran ‘deal is all signed’ &nbsp;&nbsp; Al Jazeera Trump claims vic",
+      "pub": "Mon, 15 Jun 2026 21:02:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "U.S. officials say Iran pact signed, Hormuz traffic will rise significantly - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDJhT0VaNUlNd1pMYXYtN29wek9uaVdXTTN5RXRvZEw5Y090THB2VC1FNFIyb2FWbXJnNkRIb3RaUjA0U2N5TkNyZnJic0hfZlZUZnNHa254ejhRMVJhYW1wYXpsTzBLRXFTT2JtLVpiRWNMdGpSNFB6TnlHalU1cFhxQ1FUMzZya0J3TG9HVGVfWlN2enJHRlBaUUduZUhER3Z3?oc=5",
-      "snippet": "U.S. officials say Iran pact signed, Hormuz traffic will rise significantly &nbsp;&nbsp; Reuters As deal is agreed with US, not all in Iran are convinced that peace is here &nbsp;&",
-      "pub": "Mon, 15 Jun 2026 17:05:16 GMT",
+      "title": "US Air Force B-52 bomber plane crashes after take off in California - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4taG93RGNJdXN0TzVWcXV0azU4TXZaVWI1X0ZzZFp1VUJKTE9vQXNjTkJ6dmtQWEVnUG0wSV9nT3R1SFhSTkhfWWxpQ0o2OVFJU3NhQnRabmRBQQ?oc=5",
+      "snippet": "US Air Force B-52 bomber plane crashes after take off in California &nbsp;&nbsp; BBC B-52 bomber crashes after takeoff from U.S. air force base in California &nbsp;&nbsp; CBC B-52 ",
+      "pub": "Mon, 15 Jun 2026 20:09:04 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Iran, tech and Trump to top Macron's G7 summit - Euronews",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQnlYUE9pbl92Q1ljZTFkTUFYRTh2X0dycXZwbGowNjN2OVZlYW9BUW1wUGxaQVV1c3dGeGRPRmsyLVY2WUxvcVpfYzljR3RTVlhxS1J3OGhKX1o4LU9tOXFoeTFnUms4WmNWNnZUdnFEUGFxMXYtMXFjTHFhWk9fUl8yTUk1QUpVeW5oYWxTakJlSm1P?oc=5",
-      "snippet": "Iran, tech and Trump to top Macron's G7 summit &nbsp;&nbsp; Euronews Live Updates: Trump Arrives for G7 Summit in France &nbsp;&nbsp; The New York Times Trump at G7 Hails Iran Deal",
-      "pub": "Mon, 15 Jun 2026 06:13:43 GMT",
+      "title": "Gavin Newsom says Trump Justice Department is investigating him and his wife - CNN",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFBTblFFb2VaMmVMZjRDX0tjTE1YRGJxSXlhNktlOFlrb0RYcVFSbDF4SXNoLUNmQjhxRjdabmMzcVJMWmg0Yjl0djFkbVdPUUQ5am1ITHlQRVUzZHlHZGhWOV85SGEzWmVSRHowVi13dWpnb3BrcDh5NnQySEd5WlZ3ODBzMWhmLXJ6OGRleGVrWEt2X2c?oc=5",
+      "snippet": "Gavin Newsom says Trump Justice Department is investigating him and his wife &nbsp;&nbsp; CNN Gavin Newsom says Trump directed U.S. Justice Department to investigate him &nbsp;&nbs",
+      "pub": "Mon, 15 Jun 2026 18:39:27 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "SAFE: Council concludes agreement with Canada - consilium.europa.eu",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTENrbG1GVF8yMlUxR0tUSFFnTUg4dmtZOHRwdmhtTWEzTG16Mmt6SjZkajcwOHBLOUI4RGhLYlBCMVE1NU1ROUNSRWhNdXFNY1pFQ0h4NjBrNXViZnJxaUFVaFlGV2hDQ2tjLVdrTkItdG8yM0JlcXNBbzJqY0hGakhDWnBOWW5BbFhfM3pHNk1PREJLLU5SX0NuQ0lyZHB2T1Zwb0hRMzQzNVZWeFhnRWdn?oc=5",
-      "snippet": "SAFE: Council concludes agreement with Canada &nbsp;&nbsp; consilium.europa.eu See more headlines & perspectives on Google News",
-      "pub": "Mon, 15 Jun 2026 08:34:14 GMT",
+      "title": "PM Carney: 1st Canadian firm awarded contract under SAFE agreement - BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWERrbVFOQW15NHhRUmFITDFmbWJNTUVXcVZ4SFMyVGw3UWNBcm1LRnIwNHloalJpSzV2aGg0bTgxajZEdWN1MVV3Tk9DeURIZjQwcy13MWRxRWUwczhYOTBvaFB1cFVicWxYdWMzYUs0V29NcnVaZVd5aXFnV0NLVG5jN0NBbGNNNXV4d0dNNEhNTy0tTzc5TUhxT2s0SmhQMXNnc2dmamFMSWRvZUNRaXlRbmo?oc=5",
+      "snippet": "PM Carney: 1st Canadian firm awarded contract under SAFE agreement &nbsp;&nbsp; BNN Bloomberg See more headlines & perspectives on Google News",
+      "pub": "Mon, 15 Jun 2026 17:40:05 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Mark Carney: Canadian PM heads west towards ancestral homeland - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHNUduWmVZQVpjMjQ1UTAxQWV0ZkRaVGVQWFdnMDRYTTQ5Y2psTDJyb3I4WFp5VWJiRHBWWHdka0l0Z1ZLTTh2LTduZjhYTUkxbDBCQlQxemREdw?oc=5",
-      "snippet": "Mark Carney: Canadian PM heads west towards ancestral homeland &nbsp;&nbsp; BBC Ahead of G7, Carney says no one country will characterize new world order &nbsp;&nbsp; CBC Prime Min",
-      "pub": "Sun, 14 Jun 2026 23:03:12 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Five children from Elmira killed in rural Ontario crash - CityNews Kitchener",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0diYzZGLTVBdVRnV0g5T2ZTa1lxbTZ0bVJhZUVVUVpaZ0FLYmtGVE9CbUxtNk14Q3UtVW9mT01LN0ZKTE1ZS01xV0hvWnF5UWU2NVNvaVQyblIzeHJqNndMb1R4dWhCTDYzQUQ3eXdZVGUyN2FhX25nVjJJelh2ZkVfa3E4Y3JCYS1kUkIydjZmMU4xZU5UYlBPYTlObGxETjZ4ZXNCS0dGeW16V0syU2ZnOVZxdjVwcjA4?oc=5",
-      "snippet": "Five children from Elmira killed in rural Ontario crash &nbsp;&nbsp; CityNews Kitchener Support pouring in for family of children killed in Mapleton collision &nbsp;&nbsp; Guelph N",
-      "pub": "Mon, 15 Jun 2026 08:51:11 GMT",
+      "title": "Ottawa directs some with citizenship by descent to surrender citizenship certificates - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQUlsYU1Ua3dERkRUOG92WnNzUHdzaHUxaFZsUzJTVDdsQ054aThkM2dQSXBWNUxFNU5xdm1DRFZ0QjRRQkZrZ1NnZzhWenNCeGdsOWE1Q0ZyN250VGl6RjByekszYXZsN2JyQ1BDMWpVMmtlVGxrMGlsd09EY2FMLWlKQjNMWHZTRnc3RXg3Y3F3MndQektEMXpOOVlzb3VMa1FKREdPdDU4SU1hLUc4LW5pelJmZkNVWC1lTXFuei1ndjZj?oc=5",
+      "snippet": "Ottawa directs some with citizenship by descent to surrender citizenship certificates &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
+      "pub": "Mon, 15 Jun 2026 21:11:47 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Sixteen Montreal police officers sanctioned over racism allegations - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSktqWklqN0V5OFRURDVidVAyanREcWkwUllJcmMtTlRLUkxRN3VhWktKRVBNTWlCd3AwRzNhclJYVkdCVE5UVE9QT0o4Sk5qaVJaV1lsS0dtcU8zeWY1WEs0R3FzNVM1RWdtMVh6UFdPTkVIZU9DcU9oN0tiZ0tuenFLaFlNZmV1alBxMzJHMHI?oc=5",
-      "snippet": "Sixteen Montreal police officers sanctioned over racism allegations &nbsp;&nbsp; The Globe and Mail ‘Anger, sadness, a sense of deja-vu': Montréal-Nord mayor responds to police rac",
+      "snippet": "Sixteen Montreal police officers sanctioned over racism allegations &nbsp;&nbsp; The Globe and Mail Quebec to appoint independent observer for Montreal police racism probe &nbsp;&n",
       "pub": "Mon, 15 Jun 2026 01:46:38 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Winnipeg police seeking suspect after preteen girl sexually assaulted at knifepoint - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdDZ0UHYtMGxMN09raGo0NVlYSVVBLU1Tekw5TFU1RlgzUk16d1N2V01mMWlFVWlYc0dmM1B2dlFnRUNpVjNueW5hdHhDTEY5LTlQMmwwN1p5WXU2dEpRdFY0R01pWThYQ1cwUDh0MTNqZlp6WkdmUWhmTGY4QVNvSDdhalVLaXZTcm9uZk1PSUQzZw?oc=5",
-      "snippet": "Winnipeg police seeking suspect after preteen girl sexually assaulted at knifepoint &nbsp;&nbsp; CBC Pre-teen girl sexually assaulted at knifepoint: Winnipeg police &nbsp;&nbsp; CT",
-      "pub": "Sun, 14 Jun 2026 14:08:24 GMT",
+      "title": "Opioid deaths dropped 23% in 2025 — bringing 'cautious optimism' from Canada's top doctor - CBC",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFNORktSLTc0WXBRZHVrWWhFWDRVWXNydWJzWDNrLWVvYlltMXJRTFJWQkIySGRpU0dVS05qMkVrXzFQUmhTRUp5N3BiaWtXTHV6Skl4UHE0ZUNYT1pWUldWeHZnYlItTUhud21fdXE5WkxEelVtYmhWTEZxQ2FzLW9sQldCUHdrWVJJSUlsTWI?oc=5",
+      "snippet": "Opioid deaths dropped 23% in 2025 — bringing 'cautious optimism' from Canada's top doctor &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "pub": "Mon, 15 Jun 2026 18:11:25 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Ottawa police have a sexual misconduct problem. A decade of fixes have largely failed - CBC",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSWlucWgxOVhzZmRmeHJoQUtUTGR4MUZEaEl3eDJLdVFqY0l5bmlOSTdBa2UyMmhPaVVPMVUweTk2eGViY3hrcTRSaWZXXzFHeVhQOWd0ZHVTaHR4WUtoenZKVnhFdmxFN0NEc1ZIUGYwWmxQb3BPVVZNUDJxZW9FVTJWZ3FtNmczLXQxNkF0MGlEdXZNbUlHTkRGMHhIRGtBZDZINjlPdUdhbFkydTN1a2dLRW40NjlZRDY4dndhUndKbENVb1pobDNNZmM?oc=5",
+      "snippet": "Ottawa police have a sexual misconduct problem. A decade of fixes have largely failed &nbsp;&nbsp; CBC ‘Change your behaviour or quit’: Ottawa police chief addresses pattern of sex",
+      "pub": "Mon, 15 Jun 2026 16:29:22 GMT",
       "image": ""
     }
   ],
