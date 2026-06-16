@@ -1,12 +1,44 @@
 {
-  "generated_at": "2026-06-16T18:12:48.653736+00:00",
+  "generated_at": "2026-06-16T21:23:35.097629+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "RCMP Closes Both Lanes of Trans Canada Highway Near Gander",
+      "title": "Provincial Opioid Deaths Fall to Six Year Low",
+      "link": "https://vocm.com/2026/06/16/301772/",
+      "snippet": "The number of opioid-related deaths in Newfoundland and Labrador has dropped to its lowest level since 2019. Data from Statistics Canada shows that th...",
+      "pub": "Tue, 16 Jun 2026 19:57:54 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/pills-generic.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "New Campaign Launched to Recruit Foster Families",
+      "link": "https://vocm.com/2026/06/16/301775/",
+      "snippet": "A new recruitment campaign has been launched to help address an urgent need for more foster families. Government says there are currently more than 90...",
+      "pub": "Tue, 16 Jun 2026 19:13:23 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/joedy-wall-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Lithium-Ion Batteries Blamed for Landfill Fires",
+      "link": "https://vocm.com/2026/06/16/301741/",
+      "snippet": "The St. John's Regional Fire Department believes lithium-ion batteries are to blame for two recent fires at the Robin Hood Bay waste management facili...",
+      "pub": "Tue, 16 Jun 2026 19:00:13 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/04/st-johns-regional-fire-department.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Three Men Arrested After Rabbittown Home Invasion",
+      "link": "https://vocm.com/2026/06/16/301790/",
+      "snippet": "Three men have been arrested in connection with a home invasion in the Rabbittown area of St. john's. RNC responded to a home in the neighbourhood aro...",
+      "pub": "Tue, 16 Jun 2026 18:22:15 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "UPDATE:  Trans Canada Highway Near Gander Reopens After Collision",
       "link": "https://vocm.com/2026/06/16/301787/",
-      "snippet": "Both lanes of the Trans Canada Highway are closed to traffic as emergency responders attend to a collision about 10 km east of Gander. RCMP are advisi...",
+      "snippet": "The Trans Canada Highway has reopened to traffic after a collision about 10 km east of Gander earlier this afternoon. The highway had been closed for ...",
       "pub": "Tue, 16 Jun 2026 18:04:20 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
     },
@@ -35,99 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/wilma-macinnis-office-of-the-child-and-youth-advocate.png"
     },
     {
-      "source": "VOCM",
-      "title": "Hockey Night in Canada Now Exclusive to Sportsnet",
-      "link": "https://vocm.com/2026/06/16/301761/",
-      "snippet": "Sportsnet and CBC have jointly announced that the public broadcaster will no longer air NHL games after the current season. Sportsnet acquired the rig...",
-      "pub": "Tue, 16 Jun 2026 16:45:16 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/sportsnet-logo.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "High Winds Prompt Wreckhouse Travel Warning",
-      "link": "https://vocm.com/2026/06/16/301759/",
-      "snippet": "RCMP are warning drivers of high winds in the Wreckhouse area. Winds are forecast to reach 120 km/h in the area today, creating a hazard for large and...",
-      "pub": "Tue, 16 Jun 2026 16:30:15 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/04/Wreckhouse-Area-Generic-1.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Arrests Made in Connection with Recent ‘Criminals-for-Hire’ Shootings in GTA",
-      "link": "https://vocm.com/2026/06/16/301751/",
-      "snippet": "The Toronto Police Service has arrested three people and seized two firearms in connection with a number of recent shooting investigations in the GTA ...",
-      "pub": "Tue, 16 Jun 2026 16:06:30 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/toronto-police-chief-myron-demkiw.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Onlookers Hindered Emergency Response at Torbay Fire",
-      "link": "https://vocm.com/2026/06/16/301738/",
-      "snippet": "Firefighters had a difficult time getting back and forth to fill their pumper trucks while fighting a house fire in Torbay Sunday evening because of t...",
-      "pub": "Tue, 16 Jun 2026 15:50:01 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/08/PaulChaytor_7800-1.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Carney announces new sanctions on Russia during Zelensky meeting at G7 - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMi1YZW9OVDNJRjFSdjRwSXY5RTZMa1BhQmZXUXhHTThQTHN1Q1FzNGVaUGw3ZVdZUjNoSW8ya3ZhcGZLLVpyalRMdm5hblhBUlF0RmtJQkppNmxlWFpwWE9vR2E2MDM1aG1feHRta0c3T1g5V091OHplTGRHTHlkNHZ0QjJ4em4wVWdqbFk5TnQ3V09GOXVwRTUyZw?oc=5",
-      "snippet": "Carney announces new sanctions on Russia during Zelensky meeting at G7 &nbsp;&nbsp; The Globe and Mail See more headlines & perspectives on Google News",
-      "pub": "Tue, 16 Jun 2026 10:25:13 GMT",
+      "title": "Liberal government tables First Nations clean drinking water legislation - CBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3aC1KR0RwekJkNmhESTZ0YWVxZnd0aVBlVVd2M1V4TUhZRDZKaGVLcV9XZUR0Y2dVNlZXYnFhOEY1WVpDeVRUaW5FVnNjSnQ4eC00LW1QSnBjY0NyOGN6SlVETW9hd2F1VDhWcXBvc1ZRX1V2T2c?oc=5",
+      "snippet": "Liberal government tables First Nations clean drinking water legislation &nbsp;&nbsp; CBC New First Nations water bill changes mention of ‘right’ to clean water access &nbsp;&nbsp;",
+      "pub": "Tue, 16 Jun 2026 17:33:17 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Police say young people being recruited to carry out GTA shootings using encrypted messaging services - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUnUtT2htY1hicFB4eDVCcTczRGF3YkhnUTZtbFVEVVFnU19ZTndZckc2MlN4WTcwTFJyaHF5NnpsM2RrSGYtNGl0NjlsY2R2NVV4UEJOTjZidmFBc1AwMmZuV2NzcTJLWkVEcnZINkt5cDQyekZRMW9wWW5uWUtMVFBzLU42ckZWeWFRRE0zZF8tXy14Q0luVDJ1SkpORDhaV25LRzVGOXgwZGxDTFZnVXJuWDZkeTc3bUE?oc=5",
-      "snippet": "Police say young people being recruited to carry out GTA shootings using encrypted messaging services &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Tue, 16 Jun 2026 10:37:34 GMT",
+      "title": "12 children recovering after Cultus Lake Waterpark incident as park remains closed - Global News",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HcUwxZjZHaUZOM25oWWxtVUowTTUwMHhNSTNkelJnWEg3YVd1cTc1R2tQT2pua3dsXzJlWHlNOFdfbDZNR2xCTUxTWTdZenFUVElUS1ZXLWI4eFd4dUhoSDJSZmlEdmZaRlRjbzRwWnR6LTJ2N3c?oc=5",
+      "snippet": "12 children recovering after Cultus Lake Waterpark incident as park remains closed &nbsp;&nbsp; Global News Investigations probe electrical incident that sent 12 youths at B.C. wat",
+      "pub": "Tue, 16 Jun 2026 17:48:29 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "MoD investigating reports Russian warship fired warning shots near yacht in Channel - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53LWR2UWZ0VDFBQVBCTTBXaFU5TkltRWIyY2xDbkg0aG5SUzR2UFJYVFNPSGtDU1B5c0k0Tk1OREVHSnZfaW1GVkE3dGFvZFRsNC1WSnVjVTRSZw?oc=5",
-      "snippet": "MoD investigating reports Russian warship fired warning shots near yacht in Channel &nbsp;&nbsp; BBC Russia says its warship fired warning shots at U.K.-flagged yacht &nbsp;&nbsp; ",
-      "pub": "Tue, 16 Jun 2026 16:19:05 GMT",
+      "title": "Russia says yacht on 'dangerous approach' in Channel prompted shots - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnVLR3NhbFp5blNfdjZ5bTlUdm4yTkdsOS0yOTd4NU5mT1JCOExfeXlSWUZDSl85Wmw4azdzNk1UM2xWWXFJOGhiN19QRGZFSGdnWEtFYWJUMW1xU3hScWZhY2VmM3JGa3RsbEJTYVlqRXp5c0lwS1ltaGRITlNqQTVBdjBFS3o2MW05c1plYWhSMnpRSW5xbzZPTjlUNGRVdjM4eWpLcEVPSnVqRUY2NWlEc25JZw?oc=5",
+      "snippet": "Russia says yacht on 'dangerous approach' in Channel prompted shots &nbsp;&nbsp; Euronews.com Russian warship fires warning shots near UK-registered yacht in Channel &nbsp;&nbsp; B",
+      "pub": "Tue, 16 Jun 2026 15:37:42 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Two Edmonton men caught with millions of contraband cigarettes they were selling ‘for profit and greed’ - National Post",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbnVxNU1FU0VaazRSc2FsWkQ4T2JmWC1tTzJtakw5OTUtLTh1NnB0NE03eGhCOG1DVmxRWlhjS1ZabGdIRnVjUnI3UnFraGMtcmNXeGxVSllaZ1RsUnJUSVh1TndZQlFDS1ZkWXVTd29MVkxKT1pMUVAwTWRXTHgycnRSX2FESVJyWmFnUTlkWnc4amhSRWdORFNtcDhnNndha3ZRX01yVFIwVTFaTktlM2FGTmRCNEE2VmVLUlVwRHdvWWJOMm9ndmt0WVpYRlZienRnZg?oc=5",
-      "snippet": "Two Edmonton men caught with millions of contraband cigarettes they were selling ‘for profit and greed’ &nbsp;&nbsp; National Post",
-      "pub": "Tue, 16 Jun 2026 10:01:51 GMT",
+      "title": "Shootings at U.S. consulate, synagogues in Toronto linked to gun-for-hire network, police say - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3E2eURDbS0zWGFEYU5zRUtLRXZvT2kxZXFTaGVybFFETmp1RV84Tl9OYjlHSFlRWU02ekNRMGhDZlZmMnNRTTMtYjROVVV2NXBPQmdtcG5DMXlqa3QxckhrV0tpY2p1MVZjZ2ZZNUp2cHV2VGpfekZTMnF5N09SOUlpMVNMZFZ0aWdwUGp0MlFyUHY4a084R2FURmV5WVJJaTRJSVEzWkVVQ3d6a1gxUldYa3N2Y3hNdkE?oc=5",
+      "snippet": "Shootings at U.S. consulate, synagogues in Toronto linked to gun-for-hire network, police say &nbsp;&nbsp; The Globe and Mail 'Who's paying for this?': Toronto police believe youth",
+      "pub": "Tue, 16 Jun 2026 17:24:18 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada enters talks with Italy on buying advanced trainer jets - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNlhmZmtEeUdlRXFhNXBidVFyRTRPQ3pjOVpuWHl4RkNBdTdZQnpRTVZJNE1MUUpZdVF5cTBlTV90aWt2MUh4OHdockFGd2hMejZTeE94Z3lFMkJNek90TG1mNDJIcWE3OG9sMjVINThKb3pxRFNVRFJVZ216dVNyS1dxdlpRdFhBRXJQMA?oc=5",
-      "snippet": "Canada enters talks with Italy on buying advanced trainer jets &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
-      "pub": "Tue, 16 Jun 2026 12:47:45 GMT",
+      "title": "Carney announces new sanctions against Russia following G7 meeting with Zelenskyy - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRDljQjhnVHNINUhadUhIekYyU1BUdnRtdmtpUUJ3dlBmdldRem5UcHRBX0tOd2xwVTRXdG96eUlvRkNoVnU5OUtJY1lDdHRxQ09EQzR2ejJoM3NOLTFUVi1tRkF1VkNCdmJFb0hUb0VWS011VWhQX05FTkszdGRnMmFiaw?oc=5",
+      "snippet": "Carney announces new sanctions against Russia following G7 meeting with Zelenskyy &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "pub": "Tue, 16 Jun 2026 15:42:07 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "US says Iran signed deal to end war, ships moving through Strait of Hormuz - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3Jtek1FdTVKUTBIRG1QZWMzN1lLNWRZd2xUaTlHNFRRaTI0d3V0ZnhvNFZOZzJXTUpSRG8wZjdYZ3N5UzF4MGZ1T2tRRHhtN1NoYnZSSjR0QmVabVM3MFYteHlNSk9wVDZLazktV2JzREZlQ0VDRnRmQzdQa29JRlJDMkg2UnBaRXlCTlJ3ZVRaS1U2QU51eko3VHdQZmNx0gGmAUFVX3lxTE5WZXUxNTRVMVBEYzFEZ3EweGRYVndPMFJrOG5reW4xeDlSbGxSdDQ3NDZRVHh2X2RpeUlmMEdTSXhCUUdNZmNFV2s0Y2J3Q0Y5RGV1c0s5czUwWVpNVHdmM2JhYmZrMWw3aGdvUEJZSzFnZzRrWFFqQTdCT1ZTWXcycDZlV09laDNfTTNVekY5YUpnYzJGVm4wRjdDOW93b1BOQzctbkE?oc=5",
-      "snippet": "US says Iran signed deal to end war, ships moving through Strait of Hormuz &nbsp;&nbsp; Al Jazeera Opinion | Trump Stages an Iran Retreat &nbsp;&nbsp; WSJ US and Iran Prepare to Si",
-      "pub": "Mon, 15 Jun 2026 22:35:02 GMT",
+      "title": "Canada begins talks with Italy on buying advanced trainer jets - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ3BxdExuN3RFaXc5alhvMXpPNXpkX2FRQTRBNVJsSmRKZnJyTG9DblJ5UndUbk5jX0JQeEhad2FYZzIxalEtdXdaWV9yUnpNUTRzTDh3eml6eDhZWjlBRmQ1U1dna3h2U2RnTEVtQWxGdTlRRmtFZ0EzT2xGcFNPdUlaaE1ZNWY0Sk1NbjhoTUlFajM2N21FOElTa29yNmJQMHk3Rlh3VGlfdl84ZVF3VTJweU9NSXdjeDZ6MHVBbUJiU014Y3h5X09VaDAwN0xndGgwNHBfMDVOWFI5ckdfVU1R?oc=5",
+      "snippet": "Canada begins talks with Italy on buying advanced trainer jets &nbsp;&nbsp; Toronto Star Canada enters talks with Italy on buying advanced trainer jets &nbsp;&nbsp; Global News Rea",
+      "pub": "Tue, 16 Jun 2026 10:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Liberal government tables First Nations drinking water legislation - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZlhreHBSYm9ZcEktLTRMdjdhUXNIY3V0SFk5eHlXZWdNSTdZeHdXZUViNHVxTGROTXBpMWJtclNYT1gzYkNsZGhRQkVwYXVGdFA1UE5UbVhpUnBOQlVQNU9yMmJiMnZHcnNrbHRfQ185bDFaaXduVmdMYkdILVlfbm15c2hjRk1acG15U2Fod25YLWxMZWM4cnMzR1hHNkZpdlVTV0NCd3JuN1RtZG1F?oc=5",
-      "snippet": "Liberal government tables First Nations drinking water legislation &nbsp;&nbsp; Castanet Liberal government tables First Nations clean drinking water legislation &nbsp;&nbsp; CBC N",
-      "pub": "Tue, 16 Jun 2026 14:31:00 GMT",
+      "title": "West Kelowna residents told to leave homes as wildfire spreads - Castanet",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVVaTmxQWFliTmpQR0VubUVQYVhUeXROdy00Y29ZUnZUNXVvQmhsTnBkNm1rLS1MZ195Qzh5dHowQTB3aUI1UmpKNmlUY29OY0toUFBrdkk2NEItLTdfRU1oNF9MMFBRdXhzX2xKczBRZ0t5X3ViNTB1RVIzME5vLWZOWVBrSEJXWENNRmdMdUlKRmtUdTBETGNaZk1vZVRtYWhwbE9abXQ4VzJ2WmhMd2xn?oc=5",
+      "snippet": "West Kelowna residents told to leave homes as wildfire spreads &nbsp;&nbsp; Castanet Live updates: Wildfire burning near residential area of West Kelowna &nbsp;&nbsp; CBC Fast-movi",
+      "pub": "Tue, 16 Jun 2026 20:29:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "High-risk accused status revoked for Manitoba man who killed parents, attacked nurse - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcjJTMHR6VUFnNHBoRmtUUUJ1RDg4LU5DNm8xa3VPQzNYNUZoemZjY1g2OVBJZnBIaFkzTVdaM0lNcmUyVVNzZTRQeFBsZ0xScWI3ZGswdE0tcjhPNzJvY19GenBpTnpaV0xBa1RZV0hOV0oyT2hBYTJVbWxremlFWXhOeHphX3FXMnJsaWN2ZXhTR2xtTGlIbWVKNThhZ2xNS2p6TVB5cDRjaXg0bjh2RWVFeTAweEM2YkZGU09rb3UtQQ?oc=5",
-      "snippet": "High-risk accused status revoked for Manitoba man who killed parents, attacked nurse &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Tue, 16 Jun 2026 16:53:28 GMT",
+      "title": "Alberta rodeo bucks parade over disagreement about float - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWhyck1mRUh6R1JYX2QyRDdEdU03azFlNFVzeGZWMDhmYXVRRkg4TEJBd0xwWm5zWlAzWHdoTjJEYV9IVVBaSkJReWotZ3RKOU9DSWNXUVZKaGdHRGxfUHFVOFBqdmtTSVk5VWI5N0ZSRVYzUEtiTHZPTDRjVjBCZ2k0R2ZLQVVUc05zdmdfWnlucVdsZHd6YmZpMy0?oc=5",
+      "snippet": "Alberta rodeo bucks parade over disagreement about float &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
+      "pub": "Tue, 16 Jun 2026 17:29:51 GMT",
       "image": ""
     }
   ],
