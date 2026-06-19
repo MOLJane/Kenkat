@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-06-19T05:31:31.798061+00:00",
+  "generated_at": "2026-06-19T10:13:38.828192+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Government Forming 12-Member Panel on Early Childhood Education",
+      "link": "https://vocm.com/2026/06/19/302031/",
+      "snippet": "The provincial government is setting up a new child care advisory panel that it says will help improve the system. Three months ago, a number of early...",
+      "pub": "Fri, 19 Jun 2026 09:54:35 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/05/Confederation-Building-Summer-Sun-Spring-Roof-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RNC Issues Several Tickets in West Coast Construction Zone",
+      "link": "https://vocm.com/2026/06/19/rnc-issues-several-tickets-in-west-coast-construction-zone/",
+      "snippet": "It's construction season, and the Royal Newfoundland Constabulary is reminding drivers to slow down when travelling through construction zones. Severa...",
+      "pub": "Fri, 19 Jun 2026 09:31:14 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/rnc-construction-zone-west-coast-speeds.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Minister Responsible Says Government Needs to ‘Rebuild Trust’ With Innu Nation",
+      "link": "https://vocm.com/2026/06/19/minister-responsible-says-government-needs-to-rebuild-trust-with-innu-nation/",
+      "snippet": "The minister of Indigenous Relations and Reconciliation says the Innu Nation needs to be \"treated with respect,\" and government needs to \"rebuild the ...",
+      "pub": "Fri, 19 Jun 2026 09:04:01 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/lela-evans-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Registration Open for Bay du Nord Information Sessions",
+      "link": "https://vocm.com/2026/06/19/registration-open-for-bay-du-nord-information-sessions/",
+      "snippet": "The province's offshore regulator is inviting the public to register for information sessions as part of the public review of Bay du Nord's developmen...",
+      "pub": "Fri, 19 Jun 2026 08:47:03 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/06/equinor-bay-du-nord-illustration-of-the-floating-production-storage-and-offloading-fpso-unit.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "St. John’s Regional Fire Department Welcomes 14 New Recruits",
+      "link": "https://vocm.com/2026/06/19/302022/",
+      "snippet": "The St. John's Regional Fire Department has officially welcomed 14 new recruits to its ranks. The new firefighters started 15 days of classroom and pr...",
+      "pub": "Fri, 19 Jun 2026 08:38:33 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/st-johns-regional-fire-department-sjrfd-new-recruits-firefighers.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Latest Fuel Prices for Friday, June 19, 2026",
+      "link": "https://vocm.com/2026/06/19/latest-fuel-prices-for-friday-june-19-2026/",
+      "snippet": "Most fuels are a little more expensive this morning. Gas is up by 1.7 cents per litre. Diesel increases by 1.6 cents on the island and 4 and a half ce...",
+      "pub": "Fri, 19 Jun 2026 08:31:34 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/gas-fuel-pub-public-utilities-board-gas-pumps.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "June 19, 2026 – Are you usually affected by traffic congestion on your daily commute?",
+      "link": "https://vocm.com/2026/06/19/june-19-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13079').",
+      "pub": "Fri, 19 Jun 2026 08:00:10 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/09/pitts-traffic-september-18.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Medical Association says NLHS Cyber Test Left Health Care Workers ‘Demoralized’",
@@ -11,115 +67,59 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/Stethoscope-Doctor-Health-Medicine.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Two Arrests, Imitation Firearm Seized in Hatcher Street Operation",
-      "link": "https://vocm.com/2026/06/18/two-arrests-imitation-firearm-seized-in-hatcher-street-operation/",
-      "snippet": "Two people were arrested and an imitation handgun was seized as the result of a police operation on Hatcher Street this morning that prompted a shelte...",
-      "pub": "Thu, 18 Jun 2026 18:48:23 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/hatcher-street.jpg"
+      "source": "Google News Canada",
+      "title": "Language complaints up 7% in Quebec, but fewer about service and signs - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3Zmdlo4Rnp1TkFIbGdwZF9DT2pkNmEtS1FsWVF2clJVVG13c2lYV0dqS0hmOXlEellHdURxMXJMXzNFUUdpSW50Tzhza01aRE5JSEdLdEpPQ2pScno1VC1NaEhRR2pIRGw2SnlwengtY1V2U0h5Q05keFBsa0J3UGNuUUFtQWVvRjNFaDlNTk85TnVHTkRleW1oOTJRZw?oc=5",
+      "snippet": "Language complaints up 7% in Quebec, but fewer about service and signs &nbsp;&nbsp; Montreal Gazette French language complaints in Quebec hit record high, OQLF says &nbsp;&nbsp; CB",
+      "pub": "Thu, 18 Jun 2026 19:54:36 GMT",
+      "image": ""
     },
     {
-      "source": "VOCM",
-      "title": "Advocate Applauds Sentence Banishing Man from West Coast Towns",
-      "link": "https://vocm.com/2026/06/18/advocate-applauds-sentence-banishing-man-from-west-coast-towns/",
-      "snippet": "An advocate for victims of intimate partner violence is applauding an unusual provision added to the recent sentencing of a man from the west coast. J...",
-      "pub": "Thu, 18 Jun 2026 18:07:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/04/Judge-Gavel-Court-Legal-Law-.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Town to Meet with Marystown Fire Department and Burin Peninsula Ground Search and Rescue Following Dust-up on Shared Space in Fire Hall",
-      "link": "https://vocm.com/2026/06/18/town-to-meet-with-marystown-fire-department-and-burin-ground-search-and-rescue-following-dust-up-on-shared-space-in-fire-hall/",
-      "snippet": "The mayor of Marystown says a meeting is planned this coming Tuesday to find a suitable solution to space problems at the Marystown Fire Hall. The Bur...",
-      "pub": "Thu, 18 Jun 2026 17:04:30 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/10/marystown-volunteer-fire-department-photo-via-twitter.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Black Bear Feasting on Chickens in Eastport",
-      "link": "https://vocm.com/2026/06/18/black-bear-feasting-on-chickens-in-eastport/",
-      "snippet": "A trap has been set up in the Eastport area to capture a marauding black bear that has been feeding on domestic chickens. A caller to VOCM Open Line w...",
-      "pub": "Thu, 18 Jun 2026 15:58:32 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/06/black-bear-advisory.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "NL Hydro Applies for Rate Increases Starting in 2027",
-      "link": "https://vocm.com/2026/06/18/nl-hydro-applies-for-rate-increases-starting-in-2027/",
-      "snippet": "The PUB has received a General Rate Application from NL Hydro for a full review of its 2027 costs, including the purchase costs associated with Muskra...",
-      "pub": "Thu, 18 Jun 2026 15:16:19 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/nl-hydro.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Family of the Late Mark Hiscock Seeking Answers After Untimely Death",
-      "link": "https://vocm.com/2026/06/18/family-of-the-late-mark-hiscock-seeking-answers-after-untimely-death/",
-      "snippet": "The family of the late Mark Hiscock of Shannyganock fame is seeking answers in connection with his untimely death in May of last year. Hiscock's wife,...",
-      "pub": "Thu, 18 Jun 2026 15:03:24 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/05/img-0322.jpeg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Major Backlogs on TCH Eastbound at Foxtrap Access",
-      "link": "https://vocm.com/2026/06/18/major-backlogs-on-tch-eastbound-at-foxtrap-access/",
-      "snippet": "Work on the Foxtrap overpass has stalled traffic heading into the capital city region. Some callers to VOCM News say the backlog stretches back as far...",
-      "pub": "Thu, 18 Jun 2026 14:38:30 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/construction-generic-2.png"
+      "source": "Google News Canada",
+      "title": "Canadian killed in ‘accidental’ shooting at South African wildlife park, authorities say - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZWNXdlpWR29NaWtQeXdzd2dOQURISktoN1dteWZDNmxjbkpQTG1lSVZXMUE3dzJDRkhoNi0zdWZmeG0xZmV6NzZQaFpNamFjako3a0h3WmtsZEx3V3JFRnJNV2xKaG0yQmV0Zl9kYWNaUm1yS2x6ejJWczlycUNQYkViTEdoYWtNdWdlTGFLcUlrWnVyeWN3czBvMA?oc=5",
+      "snippet": "Canadian killed in ‘accidental’ shooting at South African wildlife park, authorities say &nbsp;&nbsp; The Globe and Mail Canadian shot dead during picnic at South African wildlife ",
+      "pub": "Thu, 18 Jun 2026 19:23:28 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "JD Vance tells Israel ‘you can’t kill your way out’ of security problems - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjNVQTdNQWxnLWpUcXJ0V1FnN2JRWHo5U24tcC1pOUJiNVdNQnBRNHo3dExtcGFDZ2w4cjltd0FtLXJLaHZkQWFsY3AzVGdNNTAzdFNPM2ZsWENUd0RkeG51RURibWx0LXU1bVVOY3UwVTRGZ0hvZHNXN3c3ODlPSWp3eWRYOHlELTM1dndqdXVsTDBheFE4OGJLUjhrdXJUbkI3SGRtWWJydWdETW1N0gG0AUFVX3lxTE5HWnRLcTZsME5mQk40endTcHNSc016SmQ1TlNqMGNYSXBxbmg1Tk01blZ5R2JLWkloT2phaGVEbVdBMmx4TEYtZ2t5NnkyM01ELWZZbC10azFNTjBfOV9jNlZMeUp2Z3BtU0dVQ1V2cFBQcFhqS0FJdnNqdTRxN2t6RldKeDZWczVWUTlUSWdjU2NDLURncURja0IteWVzTzh6a0ZGU3dDMm5jenlLOERYYXVnMg?oc=5",
-      "snippet": "JD Vance tells Israel ‘you can’t kill your way out’ of security problems &nbsp;&nbsp; Al Jazeera US-Iran talks in Switzerland abruptly called off &nbsp;&nbsp; The Guardian Live upd",
+      "snippet": "JD Vance tells Israel ‘you can’t kill your way out’ of security problems &nbsp;&nbsp; Al Jazeera JD Vance tells Iran deal critics in Israel: Trump is your only ally left in the wor",
       "pub": "Thu, 18 Jun 2026 17:10:36 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canadian shot dead during picnic at South African wildlife park in alleged accident - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEFmOWlrVHpPRjVsUVJIQ0UxZk9wS2E3SV8tN2pwTDZ5UVJmNGxwOEd2aXlBYmhWc3JOX3NHa3EtYWRTR2E2ZVluLWtXVFNQa3BCdzdSR1NmUjJQb1pNRDgxMUhwNHIyNEJvdGJ5U0MydzFtcko3YnRURHI2ZGozcXNsZnVxV1RsakVsajRXak1QVHlsOVFYUUFzT0tZRkdmdDlSXzZHX2hWOVR2N283elF6ZFlfa1NOa3c?oc=5",
-      "snippet": "Canadian shot dead during picnic at South African wildlife park in alleged accident &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Thu, 18 Jun 2026 19:21:37 GMT",
+      "title": "Canada's Ismael Kone to undergo leg surgery after being stretchered off vs. Qatar - Sportsnet.ca",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPalF5WHRsZEE5dUJaSm9FdGc0NUlremhvdmtRcmg0a3lxd3BlS3pSdk01blBsSUdaQ0FOZGJDX3k0aE5Gdy05MkgxcGdhTDF5T2otWDZ4ZllDYVh2VWg0UGw3OFZaaVI3bXF4SzZ4RDJuNW80WjBrdTZvSW1HSDZlbFA2YzlnS0tpd3hIX2N6dWxXOUNkbHBERUdfbm93cElhakxNTGhYSkZfWm5XVVE?oc=5",
+      "snippet": "Canada's Ismael Kone to undergo leg surgery after being stretchered off vs. Qatar &nbsp;&nbsp; Sportsnet.ca Canada’s first emotional World Cup victory &nbsp;&nbsp; CP24 Mexico secu",
+      "pub": "Fri, 19 Jun 2026 04:33:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Carney and Eby announce $3.2B developer subsidy; plan to buy unsold B.C. condos - Business in Vancouver",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOUlpX0R2bS1ZVVdxUnJnYlMtY1h6QzR5em1lYU1qVFRxV3F0NzhrTkYtaGJGbUJUN0FyWFd5UjYzNFVYcmV3RW5icnRDZWJYS3VCNldNejhHZUxEUllHMi1CZXh5VXNWR0hsTUpOaktTd2pBS2E1Ny16cHIxX0ZKTE1VX194djFWcURWUlI2WExMSEdlZXhXa1NlNU5vcDBIYnNVeTVVTnh3WjZC?oc=5",
-      "snippet": "Carney and Eby announce $3.2B developer subsidy; plan to buy unsold B.C. condos &nbsp;&nbsp; Business in Vancouver Ottawa, B.C. to spend $3.2-billion to cut homebuilding fees &nbsp",
-      "pub": "Thu, 18 Jun 2026 21:34:00 GMT",
+      "title": "Man dead after workplace accident involving forklift - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRGlpZVB0VGRFaVZpSjhzZFhrVTZWSG9qcFRhaHJkMlRjaTdJLVljSnZmdmttOEJWM2xRVnNucEV1NW9OcGpOVHVYS0NRLTVDUTZKaFVUSjQ0SU1Qc2UtaTdieXYxNWFlTE12Ym5NTFRpQjRVeVNJUGN1UXEyZzRNWjZoU0RISkU?oc=5",
+      "snippet": "Man dead after workplace accident involving forklift &nbsp;&nbsp; Calgary Herald See more headlines & perspectives on Google News",
+      "pub": "Thu, 18 Jun 2026 15:41:43 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada star Ismael Kone suffers horrifying leg injury in World Cup vs. Qatar - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOE5VeUY1RUZTazF3WXpnenpSRmJxd2JQMU0tRnk3eFBzUE03aHFrTXp5aXl5dGUwTFR6SlV2NktSVm5KbEo5cTZiT29lbnZnZVo5Y1ZObXZ4Z3RVUTJrV19ROVg1aXQ2SDNKSGxKemZmdDA1b1lYQzA5VWpKREdvMHZnMUNWa0xBMzVtWVBEWTBoNXdwd1F4cXNPLVlaS01pbHZNVENtTUN6T1FVenliSjk0MGpfM3FJN0lFSnJCdnpRSHp4?oc=5",
-      "snippet": "Canada star Ismael Kone suffers horrifying leg injury in World Cup vs. Qatar &nbsp;&nbsp; USA Today Gruesome injury to Ismaël Koné in victory over Qatar dampens Canadian men's joy ",
-      "pub": "Fri, 19 Jun 2026 05:12:00 GMT",
+      "title": "Canada and British Columbia forge new partnership to accelerate homebuilding, lower costs, and build new local infrastructure - pm.gc.ca",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0s2UWstV3R4N2tGc0UydlEzVnpqYm9nN2FndGJzUzFQcF9IdlV2T0pDenBYRnNJNE1IOTlKLXFzZ3NsR2RQRkN1TEdIMTZhYk5UUUZRUTRSN0czN1lMenhFR0g2U3pDblN3SG9ZQmdfZWU3eXlmSkFLQjl0d1l0UUp3UFQzQnVLWWhKYzRFY28yRS1nc1V0RWtYNzZXenZOcXBZTm0tNVFHN3FLZEtiWk5XMDI?oc=5",
+      "snippet": "Canada and British Columbia forge new partnership to accelerate homebuilding, lower costs, and build new local infrastructure &nbsp;&nbsp; pm.gc.ca Carney and Eby announce $3.2B de",
+      "pub": "Thu, 18 Jun 2026 19:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘No secret’ Trump dislikes CUSMA, Carney says after threat to terminate it - Global News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZXhsZ0x5NEpJMDZId1NGX2RWejZ5RkR3WEQtVng3SHJLRUNTTkNwVE9wdS1PSk82eHV3Z2RoSWdxQlBMM0RnRjMxTy1scXg4azJIWV9udC1oOXJMUGtJbnY3WnlRMmE2NE0zbkhRVWo0cjd2ci1lb3ZsWWZmNmJrLVRoSVFlQQ?oc=5",
-      "snippet": "‘No secret’ Trump dislikes CUSMA, Carney says after threat to terminate it &nbsp;&nbsp; Global News Trump says he would ‘rather not’ have USMCA &nbsp;&nbsp; The Globe and Mail Carn",
-      "pub": "Thu, 18 Jun 2026 21:08:50 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Eligible doctors in Alberta can work in both public, private systems starting this fall - CBC",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa25tNHBYeGFVaUV5QU51c1dwWk5OQVhUdFhrcl92Sld4Q2hib2dHV2FRMG5xTHhRZjd0cDZ0MUc5NWJDVWJCWkxLYy13RzRlT0tyV0FDcmFoWV9UVDY3V3VzcTBfdjg1MFJRcmRVd2JfUUxPcUdncG9BT0lGS2hleWhZNzlMcWluWXhhZUJxQ2paOEttbHFLdk9aa0VjRmJMRUx2V0xzZ29JRUExVjZMSEpIano1RWVxN3JKZ0RCdldiU2dycUwyTmxkbWFBbXNjWmc?oc=5",
-      "snippet": "Eligible doctors in Alberta can work in both public, private systems starting this fall &nbsp;&nbsp; CBC Cash, charge or health card? Alberta moves ahead with dual practice medical",
-      "pub": "Thu, 18 Jun 2026 19:08:08 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Senior aide of Alberta premier says First Nations should focus on own problems, not accuse premier of treason - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaDRqaXpybVpUY0MwZHFDQnNKbWk5a1lrUGN0dFMwZE5FQlltVzQ0VV9GZGZBTzFrbE1UU043a3hoM1Mwd1JWMG9aNm1kcGpWNXNYY2ZfclRMNU5HS0Fva25uNjhDcVZFLUFHM1ZVN0xJVFVCVWowb3FLM0tYQXVHTU5KTk5MS0pXVVBuVEd6Y1c1YWg5VEVwSWhyaTU0TFpGdHc?oc=5",
-      "snippet": "Senior aide of Alberta premier says First Nations should focus on own problems, not accuse premier of treason &nbsp;&nbsp; CBC Smith tells First Nations chiefs to 'check themselves",
-      "pub": "Thu, 18 Jun 2026 22:54:00 GMT",
+      "title": "More than 1 million university grads needed over next 10 years: study - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGFBUVBhVkIzZTJZeGRuRGVEWVExeHZiempyMHVoUVpkdFgxazVsYlpvY21rdldKbTg0ZVUtLU4wOWk4OGJKSjlRSFloYVdGcnRyb2JtS0lKeUluQlVzTnlLNDc4UHZ5cTI1QzNpV014WFYyZmg0MDVhSlpiSWUzTDdEVlNKUHFuV003Y0N3aEpFMDBaZU0wTnRUb0R1MzVITldUXy0teWw1NUFf?oc=5",
+      "snippet": "More than 1 million university grads needed over next 10 years: study &nbsp;&nbsp; CityNews Toronto See more headlines & perspectives on Google News",
+      "pub": "Thu, 18 Jun 2026 21:41:00 GMT",
       "image": ""
     },
     {
