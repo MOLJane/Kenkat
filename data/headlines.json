@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-06-20T12:23:47.968243+00:00",
+  "generated_at": "2026-06-20T14:38:03.352827+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Eastlink Expands Home Internet to Metro Region",
+      "link": "https://vocm.com/2026/06/20/302144/",
+      "snippet": "Telecom provider Eastlink is expanding its home internet service to the metro region next month. The company has been operating in rural Newfoundland ...",
+      "pub": "Sat, 20 Jun 2026 13:56:58 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/08/eastlink-van.png"
+    },
     {
       "source": "VOCM",
       "title": "Mount Pearl Hosts Indigenous Peoples Day Celebrations",
@@ -28,7 +36,7 @@
     },
     {
       "source": "VOCM",
-      "title": "Williams Believes Better Churchill Deal Possible",
+      "title": "NL Hydro CEO Backs New Negotiations for Churchill Falls Deal Despite Past Praise",
       "link": "https://vocm.com/2026/06/20/302134/",
       "snippet": "The CEO of Newfoundland and Labrador Hydro believes more can be added to the Churchill Falls MOU with Hydro-Qubec, despite previously telling the Hous...",
       "pub": "Sat, 20 Jun 2026 09:44:29 +0000",
@@ -59,59 +67,51 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/08/school-classroom-chairs-desks-paradise-intermediate.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Expressions of Interest Sought for Early Stage Engineering Study on Proposed Floating Drydock",
-      "link": "https://vocm.com/2026/06/19/expressions-of-interest-sought-for-early-stage-engineering-study-on-proposed-floating-drydock/",
-      "snippet": "OilCo, the province's oil and gas corporation is seeking expressions of interest for an early-stage engineering study for a proposed floating drydock ...",
-      "pub": "Fri, 19 Jun 2026 21:28:57 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/10/Nalcor-Bull-Arm-2.jpg"
+      "source": "Google News Canada",
+      "title": "Iran latest: Strait of Hormuz closes as Tehran and accuses US and Israel of violating ceasefire deal - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RZFliamhHTXRHRms3RUVKMnlSZjVQUi1JSUp0cFEtWVJXcHRQUk9JUDVNOEltUFh2S0d3Q1BBX1NCUmpGUVA5aE5GWHZJQ1hFeU5DeQ?oc=5",
+      "snippet": "Iran latest: Strait of Hormuz closes as Tehran and accuses US and Israel of violating ceasefire deal &nbsp;&nbsp; BBC Live updates: Iran says it’s closing Strait of Hormuz over Leb",
+      "pub": "Sat, 20 Jun 2026 14:23:44 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘It’s Canada. It’s Canadians’: New book examines rise of far-right extremism - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbklTX0NrZWliNDZHbTFGUVVRUkxxeV9meDNxV2Ryclpsc3VHdlNZc0sxZWRxLUdyTEU0MlpKWC12MjkteWU5TEtXSnMzdzR5QWZKaUIwUHFNMlJFZjZLSExjQ0R4SkM5Z2pNRUNxS2l1bnFnTkhoT0pOMG0ydHVWX3JvTjhxcEVyRlNtQjEza3hnTVVlTkJtSDdET3laNXhYSTlDWmd4c2huVnkwdmc?oc=5",
-      "snippet": "‘It’s Canada. It’s Canadians’: New book examines rise of far-right extremism &nbsp;&nbsp; CTV News",
-      "pub": "Sat, 20 Jun 2026 09:00:00 GMT",
+      "title": "Israeli strikes kill at least 16 in Lebanon despite reports of renewed ceasefire - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUHFHQURrcjZ2R1g4MkZTcmNqU2lsOFpDNzlUeE4tcFl2eWd5bFkxTEdPcFV6clh1NTFjMkFBTW9qWGhzRW14Y25HdmRseVItckNBLW11M3o4MGtHWExoZUZCNGpHWlFxa0ZUMEU4Z3VHT1NvZmFqbThiQWdrRUJhMXBod1JVb3lYdjNqTEVodGREamkwQ1c3ZThjMkktUDQ4Mm9pVklNMA?oc=5",
+      "snippet": "Israeli strikes kill at least 16 in Lebanon despite reports of renewed ceasefire &nbsp;&nbsp; The Guardian Israel and Hezbollah continue strikes despite ceasefire agreement &nbsp;&",
+      "pub": "Sat, 20 Jun 2026 12:59:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Police respond to reports of two trains colliding north of London - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ITDVlSlZDYVNIa1hoNE5FZFZOb0xiU0gzbFZGbVczd1U3THRqbXMxZnhydE1nODV2OU5lMGVFMHdDaU8yeFhlNlRTV29LQmxnZVdYMUxYRjctMzdNSmYxdm50VDV2eUhxYUV3TVpCWGJrQ1dwcWNDbXZPUQ?oc=5",
+      "snippet": "Police respond to reports of two trains colliding north of London &nbsp;&nbsp; CityNews Toronto 9 people remain in critical condition after fatal train collision in U.K. &nbsp;&nbs",
+      "pub": "Fri, 19 Jun 2026 18:07:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "'Alberta never gets a voice': Lawyer launches independence campaign - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU1JoZkJfQjBJOGdmNGZmSFZJS29EYzVDU1p0Skk2TnlhaENnZ3pKUVNqNGo1SThFam5rbDRJVndqWlpFWU5QNU9ZZUV6Zy16ellZZTJQVndVOEdCbEJ5MUhRNTVEbTNlRmVrV1NoVzBnR2ZVWEpoZ2NfbmZUbUZEUFV3?oc=5",
+      "snippet": "'Alberta never gets a voice': Lawyer launches independence campaign &nbsp;&nbsp; Calgary Herald Bell: 'Game on' — Alberta separatists throw down gauntlet in referendum fight &nbsp;",
+      "pub": "Sat, 20 Jun 2026 09:52:38 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "My Black husband gets repeatedly stopped by police for ‘no reason,’ Montreal mayor says - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORkNqNG5EVlRlY1BDdXhPWXI1RGZNNlJpNUNpVll5NlFIRzFBOVVDWGZULWZyLUMyR3dMWWZhM256dFAwVEtOY3M2OWljR3didW41em1IM0hhOTRxQlNwc0dkblpiekE4WW9WQkc2WjByT0tmVWJscnljVkptUUdjN28tWlZ1VGU5cG1xVjdqUEFnSU1VYnlCcjRLUzRXelZTY0poOVF6bkpFbTdYc05QN1d0U3hTS1B4VFE?oc=5",
-      "snippet": "My Black husband gets repeatedly stopped by police for ‘no reason,’ Montreal mayor says &nbsp;&nbsp; Montreal Gazette SPVM cracks down on Montréal-Nord unit suspected of co-ordinat",
+      "snippet": "My Black husband gets repeatedly stopped by police for ‘no reason,’ Montreal mayor says &nbsp;&nbsp; Montreal Gazette Montreal mayor says husband, who is Black, was stopped last ye",
       "pub": "Fri, 19 Jun 2026 23:40:32 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Meloni disputes Trump’s claim she ‘begged’ for a photo with him at G7 summit - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWNaaFRqOEdIVl9JUUxiRVdhczQ3YjEyV0xYb2piUDNZVW9uQUpqRTBNd0wzS2hmb29tUUNLMkRmWmtlZ3o0NTNzbUlhUG8tVUQ4Q1JPTldocFFvWUNIa0hjSFVNVkNPN2RWTkVsc004VnF1QTZ5X2FsMlF2NU1PYUpHY3A2NXNnVXNrWjhuZFF0TEIzSXlaY204di1XYnNSZFdBZ3Jkd3ZGSXk1TUp5Ng?oc=5",
-      "snippet": "Meloni disputes Trump’s claim she ‘begged’ for a photo with him at G7 summit &nbsp;&nbsp; The Globe and Mail Italy's Meloni says Trump 'made up' story that she 'begged' him for pho",
-      "pub": "Fri, 19 Jun 2026 19:26:06 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Israel, Hezbollah call truce after fighting scuttles U.S.-Iran peace talks - Global News",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEZGFfSG1HaFRlTm5ONTQ3MUhROEdvUF80QUFZRnVXMlZ0b3BUT3pVQVVDdWsyLW5tRVhEMXVvOHlSNDI2NnJQZ1NCcUhOS0VSc3RycjRDZFczMm83T3NqckJvYVh2aTM0VXd6cHZSS0I?oc=5",
-      "snippet": "Israel, Hezbollah call truce after fighting scuttles U.S.-Iran peace talks &nbsp;&nbsp; Global News Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported ",
-      "pub": "Fri, 19 Jun 2026 12:42:04 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Poland strips Zelensky of country's highest honour, escalating World War II-era row - France 24",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObXJSb1ZObXlVMjEtZElTc0llb2FQZE1MYmdQcklMb2JBTk5pQm1YSHV0Y3RVZjV1UTZFY2hEQ0prMnEwbFkwRi1DXzY0MUQ3MGx3Z0p6M0xZRkpZcmw2MGNSYld2TzZHak4yN3NBMURSRklBNW5lb3dKMDFaekZ4STRtYWRfdWNzdWpVLXVub0VKaXJjZkE1SUp3ckYwcE92NUVpMC1UenMweTE5bG80R2dwYmIxdDQ?oc=5",
-      "snippet": "Poland strips Zelensky of country's highest honour, escalating World War II-era row &nbsp;&nbsp; France 24 Zelensky stripped of highest Polish honour over WW2 name of army unit &nb",
-      "pub": "Fri, 19 Jun 2026 20:20:56 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "PM Carney says it’s ‘no secret’ Trump doesn’t like CUSMA trade pact - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGhpN29DMXdZNFdHdm5mVF9Gd2lVYUd0SVlGU2xfZkZmWTFFaFgzQWVNcm9rQmdTWVNETllTUzE1MGZqTXVmZGRWcG1QU1pCZlFOVmNtVnlibjNMZm5uQ3VaZzlHLTVHN1FNMU9aN1l5dndvYU1QSHdoSUZHZDFFTXZJUFhDUzFVVGMyejJ0TFJDRjVhZjg1c0hzOU9ZYzN0RkZPZUg3NA?oc=5",
-      "snippet": "PM Carney says it’s ‘no secret’ Trump doesn’t like CUSMA trade pact &nbsp;&nbsp; CTV News Opinion: A little peek into the Carney-Trump trade dynamic &nbsp;&nbsp; The Globe and Mail",
-      "pub": "Thu, 18 Jun 2026 20:29:42 GMT",
+      "title": "How Age-Restricting Social Media May Play Out - The Tyee",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLTlyU1NyOXg4U0Q4aXlEZ0JPM0Fia2hpU3BIYnBsS05ZRjFfbkV6ZlJuTENwS2o2LWFHU2djUUxwaF9nRkNzeG5jNzdFM2JUZnAtU3Fpd2wyTWZkb1NCUi1aZ1VIU3pQUUhYR3NUOFZZVktxU0ZJNFdKcjg0SlY5QV9GSklpMndw?oc=5",
+      "snippet": "How Age-Restricting Social Media May Play Out &nbsp;&nbsp; The Tyee Is Canada's teen social media ban constitutional? It's complicated &nbsp;&nbsp; CBC Here's what you need to know",
+      "pub": "Fri, 19 Jun 2026 04:08:52 GMT",
       "image": ""
     },
     {
@@ -126,7 +126,7 @@
       "source": "Google News Canada",
       "title": "West Kelowna wildfire ‘human-caused and accidental’: officials - CTV News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSWVsd3dQM3l0aWhRRjU5UHlOT0F5dHMwSjZzcjBBNlRNaDFNUENudmdPeWdoSnJHOHIxU0hsY205SVNxNE1aU01IUTJ1Q0I0b3JXZmxwQXFHTENhXzBGMUR3MVJCM2twa0dfbjJhLTF6OFo5cTRHeUhiOVBlVDhnSzdCdXBNYkN0cFQ1SjAwOE45ODBCQlh4a0N6M0ZJTmRBLVAw?oc=5",
-      "snippet": "West Kelowna wildfire ‘human-caused and accidental’: officials &nbsp;&nbsp; CTV News Wildfire in Kalamoir Regional Park started by campfire, investigation finds &nbsp;&nbsp; Castan",
+      "snippet": "West Kelowna wildfire ‘human-caused and accidental’: officials &nbsp;&nbsp; CTV News Wildfire that prompted evacuations in West Kelowna was caused by prohibited campfire, officials",
       "pub": "Sat, 20 Jun 2026 02:11:00 GMT",
       "image": ""
     }
