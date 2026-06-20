@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-06-20T08:17:14.449112+00:00",
+  "generated_at": "2026-06-20T10:44:28.340579+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Williams Believes Better Churchill Deal Possible",
+      "link": "https://vocm.com/2026/06/20/302134/",
+      "snippet": "The CEO of Newfoundland and Labrador Hydro believes more can be added to the Churchill Falls MOU with Hydro-Qubec, despite previously telling the Hous...",
+      "pub": "Sat, 20 Jun 2026 09:44:29 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/jennifer-williams-nl-hydro.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "RCMP Investigate Propane Theft Near Lethbridge",
+      "link": "https://vocm.com/2026/06/20/302131/",
+      "snippet": "RCMP are investigating vandalism and theft of a propane tank from a communications tower near Lethbridge earlier this month. A technician discovered t...",
+      "pub": "Sat, 20 Jun 2026 09:24:52 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/propane-tank-damage.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Gas Prices Climb Ahead of Tuesday Update",
+      "link": "https://vocm.com/2026/06/20/302127/",
+      "snippet": "The Public Utilities Board shifted the price of most fuels at midnight. Gas is up by 4 and a half cents per litre. Diesel dropped by 2 cents on the is...",
+      "pub": "Sat, 20 Jun 2026 09:13:22 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/gaspump.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "June 20, 2026 – Should the provincial government reconsider its plans to change school start and dismissal times in the 2027-28 school season?",
+      "link": "https://vocm.com/2026/06/20/june-20-2026-should-the-provincial-government-reconsider-its-plans-to-change-school-start-and-dismissal-times-in-the-2027-28-school-season/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13082').",
+      "pub": "Sat, 20 Jun 2026 08:23:44 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/08/school-classroom-chairs-desks-paradise-intermediate.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Expressions of Interest Sought for Early Stage Engineering Study on Proposed Floating Drydock",
@@ -35,38 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/01/matthew-scott.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Motorcycle Ride for Dad Takes Place Tomorrow",
-      "link": "https://vocm.com/2026/06/19/motorcycle-ride-for-dad-takes-place-tomorrow/",
-      "snippet": "The annual Motorcycle Ride for Dad - one of province's largest fundraisers for prostate cancer research - gets underway tomorrow morning. Honourary ch...",
-      "pub": "Fri, 19 Jun 2026 16:19:11 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/06/2022-ride-for-dad.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "NL Hydro Reporting Drop in Profits in 2025 Over 2024",
-      "link": "https://vocm.com/2026/06/19/nl-hydro-reporting-drop-in-profits-in-2025-over-2024/",
-      "snippet": "NL Hydro's profits in 2025 were well down from the previous year - caused by funds used to keep electricity rates lower. The utility reported the drop...",
-      "pub": "Fri, 19 Jun 2026 14:05:50 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/05/nl-newfoundland-and-labrador-hydro-office.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Whale Freed from Gear After Nearly Pulling Crab Boat Down",
-      "link": "https://vocm.com/2026/06/19/whale-freed-from-gear-after-nearly-pulling-crab-boat-down/",
-      "snippet": "The Whale Release and Strandings Group was involved in freeing an entangled whale that nearly pulled a fishing vessel under. Julie Huntington told VOC...",
-      "pub": "Fri, 19 Jun 2026 13:57:12 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/st-johns-harbour-narrows.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "MHA Mourns Loss of Local Social Worker and Counsellor",
-      "link": "https://vocm.com/2026/06/19/mha-mourns-loss-of-local-social-worker-and-counsellor/",
-      "snippet": "The local social justice community is mourning the loss of a pivotal and dedicated member. Dana Warren, a respected local social worker and counsellor...",
-      "pub": "Fri, 19 Jun 2026 13:13:40 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/dana-warren.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "My Black husband gets repeatedly stopped by police for ‘no reason,’ Montreal mayor says - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORkNqNG5EVlRlY1BDdXhPWXI1RGZNNlJpNUNpVll5NlFIRzFBOVVDWGZULWZyLUMyR3dMWWZhM256dFAwVEtOY3M2OWljR3didW41em1IM0hhOTRxQlNwc0dkblpiekE4WW9WQkc2WjByT0tmVWJscnljVkptUUdjN28tWlZ1VGU5cG1xVjdqUEFnSU1VYnlCcjRLUzRXelZTY0poOVF6bkpFbTdYc05QN1d0U3hTS1B4VFE?oc=5",
@@ -76,18 +76,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Giorgia Meloni fires back at Trump's 'completely made-up claims' - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkdVbnk4WjZBT1BiWlFTT3RCYnIzeXZEOVpOWVFTa3JmT0dtWEZIM2RycEVlWktjNEdHdEVZY0U4c3N1Nk9uUWY4NFRNWFIzU1ZpQmluZ1pjdFRwSVlFYVpVR09EZTZiN0RjVmdNN1hicDJZcVVkSG04U2RIc3R1V3lTRThjb1d3QU9sTTdBNWNOUmhCcFpXaEw0VWtUMjFhSkxrWHBtWmpyeU0?oc=5",
-      "snippet": "Giorgia Meloni fires back at Trump's 'completely made-up claims' &nbsp;&nbsp; Euronews.com Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7 &nbsp;&nb",
-      "pub": "Fri, 19 Jun 2026 12:40:14 GMT",
+      "title": "Meloni disputes Trump’s claim she ‘begged’ for a photo with him at G7 summit - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWNaaFRqOEdIVl9JUUxiRVdhczQ3YjEyV0xYb2piUDNZVW9uQUpqRTBNd0wzS2hmb29tUUNLMkRmWmtlZ3o0NTNzbUlhUG8tVUQ4Q1JPTldocFFvWUNIa0hjSFVNVkNPN2RWTkVsc004VnF1QTZ5X2FsMlF2NU1PYUpHY3A2NXNnVXNrWjhuZFF0TEIzSXlaY204di1XYnNSZFdBZ3Jkd3ZGSXk1TUp5Ng?oc=5",
+      "snippet": "Meloni disputes Trump’s claim she ‘begged’ for a photo with him at G7 summit &nbsp;&nbsp; The Globe and Mail Italy's Meloni says Trump 'made up' story that she 'begged' him for pho",
+      "pub": "Fri, 19 Jun 2026 19:26:06 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "How Age-Restricting Social Media May Play Out - The Tyee",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLTlyU1NyOXg4U0Q4aXlEZ0JPM0Fia2hpU3BIYnBsS05ZRjFfbkV6ZlJuTENwS2o2LWFHU2djUUxwaF9nRkNzeG5jNzdFM2JUZnAtU3Fpd2wyTWZkb1NCUi1aZ1VIU3pQUUhYR3NUOFZZVktxU0ZJNFdKcjg0SlY5QV9GSklpMndw?oc=5",
-      "snippet": "How Age-Restricting Social Media May Play Out &nbsp;&nbsp; The Tyee Is Canada's teen social media ban constitutional? It's complicated &nbsp;&nbsp; CBC ‘Parents can’t be ignorant h",
+      "snippet": "How Age-Restricting Social Media May Play Out &nbsp;&nbsp; The Tyee Is Canada's teen social media ban constitutional? It's complicated &nbsp;&nbsp; CBC Here’s what you need to know",
       "pub": "Fri, 19 Jun 2026 04:08:52 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Cuban lawmakers approve sweeping reforms to privatize vast swath of economy - CBC",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzQ2Uwa2VpZ0ROdFFXSnJIdVpBNjBBa2ZVVHRFTFZPMXNzakp1NHE3dENXdThEWjVCU19IMVpmRUFoRWlVeVgybGZUSmxRR3gxM3g0TlZwQjRMV2NlQWpiRmd6R01xQjZwalY5dl9DLVg?oc=5",
+      "snippet": "Cuban lawmakers approve sweeping reforms to privatize vast swath of economy &nbsp;&nbsp; CBC Cuba passes sweeping free-market reforms in biggest economic shift since revolution &nb",
+      "pub": "Thu, 18 Jun 2026 23:20:00 GMT",
       "image": ""
     },
     {
@@ -100,34 +108,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "USMCA heads into unpredictable new phase with no extension likely - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkU5M25QTHhJRGZhOWQtSXh3ZXlPUnZub1lpUUtPLVhjLUVKU05sOFdNREpYejhTeXQtcmllSjg4VTViT19mNERGaG1nNFRZa0pBNFFJQUpWUFA4dU1ZMmQ1UXowWENqZkFaN0xVb1huY01rZGJfSnYyX2I4eGVnVTJuN3RNLXdTTVdmWV9MbUlNenZpeDNpRkhuTQ?oc=5",
-      "snippet": "USMCA heads into unpredictable new phase with no extension likely &nbsp;&nbsp; The Globe and Mail ‘No secret’ Trump dislikes CUSMA, Carney says after threat to terminate it - Natio",
-      "pub": "Sat, 20 Jun 2026 00:49:40 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Bell: 'Game on' — Alberta separatists throw down gauntlet in referendum fight - Calgary Herald",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV0Y0bEV1Ulp6amx1LUxaMWtTd1BvNGM4dEdYQUpXelhXQlNJT3M4eENUWUVzQ0QtaWxxSXdUeTd5b2N0YU43QlB1NzZKTW5SUUNISEVYQUg3Wlp6Mk1OTU9uSkZfdlBHQUk4NXN2LVp2U0RRYUVESWJPY0VZSFF3YzZCaWlQUUhDQ2J1WDFxMS00RjBjdm9PSWl2ZzQwWU0zU3hjRGg1SkJUQW9NOHNXTi1oWDFPLW5Q?oc=5",
-      "snippet": "Bell: 'Game on' — Alberta separatists throw down gauntlet in referendum fight &nbsp;&nbsp; Calgary Herald Alberta separatists launch campaign, say province has resources to go it a",
+      "snippet": "Bell: 'Game on' — Alberta separatists throw down gauntlet in referendum fight &nbsp;&nbsp; Calgary Herald See more headlines & perspectives on Google News",
       "pub": "Fri, 19 Jun 2026 23:55:15 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Wildfire that prompted evacuations in West Kelowna was caused by prohibited campfire, officials say - CBC",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFd0aDRMZ25xaHdMZFdSeGhWWmdiVnJTcWRVN2VHb0xRT19mdW9EdjZsTTd6QkMyZEpoMEtqUlhjTVRKR2dJc21Jbk5aZEtma1daZUxkZFY0RHJfZ2lDeElxUEdoWGt5TXpiLTNUd1BnSlJnQWtKTUVISkVrM2dUUUtMS1B5anRONHFUb00wdDVKbTZIS05TNQ?oc=5",
-      "snippet": "Wildfire that prompted evacuations in West Kelowna was caused by prohibited campfire, officials say &nbsp;&nbsp; CBC West Kelowna wildfire ‘human-caused and accidental’: officials ",
-      "pub": "Sat, 20 Jun 2026 00:35:00 GMT",
+      "title": "Critics slam government plan to 'bail out' sagging condo sector in B.C. - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWE5HUENXRkowLXBJVnAxR1NZNGpQTzBzUUdWZG1ycUU0V1ZibXR5TWs2dEd5ckhDX2dQc0VZMWhDV211S3dHX3prY2NVY2oxVFczSFVITEc1ekFVQUttZFhvVGswVFRtWEpjZzE0WE5fempEUFZuSTVfNUVCbDZfbEdSV0RhVHUyajJ5d1N3SXhMZlhITm45b0t5c1E3Ql9KMWxRVVNUZHBVM0dmbE1lVmdRWlR2VEJUZVlR?oc=5",
+      "snippet": "Critics slam government plan to 'bail out' sagging condo sector in B.C. &nbsp;&nbsp; CBC Carney and Eby announce $3.2B developer subsidy; plan to buy unsold B.C. condos &nbsp;&nbsp",
+      "pub": "Sat, 20 Jun 2026 01:32:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "17-year-old charged with attempted murder of Calgary high school student - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVJpaDNzX1RCSW5SV0Y0bGZweVhYQVlaSEhncWFPeWVybEctdXczbHdIcERvMGZqQTJoVTM2ZWJuVGl4aFdrcVo0YXY0N0FkVUtYTXV0WnRrbnc4WTFzYk94NWZOR3EtbFBZbGtLQ0RxXzBNa1ZoUXFtYzdubk5JdlNVaVJwcEVyVk1zNkZB?oc=5",
-      "snippet": "17-year-old charged with attempted murder of Calgary high school student &nbsp;&nbsp; Global News 17-year-old charged with attempted murder following Thursday incident at northeast",
-      "pub": "Fri, 19 Jun 2026 21:04:59 GMT",
+      "title": "West Kelowna wildfire ‘human-caused and accidental’: officials - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSWVsd3dQM3l0aWhRRjU5UHlOT0F5dHMwSjZzcjBBNlRNaDFNUENudmdPeWdoSnJHOHIxU0hsY205SVNxNE1aU01IUTJ1Q0I0b3JXZmxwQXFHTENhXzBGMUR3MVJCM2twa0dfbjJhLTF6OFo5cTRHeUhiOVBlVDhnSzdCdXBNYkN0cFQ1SjAwOE45ODBCQlh4a0N6M0ZJTmRBLVAw?oc=5",
+      "snippet": "West Kelowna wildfire ‘human-caused and accidental’: officials &nbsp;&nbsp; CTV News Wildfire in Kalamoir Regional Park started by campfire, investigation finds &nbsp;&nbsp; Castan",
+      "pub": "Sat, 20 Jun 2026 02:11:00 GMT",
       "image": ""
     }
   ],
