@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-24T16:36:54.197678+00:00",
+  "generated_at": "2026-06-24T18:27:54.926205+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Crews Battling Wildfire Near Labrador West, No Substantial Spread Expected",
+      "link": "https://vocm.com/2026/06/24/emerillon-lake-south-wildfire-lab-west/",
+      "snippet": "There is a wildfire burning near Labrador West. The fire, which started yesterday in the area of Emerillon Lake South, is listed as being between 8 an...",
+      "pub": "Wed, 24 Jun 2026 17:40:20 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/wildfire-burning-near-labrador-city.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RNC Seeking Information on Dirtbike Crash in Mount Pearl",
+      "link": "https://vocm.com/2026/06/24/dirtbike-crash-mount-pearl-june-2026/",
+      "snippet": "The Royal Newfoundland Constabulary is seeking information from the public following a collision involving a dirtbike earlier this week. Police were c...",
+      "pub": "Wed, 24 Jun 2026 17:35:48 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-10.png"
+    },
     {
       "source": "VOCM",
       "title": "Wakeham Disappointed Over Last-Minute Cancellation of Expo Labrador",
@@ -51,27 +67,51 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/marc-pinizzotto-pc-constable-toronto-police-service.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Correctional Service Canada Seizes $110,000 in Contraband at Atlantic Institution",
-      "link": "https://vocm.com/2026/06/24/302504/",
-      "snippet": "A number of contraband items, including several different types of drugs, have been seized at a maximum security prison in New Brunswick, which houses...",
-      "pub": "Wed, 24 Jun 2026 14:06:05 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/04/atlantic-insitution-renous-new-brunswick-corrections-canada.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "RNC Urges Screen Time Limits After Local Child Targeted by Online Extremist Group",
-      "link": "https://vocm.com/2026/06/24/302502/",
-      "snippet": "School's out for summer as of tomorrow, which means more time in front of screens for some kids over the break. RNC Constable Steph Myers says it's im...",
-      "pub": "Wed, 24 Jun 2026 13:04:48 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/09/Angus-Reid-screen-time.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Who is Seth Hatfield? The 25-year-old Alberta man accused in Montreal’s deadly shootings - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLWN3cVpWVlJOb1hSYW5GQUNVTXB6Vk81X2FhV0xBX3NwOUFxQXgxNmZZMUdHN3dRakRCcVZsazJXckJuS2RjaUZJd2NWMkFQSjNCczV4Q0FYeS1DU0NVY0F1QzVSZFJzUlN5SVBiblZmZVN4ZnhILTl5c3hNVXpkUlFZelJkRlBzZ2xmTldSRlVfWXgzd1VnRW9Fa25qQnBUaDYyTFNnUjItREZUeU5iMDl3X2I?oc=5",
-      "snippet": "Who is Seth Hatfield? The 25-year-old Alberta man accused in Montreal’s deadly shootings &nbsp;&nbsp; Montreal Gazette Alleged police shooter identified as 25-year-old from Lethbri",
-      "pub": "Wed, 24 Jun 2026 12:41:45 GMT",
+      "snippet": "Who is Seth Hatfield? The 25-year-old Alberta man accused in Montreal’s deadly shootings &nbsp;&nbsp; Montreal Gazette Alleged Montreal shooter followed conspiracy theorists, wrote",
+      "pub": "Wed, 24 Jun 2026 16:58:23 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump suddenly refuses to sign landmark housing bill, citing his stalled elections legislation - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNEZucGFSS1k5Q3lYOTdFaUJxbzFFLUliLWVZQWZFSEJBTmV3WmpvczRHblFuNWFqYVVZWjNlcmVhZlB0V1NxaGxSb0tPMmFvcXJta3JzdFdnWHJWUTNNc3VUc3BfVFB1RUdiN2d4NGVnenhzdmI2QXFDcjBiV1RHMTFTbXdOM2M?oc=5",
+      "snippet": "Trump suddenly refuses to sign landmark housing bill, citing his stalled elections legislation &nbsp;&nbsp; CNN Trump cancels signing of landmark bipartisan bill aimed at lowering ",
+      "pub": "Wed, 24 Jun 2026 18:01:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Feds push to have 3 projects in northern Canada declared developments of national interest - CBC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeVhrTVBibWtQOGlQVklQNjJ6b0hYWmpFVTFPeEVfdHR2YWRKeWhKS3hLbHdyQ21aTHZaOVhhYzNyS2Q1RW5KcWZrUV8tOWdfWUJCTDhrTF9ubXZjNEYzc3I1WmFZNlBEUUEzdkVlS1hxZ1hPcURjbVpEMHZVaXFLS1JpMjNsMmhHTEx0QkJZR2ZjUQ?oc=5",
+      "snippet": "Feds push to have 3 projects in northern Canada declared developments of national interest &nbsp;&nbsp; CBC Here are the frontrunners for Canada’s major national-interest projects ",
+      "pub": "Wed, 24 Jun 2026 16:10:08 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Funeral procession underway for Toronto police officer killed during investigation, service to be held - CBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlUVVubXF2U0VUcGdFS2N2elIzcXJRNXdRaG1RaElPcHlCVFVJcWhMcXU1MDd6RmNnalh1eGxndS1Yb3ptT3M5alpwTTV2N29URnppMEZkTzVhUjZEa2tISmJCRnp2QUF4RUpDdmJ4UUJqaEJ5RVg4S2JzM1U?oc=5",
+      "snippet": "Funeral procession underway for Toronto police officer killed during investigation, service to be held &nbsp;&nbsp; CBC Funeral today for Toronto constable fatally shot during poli",
+      "pub": "Wed, 24 Jun 2026 16:47:47 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Canada vs. Switzerland live: score, news, World Cup updates - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMkJhS2xjSWtyWVJEQm9pQjV5eXpCenNfdElYdkpvdUpiNl9ub2V5NGxIUlVPN0NreC1IRUl0M1A3U3I3Z0ZrZDZmVHROTXU3YUZFZmNZT2xQYWpiY2xSQzVZbTZKNktzRm1RYUtmT04teUxoZXd5eFNBQUtSWThjNmtiYnRwa1VqT0Y5LWYtSVp6TUQ1UG5pSy1qX0ptM2lkdk9MZWlXbGJqTldTUnJEZC1KRmxveTNSVmNoVmU0RkdTcm5SeHVld2h3?oc=5",
+      "snippet": "Canada vs. Switzerland live: score, news, World Cup updates &nbsp;&nbsp; Toronto Star Liveblog: Canada, Switzerland battle for Group B at FIFA World Cup &nbsp;&nbsp; TSN Sea of red",
+      "pub": "Wed, 24 Jun 2026 18:13:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Ontario is raising the speed limit on more highways. Here are the corridors getting a new 110 km/h limit - CP24",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0E0WVFmbHZoQmsyZTdwa09Sc2ZfVWVkU2FOMDh0YnJ3a21ValF2ZE5VcFRubVNfdGxicXRMcEJjTGprM1Y3Zm5FOGVVeVhTWlRVLTZOTzFwYkQ4OUxIZzhQNk9pVWtmbWV1MXpvSHJBTVNCeTN2QVdxN2lsZ3pDT1dJamdNY0hYbE0tdFdjX1hoZkFVanNRbnY4eVUyTEdaVm8tSnZLYVpJTnhfQ1E?oc=5",
+      "snippet": "Ontario is raising the speed limit on more highways. Here are the corridors getting a new 110 km/h limit &nbsp;&nbsp; CP24 Speed limit to increase to 110 km/h on some Ontario highw",
+      "pub": "Wed, 24 Jun 2026 12:45:33 GMT",
       "image": ""
     },
     {
@@ -88,46 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbDlOUVpqRjRacXFMNjY4dk0tTEFlUFFza0pwNjlUUGlJZHFxNFVjd2hETDBWS2xfRFUyZTN4WkUtc19MNGJ5Ymt5Ykw2OUZTUW52TTlxak5xYi15R3JaLTlJZ3o2cHc2Y3JsejktRW0tZUQwa0g2OXpKdjBiYXUxQVU0Rm9MVnVXczVfSkFxQVplZUxGdGhNTVgyQVF3M1ViQktwNVgwYzVFdG8?oc=5",
       "snippet": "A roundup of where communities around Edmonton stand post-rainfall &nbsp;&nbsp; CTV News Town of Tofield floods after massive rainfall: ‘Never seen this much water here’ &nbsp;&nbs",
       "pub": "Tue, 23 Jun 2026 23:00:20 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Brother of missing jet ski rider speaks out during Saskatoon weir search - 650 CKOM",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTU9sUkQ0cWxtZFF6NnNnakR5cU1GZDJDV0JjRDZJQ0pnQlFybnpzUkpUU2hYOTNBSlE1QlBZdmpmVzVGdmMxUDFwQ3gxTjQxNjJ3MEMzQmpubTFGQVlxbi1qenFkSnZDN0JfSUpRamFBN3ViWVRjVVNIZFFCLTVRaTRza3VEWjRYeVcyTll0ckljTmItenJyYjJscDNyeFh5ZG1fOUpQVWw?oc=5",
-      "snippet": "Brother of missing jet ski rider speaks out during Saskatoon weir search &nbsp;&nbsp; 650 CKOM Missing jet-skier in South Saskatchewan River identified by Saskatoon police &nbsp;&n",
-      "pub": "Tue, 23 Jun 2026 21:22:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Mackenzie Valley Highway set to become ‘project of national interest’ - Cabin Radio",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjZVR1dGOGdVcHRqVC1vMTVfZzdwWlpKcjNTakVzaGdUNGhXbEVXcUg1UDFDWXJ0Y0dNSndsdWZOVnZhaFFIb0c5b0xISGlVbVZzZGQ1UFl4dGplYTg5SWZhU3dZc2hqMHVDTkRCaHJmT0doUk9RZUxVRjg5RFVrUkhWSmtYbEpkZDJfQnNocVdTSGltc0JQdEt0b2lxQ1BlUjFMQlFjeEtoR2E2Z1pRcQ?oc=5",
-      "snippet": "Mackenzie Valley Highway set to become ‘project of national interest’ &nbsp;&nbsp; Cabin Radio See more headlines & perspectives on Google News",
-      "pub": "Tue, 23 Jun 2026 23:04:11 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Expo Labrador cancelled amid dispute with province over Innu history - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVEdVTnVhQXA2VW5wa2Y5N3FxNVc4QnpLV1RJX1VyaGl0ZG9XWno1aEJucHQyN3FDVkxJQ1R2TG9rSzdFQURxdzdITzBXZmVoV3g1V2F0LTBFdDQ5TlVaNXJjSTFaWlNZWDRTc28zT0stVzhiUi05UkdjNHQxbmM3emZnZ1Y0WkFZdlBrQkRjUQ?oc=5",
-      "snippet": "Expo Labrador cancelled amid dispute with province over Innu history &nbsp;&nbsp; CBC Innu Nation axes exhibit, says N.L. government believes 'fringe theory' about history &nbsp;&n",
-      "pub": "Tue, 23 Jun 2026 20:41:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "‘It’s its own monster’: Harrowing escape detailed by B.C. senior whose home destroyed by wildfire - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1NhT1hSRDk2NUUxS0xpb25jNmpraVZMd1htZTlGUnB5NDc0R0k0Wk9Ya3JiVlhvWVkxNW9mVVd0bktUeVNkVE5LREQ5X0NRYWZmNHA4b2xKLXo0RjhGOHVLSUxqbnpzdi1lRy16MUJxbnVWcFFfblBnVzhpR2tERGZKU3N3QzZUYjhXVWQzeGRhaWtKRVYzVFFJZTVHMmxIVEt4eXdaZ050QjZDeUZ4dkNYYU1QeEhnVFQ5TVZIZm1KQjV2NXZEQUFUYmFHZw?oc=5",
-      "snippet": "‘It’s its own monster’: Harrowing escape detailed by B.C. senior whose home destroyed by wildfire &nbsp;&nbsp; CTV News Lytton man describes harrowing evacuation before Saw Creek f",
-      "pub": "Wed, 24 Jun 2026 01:53:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Toronto to get $1.5 billion from province and feds to reduce development charges - CP24",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY1hiUFMwS1BKNGh5TDhvdm1ibHdZaXQ3V3BGU1RNWjlQa1IwQlVBRHN0bXhRVlFOOXBnWmtaZEFmS0NUZUtZd05odHBLOUtFX200RUlpWDFsWlBQYTVKR0lacTBrZVFxMXpNUmp2YTRpSFhMUTUybGRLZ1F4WEdWT3F3VUdqLTh4aE5XZWoxc1ZNamV0STlZbHdsb1VkQkQ2bDJVWlNmZGx0QlFzZnNMTnN2QkFvQkFBeXktNlF3X2U5a00?oc=5",
-      "snippet": "Toronto to get $1.5 billion from province and feds to reduce development charges &nbsp;&nbsp; CP24 Ontario and Canada Making Homes More Affordable in Toronto &nbsp;&nbsp; ontario.c",
-      "pub": "Tue, 23 Jun 2026 19:32:46 GMT",
       "image": ""
     }
   ],
