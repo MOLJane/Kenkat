@@ -1,109 +1,101 @@
 {
-  "generated_at": "2026-06-25T08:17:35.758285+00:00",
+  "generated_at": "2026-06-25T11:11:57.593587+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "June 25, 2026 – Parents with children age 12-15 now need their kids’ consent to gain access to their digital medical records, and those 16 and older have full control over their own files. Do you agree?",
-      "link": "https://vocm.com/2026/06/25/june-25-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13097').",
-      "pub": "Thu, 25 Jun 2026 08:00:08 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/05/my-heath-nl.jpg"
+      "title": "Downtown St. John’s Pedestrian Mall Opens Today",
+      "link": "https://vocm.com/2026/06/25/downtown-st-johns-pedestrian-mall-opens-today/",
+      "snippet": "It has become a staple of summertime in the metro region, and today the downtown St. John's pedestrian mall reopens for the season. The annual event, ...",
+      "pub": "Thu, 25 Jun 2026 10:44:18 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/07/downtown-st-johns-pedestrian-mall-july-2024.jpg"
     },
     {
       "source": "VOCM",
-      "title": "Canada to Play Next FIFA Match Sunday",
-      "link": "https://vocm.com/2026/06/25/canada-to-play-next-fifa-match-sunday/",
-      "snippet": "Canada is going to the knockout round of 32 in Los Angeles after a second-place finish in their group following a loss to Switzerland. The Swiss came ...",
-      "pub": "Thu, 25 Jun 2026 07:26:51 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/img-0589.jpeg"
+      "title": "Ottawa Expected to Announce Upgrades for Marine Atlantic Terminal in Argentia",
+      "link": "https://vocm.com/2026/06/25/ottawa-expected-to-announce-upgrades-for-marine-atlantic-terminal-in-argentia/",
+      "snippet": "The federal government is making $80-million worth of upgrades at the Marine Atlantic ferry terminal in North Sydney, and officials seem poised to mak...",
+      "pub": "Thu, 25 Jun 2026 10:21:53 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/06/argentia-ferry-terminal.jpg"
     },
     {
       "source": "VOCM",
-      "title": "Crews Battling Wildfire Near Labrador West, No Substantial Spread Expected",
-      "link": "https://vocm.com/2026/06/24/emerillon-lake-south-wildfire-lab-west/",
-      "snippet": "There is a wildfire burning near Labrador West. The fire, which started yesterday in the area of Emerillon Lake South, is listed as being between 8 an...",
-      "pub": "Wed, 24 Jun 2026 17:40:20 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/wildfire-burning-near-labrador-city.jpg"
+      "title": "Hockey Community Mourns Loss of 19-Year-Old Following Moose Accident",
+      "link": "https://vocm.com/2026/06/25/302565/",
+      "snippet": "The hockey community is mourning after the death of a 19-year-old hockey player in a motorcycle crash Monday night. Stacey-Lynn Kenny and her father w...",
+      "pub": "Thu, 25 Jun 2026 09:56:48 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/stacey-lynn-kenny-hockey.jpg"
     },
     {
       "source": "VOCM",
-      "title": "RNC Seeking Information on Dirtbike Crash in Mount Pearl",
-      "link": "https://vocm.com/2026/06/24/dirtbike-crash-mount-pearl-june-2026/",
-      "snippet": "The Royal Newfoundland Constabulary is seeking information from the public following a collision involving a dirtbike earlier this week. Police were c...",
-      "pub": "Wed, 24 Jun 2026 17:35:48 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-10.png"
+      "title": "St. John’s Crown Prosecutor Charged After Border Services Intercepts Package",
+      "link": "https://vocm.com/2026/06/25/st-johns-man-charged-after-border-services-intercepts-package/",
+      "snippet": "A man who was at the highest echelons of our justice system has been arrested on drug and weapons charges following an RCMP investigation that involve...",
+      "pub": "Thu, 25 Jun 2026 09:32:02 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/rcmp-cbsa-drugs-guns-brass-knuckles-seizure.jpg"
     },
     {
       "source": "VOCM",
-      "title": "Wakeham Disappointed Over Last-Minute Cancellation of Expo Labrador",
-      "link": "https://vocm.com/2026/06/24/302527/",
-      "snippet": "Premier Tony Wakeham says he is disappointed that Expo Labrador 2026 has been cancelled. The event was supposed to take place over the next three days...",
-      "pub": "Wed, 24 Jun 2026 16:31:33 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/nl-newfoundland-and-labrador-premier-tony-wakeham.jpg"
+      "title": "Those Aged 12+ Able to Restrict Parents from Accessing Health Information",
+      "link": "https://vocm.com/2026/06/25/302556/",
+      "snippet": "Parents are only now learning of some other aspects of the new CorCare digital health system implemented a couple of months ago in Newfoundland and La...",
+      "pub": "Thu, 25 Jun 2026 09:13:38 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/mychart-nl-health-services-app.jpg"
     },
     {
       "source": "VOCM",
-      "title": "RCMP Ticket Ferndale Man for Ignoring Order to Extinguish Brush Fire",
-      "link": "https://vocm.com/2026/06/24/302524/",
-      "snippet": "A man in Ferndale has been cited by the law for burning brush during a time when the Forest Fire Index was high risk (yellow). The 41-year-old, who di...",
-      "pub": "Wed, 24 Jun 2026 16:05:58 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
+      "title": "Man Wanted by RCMP Nabbed by Metro Police",
+      "link": "https://vocm.com/2026/06/25/man-wanted-by-rcmp-nabbed-by-metro-police/",
+      "snippet": "RNC was called in to assist after a man on the RCMP's wanted list was believed to be in the metro area. Police were given the heads up around 10:20 la...",
+      "pub": "Thu, 25 Jun 2026 08:54:20 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-3.png"
     },
     {
       "source": "VOCM",
-      "title": "Police Investigate Vehicle Fire Near Confederation Building",
-      "link": "https://vocm.com/2026/06/24/302522/",
-      "snippet": "The investigation continues into a vehicle fire near Confederation Building over the weekend. RNC responded to a single-vehicle collision on Prince Ph...",
-      "pub": "Wed, 24 Jun 2026 15:54:28 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/rnc-royal-newfoundland-constabulary-june-6.png"
+      "title": "Last Day of School for K-12 Students",
+      "link": "https://vocm.com/2026/06/25/last-day-of-school-for-k-12-students-3/",
+      "snippet": "School's out for summer. Today is the last day of classes for students in the province's K-12 system, with many receiving their report cards today and...",
+      "pub": "Thu, 25 Jun 2026 08:42:23 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/08/school-zone-sign-stock-pic-1.jpg"
     },
     {
       "source": "VOCM",
-      "title": "Municipal Affairs Minister Joins National Talks on Housing Affordability",
-      "link": "https://vocm.com/2026/06/24/302520/",
-      "snippet": "The provincial minister of municipal affairs is in Alberta today to meet with his provincial counterparts. Ministers from across the country are gathe...",
-      "pub": "Wed, 24 Jun 2026 15:45:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/04/pc-mha-grand-falls-windsor-buchans-chris-tibbs.jpg"
+      "title": "Intoxicated Man Arrested Outside Village Shopping Centre",
+      "link": "https://vocm.com/2026/06/25/intoxicated-man-arrested-outside-village-shopping-centre/",
+      "snippet": "A man who had a bit too much to drink was placed under arrest by police outside the Village Shopping Centre yesterday. Officers were called about an i...",
+      "pub": "Thu, 25 Jun 2026 08:36:17 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/handcuffs-1.png"
     },
     {
       "source": "Google News Canada",
-      "title": "Civilian killed in Montreal shooting ‘died a hero,’ son says at funeral - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjVFeGFzcURjWXg2Z2lLWHVycEQ1T3pMdGVIdm85bnJ4X2xJUENSNW01WFZpdTZsUktWZEdzUHE5Wk9nNFNWSHZqMGZLWnEwNzc1a0VIb2hIRlJVbzlyc1BTa3h2XzdYTlo5VWZzUkNpSHFDQ3pNRmRYb3QySDNQTDlvYkdkZjN2?oc=5",
-      "snippet": "Civilian killed in Montreal shooting ‘died a hero,’ son says at funeral &nbsp;&nbsp; Global News 2 victims of Côte-des-Neiges shooting honoured in ceremonies &nbsp;&nbsp; CBC ‘Hero",
-      "pub": "Wed, 24 Jun 2026 19:59:46 GMT",
+      "title": "Back-to-back powerful earthquakes slam Venezuela, collapsing buildings - Global News",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iNXZ4ZE84N242NHV6b1ZXXzFqNjA4RTVWYndLSGFEazRhOW5HQzdqSjJuQjdXNGlJUmFRRjRRRlhVY21kNnM3TkZ5ZGQtRkZLbERLS0lmcGRnNXhnWFQyZ1BybGlOVkN6VWVBYUszYjNuTzly?oc=5",
+      "snippet": "Back-to-back powerful earthquakes slam Venezuela, collapsing buildings &nbsp;&nbsp; Global News At least 164 dead and 971 injured after powerful quakes rock Venezuela, acting presi",
+      "pub": "Thu, 25 Jun 2026 01:56:14 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Strong back-to-back earthquakes hit Venezuela, killing at least 32 and injuring hundreds - CBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQejQzQ1ZhRWtWdmhzLVljS1VNRXgyUGdxbXlicmxiOGQ2VGs2X2lzYlJ0Z21NaFgzWFJYM0R0T1BuQ3g3MndmTG9tWV92aFdXbmx1SUF0VVNYa1JXNndnY0VtZ2JXbjduOWNVTkNXeDRTVmxRSDlR?oc=5",
-      "snippet": "Strong back-to-back earthquakes hit Venezuela, killing at least 32 and injuring hundreds &nbsp;&nbsp; CBC Trump pledges rapid U.S. response for Venezuela after historic earthquakes",
-      "pub": "Wed, 24 Jun 2026 23:53:00 GMT",
+      "title": "Suspected Montreal shooter described as introvert who ‘avoided people’ by Lethbridge, Alta., neighbour - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZlBCT1JZNzZqckphcU54aWRPM3ItMHl0cHdfXzVzdHVDeUJ1WHl6UXItZjExeDlqWE1KQzY2MDhjdjYyZ0RfVm5CbFRvMDVabW5PRWNJTTM3RVhrS3pjU0NGeHVNV1BITU94X3Y4Y1NHT2RkcGE5Y2lQNmpqNWpwTGVNWDZuSUpaT0p5MndOU1loaWh3SVhNM1VGMnV3UGFVZzdNb283bmZNM3JCekVmZjVSbE5Rc1k3bjVNM2lOcjdxal9oYzdOd3NWNnI?oc=5",
+      "snippet": "Suspected Montreal shooter described as introvert who ‘avoided people’ by Lethbridge, Alta., neighbour &nbsp;&nbsp; CTV News Civilian killed in Montreal shooting ‘died a hero,’ son",
+      "pub": "Wed, 24 Jun 2026 21:25:17 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Bell: Farkas blasts Country Thunder for its bizarre twist on Calgary tent noise fracas - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0Fzb1BNWlZHMlczMS1ndTBGdkFSVFkxX3dLUU9PZ04wZUZkWFVVMmlMN1AtQTAwcVJranlDTnRZLUVicnI2eC1aYVZRMjdSaUVJM2kzSlpRM0hTYlBYVzFvOEcxd2wyN3JwcjVOQ3FlRWt3SDZGblZtRTBmUjZlUXotMXM0S1JXQklMd0xVaFFWTE5CN3hpQzY1YmpTWTNqQi1STk1yWHU?oc=5",
-      "snippet": "Bell: Farkas blasts Country Thunder for its bizarre twist on Calgary tent noise fracas &nbsp;&nbsp; Calgary Herald Country Thunder Alberta cancelled as organizers blame constructio",
-      "pub": "Thu, 25 Jun 2026 02:01:32 GMT",
+      "title": "Headed to the ER? Here's why you could now wait more than 48 hours to be admitted - CBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblYxc1Ytci1PUlE0SkRCVlJhcDV0aElmLWFCc2o3ZVhzck8yeU1rSkZ5WGZ5cFl6dUxrczZqZHRGd3lLd0hqWWVJcFlGNmNHOVF5SThxcmtLZmFzMDdnWk5oOGJNMjBGekItbGVaWjVxVFdxZ3VRREU1Wlg5a25XVnNZdXpleE15UWdTeklzUVYydjg?oc=5",
+      "snippet": "Headed to the ER? Here's why you could now wait more than 48 hours to be admitted &nbsp;&nbsp; CBC What a new report reveals about the true cause of Canada’s massive emergency wait",
+      "pub": "Thu, 25 Jun 2026 08:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ottawa to help finance program to buy unsold condo units in B.C. for affordable housing - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOTEwaEJ4MWFVNlNzeWVSVFBhU0JkeWxpRGNNT2lwUFBnckNWcjU1WUJ5OWFqWGU4V3lxNWhmdUJ0NHVGWkJ1YnJSakRTYVdYRkV2RmtJOG5hdl9MTldMUmpiZVBwcDB3bEtfN1kxbjNqV3FFTjBvaUNLMUVIal9HZlBiaEtELUJ1MTh5eDV3azNodnBqOXBZb3FhVWgtMlFiWUczbmYwMjgyZFRtNFV1Z0Q4SllTamM?oc=5",
-      "snippet": "Ottawa to help finance program to buy unsold condo units in B.C. for affordable housing &nbsp;&nbsp; The Globe and Mail Opinion: Carney’s ridiculous, myopic plan to bail out condo ",
-      "pub": "Wed, 24 Jun 2026 08:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Carney government moves to fast-track three projects including Ontario nuclear waste site, two Northern roads - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQX3ppVExJQVdEQ1BUOERETGxvcHBUVlRlVWpjdXY5WGd0bEo0TWdGX0ZITVN0bkVnWGhjd3FmcTZPb1draGFpdmdTeUpQZ1ZCUmc1YzJQRDlVMHowd3ZkSWJGMlRiX195UEZDTV9NUGtfbVdnUzBNUHM1aXpVN0tmMXhqakZLeEdqVGtHUTdVVE9LOEpNTERoMDRjMFlJbzJqRVM3bVRkUWFyNW9TWkVWc2dRX0tHTnlHd3NFT0hQLWprRlNjUlZleC1Md1JkQTJvMzh3SkhMYnhwcHJ1M3NVVThoYk1HTjFHeVB1RUlSZVBfcXQ0cm1xR1VIbVlMTThScmtJSEtkZm5KbHFyb0FzS3laUEhNMEgtZW5wYTlZTFhJSVNQNWc?oc=5",
-      "snippet": "Carney government moves to fast-track three projects including Ontario nuclear waste site, two Northern roads &nbsp;&nbsp; Toronto Star Ottawa names first three major projects that",
-      "pub": "Wed, 24 Jun 2026 21:30:00 GMT",
+      "title": "Braid: Farkas fumes, but Smith might force easier Stampede noise rules - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaHlyNGcwdDZJZkNnU3pWcXFpZTJwc3BEV3J2a1ZnVEJGU2swNVcxM29qRjJ1QWtvMl9VWkxfMW1PZ3VYQk5JaWM5cmEwT1JqSUdpSkMyRFJhM01hU3RON2ZTLUF2c2xqbVRVTGRxa0poZjRSRlRyalA4MzNDZ1dKYjA1OU53a2JCTkhCWUJaNnd3NVppX1YyVU9qQVBaOTE3?oc=5",
+      "snippet": "Braid: Farkas fumes, but Smith might force easier Stampede noise rules &nbsp;&nbsp; Calgary Herald Council votes down urgent motion to scale back Stampede festival noise restrictio",
+      "pub": "Tue, 23 Jun 2026 22:11:20 GMT",
       "image": ""
     },
     {
@@ -116,18 +108,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "$115K worth of drugs, $31K in cash, several guns seized in Saskatchewan: RPS - Global News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYbHZHeGxvNEo1ZmlFSnBGY1V5QzFnQnZNSjh0Nm1odTZBVU5abTgyT194d3hMQ2Z3MExFQWlJZ1NuSWpJaVhUU0RublQ4ckxPcjQ5MkJROWpURDB5ckJQWWZEeXU4eHBZUDJlOU9sa1NJWWVON0lVTHRGU04?oc=5",
-      "snippet": "$115K worth of drugs, $31K in cash, several guns seized in Saskatchewan: RPS &nbsp;&nbsp; Global News Investigation Results in Significant Firearm and Drug Seizure &nbsp;&nbsp; Reg",
-      "pub": "Wed, 24 Jun 2026 18:09:27 GMT",
+      "title": "Ontario has more than 40 per cent of Canada’s billionaire families, says a new report. Should it have a wealth tax? - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPU05QQURrREdXVmNhNlpzN1lybkxXb1BzRU5oRWZMcHY5XzA0SmRxTzRqS1VjNGpvN0diRFF6X09EX2NwRmpKcHZFXzI1MkVQTGQ3RTF6NDhVVmg2a0JLaFNEd2dYVVVOaXZ5VXVaZ2wwYkZUSVFHeExfTGhTWHhSUDdUWTBEZDZhVHh0R3ByY21GdkF5RjJaTjV4Q2d3cXNLVkpXTXNwdU1fbWlSbkVYMVNtWTNZeW9RenEteGNtMlNZUWVCVjJ5QmFncnhEVndBX2J3Ql9jenJuNkdMR1hWWnJSMWhORi1DbVlKLWFkazdieGo3cDhhTHVMV29hN0hjMUxZUGhnb0ZzbTdOMUZSeTBFdVRSS2R3bkRoa25mcw?oc=5",
+      "snippet": "Ontario has more than 40 per cent of Canada’s billionaire families, says a new report. Should it have a wealth tax? &nbsp;&nbsp; Toronto Star",
+      "pub": "Wed, 24 Jun 2026 09:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ontario is raising the speed limit on more highways. Here are the corridors getting a new 110 km/h limit - CP24",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0E0WVFmbHZoQmsyZTdwa09Sc2ZfVWVkU2FOMDh0YnJ3a21ValF2ZE5VcFRubVNfdGxicXRMcEJjTGprM1Y3Zm5FOGVVeVhTWlRVLTZOTzFwYkQ4OUxIZzhQNk9pVWtmbWV1MXpvSHJBTVNCeTN2QVdxN2lsZ3pDT1dJamdNY0hYbE0tdFdjX1hoZkFVanNRbnY4eVUyTEdaVm8tSnZLYVpJTnhfQ1E?oc=5",
-      "snippet": "Ontario is raising the speed limit on more highways. Here are the corridors getting a new 110 km/h limit &nbsp;&nbsp; CP24 Ontario announces more highways where speed limit will be",
-      "pub": "Wed, 24 Jun 2026 12:45:33 GMT",
+      "title": "What’s at stake as Canada, Switzerland battle for Group B on TSN? - TSN",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON1FFS2Y0R084N25sLVdBa2dzakNENVdiV1RXR0VXeC1TOVpJblVMQ085VURyMmplZ1dIQVNNMDlfYnk5SkYzSS1nNXBVRW5CbjBvR3g5VzBOZ2NwU3lWSW5rc1F3VUd5aVJBWGMtQm5RTzd6bnhfU245bHJabVBaY0Q3TEFIMkdSN2RMNjI4SGRCM0tmSEhfeTRlQ3dQWmtWVVltd3lEOWwwS1pNbHFxQnp3?oc=5",
+      "snippet": "What’s at stake as Canada, Switzerland battle for Group B on TSN? &nbsp;&nbsp; TSN Canada finishes 2nd in Group B after 2-1 loss to Switzerland, will play South Africa in knockout ",
+      "pub": "Wed, 24 Jun 2026 14:52:24 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Arctic roads, nuclear repository first to be designated as national interest projects - Castanet",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU3lOalZJRDJSdHRjTTdsZGRtUGp2cmU0VVNHU0drcFZ0SXNjMFAwS3JfMUxsbzVhbW9JRDJUSmdkVkxLdzVmQWRjQWpzR3ZUaDAzdVBWbmFnb09wbFhxRnB6WjZPVXNfQmVPYXIzX1RlNDMwaU43azdoTmVmN2VobEtTQUxwSGd6YWotcVQ2VVhsQjNNdUF0bnhIR3U2YUdzY3Q3aE0zNUVRUFNPR0EtSEhnai1jb3NEUEwxSEVpckNfb1FvaW9F?oc=5",
+      "snippet": "Arctic roads, nuclear repository first to be designated as national interest projects &nbsp;&nbsp; Castanet Ottawa names first three major projects that could be fast-tracked in na",
+      "pub": "Wed, 24 Jun 2026 14:28:00 GMT",
       "image": ""
     }
   ],
