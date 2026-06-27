@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-06-27T09:09:30.108539+00:00",
+  "generated_at": "2026-06-27T11:08:58.075367+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Gas Leak and Crude Spill Intercepted on Hibernia Platform",
+      "link": "https://vocm.com/2026/06/27/302696/",
+      "snippet": "Information is just coming to light now about an incident aboard the Hibernia platform that happened May 12th and which could have been fatal and whic...",
+      "pub": "Sat, 27 Jun 2026 09:52:52 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/05/hibernia-platform-courtesy-suncor-energy-inc.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Arrest Made After Portugal Cove-St. Philips Incident",
+      "link": "https://vocm.com/2026/06/27/302693/",
+      "snippet": "A man has been charged with assault causing bodily harm and forcible confinement after an incident at a home in Portugal Cove-St. Philips. Somebody in...",
+      "pub": "Sat, 27 Jun 2026 09:15:57 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/rnc-royal-newfoundland-constabulary-metro-police-crime-cop-car.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Gas and Diesel Prices Jump Overnight",
+      "link": "https://vocm.com/2026/06/27/302691/",
+      "snippet": "All types of fuel cost a lot more today than yesterday. Gas is up by 6 1/2 cents per litre province-wide and diesel is an extra five cents in most are...",
+      "pub": "Sat, 27 Jun 2026 09:10:28 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/gaspump.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Man Charged With Sexual Assault Following Overnight Incident in Downtown St. John’s",
+      "link": "https://vocm.com/2026/06/27/302689/",
+      "snippet": "A man has been charged with sexual assault after an incident downtown St. John's overnight. RNC officers in the area were approached by a woman who to...",
+      "pub": "Sat, 27 Jun 2026 09:06:57 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rnc-traffic-stop-night.jpg"
+    },
     {
       "source": "VOCM",
       "title": "June 27, 2026 – Do you think the $270-million announced for upgrades at Marine Atlantic will ultimately lead to increased capacity?",
@@ -35,42 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-17.png"
     },
     {
-      "source": "VOCM",
-      "title": "Consumer Advocate Seeking ‘Full Justification’ for Proposed Hydro Rate Hike",
-      "link": "https://vocm.com/2026/06/26/302671/",
-      "snippet": "The new Consumer Advocate is still getting her feet wet in the role, but she and her team are poring over the documents filed by the two electricity u...",
-      "pub": "Fri, 26 Jun 2026 15:35:41 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/interim-consumer-advocate-adrienne-ding-odea-earle.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Argentia Terminal Upgrades to Serve as Vital Supply Chain Backup, Says Marine Atlantic CEO",
-      "link": "https://vocm.com/2026/06/26/302669/",
-      "snippet": "The CEO of Marine Atlantic says planned upgrades at their terminal in Argentia will pay dividends for the province if the supply chain from Port aux B...",
-      "pub": "Fri, 26 Jun 2026 14:46:28 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/marine-atlantic-ferry-terminal-stock-picture.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Minister Defends ‘Lean’ Operations as Union Sounds Alarm Over DFO Cuts",
-      "link": "https://vocm.com/2026/06/26/302667/",
-      "snippet": "The union representing DFO scientists, saying there have been job cuts in the department, is warning of potential mismanagement of fish stocks. The fe...",
-      "pub": "Fri, 26 Jun 2026 14:09:16 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/st-johns-east-mp-fisheries-minister-joanne-thompson.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Education Minister Hopes to Address Main Issues in Child Care in Next Year’s Budget",
-      "link": "https://vocm.com/2026/06/26/education-minister-hopes-to-address-main-issues-in-child-care-in-next-years-budget/",
-      "snippet": "Education minister Paul Dinn is looking ahead to next year's budget to address numerous concerns impacting the child care sector. Earlier this year th...",
-      "pub": "Fri, 26 Jun 2026 12:24:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/paul-dinn-vocm.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Toll from Venezuela earthquakes climbs to at least 920 dead and 3,360 injured - CP24",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXhzV1VvQlN0OHVqTXhzNW5mQ0VBUVRxT0dsbVBPWVJtZTd0eElmLWFEOXpCaG9VSWp0eWV4bjlhLTBNY0FiRmJoVUFWU3FuVUFZb2Y2QUNRUmZCN2E2Yjg2LVhiblpLa1FjODJZaXdSR0hta3U2cmg0M1pZNGt0QTRQUVdLbjdYVWtsY0h5S3NLQ3NLc0FnRi1JQXVFUTR6TGNIcGtCX01Mc1kwM2NLNUozTEV4eTRJ?oc=5",
-      "snippet": "Toll from Venezuela earthquakes climbs to at least 920 dead and 3,360 injured &nbsp;&nbsp; CP24 Venezuelans on the front line of earthquake relief: 'It's all improvisation' &nbsp;&",
+      "snippet": "Toll from Venezuela earthquakes climbs to at least 920 dead and 3,360 injured &nbsp;&nbsp; CP24 Live updates: Rescuers race to save trapped residents as death toll soars after Vene",
       "pub": "Fri, 26 Jun 2026 23:06:17 GMT",
       "image": ""
     },
@@ -84,18 +84,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUhnem1vakVBTHVXREFXb2xfNFlkbE93dF9OZnBFZzhaTlIxZ0NSN3ktYzZVUUliOVBRaGMxLVliTUhzSUpIcDJlUTZQdXNJYW1ObnhoUFZTY0JnYXExSzRmYzRSSm1ETTBpM2RtclE5SE9uQmZKMWhZLWVscGU0WGpueUs4d0Y4Z0c3ak12Q2pLYnp0WURJMUI1MHJka21ybWR6R2J3MmttV2M0MTJhaNIBtgFBVV95cUxOc2U5YWNCQ05tcUlEdHYwcVZXbm9MbVlvdnUxdWJZV1NIa2RCMDB0a0ZzYm92dGlmS3ZwcXJLb3YxYzNHX1JCbnpLb1p2TGtjYnlFLUo3cEhWaThMMk8tcEpDcGZXa3c2T19SdG9SOGxXYk1FMHRPWExLTWF6RlVhYXZPRHhBV3ZhSU1ob2l3RkwxSnpqLUk1RjBjS0xtaXowUGtfMl9MNlpUbVhhbmEwYW0xcEhKQQ?oc=5",
-      "snippet": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz &nbsp;&nbsp; Al Jazeera U.S. strikes Iran after Trump claims ‘foolish violation’ of ceasefire &nbsp;&nbsp; ",
-      "pub": "Fri, 26 Jun 2026 22:10:31 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Pete Buttigieg briefly separated from children after false police report - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRFNXUmprVzV2OTJ1ZG91N3hYUUJsVWdzRVRSR1FnWXdPWlloSm42TXM3OGhwaHZiSUNraHYtRGV1WE95S2t5MUJsZDNaYVF1UG9oLWVJa0xrQQ?oc=5",
       "snippet": "Pete Buttigieg briefly separated from children after false police report &nbsp;&nbsp; BBC Pete Buttigieg Says He Was Separated From His Children in ‘Swatting’ Attack &nbsp;&nbsp; T",
       "pub": "Sat, 27 Jun 2026 00:40:44 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Neighbour shaken after police search Alberta apartment linked to Montreal shooting - Global News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PcXR5Rnc0SjFkZFNtalZENFdmNjVTa3VMTEdVTGVDQWdvejNVRzlXa0puUFhZUF9nUjlfQWNLc04zVkVEUG1mcm16NkMxTF9GTzFTWTRBT1g5azJ5eWUzM1ZTMkpQdWg3ZGxHRzF5VHd1UERQcHpFbTBDRQ?oc=5",
+      "snippet": "Neighbour shaken after police search Alberta apartment linked to Montreal shooting &nbsp;&nbsp; Global News Montreal’s multicultural neighbourhood unites in grief after deadly shoo",
+      "pub": "Fri, 26 Jun 2026 10:00:30 GMT",
       "image": ""
     },
     {
@@ -108,18 +108,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Neighbour shaken after police search Alberta apartment linked to Montreal shooting - Global News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PcXR5Rnc0SjFkZFNtalZENFdmNjVTa3VMTEdVTGVDQWdvejNVRzlXa0puUFhZUF9nUjlfQWNLc04zVkVEUG1mcm16NkMxTF9GTzFTWTRBT1g5azJ5eWUzM1ZTMkpQdWg3ZGxHRzF5VHd1UERQcHpFbTBDRQ?oc=5",
-      "snippet": "Neighbour shaken after police search Alberta apartment linked to Montreal shooting &nbsp;&nbsp; Global News Montreal shooting leads to national security investigation on ideologica",
-      "pub": "Fri, 26 Jun 2026 10:00:30 GMT",
+      "title": "Nanaimo RCMP ask kids to stop following criminal TikTok trend - Nanaimo News Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2hIRVNUV1JsQTVRbG5kU2JyWVNGSUdLNl91aUhCZHltMlFXbklHX2dYWXI5NEVDTzdjaU9odDNzSnkxVmlaWTBILVp6R1Awd0Z0aVpweHlFX2R6S1phcGRCdm5lMnI4UG1WOVVfTDFhNUV2b29yY3JqbE9OdlppRDBqUUs5MDRQV3lvN1FSTTQxSFFaWjRBbURRQUV2VkJWUnJz?oc=5",
+      "snippet": "Nanaimo RCMP ask kids to stop following criminal TikTok trend &nbsp;&nbsp; Nanaimo News Bulletin Teens terrorize Vancouver Island neighbourhood with ‘door-kick challenge’ &nbsp;&nb",
+      "pub": "Thu, 25 Jun 2026 19:16:21 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta says pipeline proposal on track for July 1 deadline, as uncertainty hangs over project - CBC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM1BLTVcyLV9WUThkWTI2YVV4MFRhdS02akJQeEFtNGZIemNmd3pDRDcxaGdvVkd5RmYwUW9oRnRxM3R4XzR3U1pvSktkQXFQR0J5OTBWbGFOREFpQkhvaTRrUGtJRmd2LUwwU0NXZmJxMzBnd3dkR0lNUk5DWU5HMUpIcXhHNmdURk81SGJpNVI4Q09o?oc=5",
-      "snippet": "Alberta says pipeline proposal on track for July 1 deadline, as uncertainty hangs over project &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Sat, 27 Jun 2026 00:05:00 GMT",
+      "title": "Regina mosque pausing use of speakers to amplify call to prayer in city's downtown - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ1J1cHFXem5NMHZua01QMGxvaWYwbXZORW96TkhIZENVdnhVOVdkeHFsMVVvbTNEc2prYnNPbmphSkMxOFdfRjk3NnRoUnF3N28tTHlHckpJbWpRNEI3QUxaanh6OVJQZ19idm03MzhYdGtlVDZyc05OV2RvdlF2T2FLdXhFaG9YanRGdDNRdDg4VUw4d2l5aWFVWW95eUlwOGhKTTBpRGFfWHkyZjQwWlI0RGVMc0IxOWFveA?oc=5",
+      "snippet": "Regina mosque pausing use of speakers to amplify call to prayer in city's downtown &nbsp;&nbsp; CTV News Regina mosque faces threats after launching weekly amplified call to prayer",
+      "pub": "Fri, 26 Jun 2026 23:31:08 GMT",
       "image": ""
     },
     {
