@@ -1,12 +1,44 @@
 {
-  "generated_at": "2026-06-29T14:31:27.952885+00:00",
+  "generated_at": "2026-06-29T17:28:32.362580+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
+      "title": "18-Year-Old Arrested After Police Seize Drugs and Cash at Downtown Park",
+      "link": "https://vocm.com/2026/06/29/302820/",
+      "snippet": "Charges are pending against a man after police seized quantities of suspected cocaine and crack cocaine in St. John's last week. The RNC arrested an 1...",
+      "pub": "Mon, 29 Jun 2026 17:16:30 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/rnc-drug-bust.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Warm Weather on the Way for Parts of the Island",
+      "link": "https://vocm.com/2026/06/29/warm-weather-on-the-way-for-parts-of-the-island/",
+      "snippet": "Temperatures in the mid-to-high 20s are in the offing for eastern and central Newfoundland for the next couple of days. Environment Canada meteorologi...",
+      "pub": "Mon, 29 Jun 2026 16:39:59 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/07/heat-wave-hot-summer-sun-warm-weather-trees-nature.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Three Youth Arrested in Deer Lake Break and Enter",
+      "link": "https://vocm.com/2026/06/29/three-youth-arrested-in-deer-lake-break-and-enter/",
+      "snippet": "Three young people have been charged following an assault at a home in Deer Lake last week. The RCMP received numerous calls last Tuesday morning with...",
+      "pub": "Mon, 29 Jun 2026 15:41:18 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Canadian Blood Services Issues Summer Plea",
+      "link": "https://vocm.com/2026/06/29/302813/",
+      "snippet": "While many people are focused on summer vacations and stat holidays right now, Canadian Blood Services is reminding people that patient need doesn't s...",
+      "pub": "Mon, 29 Jun 2026 15:03:43 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/10/canadian-blood-services-blood-donations-stock.jpg"
+    },
+    {
+      "source": "VOCM",
       "title": "Cocaine and Weapons Seized in Deer Lake Traffic Stop",
       "link": "https://vocm.com/2026/06/29/302811/",
-      "snippet": "Two people are facing a drug trafficking charge after a traffic stop in Western Newfoundland. Officers with the RCMP-RNC Joint Forces Operation West s...",
+      "snippet": "Two people are facing a drug trafficking charge after a traffic stop in western Newfoundland. Officers with the RCMP-RNC Joint Forces Operation West s...",
       "pub": "Mon, 29 Jun 2026 14:20:41 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/05/Police-Reponding-RNC-RCMP.jpg"
     },
@@ -35,43 +67,59 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/img-7076.jpeg"
     },
     {
-      "source": "VOCM",
-      "title": "NAPE President Calls on Employers to Boost Mental Health Supports",
-      "link": "https://vocm.com/2026/06/29/302800/",
-      "snippet": "The President of NAPE says employers need to do more to provide mental health support for its employees. The union held a panel on mental health earli...",
-      "pub": "Mon, 29 Jun 2026 12:03:46 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/jerry-earle-nape-president.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Fisheries Minister Pleased with Northern Cod Quota for Indigenous Groups",
-      "link": "https://vocm.com/2026/06/29/fisheries-minister-pleased-with-northern-cod-quota-for-indigenous-groups/",
-      "snippet": "The federal fisheries minister says she's \"pleased\" with the amount of Northern cod allocated for Indigenous groups across the province. Earlier this ...",
-      "pub": "Mon, 29 Jun 2026 11:18:23 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/st-johns-east-mp-joanne-thompson-liberal-fisheries-minister-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Town of Grand Falls-Windsor Celebrates Upgrades Made to Tennis Courts",
-      "link": "https://vocm.com/2026/06/29/302787/",
-      "snippet": "A ribbon-cutting ceremony was held on Friday in the town of Grand Falls-Windsor to celebrate the re-opening of the upgraded tennis courts. Funded thro...",
-      "pub": "Mon, 29 Jun 2026 10:54:18 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/town-of-grand-falls-windsor-tennis-courts.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "NDP MHA Astounded by New Report of Gender-Pay Gap in NL",
-      "link": "https://vocm.com/2026/06/29/ndp-mha-astounded-by/",
-      "snippet": "An NDP MHA is alarmed by a new report which found that Newfoundland and Labrador has the second-largest gender pay gap of all provinces in Canada. The...",
-      "pub": "Mon, 29 Jun 2026 10:37:09 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/sheilagh-oleary-3.jpg"
+      "source": "Google News Canada",
+      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rNXlROU1ILVRpUDZEVlJEV2VZTFlWd3FhT3FDUzFqLTFKeGc2Tl9ocGE3Rnp3Y0ptRWZoOHo3Q245NUF0LWhxbExjQkJJaTlGY3ZBcU9KVDZVdw?oc=5",
+      "snippet": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook &nbsp;&nbsp; BBC U.S. Supreme Court rules against Trump bid to fire Lisa Cook, Federal Reserve gover",
+      "pub": "Mon, 29 Jun 2026 14:33:16 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Supreme Court declines to hear Trump appeal of E. Jean Carroll sexual abuse verdict - CNN",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LNHBWZndiT0RoRlJYRXMteFhEZGZHd1ZXa3U1NXRnWHlhZkdvZWZOWVJhQmxWYVJtOVRYa3ltRU5yT2hoTTVWUzVHc0YydXlJclNTblFBUDhKbWs0SGFRQjRnMlRqRk9sc0xFZmpSVWN6VTBHLTd4aGNkRmxrYVU?oc=5",
-      "snippet": "Supreme Court declines to hear Trump appeal of E. Jean Carroll sexual abuse verdict &nbsp;&nbsp; CNN Supreme Court Lets $5 Million Sex Abuse Verdict Against Trump Stand &nbsp;&nbsp",
-      "pub": "Mon, 29 Jun 2026 13:33:36 GMT",
+      "title": "Alberta Parks issues state of local emergency in Kananaskis Country - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGhxdlprdW8wX21ycTZ1el9aX2paSjI1cFNFS0xxbVN6eFRBTWphVkNQU19YSk85SFJhOFNFWVRnUFdwS19sa1ZFNGt6dFZJRU9TRS1XamFKcE1ycnk3RTI0N3pOOG1qNnpjVE91R3JoWWN2eG5velNLTUxnYzZReW4tVkJyZDFzYVM0Q19iU0M2R3NVV081V25oV1V0NHZERERGZ2ZKX24tUGs?oc=5",
+      "snippet": "Alberta Parks issues state of local emergency in Kananaskis Country &nbsp;&nbsp; CTV News Heavy rain raises river levels in Calgary, prompts Canmore evacuation alerts &nbsp;&nbsp; ",
+      "pub": "Mon, 29 Jun 2026 14:33:43 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Search suspended overnight for six missing after charter boat sinks off Richmond - CHEK News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd1cyWVJub2tVbGFRSmNkV3J6aWxzQkxMMTNXeUV1enhINWhGdDROSEkxTHBYbm9NUjBoTU05TEtaQ2RiRHJzV2dBSFFOS0NxVlo5UWJ4NTJ5cm1HZTRSS0tmT2t2Y1RVUG84dkRveW80MWpaZEdsS3Z5MTlrZFZ3Y0hPdmtHcWVUVkd6NEx0cWNuS2EtTjJyLTJFaWRKV1RINkFfOU12YVZRa2dmMUE?oc=5",
+      "snippet": "Search suspended overnight for six missing after charter boat sinks off Richmond &nbsp;&nbsp; CHEK News Search and rescue operation suspended for 6 missing boaters in Strait of Geo",
+      "pub": "Mon, 29 Jun 2026 14:20:37 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "EXCLUSIVE: ‘I think it’s up to you’: Hunter Biden on whether Canada-U.S. relationship tension is permanent - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWTZkTkc0T21QUDl2UlRSSTFzeEoycmNkNEZ1WGhZemlBTXpkZ1hXUWNmMS1HQWxicFRqLXdkMEltVFlwUXdMdFBOVEo1YnhxQTdtUlZTS2EtWG1iNjNRN09oeUMyUDd5SHV4SDRTZ1ZwZExFZDVNckM1N2puTTRuYU1sOWVNUkpLNmpvVjBQUzZubjJsZElQc1Zjc0d0a2Z6d2UxU0tfeVFSOW9WaWhOakNyelBRdG5TYW5IYUFxNy1wblRxNzVnN3JzUUFMZnJ1REhrUWlwTQ?oc=5",
+      "snippet": "EXCLUSIVE: ‘I think it’s up to you’: Hunter Biden on whether Canada-U.S. relationship tension is permanent &nbsp;&nbsp; CTV News",
+      "pub": "Mon, 29 Jun 2026 15:46:48 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Ontario's first extreme heat event of the summer will invade this week - The Weather Network",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFdWRnlZQ3RXdTBLeHJxQ1Q3TWlqdHNBNE9CSkRQSnNyQm0xVURzYS1tN1RHYUFMbUx4MVZzQmF2cDAwc2NIcEtMUUFoMVZpczR0bkNzc2xJRVpLT0dVNFdxNFlSaG9qZWVpRkJzLVdXOWhRRkctRjNlb0ROYmJSdVpucUt4eXgxVDE0eXd5WXpvNnREZmdHM1JtQlNsREoyWUxncWRmR0NpekhZRnV2Y1VraG5TSEctNXU4R0VJc1VFaTJVQUNv?oc=5",
+      "snippet": "Ontario's first extreme heat event of the summer will invade this week &nbsp;&nbsp; The Weather Network Heat wave to grip Ontario, Quebec this week as humidex climbs into 40s &nbsp",
+      "pub": "Sun, 28 Jun 2026 20:13:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Fort Simpson evacuees begin to arrive in Yellowknife - Cabin Radio",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFJCU0lWUDdDcWlmbkQ0MF9XOVBRUlRYLWNCZm93MmpnWm56c1Ewb3dqOTRZOTFTTzN4U1VWc3FTc1JITGl4NDJ3c2xKNjl6bm1sWUtnN3czLUxaTENRVm9TZjVaak1tLTZlVWt4TjZyemFleXhEbTE2bnFaX25OeEpJMkpDdWxzWDdtSU93UG1fSXZiLXhkOHV6OVpobm0x?oc=5",
+      "snippet": "Fort Simpson evacuees begin to arrive in Yellowknife &nbsp;&nbsp; Cabin Radio See more headlines & perspectives on Google News",
+      "pub": "Mon, 29 Jun 2026 12:39:37 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Severe thunderstorm potential returns Monday, along with Sunday Rainwatcher catch-up - PembinaValleyOnline",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMGlqYXFUUVMzb2VZWUZhVDhfNHlyYjJoOGhYTVFqb0VzcElXb3FvUUNBMHZ2QmJ6b0N0aFdKaGNodi0wd1JpblgtWkoybHl4V2F5Y3JwZy1jNnhydXFlTUR0eUIxS0dZbG9Lb2hxcDh2dHkxWXlrT2dHVnhJWGJRNzMtU2NObWhGOVprSVBhRkZ1TDYxUVNWZTIzR1Q0dlU0R284MGxKSENJcnBXVS1xajdEbU9UU2d1ZUJrOVZfY3pCSzRnTXYw?oc=5",
+      "snippet": "Severe thunderstorm potential returns Monday, along with Sunday Rainwatcher catch-up &nbsp;&nbsp; PembinaValleyOnline 'Monster' tornado destroys brick farmhouse in western Manitoba",
+      "pub": "Mon, 29 Jun 2026 14:03:28 GMT",
       "image": ""
     },
     {
@@ -79,55 +127,7 @@
       "title": "Family of teen fatally injured on Quebec ski lift grieves a life that 'shouldn't be over' - CBC",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xZm5qY1UyN09jV0xXbXl1UlFqU3E5TndfSU9IcXI4dmIzTm14Q0JkLVF3c3hQOXI0Vmx0TEJ3UHVLMkJ1dXNzM3dENDVuWlB1T2xhWUpzTjhMVnNDaDczeHplN0lZMnNWZ0E?oc=5",
       "snippet": "Family of teen fatally injured on Quebec ski lift grieves a life that 'shouldn't be over' &nbsp;&nbsp; CBC",
-      "pub": "Mon, 29 Jun 2026 08:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Heavy rain raises river levels in Calgary, prompts Canmore evacuation alerts - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVdkS2prZmJTWEl6dlAxSWlOMjJ5Wk1NYWxPSDJnRkx4YTVOT3FLMXlObWZlMXhha2hvb1lHWnN6Ylo4TUdnVVV4UkRTZkk2TXd2MUNVRW1vUTZ6LWdwUHktclhhc1pwbG1mZnZuVnJkenFRRW00V2hvaWVzTjJVbFBRMUI2RHRza0JXdWlOQ2hSSS01ZTN6Q082XzIxbXl0TjNqZXFqZ2ZkSXcwNFBsc2hReEdwQQ?oc=5",
-      "snippet": "Heavy rain raises river levels in Calgary, prompts Canmore evacuation alerts &nbsp;&nbsp; CTV News Flood warning in effect west of Calgary but no flooding anticipated in city &nbsp",
-      "pub": "Mon, 29 Jun 2026 12:54:01 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "A survey asked Canadians what they think of safe injection sites, here’s what they said - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmVTM0JPbnNlVlJUYm5IS1pyTldRc3BQbFlwTC1lQ2xMUGhkZXVQd19vNzJSdDZ2b29jb3lFUFBtV1Y2dEhXZEhPSDJWWVBnUXJEWHotMnlrbGhmakNBUDlqNmt6NzNjb1YySWtuSVVuUnhFSnpuZjBUYXQ2MUNBaEtMT2tfQk9nTzlxczdNQWtXU0YwOVBfODBUX0FmVk43cXJNemxpa1p5OHI3UXhsLWJabi1fa2ptYm53cFFzeFVwZw?oc=5",
-      "snippet": "A survey asked Canadians what they think of safe injection sites, here’s what they said &nbsp;&nbsp; CTV News",
-      "pub": "Mon, 29 Jun 2026 09:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Venezuela earthquake leaves 68,000 missing as satellite images show ruin - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04NEY1V3F5aGdnVkZVTG9aV2YzS0FsNXZWSUFGbUg4c3ZVdVRaNlFWTEZLcXBXcExMWTRpUlNCWHoxdGxVcnpMbldVd0h5Z1AyVmNBUXBzTVNtODdadDFR?oc=5",
-      "snippet": "Venezuela earthquake leaves 68,000 missing as satellite images show ruin &nbsp;&nbsp; The Jerusalem Post Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped",
-      "pub": "Mon, 29 Jun 2026 01:06:03 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Woman, 24, dead after single-vehicle collision near Banff Park gates - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0VnMXFrYnhPc2tCb0VyT20yTmJELXpZZ1pWU3hjYmpMaG1yUzVjY1F1UnVlVVZTMGdmYVIxbEhFWUZJeTlBZ0xVbi1QRVBucU1vejc0VjY4T3VfMGRRNF95NEpUeW1EZkF4Si0xMnFKWmRhd0pvcGFzMFYwUFd0cXkzQmJWdlJfc0h0OFNqc21kWjlZYlkwa0JiZWtCZ2g4WjQw?oc=5",
-      "snippet": "Woman, 24, dead after single-vehicle collision near Banff Park gates &nbsp;&nbsp; Calgary Herald 24-year-old woman dies after collision in Banff National Park &nbsp;&nbsp; CBC High",
-      "pub": "Sun, 28 Jun 2026 23:27:07 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Apartments can become sweltering in summer. Why heat bylaws could be coming to a city near you - CBC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TNjhmWDJPU0V3U3lHN0g2SHN1RDUzVGpuLURMQnd0YXhRNEdHZTk1bGhZY3I2OFAzdjBuQVRBTzBwdjJpTVJRTFJzY0oySVowNnBiSm9tRHNkT0d3Q3k5ajZ5OURYNGxsS0Flb2FmRzJncGRHNjdnZi1JUjdkZw?oc=5",
-      "snippet": "Apartments can become sweltering in summer. Why heat bylaws could be coming to a city near you &nbsp;&nbsp; CBC Residential building tenants facing challenges in hot weather &nbsp;",
-      "pub": "Mon, 29 Jun 2026 08:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Four rescued, six still missing after charter boat sinks off Richmond coast - Vancouver Sun",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLTdhYWNYT0JjZWphQ3o0eUNla0FkZUpHVF9aTjJjOGxoZGhzTGkyekt6RlBsSXJrZlNjbmF0bzJ5MF93Q3owN1pCVDNvMXZhNDAxZ0k3blRaZ0l2RHEyNlBTbHNBTEQ3S1VNYUgwREprX2xlRW04UE1HbGJtRHA2LWl1UGd4S18xYnEzOHZxS0FsX0FrenhhVEd2WQ?oc=5",
-      "snippet": "Four rescued, six still missing after charter boat sinks off Richmond coast &nbsp;&nbsp; Vancouver Sun 6 still missing, 4 rescued after charter boat sinks in B.C.'s Georgia Strait ",
-      "pub": "Mon, 29 Jun 2026 04:26:17 GMT",
+      "pub": "Mon, 29 Jun 2026 15:57:41 GMT",
       "image": ""
     }
   ],
