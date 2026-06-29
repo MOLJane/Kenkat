@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T21:04:59.546807+00:00",
+  "generated_at": "2026-06-29T22:34:29.313355+00:00",
   "count": 16,
   "items": [
     {
@@ -70,7 +70,7 @@
       "source": "Google News Canada",
       "title": "A heat wave is set to scorch much of Canada. Take it seriously, experts say - Global News",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LS3FiNko0Y3VzaGN1T0hVSzRaLU9VdGdDTzY3Z3Jua0xLaG16MWdwNDNkRWs2cWpJMmhWTVhYaEtTRWpETmFXZTkza2VYMnNvQ2REQ1ZjOG9FUk9tS2Y3TEVtZWl5bTlkbHA4cGE1TTA?oc=5",
-      "snippet": "A heat wave is set to scorch much of Canada. Take it seriously, experts say &nbsp;&nbsp; Global News Toronto under orange heat alert, temperatures could reach 37 C this week &nbsp;",
+      "snippet": "A heat wave is set to scorch much of Canada. Take it seriously, experts say &nbsp;&nbsp; Global News Ottawa braces for Canada Day heat wave with temps in mid-30s &nbsp;&nbsp; CBC T",
       "pub": "Mon, 29 Jun 2026 19:47:09 GMT",
       "image": ""
     },
@@ -84,10 +84,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "2 children found dead in Ottawa home in murder-suicide: police - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTjVnUW8xLUYwVno3emVqb0tMdDllVGlfdUU0eWpaUmc0RVF0MHUxVHQ4SEdLQ0QzLWNKc05ULW5xU1pyTlVLM2FPQkZPSHBwTHhBV1NsV0ZzTWIwOVdDaGFfUDU4dlJFVW9kNHEzX0FPNno1bGRBM2x0RFBENlIwUExXZGtRbnZqQ2FMVVhMN3FPSXZuTm5HYTh2eV92d05CMEE?oc=5",
-      "snippet": "2 children found dead in Ottawa home in murder-suicide: police &nbsp;&nbsp; CTV News Murder-suicide leaves 2 boys and their father dead, Ottawa police say &nbsp;&nbsp; CBC One dead",
-      "pub": "Mon, 29 Jun 2026 17:58:18 GMT",
+      "title": "Alberta Parks issues state of local emergency in Kananaskis Country - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGhxdlprdW8wX21ycTZ1el9aX2paSjI1cFNFS0xxbVN6eFRBTWphVkNQU19YSk85SFJhOFNFWVRnUFdwS19sa1ZFNGt6dFZJRU9TRS1XamFKcE1ycnk3RTI0N3pOOG1qNnpjVE91R3JoWWN2eG5velNLTUxnYzZReW4tVkJyZDFzYVM0Q19iU0M2R3NVV081V25oV1V0NHZERERGZ2ZKX24tUGs?oc=5",
+      "snippet": "Alberta Parks issues state of local emergency in Kananaskis Country &nbsp;&nbsp; CTV News Alberta Parks declares local state of emergency as flooding traps 1,500 campers &nbsp;&nbs",
+      "pub": "Mon, 29 Jun 2026 14:33:43 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Two boys, 7 and 10, found dead in murder-suicide investigation - CityNews Ottawa",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHU0NnVUSGxLcUY2ejkzTWxRcUZjOXlQZEZOQjI0TGJCUURwUlU5cW40Yy1HVUZSOFN4SS1RLUFZYTlLV3FmNzdUVENTalZjSXVrSjdkRndmU3BYZldCcUI4VmdtUVlINEVCSUpUMDJpMndoODZOSnFKaEt6NE5SaVAxX3RuYmRpSEF3aHQ1amk4YjVQd0JaM3BDaU04cmk1?oc=5",
+      "snippet": "Two boys, 7 and 10, found dead in murder-suicide investigation &nbsp;&nbsp; CityNews Ottawa 2 children found dead in Ottawa home in murder-suicide: police &nbsp;&nbsp; CTV News Mur",
+      "pub": "Mon, 29 Jun 2026 18:21:33 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0OFU1cDVaNEFqQlNrTGpVZlR2Z2FvekNFUEJEY3BZNFlDXzZTdTVWQlB6a05fZllvRmJ0eDQ1d3pPUXpEaGtKYjctUW5Pd0hHX3pWUGV4MVl3Zw?oc=5",
+      "snippet": "Aftershock frays nerves as many Venezuelans left to fend for themselves &nbsp;&nbsp; BBC ‘Helplessness:’ Venezuelan community in Ottawa worries for family and friends back home aft",
+      "pub": "Mon, 29 Jun 2026 20:00:44 GMT",
       "image": ""
     },
     {
@@ -100,25 +116,9 @@
     },
     {
       "source": "Google News Canada",
-      "title": "UPDATE: All steep creeks in Canmore on flood watch, parts of Canmore under evacuation alert - Rocky Mountain Outlook",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVFNRmlveUNlN1dMZzVuWGFUMXE4RkZHMm5ZS3lmZXhRVzJscktjYUtZRjEwemRfT3ExSU9TOGhlc2F3QUtUM1JuaEEwOU9hM2JhQkk2TGJSa3RtZUVYSXBzUHRTMDF6aGVWVGRITUFYRWcyNGwxUTZ3Y1pOaUJSaWZfUVhub2hNT3ZIbDdTTVVZTGZXeGR6bmU5WjBHRTZ6dzdiWnBxWDZmU2pvWnlsUTJhV0diWWY2ZHI0UUthcWdfbjlWd3lpQS1n?oc=5",
-      "snippet": "UPDATE: All steep creeks in Canmore on flood watch, parts of Canmore under evacuation alert &nbsp;&nbsp; Rocky Mountain Outlook Alberta Parks declares local state of emergency as f",
-      "pub": "Mon, 29 Jun 2026 13:38:45 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "US Supreme Court allows late-arriving mail-in ballots in defeat for Trump - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LczhNT3lyOXc0RmNFWlo5OVNuRC1pQnRnWnNvSlJUS0M5TEowNGxhTGxueTZmRmw5czdCQW9VZGRPYXdFQlQybzh5c2MybHlDRmF5aF9YcndLUQ?oc=5",
-      "snippet": "US Supreme Court allows late-arriving mail-in ballots in defeat for Trump &nbsp;&nbsp; BBC Supreme Court ruling gives a reprieve to states with grace periods for receiving mail bal",
-      "pub": "Mon, 29 Jun 2026 17:19:08 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "B.C. nurses issue 72-hour strike notice after rejecting contract deal - Castanet",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcHdSVWJzLUxvSDRxTllnYVhpZHZuSmRsN3dpOWpUVDZjZGkyLVM0V1BRc2RQNUZRVnhRbloxcEo4UmJOTFo5TERxRmRDMlMyb0IwQ3JITE05dTB1RWp1djFmTWhJMGZteV9JX0hteGR1SlRtcWNObHVycDdtbjFMaTlfdGpXQUkzdWd3U3NaWnoybTEwSnpULVo2eWY0YkVSTVNpQ1lYNVhicTI4?oc=5",
-      "snippet": "B.C. nurses issue 72-hour strike notice after rejecting contract deal &nbsp;&nbsp; Castanet B.C. nurses issue 72-hour strike notice &nbsp;&nbsp; Global News B.C. Nurses’ Union file",
+      "snippet": "B.C. nurses issue 72-hour strike notice after rejecting contract deal &nbsp;&nbsp; Castanet B.C. nurses issue 72-hour strike notice &nbsp;&nbsp; Global News B.C. Nurses' Union issu",
       "pub": "Mon, 29 Jun 2026 19:51:00 GMT",
       "image": ""
     },
