@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-01T04:12:18.120576+00:00",
+  "generated_at": "2026-07-01T08:34:30.769191+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "July 1, 2026 – June 30, 2026 – Will you be attending any Memorial Day or Canada Day events today?",
+      "link": "https://vocm.com/2026/07/01/july-1-2026-june-30-2026-will-you-be-attending-any-memorial-day-or-canada-day-events-today/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13124').",
+      "pub": "Wed, 01 Jul 2026 07:30:56 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/flags.png"
+    },
     {
       "source": "VOCM",
       "title": "Danger Tree Replica Unveiled at Beaumont Hamel",
@@ -59,35 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/11/conservative-leader-pierre-poilievre-st-johns-november-2025.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Man Facing Firearms Charges After Allegedly Brandishing Handgun Near Barnes Road",
-      "link": "https://vocm.com/2026/06/30/302901/",
-      "snippet": "A 29-year-old man is facing firearms-related charges following an incident in St. John's. The RNC was called to reports of a man with a firearm in a g...",
-      "pub": "Tue, 30 Jun 2026 14:40:36 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-14.png"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Trump offers snarkiest response ever to birthright citizenship loss: ‘I would like to congratulate President Xi’ - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOODF2c2hIVmhWR2R6R3lrTTd6TENwZ3lGWF9RWG9vSXRMYm45eUkzcGFjUGlCQm1VSWRyYmtFWmhyaXpRcXdGcjJyZ2tQVFg4UjhVMWJ0aHJwbDZTRVU1WFFvMEloT3gweWtSR3hETEl0TndwTjc3RE5jU09PRmRHVGRJeDNkVVBiVjRpOHhwRlFGWlpUaU0xMm1kOFE0N040b18zV1VYMVlwWlR0RzE0VV84LUNWbXBOZ29iMG40aXUxaElwR1RsSm9yVnlHWU0?oc=5",
-      "snippet": "Trump offers snarkiest response ever to birthright citizenship loss: ‘I would like to congratulate President Xi’ &nbsp;&nbsp; The Independent The Supreme Court’s Check on Trump’s P",
-      "pub": "Tue, 30 Jun 2026 20:14:00 GMT",
+      "title": "‘Not looking for my pen’: Carney not expecting resolution or ‘any drama’ on CUSMA deadline - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbW82LXZmM3ZkaGpIWlNvcE9jaG8yWXlYN1JhbnR6bnpCVGpoeVRNbTNOclY1amRyU0lFcHp0Zk1qdGIxSFlnejh2d1pyYmttYW5aVEFVZzM4N2hXN1lQUHpXMnRlc0RCRzlTRGdrdjBnWGswN3drN3prQkVBUXNNVllzakVDR1V6TE1YYnAweTdUZDlrU25rRzMxQ2ctWVNzNEF6a1ljNzZoVEEwMzRxQnJFdFJYTnhoWVNrQ2JDWjBxNk83?oc=5",
+      "snippet": "‘Not looking for my pen’: Carney not expecting resolution or ‘any drama’ on CUSMA deadline &nbsp;&nbsp; CTV News US seen not extending USMCA, starting decade-long countdown to end ",
+      "pub": "Tue, 30 Jun 2026 16:25:30 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Extreme heat, flooding pose safety concerns for Canada Day celebrations - Global News",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX19vQkluU0NlMWFBdlEzdHc4UWRSVWQwZHFfbDVZSlRra25EYTJsbGFydUFlTTl1bzRqR1pQUmtvam1jeS1QalJuenRHeVF2NkZtOUJHMnpGWXRCMzQtTlgtU1d6YWFMX0lLNEozSzhYUG1jMExmSkdQblFZTTJ6ZFJn?oc=5",
-      "snippet": "Extreme heat, flooding pose safety concerns for Canada Day celebrations &nbsp;&nbsp; Global News Severe weather risk puts Canada Day plans in peril in Ontario, Quebec &nbsp;&nbsp; ",
+      "snippet": "Extreme heat, flooding pose safety concerns for Canada Day celebrations &nbsp;&nbsp; Global News What Canada’s colour-coded heat warnings mean as temperatures soar &nbsp;&nbsp; Glo",
       "pub": "Tue, 30 Jun 2026 18:43:31 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Experienced B.C. charter captain says conditions ‘unsafe’ when boat sank leaving 6 presumed drown - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVgxYnBRNmQ4M3lUT1FHY0UtTXZ3UnlHVGJjM1kzaGpEZkZUWW1ac2NmNFU1bFV5UDdPd1dEZE56VV9EM2gtNmh6RVk2b0VqNjQyOTRjM3ptNmNCS3hNNFVoaDBnM0ZlVmZaWXZ5dTVCRW9BT0tCNWk2RTV3QVh3UEpxNkxsM3licldzdFFPM2FzazFNc1hnUTZvYW5NNnptcjlIVmtqT3JKVlFTODh0UW5HekFQa01seUl4TFJ3bVVLTDdqU0plX0hSMW1oUlFj?oc=5",
-      "snippet": "Experienced B.C. charter captain says conditions ‘unsafe’ when boat sank leaving 6 presumed drown &nbsp;&nbsp; CTV News Deadly B.C. boat sinking believed to have occurred in waters",
-      "pub": "Wed, 01 Jul 2026 00:05:00 GMT",
+      "title": "Five rescued after boat hits reef, capsizes off Saturna Island - Times Colonist",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVFjNWh5MUJpeDNpRy11ZkppTUNTTDQxemRwNmV0MWVrV0pOakJVYTdQUU1hXzNEZkIwVE4wOHgxaTBVNzRvTzFjX28yc3hPNjFILTc1VnBBRXRUeFJ0MmNQaENTcU0xX0MtdThrREJFdEJKYWdYa1RaTno1UUNBMHQ0aHFrWXJPRWQ0MHh3d2hlbzNnNEJHdlIwMWNwMTdpVmstVnREY1NzZ0U1MzZFaQ?oc=5",
+      "snippet": "Five rescued after boat hits reef, capsizes off Saturna Island &nbsp;&nbsp; Times Colonist Deadly B.C. boat sinking believed to have occurred in waters up to 180 metres deep &nbsp;",
+      "pub": "Wed, 01 Jul 2026 08:24:01 GMT",
       "image": ""
     },
     {
@@ -100,10 +100,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Carney signals no USMCA extension expected on Wednesday - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONzhiT0thQVN1dHNKQU5HSUU1RXJqcG5SdjU3cDlZRm4yM0xIaHAySGZLRXNqdFdKMTVMYmczd3NVSFJqYm82RjhqdGVrQXpBNGlia2I3NElIc1JpMUZhdkljNk5GazdYOHZrRGxnd2pUcWJWcjNldFRTMHAtc1RNVnR2Z1g2S2tWODRWb0RVTDNqMEtMYVFNSWNsVnVkazg?oc=5",
-      "snippet": "Carney signals no USMCA extension expected on Wednesday &nbsp;&nbsp; The Globe and Mail What to know about the looming deadline on North American free trade &nbsp;&nbsp; BBC US dec",
-      "pub": "Tue, 30 Jun 2026 16:43:48 GMT",
+      "title": "Two youths, adult rescued from Bow River near Edworthy Park - CityNews Calgary",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43VEgxT05laVZNRlpaaHJza095MWdMdXV1bTNUb3hQUTZyejh2My1NTzJNdTdjaXlvYjZ2S3gtSEFoQ01DTGYxUDRQYlFVenppRnZrOU5OdERiYkF5LU91c2JIR1lXQnNxYkxkY25aUzV1LVpINVVuT05B?oc=5",
+      "snippet": "Two youths, adult rescued from Bow River near Edworthy Park &nbsp;&nbsp; CityNews Calgary Three paddleboarders rescued from Bow River &nbsp;&nbsp; Calgary Herald Calgary Fire Depar",
+      "pub": "Tue, 30 Jun 2026 21:33:39 GMT",
       "image": ""
     },
     {
@@ -116,18 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Details emerge connecting double murder, explosion and suicide in eastern Ontario - CBC",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSDYtY3J0aG9kZE0xY1h1Y0tvQ2JKa0dUVVJULWQ0UWlzSkRiNTJfeVVCdjA2SVA2bnRxSXJ2T0FRSy14YWdlNG5heGpiWmtSU3pDOHVQUkptRDJXVFpVYTF1TS16aUtuVXJQdUFBQWtSTFQzaFpua2x5SkgtWEZHbkhKenB2eUFVZS0tMWZZRzhaMXNfOGtzOUZ6SFBFdXpMSllCeGZQdmFkazZ3akdQXzQ5ckpKcEgtMHpzbWc5NjRvYkt6MHhz?oc=5",
-      "snippet": "Details emerge connecting double murder, explosion and suicide in eastern Ontario &nbsp;&nbsp; CBC 2 children found dead in Ottawa home in murder-suicide: police &nbsp;&nbsp; CTV N",
-      "pub": "Tue, 30 Jun 2026 23:12:48 GMT",
+      "title": "Major storms batter much of southern Manitoba, causing heavy flooding - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdjVjeWZPbUNFdGUwLVRBVGg3QUJnZjZObHF1UzRwa3lqUFdVMjlLR3NwaklBWnpJYXVUR2ZKTkFvaUxoUHV0QzlTNmc0NWRSby14VjFrMGViUHh5a25adU1uejBBd0J4NHdjdGRTdlZ2aC13dV9zeVdyeVYtN2FrZS1fb05MRmlzdzFTSkc4aURRVDVTNE12VkpUSnZDYWhrTGR0QUFfMWVuNzJ0TFhVUHVSTWdQQTM1dDRvTU9DSHgzU0ZTU0RCVjhCWV8tb29rbEdpWQ?oc=5",
+      "snippet": "Major storms batter much of southern Manitoba, causing heavy flooding &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
+      "pub": "Tue, 30 Jun 2026 22:24:10 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Manitoba teen accused of planning school attack denied bail - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeTBDYnJwaXROZTRZZV92ZEZPQ3Z2U3RQaDlwblpuYVkyN19JMktCX2ZKd0RsRVVlR2NVQ2RYQ2RXNURLcDNTYkRaN0VEbmZseUVHNDRsU0tNZzhNV0JBaWFqUnNBOEhVVXdjdWxSY2R2NlV5alhCVWdFUmYwalZuOXdBR01QUUJEM3c?oc=5",
-      "snippet": "Manitoba teen accused of planning school attack denied bail &nbsp;&nbsp; CBC Manitoba teen accused of planning school attacks with Nova Scotia youth denied bail &nbsp;&nbsp; CTV Ne",
-      "pub": "Tue, 30 Jun 2026 21:48:06 GMT",
+      "title": "Details emerge connecting double murder, explosion and suicide in eastern Ontario - CBC",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSDYtY3J0aG9kZE0xY1h1Y0tvQ2JKa0dUVVJULWQ0UWlzSkRiNTJfeVVCdjA2SVA2bnRxSXJ2T0FRSy14YWdlNG5heGpiWmtSU3pDOHVQUkptRDJXVFpVYTF1TS16aUtuVXJQdUFBQWtSTFQzaFpua2x5SkgtWEZHbkhKenB2eUFVZS0tMWZZRzhaMXNfOGtzOUZ6SFBFdXpMSllCeGZQdmFkazZ3akdQXzQ5ckpKcEgtMHpzbWc5NjRvYkt6MHhz?oc=5",
+      "snippet": "Details emerge connecting double murder, explosion and suicide in eastern Ontario &nbsp;&nbsp; CBC 2 children found dead in Ottawa home in murder-suicide: police &nbsp;&nbsp; CTV N",
+      "pub": "Tue, 30 Jun 2026 23:12:48 GMT",
       "image": ""
     }
   ],
