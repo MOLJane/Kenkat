@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-07-01T18:55:07.400153+00:00",
+  "generated_at": "2026-07-01T20:45:13.201352+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "Veteran’s Memorial Highway Closed in Both Directions Due to Vehicle Fire",
+      "title": "Immediate Fire Ban Issued for Labrador",
+      "link": "https://vocm.com/2026/07/01/immediate-fire-ban-issued-for-labrador/",
+      "snippet": "A fire ban is now in effect across Labrador. The provincial government has declared the ban immediately under the Forestry Act because of extensive wi...",
+      "pub": "Wed, 01 Jul 2026 20:10:31 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/newfoundland-waterbomber-4.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Update: Veteran’s Memorial Highway Reopens After Vehicle Fire",
       "link": "https://vocm.com/2026/07/01/veterans-memorial-highway-closed-in-both-directions-due-to-vehicle-fire/",
-      "snippet": "RCMP in Bay Roberts have closed down the Veteran's Memorial Highway (Route 75) - north of Tilton - in both directions due to vehicle fire. The road ha...",
+      "snippet": "The Veteran's Memorial Highway (route 75) is now fully open after a vehicle fire closed both directions north of Tilton earlier this afternoon. RCMP t...",
       "pub": "Wed, 01 Jul 2026 18:49:56 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
     },
@@ -59,75 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/newfoundland-power-generic-june-3.png"
     },
     {
-      "source": "VOCM",
-      "title": "Driver Found Over Three Times Legal Limit in Placentia",
-      "link": "https://vocm.com/2026/07/01/driver-found-three-times-legal-limit-in-placentia/",
-      "snippet": "A 48-year-old man is facing charges of impaired after police say he blew over three times the legal limit in Placentia on Saturday. Police were called...",
-      "pub": "Wed, 01 Jul 2026 12:11:29 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/roadside-breath-test-fail.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "U.S. declines to extend CUSMA trade deal with Canada, Mexico - CBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkxnR2RYWWt6RGx5QjExUGhqb1Q3Qjk2VXVQLWRtUml3SFVGOXBHLXdubTN0NTY5RWhYTnVYT05yTGxUYTB5aTEzUjk2WTdYM1NkMzFkTTlSTkItMzNXRVBsV3RLT1l1U3hVY25XSUU2Q3E3cXpRcnVpZkVDaW5vbw?oc=5",
-      "snippet": "U.S. declines to extend CUSMA trade deal with Canada, Mexico &nbsp;&nbsp; CBC Trump refuses to renew US-Canada-Mexico trade pact he once championed &nbsp;&nbsp; The Guardian U.S. w",
-      "pub": "Wed, 01 Jul 2026 18:19:58 GMT",
+      "title": "US declines to extend North American trade deal, starting clock to end it while seeking changes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORWxhSVNvODM1MVFkUkxYbEZKQ0FTbUhoOWpsdUdCTkRDYzlLTDZaTjlKOGQ5ZDQyd3MxOUUxblp4eUxtZGZIeEpKVGtkMXJMNFpkUVpNNnNHTzlSOU5rc21LU1dnNnBld0dmdzItZ2dpS05aOC1BRm8xdmt5WUduWDJjUUc0Nmd3OFdBX3JsbnhOY2RPdm50a2Vyek5IMGhWa1lPSHRWanNWMno1RkJOQkM3NFdOV3pSZVgzX053WnBOWGRGM3VF?oc=5",
+      "snippet": "US declines to extend North American trade deal, starting clock to end it while seeking changes &nbsp;&nbsp; Reuters U.S. declines to extend CUSMA trade deal with Canada, Mexico &n",
+      "pub": "Wed, 01 Jul 2026 19:40:33 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Two people climb to top of NYC's Empire State Building - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYTHRTS19OM0pqcDBHNFRCZWRVVU1jU204d1Y3cGJWUDZBQ0o5aXgyYzZtbjVIeXoxcXJqa3dXZG81N2dpY1hMSm96YUxjVGpMRHhEN2RudUVMUQ?oc=5",
-      "snippet": "Two people climb to top of NYC's Empire State Building &nbsp;&nbsp; BBC New York: Two people scale to top of Empire State Building carrying banner &nbsp;&nbsp; CNN Who climbed the ",
-      "pub": "Wed, 01 Jul 2026 16:55:16 GMT",
+      "title": "Canadians mark Canada Day as Carney urges unity, heat grips Central Canada - CBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1SE1hS1lTTV9wTTNCSzZRZXBfZEwydjRjVmg5WVNjbzdwYTdDWkhJMzBSRmo0OUdHaGpwSEMyZTcya3BpQ3dvRXpzbnp6alh4Tm1DS0stdkhiNHB2YV9yYnBCTXltRHBzNG5jQUU0UWFRdktlOC1xcnA5VmdzQQ?oc=5",
+      "snippet": "Canadians mark Canada Day as Carney urges unity, heat grips Central Canada &nbsp;&nbsp; CBC Prime Minister Carney commends nation’s courage, conviction, connection on Canada Day &n",
+      "pub": "Wed, 01 Jul 2026 20:03:46 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Duration, not intensity, is the danger in Ontario’s latest heat wave: meteorologist - CTV News",
+      "title": "Bibles, Home Alone and perfume: Six surprising ways Trump made money in 2025 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVYnpuUXdHZWl6TUVWQzluTjFtWVVyVHVuYy1SenBRU1NCVGJ5TllnOWJ2M1FBbXN0RHdaS3VGWW9iY2l2NHhwSEZkeVcyUkJXRkxRUnFYYm9hUQ?oc=5",
+      "snippet": "Bibles, Home Alone and perfume: Six surprising ways Trump made money in 2025 &nbsp;&nbsp; BBC Crypto, real estate, watches: How Trump made over $1 billion last year &nbsp;&nbsp; To",
+      "pub": "Wed, 01 Jul 2026 17:22:25 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Canada Day activities in Ottawa suspended as heavy rain causes flooding, road closures - CBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZDVTUktZeUVabDE2Y01yZDhjdkFpaXI2Mm15RWlucWFPVlBaWTBDN3EzU0EtcENHSTdlajVHQzR0dlFBZUdMUnFZNzRkeFFHcjF0ZHlneUJDel9WXzd5aThiQ0QtU2VBT0NVemZMT1pJdktmSEFoZDdOXzBxU1VVM3IyUjUtV0VkUTRkQUs5ZFNvbkE?oc=5",
+      "snippet": "Canada Day activities in Ottawa suspended as heavy rain causes flooding, road closures &nbsp;&nbsp; CBC Several Canada Day celebrations in Ottawa suspended due to severe weather &n",
+      "pub": "Wed, 01 Jul 2026 20:02:36 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Why Ontario’s orange heat warning is about more than the temperature - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa2J3WUl3U1Vxc0paM1R3MjRoS1o0d0NVa3NBU2lmdHc2aWJKVkRqMlpWTDBFbE9sQmVjRUFBMzBtc0RHSGxHZS1mc3dzSE01NVVlQmlPMVlLV2Q0R0RUTUhLNEM1b0U5MnZkNmFZUzdjT1hXeGR5R183bDFhbmVfRlBXZmkwSjVCS21kcWNZaEpTLW5fUjA2Q1kyUTlWc0hUYTFubnRpaFBwaC11LTB6SVBmTnpUSFVfSHcxeHBrcUJKNFpxdXY0eXQtRXNUbGtM?oc=5",
-      "snippet": "Duration, not intensity, is the danger in Ontario’s latest heat wave: meteorologist &nbsp;&nbsp; CTV News Montreal, southern Quebec facing extreme heat &nbsp;&nbsp; CityNews Montre",
+      "snippet": "Why Ontario’s orange heat warning is about more than the temperature &nbsp;&nbsp; CTV News What Canada’s colour-coded heat warnings mean as temperatures soar &nbsp;&nbsp; Global Ne",
       "pub": "Wed, 01 Jul 2026 09:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Carney emphasizes country’s unity in Canada Day address - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMTJvMVRfbVJHbG1HVlpNUVltT2pGSGI3RlJCNTlZUEpFRGRucG9ZX0ZHOXdRUkpKOVp2R1RYV0w4MnVGN1ppdU01UVJYU0tKVldDQThwSGY1SnRZYmV4N3Z0UTcxejY5SFFneFExejZEYTNJLUlLdkNjdE9RRXZJc011NnRkZzZ2LUtWQ3ljVU91ZV9FekdaQQ?oc=5",
-      "snippet": "Carney emphasizes country’s unity in Canada Day address &nbsp;&nbsp; CTV News Canadians mark Canada Day as Carney urges unity, heat grips Central Canada &nbsp;&nbsp; CBC Carney pra",
-      "pub": "Wed, 01 Jul 2026 14:11:40 GMT",
+      "title": "Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV01CcEppQWFyN0dOX2RieHExRG1rRGgtb0hTdHdBUGJLVmJkMloxRjBDNzdvNzYtZUtPSV9FY3Rnb0VrcTdGWTloanhmM2dwU0FFcldSQ0hzQWp6R2FLa1NDeHpGOXZ3TUtoZTdTQVlZY1MwWVNJU3BHa0J4RTY5bU5NV0E2dG9xbmxpMXl4NFhqM0E?oc=5",
+      "snippet": "Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust &nbsp;&nbsp; WIRED Officials fear medical crisis as Venezuelans displaced by quakes crowd shelters, hospita",
+      "pub": "Wed, 01 Jul 2026 08:30:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Judge gives repeat LCBO thief a harsher sentence because he doubts CBSA will deport him - National Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNemQ5bllWMGV0dVpUU3dLSWhmS3VaUHFnWUtuMG9wRm5WdFcybjRPVVNwZGh3UlBQQkRsZjEzVlczWkNDYmFZMUlMSVdtT0lCaTNjY0JBNXNlSEhONVZnWElFWGVzQ1g4UTR4NUdmS2xxbnItVnkxUmIxQ1ZqTjVDYklfbjVRdGF0cWJRQ3RySkFrX1N2bEVSSl9YbHNWbW1oTzlfemZuUlN2c2FWd2JzWWJZVkNvVVgwa0s3d1RnT3B1QQ?oc=5",
-      "snippet": "Judge gives repeat LCBO thief a harsher sentence because he doubts CBSA will deport him &nbsp;&nbsp; National Post",
-      "pub": "Wed, 01 Jul 2026 13:47:50 GMT",
+      "title": "Manitoba city issues state of local emergency amid ‘worsening’ flooding - Winnipeg - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGZyelBfdE9pcGFYLVZVZF8tWnMxT0lPQlZ5UXJzVGxWeUpxQWlsNXdQal82S0NXbktvNk9ROWVpZVRrbzhhWXRPQ1RGdkxPTWJmcmEwRm40amdZeG9HUTFzQmg4OS11OEJGSVpqYXluZGs1d2FUVmFuLUtGb19PNE1ydFpKbExl?oc=5",
+      "snippet": "Manitoba city issues state of local emergency amid ‘worsening’ flooding - Winnipeg &nbsp;&nbsp; Global News Dauphin flooding 'as bad as I've ever seen it,' mayor says as city decla",
+      "pub": "Wed, 01 Jul 2026 16:35:17 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Homes set ablaze by lightning as storm pummels southeast Calgary - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWW5QQXlVQXQtUVZkRGNIaDRjb0IwNk0ydWU1TWZoYldWcnpLMzVXOTlXZTQ3UXhpQlRZYUdGRjNHOVROcnduS1FBZktRaW5lbGEzNl9nZ2FqaFRmX0xLT1NLX1F4T0Ryc2Zoa3BlcGFyc1ZxOW1mX3p1QXFZaGlyUVViWDJNU0JsX2dlNE9TMWJhZ1JXblQ2T1RqRDBaajJxNkxoWkZacw?oc=5",
-      "snippet": "Homes set ablaze by lightning as storm pummels southeast Calgary &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Wed, 01 Jul 2026 00:02:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Service dog receives diploma alongside Saskatoon high school graduate - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlhhMDhXZlpfdG04RGUwd3NqZktfMXZQcWtITFpOaW1ZRXdCbnRSYUFJQ3FzTVJDLVVRdXp6VDk0WGdxZkRxMUswcHQ2RV9YSDRRRDVXTGUwMFdPSHB5Q0dXeTNMaGM4SWVjOTZkM2NWT1pxVGdNWHVkM2ktTkRyM191RngwU3RYdXpZMl9jMnhlZnhfOEozdTVLSXJSZDFNbTF2RUR0Um9Od2VRQlYxRA?oc=5",
-      "snippet": "Service dog receives diploma alongside Saskatoon high school graduate &nbsp;&nbsp; CTV News",
-      "pub": "Wed, 01 Jul 2026 10:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada Day 2026: Your guide to what's happening in the Halifax area - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEQtNUJJSDBuc0NfZm83ZFZ5N185Yzg3bW5DWUgyOWZGYUU3VXVxZzFKU251UjVCRE8tamZIdVRoWFlMd0F0QnpzZndHS05ZSGJjYWJUaTVSelF3UUxCOU1wUk14SGdfTkE2cXpicU1uNWZzbndOYjdtSGUtT25UczQ2dGZkM0E?oc=5",
-      "snippet": "Canada Day 2026: Your guide to what's happening in the Halifax area &nbsp;&nbsp; CBC Canada Day 2026: What's open, what's closed in the Halifax area &nbsp;&nbsp; PNI Atlantic News ",
-      "pub": "Wed, 01 Jul 2026 09:00:00 GMT",
+      "title": "Montreal under severe thunderstorm watch with risk of wind gusts, hail and tornado - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeW9pdEh3NUNkT1E1dlZaM1dzZzhybVdORDhJZlpRWmI4bnNVU2ZvN2hrRWV4ZWhkVVU0cFhMeFFDNG1VUzQ1dkFERWYtdkR1TXVPT2NXbUQ5XzBvckwzckNFMjhDcXNYa2ZNUUVRQVhCOXphRnVjbG00UGpkM0NNcVdjM09BazRBVGVnSzROZC1tUkg4ZnlNOWtxMVI1ZHJxTkt3dEgwajNtY21OanFrSGx0Ql9GU3pmd0ZRWVlNVQ?oc=5",
+      "snippet": "Montreal under severe thunderstorm watch with risk of wind gusts, hail and tornado &nbsp;&nbsp; CTV News Severe thunderstorms could bring damaging winds, heavy rain &nbsp;&nbsp; Gu",
+      "pub": "Wed, 01 Jul 2026 14:11:55 GMT",
       "image": ""
     }
   ],
