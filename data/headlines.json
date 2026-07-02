@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-07-02T06:22:58.924544+00:00",
+  "generated_at": "2026-07-02T09:40:42.729800+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Premier Calls Out ‘Hate’ and ‘Vicious Commentary’ Directed Towards Health Minister",
+      "link": "https://vocm.com/2026/07/02/premier-calls-out-hate-and-vicious-commentary-directed-towards-health-minister/",
+      "snippet": "The premier is addressing what he calls \"deeply personal and often vicious commentary\" directed at the health minister regarding parental access to a ...",
+      "pub": "Thu, 02 Jul 2026 09:24:15 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/premier-5.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Canada Post No Longer Accepting Packages Addressed to Some EU Countries",
+      "link": "https://vocm.com/2026/07/02/canada-post-no-longer-accepting-packages-addressed-to-some-eu-countries/",
+      "snippet": "Canada Post is no longer accepting parcels destined for a dozen European Union countries due to new customs requirements. Packages addressed to Austri...",
+      "pub": "Thu, 02 Jul 2026 08:59:46 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/09/canada-post-mail-boxes-letter-postal-office.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Some Outpatient Surgeries, Bloodwork Appointments at Janeway Children’s Hospital Cancelled",
+      "link": "https://vocm.com/2026/07/02/some-outpatient-surgeries-bloodwork-appointments-cancelled-at-janeway-childrens-hospital/",
+      "snippet": "Some services at the Janeway Children's Hospital have been rescheduled due to flood damage at the facility. Clean-up efforts are underway after a wate...",
+      "pub": "Thu, 02 Jul 2026 08:46:30 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/janeway-pediatric-emergency-room-hospital-main-entrance.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RCMP Investigating Vandalism at Gander Ball Field",
+      "link": "https://vocm.com/2026/07/02/rcmp-investigating-vandalism-at-gander-ball-field/",
+      "snippet": "Police in Gander are seeking information after someone broke in and vandalized a building under construction at the local ball field. It's believed th...",
+      "pub": "Thu, 02 Jul 2026 08:37:47 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/06/RCMP-badge-patch.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "In-Person Services Expected to Resume This Morning at Urgent Care Clinic",
+      "link": "https://vocm.com/2026/07/02/in-person-services-expected-to-resume-at-urgent-care-clinic/",
+      "snippet": "In-person services are expected to resume at the Urgent Care Clinic on Stavanger Drive today. Patients who arrived at the clinic yesterday were given ...",
+      "pub": "Thu, 02 Jul 2026 08:31:24 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/east-end-urgent-care-centre-clinic-old-costco-building-stavanger-drive.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "July 2, 2026 – Will you be participating in the recreational food fishery this year?",
+      "link": "https://vocm.com/2026/07/02/july-2-2026-will-you-be-participating-in-the-recreational-food-fishery-this-year/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13127').",
+      "pub": "Thu, 02 Jul 2026 08:00:32 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/07/dfo-food-fishery.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Immediate Fire Ban Issued for Labrador",
@@ -19,115 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Fireworks Cancelled in Metro Due to High Fire Hazard Rating",
-      "link": "https://vocm.com/2026/07/01/fireworks-cancelled-in-metro-due-to-high-fire-hazard-rating/",
-      "snippet": "Fireworks in metro for this evening are cancelled. The fire hazard index rating for the Avalon Peninsula has been upgraded to high and as per governme...",
-      "pub": "Wed, 01 Jul 2026 16:27:58 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/01/fireworks-stock-1.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Wakeham Requests Assistance from Other Provinces in Battling Labrador Wildfires",
-      "link": "https://vocm.com/2026/07/01/wakeham-requests-assistance-from-other-provinces-in-battling-labrador-wildfires/",
-      "snippet": "Fire suppression efforts continue in Labrador West today with Mother Nature also providing some relief. Environment Canada is forecasting showers in t...",
-      "pub": "Wed, 01 Jul 2026 15:41:56 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/premier-tony-wakeham-house-of-assembly-march-5-2026.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Hundreds Turn Out for Memorial Day Ceremony in Downtown St. John’s",
-      "link": "https://vocm.com/2026/07/01/hundreds-turn-out-for-memorial-day-ceremony-in-downtown-st-johns/",
-      "snippet": "Hundreds gathered in downtown St. John's on this Memorial Day to mark the 110th anniversary of the Battle of the Somme. The day honours the soldiers o...",
-      "pub": "Wed, 01 Jul 2026 14:29:16 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/wreath-laying-nurse.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "RCMP Investigating Snowmobile Theft in Charleston",
-      "link": "https://vocm.com/2026/07/01/rcmp-investigating-snowmobile-theft-in-charleston/",
-      "snippet": "Clarenville RCMP are looking for suspects after a snowmobile was stolen from a commercial building in Charleston earlier this month. Police were calle...",
-      "pub": "Wed, 01 Jul 2026 14:09:58 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/12/Police-RCMP-Car-Cruiser.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Tech Expert Recommends Keeping Digital Record of Important Documents Prior to Travel",
-      "link": "https://vocm.com/2026/07/01/tech-expert-recommends/",
-      "snippet": "It's a traveller's worst nightmare - being far from home and losing important personal documents. Losing an important ID, passport or airline ticket c...",
-      "pub": "Wed, 01 Jul 2026 13:20:34 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/01/travel-passport-suitcase.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "2.3 Per Cent Rate Increase Takes Effect at Newfoundland Power",
-      "link": "https://vocm.com/2026/07/01/2-3-per-cent-rate-increase-takes-effect-at-newfoundland-power/",
-      "snippet": "Your power bill is going up starting today. The Public Utilities Board approved an overall rate increase of 2.3 per cent earlier this year and Newfoun...",
-      "pub": "Wed, 01 Jul 2026 12:44:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/newfoundland-power-generic-june-3.png"
-    },
-    {
       "source": "Google News Canada",
-      "title": "U.S. declines CUSMA renewal, cites deal’s ‘shortcomings’ - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaXpSamdwdTU1YmJKeXh2S0wwQjQxZWNubDgtUEFBTlVNbF9zZ3ItQUQ5enR2bEE1RGgtNDN6RlpYVFBZMGlDa0F2ZW84VjQ5empKVW5FQ0xLMEV5ZlVGcEhXNmpmU21HRVRVVHdfdjZNRExxYjAzeDNpcVU3LW54c1hMSHlDeUpwRWFadFBvcVVNY1h5ZWZpRmo4MkpzQm5JTUN4bTZB?oc=5",
-      "snippet": "U.S. declines CUSMA renewal, cites deal’s ‘shortcomings’ &nbsp;&nbsp; CTV News U.S. declines to extend CUSMA trade deal with Canada, Mexico &nbsp;&nbsp; CBC U.S. won’t renew USMCA,",
-      "pub": "Wed, 01 Jul 2026 23:51:16 GMT",
+      "title": "US blocks long-term renewal of North American trade deal - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2TlNON3RPdjZTWktFcFl1SWJrWkRQOXEtY1ZpVFdpcl9pVHhPbTRIZnpKZ3pEdTZ1SVFYOHlJN194b1VvMEp3c0Q2WkFuQ2pjU1VHQ0JRUURlUQ?oc=5",
+      "snippet": "US blocks long-term renewal of North American trade deal &nbsp;&nbsp; BBC Trump isn't extending CUSMA trade deal, so what happens now? &nbsp;&nbsp; CBC U.S. won’t renew USMCA, open",
+      "pub": "Wed, 01 Jul 2026 18:56:36 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "'Extreme weather' wipes out Ottawa's Canada Day activities, including fireworks - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPam1WamhQNkRiTnpFWXlHS1hjN1V1VC1mY2J3YmxTb1huVHpaLVptOFhheV9EeG9KcXI3MFZZTHoxeFBaZGx0VlVRRXpXcmd4Wmswd0FMOU90RUVWbUFBMjd3WGU5OXJ5QWtMcXNmZDNpLUJabENzNjZVMFNaZzBVMUh0djBzVkI3dDIzZkZXS2ZUX28?oc=5",
-      "snippet": "'Extreme weather' wipes out Ottawa's Canada Day activities, including fireworks &nbsp;&nbsp; CBC Canadian Heritage cancels Canada Day evening show at LeBreton Flats, including fire",
-      "pub": "Wed, 01 Jul 2026 19:21:00 GMT",
+      "title": "Russian Missile and Drone Barrage Kills 13 in Kyiv, Rescuers Hunt for Survivors - Kyiv Post",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CS3AzakxDVWtUZWV0WkF5ZXIxazZENDQ0S0NUY0xaUC1hbktxVldDcnY2U1VidngwTGxzbHR3VWtxeDRlWXhEM3hSMA?oc=5",
+      "snippet": "Russian Missile and Drone Barrage Kills 13 in Kyiv, Rescuers Hunt for Survivors &nbsp;&nbsp; Kyiv Post At least 13 killed in large-scale Russian missile and drone strikes on Kyiv &",
+      "pub": "Thu, 02 Jul 2026 08:14:07 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’ - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN1hJSG1zb3B3azJTOC1YWFRYa09tRjJSMGRzeGtKeS0tczhMQTNCcVlUN1lDak1KdG1fWFBxeDZrdHhlcE5jRmZIUGJfWXQ0V1A3UWljTjZ4MEx5MXBmbTF6c2hsOVNORWdNU0E4VzRYaUZLMUFyNFJxLVJHeXZSbFVNUGE4MV9OQTFJSm5oYkFJcjFJRUI4ejNla3VIbUZFcFd6U3Ixa1dRbXBSUEJ30gG0AUFVX3lxTE1OMnNtUlJMbmpDMVliemJPV29fbGU0Wno0Sk1oZ0JsRVpLdXFKdDFRMmNJUmJSWUI1LVpCc3BnU2YxMkNsSjRvaWRGbXQxbDdoUUVOcUxOdDJLRDd5YWVfSDlFcHVwS2ZsVkRXV1BMUTNvTUlockFaZGJKZk52cVNKeUp4LUt4TmU3NENnS3JmaTEwVVRVVmFoNXgxY2ljbWNWNGc4SHdvNEE1YXNoTDBselhyTQ?oc=5",
-      "snippet": "Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’ &nbsp;&nbsp; Al Jazeera Russia launches deadly large-scale missile strikes on Kyiv &nbsp;&nbsp; BBC Russia",
-      "pub": "Thu, 02 Jul 2026 05:26:15 GMT",
+      "title": "Trump's New Air Force One Jet Mocked With Brutal, But Accurate, Nicknames - HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMHU2enFfUmFDdnZrSFRUTDNhbHF2MFd4dmNOeEF2UDBQcURicmZlM1VScFFqcV9fZHJ0MC1uaHViTzBiR1M1cTNQOUwxa0xXRHFpSFN5WjlVWm9sdjRHRnF2akpiMDRycENKdkluR1pYdUkzbk5FV1pQV1hYaTh2bExDQlNGeVZQdVJlazVSLWhUVExSSWdCYjNPaVNjNXN3eTVHbUJ0V2RoVTJjZG5mWnhqSGEzSUhvSFV0RNIBwgFBVV95cUxQNEpMbDB4SnEtaGRzdU8wOTdPaTlVSnYtT2VFZlVIN3BMRkFwWjFQNmRBYnhJTy1BYnVMVnVfVDBNanZBc1NRUXBEdzY2WjB1MXFIZnFZMU5NQ3J6dDJoWUR6OWZDX2hENnNtMThlVEc1Y28wUWcwQlJ1RUY3NnlxRnprc3ZiemEybWVOZUtTRjkzT2lRS2RrdUxjcFdHZWgtc0U4X1JNMDRYTXgwUHhCUF9IZE5GTi1oOXA2Qnp2clJBZw?oc=5",
+      "snippet": "Trump's New Air Force One Jet Mocked With Brutal, But Accurate, Nicknames &nbsp;&nbsp; HuffPost Trump says US ‘couldn’t build a plane like this’ as Qatari-gifted Air Force One emba",
+      "pub": "Wed, 01 Jul 2026 22:12:47 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Severe thunderstorm warnings issued for Toronto and GTHA - CP24",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3N1STB0NUNlQVVPM0gxbnZKR2NpZ2ZuNmRZZ3Nab09LRVNfUkwzY19wN2FJWWc0ZENHSjRwc0J6NENTNnFwZVNkTDk5VlhlZ0JMajRIYmh1SzFnX2NrczlsRTQ1WWRfV2NTY3hYSkhlb2k4VUtJSDBIRTJkVlBoRmZzZHVYV0dKNHlQcnNYUGVEZTZkeUtfRTdFTHM1ZFRnNWN4Vw?oc=5",
-      "snippet": "Severe thunderstorm warnings issued for Toronto and GTHA &nbsp;&nbsp; CP24 Severe thunderstorms could bring damaging winds, heavy rain &nbsp;&nbsp; Guelph News Tornado warning ends",
-      "pub": "Wed, 01 Jul 2026 21:40:25 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Dangerous heat blankets Canada as alerts remain in effect - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnpqakd4V0o1Y2pFSEFxQjNqMUpnbE02T3hsa09UaVJSQmxGbXJUTUZOY01BVkNiQVRxQ2Q4X09KQ2x0VWx4REViYnAwZjdRbGlfU3BaRVAxWEk3OERvNllvdHJWNkhNSURtMDVad3VUQW1RaW9YZThFeHJnNEJ1VHJ5LXhIaGpMRmxWUkxjQkRUMHNJYTJOZHBxYkNONUZGR2psS2E1RUVhaXEyVEtOZlUwMA?oc=5",
-      "snippet": "Dangerous heat blankets Canada as alerts remain in effect &nbsp;&nbsp; CTV News It's hot, hot, hot on Canada Day. Here's how some people plan to handle the heat wave &nbsp;&nbsp; C",
-      "pub": "Wed, 01 Jul 2026 21:05:48 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Prime Minister Mark Carney's planned Edmonton Canada Day visit kiboshed by weather - Edmonton Journal",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVUdhcHQtTHZBQ05xdEhMTE82d2RDSDhhdzdhUE1VVDlmaDktb1I3LXpmS1NsVDRZUnRodVgyYzhIb2NBR3RWekRzVUpfV2RiWEpsXzEwRGYwaUFmM3I3ZFBFTjJ3NVlnWjE4SVdHM0NDSVZCc0hjNjFPU0Nha01oSkJBeE5Pc3hWTHBhaGxBOHhSYmx4Zmd6UGxnMVVPMjQ?oc=5",
-      "snippet": "Prime Minister Mark Carney's planned Edmonton Canada Day visit kiboshed by weather &nbsp;&nbsp; Edmonton Journal Canadians mark Canada Day as Carney urges unity, heat grips Central",
-      "pub": "Wed, 01 Jul 2026 22:52:23 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "'Please leave immediately,' town of Swan River tells some residents as floods hit Parkland region - CBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNFR6N0hrOVJjOEF2UU5jTi1GS0c4bm1iMWoyWWpiNGRzNks3TFZIRWpNc3ZsUGhnTXRVNUpaNW1PNTBpdHBYSVFMZTY0eWdEVHVGdTN6eFFab2pfUU11bEczaWVjd2RvbE9zYzEzU1BsZktPUFRQb3BTZC1DY3hHY3pSZw?oc=5",
-      "snippet": "'Please leave immediately,' town of Swan River tells some residents as floods hit Parkland region &nbsp;&nbsp; CBC Dauphin flooding 'as bad as I've ever seen it,' mayor says as cit",
-      "pub": "Wed, 01 Jul 2026 21:22:00 GMT",
+      "title": "Carney praises connection in a 'divided world' as Canada Day celebrations underway - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORXdPbUhhdkgxbjM2dWtJZXY4OWZIdG1Ednp0UzJmdHBpcFcyeENWNFN4S1hBeVJOZjFvLVp5TGp0YjI2TE5HNkFjYlZxa052U3hWbUk5ZmVPUWdtTkwwSmkzX3lkeFNQbkFXQ1hkNEFYdWlhYmJ3UW9SUUpJVUdFRkpWRQ?oc=5",
+      "snippet": "Carney praises connection in a 'divided world' as Canada Day celebrations underway &nbsp;&nbsp; CBC Canadians mark Canada Day as Carney urges unity, heat grips Central Canada &nbsp",
+      "pub": "Wed, 01 Jul 2026 20:00:01 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Alberta separatists trade red for blue on Canada Day - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkdlSW9YSXRIOGVYaHdhYU42NTBhSjh2SHFnN1FlVi1RZ1kxWmJtT0hyNWRJaTJZMldEZkxpSlFVenZsZkFfNmVxaTBJdzJmSnpHdFY4T0xoWER4Vlk3clJHTFBHVkVmLUF5ZGJfRVhMVDRGeTdqUnF0b0JxNHJNUkM3SnlOVm4zeThVWmUxbHdDVlpDMXhyUGppS1AxWDBfWFZMRnlCY2dicTdX?oc=5",
-      "snippet": "Alberta separatists trade red for blue on Canada Day &nbsp;&nbsp; The Globe and Mail Canada Day celebrations lead to call to action ahead of Alberta separation vote &nbsp;&nbsp; CT",
+      "snippet": "Alberta separatists trade red for blue on Canada Day &nbsp;&nbsp; The Globe and Mail Albertans express patriotism, melancholy on Canada Day amid talk of separation &nbsp;&nbsp; CBC",
       "pub": "Thu, 02 Jul 2026 02:31:11 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Dangerous heat blankets Canada as alerts remain in effect - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnpqakd4V0o1Y2pFSEFxQjNqMUpnbE02T3hsa09UaVJSQmxGbXJUTUZOY01BVkNiQVRxQ2Q4X09KQ2x0VWx4REViYnAwZjdRbGlfU3BaRVAxWEk3OERvNllvdHJWNkhNSURtMDVad3VUQW1RaW9YZThFeHJnNEJ1VHJ5LXhIaGpMRmxWUkxjQkRUMHNJYTJOZHBxYkNONUZGR2psS2E1RUVhaXEyVEtOZlUwMA?oc=5",
+      "snippet": "Dangerous heat blankets Canada as alerts remain in effect &nbsp;&nbsp; CTV News Heat wave gripping much of Ontario, Quebec tracks east to Maritime provinces &nbsp;&nbsp; CityNews H",
+      "pub": "Wed, 01 Jul 2026 22:55:05 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Dauphin flooding 'as bad as I've ever seen it,' mayor says as city declares local state of emergency - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTU4SmcyRU53bkxKVDR1Y2dMM3lqZlhUSXhEcWNzWTdybTJBa01GdW1MOFBfcFdQZVZDQkRoLWk0OGJDbDZ6Q3dOV3hUNUdUczZxRFpQWWhFbGltM1FYYXg3RlRsLXF2VG1tb0VoNVNkVG9jYWUxVHRxVWhJOTNTZElIVVgxbzlwazJSMF9n?oc=5",
+      "snippet": "Dauphin flooding 'as bad as I've ever seen it,' mayor says as city declares local state of emergency &nbsp;&nbsp; CBC 'Please leave immediately,' town of Swan River tells some resi",
+      "pub": "Wed, 01 Jul 2026 21:52:44 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Severe thunderstorm warnings issued for Toronto and GTHA - CP24",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3N1STB0NUNlQVVPM0gxbnZKR2NpZ2ZuNmRZZ3Nab09LRVNfUkwzY19wN2FJWWc0ZENHSjRwc0J6NENTNnFwZVNkTDk5VlhlZ0JMajRIYmh1SzFnX2NrczlsRTQ1WWRfV2NTY3hYSkhlb2k4VUtJSDBIRTJkVlBoRmZzZHVYV0dKNHlQcnNYUGVEZTZkeUtfRTdFTHM1ZFRnNWN4Vw?oc=5",
+      "snippet": "Severe thunderstorm warnings issued for Toronto and GTHA &nbsp;&nbsp; CP24 Tornado warning ends around Gananoque, Ont. &nbsp;&nbsp; CBC Severe thunderstorms could bring damaging wi",
+      "pub": "Wed, 01 Jul 2026 21:40:25 GMT",
       "image": ""
     }
   ],
