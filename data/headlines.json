@@ -1,14 +1,30 @@
 {
-  "generated_at": "2026-07-03T16:19:15.801254+00:00",
+  "generated_at": "2026-07-03T17:54:26.715940+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "Fire Reported on the Edge of Capital City",
+      "title": "NDP Calls for Better Wildfire Communication",
+      "link": "https://vocm.com/2026/07/03/ndp-calls-for-better-wildfire-communication/",
+      "snippet": "The NDP is calling on the provincial government to get its act together when it comes to communications on the Forest Fire index and getting informati...",
+      "pub": "Fri, 03 Jul 2026 17:38:45 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/labrador-west-wildfires-2026-via-terry-spurrell.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "St. John’s SPCA Moving to New Home",
+      "link": "https://vocm.com/2026/07/03/st-johns-spca-moves-to-new-home/",
+      "snippet": "Officials at the St. John's SPCA are excited for the expanded capacity that will come with their new facility on East White Hills Road. Between now an...",
+      "pub": "Fri, 03 Jul 2026 16:45:19 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/07/new-spca-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Fire Reported in Area of Cochrane Pond",
       "link": "https://vocm.com/2026/07/03/fire-reported-on-the-edge-of-capital-city/",
-      "snippet": "Callers to the VOCM Newsroom say there is a forest fire burning on the edge of St. john's. It's in the Paddy's Pond - Cochrane Pond area. People who w...",
+      "snippet": "There is a fire burning on the edge of St. John's. It's in the Cochrane Pond area, and is believed to be a trailer and a shed. People who were driving...",
       "pub": "Fri, 03 Jul 2026 16:11:25 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/badger-forest-water-bomber-wildfire-june-2025-2.jpg"
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/02/st-johns-regional-fire-department-earl-noble.jpg"
     },
     {
       "source": "VOCM",
@@ -51,27 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/labrador-west-wildfires-2026-via-terry-spurrell-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "RNC Searching for Missing West Coast Man",
-      "link": "https://vocm.com/2026/07/03/rnc-searching-for-missing-west-coast-man/",
-      "snippet": "The Royal Newfoundland Constabulary is seeking the public's helping locating a missing man from Corner Brook. Forty-five-year-old Jason Benoit is 6' t...",
-      "pub": "Fri, 03 Jul 2026 14:28:58 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/jason-benoit-missing-man-july-2026-rnc-photo.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Kelligrews Soiree Kicks Off in CBS",
-      "link": "https://vocm.com/2026/07/03/kelligrews-soiree-kicks-off-in-cbs/",
-      "snippet": "It's that time of year again, the Kelligrews Soiree kicks off today in Conception Bay South. The annual event features over a week's worth of activiti...",
-      "pub": "Fri, 03 Jul 2026 13:33:16 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/07/kelligrews-soiree-via-facebook.jpg"
+      "source": "Google News Canada",
+      "title": "One more super-muggy day forecast before some relief - CBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDRFUFVwb1hJTEs4WFVKSjhON002aU5DRUgxdXNUS0NrWGdKcmIwUUNlak5KdkFuN2Y0TElHUmpZSzBqTFNFeC15T043TnNhcFRLWnVUa3RrN2R4MzFWOG5BR0QwMkRxRXN0SnRQMktIZTVUbG9JYS0yb3VKbDhieTZ1NUEtUGVOOHc1N3pNNURRbFZHLWRKRXR1YlNYWkk?oc=5",
+      "snippet": "One more super-muggy day forecast before some relief &nbsp;&nbsp; CBC How the Toronto heatwave is affecting your brain, heart and organs, hour by hour &nbsp;&nbsp; Toronto Star WEC",
+      "pub": "Fri, 03 Jul 2026 12:00:10 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking - CBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcHh0MzFUaERMZlpCNE1Sb1dQQ1E0dE1nWmVmdExjb1l4NDlkdXBPbUVlSnlsRlhwM3ktYTVGUXpRcnB4Q0QybVI3MVBFQUcyVUFMWmJ6V2s5a2NYSm1iUUJtTmtUdHhTVEVBaFlIaGFwMVBtWjZkNXpEQVU2MlNOUw?oc=5",
-      "snippet": "Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking &nbsp;&nbsp; CBC U.S. ambassador to Canada hopeful two sides can ‘put together ",
-      "pub": "Fri, 03 Jul 2026 15:40:11 GMT",
+      "title": "U.S. ambassador to Canada hopeful two sides can ‘put together a great’ deal - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUzA1dkNfNkVINklIajNHVU9kbzVSMlRtTUtyLTJCdUYtVWJaeWJjX2Q4eGdJamZHWWJ2LWhRS21BblhNN1FUNnZScEVHSklvVTRia3lkTkh2QkdvOFd6ZndSMzFIQjd0UDlXTFNBeUYyZUJKTUN2T2tEbHJWekRfbE5sQjRUQy02dTRnREE4aWtkanBvX3d5SldLWERXX1kweDFSRmhVbmEyX0Q2emxR?oc=5",
+      "snippet": "U.S. ambassador to Canada hopeful two sides can ‘put together a great’ deal &nbsp;&nbsp; CTV News Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.",
+      "pub": "Fri, 03 Jul 2026 14:15:58 GMT",
       "image": ""
     },
     {
@@ -79,47 +87,31 @@
       "title": "Sentencing set to begin for Burlington, Ont., couple guilty of murdering boy, torturing brother - CBC",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83UVE5MFNMd1hjNmhQRE5hTDBwcVVVa3JsQkVnVkZVWVlHZXZqelo0MUxrNHg5dVVBSDZMZmMxTS00aFY3NmVlSWU5enJTUF8wUEhYOGJIUVdLeDVhU0RuZEt6VlVRQ2IzVWZrLTZnMmxGbE02QUt0RndNT3M0MEE?oc=5",
       "snippet": "Sentencing set to begin for Burlington, Ont., couple guilty of murdering boy, torturing brother &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Fri, 03 Jul 2026 13:37:10 GMT",
+      "pub": "Fri, 03 Jul 2026 15:54:07 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Woman rescued after being held hostage for 14 hours at Ottawa home: police - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0dNMlo4ZjVFN0JDeTdPVmozbk9QUUt5enlQVG90OU41ZjdlU0RPalhxVjdTQnBacXpzazgzN0psbDBmcEZ2MkxMTWs2anZSOWNiZlF6UkV6WV9QZ2phRFQtX3FVUHUxR19XMTV1MmE2VWxYb0YxQ1BZaG4zZDFROVlCVUdiR2dsRXJRZFptS1FfcnVTN1d1TlBpcXRVaWdNVmlUdHdjQXJNNkE2RThlX0hB?oc=5",
-      "snippet": "Woman rescued after being held hostage for 14 hours at Ottawa home: police &nbsp;&nbsp; CTV News Hostage-taking concluded on Finlayson Crescent &nbsp;&nbsp; Ottawa Police Service W",
-      "pub": "Fri, 03 Jul 2026 10:31:19 GMT",
+      "title": "Ottawa police rescue woman held hostage for more than 14 hours - Global News",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44VnpmdXN6Zms3cWJUdEdYR3JuLUpIVmdjUGxPTUdGNC1KZEN3TzdaalhnT2ZfS1BYbWNTZ2xXTnJBZnJTZ2l1aUg2YTdZQV95aUpJQUIwOWJUUm9Ba1pCZkI4UDd5MC02dlJCWmx5MUdEV3M?oc=5",
+      "snippet": "Ottawa police rescue woman held hostage for more than 14 hours &nbsp;&nbsp; Global News Woman rescued after being held hostage for 14 hours at Ottawa home: police &nbsp;&nbsp; CTV ",
+      "pub": "Fri, 03 Jul 2026 14:25:33 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "'Right under our noses and nobody was able to help them.' 16 kids found in squalor shocks Ohio town - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWEktSkswbUEzbmk5SGlHeG1nUlZuSkVVMFgwSHljck91cGlBRlR0ZmtMbnNWWWk1bi1JMngxd2xSdEJickRMLXI1VFREQW5yTVYtY01xdEtycnlTNGZGR2hSTWlDU3NxWnViU2NDN3ZocmswclU4Y2UzZVFyTng1a3NKamVaNGRBbklXY0dhTUdERTZFRWsyaER2YVV3cUM4ZWl0b2lZeXY0SjFXdmdESl9hcGVnU0R5NVdLR1M2aFlFSWxPUUxyMFE3WlVWU0E?oc=5",
-      "snippet": "'Right under our noses and nobody was able to help them.' 16 kids found in squalor shocks Ohio town &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Fri, 03 Jul 2026 10:56:48 GMT",
+      "title": "Winnipeg resident trapped in Duck Mountain Provincial Park after floodwaters wash out roads - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRm1BNjc2NmlFdEc0QW5vMkVWakQ2eTF2dGNyRmJrZ254YWpWS2JSQ2JSdnAzLTJjWXVDRFNENlIzSFdzRHFEbzlNTndSak5kenFhWVYzVmpTZlhNWHZvR0dqN0N4YXVfazhzdVROR1RsVEM0UkN0TC0tVHc1blN3bm91ZFVXOElaQVFOWk5BMHdHLWNqYUZrSEdaeUJ3cDN4N0k5SzdTQnN3bmQ5ZHRNdi16NTJiUFFCTF9kVDBITnRJUEpRQ0RqRE1KV1A?oc=5",
+      "snippet": "Winnipeg resident trapped in Duck Mountain Provincial Park after floodwaters wash out roads &nbsp;&nbsp; CTV News Extreme weather causes widespread disruptions from the Prairies to",
+      "pub": "Fri, 03 Jul 2026 13:57:06 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Rollout of Canada’s boosted grocery benefit starts today - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzJxa0p6ZkVEanZwY1lrWUJWVWUwdHhDMFdwZnZCTm1zRnNTRHJJc05xMU9GaWN0aktMWm1iYkJzaU9FbEQ3cDA1bUpzYVFBLTVhX1drbnhQc1lXTERWdXp4aDN3c1luQXhYX1o5dTFkVUdFZHhTSGplbVhUa24yTWx2Q0YxLXpEeTJxbkgySG0ycG5ibGxFaS1Td3Q?oc=5",
-      "snippet": "Rollout of Canada’s boosted grocery benefit starts today &nbsp;&nbsp; CTV News First Canada grocery benefit payment arrives this week - National &nbsp;&nbsp; Global News First Cana",
-      "pub": "Fri, 03 Jul 2026 13:51:28 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Heat wave gripping much of Ontario shows no signs of letting up - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0NBU2c0TEl1ajEzdVZVbG5zRzhZSlYxd2VULVdWTXlYak1mRW9jVWEwNVRQX25KWkRSa0NaWDRlZHVFRWNWS3JUTnZ2WFVIVHRmVFdvTmFnV092QlZwYk16b0lia2otekVXS0xtN0pyUUZNZXJURDhsLVZ5RVlMSDJZRGNVZndQU19NREZ4Q1FPS2JWdE9aOVV4eXl6bDlvMzl3bXVxV19sNUh0eFJKUFVrZFh5QQ?oc=5",
-      "snippet": "Heat wave gripping much of Ontario shows no signs of letting up &nbsp;&nbsp; CityNews Toronto Relief from Waterloo Region heat wave finally arriving this weekend &nbsp;&nbsp; CityN",
-      "pub": "Thu, 02 Jul 2026 08:01:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "What's behind all the wild weather in Canada this summer? - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYW5LTnBmdDNZOXVzalYwbjZUQktfbjlUelJULXFnNlR5M3hQVUdPdnlFTko3ZnJkUXZnNnl0RGJxN0dsQ2lVN2p0OWhpSFd4UGFJUzVaT3dtVlcyUVgtcUNldmY4SnRsMFF0bm1xcGYzQnBqNkN4cFBRMkxkeHNuSnhNMkp0emxlR0hLdw?oc=5",
-      "snippet": "What's behind all the wild weather in Canada this summer? &nbsp;&nbsp; CBC",
-      "pub": "Fri, 03 Jul 2026 13:06:10 GMT",
+      "title": "Rob Breakenridge: OK, Carney, now approve the pipeline for real - National Post",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOFlGNkNKSkhkc294ejF1N1FhRDljUV92VktWVGJGMjR0MnJUckNBalM5T3FoYThhb3FnV1B4elhNLW1uMFpIVzllckNuYzBJX3JkR21RRHBoNnZqWk95MjFMd1hSNm1SZV9NalRKU3VacUNyM01Bb0FmeHAwZnMtU3RKTHVzQVQySTNORTRaVlhON1BvbGh4Yw?oc=5",
+      "snippet": "Rob Breakenridge: OK, Carney, now approve the pipeline for real &nbsp;&nbsp; National Post Pipelines faced key challenges in the past. Can Alberta’s overcome them? &nbsp;&nbsp; Glo",
+      "pub": "Fri, 03 Jul 2026 14:08:52 GMT",
       "image": ""
     },
     {
@@ -128,6 +120,14 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVpseW9lbUlxOXF6ZW04VGZqNTU1TWRsQmFvTDE1NG5nbkw0QUhDQ3l2akJIOC1XcUVnUHE2dUpzaFNVQzhEd0NNcHFDeXZDTjlMSjRibXRFVzBKWUJkYmVEOS1wRlFPUVhEVklOd2NoUjRFSVF5Ym9UX3VWY2N1VUZPNHEyU2l4ZlUxT1lMdUsya0ptOVow?oc=5",
       "snippet": "Edmonton traffic stop leads to extortion-related arrest &nbsp;&nbsp; Global News Man charged with extortion, conspiracy to commit murder after traffic stop in Edmonton: Peel police",
       "pub": "Fri, 03 Jul 2026 00:02:48 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "‘It’s frustrating’: Kitsilano Beach assault case raises questions about bail as federal reforms near - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjR0dTF4S1V2UWZiajhVM1VqV0RlM2tVaUNsdDVkdkRFRTNfR0U0MXdWQUtrdmpPTGJOSTdzdmRuZGpLa29Yd2JVeTZrZFBOYm83VElnUWxxd0p2V0FMcGxGRnNjWFFKbnpMVzNiS1hBY3pYQXkzdEZsczd2eTlzUC1MUDV6djRiU21GUlVhNVlGbU0yc3RndWFRTFk2Ry1kQ2FRSGZMNXZNb0RoTXF1UW1fZlJ6aEZ1UzlKYTJPTVBjaUtuZC1XMHRyMzhfU1lON1ZyNg?oc=5",
+      "snippet": "‘It’s frustrating’: Kitsilano Beach assault case raises questions about bail as federal reforms near &nbsp;&nbsp; CTV News ‘He could be here any moment’: Vancouver woman fears for ",
+      "pub": "Fri, 03 Jul 2026 01:26:00 GMT",
       "image": ""
     }
   ],
