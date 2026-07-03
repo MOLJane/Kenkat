@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-07-03T06:07:54.043173+00:00",
+  "generated_at": "2026-07-03T09:39:42.977659+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Hot and Humid Temperatures in Store Today",
+      "link": "https://vocm.com/2026/07/03/july-3-weather-story/",
+      "snippet": "It's going to be hot and humid couple of days across most of the province. Daytime highs in eastern, central, and western Newfoundland today will be i...",
+      "pub": "Fri, 03 Jul 2026 09:25:33 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/08/warm-sunny-day-sunshine-blue-sky-2-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Bannerman Park, St. Pats Ball Field Shut Down for Japanese Beetle Treatment; Swimming Pool Remains Open",
+      "link": "https://vocm.com/2026/07/03/bannerman-park-st-pats-japanese-beetle/",
+      "snippet": "One of the most high-traffic areas of the metro region will be closed down for most of today while Japanese Beetle treatment occurs. Bannerman Park, i...",
+      "pub": "Fri, 03 Jul 2026 08:56:44 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/04/bannerman-park-canteen.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RNC Ticket Driver for Stunt Driving on Kenmount Road",
+      "link": "https://vocm.com/2026/07/03/rnc-stunt-driving-kenmount-road/",
+      "snippet": "A man has been ticketed after the RNC say they caught him doing a burn out in the middle of Kenmount Road. The vehicle was pulled over just after 9:30...",
+      "pub": "Fri, 03 Jul 2026 08:49:01 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Fuel Prices Drop Overnight",
+      "link": "https://vocm.com/2026/07/03/fuel-prices-drop-overnight-2/",
+      "snippet": "Fuel prices are down slightly across the board this morning. Gas is down by a cent. Diesel on the island is down by 2.5 cents and in Labrador its down...",
+      "pub": "Fri, 03 Jul 2026 08:43:05 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/gaspump.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "July 3, 2026 – Do you think the level of communication from the provincial government regarding wildfires in the province has been sufficient?",
+      "link": "https://vocm.com/2026/07/03/july-3-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13130').",
+      "pub": "Fri, 03 Jul 2026 08:00:00 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/provinces-5th-waterbomber-in-flight.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Evacuation Orders Lifted for Some Areas Outside Labrador West",
@@ -27,44 +67,12 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/labrador-west-wildfires-2026-via-terry-spurrell.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "St. John’s Canada Day Fireworks Cancelled",
-      "link": "https://vocm.com/2026/07/02/canada-day-fireworks-cancelled/",
-      "snippet": "The Canada Day fireworks in St. John's have been cancelled. The display was postponed yesterday due to the fire weather index being in the high catego...",
-      "pub": "Thu, 02 Jul 2026 16:52:14 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/05/fireworks-stock.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RNC Appealing for More Information into Mount Pearl Walking Trail Robbery",
-      "link": "https://vocm.com/2026/07/02/mount-pearl-walking-trail-robbery/",
-      "snippet": "The Royal Newfoundland Constabulary is appealing to the public as they gather more information related to a robbery on a Mount Pearl walking trail las...",
-      "pub": "Thu, 02 Jul 2026 15:53:23 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/admiralty-walking-trail-robbery-mount-pearl.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Local Veterinarian Recommends Keeping Pets Out of Summer Heat",
-      "link": "https://vocm.com/2026/07/02/local-veterinarian-recommends-keeping-pets-out-of-summer-heat/",
-      "snippet": "The mercury is finally creeping up towards more seasonable values, meaning humans and pets are now faced with the challenge of adapting and beating th...",
-      "pub": "Thu, 02 Jul 2026 13:52:06 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/dog.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Police Hoping Public Can Help Identify Break-In Suspects",
-      "link": "https://vocm.com/2026/07/02/police-hoping-public-can-help-identify-break-in-suspects/",
-      "snippet": "The Royal Newfoundland Constabulary is looking for the public's help identifying suspects of a break-in at a business in St. John's. While specific de...",
-      "pub": "Thu, 02 Jul 2026 13:22:09 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/break-and-enter-suspects-st-johns-rnc.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Tech Expert Recommends Using eSIM to Make Calls and Texts Abroad",
-      "link": "https://vocm.com/2026/07/02/tech-expert-recommends-using-esim-to-make-calls-and-texts-abroad/",
-      "snippet": "A local tech blogger says you don't have to break the bank nowadays in order to stay connected to a cellular network while travelling. For the longest...",
-      "pub": "Thu, 02 Jul 2026 13:19:27 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/11/cell-phone-stock-photo-iphone-text-call.jpg"
+      "source": "Google News Canada",
+      "title": "Ottawa police identify father in deaths of 2 boys as homicide investigation continues - Global News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjZCQml3OFUtVmpmb3NaZlBEd21KaE5KRE9zQk5PRkdGS2FmU1c2Uzh3a3owVFE3aUFick94UFVzdnQ2Z3NuZUE3bUdPYkZnOU5XM2Mwa1UzUGdxSjd3OHV0OXVtZ3Z2ZHlOejRTU1pEa2lFaDZxS2xhVUJtWHJhYzZMX21xR0JCd3V0b1RQeWlEVmM?oc=5",
+      "snippet": "Ottawa police identify father in deaths of 2 boys as homicide investigation continues &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
+      "pub": "Thu, 02 Jul 2026 23:52:56 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -76,10 +84,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "‘It’s frustrating’: Kitsilano Beach assault case raises questions about bail as federal reforms near - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjR0dTF4S1V2UWZiajhVM1VqV0RlM2tVaUNsdDVkdkRFRTNfR0U0MXdWQUtrdmpPTGJOSTdzdmRuZGpLa29Yd2JVeTZrZFBOYm83VElnUWxxd0p2V0FMcGxGRnNjWFFKbnpMVzNiS1hBY3pYQXkzdEZsczd2eTlzUC1MUDV6djRiU21GUlVhNVlGbU0yc3RndWFRTFk2Ry1kQ2FRSGZMNXZNb0RoTXF1UW1fZlJ6aEZ1UzlKYTJPTVBjaUtuZC1XMHRyMzhfU1lON1ZyNg?oc=5",
-      "snippet": "‘It’s frustrating’: Kitsilano Beach assault case raises questions about bail as federal reforms near &nbsp;&nbsp; CTV News ‘He could be here any moment’: Vancouver woman fears for ",
-      "pub": "Fri, 03 Jul 2026 01:26:00 GMT",
+      "title": "New Canada grocery benefit payments to hit bank accounts on Friday - Daily Hive",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsTTZRaVc4WFlxQW1ubGJsSUNKQk1UN2p0MnUwZXVBbVdTQm1YeDNkYXlpT24wMmlfUjRaV3RqWnQ5bjc1OEl0WmpQanhTTUNVWEUydTlOaTN2ZjNMQklJTllyV2tBZFljb3gtcTZnOXdNZ1AySVBv?oc=5",
+      "snippet": "New Canada grocery benefit payments to hit bank accounts on Friday &nbsp;&nbsp; Daily Hive First Canada grocery benefit payment arrives this week - National &nbsp;&nbsp; Global New",
+      "pub": "Thu, 02 Jul 2026 14:30:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "‘We’re stuck’: Winnipeg resident trapped in Duck Mountain Provincial Park after floodwaters wash out roads - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFc3S2FOcXRLS3V0ajVmMnNwNU1oX2xjWUxMeWVUX0hxa045bjc5NFR3RnpIUGtHSllMc2djeHJGWmNiemVVWkI5VlJmaF9aaTE3azJweGhobWZHTGRFTHlfYkMycmFlN2JpNnZmSmt5aWRjU3Y1UHo0ckhuWlVESFUxYzE3NExid2lGQTdEVUJnS0tTcmV3N1kxbjRuZENpb0std0NuLVpRUHNuUjJpRW9XZ2tXaHJrVXBydjktRHc4S2VTRERMT25vOU9mMURfUHZka2puMlJHUnM?oc=5",
+      "snippet": "‘We’re stuck’: Winnipeg resident trapped in Duck Mountain Provincial Park after floodwaters wash out roads &nbsp;&nbsp; CTV News 'Please leave immediately,' Swan River tells some r",
+      "pub": "Thu, 02 Jul 2026 18:46:53 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Venezuelan security guard pulled alive from building basement 8 days after twin quakes - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYi1KMGFvbEZ5QVFjakV6VVc1Y21RcThta0xaVFlqMXBwZW9tbk01TjZNeUgwdWxaN1VvbE11dTd3ZDg5VHVxMXJfNjFpaXdST1VqS1EtbjlldDQ4c2J3aUhJTE1ZVkNzVWExUG9zdDFLWllKdkM0WkQwRlZmTkllcU5PQzRxczBRMjRsRnc5UDVJVWgzYldVazM5bVJWR0xOT2I5cFRXUFpiZEY3VjdHLS1xVURjUE4ycUtqX2xIRzJVTFA1RzR6SEhEN0I0VTVaZ0lKRUFTTno0dw?oc=5",
+      "snippet": "Venezuelan security guard pulled alive from building basement 8 days after twin quakes &nbsp;&nbsp; CTV News Venezuela quake survivor pulled out alive after eight days on &nbsp;&nb",
+      "pub": "Thu, 02 Jul 2026 14:51:23 GMT",
       "image": ""
     },
     {
@@ -92,42 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Venezuelan security guard pulled alive from building basement 8 days after twin quakes - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYi1KMGFvbEZ5QVFjakV6VVc1Y21RcThta0xaVFlqMXBwZW9tbk01TjZNeUgwdWxaN1VvbE11dTd3ZDg5VHVxMXJfNjFpaXdST1VqS1EtbjlldDQ4c2J3aUhJTE1ZVkNzVWExUG9zdDFLWllKdkM0WkQwRlZmTkllcU5PQzRxczBRMjRsRnc5UDVJVWgzYldVazM5bVJWR0xOT2I5cFRXUFpiZEY3VjdHLS1xVURjUE4ycUtqX2xIRzJVTFA1RzR6SEhEN0I0VTVaZ0lKRUFTTno0dw?oc=5",
-      "snippet": "Venezuelan security guard pulled alive from building basement 8 days after twin quakes &nbsp;&nbsp; CTV News A push to identify bodies as deaths multiply in Venezuela after twin ea",
-      "pub": "Thu, 02 Jul 2026 13:52:22 GMT",
+      "title": "Update: Montreal under severe thunderstorm warning as Day 2 of heat wave rumbles to a close - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmx6QjhITFFmR1ZReHlTczZzM0pNbk1wc1pSOHdHc2U1eHVWY0poN3ozRk1SY2lIQnJabXZzNUROdTU4QVV6M0tMR3c5OEtvWWsyb2NzVDFCMXQ2NDkxLU83RTI1eXFiMFVLcDhhbFF6Z0xNRjQxV25YX0pacFR2MGZVNFZ1ZnA5UTdvYnZMXzdBT015eElPQk9lVmNjZjA?oc=5",
+      "snippet": "Update: Montreal under severe thunderstorm warning as Day 2 of heat wave rumbles to a close &nbsp;&nbsp; Montreal Gazette The peak of the heatwave in Ottawa is expected today &nbsp",
+      "pub": "Fri, 03 Jul 2026 00:54:08 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "9 monks struck and killed in Thailand by 11-year-old driver - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWm53dVpxNkgxeFNYYVRXaU1OWVhSMXRuVmlqRVpWYjdUOV95dXZBZlkyMTU0b0tpTEV1Q1g4aENnRlY2akcxWkNlSDVLaDVJcEJ6UTJWenJnSDRybmJEN0ZKc3R2ZGIxY3JZMkw5eUR1MW1DZ1VOQmxucm9IRVRHUmtR?oc=5",
-      "snippet": "9 monks struck and killed in Thailand by 11-year-old driver &nbsp;&nbsp; CBC 11-year-old boy driving a truck crashes into Buddhist monks, killing 9 &nbsp;&nbsp; Global News Nine Th",
-      "pub": "Thu, 02 Jul 2026 12:45:25 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada unveils plans for new oil pipeline to break dependence on US - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tZXY2a1Ntd0syQjhLVEk4VmZWSnd5bFFBOHRlSjFqYWk5LUJhQXpzV2ZwelhXdTFocnB4X0RZek5vZ0hNdkRXZzZGMnBTdVVyZHZVb3p1bTYxelhCRnJUS2VCdE1Qc2N4cnMwMEVwdGc?oc=5",
-      "snippet": "Canada unveils plans for new oil pipeline to break dependence on US &nbsp;&nbsp; Financial Times Government-owned Trans Mountain to lead $35-44 billion oil pipeline to BC Lower Mai",
-      "pub": "Fri, 03 Jul 2026 02:01:27 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Ottawa police identify father in deaths of 2 boys as homicide investigation continues - Global News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjZCQml3OFUtVmpmb3NaZlBEd21KaE5KRE9zQk5PRkdGS2FmU1c2Uzh3a3owVFE3aUFick94UFVzdnQ2Z3NuZUE3bUdPYkZnOU5XM2Mwa1UzUGdxSjd3OHV0OXVtZ3Z2ZHlOejRTU1pEa2lFaDZxS2xhVUJtWHJhYzZMX21xR0JCd3V0b1RQeWlEVmM?oc=5",
-      "snippet": "Ottawa police identify father in deaths of 2 boys as homicide investigation continues &nbsp;&nbsp; Global News 'I will kill everyone around you': Threat to ex by father in double-m",
-      "pub": "Thu, 02 Jul 2026 23:52:56 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "New video shows Canada’s most wanted fugitive arrested in Spain - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3d2Q0FWSnhzazFiUFNOVEJIVFVPT2xoSGZuMzRfTkF3VXlrV2lZdHBJRDlxRWRSbzItSjJaWTFYUG9HWGlTWkt0Qkxwa0xEOFdfLWNxMkhCTGM4YXJZTjJobmoyZlVNdkRnbkZpNTlZYmE1YmpPSXVKQlczZE43c2RKUmdLZlhlSmREQ0xwYktQTXZQN01MdlNfczlzWHVSanB3R0R3?oc=5",
-      "snippet": "New video shows Canada’s most wanted fugitive arrested in Spain &nbsp;&nbsp; CTV News Canada's most wanted fugitive, a Quebecer, arrested in Spain &nbsp;&nbsp; CBC Police working t",
-      "pub": "Thu, 02 Jul 2026 21:30:08 GMT",
+      "title": "Agreement between B.C. and Ottawa supports new Alberta pipeline - BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmp4NENha1NVc2ZKZ2tyMnpDQU5nXzd6MENSekoySmFuRlNEeFRsWVNiYTBFaUo1M0l6amtvUnpiN2dWRmlZR1ZneWwtU1BBTTNOUTBnWnNxaVNVLUozMm9RVXBFalVMVVFXWjRZVW5yQTFzRFR0UWJfWVJVQWUyWUFuTlJMWFR2NVp3UG5YRFBqbnR0MElYazlvRUJqZDd4cC1rMWFTVENBS1dtMTJPZ18waHpzRTRwS2E5NFNiWk5rUDZNQWZORzBxVlpzdjQ?oc=5",
+      "snippet": "Agreement between B.C. and Ottawa supports new Alberta pipeline &nbsp;&nbsp; BNN Bloomberg Government-owned Trans Mountain to lead $35-44 billion oil pipeline to BC Lower Mainland ",
+      "pub": "Thu, 02 Jul 2026 18:56:49 GMT",
       "image": ""
     }
   ],
