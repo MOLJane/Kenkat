@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-07-03T14:37:43.233467+00:00",
+  "generated_at": "2026-07-03T16:19:15.801254+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Fire Reported on the Edge of Capital City",
+      "link": "https://vocm.com/2026/07/03/fire-reported-on-the-edge-of-capital-city/",
+      "snippet": "Callers to the VOCM Newsroom say there is a forest fire burning on the edge of St. john's. It's in the Paddy's Pond - Cochrane Pond area. People who w...",
+      "pub": "Fri, 03 Jul 2026 16:11:25 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/badger-forest-water-bomber-wildfire-june-2025-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RCMP Searching for Missing Man",
+      "link": "https://vocm.com/2026/07/03/rcmp-searching-for-missing-man/",
+      "snippet": "Clarenville RCMP are seeking the public's help locating a missing man. Thirty-nine-year-old Jonathan Hillier was last seen driving a blue Hyundai Elan...",
+      "pub": "Fri, 03 Jul 2026 16:08:34 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/missing-person-jonathan-hiller.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Harvey Street Closed in Harbour Grace Due to Police Investigation",
+      "link": "https://vocm.com/2026/07/03/harvey-street-closed-in-harbour-grace-due-to-police-investigation/",
+      "snippet": "A section of Harvey Street in Harbour Grace is closed as RCMP conduct an ongoing police investigation. The closure is in effect between Kingswell Lane...",
+      "pub": "Fri, 03 Jul 2026 16:03:45 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/img-7976.jpeg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Mundy Pond Regatta Set For This Weekend",
+      "link": "https://vocm.com/2026/07/03/mundy-pond-regatta-set-for-this-weekend/",
+      "snippet": "One of the \"other\" regattas in the metro region is all set to begin tomorrow. The Mundy Pond Regatta, which had been dormant for decades, was revived ...",
+      "pub": "Fri, 03 Jul 2026 15:59:55 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/07/mundy-pond-regatta-via-facebook.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Davis Back at Council Table After Suspension",
@@ -35,36 +67,12 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/07/kelligrews-soiree-via-facebook.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Province Says Free Hospital Parking Still Under Review",
-      "link": "https://vocm.com/2026/07/03/303124/",
-      "snippet": "The provincial government says it is looking at ways to provide parking at healthcare facilities \"that does not create barriers for patients and visit...",
-      "pub": "Fri, 03 Jul 2026 13:25:08 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/05/Health-Sciences-Centre-Parking-Lot-Hospital-1.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "New Quidi Vidi Village Slipway Ready for Use",
-      "link": "https://vocm.com/2026/07/03/new-quidi-vidi-village-slipway/",
-      "snippet": "The new slipway in Quidi Vidi Village is now open. The old structure, which was some 40-years-old, was condemned by the city in 2024 due to safety con...",
-      "pub": "Fri, 03 Jul 2026 12:43:09 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/quidi-vidi-village-new-slipway-via-city-of-st-johns.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Illegible License Plate Leads to Arrest of Man Under Two-Year Canada-Wide Driving Prohibition",
-      "link": "https://vocm.com/2026/07/03/two-year-canada-wide-driving-prohibition-arrest/",
-      "snippet": "A man who was under a two-year Canada-wide driving prohibition chose to get behind the wheel regardless this week, but police caught up with him. The ...",
-      "pub": "Fri, 03 Jul 2026 12:39:35 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-1.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "NDP Raises Concerns About Provincial Government’s Wildfire Communications",
-      "link": "https://vocm.com/2026/07/03/303104/",
-      "snippet": "The NDP is questioning the manner in which the provincial government provides updates about the wildfire situation. St. John's East-Quidi Vidi MHA She...",
-      "pub": "Fri, 03 Jul 2026 12:32:19 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/sheilagh-oleary-3.jpg"
+      "source": "Google News Canada",
+      "title": "Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcHh0MzFUaERMZlpCNE1Sb1dQQ1E0dE1nWmVmdExjb1l4NDlkdXBPbUVlSnlsRlhwM3ktYTVGUXpRcnB4Q0QybVI3MVBFQUcyVUFMWmJ6V2s5a2NYSm1iUUJtTmtUdHhTVEVBaFlIaGFwMVBtWjZkNXpEQVU2MlNOUw?oc=5",
+      "snippet": "Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking &nbsp;&nbsp; CBC U.S. ambassador to Canada hopeful two sides can ‘put together ",
+      "pub": "Fri, 03 Jul 2026 15:40:11 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -78,16 +86,8 @@
       "source": "Google News Canada",
       "title": "Woman rescued after being held hostage for 14 hours at Ottawa home: police - CTV News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0dNMlo4ZjVFN0JDeTdPVmozbk9QUUt5enlQVG90OU41ZjdlU0RPalhxVjdTQnBacXpzazgzN0psbDBmcEZ2MkxMTWs2anZSOWNiZlF6UkV6WV9QZ2phRFQtX3FVUHUxR19XMTV1MmE2VWxYb0YxQ1BZaG4zZDFROVlCVUdiR2dsRXJRZFptS1FfcnVTN1d1TlBpcXRVaWdNVmlUdHdjQXJNNkE2RThlX0hB?oc=5",
-      "snippet": "Woman rescued after being held hostage for 14 hours at Ottawa home: police &nbsp;&nbsp; CTV News Ottawa police rescue woman held hostage for more than 14 hours &nbsp;&nbsp; Global ",
+      "snippet": "Woman rescued after being held hostage for 14 hours at Ottawa home: police &nbsp;&nbsp; CTV News Hostage-taking concluded on Finlayson Crescent &nbsp;&nbsp; Ottawa Police Service W",
       "pub": "Fri, 03 Jul 2026 10:31:19 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "7-year-old boy found dead after going missing in Hamilton Conservation area on Canada Day - CP24",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORUlYcVM2MWtvRmk2LTQySG9nSXU4QUJtbEkwSTRTdzV3QWJFbHVsZFIybnpDNkZWUk9MLUtpUFFpejdLSjBfWmJEVnVPSHBSazJfc1dxYjdLeXpNSEJMWWF2MUZGeVFfVWxObFczbmJwY2tscGNOZTNBbk9YT25IVGV4OHhVQnIwdkxCZVdpNFRJUWpGSXM3aFk4TllzRDdOYS1zS0dRVk5JZ2xMNUNybWRFNENPaUFUelloZjM4VmFDbERwU0E?oc=5",
-      "snippet": "7-year-old boy found dead after going missing in Hamilton Conservation area on Canada Day &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
-      "pub": "Thu, 02 Jul 2026 21:50:07 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Canada must live with ‘zombie’ trade pact but resist rushing into new USMCA deal, report says - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3JzRW5McEs3eElwd1pUTC1SUGk2QnpOaDdpTENwbHB0TXZERnN2WGJ6Z0JKVmlWLUNkTU04Vlc1UHlDeDBhellhWW43VG5KTUtCMWI3UEdBR21GbFJ3QUJzMDg3UFdZTWN1cHdldEJ2RE5OaTRGQlNtY05Gemtfb3Y5Z0RVWWwwcFlGcU1wMGxaYnhDZnpoZjl4amU5RndBb3dPTg?oc=5",
-      "snippet": "Canada must live with ‘zombie’ trade pact but resist rushing into new USMCA deal, report says &nbsp;&nbsp; The Globe and Mail U.S. flags concerns over Canada’s ties to China as it ",
-      "pub": "Fri, 03 Jul 2026 11:00:00 GMT",
+      "title": "Edmonton traffic stop leads to extortion-related arrest - Global News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVpseW9lbUlxOXF6ZW04VGZqNTU1TWRsQmFvTDE1NG5nbkw0QUhDQ3l2akJIOC1XcUVnUHE2dUpzaFNVQzhEd0NNcHFDeXZDTjlMSjRibXRFVzBKWUJkYmVEOS1wRlFPUVhEVklOd2NoUjRFSVF5Ym9UX3VWY2N1VUZPNHEyU2l4ZlUxT1lMdUsya0ptOVow?oc=5",
+      "snippet": "Edmonton traffic stop leads to extortion-related arrest &nbsp;&nbsp; Global News Man charged with extortion, conspiracy to commit murder after traffic stop in Edmonton: Peel police",
+      "pub": "Fri, 03 Jul 2026 00:02:48 GMT",
       "image": ""
     }
   ],
