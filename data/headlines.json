@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-07-03T09:39:42.977659+00:00",
+  "generated_at": "2026-07-03T12:01:25.612561+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Moving Day: St. John’s SPCA Transitioning to New Facility",
+      "link": "https://vocm.com/2026/07/03/spca-new-facility/",
+      "snippet": "The St. John's SPCA begins the transition to their new facility today. The new building, which is on East White Hills Road, is being heralded as a \"ma...",
+      "pub": "Fri, 03 Jul 2026 11:15:46 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/07/new-spca-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Marine Atlantic-Unifor Agreement to Prevent Labour Action Welcome News for Board of Trade",
+      "link": "https://vocm.com/2026/07/03/board-of-trade-marine-atlantic-agreement/",
+      "snippet": "Newfoundland and Labrador has dodged a bullet after the two sides in the gulf ferry dispute reached common ground on enough key issues to scratch stri...",
+      "pub": "Fri, 03 Jul 2026 10:57:33 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/board-of-trade-ceo-annmarie-boudreau.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RCMP Investigating Break-In at Marystown Convenience Store",
+      "link": "https://vocm.com/2026/07/03/marystown-convenience-store-break-in/",
+      "snippet": "Police in Marystown have released surveillance images of a suspect in a recent break and enter at a convenience store in the town. The RCMP responded ...",
+      "pub": "Fri, 03 Jul 2026 10:43:31 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/marystown-break-and-enter-june-2026.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Canada Day E-Scooter Accidents Prompt Warning from RNC",
+      "link": "https://vocm.com/2026/07/03/canada-day-e-scooters-rnc/",
+      "snippet": "The Royal Newfoundland Constabulary is reminding drivers to be vigilant following accidents involving children on e-scooters on Canada Day. The first ...",
+      "pub": "Fri, 03 Jul 2026 09:54:10 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/07/e-scooter-electric.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RNC Issues Tickets to Parents, Kids for ATV Use",
+      "link": "https://vocm.com/2026/07/03/rnc-atv-enforcement/",
+      "snippet": "The Royal Newfoundland Constabulary issued 12 tickets, some to young people and their parents, following an ATV enforcement initiative in metro over t...",
+      "pub": "Fri, 03 Jul 2026 09:48:09 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/rnc-royal-newfoundland-constabulary-atv-patrols-july-2026.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Hot and Humid Temperatures in Store Today",
@@ -27,107 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025.png"
     },
     {
-      "source": "VOCM",
-      "title": "Fuel Prices Drop Overnight",
-      "link": "https://vocm.com/2026/07/03/fuel-prices-drop-overnight-2/",
-      "snippet": "Fuel prices are down slightly across the board this morning. Gas is down by a cent. Diesel on the island is down by 2.5 cents and in Labrador its down...",
-      "pub": "Fri, 03 Jul 2026 08:43:05 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/gaspump.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "July 3, 2026 – Do you think the level of communication from the provincial government regarding wildfires in the province has been sufficient?",
-      "link": "https://vocm.com/2026/07/03/july-3-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13130').",
-      "pub": "Fri, 03 Jul 2026 08:00:00 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/provinces-5th-waterbomber-in-flight.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Evacuation Orders Lifted for Some Areas Outside Labrador West",
-      "link": "https://vocm.com/2026/07/02/some-evacuation-orders-lifted-lab-west/",
-      "snippet": "Some of the evacuation orders have been lifted just outside of Labrador West. The orders have been lifted for Duley Lake, Thorne Lake, and the Tamarac...",
-      "pub": "Thu, 02 Jul 2026 18:26:11 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/labrador-west-wildfires-2026-via-terry-spurrell-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Possible Military Munition Found in Water Near Happy Valley-Goose Bay",
-      "link": "https://vocm.com/2026/07/02/military-munition-hvgb/",
-      "snippet": "There is an increased police presence in Happy Valley-Goose Bay due to the discovery of a possible military munition in the water. The operation is ta...",
-      "pub": "Thu, 02 Jul 2026 17:41:23 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-14.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Labrador City Mayor Urges Compliance with Fire Ban",
-      "link": "https://vocm.com/2026/07/02/jordan-brown-fire-bans-labrador/",
-      "snippet": "A mayor in Labrador West welcomes the declaration of a regional ban on open fires. A wildfire prompted an evacuation alert this week for areas around ...",
-      "pub": "Thu, 02 Jul 2026 17:06:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/labrador-west-wildfires-2026-via-terry-spurrell.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Ottawa police identify father in deaths of 2 boys as homicide investigation continues - Global News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjZCQml3OFUtVmpmb3NaZlBEd21KaE5KRE9zQk5PRkdGS2FmU1c2Uzh3a3owVFE3aUFick94UFVzdnQ2Z3NuZUE3bUdPYkZnOU5XM2Mwa1UzUGdxSjd3OHV0OXVtZ3Z2ZHlOejRTU1pEa2lFaDZxS2xhVUJtWHJhYzZMX21xR0JCd3V0b1RQeWlEVmM?oc=5",
-      "snippet": "Ottawa police identify father in deaths of 2 boys as homicide investigation continues &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
-      "pub": "Thu, 02 Jul 2026 23:52:56 GMT",
+      "title": "Heat wave gripping much of Ontario shows no signs of letting up - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0NBU2c0TEl1ajEzdVZVbG5zRzhZSlYxd2VULVdWTXlYak1mRW9jVWEwNVRQX25KWkRSa0NaWDRlZHVFRWNWS3JUTnZ2WFVIVHRmVFdvTmFnV092QlZwYk16b0lia2otekVXS0xtN0pyUUZNZXJURDhsLVZ5RVlMSDJZRGNVZndQU19NREZ4Q1FPS2JWdE9aOVV4eXl6bDlvMzl3bXVxV19sNUh0eFJKUFVrZFh5QQ?oc=5",
+      "snippet": "Heat wave gripping much of Ontario shows no signs of letting up &nbsp;&nbsp; CityNews Toronto Multi-day heat event continues today &nbsp;&nbsp; SooToday.com Orange heat warning con",
+      "pub": "Thu, 02 Jul 2026 08:01:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Democrats urge voters to ‘follow the money’ behind Gordie Howe bridge delay - Global News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdUVRaWcwMVh0TkFhWnRFQnFUTjJuTEdEaWV4OGcyQWlTd05RMi1oWVp0VUtDMFFFQTgteDNINmtNSGo5SjdubVFOVEtQOTNqZVpXNHJoWVVZeHk1RHdtRjNtQ0RNbGxPVDlwY2cwZkVhN0UtaTZ2Y2MtRmMxRy1DMlB3Zw?oc=5",
-      "snippet": "Democrats urge voters to ‘follow the money’ behind Gordie Howe bridge delay &nbsp;&nbsp; Global News 'Canada gave us a free bridge': California Congressman adds voice to open the G",
-      "pub": "Thu, 02 Jul 2026 18:47:41 GMT",
+      "title": "7-year-old boy found dead after going missing in Hamilton Conservation area on Canada Day - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTHRjZGFFNjRTSlQ0N1ZtTjVEa054Sml4WU9WVzEtMDZTa3BsOGFkTU9rNjNyTzhnVUdBWHJ6bjJRRnFDX3lCLTV5Q2NTdUZWUXBlcnl0aTc5TFVTalBzVlBZZXlhNHZ5aVJlSkFBWGpZTHN5TEYtcmpoMHFNUThneWtBMUh1VG9GaHZaRGpsU1VLYUVTSWpFMFoyN0hJOHE2LWpPQXJldFlIX2o4bVNYRHNLSlFhVWkyZFlxd01KN3dJYnNZNjZzVzNCZ3ZJNjY1X0dOOWh2Q25mZWNY?oc=5",
+      "snippet": "7-year-old boy found dead after going missing in Hamilton Conservation area on Canada Day &nbsp;&nbsp; CTV News UPDATE: Missing seven-year-old found dead at Binbrook Conservation A",
+      "pub": "Thu, 02 Jul 2026 21:50:07 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "New Canada grocery benefit payments to hit bank accounts on Friday - Daily Hive",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsTTZRaVc4WFlxQW1ubGJsSUNKQk1UN2p0MnUwZXVBbVdTQm1YeDNkYXlpT24wMmlfUjRaV3RqWnQ5bjc1OEl0WmpQanhTTUNVWEUydTlOaTN2ZjNMQklJTllyV2tBZFljb3gtcTZnOXdNZ1AySVBv?oc=5",
-      "snippet": "New Canada grocery benefit payments to hit bank accounts on Friday &nbsp;&nbsp; Daily Hive First Canada grocery benefit payment arrives this week - National &nbsp;&nbsp; Global New",
-      "pub": "Thu, 02 Jul 2026 14:30:00 GMT",
+      "title": "Mark Carney vowed free trade within Canada by this month. It's still not happening - National Post",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iNnJxQ2JYbDZPYzdJaHlDT3RrM2FiSEtKRzZySEY0azhPOFhPd3hoS1JqUElGMGV0VzhUT251NEdzYURnVjNiUlNDYllBUW0tRUhuNW8zQlRvSC1VczZaMlItWWw4UTJCSFIzQm55aTdMY1ZrOHkwOGFn?oc=5",
+      "snippet": "Mark Carney vowed free trade within Canada by this month. It's still not happening &nbsp;&nbsp; National Post See more headlines & perspectives on Google News",
+      "pub": "Fri, 03 Jul 2026 08:01:40 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘We’re stuck’: Winnipeg resident trapped in Duck Mountain Provincial Park after floodwaters wash out roads - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFc3S2FOcXRLS3V0ajVmMnNwNU1oX2xjWUxMeWVUX0hxa045bjc5NFR3RnpIUGtHSllMc2djeHJGWmNiemVVWkI5VlJmaF9aaTE3azJweGhobWZHTGRFTHlfYkMycmFlN2JpNnZmSmt5aWRjU3Y1UHo0ckhuWlVESFUxYzE3NExid2lGQTdEVUJnS0tTcmV3N1kxbjRuZENpb0std0NuLVpRUHNuUjJpRW9XZ2tXaHJrVXBydjktRHc4S2VTRERMT25vOU9mMURfUHZka2puMlJHUnM?oc=5",
-      "snippet": "‘We’re stuck’: Winnipeg resident trapped in Duck Mountain Provincial Park after floodwaters wash out roads &nbsp;&nbsp; CTV News 'Please leave immediately,' Swan River tells some r",
-      "pub": "Thu, 02 Jul 2026 18:46:53 GMT",
+      "title": "U.S. flags concerns over Canada’s ties to China as it blocks CUSMA renewal - Global News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CM3FwNU9MYUpmTGQ3Q0ZUNklxVmdkUmZuSnBWX1NZMUY5R1YzQWdUSGtjdlZMTWMtSnZyYjZtckU1SHk1YzZUZ1hfdW93RmdVRjZBMHdvLVVneVlGWjdDS09jRDkyUTNYQW5RSEZpS0FHbFh1UWJWeGZJUQ?oc=5",
+      "snippet": "U.S. flags concerns over Canada’s ties to China as it blocks CUSMA renewal &nbsp;&nbsp; Global News Canada must live with ‘zombie’ trade pact but resist rushing into new USMCA deal",
+      "pub": "Thu, 02 Jul 2026 21:52:08 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Venezuelan security guard pulled alive from building basement 8 days after twin quakes - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYi1KMGFvbEZ5QVFjakV6VVc1Y21RcThta0xaVFlqMXBwZW9tbk01TjZNeUgwdWxaN1VvbE11dTd3ZDg5VHVxMXJfNjFpaXdST1VqS1EtbjlldDQ4c2J3aUhJTE1ZVkNzVWExUG9zdDFLWllKdkM0WkQwRlZmTkllcU5PQzRxczBRMjRsRnc5UDVJVWgzYldVazM5bVJWR0xOT2I5cFRXUFpiZEY3VjdHLS1xVURjUE4ycUtqX2xIRzJVTFA1RzR6SEhEN0I0VTVaZ0lKRUFTTno0dw?oc=5",
-      "snippet": "Venezuelan security guard pulled alive from building basement 8 days after twin quakes &nbsp;&nbsp; CTV News Venezuela quake survivor pulled out alive after eight days on &nbsp;&nb",
-      "pub": "Thu, 02 Jul 2026 14:51:23 GMT",
+      "title": "Canada paying to construct Gordie Howe bridge is 'big myth', according to Ambassador Pete Hoekstra - National Post",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUE1XSkJGdmlnX0FlRERqcktEbjhMZ0hoM29NTVB3Vm9iQ2dpSm4zVVU5Z3BSQnlQNjNiV05PMGNvN3kxbTZwSFZpQmVxTE1IQk1jbFEwVEYyOU9TLTlPSjZrSTd4VHZWUkpISEJSSzRvU0tiRzRsMnlENlpIWlg4b0xIMjFTU2tPQnJuNkJEZUtqNWptM0FJbFZOSjlBWDQ4ZENFbnJuSjdBOFR1SEFSSkpZVEJnQXlXWGQxTDd5TF9zRE03TXpvN3BNNDc?oc=5",
+      "snippet": "Canada paying to construct Gordie Howe bridge is 'big myth', according to Ambassador Pete Hoekstra &nbsp;&nbsp; National Post Democrats urge voters to ‘follow the money’ behind Gor",
+      "pub": "Thu, 02 Jul 2026 20:51:08 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "USMCA: Why the expected fight over the North American trade deal never kicked off - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HRkdVZlRUNm5IT2ZGbk00azhmb2dReEFSVm8zZ1pOcDZfa2FkWk5wNnVLSHR4c0hLZWo1RXdFbDh1b1lFS0ZfVy1iQzQ4bkx1QU1SMVBQdmt3dw?oc=5",
-      "snippet": "USMCA: Why the expected fight over the North American trade deal never kicked off &nbsp;&nbsp; BBC U.S. flags concerns over Canada’s ties to China as it blocks CUSMA renewal &nbsp;",
-      "pub": "Thu, 02 Jul 2026 13:43:39 GMT",
+      "title": "Alberta pitches new West Coast oil pipeline to B.C.'s South Coast - CBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ3p2Y1NicHhiREFiRURzZmZzakJIS2hPbkVaZ216cEZ3V00zbmg3R2MtRXhjUVVreUh6eTFnejRjU29ubE8tdHU1N2M1aGdocnhZNkdkUzdwV2pPZnExbHJJSHNQSFZGdEZySGFiR2daRGh6cjRHTEVDX1g5RTFxYmV2WTlQM2xvOWJGMEoxTE51cFl0eUx5Q21CNEZkYWJZTGJSQnZB?oc=5",
+      "snippet": "Alberta pitches new West Coast oil pipeline to B.C.'s South Coast &nbsp;&nbsp; CBC Opinion: Why the proposal for a major new pipeline should be a cause for celebration &nbsp;&nbsp;",
+      "pub": "Fri, 03 Jul 2026 03:39:54 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Update: Montreal under severe thunderstorm warning as Day 2 of heat wave rumbles to a close - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmx6QjhITFFmR1ZReHlTczZzM0pNbk1wc1pSOHdHc2U1eHVWY0poN3ozRk1SY2lIQnJabXZzNUROdTU4QVV6M0tMR3c5OEtvWWsyb2NzVDFCMXQ2NDkxLU83RTI1eXFiMFVLcDhhbFF6Z0xNRjQxV25YX0pacFR2MGZVNFZ1ZnA5UTdvYnZMXzdBT015eElPQk9lVmNjZjA?oc=5",
-      "snippet": "Update: Montreal under severe thunderstorm warning as Day 2 of heat wave rumbles to a close &nbsp;&nbsp; Montreal Gazette The peak of the heatwave in Ottawa is expected today &nbsp",
-      "pub": "Fri, 03 Jul 2026 00:54:08 GMT",
+      "title": "What's behind all the wild weather in Canada this summer? - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYW5LTnBmdDNZOXVzalYwbjZUQktfbjlUelJULXFnNlR5M3hQVUdPdnlFTko3ZnJkUXZnNnl0RGJxN0dsQ2lVN2p0OWhpSFd4UGFJUzVaT3dtVlcyUVgtcUNldmY4SnRsMFF0bm1xcGYzQnBqNkN4cFBRMkxkeHNuSnhNMkp0emxlR0hLdw?oc=5",
+      "snippet": "What's behind all the wild weather in Canada this summer? &nbsp;&nbsp; CBC",
+      "pub": "Fri, 03 Jul 2026 08:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Agreement between B.C. and Ottawa supports new Alberta pipeline - BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmp4NENha1NVc2ZKZ2tyMnpDQU5nXzd6MENSekoySmFuRlNEeFRsWVNiYTBFaUo1M0l6amtvUnpiN2dWRmlZR1ZneWwtU1BBTTNOUTBnWnNxaVNVLUozMm9RVXBFalVMVVFXWjRZVW5yQTFzRFR0UWJfWVJVQWUyWUFuTlJMWFR2NVp3UG5YRFBqbnR0MElYazlvRUJqZDd4cC1rMWFTVENBS1dtMTJPZ18waHpzRTRwS2E5NFNiWk5rUDZNQWZORzBxVlpzdjQ?oc=5",
-      "snippet": "Agreement between B.C. and Ottawa supports new Alberta pipeline &nbsp;&nbsp; BNN Bloomberg Government-owned Trans Mountain to lead $35-44 billion oil pipeline to BC Lower Mainland ",
-      "pub": "Thu, 02 Jul 2026 18:56:49 GMT",
+      "title": "Carney, Philippines President to discuss energy and trade - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzRTdklJeHM1bWRxZFVXcW5sa1J1NGZ0T1hVTG14VGtBV1pod0pHRk5zVkFFSTNfcGhxNEdCWVJ0WWQxdW02SXI3a2d2aEJHLVVRTTY1d05wUlBrSlJZWVNQYW5iWHNVSG5nVlY0VF85VFhONHU1LWxnRVItUE55TWl3b25lV19xSDZYSGtnaVlHZ3FHMEJzdTlKSjdqanpGMWJB?oc=5",
+      "snippet": "Carney, Philippines President to discuss energy and trade &nbsp;&nbsp; The Globe and Mail Joint statement by the Prime Minister of Canada and the President of the Republic of the P",
+      "pub": "Wed, 01 Jul 2026 19:48:00 GMT",
       "image": ""
     }
   ],
