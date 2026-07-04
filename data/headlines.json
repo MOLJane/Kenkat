@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-07-04T10:30:19.576382+00:00",
+  "generated_at": "2026-07-04T12:01:26.348827+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "July 4, 2026 – Do you think parking at health care facilities throughout the province should be free of charge?",
+      "link": "https://vocm.com/2026/07/04/303186/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13133').",
+      "pub": "Sat, 04 Jul 2026 11:02:59 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/health-science-hospital-fall-2025-2.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "TCH Shut Down Near Clarenville",
+      "link": "https://vocm.com/2026/07/04/tch-shut-down-near-clarenville/",
+      "snippet": "The TCH has been shut down just outside Clarenville because of a motor vehicle collision. Both lanes of the TCH near Hillview just south of the turn-o...",
+      "pub": "Sat, 04 Jul 2026 10:41:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/05/rcmp-car-vehicle-logo-stock.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Federal Government Increases Total Allowable Catch off of Newfoundland",
+      "link": "https://vocm.com/2026/07/04/303178/",
+      "snippet": "The federal government is increasing the total allowable catch in two fishing zones off Newfoundland. The Atlantic mackerel stock has grown by over 50...",
+      "pub": "Sat, 04 Jul 2026 10:25:45 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/03/mackerel-via-dfo.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Woman Arrested in New Harbour for Driving with a Suspended License",
@@ -43,30 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/05/rcmp-car-vehicle-logo-stock-1.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Gas Remains Steady, Diesel and Heating Oil Drop in Price After Latest Adjustment",
-      "link": "https://vocm.com/2026/07/04/303163/",
-      "snippet": "The Public Utilities Board has made some minor adjustments to the pricing schedule for fuel. Gas is virtually unchanged this morning but diesel fuel a...",
-      "pub": "Sat, 04 Jul 2026 09:19:16 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/gas-fuel-pub-public-utilities-board-gas-pumps.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RNC Looking for Missing St. John’s Woman",
-      "link": "https://vocm.com/2026/07/03/rnc-looking-for-missing-st-johns-woman/",
-      "snippet": "The RNC need help in locating a missing person in the metro region. Maxine Chipman, who's 70, was last seen in the area of Wigmore Court in St. John's...",
-      "pub": "Fri, 03 Jul 2026 21:53:50 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/missing-maxine-chipman.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Man Charged Following Series of Exposure Complaints in Mount Pearl",
-      "link": "https://vocm.com/2026/07/03/man-charged-following-series-of-exposure-complaints-in-mount-pearl/",
-      "snippet": "A man who has been charged in relation to several incidents of deviant sexual behavior in Mount Pearl in full public view will be in court Saturday. R...",
-      "pub": "Fri, 03 Jul 2026 21:19:56 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-10.png"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump pardons 11 people, including several for Clean Air Act violations - CNN",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWUjJucjJGcC0wYzZKZUFELWZ0a3dPRnFvVEtpVFN3Z2dpaGxrd2JhMGJwaWJBTG9Hd0hQR2tDdE16cnJWWVpEUzQ3aUl0Sm1CSFA1cGcwc0tiZFlERHh1Ukh6V29IYV83V1lSdmJ1VUJZZzlzMnQ3YWZ2NzJDUQ?oc=5",
@@ -92,26 +92,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Taylor Swift and Travis Kelce are married in elaborate Madison Square Garden ceremony - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFdUYzaVNhVWZWWkVmaXRUWkRXY1hXR2N2UGhNcDNrbkdJd1FZS29GSkdlMnFWMGJBM1l6RE1rSU5ORkFhMVAzZmdsSW1LWVFDOFExTURZQnZQVi1weUhPSzdyNFl2ckY1cWVxeXR3clo4MlpiX2N6aXdR?oc=5",
-      "snippet": "Taylor Swift and Travis Kelce are married in elaborate Madison Square Garden ceremony &nbsp;&nbsp; Global News Taylor Swift and Travis Kelce Are Married &nbsp;&nbsp; People.com Tay",
-      "pub": "Sat, 04 Jul 2026 01:46:28 GMT",
+      "title": "'A lot of heartbreak' amid devastating flooding in Manitoba's Parkland region - CBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa3VJVzJIdURjdnJpWXkzakdlS2tnU2lRbkVSaXR3Z3NfWENER09hT3g0MXJ3Nm1NbWxfZ01PcFJEOWk0WWMtanhRM1l2QVJreDhlREhHcjV2cVhfSDVYQUVNeGdMTmlkWk1rdHlPRGN0SGhSa3JMaXpmbEdxbG1hTjlyWjFVU3VqRjFiTEs2UDdpT3Y1aEp4WFdn?oc=5",
+      "snippet": "'A lot of heartbreak' amid devastating flooding in Manitoba's Parkland region &nbsp;&nbsp; CBC Dauphin left with 'very limited' health services as water recedes, flood cleanup begi",
+      "pub": "Fri, 03 Jul 2026 23:08:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "More than 2,000 Quebec households stranded without a lease after July 1 - CBC",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2FPdTV5VGdjN0d3cTJrbkRVOVpxYmE0aVJqdks5TDN1S2hxWi1QNV9ZZnVfZWlqNDFwSEtPZExSX0NlOHllS2ZMN2MyZFZpa1Y0bUdLSG0tZUJfaEpQeTFFdGR0ZlA5WHItV1hhUnUtZDVYMVhBR0FGS3VWNXhFWnZMamt3LXpocjgzNkdn?oc=5",
-      "snippet": "More than 2,000 Quebec households stranded without a lease after July 1 &nbsp;&nbsp; CBC Quebec housing crisis is worsening, say advocates &nbsp;&nbsp; CTV News Number of Montreal ",
+      "snippet": "More than 2,000 Quebec households stranded without a lease after July 1 &nbsp;&nbsp; CBC Quebec housing crisis is worsening, say advocates &nbsp;&nbsp; CTV News Moving Day: A Coali",
       "pub": "Fri, 03 Jul 2026 19:32:21 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada must live with ‘zombie’ trade pact but resist rushing into new USMCA deal, report says - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3JzRW5McEs3eElwd1pUTC1SUGk2QnpOaDdpTENwbHB0TXZERnN2WGJ6Z0JKVmlWLUNkTU04Vlc1UHlDeDBhellhWW43VG5KTUtCMWI3UEdBR21GbFJ3QUJzMDg3UFdZTWN1cHdldEJ2RE5OaTRGQlNtY05Gemtfb3Y5Z0RVWWwwcFlGcU1wMGxaYnhDZnpoZjl4amU5RndBb3dPTg?oc=5",
-      "snippet": "Canada must live with ‘zombie’ trade pact but resist rushing into new USMCA deal, report says &nbsp;&nbsp; The Globe and Mail Hoekstra says no 'significant progress' in 14 months o",
-      "pub": "Fri, 03 Jul 2026 11:00:00 GMT",
+      "title": "Taylor Swift and Travis Kelce are married in elaborate Madison Square Garden ceremony - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFdUYzaVNhVWZWWkVmaXRUWkRXY1hXR2N2UGhNcDNrbkdJd1FZS29GSkdlMnFWMGJBM1l6RE1rSU5ORkFhMVAzZmdsSW1LWVFDOFExTURZQnZQVi1weUhPSzdyNFl2ckY1cWVxeXR3clo4MlpiX2N6aXdR?oc=5",
+      "snippet": "Taylor Swift and Travis Kelce are married in elaborate Madison Square Garden ceremony &nbsp;&nbsp; Global News Taylor Swift and Travis Kelce marry at Madison Square Garden &nbsp;&n",
+      "pub": "Sat, 04 Jul 2026 01:46:28 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Minnedosa, Brandon brace for downstream effects of western Manitoba floodwater - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDdwRnZPMW5sZ3lxNXdrSkNlZzd2bGRtMUxaRnRtOGVPbXZHZWMyT0VJbjRKTTRSbWtiOTBQVGF4X0UzUGh6a0JmN08wQXBqWjlUS0wyVURndVNMaHdEWm1TVmZNandyTjJYdko1UUpReFZQSVlIcHhBWGtvUG1NQVZ5N3BaeXdRYVMteFdfRQ?oc=5",
-      "snippet": "Minnedosa, Brandon brace for downstream effects of western Manitoba floodwater &nbsp;&nbsp; CBC Dauphin left with 'very limited' health services as water recedes, flood cleanup beg",
-      "pub": "Fri, 03 Jul 2026 23:20:38 GMT",
+      "title": "The test of time: Canada’s only watchmaking school still ticking after 80 years - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb0ROS1Z5OEQyZGZ4RERiUFZqWDRaUnNMNmZPNll5R3dEY3JkcC1FSVFTSlVQbTdldXpnZF9UVmstWVJGU2U5NTNEN1A5NVZ1T2FZWGhKSkVuNmNyV3FXRHNOcl9vaUdObXdfVnFVanN0WXNRUS1KM1NSQ3JlV1hPdkFOeUxSdnptYnc?oc=5",
+      "snippet": "The test of time: Canada’s only watchmaking school still ticking after 80 years &nbsp;&nbsp; CBC",
+      "pub": "Sat, 04 Jul 2026 08:00:00 GMT",
       "image": ""
     }
   ],
