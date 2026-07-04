@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-04T14:06:14.159824+00:00",
+  "generated_at": "2026-07-04T15:38:44.600106+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Canadian Country Star, Tommy Hunter, Dies at 89",
+      "link": "https://vocm.com/2026/07/04/303189/",
+      "snippet": "Canadian country star Tommy Hunter, who endeared himself to Newfoundland and Labrador in the mid-1980s, has died at age 89. The London, Ontario, nativ...",
+      "pub": "Sat, 04 Jul 2026 14:59:40 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/06/Acoustic-Guitar.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Former Senator, Ethel Cochrane, Passes Away",
@@ -30,7 +38,7 @@
       "source": "VOCM",
       "title": "Update: TCH Shut Down Near Clarenville",
       "link": "https://vocm.com/2026/07/04/tch-shut-down-near-clarenville/",
-      "snippet": "The TCH has been shut down just outside Clarenville because of a serious motor vehicle collision. Both lanes of the TCH near Hillview just south of th...",
+      "snippet": "RCMP have an update on that accident in the area of Deep Bight and Hillview on the TCH. The highway remains closed in both directions and will be clos...",
       "pub": "Sat, 04 Jul 2026 10:41:26 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/05/rcmp-car-vehicle-logo-stock.jpg"
     },
@@ -59,19 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/08/Noel-Browne-Rugby-Canada.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Nova Scotian Firefighters Help Battle Wildfires in Labrador",
-      "link": "https://vocm.com/2026/07/04/nova-scotian-firefighters-help-battle-wildfires-in-labrador/",
-      "snippet": "Firefighters from Nova Scotia are in Labrador helping battle wildfires that forced people out of their homes in Labrador West this week. Some two doze...",
-      "pub": "Sat, 04 Jul 2026 09:49:54 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/labrador-west-wildfires-2026-via-terry-spurrell.jpg"
+      "source": "Google News Canada",
+      "title": "Maritime provinces see record temperatures rise into the 30s - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVzN1LW5kX3dYOWMxNkZnVGNMM3oyWkRTTmE3X1luRVVUdEJPYjNvXzR1U3VQRF94LURvaVVhNzFZYWQ0UExaWFFpdnNPT2xQdkdTQ3hBcm8yVjREd3ZWSWRmc1JBVUJfelhEWjl0Y3pyUURwNDZPQkdNemprQVhQQ2JfN2RNTTNXcnhiUG9SZ25HaENPVEJuRnVFMWI4OFRod01WM2lXRm9jdW1kakZKV3lEUVVZX2pSZVE?oc=5",
+      "snippet": "Maritime provinces see record temperatures rise into the 30s &nbsp;&nbsp; CTV News Heat warnings in effect Saturday for parts of N.B., N.S. &nbsp;&nbsp; CTV News It's not just the ",
+      "pub": "Sat, 04 Jul 2026 11:03:11 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Heat, humidity and sweltering temperature blanket the Maritimes - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVzN1LW5kX3dYOWMxNkZnVGNMM3oyWkRTTmE3X1luRVVUdEJPYjNvXzR1U3VQRF94LURvaVVhNzFZYWQ0UExaWFFpdnNPT2xQdkdTQ3hBcm8yVjREd3ZWSWRmc1JBVUJfelhEWjl0Y3pyUURwNDZPQkdNemprQVhQQ2JfN2RNTTNXcnhiUG9SZ25HaENPVEJuRnVFMWI4OFRod01WM2lXRm9jdW1kakZKV3lEUVVZX2pSZVE?oc=5",
-      "snippet": "Heat, humidity and sweltering temperature blanket the Maritimes &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Sat, 04 Jul 2026 11:03:11 GMT",
+      "title": "Trump warns of communist threat as parade cancelled over heatwave - Euronews",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkdtbGlFUHpZaHJwLVBaMVFQSjdIeVhiNXp3QTU1NWl5cnJqNENrVGNyVEdleG9yQ3RQWXdNSERTcUZSVVZ5NWtRWGg2dEJKaW1TcVdiUFF3OVUtSng1WV9mZ2U3ODVUcWM4cldhbE9BdEZpSUlkQ0RPdThOTEFTNEliT1VzQVRvYnNtbWY0cDJhVGFLbDRSQ0JMLWV3emc?oc=5",
+      "snippet": "Trump warns of communist threat as parade cancelled over heatwave &nbsp;&nbsp; Euronews Fireworks, flyovers and a 'really long' Trump speech ahead as US celebrates 250th &nbsp;&nbs",
+      "pub": "Sat, 04 Jul 2026 10:17:11 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Mourners pay respects as Iran’s slain leader Ali Khamenei lies in state - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEVBbm5lZ0Q3RTV0M1NiM2FibHBvUFYzeE05Q0RoWUxDR3lFMGtRX1RmQXIyZXExMnZmVXlBdkhlVUJWeno2R3ZKVGw4cUVjdFMtRWs5Q20tV3JERGJRc0dnWWJZN3NVMHQ4clIyX1dUV0R5bVFFcW40R19WN0FkRE9GcVAyOFhpdTl6LVF5LXJfXzN3YU43S29CTnotNWZEamR4T3pmbTQxX3Azbk9N0gG0AUFVX3lxTE5lRVVtTllEZURMT2k2YW1QOERzZUxXd2JUazBjN0FOUWh2NE5MYXVTR043czZYdlpyTDVwVFllbHRQdTFxSTd3RkpLSUw2X3pqRnpXUEFCMTNlVmtqZklvblJZa1dsbGZ0eUVFOE84WjJfSEczbGRIOVBtSVMwemhsc0dWSmV6RFFDLU1oYklVN1RPc0RNSWxOdG9LV1hHSFF1bF9mMUhLMzhOOTRibk9QS1E3cg?oc=5",
+      "snippet": "Mourners pay respects as Iran’s slain leader Ali Khamenei lies in state &nbsp;&nbsp; Al Jazeera Large crowds gather in Tehran for Ayatollah Khamenei's funeral &nbsp;&nbsp; BBC Iran",
+      "pub": "Fri, 03 Jul 2026 12:06:37 GMT",
       "image": ""
     },
     {
@@ -84,10 +100,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "‘A taste of home’: Prime Minister Carney, Philippines president stop at Jollibee in Vancouver - Vancouver Is Awesome",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeW90eVFBMHFhVi1rcjZ6bHFQVEF6NGY5dmpIUWxXcW5saUt1WExiSnRha3JMeVJ0TVVDdmVWeHo0T0FNc1c2djZWZkNSVkJBSmNqY1A5eFY1TEFRWFFDLVBDT1Vndl91YkR2NDB5WHg1VkpOVlBxN1B0NlY3UkxwWlBUcUttWi1nYzhoVU84cXBXWlB4S1BySFV0Nk5TakdSUzNVRk1HUk9DX1M2dU9oR09iSHFsTFVxWDZhaQ?oc=5",
-      "snippet": "‘A taste of home’: Prime Minister Carney, Philippines president stop at Jollibee in Vancouver &nbsp;&nbsp; Vancouver Is Awesome See more headlines & perspectives on Google News",
-      "pub": "Sat, 04 Jul 2026 01:30:02 GMT",
+      "title": "Canada-Morocco World Cup matchup all about mind games — suits, jeans and sly flattery - The Province",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNREtSYVRzNm9VUGdETEpCUDRFTEJ2LWlyVE9Cb3FVV0Yxd0tndHNfQjJkYk9adEJFMmo0TUVrZS1qYTFvX3N1YmFkRmJqdEFkakhPMWRLemMtQ05HUF9nVzlrY0hINzktczZ2ZDVQVFJ5OExZMC1ydk5tZnFxVHNMS2VmYmJpOGlPNG16Zg?oc=5",
+      "snippet": "Canada-Morocco World Cup matchup all about mind games — suits, jeans and sly flattery &nbsp;&nbsp; The Province Canada v Morocco: World Cup 2026 last 16 – live &nbsp;&nbsp; The Gua",
+      "pub": "Fri, 03 Jul 2026 21:18:43 GMT",
       "image": ""
     },
     {
@@ -100,18 +116,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Calgary Stampede may come with a weather rodeo this year - The Weather Network",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWZjWVY1VWlHNDVMMUQ3NFplSzBTZS1jNHBBbjg3ckpiMW1mV2FpNlZQZk5EU0FtV0NfbTBHbUcteVR3SVh6NURQeFhvU2ZvcG1SOHNxTFA4aFNQWklwbmU3YUJnWWtKR0JFTE5EX0p1Ny1oMktUNkM1cEY3UDliUDhoa2lhalJpek93clE2YnBMa0llcko4d2FYakdENU40ME9SRFJBT2M5RzZuMkFESmNKUWFhNzdqajE4XzJXRWlBZw?oc=5",
-      "snippet": "Calgary Stampede may come with a weather rodeo this year &nbsp;&nbsp; The Weather Network Pancakes, pipelines and independence: politics serving up new flavour at this year’s Calga",
-      "pub": "Fri, 03 Jul 2026 13:22:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "More than 2,000 Quebec households stranded without a lease after July 1 - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2FPdTV5VGdjN0d3cTJrbkRVOVpxYmE0aVJqdks5TDN1S2hxWi1QNV9ZZnVfZWlqNDFwSEtPZExSX0NlOHllS2ZMN2MyZFZpa1Y0bUdLSG0tZUJfaEpQeTFFdGR0ZlA5WHItV1hhUnUtZDVYMVhBR0FGS3VWNXhFWnZMamt3LXpocjgzNkdn?oc=5",
-      "snippet": "More than 2,000 Quebec households stranded without a lease after July 1 &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Fri, 03 Jul 2026 19:32:21 GMT",
+      "title": "Canada’s first new military tanker takes flight in milestone for $3.6B fleet renewal - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHZQbEo0cGRoVElEa24yNVh3ZU5CT1lqM2NFX2sxNjI1cGpEWFNWR3hwRkc0cmhHZC1YSEh2bF9OY1E2VVJMZlFxYUtQcEJyNWFWZzhsZUQ2ck91Rm0wLVNZakNkNjVLV3Z2QjNYUkdRa196U1c5RzRoTm85QWJZc2hTbkdtbm41VklGQnJKN1VrUGZBZmdfZkU0T3lRNGdOeTJPZVBfTF9EWExrUDFDeUplRzM?oc=5",
+      "snippet": "Canada’s first new military tanker takes flight in milestone for $3.6B fleet renewal &nbsp;&nbsp; CTV News",
+      "pub": "Sat, 04 Jul 2026 12:05:00 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT0lZRXZWWFpkQ2Q2b3Z4V0tzelptRjZWUllZcjFadEFqMV8xQmJMY1J4YmdfUE9XQkdGZW1NMEtacV9VQmE4cF9LUjFTS2RlUEp1X0I3ZjRISHh0alZ1ZTZOQ0VlMDEzdVUyQk1SejQxMklWOGhwUFo1M2NhU3VXMDRZWndsRHhCWTlRbzVISFpJUQ?oc=5",
       "snippet": "B.C. mother says her 23-year-old son was captain of charter boat that sank &nbsp;&nbsp; Global News Heartbroken girlfriend of B.C. captain tells of close call days before deadly si",
       "pub": "Fri, 03 Jul 2026 22:00:06 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Nova Scotian Firefighters Help Battle Wildfires in Labrador - VOCM",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZHhDUXpnQndwOWlKOUlZTzFhMVVzX2s0VjZYTERZbHR2WXYxRkRFOFlSeEpYUXQyTS1JLUxpWVlSZXpMSGNoeEVFS1FIdVZCWkJjd1lQTjlRUnhseHY3Ym9CY0VNY2VQOVN2aUxveWpXXzZfQXRUdHR1Q1FKejBELXA5dHYyRGpVRzNBeE9jY2c5dw?oc=5",
-      "snippet": "Nova Scotian Firefighters Help Battle Wildfires in Labrador &nbsp;&nbsp; VOCM More fire crews join fight as Walsh River evacuation order remains in effect &nbsp;&nbsp; ntv.ca Fire ",
-      "pub": "Sat, 04 Jul 2026 09:49:00 GMT",
       "image": ""
     }
   ],
