@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-05T05:30:07.451260+00:00",
+  "generated_at": "2026-07-05T08:26:30.632774+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "July 5, 2026 – Do you think Canada’s run at the World Cup will influence more kids in the country to take up soccer?",
+      "link": "https://vocm.com/2026/07/05/303199/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13136').",
+      "pub": "Sun, 05 Jul 2026 07:31:37 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/via-soccer-canada.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Update: One Lane Reopens on TCH Near Hillview",
@@ -44,6 +52,14 @@
     },
     {
       "source": "VOCM",
+      "title": "Extreme Heat Forces July Fourth Cancellations Across Eastern U.S.",
+      "link": "https://vocm.com/2026/07/04/extreme-heat-forces-july-fourth-cancellations-across-eastern-u-s/",
+      "snippet": "Extreme heat disrupted Fourth of July celebrations across the central and eastern United States, with local officials canceling or postponing parades,...",
+      "pub": "Sat, 04 Jul 2026 11:51:58 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/07/76500857.jpg"
+    },
+    {
+      "source": "VOCM",
       "title": "July 4, 2026 – Do you think parking at health care facilities throughout the province should be free of charge?",
       "link": "https://vocm.com/2026/07/04/303186/",
       "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13133').",
@@ -51,26 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/health-science-hospital-fall-2025-2.png"
     },
     {
-      "source": "VOCM",
-      "title": "Federal Government Increases Total Allowable Catch off of Newfoundland",
-      "link": "https://vocm.com/2026/07/04/303178/",
-      "snippet": "The federal government is increasing the total allowable catch in two fishing zones off Newfoundland. The Atlantic mackerel stock has grown by over 50...",
-      "pub": "Sat, 04 Jul 2026 10:25:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/03/mackerel-via-dfo.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Woman Arrested in New Harbour for Driving with a Suspended License",
-      "link": "https://vocm.com/2026/07/04/303176/",
-      "snippet": "A woman who owes a lot of money to the Crown has been nabbed by police for being behind the wheel despite court orders not to be so. Placentia-Whitbou...",
-      "pub": "Sat, 04 Jul 2026 10:14:29 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Trump arrives at National Mall ahead of speech as 4 July celebrations continue - BBC",
+      "title": "Trump tells National Mall crowd that 'American Dream is back' as July 4th celebrations continue - BBC",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VbjRQSWlVSHZhTS1RTVhnTWc3RUZWZG8za20wWExsT3R5SmpFRmxxSlJzSm9LQnVBdTBlUF8yYmhueHNTbml5R09IYXNVejhOendFdQ?oc=5",
-      "snippet": "Trump arrives at National Mall ahead of speech as 4 July celebrations continue &nbsp;&nbsp; BBC Trump's God, guns and anticommunist Fourth of July &nbsp;&nbsp; Axios America’s 250t",
+      "snippet": "Trump tells National Mall crowd that 'American Dream is back' as July 4th celebrations continue &nbsp;&nbsp; BBC Trump hails ‘golden age of America’ in speech marking nation’s 250t",
       "pub": "Sun, 05 Jul 2026 03:21:39 GMT",
       "image": ""
     },
@@ -78,7 +78,7 @@
       "source": "Google News Canada",
       "title": "Ambassador Hoekstra wants American booze back on Canadian shelves next year - CBC",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeE9RMFhTNF9KVGYzd0hla0tLSDBTNXdGSzV2MGFoWGV5YUZTMnNjc0p0QmhGTURJWExTLXY2QVBwdFdoV05jVmlyeHhJeDhsV183VkRhLXNZQXlyaHV2S0pKWmRrZTZfX3FlX2p2aGtPMXBsX3NDZjc5THlRMnVtR2xyeG91aDBfQjhlMTZfWQ?oc=5",
-      "snippet": "Ambassador Hoekstra wants American booze back on Canadian shelves next year &nbsp;&nbsp; CBC",
+      "snippet": "Ambassador Hoekstra wants American booze back on Canadian shelves next year &nbsp;&nbsp; CBC ‘Slap in the face,’ outgoing Consul General in Montreal calls U.S. alcohol ban in Canad",
       "pub": "Sun, 05 Jul 2026 02:14:00 GMT",
       "image": ""
     },
@@ -92,10 +92,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "‘We were better than them’: Marsch bullish despite Canada’s World Cup exit to Morocco - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjdsejlnQS1NNm5WcUxycEJ3ZkdVLXBQN19Xd2cxcmoyaXNYOXg0bl9HQ3l6cnBsTlpiYkNjZ2JJcnQxaUc0c0p1VmdXSmxKTEU2T0dzY29hRmFmSWktWk5GbUFGdUNPNDUydDF2UGpUOGxBalZsamUxRklQRF84eGlLb21QTWF3S2p4aUlncw?oc=5",
-      "snippet": "‘We were better than them’: Marsch bullish despite Canada’s World Cup exit to Morocco &nbsp;&nbsp; The Guardian ‘The hurt is real’: Team Canada releases statement after historic ru",
-      "pub": "Sat, 04 Jul 2026 21:24:00 GMT",
+      "title": "Canada’s historic run in the 2026 World Cup ends after 3-0 loss to Morocco - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVC01ZTZZZjJWWEhQNHNjR2JGSzdVSk9EZHVRS2wxcGhES1NHWDh2LXZZU0p0QXlKV1prVkUtVkZOVmxhSGdKa25yQmdWdk1fNkcyTWZFVjNTMjJYUVR5WVZBajZNNUswV0ZHQmowd2lPeFJZVFZXdGs2VUtSVy1VVm85VGJyVm05WXljT1d6WjlLcGE3TVR3b2phMjNpZllkZm1oRUxvU2kyQVV0Z3hFLXB3?oc=5",
+      "snippet": "Canada’s historic run in the 2026 World Cup ends after 3-0 loss to Morocco &nbsp;&nbsp; CTV News Hundreds of joyous fans celebrate Morocco’s World Cup victory in St-Léonard &nbsp;&",
+      "pub": "Sun, 05 Jul 2026 01:05:00 GMT",
       "image": ""
     },
     {
@@ -116,18 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Fort Simpson wildfire heads south to airport perimeter - Cabin Radio",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3VMYnVZUnlDZlZHMm9FRDE3SEJwTGs5VDZxWTRRQWNyeTN4cjBmVUg1VEpFb1NXQTZuY2JqbDdPZTFtVm04cUd0OXhJclVpLWZxaFItM1I5NTZYU0lpbDc3UjZqN05RWXA1VzhMazJicXpvclBXOUpPMHFyOUllTE14YnlGLXZTRTdnWTg1eWhyVWJHaFdDTlBHekppLVpuY0VRX2JUNlk1WW5IdTdsbg?oc=5",
-      "snippet": "Fort Simpson wildfire heads south to airport perimeter &nbsp;&nbsp; Cabin Radio ‘No primary residences lost’ in all-day battle with fire, village says &nbsp;&nbsp; Cabin Radio High",
-      "pub": "Sat, 04 Jul 2026 20:16:47 GMT",
+      "title": "Young girl critically injured after falling from apartment balcony - CBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVpmT21UR0x6UXpkZ0k4MHdYc1h2UWRybFZmNDFCZnRfbnh6cEtDMTdFQUFNTmNMNVhvZTBwdWZqVU9memk1dkNmZjRpT0FjSGNKaFJnRlRESjcxYTk4ZXlFSXNBR2RULTJDN09rZXRoaVdzYS15TW1Edi1ETGJ4aGpnMW02NmY3dFYwRVVKVExsa1N0V19yVnZn?oc=5",
+      "snippet": "Young girl critically injured after falling from apartment balcony &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "pub": "Sat, 04 Jul 2026 20:19:27 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘A taste of home’: Prime Minister Carney, Philippines president stop at Jollibee in Vancouver - Vancouver Is Awesome",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeW90eVFBMHFhVi1rcjZ6bHFQVEF6NGY5dmpIUWxXcW5saUt1WExiSnRha3JMeVJ0TVVDdmVWeHo0T0FNc1c2djZWZkNSVkJBSmNqY1A5eFY1TEFRWFFDLVBDT1Vndl91YkR2NDB5WHg1VkpOVlBxN1B0NlY3UkxwWlBUcUttWi1nYzhoVU84cXBXWlB4S1BySFV0Nk5TakdSUzNVRk1HUk9DX1M2dU9oR09iSHFsTFVxWDZhaQ?oc=5",
-      "snippet": "‘A taste of home’: Prime Minister Carney, Philippines president stop at Jollibee in Vancouver &nbsp;&nbsp; Vancouver Is Awesome Prime Minister Carney announces new partnerships wit",
-      "pub": "Sat, 04 Jul 2026 01:30:02 GMT",
+      "title": "Out-of-control wildfire burning near Boston Bar, B.C. prompts evacuation for about 60 residences - CBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNejRzb3cxcVlYLVgyN1p3ZGVSSjRidUlQaW9wODFUSTBubzg4OFZ6dHNCdnZaR2Z6ZE5fdmJ3YWNIYU4tVTZTZTNZRFhDaGRSNWN5VTlYLVVVYjJ1a0ptQUpxX2dGUl9HOURmdGF4UC1MTF9VNVJoZ1B2Z3JUX0pOX2l1bkF0MGpQWGhWRW8wWS1YRFhzc0xoeFBKdDh0dDlaYmwzSA?oc=5",
+      "snippet": "Out-of-control wildfire burning near Boston Bar, B.C. prompts evacuation for about 60 residences &nbsp;&nbsp; CBC Wildfire evacuation order for Boston Bar, B.C., area alert also ex",
+      "pub": "Sun, 05 Jul 2026 02:18:00 GMT",
       "image": ""
     }
   ],
