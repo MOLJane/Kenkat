@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-07-05T10:36:13.557715+00:00",
+  "generated_at": "2026-07-05T12:09:37.339661+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Gander RCMP Searching For Carl Drury",
+      "link": "https://vocm.com/2026/07/05/303229/",
+      "snippet": "Gander RCMP need help in locating a 64-year-old man. Last seen on July 3 near a business on Elizabeth Drive, Carl Drury is believed to still be in the...",
+      "pub": "Sun, 05 Jul 2026 11:29:27 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/carl-drury-1.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Police Asking for Public’s Help in Finding Missing Woman",
+      "link": "https://vocm.com/2026/07/05/police-asking-for-publics-help-in-finding-missing-woman/",
+      "snippet": "Gander RCMP are asking for the public's help in finding a missing person. Loved ones are concerned for the well-being and safety of 29-year-old Christ...",
+      "pub": "Sun, 05 Jul 2026 11:08:40 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/christina-ginn.png"
+    },
     {
       "source": "VOCM",
       "title": "Man Arrested for Common Assault in Goulds After Dropped 911 Call",
@@ -51,27 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/clarenvilletch.png"
     },
     {
-      "source": "VOCM",
-      "title": "July 5, 2026 – Do you think Canada’s run at the World Cup will influence more kids in the country to take up soccer?",
-      "link": "https://vocm.com/2026/07/05/303199/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13136').",
-      "pub": "Sun, 05 Jul 2026 07:31:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/via-soccer-canada.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Update: One Lane Reopens on TCH Near Hillview",
-      "link": "https://vocm.com/2026/07/04/tch-shut-down-near-clarenville/",
-      "snippet": "RCMP have reopened one lane of the Trans-Canada Highway near Hillview following the earlier closure. Alternating traffic is now moving through the col...",
-      "pub": "Sat, 04 Jul 2026 18:31:26 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/05/rcmp-car-vehicle-logo-stock.jpg"
+      "source": "Google News Canada",
+      "title": "'The American Dream is back,' Trump says during Fourth of July speech - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1B6WWNUd20xX0tkWHdUTDJENkpJWkdjSi1iWlduTXVMQXNXQzd2MXhjVU5ObEs1aDdtT193Y3RZVVdpb19uZjlHNVlqUGpZOTNCSW1lWmJVU0NfU3FOaElCU25yUDJWdG5rZllUV2U2cGJvSDl0eFZWdUFyNDhCUGRRRTFMbXQtaktxVlZnVEw1dTZ2N3pERUNZLUZRd3dmTVJLRg?oc=5",
+      "snippet": "'The American Dream is back,' Trump says during Fourth of July speech &nbsp;&nbsp; Euronews.com Trump hails ‘golden age of America’ in speech marking nation’s 250th anniversary &nb",
+      "pub": "Sun, 05 Jul 2026 06:48:37 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump arrives at National Mall ahead of speech as 4 July celebrations continue - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VbjRQSWlVSHZhTS1RTVhnTWc3RUZWZG8za20wWExsT3R5SmpFRmxxSlJzSm9LQnVBdTBlUF8yYmhueHNTbml5R09IYXNVejhOendFdQ?oc=5",
-      "snippet": "Trump arrives at National Mall ahead of speech as 4 July celebrations continue &nbsp;&nbsp; BBC Trump mixes patriotism with partisanship as he celebrates America's 250th anniversar",
-      "pub": "Sun, 05 Jul 2026 03:21:39 GMT",
+      "title": "Breaking news. Cargo ship reports being attacked in the Red Sea, maritime agency says - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnlXNGRmamNOekRac3BOcTJlNzJQRkRTS3NPbXpuX0p0YXRHYUhOa19FY3lZcF8zd3VXUkJiSE42X3ZEaW4yMUFfaGJvOFQtTHJfLTNDRnBGWk1VUzBUNVU2d0tKTlRMMTdJcWpRaVo2emxHY0Z0SFpQc3V4T0xQVjBrc0hTSzVvT1otamxsZUs4X256OWc?oc=5",
+      "snippet": "Breaking news. Cargo ship reports being attacked in the Red Sea, maritime agency says &nbsp;&nbsp; Euronews.com See more headlines & perspectives on Google News",
+      "pub": "Sun, 05 Jul 2026 09:57:44 GMT",
       "image": ""
     },
     {
@@ -84,26 +92,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Iran promotes message of continuity and revenge at Khamenei commemoration - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUIyc1BtVEFkOXQ1Mmk0MmhESi16Q2Y0elFiVWF1a3BOeVlnd1VZY1JuWU9TUVVnTkk1ZE9LUU5kMF9XdFlDRktVTjlNemZQUGhIMDhSakl6Nkhvd0dCbmtDc191VlZGTGRxTGJldm1KMG5IdjFJM041Z0FBdktkUno2aS1pN0tvWjlBdG9KM29DYWxaNWhSVXM4T3g0ektIc1lYVllXTXlXamk5dVlRWE5zUdIBuAFBVV95cUxNUEhsM0xBZEhueE4wZDFZVGtSdExUU3NTV0YzOXVJRGtwZllpZzJkY3c4SGxhNTQ3eDROdVZ5THdMZkkzczBWVEdFSG9OU2ItM3BQLWVSRGRpVlhEc2Q1THNPZ1BWN2RDM1NWeU9QMTZVY1pxRExKSHcwbk9YQlFTMVdnZDJfcWd1OHo5WnNxWm5KZHJlT3Nsc2NVbTBrZlU4VExsNGNUX0ZHRUZRN1h2a01uaFBud0JD?oc=5",
-      "snippet": "Iran promotes message of continuity and revenge at Khamenei commemoration &nbsp;&nbsp; Al Jazeera Where is Mojtaba? Iran's new Supreme Leader skips father Ali Khamenei's funeral &n",
-      "pub": "Sat, 04 Jul 2026 15:54:07 GMT",
+      "title": "Jesse Marsch after Canada World Cup loss to Morocco: 'I'd rather be us than them' - The Province",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN3daRF9xUENyb1JEQ0lGYUpsTS1xS0Y1LVIwRXF5R2hpZTRLM3F2RXM4MzlubGdrZDVnV1drVTRLVk1Sc29VN0RZcGVIZkp1X0FBWm5kUDQ2TlVudFhQRFhWNTd4dDBBeWdxUkZLbDJ2d21LVVRzRHQ0NTlLVzhkY3M0alRxSzI5QWNZMTgxZHBQUQ?oc=5",
+      "snippet": "Jesse Marsch after Canada World Cup loss to Morocco: 'I'd rather be us than them' &nbsp;&nbsp; The Province Pride outweighs heartbreak as Island fans celebrate Canada’s World Cup j",
+      "pub": "Sat, 04 Jul 2026 22:05:14 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada's World Cup elimination loss to Morocco, as it happened - CBC",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzZLZ2xtb1V5RTJLRUtIdUc4Yy1kaEY0NkFyc3J4Um9aM0hWTTNuZm1yRDlfbldUd1d2VjNjX2p6ck1EMGc1ZHFjdDhIOVJXeHdxc0ZaZV96T3FXMXVoWVN2RmJvM0RaRzVfU1pkUTFEb052VkluaGVKT3pUZW84Q1YxMUtoU24tQjk5RGtYUC1yT2VtLVZfaGJtQTRwYVp5WDBSNWlR?oc=5",
-      "snippet": "Canada's World Cup elimination loss to Morocco, as it happened &nbsp;&nbsp; CBC CanMNT has plenty to be proud of but finishing quality remains their biggest obstacle &nbsp;&nbsp; T",
-      "pub": "Sun, 05 Jul 2026 06:27:14 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Questions on Alphonso Davies absence will linger long after Canada's World Cup exit - Toronto Sun",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOTk3X1NFTE5JTDZjZjR5dEZEd09WcGJWYVpQRXBad0FlS1lpVEstb2xYNWVGaU1UWFUzRzZ6dS1RMWc4djlLcXJpUnFXMV9DTDJCbG44a2pBTHBwYzZjMXNRcHhoWWtSek9KWnllU0hMRmtjU3d6enEyZmo0U3lqVlRLSVNhVlBuLXc?oc=5",
-      "snippet": "Questions on Alphonso Davies absence will linger long after Canada's World Cup exit &nbsp;&nbsp; Toronto Sun Alphonso Davies’ confusing absence costs Canada when it mattered most &",
-      "pub": "Sun, 05 Jul 2026 03:07:13 GMT",
+      "title": "Eulogist at Khamenei funeral in Iran calls for death of Donald Trump - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmgycUpfdTRncEdSUl9VWFFmdFBLaGFTNHUzUjdmVlJWaE5kNHNzSnUyV3NlUkRFbkN3WjJKRGRBYV9lUzJZSEVDUF9nNVRoTkJWdUliNEo5bnl5UjE0SzBMQzVkLThoM1lSODZMcVE1TXVTVi1UWWNQVGNBMnhtNlJNYWpyM21KU2tvUG5BZk9DNUI3YWhYaUpmRDJ2bEY1WUhfc0xWRQ?oc=5",
+      "snippet": "Eulogist at Khamenei funeral in Iran calls for death of Donald Trump &nbsp;&nbsp; Euronews.com No Mojtaba: Khamenei’s three sons at funeral, not successor &nbsp;&nbsp; CTV News Ira",
+      "pub": "Sun, 05 Jul 2026 09:32:18 GMT",
       "image": ""
     },
     {
@@ -116,18 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Young girl critically injured after falling from apartment balcony - CBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVpmT21UR0x6UXpkZ0k4MHdYc1h2UWRybFZmNDFCZnRfbnh6cEtDMTdFQUFNTmNMNVhvZTBwdWZqVU9memk1dkNmZjRpT0FjSGNKaFJnRlRESjcxYTk4ZXlFSXNBR2RULTJDN09rZXRoaVdzYS15TW1Edi1ETGJ4aGpnMW02NmY3dFYwRVVKVExsa1N0V19yVnZn?oc=5",
-      "snippet": "Young girl critically injured after falling from apartment balcony &nbsp;&nbsp; CBC Girl critically injured after falling out of Alta Vista Dr. apartment building &nbsp;&nbsp; CTV ",
-      "pub": "Sat, 04 Jul 2026 20:19:27 GMT",
+      "title": "Brandon declares state of emergency as overflowing Assiniboine River forecast to continue to rise - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOWxDM1N3NmJMTVFUY2tPeFJVZ0xVYmlhcWlSYUZ6WFozVXE1YzJuenVtVTF5M3pISkhhcEdYQm1sSVBuS0lVQVBCMkFYYUhlRXpHQ25XcU8wRXpid1pidE9fT1RYVDgtV0RteEhoMWlQUjcyT2hvZm5BbkxNTkhKNkxsMmZTWnN4Z3VSNjBlVUdXT1ZnODFyOVYzcU5xSE9pV1E?oc=5",
+      "snippet": "Brandon declares state of emergency as overflowing Assiniboine River forecast to continue to rise &nbsp;&nbsp; CBC Minnedosa braces for crest &nbsp;&nbsp; The Spec Brandon declares",
+      "pub": "Sun, 05 Jul 2026 02:40:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Out-of-control wildfire burning near Boston Bar, B.C. prompts evacuation for about 60 residences - CBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNejRzb3cxcVlYLVgyN1p3ZGVSSjRidUlQaW9wODFUSTBubzg4OFZ6dHNCdnZaR2Z6ZE5fdmJ3YWNIYU4tVTZTZTNZRFhDaGRSNWN5VTlYLVVVYjJ1a0ptQUpxX2dGUl9HOURmdGF4UC1MTF9VNVJoZ1B2Z3JUX0pOX2l1bkF0MGpQWGhWRW8wWS1YRFhzc0xoeFBKdDh0dDlaYmwzSA?oc=5",
-      "snippet": "Out-of-control wildfire burning near Boston Bar, B.C. prompts evacuation for about 60 residences &nbsp;&nbsp; CBC UPDATE: Evacuation order, alert issued for out-of-control wildfire",
-      "pub": "Sun, 05 Jul 2026 02:18:00 GMT",
+      "title": "Girl critically injured after falling out of Alta Vista Dr. apartment building - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWZ5bHVxZEF4VGE5OXprclBnR3JKWXU0cVdVVlpyRUpkaWxSR1F5YmQtWnV4RG9LQ2RadFM1SU1GendCQmc4cXQ2b2FtSHFXY3RZVUJROU1rbkxiTGZBWXhuNTdKZ1dOYmhjaUN0dnI3S0xPbWhPU3dOVG54Y3FVSGhDRWlGSlVOamRIRzYzb2pWeUtRRXhGUnlpc2FnUW1PVWc0XzY4WVBqTVE0aEJ0VGNuai1naXc?oc=5",
+      "snippet": "Girl critically injured after falling out of Alta Vista Dr. apartment building &nbsp;&nbsp; CTV News Young girl critically injured after falling from apartment balcony &nbsp;&nbsp;",
+      "pub": "Sat, 04 Jul 2026 19:14:36 GMT",
       "image": ""
     }
   ],
