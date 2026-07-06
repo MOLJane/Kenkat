@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-06T03:40:01.582279+00:00",
+  "generated_at": "2026-07-06T08:11:12.782240+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "July 6, 2026 – Do you think Newfoundland needs more alternate routes apart from the highway in case of emergency road closures?",
+      "link": "https://vocm.com/2026/07/06/303248/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13139').",
+      "pub": "Mon, 06 Jul 2026 07:30:49 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/clarenvilletch.png"
+    },
     {
       "source": "VOCM",
       "title": "YWCA’s Circle of Distinction Awards Deadline Extended",
@@ -59,51 +67,59 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rnc-lights.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Bigger Turnout Expected for MASS 2026 due to Increased Arctic Sovereignty Interest",
-      "link": "https://vocm.com/2026/07/05/bigger-turnout-expected-for-mass-2026-due-to-increased-arctic-sovereignty-interest/",
-      "snippet": "With a more recent focus on federal expenditures and Arctic sovereignty, Kris Drodge - Head of the School of Maritime Studies - says this will be a bi...",
-      "pub": "Sun, 05 Jul 2026 13:52:07 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/10/master-mariner-captain-kris-drodge-marine-institute-2.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Submarine showdown: Carney poised to choose Canada's next submarine fleet - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0ZQS2I5aDMyaklSMUtBc1lxR25oY3VDelU5SkQ4UGZaOG5Mb05wOXRBcWdVR1h4dlpNMXM5ZzEyRFZhOXh5RVdUQlJBRUY0OVF1cXdwejBRc1BoMjBsV3N1Q2VrdnhuTk16Qmp3UEVEdzdOd092TEpMaTV5R0c3UFhhdW5xbmxNVlE?oc=5",
-      "snippet": "Submarine showdown: Carney poised to choose Canada's next submarine fleet &nbsp;&nbsp; CBC Winner of high-stakes competition to build Canada 12 submarines to be announced Monday, s",
-      "pub": "Sun, 05 Jul 2026 22:51:00 GMT",
+      "title": "Trump targets Obamas again with doctored image posted on social media - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUwtdlNVUjVobm5qZEdjU29pX1BIaTRZU0xBNmp5cjNSRk9uQXlTUno5NGM5bmNxRWwxc3JSWXNmM1lMOVBrS2c5LTVfWFQ4TlI1VXBNV2N2ejdRVFZFMl9fSnhHQU1qcTdJT1ZBRmhRMFpaT0Y4c2FEaVhGNnAzMjFCQVdrSjg?oc=5",
+      "snippet": "Trump targets Obamas again with doctored image posted on social media &nbsp;&nbsp; CBC US politics live: Donald Trump posts racist image of the Obamas &nbsp;&nbsp; News.com.au",
+      "pub": "Mon, 06 Jul 2026 01:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Train derails in Repentigny north of Montreal, 20 railcars derailed - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlVEMmIyR1B2RnlfZlNSTk4wNXI4TEdWZHlhdEgzckdDUEJ3Vk54ZzdkNXRXbHh6bXRZYTRBY181bWdnQzN2emN2bVItQ2hJX1haelpmXzVLMjB2dldNM20ybHNJai1kOTZNQzF1dl9ldFo4QS11Q19fSERPMHo3YjhrWU5sdWJmTVJKMENmV3dsa2UxMGVEMFNUVXBjc1lLTDV1NWtrVWhndlk?oc=5",
-      "snippet": "Train derails in Repentigny north of Montreal, 20 railcars derailed &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Sun, 05 Jul 2026 23:29:01 GMT",
+      "title": "Train derails northeast of Montreal, police say no injuries - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOVIwbWhxOENIaUhBTkYzQ1E1anBQUWx3UjJjSWsyNnIya3kxVzVpODlZWmdTNHFIcDJ2MDVPSVJUQWxzakJkLUpwZ1AzakJrLXpEZjNvX3pRX3ltVHBwUW1BY3Y5MWJDZHFnVThEV09pT29uZGpNSEV1NlIzcXlFXzNxRXRpNmFvcmcxNQ?oc=5",
+      "snippet": "Train derails northeast of Montreal, police say no injuries &nbsp;&nbsp; CBC Train derails in Repentigny &nbsp;&nbsp; Montreal Gazette Train derails in Repentigny north of Montreal",
+      "pub": "Sun, 05 Jul 2026 22:47:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "At Least Ten Killed as Russian Missiles Once Again Rain Down on Kyiv - UNITED24 Media",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYjFRQlRFRk9OeG12MWJRMjVZSlB4d1BLbVFjYjJ4Szh3TmJnNFV4NUdkdG9OeGpDT0VEMlpjNm5TZjJMOGIxSzJZXzFfdHRhaVBBRHdjeUk3UWxWWnBpZ0VrNlpPRU1hNFNqbmMwVVkyS1VTMTVleGVVemZkWXlTR0tUZVNsTVNGY2Q3ZVA5RHhQWjQ2V2VXSWdNSkZDT1h6dm5NNDJvdmRkc3lkblB3cC14UlBZS01yQ2k3UUNBYmhENTAzTVJzT3Iyc3FzUFRV?oc=5",
+      "snippet": "At Least Ten Killed as Russian Missiles Once Again Rain Down on Kyiv &nbsp;&nbsp; UNITED24 Media Kyiv struck in deadly strikes on eve of Nato talks, killing nine &nbsp;&nbsp; BBC R",
+      "pub": "Sun, 05 Jul 2026 23:50:45 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Canada to announce submarine contract winner on Monday, Globe and Mail says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWVjS0NtM0pPeFhsdVgtRVhTSm14TjNmS1RRNHB5dmFFUkc4Mm95czZiZkNCR0lPVlhfT1I4X2twaXlicU5jWWItT1NzX2dHQ2pXZmM4N0JkMmZYNmVkWGtWV1NsSmVsRUl0UFRtQWlmU1Juelc3MjNsd282SDhvREtpMGJTcmtoSEVEVGd0anpWZG9tMEdUVFJ2LTU1emd3emVPWHFxSWc0MUJyQWRkbnJtMFZPY1RKQ3c?oc=5",
+      "snippet": "Canada to announce submarine contract winner on Monday, Globe and Mail says &nbsp;&nbsp; Reuters Submarine showdown: Carney poised to choose Canada's next submarine fleet &nbsp;&nb",
+      "pub": "Sun, 05 Jul 2026 23:03:44 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump again blasts 'communists', hails US as history's 'crowning achievement' on 250th anniversary - France 24",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZHNQUlVNMU4xWlcteWNURUtldXZlMldIQkxubmV6T3lVbUNvY2JpNXh4QkJZOEJHbkdwY1czVks1ME1LeWxfN0xvVGJvbmlnRm1sNlZyUEh2UHdjNmJLLUFFQnlYTEdsak9YYWhpeGNpYjFJazJFVEx4OVNmSDkxZTVPcWNrZG9UUWRYaGdDWGdqRTNoMkF2ckxSMkh2dWsyUXRtQmlreUk3NUlUR3JORG9NSk54cktiV1YySExoVHRkQmNT?oc=5",
+      "snippet": "Trump again blasts 'communists', hails US as history's 'crowning achievement' on 250th anniversary &nbsp;&nbsp; France 24 'We will always be on top': Trump marks U.S.'s 250th birth",
+      "pub": "Sun, 05 Jul 2026 05:35:54 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Out-of-control wildfire forces evacuation in B.C.’s Fraser Canyon - Global News",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VZnJVUmVRbHdhT0dRVHcyRnlWUEJPVk9KVjREWVJyQjdkSjN4cG9QZzJlZ3VtSDROX01IMXJLLTBjS01QY01VUDJpakU1bjdfcENOSzFxZ1NhSzV1b3FWeHoxY2FzZ2luXzZQLUFlTnRtemoxcnZyVk14bE9DUQ?oc=5",
-      "snippet": "Out-of-control wildfire forces evacuation in B.C.’s Fraser Canyon &nbsp;&nbsp; Global News Wildfire evacuation order for Boston Bar area alert extended &nbsp;&nbsp; CityNews Vancou",
+      "snippet": "Out-of-control wildfire forces evacuation in B.C.’s Fraser Canyon &nbsp;&nbsp; Global News Brunswick Creek wildfire balloons to 1,200 hectares, forcing evacuations near Boston Bar,",
       "pub": "Sun, 05 Jul 2026 15:28:44 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Massive Russia attack hits apartment buildings in Kyiv, killing 4, injuring 18 - The Kyiv Independent",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1falNaVm51anJsbkFzajdrTzZlZzVaRE1hX1pmWldzVXhYaUxZSGRNOGFqNWZBcEhLaFJ4VVZ2MWJnYkpjVFlCbDdmM0I0emRHTFg1YXRhbGVYVVhiZFhF?oc=5",
-      "snippet": "Massive Russia attack hits apartment buildings in Kyiv, killing 4, injuring 18 &nbsp;&nbsp; The Kyiv Independent See more headlines & perspectives on Google News",
-      "pub": "Sun, 05 Jul 2026 22:48:11 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "‘Shame on you': Belgium accuses FIFA of caving to Trump ahead of World Cup clash - Politico",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOajN1MHJVZERRT3Atc3N2YWxIUWlYNmstY29EZ3doQmo1LWxOX0lMRjh1WEJZR05pSzlyMV9Nc1lzVWNna1dxby11VXcwbVVIR2tEVE5pOExKVjU1UEF0UjhfcGZCRVVldHZFMXRDVkk1QkE2NFgtdlY1cmtXNzB2N0pkWUNlNzI0V1d3NE1xZHdaa1l1UEZXNjBIWGdYa2UtUzV5a1dNRFBpMnYwaTZabl9neXU3ZTJ1YUN6Qw?oc=5",
-      "snippet": "‘Shame on you': Belgium accuses FIFA of caving to Trump ahead of World Cup clash &nbsp;&nbsp; Politico Balogun's 1-game ban suspended by FIFA, allowing U.S. forward to play vs. Bel",
-      "pub": "Mon, 06 Jul 2026 00:15:00 GMT",
+      "title": "Fort Simpson fire: Crews report progress in more helpful conditions - Cabin Radio",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaW9UZXJsa3VXT3pRTU9hOFdfMm5aVGtpMzJKOGpKMUl1TnBNdk9HX3laLWtPVkpad0xfcmx3N0dsNnJ6R3duUVlMMVI2UWN5LTBHY3dTS2xVLThVOWk0ZXoyOXF2bzVjSVlyZkFFazIwUkhTTTdPZkF1WVI5OUtTeWZwTVFjMVNSXzJCZTk3Y0tTNFphN3BtWWRGaFNkbnZqaW5wV0VUVXRka3J3bGpQSGNOVHl5OFBJTUtKaFpoczg?oc=5",
+      "snippet": "Fort Simpson fire: Crews report progress in more helpful conditions &nbsp;&nbsp; Cabin Radio Shifting winds around Wrigley, N.W.T., causing fire to 'hiccup' &nbsp;&nbsp; CBC Fire b",
+      "pub": "Sun, 05 Jul 2026 18:24:00 GMT",
       "image": ""
     },
     {
@@ -112,22 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aY1QwbTRhVlBGZThMWWszMWxhMDlTS0VfTnlPMHA5SU1kajZ3RTJ4aExOamhmUkd3c1BqUTV4QWVCcUhId25Nakp3OTNQQWhKSWd4cnM0UkZTMER0NkkwdGI3WVI0UzVhbG5HdkhVZ3JlazZFWk52cjJBNA?oc=5",
       "snippet": "General Motors says renewal of CUSMA ‘very important’ for auto industry &nbsp;&nbsp; Global News LeBlanc says Canada seeking clarity after U.S. opts for annual CUSMA review &nbsp;&",
       "pub": "Sun, 05 Jul 2026 22:59:38 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Fort Simpson fire: Crews report progress in more helpful conditions - Cabin Radio",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaW9UZXJsa3VXT3pRTU9hOFdfMm5aVGtpMzJKOGpKMUl1TnBNdk9HX3laLWtPVkpad0xfcmx3N0dsNnJ6R3duUVlMMVI2UWN5LTBHY3dTS2xVLThVOWk0ZXoyOXF2bzVjSVlyZkFFazIwUkhTTTdPZkF1WVI5OUtTeWZwTVFjMVNSXzJCZTk3Y0tTNFphN3BtWWRGaFNkbnZqaW5wV0VUVXRka3J3bGpQSGNOVHl5OFBJTUtKaFpoczg?oc=5",
-      "snippet": "Fort Simpson fire: Crews report progress in more helpful conditions &nbsp;&nbsp; Cabin Radio Officials ‘expect more pressure on southern portion’ of Wrigley fire &nbsp;&nbsp; Cabin",
-      "pub": "Sun, 05 Jul 2026 18:24:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada’s first new military tanker takes flight in milestone for $3.6B fleet renewal - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHZQbEo0cGRoVElEa24yNVh3ZU5CT1lqM2NFX2sxNjI1cGpEWFNWR3hwRkc0cmhHZC1YSEh2bF9OY1E2VVJMZlFxYUtQcEJyNWFWZzhsZUQ2ck91Rm0wLVNZakNkNjVLV3Z2QjNYUkdRa196U1c5RzRoTm85QWJZc2hTbkdtbm41VklGQnJKN1VrUGZBZmdfZkU0T3lRNGdOeTJPZVBfTF9EWExrUDFDeUplRzM?oc=5",
-      "snippet": "Canada’s first new military tanker takes flight in milestone for $3.6B fleet renewal &nbsp;&nbsp; CTV News",
-      "pub": "Sat, 04 Jul 2026 18:01:28 GMT",
       "image": ""
     }
   ],
