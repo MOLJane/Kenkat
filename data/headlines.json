@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-08T05:13:28.148604+00:00",
+  "generated_at": "2026-07-08T07:44:02.610872+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "July 8, 2026 – Should government offer an apology to Newfoundlanders and Labradorians in light of the controversy stemming from Memorial Day ceremonies in Beaumont-Hamel last week?",
+      "link": "https://vocm.com/2026/07/08/july-8-2026-should-government-offer-an-apology-to-newfoundlanders-and-labradorians-in-light-of-the-controversy-stemming-from-memorial-day-ceremonies-in-beaumont-hamel-last-week/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13145').",
+      "pub": "Wed, 08 Jul 2026 07:30:04 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/tourism-minister-andrea-barbour-beaumont-hamel-danger-tree.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Clarenville RCMP Seek Public Help to Identify Bank Card Theft Suspect",
@@ -59,14 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/home-hardware-stolen.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Demolition Begins on Old Bell Island Ferry Terminal and Waiting Room",
-      "link": "https://vocm.com/2026/07/07/303426/",
-      "snippet": "Demolition has begun on the old ferry terminal and waiting room on Bell Island. Area MHA Fred Hutton says the $1 million project could result in some ...",
-      "pub": "Tue, 07 Jul 2026 13:59:23 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/demolition-ferry-terminal.png"
-    },
-    {
       "source": "Google News Canada",
       "title": "U.S. indicts Bishnoi gang leaders and others in B.C. for trafficking, violence - Vancouver Sun",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazhZMWdoUld0MkdyU1dtMXFKeWF5S3NFdV9TVUZ2Z1ZjeVBQTzZMSW9uYXVIakxhckFMajRjX0pJTnRkVnZWek5Lb0tWNDVGZGR4TmlOTnVELTRqUU4tVlJvQm9tNzVmLUJ0ZjNVc21HQlY3dUlMZ1lOMWNPa1dieS1fNUZhV1JLaERYOEhRM0ZKQXk4TE16UDI5aXc2X3BoT1hLX3NYTi1EcW4yS3lv?oc=5",
@@ -76,34 +76,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "US launches strikes on southern Iran, Tehran vows ‘crushing response’ - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa1hvbWRYQ2V0aGJILWJ3Skd3MlV2aU1lSmVjNXlEbGR2NF82TU1MTkJELUd2cEdOZHNwelBfdFo5RV9JZ1pfZnRydTBOUUdZRnE5dVRaZFRvNVpWNGpnZldndk1tdFFBaFJnZGFjOWw1S0hWRTVRamhhdHdXN3JySktHbWxkVGxRM2lnMGVHWXU2cXpGdkZpb0ZzWTczV2tkVUZF0gGoAUFVX3lxTE5EbUZ0TjNIVXJEQk9VdjlNaXMxVHZSSng1S19OM2hhMV8xSHVuLVk1bTBINjE1OFJpTGhoel9jN3BKa1o5T1p0Q3ZyMmZUVGsyb3ZqN2RvYkI1N2dTSy1JaTlnZXhXQ0M4WUdaQVp1bVoxV2NOVk0xd295V3gySGtFTWJTbjZ2VGIzRkJzcE5PcHFYSXI5QlllbGhNY3VIMndXUzZSWHh4OA?oc=5",
-      "snippet": "US launches strikes on southern Iran, Tehran vows ‘crushing response’ &nbsp;&nbsp; Al Jazeera Iran war live: US bombs Sirik, Qeshm, Bandar Abbas over Hormuz attacks &nbsp;&nbsp; Al",
-      "pub": "Wed, 08 Jul 2026 03:32:26 GMT",
+      "title": "Ships attacked in the Strait of Hormuz: What that means for ongoing talks - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWxQQVZHR2dmVHRRem9Mb25HeDdFQnJwVGUzTHY0QUx2YndfMlRXcDlJNDFSRjk1UF9TbFBTOVlIdUotbUV4M3FIVGZoWHdIdDBTdy0zMWRXWENacXR1QnhvQ1U1RkFBQUtNTjU5X3Qyc25TMXgxaTJ0R1E3aHBpdV9iZmxCSFpMYWI4SENTeWg0bmVJQ1pLVlFTQ3JPTTM2c0VWOHlLTFNXUWpVRjA4ZHpn0gG3AUFVX3lxTE1jS3JLS21OVy03MHh2NzNTNGx6YjBaMjlaeS1GTXM2dkk4RkZMR3VJc2hmTmRoUEZrVjJsYUY3VjBkYlBFcXlNRDVWMjhKQWZTai1SdTFBNXY2TEozbWl0aGlVRmFUdDUweDFoeFE3a2xVdTlzVWVMUkJMbF81ZlNFNDhKUTNVeE1vNjNjYnBWaEd4di1GLVZMbTlwbDFCYmpRVDhtYTVYbWdDRlFpNTItc1VpWUlfQQ?oc=5",
+      "snippet": "Ships attacked in the Strait of Hormuz: What that means for ongoing talks &nbsp;&nbsp; Al Jazeera Iran war live: Sirens in Bahrain, Kuwait as Tehran responds to US attacks &nbsp;&n",
+      "pub": "Wed, 08 Jul 2026 03:24:30 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "B.C. to pursue legal action against OpenAI over Tumbler Ridge shooting - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYlZKZEE1UThZWVhIb3ltOEZ1Nmt1aUt6c0ZiNFg1MXNCLUpHMFZGaUxCajR4MEs4RVRfbC1SQW9PbFRhdG9jakpSOW1WaUVwS19SVTJFcHVUSW5RM2pua2szNWpDSUhHRERhVHczWmV3Wi13OG9hVElHeXNSb2NhM2ZuenFybGs?oc=5",
-      "snippet": "B.C. to pursue legal action against OpenAI over Tumbler Ridge shooting &nbsp;&nbsp; The Globe and Mail B.C. prepping lawsuit against OpenAI over Tumbler Ridge tragedy, attorney gen",
+      "snippet": "B.C. to pursue legal action against OpenAI over Tumbler Ridge shooting &nbsp;&nbsp; The Globe and Mail B.C. 'preparing legal action' against OpenAI in wake of Tumbler Ridge mass sh",
       "pub": "Tue, 07 Jul 2026 17:00:08 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "MRU says employee, student data compromised in cyberattack - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSWt1YWVsY253T2RwWjdNY3RyM3FWZlFWS09NQ0ZuTV9kT1ByNVNGc3ptZTlpaUhJNnQ4Wlc1YWFyZmNXd1BLTjE1MmxvNzRZbmhxQm5mNmhPQjJ5RnMtWmdrOVRBRF9FQjJDSGF2RWp3Z3pleFV5aHdCUGdjbG9LblBOZGF4RkR4LXF4dzF0OF9rQUFneEpNSU9kODNrdw?oc=5",
-      "snippet": "MRU says employee, student data compromised in cyberattack &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Tue, 07 Jul 2026 20:33:23 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Carney hails submarine deal as NATO win, moves to ease South Korea's disappointment - CBC",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmZ5MVZrc1g5dDlpR0NMaWtQTW1DMUhCNjB5X1hmZDlac2RaSzk0T3puNDNoZHBiendXUHJHb3RBcTR1ZVNnUjRfRkdzRmJqMWdHaEdoUWpQR3FtRDFPZ3A1dTFTT1lfanZJNEUyQlZ0ZG5WX0hNMFVneHJLdTB5Yzk1VmpfZDdwbDRWaXNDT19HZ0Jxc3dQTy1seFh3M1k?oc=5",
-      "snippet": "Carney hails submarine deal as NATO win, moves to ease South Korea's disappointment &nbsp;&nbsp; CBC Canada-Germany joint statement &nbsp;&nbsp; pm.gc.ca Thousands of jobs expected",
-      "pub": "Tue, 07 Jul 2026 22:04:50 GMT",
       "image": ""
     },
     {
@@ -111,15 +95,31 @@
       "title": "'Montreal is crying': Slain police officer honoured with ceremony at Bell Centre, procession of thousands - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2NQc3lCdzh0ZGJEM1dYS2NNZUwtV3ZDZ3RTWnpOanREdURtREJBY0tjX3FvU0FYREp4RkZ3UFYySEtKcThnLWdkR3dOb0RGbkYyV0dNLUw0QkhfTmpibXR4TzhMN0FvNTVIVjF2dVpzM3VraGpHMUhWeFlhejBScDhkMHNQWl95M1E2N3FEU2RUYmp2SFRYTnkwUVo?oc=5",
       "snippet": "'Montreal is crying': Slain police officer honoured with ceremony at Bell Centre, procession of thousands &nbsp;&nbsp; Montreal Gazette With grief and gratitude, Montreal and famil",
-      "pub": "Tue, 07 Jul 2026 16:01:24 GMT",
+      "pub": "Wed, 08 Jul 2026 03:18:58 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta's pipeline deal could allow Canadian oil to reach new countries. But will they want it? - CBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNWk0dE0wNndGOFJrVzJwN1Ezbl9xYkNkSU9WbVNZLVNJWUpQY0pUV3d3UzFPZ2xXQUtsd3dyZUxEUUMwM2tPY2tFVGFkc2hyekduLVVoZTAzU1VIWW1pcDdXN1NIemlIRjNqdnFvSC1QZ2doOWd1YTNRWFR3VUFTbg?oc=5",
-      "snippet": "Alberta's pipeline deal could allow Canadian oil to reach new countries. But will they want it? &nbsp;&nbsp; CBC Opinion: It’s good that we’re building pipelines, but not so good t",
-      "pub": "Tue, 07 Jul 2026 15:36:15 GMT",
+      "title": "MRU says employee, student data compromised in cyberattack - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSWt1YWVsY253T2RwWjdNY3RyM3FWZlFWS09NQ0ZuTV9kT1ByNVNGc3ptZTlpaUhJNnQ4Wlc1YWFyZmNXd1BLTjE1MmxvNzRZbmhxQm5mNmhPQjJ5RnMtWmdrOVRBRF9FQjJDSGF2RWp3Z3pleFV5aHdCUGdjbG9LblBOZGF4RkR4LXF4dzF0OF9rQUFneEpNSU9kODNrdw?oc=5",
+      "snippet": "MRU says employee, student data compromised in cyberattack &nbsp;&nbsp; CTV News Mount Royal University ransomware attack compromised student, employee data &nbsp;&nbsp; CBC MRU st",
+      "pub": "Tue, 07 Jul 2026 20:33:23 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "What Graham Platner’s collapse means for the Democrats - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUjQ3ZFRLNDBVQkhEdDZkWnhDV1VYaVJid0h0eFhaY3ZhaXJQLU9NekVwaU1BUzRhYldFU0RTNzVzdWU0MVVadFR2QW5VOUgyUWJXR2hWTWI5U3pJdWV5dXdTa0lNTzJDZzBRZWIxUnAzNEMxZlU3OEM1bTNDYlZDejl0Z3NTSFI1RkxLa250d2pVWTc4emszTzZJOG1WcDhGdEk2TC1vYw?oc=5",
+      "snippet": "What Graham Platner’s collapse means for the Democrats &nbsp;&nbsp; The Economist Exclusive: Woman who dated Graham Platner says he sexually assaulted her &nbsp;&nbsp; Politico Per",
+      "pub": "Tue, 07 Jul 2026 19:16:31 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Wab Kinew tiptoes around questions about oil pipeline proposed by premiers Smith, Ford - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BZ2ZYdVhacEpvVTROSWxTS3Q0OVIyaHhqM1VrUERJWmhSb2FIYXJxcjcxVWxXWnVHWHhNVnNwLWNnYXFKTWFTZ3lnal9wWFRXODVRekJHQmE5czRieGdBUlFmaHAyLTFPZzV4RkprUG5kMUpldldMYmdn?oc=5",
+      "snippet": "Wab Kinew tiptoes around questions about oil pipeline proposed by premiers Smith, Ford &nbsp;&nbsp; CBC Opinion: It’s good that we’re building pipelines, but not so good that we’re",
+      "pub": "Wed, 08 Jul 2026 01:01:00 GMT",
       "image": ""
     },
     {
