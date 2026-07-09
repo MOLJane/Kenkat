@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-07-09T05:34:37.760096+00:00",
+  "generated_at": "2026-07-09T08:56:03.932029+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Woman Charged After Domestic Disturbance in CBS",
+      "link": "https://vocm.com/2026/07/09/woman-charged-after-domestic-disturbance-in-cbs/",
+      "snippet": "A 53-year-old woman has been charged after allegedly assaulting her partner at a home in CBS. RNC was called to a home in the town around 11:20 last n...",
+      "pub": "Thu, 09 Jul 2026 08:44:39 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/06/RNC-RCMP-Police-Handcuffs-Justice-Law-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Low Water Pressure Forced First Responders to Close Portion of Kenmount Road During Fire",
+      "link": "https://vocm.com/2026/07/09/303615/",
+      "snippet": "It had the potential to become a major disaster, but firefighters overcame a number of difficulties to knock down a major fire on Kenmount Road yester...",
+      "pub": "Thu, 09 Jul 2026 08:36:29 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/burned-out-house-kenmount-road-fire-july-8-2026.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Latest Fuel Prices for Thursday, July 9, 2026",
+      "link": "https://vocm.com/2026/07/09/latest-fuel-prices-for-thursday-july-9-2026/",
+      "snippet": "Gasoline is a little bit cheaper today. The PUB has dropped the price of gas by 3 cents per litre. Diesel on the island is down by about half a cent b...",
+      "pub": "Thu, 09 Jul 2026 08:31:39 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/gas-may-2026.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "July 9, 2026 – Have you ever been targeted by a scammer online?",
+      "link": "https://vocm.com/2026/07/09/july-9-2026-have-you-ever-been-targeted-by-a-scammer-online/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13148').",
+      "pub": "Thu, 09 Jul 2026 08:00:36 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/03/thumbnail-mac-keyboard-computer-online-crop.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Province-Wide Fire Ban in Effect",
@@ -35,99 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/helen-conway-ottenheimer-scrum.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Government Working on Legislation to Address E-Bike and E-Scooter Use",
-      "link": "https://vocm.com/2026/07/08/government-working-on-legislation-to-address-e-bike-and-e-scooter-use/",
-      "snippet": "There are plenty of new electric powered vehicles zipping along roads and sidewalks, in and out of traffic, and people who make the laws are taking no...",
-      "pub": "Wed, 08 Jul 2026 16:08:15 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/07/e-scooter-electric.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "UPDATE: Firefighters Knock Down Challenging Fire on Kenmount Road",
-      "link": "https://vocm.com/2026/07/08/crews-fighting-house-fire-in-commericial-area-off-kenmount-road/",
-      "snippet": "Update as of 2:30 Firefighters managed to get the upper hand despite a number of challenges posed by a major house fire on Kenmount Road this afternoo...",
-      "pub": "Wed, 08 Jul 2026 15:55:10 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/fire-final.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Man Reported Missing from Embree",
-      "link": "https://vocm.com/2026/07/08/man-reported-missing-from-embree/",
-      "snippet": "Lewisporte RCMP are seeking the public's help locating a missing man. Thirty-six-year-old Andrew Hurley was last seen leaving a home in Embree around ...",
-      "pub": "Wed, 08 Jul 2026 15:06:03 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/andrew-hurley.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Habs Stars to Join Alex Newhook for Golf Classic Fundraiser in St. John’s",
-      "link": "https://vocm.com/2026/07/08/303548/",
-      "snippet": "Some star players with the Montreal Canadiens will be in the province next month for the annual Alex Newhook and Friends Golf Classic. Now in its thir...",
-      "pub": "Wed, 08 Jul 2026 14:56:01 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/arber-xhekaj-and-jakub-dobes.jpg"
+      "source": "Google News Canada",
+      "title": "US conducts new wave of strikes on Iran as ceasefire falters - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2FaTkhSUlVxQjR4STljOXJidWN0UzdNeDR4dEo0RDNLOVlva3F2X3BraTlpZjI1Y1ZzUU8xdVhmQXZoSWdrNnlGZjUtTUl2R2lIRHBDWXhJZjFWTjdHV0pHV21ORkVCZTQ1eFNrck9iUUVscVBrdFhuYzM5eU1pNVlnRERYc2U3czJxSnNJTG1YdjN2dF9zU1hCNXJzelJJcTJkbjBMeHpQcGM3bHfSAbMBQVVfeXFMTUtNY04tbUMxN2tfTnpGUERzczJHUW1YQXQzczRDUjRpNmlmb2l5MENfOExad2xuMklCSHFHTjlUTGFycWJUZkh5T0NadHFoRXpkZXJmVnBkMHY1cEs2RGpvLUFYSC1NRUNiNnNoYjV6aUhtTWlLV29SSTZib0hCNFJOMXN5N2FHNmZkUnp2bk5ydnhyNUlTSHdSQ0dFZUxBRnJmLTU5ZEZud09HRkxQdk9XaE0?oc=5",
+      "snippet": "US conducts new wave of strikes on Iran as ceasefire falters &nbsp;&nbsp; Al Jazeera Iran war live: Tehran attacks Bahrain, Kuwait again after deadly US raids &nbsp;&nbsp; Al Jazee",
+      "pub": "Thu, 09 Jul 2026 05:15:35 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "US says conducting new wave of strikes on Iran as ceasefire falters - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2FaTkhSUlVxQjR4STljOXJidWN0UzdNeDR4dEo0RDNLOVlva3F2X3BraTlpZjI1Y1ZzUU8xdVhmQXZoSWdrNnlGZjUtTUl2R2lIRHBDWXhJZjFWTjdHV0pHV21ORkVCZTQ1eFNrck9iUUVscVBrdFhuYzM5eU1pNVlnRERYc2U3czJxSnNJTG1YdjN2dF9zU1hCNXJzelJJcTJkbjBMeHpQcGM3bHfSAbMBQVVfeXFMTUtNY04tbUMxN2tfTnpGUERzczJHUW1YQXQzczRDUjRpNmlmb2l5MENfOExad2xuMklCSHFHTjlUTGFycWJUZkh5T0NadHFoRXpkZXJmVnBkMHY1cEs2RGpvLUFYSC1NRUNiNnNoYjV6aUhtTWlLV29SSTZib0hCNFJOMXN5N2FHNmZkUnp2bk5ydnhyNUlTSHdSQ0dFZUxBRnJmLTU5ZEZud09HRkxQdk9XaE0?oc=5",
-      "snippet": "US says conducting new wave of strikes on Iran as ceasefire falters &nbsp;&nbsp; Al Jazeera Iran war live: Sirens in Bahrain, Kuwait after deadly US attacks on Iran &nbsp;&nbsp; Al",
-      "pub": "Thu, 09 Jul 2026 02:09:20 GMT",
+      "title": "After a tense, Trump-disrupted NATO summit, it may be the last one for a while - National Post",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FVDk1RHRLRDh4SGxsdXZkdUdQcGxsci0tbXc1WEZrb3oxQnUtdlNnc24wZDlWcERKRnpRbEEyTFluTVU0UmxWYlNpWHJOYXhCUjh6NVZ3dUhCamRKNDJMSGVWMUQ?oc=5",
+      "snippet": "After a tense, Trump-disrupted NATO summit, it may be the last one for a while &nbsp;&nbsp; National Post Sabre-rattling to ‘tremendous love’: erratic Trump dominates final hours o",
+      "pub": "Thu, 09 Jul 2026 01:49:35 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Graham Platner drops Maine Senate bid, clearing way for Democrats to pick new nominee - CNN",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd1JLYzdKUF9ISC1Od1hGTktUc3llSzZfcG4xVk9OWWU2LUYxZEpnSWxiWTF4dlpHOU00RFlTcXJVZl9CRmk2czFTeFZqSjAzWUtsNHROZGUxeFlhQUJ5eS1OWEtncDFqeXhmSExiQWRyMXFMSVZQSUE1TmFpVUxGNWl0Zw?oc=5",
-      "snippet": "Graham Platner drops Maine Senate bid, clearing way for Democrats to pick new nominee &nbsp;&nbsp; CNN Graham Platner's exit throws a must-win race for Democrats into tumult &nbsp;",
+      "snippet": "Graham Platner drops Maine Senate bid, clearing way for Democrats to pick new nominee &nbsp;&nbsp; CNN What the Graham Platner scandal says about Democratic Party's troubles &nbsp;",
       "pub": "Thu, 09 Jul 2026 00:15:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump tempers fury to end two-day NATO summit on high note - Euronews",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWUtUWXRvZ2xrNFlqeXZpVzFoU0dMNDk1UW5fX25uSmhPbl9Lc00tLUk5NU5MTXl6MWdISy1BU1VJcDctakdQelBRWWg0OTg4cGw5MWM2SENwdXlQekZqRHl1MUVuYkI0U2ZUdnV4S0NYckxNLWRqMGRtUGxNeFR6VmluanNSS0lZUFF3eURxSTNFeC05Xzc5SG56T3M3S2lqZTRxVTZ6LWZwVkFHLXRRa0xZc3J4T2ZqX3hXWDlqNzZYU2pwVi1FenFvRXVFcDQ?oc=5",
-      "snippet": "Trump tempers fury to end two-day NATO summit on high note &nbsp;&nbsp; Euronews Trump leaves NATO united on paper, uncertain in practice &nbsp;&nbsp; CBC From menacing threats to ",
-      "pub": "Wed, 08 Jul 2026 17:45:13 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "CTV News in Türkiye: Erdogan gave pistols as gifts to NATO leaders. Carney turned his over to the RCMP - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWVFqdldFZFdIZUY4Y2FIVXV0aDJGWnNmWmNQbHNBbG5YZXR2UDRkbzhicVpBOUw0UGh5a01nY3BMWFlib0dkOExQYi1lMF9iZHpSTUdmeFZuV1Nlcm9reHJIZEVpUjhSV0ZoWEdtTVJSZmZHenotR3JZQi1YZklIMHE4RlJYZXJhLTRqaFJ6V00ya0VVS0RCR19qdk4zNzMydGducXN1ZWNjN05fMmREVE9sTDFOLW9BYzVFYldWLWJtc0xYZ0NVRXRfUnN6eGxsTFJFejhfRU8?oc=5",
-      "snippet": "CTV News in Türkiye: Erdogan gave pistols as gifts to NATO leaders. Carney turned his over to the RCMP &nbsp;&nbsp; CTV News Turkish president gifts Carney, NATO leaders each an en",
-      "pub": "Wed, 08 Jul 2026 23:35:36 GMT",
+      "snippet": "CTV News in Türkiye: Erdogan gave pistols as gifts to NATO leaders. Carney turned his over to the RCMP &nbsp;&nbsp; CTV News Sir Keir Starmer gifted gun and ammunition by Turkish p",
+      "pub": "Thu, 09 Jul 2026 01:52:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "E. Jean Carroll to be paid $5-million after Trump sexually abused and defamed her, U.S. Judge orders - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVI5OHg1SlhaYVVoM2JYYVZmRkNvT0V0d04xbUNudE5oSUZXbl9ud203NnFaYVlUc05ZekNxUHEyS3ZsMWJTb2ZoQld4T2IydnRFb1U2RXQ2Z1lhc211MzhrUUxoenR6MU5JZVRYejdZQzNvMWNWcG5iY3VJb0RQc2dBMjZjQkpFbUl6Wm5EYUZxb2pkWHZtTWttcW9YaVdOWDJXX1BfN1QyTmNaN01zTmQxcUY?oc=5",
-      "snippet": "E. Jean Carroll to be paid $5-million after Trump sexually abused and defamed her, U.S. Judge orders &nbsp;&nbsp; The Globe and Mail U.S. judge clears E. Jean Carroll to collect $5",
+      "snippet": "E. Jean Carroll to be paid $5-million after Trump sexually abused and defamed her, U.S. Judge orders &nbsp;&nbsp; The Globe and Mail Judge orders Trump's $5m damages be released to",
       "pub": "Wed, 08 Jul 2026 17:57:37 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Some structures lost at resort due to Fraser Canyon fires - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zSm1TRTZzT3VNX05OVDB6UkJtOVcwU2N4QmlDYWMtcTFOeUUtTTdHOVlIblpIUDlheXlqUXVSbEYwdUtZcVVBNEYzSHVHbzhuRTFQQ200T3V4TldYZzBoQQ?oc=5",
-      "snippet": "Some structures lost at resort due to Fraser Canyon fires &nbsp;&nbsp; Global News Structures lost to B.C. wildfire as hundreds of properties under evacuation orders &nbsp;&nbsp; C",
-      "pub": "Wed, 08 Jul 2026 15:01:02 GMT",
+      "title": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zVTE2VzRqUXl4MU5yWXI3UG9hUVVjT18ta1JsRkRuNzZ5eVJ0NENKWW1VU295R3FsOEtHSVNCN3FVZTNYV2xEM2ZxenFPQ3RNcVJ5c0hZUDlLQQ?oc=5",
+      "snippet": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq &nbsp;&nbsp; BBC Atmosphere in Iran remains highly charged after Ayatollah’s funeral and escalation of gri",
+      "pub": "Wed, 08 Jul 2026 14:56:24 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "U.S. charges against Bishnoi gang welcomed, but more should be done in Canada - Vancouver Sun",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzVRY1paR2EydVBVaXhoVmlfTGJYdnhQVmtfY0lENkVIX0gwWFUzVEdBOXNiNTh6QjhIRS0xbTdwS3BOYVBSaElDOEJjZ21JLUo5M1VBVjlrYjlrZE54RXhISWNtNzVIb3Q2SjQxVjhOS0FpMW1Rb2Z2clJQNVpldWVjVlB5aG5rSGdWYWlUUGxueVByUlpxeHZSdTc2dw?oc=5",
-      "snippet": "U.S. charges against Bishnoi gang welcomed, but more should be done in Canada &nbsp;&nbsp; Vancouver Sun The murderous rise of the Indian gang using Canada's lax immigration laws t",
-      "pub": "Thu, 09 Jul 2026 01:16:53 GMT",
+      "title": "Kamloops skies turn orange as wildfire smoke drifts into region - Global News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbDZENVc0Q2F5bzRabm5xNnlfQ1c5REFCS0QzOHNPX0lhUWhOTkVEQ3Ftd0lZaW1ZSzFuZjJnOEFCczBKYVEyeUJILUgtYjhyRTN3MTdHRW42SGxUWGNKdXFxZEhnYkkxb1JrRzJfNW1NeWgyaWhmTm15bWdScmN1ZWpZeUNjVGs?oc=5",
+      "snippet": "Kamloops skies turn orange as wildfire smoke drifts into region &nbsp;&nbsp; Global News Structures lost to B.C. wildfire as hundreds of properties under evacuation orders &nbsp;&n",
+      "pub": "Wed, 08 Jul 2026 22:37:39 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Toronto woman who police called ‘female belligerent’ fights her traffic tickets—and wins - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMllHakwyQ0RNcGVkUTg0Q3RnTXdBcy1ZakVacVlZUjA1YnZHUEJPWXdEc0ZJMFN3clVTWUh6dmdLcGVoZHdUQXhUNi12MU1GWExib0FxSzFWUHFsWGljUkZGNGE3T3NmQmZhcVVIWW5sMzcwV1hGSmpxRUoyZmY0azNSZmRCVHkzdnlWM2NWRlBORlZVR1FXcGozcjlHS0dXWVBtTTNhU25CVlhraV9ERE92Ump6cUd2WmVrd0tiODVlZWM?oc=5",
-      "snippet": "Toronto woman who police called ‘female belligerent’ fights her traffic tickets—and wins &nbsp;&nbsp; CTV News",
-      "pub": "Wed, 08 Jul 2026 22:55:38 GMT",
+      "title": "New footage shows first look at Ernest Shackleton's final ship Quest - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HdF9MVHRsejNTeWRUdXRuVnlmTnFOV29ZZEdfbjA1ak1GWGw1RUwxeE1qQ3VqR0hsMThkYmpBX256eXNYRDIyUXpDRVN1bW5pb1VpYWdsWQ?oc=5",
+      "snippet": "New footage shows first look at Ernest Shackleton's final ship Quest &nbsp;&nbsp; BBC See more headlines & perspectives on Google News",
+      "pub": "Wed, 08 Jul 2026 18:42:46 GMT",
       "image": ""
     }
   ],
