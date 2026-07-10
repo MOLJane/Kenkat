@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-10T20:15:12.438814+00:00",
+  "generated_at": "2026-07-10T21:32:14.233517+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "UPDATE: Missing Outer Cove Man Located Safe",
+      "link": "https://vocm.com/2026/07/10/updated-missing-outer-cove-man-located-safe/",
+      "snippet": "An elderly man reported missing from Outer Cove earlier today has been found safe. Rovers Ground Search and Rescue says the man was located \"alive and...",
+      "pub": "Fri, 10 Jul 2026 21:25:04 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/rovers-ground-search-and-rescue.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Unemployment Rate Drops in Newfoundland and Labrador",
@@ -59,35 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/mundy-pond-summer.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Tragic Incident Claims Life of Teen at Swimming Hole",
-      "link": "https://vocm.com/2026/07/10/teen-dead-following-swimming-incident-at/",
-      "snippet": "A teen is dead after an incident at the popular Leeches Brook swimming hole in central Newfoundland yesterday. Grand Falls-Windsor RCMP and emergency ...",
-      "pub": "Fri, 10 Jul 2026 14:14:14 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/04/rcmp-detachment-grand-falls-windsor.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Canada-U.S. bridge to open by late July after delay, Associated Press reports - CTV News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3lIdWlpQTNja1FCdjVibUlVOEd1VFZPOHdvMGk4SC01WG9tU1k5aXBJWldSVGlzTzRVX3ltN2VGX3YwZGJKZC1yOGI5MzEySTJlOXYwc0tWeXRZeTFMVTdxTGtIUEdXN0tVWGxMRTBBTUJJU0pMVWRKa2FLME1JQUNDeFBRQ2pPbDZvRXJuNHV3by1tOVNwNWZ6VlJxUHVEbExCUVVKQ1FBaUQxcjNyU2hpNA?oc=5",
-      "snippet": "Canada-U.S. bridge to open by late July after delay, Associated Press reports &nbsp;&nbsp; CTV News Gordie Howe bridge set to open by late July after Canada, U.S. resolve dispute, ",
+      "snippet": "Canada-U.S. bridge to open by late July after delay, Associated Press reports &nbsp;&nbsp; CTV News Gordie Howe International Bridge set to open 'soon,' source says &nbsp;&nbsp; CB",
       "pub": "Fri, 10 Jul 2026 19:36:17 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Canada’s boycott of U.S. wines ‘causing devastating harm,’ California senator says - CP24",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeURLOWwzRW92aEpDWllyUjJnc1lEVFZra2dkYml2VXJ0dGtJb1VYZTZvOXJWM216M2p0ZzY5aHVtNGxTOUJ3WVp2MHpVa0NGR09oNFQyWHBMdVlYLS1OMjNWWkYxMUJnNzhnRWNaM0hESWpWSUdHb1h1RjdDRi15Q2p1MTcxdmdIX2xjenl5Yms1XzdDcU5jdzM5bnVXLUVCWVl1cHpiTHg2SDVCWlRBMllPZmdJWWFnSmtzT1pn?oc=5",
+      "snippet": "Canada’s boycott of U.S. wines ‘causing devastating harm,’ California senator says &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
+      "pub": "Fri, 10 Jul 2026 19:49:17 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "British man guilty in manslaughter of Owen Sound restaurateur Sharif Rahman sentenced to 3½ years in prison - CBC",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMDZzSjFIQU5Wcm9kdnNZZnl0VVBRY1hXb3A5MGxOZkVmZnFFOUNyTjRxa21kYWFmSWxoekZBbk8xM2xlMTF6YW5zcWxJeGxodkRBRFp0OTFjaEY0ak92MEg2cnZqM1ZrVUhidjNidEpLLVpDdkt2UGJTUFNhRElZQ3FlbDYzMDYySGZCeE9sdTJpQnIzQVNFbGxKOEpYZDNtNG1mb3ln?oc=5",
-      "snippet": "British man guilty in manslaughter of Owen Sound restaurateur Sharif Rahman sentenced to 3½ years in prison &nbsp;&nbsp; CBC U.K. man convicted of manslaughter of Owen Sound restau",
+      "snippet": "British man guilty in manslaughter of Owen Sound restaurateur Sharif Rahman sentenced to 3½ years in prison &nbsp;&nbsp; CBC British man jailed over one-punch killing of restaurant",
       "pub": "Fri, 10 Jul 2026 17:05:33 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump says he will not sign landmark housing bill in protest - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LY2FaZmg5YkhjU3RDaXV6aFVqNUxfTm5HUmtQZF9uclRIWU5ZTXM3TE0xNVJmU3BGbUtySDBOMUVYZzA0UC1yUHFpTTN1MWZ3Tm51R2JyRkdwQQ?oc=5",
-      "snippet": "Trump says he will not sign landmark housing bill in protest &nbsp;&nbsp; BBC Trump denies this Congress what could be its last major bill-signing ceremony &nbsp;&nbsp; The Washing",
-      "pub": "Fri, 10 Jul 2026 16:24:08 GMT",
       "image": ""
     },
     {
@@ -100,34 +100,34 @@
     },
     {
       "source": "Google News Canada",
+      "title": "ICE agents at scene of fatal shooting of Mexican homebuilder had no body cameras - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEZ4S1N5MFVhbTdQa05SeDQ3ck1DMmZTQ3VEWXFUNHpscXRTVlpMX3dWYzBoUUlaM0lONXdFaUhJU3V3NkZGdThWSjBnVE5QOXoydjdFX3FDUUI3Y29kR0Y0eTc3UnlMbk94QjlJOHp2c3VBOWllMzhIWUx2TE1Sdlp2WFpiQQ?oc=5",
+      "snippet": "ICE agents at scene of fatal shooting of Mexican homebuilder had no body cameras &nbsp;&nbsp; CBC Man fatally shot by ICE in Houston was not intended target, DHS says &nbsp;&nbsp; ",
+      "pub": "Fri, 10 Jul 2026 01:11:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Pipeline proposal leaves local land questions unanswered - Sarnia News Today",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWtHcUw2dW1USC1xMjBZaWxaVmtyUWRZamRndlB4ODc3WFdBVWFEaC03SS1vcnp1dVBia3dKQmpPQW9WeEEyTm1yMVR6a2lJNEZjQkhpdjVyN0Juazd0Tkk5bHhOekhkTm1zOXlxZkJDT2FMTnZ4V1V3U09LRDdPRGlTLVJhdlFLTWFrY0M0UzNzWE9pbHN2WFVvWXVhLTRPOU50NW5MX3VFZFl3MklN?oc=5",
-      "snippet": "Pipeline proposal leaves local land questions unanswered &nbsp;&nbsp; Sarnia News Today Plans for more pipelines to export Canadian oil — and emissions — as planet keeps getting ho",
+      "snippet": "Pipeline proposal leaves local land questions unanswered &nbsp;&nbsp; Sarnia News Today Making sense of Canada’s pipeline flurry &nbsp;&nbsp; The Narwhal Alberta and Ottawa agree t",
       "pub": "Fri, 10 Jul 2026 09:03:12 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Structures lost, highway still closed as crews battle massive Fraser Canyon wildfires - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHlVYVZUdVpGRXJqMEpRd1hjdTBOMnU5Y1ZBdERXMFIyZjl1eC1jMWVGU1R2RTR6S0pkWlpINlRtZm91WG5SRWFBM0ZvN3o1VTdSVGNRQm5nYmJMeklZMi1yajAwN1oxSzVIeDJvOXNsSDdzaUtJVlc3UlptdXVRdUZOMDFrWjRac2diZVF4TEk0Zm0yTmF5YXZQblVnUkJpd2tXMjQwcmc1dw?oc=5",
-      "snippet": "Structures lost, highway still closed as crews battle massive Fraser Canyon wildfires &nbsp;&nbsp; Global News Bass Coast Festival attendees warned to stay alert as Interior B.C. w",
-      "pub": "Thu, 09 Jul 2026 18:59:49 GMT",
+      "title": "Paddleboarder drowns in B.C. lake, RCMP say - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVWtGVDFTM1NzdnplOGVULWpiN25vY1pJeHZ4MlM2Y21PcGtRU3VvbHFTNGZEQWdrQjlVejdDNHQ2T0JMb3BrbXVjb3pkblFTRDJjY1VxaGpYZlpsR0F1c1hJVGVpd0JZWURuTWVzRGFEZ1RDQldkbVA3ZkFOYUZfbmVCcUhHMFJvSXc?oc=5",
+      "snippet": "Paddleboarder drowns in B.C. lake, RCMP say &nbsp;&nbsp; CTV News Mission paddleboarder drowns in Hayward Lake &nbsp;&nbsp; Abbotsford News Man drowns while paddle boarding in Miss",
+      "pub": "Fri, 10 Jul 2026 18:51:23 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Crop duster pilot in hospital after crash near Weyburn, Sask. - CTV News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTVENmlZUWF4M2lQb3NQNk9tMm5Wa1hFZjZUc2pvX2JvSnJHQWdNRGtXbWt6RzRsaDhjRFN6ZE5YTXdxU004SzhvODFZMVFDOVR5RTVEWDEwZVVyUXpOVlFUZUdaaFpQZ09INDhocG5LR25yeXB3REtBWVJRQnJBVk00cUl1TUItN1I5eWxUVmE1RVFGZHVvSFhkeFBWRWM?oc=5",
-      "snippet": "Crop duster pilot in hospital after crash near Weyburn, Sask. &nbsp;&nbsp; CTV News Pilot in critical condition after crash near Weyburn &nbsp;&nbsp; CBC Sask. RCMP briefs: Small p",
+      "snippet": "Crop duster pilot in hospital after crash near Weyburn, Sask. &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
       "pub": "Fri, 10 Jul 2026 16:28:38 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada Strong Pass has some Banff residents feeling nervous - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRThHVm5PRW94SkJIN2VDVHVHWGxTZHpqNzVlU3VYZ0NhV0w4alNRdVBOZEdiRi1nLS1ZZEhBNDVreG0zOWtkX2I3cHFWTUlJMkdvc2hETl9JdHhEa3A3M2gyTFlhTkFMOVp0OFFmVTdNbEcxOG54LVVqcG1oZncwZURlXzZKczRKYVM3Tzd3NGp0MVlqRDhKbE96SUhxUWpM?oc=5",
-      "snippet": "Canada Strong Pass has some Banff residents feeling nervous &nbsp;&nbsp; CTV News",
-      "pub": "Fri, 10 Jul 2026 12:00:00 GMT",
       "image": ""
     }
   ],
