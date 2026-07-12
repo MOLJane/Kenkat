@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-12T20:02:13.129518+00:00",
+  "generated_at": "2026-07-12T21:11:56.604417+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Branch Road Reopens near Aspen Cove",
+      "link": "https://vocm.com/2026/07/12/303942/",
+      "snippet": "Branch Road near Aspen Cove is now open to traffic in both directions following an earlier collision. The RCMP says the roadway has been reopened afte...",
+      "pub": "Sun, 12 Jul 2026 21:00:11 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/rcmp-royal-canadian-mounted-police-patch-stock-logo.jpg"
+    },
     {
       "source": "VOCM",
       "title": "“Closing Time” for Woman Wanted by Police",
@@ -59,26 +67,18 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/10/Bicycle-Helmet.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Local Instagram Account Trying to Change Public Perception of a Dive Bar",
-      "link": "https://vocm.com/2026/07/12/303924/",
-      "snippet": "A local Instagram account is getting plenty of attention for highlighting the stories behind different neighbourhood bars. Newfoundland Dive Bars was ...",
-      "pub": "Sun, 12 Jul 2026 13:44:02 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/pint-beer-alcohol-stock.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Toronto festival cancelled after shooting leaves 2 dead, multiple people injured - CBC",
+      "title": "Witnesses, residents recount aftermath of Toronto festival shooting that left 2 dead, multiple people injured - CBC",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUU1Y0RiOTJLVnljTmFIeTg3OEhITks5a3NOVVpENURuUThMczdISXp0ZFpBSEtweHI3cmtMQU1xdExPNVp1VFgzNGs1aWh4N3hVVkF0NHFqeWV1WC1Wd0pfdUNMS0dWTnZUX0dETThvOTZEd1BrNTNwcm9aNThFUl93?oc=5",
-      "snippet": "Toronto festival cancelled after shooting leaves 2 dead, multiple people injured &nbsp;&nbsp; CBC ‘I saw parents consoling their children’: Witnesses recount chaotic scenes at Sals",
-      "pub": "Sun, 12 Jul 2026 19:23:28 GMT",
+      "snippet": "Witnesses, residents recount aftermath of Toronto festival shooting that left 2 dead, multiple people injured &nbsp;&nbsp; CBC ‘All I wanted to do was get out’: Witnesses describe ",
+      "pub": "Sun, 12 Jul 2026 20:06:04 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump ally Sen. Lindsey Graham dies after brief, unexpected illness, his office says - Global News",
+      "title": "Trump ally Sen. Lindsey Graham dies after brief, unexpected illness - Global News",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5b1p5b0FGU2dybXg5WHowUDYxdGRzaHR6RHMyb0hEdlU5OVBHMl91UFE4N19maFlOQVhmdUpBSTZ3UFV3SmVsaWttNnc4WTkzZzBITHNvaV9DanBjM01IQTNOeERDekU?oc=5",
-      "snippet": "Trump ally Sen. Lindsey Graham dies after brief, unexpected illness, his office says &nbsp;&nbsp; Global News Lindsey Graham’s death will shake the Senate, and the November electio",
+      "snippet": "Trump ally Sen. Lindsey Graham dies after brief, unexpected illness &nbsp;&nbsp; Global News Lindsey Graham’s death will shake the Senate, and the November election. Here’s what co",
       "pub": "Sun, 12 Jul 2026 14:10:22 GMT",
       "image": ""
     },
@@ -86,7 +86,7 @@
       "source": "Google News Canada",
       "title": "ASIRT investigation underway after break-and-enter suspect dies in confrontation with Calgary police - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUklIY0FSNHNzRTdJRXJXUlQtaXRaSlpGNnh2YkxEZ0I5TTNPbTFDaEtfbFZuSzVucXRja1RxM0NUa1ZLSkQ5VXd5Vk04QVhtOG1xOFlseldRb2Nvck5yLUZYSVg4eW55Y2pUUWYtUWtHWXZCODVyTGhNbEhyVDNlaGdEeXVpa3BXLUVCTVdFVDQ2V0dGTGsyLU9UVDVYMnB2MW0wb1FwQjJEVXhoOEFOanVLTTkxTnM3emdIaHdOS1lyZ1M5TkRTMG5zQWlvNm1WSmY1cWFuUQ?oc=5",
-      "snippet": "ASIRT investigation underway after break-and-enter suspect dies in confrontation with Calgary police &nbsp;&nbsp; CTV News Man dies during police arrest after alleged break-and-ent",
+      "snippet": "ASIRT investigation underway after break-and-enter suspect dies in confrontation with Calgary police &nbsp;&nbsp; CTV News Man dies while in police custody in SE Calgary; ASIRT inv",
       "pub": "Sun, 12 Jul 2026 14:44:05 GMT",
       "image": ""
     },
@@ -94,24 +94,32 @@
       "source": "Google News Canada",
       "title": "Evacuation alert for East Kootenay wildfire, Brunswick Creek fire grows: officials - Global News",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaHc0X1VJaE94VTJSQjlkZUd1dnZOcjRZbjlkaTRfX0FMeUlUc0EtZDFJcGFRUmo0ZkhQcGxCV3VZNHQ2YWVMd2NseEh3VFpsaXBWV2llNW1ZWkR3NXdPWGpaQkRUaXJST0w5QUx0cXFsOUxUVHR2VWgwS21uVHV1Nk96S2pLWHd4MjZaMzZIWUlkOXZuYlR2ZDlVZjAxRVFBejh3ZGVwRlVqUnNRZ0sxYkk5YXByVmFONkNEYllR?oc=5",
-      "snippet": "Evacuation alert for East Kootenay wildfire, Brunswick Creek fire grows: officials &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
-      "pub": "Sun, 12 Jul 2026 18:11:12 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "About 150 residents displaced by major New Westminster apartment fire - Daily Hive",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYUlIYUJ3VEItQTJ3eXNKbTZiZzBYaGZHS0YxQ0RmMzVyMHljVGlMTVBjcjlCVW5kbTN0WXRuSkJiNXI4Rm9yaTlnMzBBOEVnZVpfZF9HU1J2QllaZi0zemIwS2FlWi1UZ29jMnRkR0xZM3JYYTN0amtubmIwU0p6Sko5bEhxYzJzb2IyUWdVc0s?oc=5",
-      "snippet": "About 150 residents displaced by major New Westminster apartment fire &nbsp;&nbsp; Daily Hive Around 150 residents displaced after New Westminster fire: City &nbsp;&nbsp; CTV News ",
-      "pub": "Sat, 11 Jul 2026 22:21:00 GMT",
+      "snippet": "Evacuation alert for East Kootenay wildfire, Brunswick Creek fire grows: officials &nbsp;&nbsp; Global News Wildfire sparks East Kootenay evacuation alert, weather helps firefight ",
+      "pub": "Sun, 12 Jul 2026 14:41:09 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Iran declares Strait of Hormuz closed as ‘unauthorized’ vessel hit - CTV News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLTVKcy16R1Y2cmJHMlJtSXZVdGlvRXBnZjQ2V1RWTlFfUmFvdzgtTUNLZ2wxcXJrMDg5WlZvbDJiV0N0ZDJwakxRTWRaSDRoMUZsdjFoaldkWmN0T25xcWprWlVma1I5UTRzc0F2QTZ5SGJfeEJKeTlQQUxqcVYzVElNSGlqY0g4TGVXdWZyTE5nc1BGN1ZGQ1p6RXo5QlhRLTFlZA?oc=5",
-      "snippet": "Iran declares Strait of Hormuz closed as ‘unauthorized’ vessel hit &nbsp;&nbsp; CTV News Live updates: US unleashes biggest round of strikes on Iran in weeks as tensions boil over ",
+      "snippet": "Iran declares Strait of Hormuz closed as ‘unauthorized’ vessel hit &nbsp;&nbsp; CTV News Trump rejects Iran’s strait of Hormuz closure claim as fight for control goes on &nbsp;&nbs",
       "pub": "Sat, 11 Jul 2026 23:32:49 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Calgary landlord charged with five counts of voyeurism - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2E3MnJCVUhaWTVtVnFyLUdCYVFPWEw3NXNiMHJ1dXBWTXVCeFRCRFY5dkZURmZiQVc3VUh1TWdvbnk3RXBtZGVLdTBzazBabEE1WGNURWE2cndTa2liYTVCV1Z4a3lrU2VfcFQ1THA5cUhIZGI2eWdsVUFJcmxnNV9QY1YwY3RQTUFhaXRTR0FOOThod3NVU0dZRQ?oc=5",
+      "snippet": "Calgary landlord charged with five counts of voyeurism &nbsp;&nbsp; Calgary Herald See more headlines & perspectives on Google News",
+      "pub": "Sat, 11 Jul 2026 21:59:44 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Donald Trump clears path for $4.5bn bridge between Canada and US - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZXJ0c1lrdFZDRmZUMjlWOHBBZVZnTFZvSGd0UUZDdVNHRkE5SHdKMGtPc2l5TXNJTktuTDRjSWFCYWVMalFncWFFMmYwX0hRQjRTZV90R2g0U2xGTTU2S3Jkd05jM3M0VjBhMHZMb2Y?oc=5",
+      "snippet": "Donald Trump clears path for $4.5bn bridge between Canada and US &nbsp;&nbsp; Financial Times ‘Much better deal’: U.S. President Donald Trump confirms Gordie Howe bridge opening &n",
+      "pub": "Sat, 11 Jul 2026 20:28:18 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDlWSDQ1aDM5VXk1RWxJX3V5V1BnT2lxaDdmLVR2cmNYZ0hfaGtHUzl5RVFSTWJzb1o4cVc5c3I3Y29aMTlMNXItb01EWUVKWXQ0SGJwZGk2NzgxMDVSZGVkVkRBUVBMTS1hN3c2Z1dxUjhwRndpa3dzVTNQRmkxVDZ3OWFKd0hUemo4Nk51dw?oc=5",
       "snippet": "Several structures damaged after tornado passes through part of central Alberta hamlet &nbsp;&nbsp; CBC Soaring number of Alberta tornadoes blamed on ‘perfect concoction of ingredi",
       "pub": "Sun, 12 Jul 2026 18:35:30 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Donald Trump clears path for $4.5bn bridge between Canada and US - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZXJ0c1lrdFZDRmZUMjlWOHBBZVZnTFZvSGd0UUZDdVNHRkE5SHdKMGtPc2l5TXNJTktuTDRjSWFCYWVMalFncWFFMmYwX0hRQjRTZV90R2g0U2xGTTU2S3Jkd05jM3M0VjBhMHZMb2Y?oc=5",
-      "snippet": "Donald Trump clears path for $4.5bn bridge between Canada and US &nbsp;&nbsp; Financial Times Why truckers say the Gordie Howe bridge changes everything &nbsp;&nbsp; CTV News ‘Much",
-      "pub": "Sat, 11 Jul 2026 20:28:18 GMT",
       "image": ""
     }
   ],
