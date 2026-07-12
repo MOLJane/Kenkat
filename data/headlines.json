@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-07-12T12:11:55.230009+00:00",
-  "count": 8,
+  "generated_at": "2026-07-12T14:02:24.173863+00:00",
+  "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "Gander RCMP Urge Public to Avoid Branch Road Due to Crash",
+      "title": "Local Instagram Account Trying to Change Public Perception of a Dive Bar",
+      "link": "https://vocm.com/2026/07/12/303924/",
+      "snippet": "A local Instagram account is getting plenty of attention for highlighting the stories behind different neighbourhood bars. Newfoundland Dive Bars was ...",
+      "pub": "Sun, 12 Jul 2026 13:44:02 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/pint-beer-alcohol-stock.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Tech Experts Wonder if AI is Moving too Fast for Humans to Fully Grasp it",
+      "link": "https://vocm.com/2026/07/12/tech-experts-wonder-if-ai-is-moving-too-fast-for-humans-to-fully-grasp-it/",
+      "snippet": "As AI systems become more capable, experts are beginning to ask whether the technology is moving so quickly that it could soon outpace our ability to ...",
+      "pub": "Sun, 12 Jul 2026 12:39:27 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/kevin-andrews.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Update: One Lane Reopened on Branch Road Following Crash",
       "link": "https://vocm.com/2026/07/12/303942/",
-      "snippet": "Gander RCMP are asking the public to avoid Branch Road near Aspen Cove as it is closed in both directions following a crash. The road will remain clos...",
+      "snippet": "One lane has reopened to alternating traffic on Branch Road following a crash that had closed down both lanes earlier this morning. Drivers can expect...",
       "pub": "Sun, 12 Jul 2026 11:05:11 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/rcmp-royal-canadian-mounted-police-patch-stock-logo.jpg"
     },
@@ -51,24 +67,71 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/big-brother.png"
     },
     {
-      "source": "VOCM",
-      "title": "July 12, 2026 – Workplace NL says lost-time injuries rates stayed at an all-time low in 2025. Have you ever been injured on the job?",
-      "link": "https://vocm.com/2026/07/12/july-12-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13154').",
-      "pub": "Sun, 12 Jul 2026 08:00:53 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/07/trades-people-women-photo-via-office-to-advance-women-apprentices.jpg"
+      "source": "Google News Canada",
+      "title": "Toronto’s Salsa on St. Clair festival cancelled as police investigate fatal shooting - CP24",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONlo4SXJNWW56TTRsbmxqUldZb0pyNGU3eGZpWFkzMHh1ZVk4WENCbGZabHNDcU90QVVoY3l6cW81alljSXNHQ1BHM3EwT1BXa0RRUmlWRGhFdUlkXzhYQkp2SUtiTEVZSFVFQnpRZFhOX2R1V25BSWZLUlV5RjRCLThUQ1FLM2RDbUUtSEtMcDNteVEtemFrbXFULVhtSy04TU5YNHktdmdqdGZvWHEya0htcmdEUDNJMjBFeHc5ZnFLLUdPeWJETg?oc=5",
+      "snippet": "Toronto’s Salsa on St. Clair festival cancelled as police investigate fatal shooting &nbsp;&nbsp; CP24 Follow live: Salsa on St. Clair cancelled as police investigate shooting scen",
+      "pub": "Sun, 12 Jul 2026 12:45:34 GMT",
+      "image": ""
     },
     {
-      "source": "VOCM",
-      "title": "Volunteers Needed to Clean Up Fire-Damaged Western Bay Lighthouse Trail",
-      "link": "https://vocm.com/2026/07/11/303901/",
-      "snippet": "Volunteers are being invited to turn out this weekend to help clean up a popular walking trail that was heavily damaged in the fires last summer on th...",
-      "pub": "Sat, 11 Jul 2026 17:11:02 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/western-bay-lighthouse-trails.jpg"
+      "source": "Google News Canada",
+      "title": "U.S. Republican Senator Lindsey Graham dead at 71 - CBC",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxZlNVOUUzQzdjRllEOC1yeWJINzJvbXRfUUFNOXVDbVpGTjBTTnNvTGcyUjNPUDlZek1lQXlSelVER3hZU0NnVVYtX0tBcnpiQWJHQ2ROaEZIQWJuUXNLSWlGVklTRXBURHg5SVBrd2FVRUE?oc=5",
+      "snippet": "U.S. Republican Senator Lindsey Graham dead at 71 &nbsp;&nbsp; CBC Lindsey Graham’s death will shake the Senate and November election. Here’s what comes next &nbsp;&nbsp; CNN Repub",
+      "pub": "Sun, 12 Jul 2026 12:33:44 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Iran declares Strait of Hormuz closed as ‘unauthorized’ vessel hit - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLTVKcy16R1Y2cmJHMlJtSXZVdGlvRXBnZjQ2V1RWTlFfUmFvdzgtTUNLZ2wxcXJrMDg5WlZvbDJiV0N0ZDJwakxRTWRaSDRoMUZsdjFoaldkWmN0T25xcWprWlVma1I5UTRzc0F2QTZ5SGJfeEJKeTlQQUxqcVYzVElNSGlqY0g4TGVXdWZyTE5nc1BGN1ZGQ1p6RXo5QlhRLTFlZA?oc=5",
+      "snippet": "Iran declares Strait of Hormuz closed as ‘unauthorized’ vessel hit &nbsp;&nbsp; CTV News Iran war live: Region on high alert as IRGC and US military trade blows &nbsp;&nbsp; Al Jaz",
+      "pub": "Sat, 11 Jul 2026 23:32:49 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "B.C. man wanted in U.S. is arrested in France - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1hEbFFVSi15cjFNTnEtVm9SS2V5RlUzYzZJSkcyU3NfdzBKYzBHbWs3bmV2S3hwWWlWYXZWTlk5UHNPZjdqcnFPbUg3TVI0X0dfREYxWXM0eTd2WUllSDdvYU9GcjlqRHk0SmdMb20wOWlkZ0k2aE11QXhMZ2RxY3doV2RoZUxWbXpaOHJySDJ1Vm1BNUo2UkNZLXVYLUpDSi13UkdR?oc=5",
+      "snippet": "B.C. man wanted in U.S. is arrested in France &nbsp;&nbsp; The Globe and Mail Canada orders deportation of ‘bottom-tier’ member of Bishnoi gang &nbsp;&nbsp; Global News How Lawrenc",
+      "pub": "Fri, 10 Jul 2026 23:35:52 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Veteran pilot killed fighting N.W.T. wildfire was a trusted leader and patient mentor - Global News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVlE2Mjh6eklxQlVDcWpxSkR1OEpObjJ2anpoUFVDX2tDMjJ0ZXJfd3NZQWVGQVRZMTBvZ2o0eE1SR3N3b1VsT1ZOQk1wZ3pucE9Wek5IR1B6YlJlcWZuS3UxbGoyT3lFaEdPNGNjTjlhSlRRWVVYemNsSG9Ea2k4UEtBS2ZnckczWnZUX2xYOXBURy14NzBOY25Pb0NDQ3c0WlU2RHp5Z1FsRkZnTVQxVUhzSTJoMlNfd3FyRF9n?oc=5",
+      "snippet": "Veteran pilot killed fighting N.W.T. wildfire was a trusted leader and patient mentor &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
+      "pub": "Sat, 11 Jul 2026 17:17:43 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Donald Trump clears path for $4.5bn bridge between Canada and US - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZXJ0c1lrdFZDRmZUMjlWOHBBZVZnTFZvSGd0UUZDdVNHRkE5SHdKMGtPc2l5TXNJTktuTDRjSWFCYWVMalFncWFFMmYwX0hRQjRTZV90R2g0U2xGTTU2S3Jkd05jM3M0VjBhMHZMb2Y?oc=5",
+      "snippet": "Donald Trump clears path for $4.5bn bridge between Canada and US &nbsp;&nbsp; Financial Times Why truckers say the Gordie Howe bridge changes everything &nbsp;&nbsp; CTV News US, C",
+      "pub": "Sat, 11 Jul 2026 20:28:18 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "‘It’s never going to be the same’: B.C. vacation community aims to rebuild after wildfire - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0NNUzJuYlJic0NwWExaa1hfSGlYUThXNzJwRkM0SmtDb0lweUpVSTl3M3Q5dUlZRFhHLUxTMUt4X0NyeHBiVWRSMU9xRElZWm9FZjV0bGdUOGNXcDhzb3lCMTdNN19EdVR5ZVVTTmV3SHF6akplTWFiSDA2NktFT05UQ0JuM1QxVkhpcFdaa0pVUUsyUGRfLS1kLWF6ODk0YWQzMHctX3IzRjBkNk0xV0xBbENLYWwwWHBjU0FlcG9GUWc?oc=5",
+      "snippet": "‘It’s never going to be the same’: B.C. vacation community aims to rebuild after wildfire &nbsp;&nbsp; CTV News Highway 1 reopens in Fraser Canyon, but twin wildfires remain out of",
+      "pub": "Sat, 11 Jul 2026 23:27:33 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Councillor, residents in storm-battered areas remain angry over 'too-slow' response - CBC",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeW5oQmdUMWtkaENGR2FxTUREcFVPQ0xpOF9WR29HQXR6WE03Y095TF9lVTZkakl3YVFoZGJSMXRPZzNxWEFhblhNZDVHdzR6UVVRRVl5SmFVT2FCNzNZOXFiVHAwb2JjRzdiODZqdFRQQnh2MENYMmh1VU96TTBpOFFLSjlpZjVMTGtvRkdRTU9jNWF1UldxUGEtMFhxUGsyajVYUU44YTdobjdUcmlFWGVqTGhEaXAxc2swR2prZFVjX2pBMUhB?oc=5",
+      "snippet": "Councillor, residents in storm-battered areas remain angry over 'too-slow' response &nbsp;&nbsp; CBC Canada Day storm a 1 in 200-year weather event with 167 mm of rain in some area",
+      "pub": "Sat, 11 Jul 2026 21:00:00 GMT",
+      "image": ""
     }
   ],
   "errors": [
-    "CBC News failed: The read operation timed out",
-    "Google News Canada failed: The read operation timed out"
+    "CBC News failed: The read operation timed out"
   ]
 }
