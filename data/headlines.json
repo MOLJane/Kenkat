@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-07-12T07:39:27.643494+00:00",
+  "generated_at": "2026-07-12T09:43:40.104791+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Suspect Arrested After Trying to Escape Out Back Door of Father’s Residence",
+      "link": "https://vocm.com/2026/07/12/303919/",
+      "snippet": "A man who was not supposed to be at his father's residence decided to pay a visit anyhow, and became a little agitated when police showed up. His fath...",
+      "pub": "Sun, 12 Jul 2026 09:30:08 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rnc-lights.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "New Executive Director for Big Brothers, Big Sisters of Eastern NL",
+      "link": "https://vocm.com/2026/07/12/new-executive-director-for-big-brothers-big-sisters-of-eastern-nl/",
+      "snippet": "Big Brothers, Big Sisters of Eastern NL has a new executive director. Jim Evans, who has over 25 years of leadership experience in the healthcare syst...",
+      "pub": "Sun, 12 Jul 2026 08:45:06 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/big-brother.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "July 12, 2026 – Workplace NL says lost-time injuries rates stayed at an all-time low in 2025. Have you ever been injured on the job?",
+      "link": "https://vocm.com/2026/07/12/july-12-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13154').",
+      "pub": "Sun, 12 Jul 2026 08:00:53 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/07/trades-people-women-photo-via-office-to-advance-women-apprentices.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Volunteers Needed to Clean Up Fire-Damaged Western Bay Lighthouse Trail",
@@ -43,30 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/speed-camera-foxtrap-access-road-construction-zone-tch-trans-canada-highway-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Tributes Pour In for Young Hockey Player After Tragic Drowning",
-      "link": "https://vocm.com/2026/07/11/303907/",
-      "snippet": "Central Newfoundland is awash in grief after a teenager lost his life at a popular swimming hole Thursday afternoon. RCMP say the Exploits Valley Sear...",
-      "pub": "Sat, 11 Jul 2026 12:16:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/alex-dawe-clarenville-area-minor-hockey-association-facebook.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Innu Nation Elder Dies at 92",
-      "link": "https://vocm.com/2026/07/11/innu-nation-elder-at-92/",
-      "snippet": "The Innu Nation is mourning the loss of an elder. Joachim Nui Sr. passed away on Thursday at the age of 92 in his home community of Natuashish. The gr...",
-      "pub": "Sat, 11 Jul 2026 10:44:50 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/joachim-nui-sr-2.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Time Trials Set to Begin This Morning at Quidi Vidi",
-      "link": "https://vocm.com/2026/07/11/303879/",
-      "snippet": "Time Trials for the Royal St. John's Regatta are set to take place this morning at Quidi Vidi Lake. The annual races determine the placement of each t...",
-      "pub": "Sat, 11 Jul 2026 10:24:47 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/08/205th-royal-st-johns-regatta-rowers-quidi-vidi-lake-3.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "2 men killed in ‘exchange of gunfire’ at Toronto street festival - CP24",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRklVTi1UWURzOVhtQlBobUxSNDh0eWNKdzNwRkZXWEw4Z2QwYUprX3QtQ2VYbU5lYXJlanByNk56cjNjTG9ZbGo4dkluTEtOcmU4c3owd1QteG50UERUVk1MRVV4WjVRb3NwU19jVTBDQmdodkZtTVJlOTdES1FaUWZsLTJxSjhpLUFVRWR1d04zRXNMT2dKbVhPTGF4VlFXMUI1RzNtN1I5YXB2eVlRVWk3U3ZCdU5VQ1N6VzkwTk1tdGl1VXpfT2lrVGZpTE5F?oc=5",
@@ -76,17 +76,33 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Sen. Lindsey Graham dies at 71 after sudden illness - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iaENhMVdBWW1sUVpiRDdsZmF3eGZ0QlNNbUdHU28xbExzNmdYQWNaUFY4RDNpb09Kd1YxZ1hHdVpsOTQwMk5USHcxak8yYjd4N0lpdjhPVTdmMktIdW8wVEZ6ZnZpaFVhWUpoQ0l4bmp2UXlYZzBhdFY0QXRqZw?oc=5",
+      "snippet": "Sen. Lindsey Graham dies at 71 after sudden illness &nbsp;&nbsp; CNN Sen. Lindsey Graham dies at 71 after ‘brief and sudden illness’ &nbsp;&nbsp; NBC News Lindsey Graham draws trib",
+      "pub": "Sun, 12 Jul 2026 06:46:01 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Iran declares Strait of Hormuz closed as ‘unauthorized’ vessel hit - CTV News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLTVKcy16R1Y2cmJHMlJtSXZVdGlvRXBnZjQ2V1RWTlFfUmFvdzgtTUNLZ2wxcXJrMDg5WlZvbDJiV0N0ZDJwakxRTWRaSDRoMUZsdjFoaldkWmN0T25xcWprWlVma1I5UTRzc0F2QTZ5SGJfeEJKeTlQQUxqcVYzVElNSGlqY0g4TGVXdWZyTE5nc1BGN1ZGQ1p6RXo5QlhRLTFlZA?oc=5",
-      "snippet": "Iran declares Strait of Hormuz closed as ‘unauthorized’ vessel hit &nbsp;&nbsp; CTV News Iran war live: Tehran attacks Jordan, Gulf states after US bombardment &nbsp;&nbsp; Al Jaze",
+      "snippet": "Iran declares Strait of Hormuz closed as ‘unauthorized’ vessel hit &nbsp;&nbsp; CTV News US launches fresh strikes as Iran closes Strait of Hormuz &nbsp;&nbsp; BBC Iran attacks fiv",
       "pub": "Sat, 11 Jul 2026 23:32:49 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Ukrainian drone strikes hit southern Russian refineries and Azov port, officials say - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXdfaU11Yy1XUHY2WS1lN1VwOUtxczhyWHp2LWlPMU1ZbUhWQ3lLZ2pwMVluTHRVOE9NajBkMHlQcVVkT0NsaUJaV0dCXzZmT1VQRnJzbGJMbjZYTjB2MjZQUVEtUEFFYjhFWDNVRlRDc1h4VU1hNm8yb0pabFdYVGpvdG1scFE0WUZVUFBVWkZYVE1qR2VlejI1RnRZRHJyUEhoS3ZILWs2THFXYVBJOF9HMTNDRDN5TjJ5cE5GaXhQei1Kdmducw?oc=5",
+      "snippet": "Ukrainian drone strikes hit southern Russian refineries and Azov port, officials say &nbsp;&nbsp; Euronews.com Russian attacks kill 6 and wound 29 as Ukrainian forces target oil ta",
+      "pub": "Fri, 10 Jul 2026 16:54:52 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Donald Trump clears path for $4.5bn bridge between Canada and US - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZXJ0c1lrdFZDRmZUMjlWOHBBZVZnTFZvSGd0UUZDdVNHRkE5SHdKMGtPc2l5TXNJTktuTDRjSWFCYWVMalFncWFFMmYwX0hRQjRTZV90R2g0U2xGTTU2S3Jkd05jM3M0VjBhMHZMb2Y?oc=5",
-      "snippet": "Donald Trump clears path for $4.5bn bridge between Canada and US &nbsp;&nbsp; Financial Times Gordie Howe International Bridge to open July 27, Ottawa confirms &nbsp;&nbsp; CBC US,",
+      "snippet": "Donald Trump clears path for $4.5bn bridge between Canada and US &nbsp;&nbsp; Financial Times Delayed Gordie Howe International Bridge to open at end of July, Canada to forgo reven",
       "pub": "Sat, 11 Jul 2026 20:28:18 GMT",
       "image": ""
     },
@@ -100,10 +116,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Mission man drowns while paddleboarding at Hayward Lake - CityNews Vancouver",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rSjJvdlhKck5IWi1zQVR1MnV2V3lHSFVqSjZZY2MwLW0yTnZfakZyTnNjal93N3FNRHpyeUJSU3AwWWFKRjE0VVBjQU0yamtybkhZOVROOGFJaFBhU1A4VU01cExxb3dzSnk3WGpYTWY?oc=5",
-      "snippet": "Mission man drowns while paddleboarding at Hayward Lake &nbsp;&nbsp; CityNews Vancouver Man drowns while paddleboarding in Mission &nbsp;&nbsp; Vancouver Sun Paddleboarder drowns i",
-      "pub": "Fri, 10 Jul 2026 20:09:18 GMT",
+      "title": "Highway 1 reopens in Fraser Canyon, but twin wildfires remain out of control - CBC",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTBsNlF0OGN5WVRpX3NXUmpUbmlhZTFROUlCaXBNZGZoSHhXRkdHTnRMVjlPNHFoT21PMXNuOEM4MmhZZDF3cVBuTHFEOXdxdG9QN09ObHBRYjl5T0NNZEZ3NWxzeTJkWlBpcjhraDN1TUxwM0o0VXkzTDM5STJxd0xxYldwZEhnaXlEQzNUdUpTOEdPNHRvLXpHR20?oc=5",
+      "snippet": "Highway 1 reopens in Fraser Canyon, but twin wildfires remain out of control &nbsp;&nbsp; CBC Roundup of climate and environmental news to July 12, 2026. &nbsp;&nbsp; Vancouver Sun",
+      "pub": "Sat, 11 Jul 2026 19:49:41 GMT",
       "image": ""
     },
     {
@@ -112,22 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUTF4OUMxWGNXYWFHRnZNN0RiSVQtc0FMTVZzTUp3dzJnMU9SM3FXMlJjbGwxNFRFdXkzeHNFOXkxcDQ5VmFpSFJjdm1nTVk3elVzX3V6OHlEZHQwcy1sdzZ1d0ZxeDNBOVpwMDRKbGphdXhybzZPbXNOMG5YMFhJMHZ1b182eGlXTVhPelA5QkMxN1dzcE81UGJEQkh4NHVBcFRaelJoZGtkaVBFMUIwQk9TUFJud3FER000TmtPbnY4YVVid3ZlZlZ0YWVXNnM?oc=5",
       "snippet": "Canada Day storm a 1 in 200-year weather event with 167 mm of rain in some areas: City of Ottawa &nbsp;&nbsp; CTV News Councillor, residents in storm-battered areas remain angry ov",
       "pub": "Sat, 11 Jul 2026 22:43:13 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "‘It’s never going to be the same’: B.C. vacation community aims to rebuild after wildfire - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0NNUzJuYlJic0NwWExaa1hfSGlYUThXNzJwRkM0SmtDb0lweUpVSTl3M3Q5dUlZRFhHLUxTMUt4X0NyeHBiVWRSMU9xRElZWm9FZjV0bGdUOGNXcDhzb3lCMTdNN19EdVR5ZVVTTmV3SHF6akplTWFiSDA2NktFT05UQ0JuM1QxVkhpcFdaa0pVUUsyUGRfLS1kLWF6ODk0YWQzMHctX3IzRjBkNk0xV0xBbENLYWwwWHBjU0FlcG9GUWc?oc=5",
-      "snippet": "‘It’s never going to be the same’: B.C. vacation community aims to rebuild after wildfire &nbsp;&nbsp; CTV News Highway 1 reopens in Fraser Canyon, but twin wildfires remain out of",
-      "pub": "Sat, 11 Jul 2026 23:27:33 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Snowbirds’ Tutor jets set for final hometown show in Moose Jaw - Global News",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aZVFBS3luLWlsNllGQXBfaUUxRktDM01MRGYtTTQ4Sm1sTHRLWS1GS0xmeEFSQkFQWjRpcXg4Q19wSnM1LWdQUFJIOC1lcVZBTXkzY1dzTlNaMVhVQWJ5ZTZYemRWaElvMHBNbnNiSlZQa0cyZEE?oc=5",
-      "snippet": "Snowbirds’ Tutor jets set for final hometown show in Moose Jaw &nbsp;&nbsp; Global News Snowbirds perform for sold-out hometown crowd &nbsp;&nbsp; DiscoverMooseJaw Fight to keep Sn",
-      "pub": "Fri, 10 Jul 2026 22:42:47 GMT",
       "image": ""
     }
   ],
