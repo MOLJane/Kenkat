@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-13T18:26:23.396804+00:00",
+  "generated_at": "2026-07-13T19:56:07.711010+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Toronto Police Provide Update on Fatal Salsa on St. Clair Shooting",
+      "link": "https://vocm.com/2026/07/13/304077/",
+      "snippet": "The Toronto Police Service says the entire community has a role to play in addressing and stopping gun violence in the community. Chief Marvin Demkiw ...",
+      "pub": "Mon, 13 Jul 2026 19:38:50 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/chief-myron-demkiw.jpg"
+    },
     {
       "source": "VOCM",
       "title": "New Brunswick Man Arrested Near Flat Bay With Stolen Vehicle",
@@ -59,75 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/rcmp-royal-canadian-mounted-police-patch-stock-logo.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Natuashish RCMP Search for Man Wanted on Multiple Assault Charges",
-      "link": "https://vocm.com/2026/07/13/304011/",
-      "snippet": "RCMP in Natuashish are looking for the public's help in locating a man wanted on a number of serious charges. RCMP say 31-year-old Bradley Rich is wan...",
-      "pub": "Mon, 13 Jul 2026 14:11:43 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/bradley-rich.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Trump says U.S. is reimposing shipping blockade amid renewed Iranian attacks - CBC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40cGh4ZUtWV3k1VWsyYnlsWWpUODFQOUNvSmRoeGJWeUlLaE9Telh1NEd6cXJ1cjJrU3Z5Z0I5QXZZUDI2MVVBaUMtYmR6RWI4eU9ncWpkVEJyM2pmNVktaXRNT0JDclJyVUZMSU55QzJDRC1ldUp3Rks2QlJoQQ?oc=5",
-      "snippet": "Trump says U.S. is reimposing shipping blockade amid renewed Iranian attacks &nbsp;&nbsp; CBC U.S. to reinstate Strait of Hormuz blockade, charge ships 20% toll on cargo, Trump say",
-      "pub": "Mon, 13 Jul 2026 16:55:21 GMT",
+      "title": "Trump reimposes US blockade and demands 20% Hormuz shipping fee - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjVsRVVlZW84NHp6a0dqWEdnbERKUks5d1JGbFlIX2JtRy1TMGlYbjlVQ2pIemdGUzd4a2R2WDc2Z3ZKeHkyVFpkeHlOSWQzV0RlUUxfZkZvV3B3N09HNmhMSFBFUFp2cGoya1JoOENoX1RsSWwzeVowdnhET0xnMDgxcTVzZzAydHFyVnk4aWxJMTNUc2xsdllNZ3Atb3c?oc=5",
+      "snippet": "Trump reimposes US blockade and demands 20% Hormuz shipping fee &nbsp;&nbsp; Euronews.com Trump offers US protection in the Strait of Hormuz for a 20% fee. How would that work? &nb",
+      "pub": "Mon, 13 Jul 2026 16:34:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Peter Nygard found guilty in Montreal sexual assault case - reports - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scnJMck0zRncxLXRLMWJBZ05nWnJmSkRPWTd4dGFNeXh2N282MFBzM3VnejdjVGY2ekIwaWdmbW1WdmdPVUh1dkhmbjJPbEFFR0tHTHV0WXJYUQ?oc=5",
-      "snippet": "Peter Nygard found guilty in Montreal sexual assault case - reports &nbsp;&nbsp; BBC See more headlines & perspectives on Google News",
-      "pub": "Mon, 13 Jul 2026 16:18:49 GMT",
+      "title": "Toronto police chief to provide update on deadly Salsa on St. Clair shooting - CP24",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTHU5aGV6Zm5uMkQ5Z2c1dnF3NHdPSGZJbGk2ZHVyMlI5aGxoN0R3ZkZNSUNiX051MUxXY1RvbHJ0ZEQ2a3ZieXZpa2x5Z0VKNzhOT0FqYUt6M1hmWEc5Wm1PejlGbDhoX3ZVekpoMFoyc1JUZXlrN2pRRWg5alNKX1BpTzFDQm03OHRmTVNmSjZIam81QlM1MFNSbnl2STVrNkU1dmxwUnQzWmpPTE80NFRGTDltcEl1dWxLdmVqVQ?oc=5",
+      "snippet": "Toronto police chief to provide update on deadly Salsa on St. Clair shooting &nbsp;&nbsp; CP24 Police ID 2 men killed in targeted shooting at Toronto street festival &nbsp;&nbsp; C",
+      "pub": "Mon, 13 Jul 2026 17:26:15 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Community wants to see changes to Salsa on St. Clair festival in wake of deadly shooting: councillor - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNXMzcE5tdEp4enJYajVqSzZFaFVUZWVGSFRzM1phZmRhRFU4T2JvNDZrN2ExdFU3aEtXV2FQejFpdzV1VUtwR0xRMlNLQVVDamZZWmR1RElyczYyR1I1WkxmbVA4YTdOdzQ2eXBCVXM2Z0tXcUVIcE1rOHZKS3hsUVhBM1FDYl9MWGh5Z1o0SVdoNkYwekFzSDB6djdQVmV0bzZoREUtSWVxdDA4S1VvZVBybzVpOE41QkpQbkN5c3FGc0JyYWpZb1pwbHZRUWVTNzJhUnd4MlVkM2UxaWc?oc=5",
-      "snippet": "Community wants to see changes to Salsa on St. Clair festival in wake of deadly shooting: councillor &nbsp;&nbsp; CP24 Toronto police chief to provide update on deadly Salsa on St.",
-      "pub": "Mon, 13 Jul 2026 14:47:25 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Kitchener man identified as person killed in Highway 401 crash - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ281YjVHS1pXUjF0TmNGYUpNZ2luUGttalBNb0kzZjdsLWdQTW8xYVZLLWFCRlBBOUlVaGNUS3NwY1pTOFAxZVhPSHBQMmVsZV9Ub2pCVHdUcXpQTmpodG14RXpKMTctTm0wT2xyRXVEZml4VWVSalZUX0FOX0VkN2pFdmVxT3RFUnJqZnY1T0t4UGJrNk1yUGM4eUVNOFQyQWlZ?oc=5",
-      "snippet": "Kitchener man identified as person killed in Highway 401 crash &nbsp;&nbsp; CTV News VIDEO: Kitchener man dead after Hwy. 401 crash in Cambridge &nbsp;&nbsp; The Record 1 dead, 16 ",
-      "pub": "Mon, 13 Jul 2026 14:38:44 GMT",
+      "title": "Fashion mogul Peter Nygard found guilty of sexual assault in Montreal - CBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGlKOFBxeU1tbnZDaFZmV1dmUXhrRzllR1pLWENkN19JZE13bThWMHFka1ZQUVlZbEJjUjlWVHYwM1Y5NTc5TmRQSTc1ODhjRnRTdnp1c3hPeUFBNlJQVWJlOHBOYXU0UlNnWTNFVlVHX1pCbGhpZ2s4YTBmMk9tZlc0eXI4TjJpNllFV1NzLWV4VnRHWkxV?oc=5",
+      "snippet": "Fashion mogul Peter Nygard found guilty of sexual assault in Montreal &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "pub": "Mon, 13 Jul 2026 17:21:51 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Bison rams elderly man in Yellowstone, flinging him into the sky - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IQ0RlOXJReW8yVGVkdlV3ZmV4OG1EZE80ZG53NkNFWE1WYVQwaWVvLTgta2FVWC02czBCNmxuQ21Ic1pfTEJYbDJ4M1dfRkdvYWIzb3N5R3ZQQQ?oc=5",
-      "snippet": "Bison rams elderly man in Yellowstone, flinging him into the sky &nbsp;&nbsp; BBC Grandfather recovering from surgery after bison attack at Yellowstone sent him flying &nbsp;&nbsp;",
+      "snippet": "Bison rams elderly man in Yellowstone, flinging him into the sky &nbsp;&nbsp; BBC Man tossed into the air by ‘agitated’ bull bison was grandfather visiting Yellowstone with grandso",
       "pub": "Mon, 13 Jul 2026 15:06:48 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "What will happen to Trump’s agenda after Lindsey Graham’s death? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdDBnRk5OdjBHcVBUdTRxZGVxMlBCVmlRbXJhalVQdTFObmNhUGJlMnY0U252ZzJNd0NjY3ZOdjUxNTZEaTYxblV5OVE5MzBuSGxEWHE3bXhnNjVFNFc4aHp0elRxZHNlU0NVd1JnSzBhZnNQZkFMSWxrb2JtMk42Y001OEZYTG43RkFKWTZtazFTQzNzVDVqT0laOWZYR0doM2JmcdIBqgFBVV95cUxNYnl0ZVpWYmhYUC1MYm1BcXpmUWJ1bHl4cUtOdzdBbmphRGVtSHk2Y1Qyc2VRbzdxRlFMVmtEVEpaXzdHWEx6UmpMQzZDNDVuMXhqamZKMVJyRllpbmRzSXhWNzQ5OHpxWHB0cnZEWXF2elQyelVEbUNtZWdFTzcxR093ODVTWTduMl9CTmNsRjBJSWVNYWFvTXllMEhMOGhZTUh3MDZPd2lLZw?oc=5",
-      "snippet": "What will happen to Trump’s agenda after Lindsey Graham’s death? &nbsp;&nbsp; Al Jazeera Inside Lindsey Graham's final push for Saudi-Israel peace &nbsp;&nbsp; Axios ‘A key link’: ",
-      "pub": "Mon, 13 Jul 2026 12:47:11 GMT",
+      "title": "Carney appoints chief operating officer in PMO - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU2pqcE94bWEzTTFnYXBpM3BsSlRtNWplVW1NNGJFYWFnMDFLNHJqREpfWk1iTkkzYkRTOGNmaTJzQVNncUx4ekliTmlWQjZWRlFBd0NzdDRhRmkyV29HX29pZ0xhdFlIZ2hDM2JvWlRvOXZuY21ub0pQdi1mVnRzUUhveEl1bVl2UG93MFlCMnM4T3RpakFpT2FHal8?oc=5",
+      "snippet": "Carney appoints chief operating officer in PMO &nbsp;&nbsp; The Globe and Mail Senior PMO staff shakeup further fuels ongoing cabinet shuffle speculation &nbsp;&nbsp; The Hill Time",
+      "pub": "Mon, 13 Jul 2026 17:27:40 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Multiple temperature records set as Manitoba sizzles in heat wave - CBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82RTZmQXNXaHFsbmNPOWdMamJqUmVZV0RXVDlnUGpuQTNucG5lNVVfUGdjQzB3TDRKUm1penN6ZmI0SlZVNTk2SWVSSDM0VGZYc1BYLXNsNTROUG5HZVMwQS1HU25FVWxLckdVTzduMFlhaUpRSzNidWhTWGpDUVk?oc=5",
-      "snippet": "Multiple temperature records set as Manitoba sizzles in heat wave &nbsp;&nbsp; CBC Hot and sticky weather prompts warnings from Saskatchewan to Quebec &nbsp;&nbsp; CBC Hottest temp",
-      "pub": "Mon, 13 Jul 2026 15:35:33 GMT",
+      "title": "Former Manitoba MP Inky Mark charged with firearms trafficking after hundreds of weapons seized - CBC",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjcwazNocFRndVZpMjNrdXpfY3UxYmxOend2WTNWcnNQbERtZkxsUzQ3NW5LT3l1aTRwbUREWlQ0LWxtdnlNdW42OVNBRl9PUzFzSW8wZFpXOFllUjNXYnVTcmlyWFZnUGpwLXZsMVVVT25vcVU4ODNVTEhwVHFoLXRZMHF5MU9pbVllemt4TVdheFdHaUE?oc=5",
+      "snippet": "Former Manitoba MP Inky Mark charged with firearms trafficking after hundreds of weapons seized &nbsp;&nbsp; CBC Former Manitoba MP arrested following firearm trafficking investiga",
+      "pub": "Mon, 13 Jul 2026 18:24:10 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "N.B. chief coroner sounds alarm on unsafe infant sleeping practices - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQzRWWUxWN2hJVC1JejRhdHhaeFhzeEJSc1JnbWp6b1Z0WXZnanl3ZThTMWUxcmoxMHAxTG5maWhDS3NjOE5GcFVsYm90UWpwMWcwS3JHM2hNRzBJVGF0U0R0SUxlSUtlYkNZZ0VBRFBZUmhmbUFIS040ZjkwSHVoMmEzV1ZRUkJLWGM5QXRnNWxUQlFXSlljN05SazhacnNtdkhtRzREci1nMVhVRFFabHp0UnBXNjJ4TGdNQXY5b291cGlaSXk5ejZ6a2F3dw?oc=5",
-      "snippet": "N.B. chief coroner sounds alarm on unsafe infant sleeping practices &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Mon, 13 Jul 2026 15:34:15 GMT",
+      "title": "Heat, humidity return to Ontario while Manitoba shatters temperature records - Global News",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93eThqU1A5TFRLcS1vclQwSTBMNF93U2xCM1lXQ2tyS080YWVveVh6Zk0ybVNLT3lGT0J6QUZZdlk0bzEyLVN3S3ozWlpqSHgyT2daQm4tdUJiODU0S0NRV3lxcHNoTXJTVDV5YkRtdUloVHJlUGc?oc=5",
+      "snippet": "Heat, humidity return to Ontario while Manitoba shatters temperature records &nbsp;&nbsp; Global News Hot and sticky weather prompts warnings from Saskatchewan to Quebec &nbsp;&nbs",
+      "pub": "Mon, 13 Jul 2026 18:47:36 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Police officers pelted with rocks, bottles after 'magical' Sunfest draws to a close - London Free Press",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQU10WklEZ09WVERoa3p2X1k4NnVBaTVmT3prRDdqM1lYeUxLcnYxbXBDLUI0Qk9DSVVwX0VnRUR1WXc2bHVnMGpyTWlib1VkZTByTm9XclRfZXp4YTA3OE9ZS0U5OFZ5U1RQc2loZG04QWxMNVU4VC1TYjB2WjJCcUZCazhaZ0pxT2NOQ3Y3dXZWeC1SeldwNHZrakNDY2Vid2tWTFJNUjhMS3kyR3BGTXB3?oc=5",
+      "snippet": "Police officers pelted with rocks, bottles after 'magical' Sunfest draws to a close &nbsp;&nbsp; London Free Press Police allege crowd threw rocks, bottles at officers during incid",
+      "pub": "Mon, 13 Jul 2026 19:30:00 GMT",
       "image": ""
     }
   ],
