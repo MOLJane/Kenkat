@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-07-16T10:50:00.541675+00:00",
+  "generated_at": "2026-07-16T12:14:20.222769+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Cyclosporiasis Outbreak Linked to Bagged Salads and Fresh Herbs",
+      "link": "https://vocm.com/2026/07/16/304423/",
+      "snippet": "The number of cases linked to the cyclosporiasis outbreak in the United States continues to rise - linked primarily to bagged salad mixes and kits, fr...",
+      "pub": "Thu, 16 Jul 2026 12:05:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/grocery-food-produce-4.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Severe Thunderstorms Light Up Metro Skies With Lightning",
+      "link": "https://vocm.com/2026/07/16/304414/",
+      "snippet": "The thunder rolled, and there was a lightning strike in downtown St. John's yesterday. There were loud bangs of thunder as lightning lit up the sky la...",
+      "pub": "Thu, 16 Jul 2026 11:48:23 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/hiscock-rentals-lightning-downtown.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Dense Fog Causes Multi-Vehicle Crashes in Doe Hills Area on TCH",
+      "link": "https://vocm.com/2026/07/16/304418/",
+      "snippet": "Pea soup fog has enveloped the Doe Hills area on the TCH, and there have been accidents involving several vehicles. The Whitbourne Fire Department say...",
+      "pub": "Thu, 16 Jul 2026 11:45:18 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/doe-hills-summer.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Local Vet Says Any Possible Contact with Bats Should be Taken ‘Very Seriously’",
@@ -20,7 +44,7 @@
     },
     {
       "source": "VOCM",
-      "title": "Signs Global Economies Will Rebound Despite Middle East Conflict, says Bank Governor",
+      "title": "Signs Global Economies Will Rebound Despite Middle East Conflict, says Bank of Canada",
       "link": "https://vocm.com/2026/07/16/signs-global-economies-will-rebound-despite-middle-east-conflict-says-bank-governor/",
       "snippet": "The Bank of Canada held its key interest rate at 2.25 per cent for the sixth time in a row yesterday, citing a similar growth outlook to that delivere...",
       "pub": "Thu, 16 Jul 2026 09:58:50 +0000",
@@ -43,51 +67,35 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/corner-brook-pulp-and-paper.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Two Young People Injured After ATV Fire in Cormack",
-      "link": "https://vocm.com/2026/07/16/two-young-people-injured-after/",
-      "snippet": "Two young people suffered injuries which were not life threatening after their ATV caught fire on the west coast on Tuesday. Emergency responders were...",
-      "pub": "Thu, 16 Jul 2026 09:07:19 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/10/ATV-Stock-1.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RCMP Investigating After Protesters Swarm Nova Scotia Premier’s Vehicle",
-      "link": "https://vocm.com/2026/07/16/304384/",
-      "snippet": "RCMP in Nova Scotia are investigating after violence broke out among a group of protestors during an event with Premier Tim Houston. Houston was speak...",
-      "pub": "Thu, 16 Jul 2026 08:53:09 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/police-rcmp.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Expanded Road Closures Near Churchill Park Music Festival to Help Improve Safety",
-      "link": "https://vocm.com/2026/07/16/expanded-road-closures-near-churchill-park-music-festival-to-help-improve-safety/",
-      "snippet": "Music fills the air in the heart of St. John's for the next couple of weekends with the Churchill Park Music Festival - but it also means some road cl...",
-      "pub": "Thu, 16 Jul 2026 08:42:02 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/08/churchillpark-music-festival-stage.jpg"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Ontario wildfires engulf train in flames; smoke blankets the province. Here's what to know - National Post",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nTEpiUkNzMGZDcTd4aFJ0THN5MTJuVnI2VjMybHE0akJUUjhWY2hydEtPRVFHZEpvZ3JLNkN2WEhVaGZjUGs2TmZ4SHdpUHJoUjMtQUxMNGJvZDFEYS1oZnJQQ1g5aUZ0TjRXSQ?oc=5",
-      "snippet": "Ontario wildfires engulf train in flames; smoke blankets the province. Here's what to know &nbsp;&nbsp; National Post CN workers in viral video of train cab surrounded by wildfire ",
-      "pub": "Wed, 15 Jul 2026 20:11:07 GMT",
-      "image": ""
-    },
-    {
       "source": "Google News Canada",
       "title": "Toronto engulfed by wildfire smoke as US cities threatened - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVlhaTlpYbXBQd1c2UXJGSEJvdVhRaXluSFlmQThFUVJqeTM0MVFYU0UyXzYxalZ2X3FkQUNEYWNFOU1EN0JBaFZtLThFTkZlXzBuT2VXVS1zT19JYkFReEVnZjJoUDVNdFJVaWdmVkhpME5Uamphd3NCOFpPRmZyNFI2NlRYNV9BS1RzYzFoaHlNajNxVVR5NGtOY1NwS2do0gGmAUFVX3lxTE1iRl9Vd3NRVFdHX0lfNHprV0lzWm5pOUpJMmc3blhTUnNHQjRqWnBPT3ZQaXVJVGlJSEo1WVJXUGVFRWtCLWlzOEtaa1dVeENqOEgzdUhKU0ZTMnJ4RzNlZ1JkNjh1Y29CWVpWNU1JUmxsTThqbU5mTWUxNnFrY2pkVEVFRm5mUldZV25tcnBZWnJUY3lSczk5bGtUUVVQejNwX1BjOUE?oc=5",
-      "snippet": "Toronto engulfed by wildfire smoke as US cities threatened &nbsp;&nbsp; Al Jazeera How Toronto's wildfire smoke and air quality are impacting the city's most vulnerable &nbsp;&nbsp",
+      "snippet": "Toronto engulfed by wildfire smoke as US cities threatened &nbsp;&nbsp; Al Jazeera Wildfire smoke will worsen in the Northeast and Mid-Atlantic through Friday &nbsp;&nbsp; The Wash",
       "pub": "Thu, 16 Jul 2026 02:35:26 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Southern B.C. to face highest wildfire potential over the next 48 hours - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLTMtRkRUeU8yNXgzMzlBWlRuSTE5bUJQcDd5cUd0RWRMS1F0b1VJaFRGYnBpZmVRVDZIV3Fvdy11b2d0WXk3Z0Q4b2FPUHJoSi1FUjJ6LXNuUjRhZzVIWW11T29hZ18tNG1zN2t5NUVPRjIwa1lYRTJ3a1ZweUxFazhqRDdGckJqT1hv?oc=5",
-      "snippet": "Southern B.C. to face highest wildfire potential over the next 48 hours &nbsp;&nbsp; Global News B.C. officials brace for increased wildfire activity from dry lightning &nbsp;&nbsp",
-      "pub": "Tue, 14 Jul 2026 17:52:44 GMT",
+      "title": "Fires across northwestern Ontario force evacuations, trigger air quality warnings - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOFRKanY2ZkZlemQ4ZzVTQ0RkX1VONXV3SHh3STBGSUxtWnFqMUlDUUpCRExBSy1CQWdlVkRFWHpBNVdaRjlMX2lrTWlQYlBYZWVwNVZtQlBqVkZMUmdzT3J5MXVYV0h0VU9MUXQ0X1NqcEgwTU5FOW5pSmRwdFVrRFFJaXhxb3VFeUdmZWR0THowTEdOUUwtQ2dSRjRCVzRDMU42QXJxT2lDblU?oc=5",
+      "snippet": "Fires across northwestern Ontario force evacuations, trigger air quality warnings &nbsp;&nbsp; The Globe and Mail CN workers in viral video of train cab surrounded by wildfire flam",
+      "pub": "Thu, 16 Jul 2026 02:04:33 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Carney was iffy on a pipeline. Now his government's building one itself. Here's what changed his mind - National Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZFJqbmRXc3otSS1lM0RicU9XRnl0aXVWbGFqUExWNDRiMHlkMGYzV0hzYlI4TW5iX21ETFVvUGN2bmRxU05ZVEJYZGNkVzMzcVZWT0JoOXVwYjB4QnQ1ME8zR0F6aEYtalBhZFBzZF9DTGR1b2kxb2lIanJ3VThQQkQ1UXdlLUNuNWhXWHBxeGtwTFhiUHk0MVdBUmhqOGFEbGV1Vy1aUTJqTFIxTmlKZGNvNndiTDZMcDR5ZU4xZjJHN3hwTlE?oc=5",
+      "snippet": "Carney was iffy on a pipeline. Now his government's building one itself. Here's what changed his mind &nbsp;&nbsp; National Post Opinion: Math don’t lie: If this one condition is m",
+      "pub": "Thu, 16 Jul 2026 08:01:35 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Montreal police make arrests in connection with incidents targeting Hasidic Jews - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORlZvQUMyb0xWOFpYMThtVG5PZFpEb0piWWF5WnBUamxQX21KVkUtbzVHLXNhOVM4X2tkVDFMcEFvTGZXUHlPUDJhckpzcVpnUHQxWkV1aWZiX1FEOXJQSVRwSFhOem5ySnFrT2NPcjdFb2lBUmdobi1QLW0za29TXzdJMElLOV8yZzIycWFCb1BZTG8wejBoSHJYVkl1YmMxMXFKWVVKYU5qZ25tcUxxNVNWT3Q?oc=5",
+      "snippet": "Montreal police make arrests in connection with incidents targeting Hasidic Jews &nbsp;&nbsp; Montreal Gazette Montreal police arrest 2 suspects in connection with antisemitic atta",
+      "pub": "Wed, 15 Jul 2026 23:50:06 GMT",
       "image": ""
     },
     {
@@ -108,14 +116,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "First Nations chiefs vote to oppose Carney government's proposed major projects reforms - CBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0x1NG5LWktsZW1zNm1iZl9lOVhHTm13alNlMVhZemxpdVE1SjVWUFRNb3VERXVlalNGRm43WUt1QTJzenN3UDdfQ29ITWQ4TlpDbmFjNkZCakpMVWVwc3dpZ1FtaHB5d3V6cWRoWm5rMDBoYjdfUVZiSGMxWXFmRQ?oc=5",
-      "snippet": "First Nations chiefs vote to oppose Carney government's proposed major projects reforms &nbsp;&nbsp; CBC Ministers to address Assembly of First Nations gathering in Ottawa &nbsp;&n",
-      "pub": "Wed, 15 Jul 2026 22:02:47 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "RCMP Investigating After Protesters Swarm Nova Scotia Premier’s Vehicle - VOCM",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mVXV4UDhxbzNkSTNUUnBzLTdMVGFheW5xdzh2a01zdmRFV3ZsSlhad0kxQ2NHbjhYNzlxX19SZjFoUjdHNGdocnh1WQ?oc=5",
       "snippet": "RCMP Investigating After Protesters Swarm Nova Scotia Premier’s Vehicle &nbsp;&nbsp; VOCM Protesters surround Tim Houston's car, windshield smashed after speech &nbsp;&nbsp; CBC N.",
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trapped grandparents die in north Edmonton apartment fire: ‘They were best friends’ - Global News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByZHkxSGVmMmRtMW5vaERfZi1MTTFJVnhBZ0Q0Z1NVSVRfQmttM2M2dHR5S3lQamlVWllWaU5CcHF4aGN0MzNpVC1YLXpYQktQbDdoWFdxdWM0SXlpaTAzc21vc2o1UjFXRFQ5N3ozT2NWelQ5X054c3hBSnFoZw?oc=5",
-      "snippet": "Trapped grandparents die in north Edmonton apartment fire: ‘They were best friends’ &nbsp;&nbsp; Global News Family mourns loss of grandparents who died in north Edmonton fire &nbs",
-      "pub": "Wed, 15 Jul 2026 22:10:20 GMT",
+      "title": "Ontario disqualifies students at five career colleges from receiving OSAP loans - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVo1NUpHZHEzQl9uVUdmMEt5MHlJNVYtU1plbVVlOWRhR0plMjlnTXVBRXowUDhOZ2FvbXRiZ0RQaDNGNmo0UUVkdmVmNlREMDhwcHAxRHhTNlU5RVhfTW9UZjgyeE9EN0I2REtTaHZoa0lUNHp0UWZEUnFvTGo3ek42WDBlb2lIZE4tVmhoOTdHYVpXdmNPSzY5N1ZRQVdVVGZRNkVmNVg2bFFURExrcEU2YTctLVpHVW1R?oc=5",
+      "snippet": "Ontario disqualifies students at five career colleges from receiving OSAP loans &nbsp;&nbsp; CTV News",
+      "pub": "Thu, 16 Jul 2026 09:42:21 GMT",
       "image": ""
     }
   ],
