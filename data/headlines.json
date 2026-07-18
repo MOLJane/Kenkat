@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-18T06:54:11.652019+00:00",
+  "generated_at": "2026-07-18T08:43:30.754870+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "July 18, 2026 – Do you support government’s decision to lift the provincial fire ban?",
+      "link": "https://vocm.com/2026/07/18/july-18-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13172').",
+      "pub": "Sat, 18 Jul 2026 08:00:12 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/09/camp-fire-stock-by-ricky.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Churchill Park Music Festival Kicks off Tonight with Kesha",
@@ -59,12 +67,12 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/annct.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Hant’s Harbour Loses Former Long-Time Resident",
-      "link": "https://vocm.com/2026/07/17/hants-harbour-loses-former-long-time-resident/",
-      "snippet": "The Willow Tree Heritage Society is mourning the passing of a prominent former resident of Hant's Harbour. Clarence Snook passed away on Wednesday at ...",
-      "pub": "Fri, 17 Jul 2026 15:57:00 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/snook.jpg"
+      "source": "Google News Canada",
+      "title": "Republicans threaten Canada with sanctions over drifting wildfire smoke - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ3VRWGhOa3YycFNPbExIN3dvVUNVdnBMTnBPdzl0cWtGNXozTDZwSGJFaHdCaXR3VVdLcDJwQ2hXODg0bWtyYmUtNEZxOUJBOHJHU3hFSUxJRnVreE9wa0tmQ2ROX0pNN1l3eGRiM2RRaU1qZmhuNGRLM0d0T0Rnc0N6SlM2SlYzMlNORDE4d2tFTnJFdlE?oc=5",
+      "snippet": "Republicans threaten Canada with sanctions over drifting wildfire smoke &nbsp;&nbsp; The Guardian Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities ",
+      "pub": "Sat, 18 Jul 2026 03:45:00 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -76,25 +84,9 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Republicans threaten Canada with sanctions over drifting wildfire smoke - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ3VRWGhOa3YycFNPbExIN3dvVUNVdnBMTnBPdzl0cWtGNXozTDZwSGJFaHdCaXR3VVdLcDJwQ2hXODg0bWtyYmUtNEZxOUJBOHJHU3hFSUxJRnVreE9wa0tmQ2ROX0pNN1l3eGRiM2RRaU1qZmhuNGRLM0d0T0Rnc0N6SlM2SlYzMlNORDE4d2tFTnJFdlE?oc=5",
-      "snippet": "Republicans threaten Canada with sanctions over drifting wildfire smoke &nbsp;&nbsp; The Guardian Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities ",
-      "pub": "Sat, 18 Jul 2026 03:45:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "2 kids from northern Alberta still missing, mom and her partner wanted for abduction - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXBQaFFsbGVVWG5lVUtxd2FleS0tZHhQNVNTOGlwcy1DMTZVV29VX1hfWDgyTFYxQk0zQmFaMW80WEZvRVRDUDNoVERIR3Z3TmZpOUNRS1FCODBXVXVSVEpnMU9rb2pNcE8tbHN2eEd1dElKcFJtQ3V2REJpdGMxZEhGM0hOS2oyYWpJ?oc=5",
-      "snippet": "2 kids from northern Alberta still missing, mom and her partner wanted for abduction &nbsp;&nbsp; Global News Children involved in Amber Alert still missing; RCMP searching in Albe",
-      "pub": "Fri, 17 Jul 2026 22:40:28 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "MPP Stan Cho resigns from cabinet after hotel expense controversy - CBC",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaVVFRW42X3BCdmpYc1BLZ2dDcTB4SDVhREw4bzhSUlhKVlBZQlVfSjBCN2ZwRlVCVk1Eem12LTRkN2xvemJfQjh3bmlqcDBsMXE0ZVg5U0FqcGFDSUZrZHAybFN2bDYtcVZsdmNGVFpzV1NGS2Z3LVNFNVZncm1HVzd6OHRFTVU?oc=5",
-      "snippet": "MPP Stan Cho resigns from cabinet after hotel expense controversy &nbsp;&nbsp; CBC Ontario tourism minister Stan Cho resigns over hotel expenses scandal &nbsp;&nbsp; Global News Fo",
+      "snippet": "MPP Stan Cho resigns from cabinet after hotel expense controversy &nbsp;&nbsp; CBC ‘I made a mistake:’ Stan Cho resigns from Ford cabinet over Toronto hotel expense claims &nbsp;&n",
       "pub": "Fri, 17 Jul 2026 22:22:09 GMT",
       "image": ""
     },
@@ -108,25 +100,33 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Burnham promises huge change - but leaves questions about plan to deliver it - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40dUtwNTkxU2NzRVhfaW5DZzNWTXpqajNheUtfajg1QldSR01sc0x2RHdkN2NpbV9zTl9yV05DZWYtV2ExTUo3YmJmM180d3NfTlc1OXpUUktWZw?oc=5",
-      "snippet": "Burnham promises huge change - but leaves questions about plan to deliver it &nbsp;&nbsp; BBC Andy Burnham set to become Britain’s prime minister after being named Labour Party Lea",
-      "pub": "Fri, 17 Jul 2026 13:52:20 GMT",
+      "title": "2 kids from northern Alberta still missing, mom and her partner wanted for abduction - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXBQaFFsbGVVWG5lVUtxd2FleS0tZHhQNVNTOGlwcy1DMTZVV29VX1hfWDgyTFYxQk0zQmFaMW80WEZvRVRDUDNoVERIR3Z3TmZpOUNRS1FCODBXVXVSVEpnMU9rb2pNcE8tbHN2eEd1dElKcFJtQ3V2REJpdGMxZEhGM0hOS2oyYWpJ?oc=5",
+      "snippet": "2 kids from northern Alberta still missing, mom and her partner wanted for abduction &nbsp;&nbsp; Global News Children involved in Amber Alert still missing; RCMP searching in Albe",
+      "pub": "Fri, 17 Jul 2026 22:40:28 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ford defends Ontario’s wildfire response as smoke blankets central Canada, Eastern U.S. - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdzNXUWlrd0RQbXNfWDlTV0l6QUF1VnBDZnVFakN3aVc3cUFxMzJIclNzUUJfWmlwUW1melEzb25SV1kwaXd1TFNGVVRMbHNiN0owczk5eW9TSkt3UWlteG8tTjNxQTUzWlNwMVF6Q1hfVlFQdUk0REpkUEx1U29JS1E2WUY0RGIxN2JfU0JvQjJZcUJOUFRuVWdaOXlrd01mYlRHZTJYVS1Udw?oc=5",
-      "snippet": "Ford defends Ontario’s wildfire response as smoke blankets central Canada, Eastern U.S. &nbsp;&nbsp; The Globe and Mail Ontario crews battling about 190 wildfires, half out of cont",
-      "pub": "Fri, 17 Jul 2026 17:03:53 GMT",
+      "title": "Halifax County fire grows forcing people to leave their homes - CityNews Halifax",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmJOZzFLRFRfVlRTaUM0UERiZVREeDl5OUpLZEQwSnBsazBNN0xwa0FhWngzejB0bWdNYVJRR3EtRFp2SGMxQ1paS3FLMUtpcTYyS2tqel96cUU1YXEzTkpuNTc2V1phTnVmWl9JQkdrUVVBaHBSNkdLSEkwdmxVQlFNOFpSQjkyTmNxd2pUeVNuYjM1dWprU0tCcmJjOEhST05QbTJSTmZTdw?oc=5",
+      "snippet": "Halifax County fire grows forcing people to leave their homes &nbsp;&nbsp; CityNews Halifax Eastern Shore wildfire jumps significantly in size to 1,700 hectares &nbsp;&nbsp; CBC No",
+      "pub": "Fri, 17 Jul 2026 13:08:04 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Was Ontario prepared for this wildfire season? Doug Ford, critics and experts weigh in - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbzIzWGR4UFlveW5SZGtJeHFyTDZlQlFHazZLV05iZ19ZV3RMMFBnWlh0VVBTUFBkUEVvQUhQQnpKZEg3QnhXUkh3Mk1CaDAxSkZQV2ZrYXNOTlhSa0QzS0QyRW95TzI3MDl4VHFESTd5WXpNWkMzcE1TTFpKVlVOUkxpOHkwS0dXVU55OE1QZEUwTlRXNzVxZ2hEaTRGU1BlU1VGX1I0bTNfYTNzajQyWktZTF9uX25xdFBoY0wxd1FXU0VpZFhxRUViTEotRmJMTUVteVFkYkF4UUpoSWk5VnJTNkY5eHZobjBqLTZrSGVPT2JXYjREazZVaw?oc=5",
+      "snippet": "Was Ontario prepared for this wildfire season? Doug Ford, critics and experts weigh in &nbsp;&nbsp; Toronto Star Ford defends Ontario’s wildfire response as smoke blankets central ",
+      "pub": "Sat, 18 Jul 2026 00:47:02 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "AFN calls on Ottawa, provinces to protect treaty rights in wake of Alberta separatism - CBC",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd01tMGVtNEdsWVQxUHdqMk94ajZSU2hpakg1Und5bkZleVJ4NV9kbEttNm9GU2pNWi1MUXJnQTNTU0Q1Z21iVElPdFZDT0d2ZEg4aVBMWExWY0pSdlRSaS1ncUExalYzMkFOSHFsaG4teXpNX2ZLTTRlWVFHNHdtdjBHdnFYQmdCbkF1SmlHUkNtTVlpV1hvYVZ0TlBkT0hncmw0TXFLdEVzckt2?oc=5",
-      "snippet": "AFN calls on Ottawa, provinces to protect treaty rights in wake of Alberta separatism &nbsp;&nbsp; CBC Alberta still in Assembly of First Nations limbo with regional chief position",
+      "snippet": "AFN calls on Ottawa, provinces to protect treaty rights in wake of Alberta separatism &nbsp;&nbsp; CBC ‘It’s First Nations that are defending the Crown’: Chiefs oppose separatism a",
       "pub": "Fri, 17 Jul 2026 23:09:32 GMT",
       "image": ""
     }
