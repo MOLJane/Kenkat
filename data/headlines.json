@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T04:40:40.426410+00:00",
+  "generated_at": "2026-07-18T06:54:11.652019+00:00",
   "count": 16,
   "items": [
     {
@@ -68,18 +68,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Chinese EV issue part of U.S. trade talks, Mexico foreign secretary says - Global News",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4M0dIcmJRSjlKWUM0aHNlYlRxY3BEbTVURmZpbzZuRGNna0gwX1hCd0VpeG95bzhuZkhpSVEtLWtiZEl0b0x2QXpvRUFDWHMwMFlsSVR5Zm92d2lBN3hGR1I2cEVlNFlGYUdFTXNJUFY2UTRGTDFUZA?oc=5",
-      "snippet": "Chinese EV issue part of U.S. trade talks, Mexico foreign secretary says &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
-      "pub": "Fri, 17 Jul 2026 18:42:05 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "'Disrespectful' language: Westmount Mayor Michael Stern charged with multiple ethics violations - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcl84VUhRMzlCLTk5SjZSZjBETng1TDNKb0ZYc0NnSDdQU2NsZHo0eWpSNVM4VmVWYkx6eXhiYXY2WGdrQWEzb3hHWGFJU09mWGo1RDhEZzl4bmpuWjBMWEtxN0o0SktwcWpEa0tfZWdlRzg3c2pQdHlBOVByb3MtZUNITE1UempmSUF3ZUJWWkd4R0RkOXpYdWhSWWNxVDBtSWd2X0pB?oc=5",
-      "snippet": "'Disrespectful' language: Westmount Mayor Michael Stern charged with multiple ethics violations &nbsp;&nbsp; Montreal Gazette",
-      "pub": "Fri, 17 Jul 2026 21:00:04 GMT",
+      "title": "Mexico not looking to cut separate deal with U.S. and leave Canada out, top diplomat says - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUHJES1Z6NThlT3k1UTJpWmVvcTM5cE1nTE9KaDdnQ1YzQU1KWEd4WENOX0xyQ0tFc0VzVXdRTWFNTmlZMjVpNG5KTTZfazg1ZGd5WVJTVW1IZkJ1TWljVFBlSUNlSmZ6QjlLY1RtdnVtak9mZTJWTTBudXRmNlRHVkFVN0dacjJKcGMyRUhGWE1OdG5hdkE3LUZMdlpLR1ZWS3Bj?oc=5",
+      "snippet": "Mexico not looking to cut separate deal with U.S. and leave Canada out, top diplomat says &nbsp;&nbsp; The Globe and Mail See more headlines & perspectives on Google News",
+      "pub": "Fri, 17 Jul 2026 23:47:13 GMT",
       "image": ""
     },
     {
@@ -92,9 +84,17 @@
     },
     {
       "source": "Google News Canada",
+      "title": "2 kids from northern Alberta still missing, mom and her partner wanted for abduction - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXBQaFFsbGVVWG5lVUtxd2FleS0tZHhQNVNTOGlwcy1DMTZVV29VX1hfWDgyTFYxQk0zQmFaMW80WEZvRVRDUDNoVERIR3Z3TmZpOUNRS1FCODBXVXVSVEpnMU9rb2pNcE8tbHN2eEd1dElKcFJtQ3V2REJpdGMxZEhGM0hOS2oyYWpJ?oc=5",
+      "snippet": "2 kids from northern Alberta still missing, mom and her partner wanted for abduction &nbsp;&nbsp; Global News Children involved in Amber Alert still missing; RCMP searching in Albe",
+      "pub": "Fri, 17 Jul 2026 22:40:28 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "MPP Stan Cho resigns from cabinet after hotel expense controversy - CBC",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaVVFRW42X3BCdmpYc1BLZ2dDcTB4SDVhREw4bzhSUlhKVlBZQlVfSjBCN2ZwRlVCVk1Eem12LTRkN2xvemJfQjh3bmlqcDBsMXE0ZVg5U0FqcGFDSUZrZHAybFN2bDYtcVZsdmNGVFpzV1NGS2Z3LVNFNVZncm1HVzd6OHRFTVU?oc=5",
-      "snippet": "MPP Stan Cho resigns from cabinet after hotel expense controversy &nbsp;&nbsp; CBC Opinion: Ontario PC MPPs needed hotel rooms to rest. The poor babies only get five months of summ",
+      "snippet": "MPP Stan Cho resigns from cabinet after hotel expense controversy &nbsp;&nbsp; CBC Ontario tourism minister Stan Cho resigns over hotel expenses scandal &nbsp;&nbsp; Global News Fo",
       "pub": "Fri, 17 Jul 2026 22:22:09 GMT",
       "image": ""
     },
@@ -116,10 +116,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Was Ontario prepared for this wildfire season? Doug Ford, critics and experts weigh in - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbzIzWGR4UFlveW5SZGtJeHFyTDZlQlFHazZLV05iZ19ZV3RMMFBnWlh0VVBTUFBkUEVvQUhQQnpKZEg3QnhXUkh3Mk1CaDAxSkZQV2ZrYXNOTlhSa0QzS0QyRW95TzI3MDl4VHFESTd5WXpNWkMzcE1TTFpKVlVOUkxpOHkwS0dXVU55OE1QZEUwTlRXNzVxZ2hEaTRGU1BlU1VGX1I0bTNfYTNzajQyWktZTF9uX25xdFBoY0wxd1FXU0VpZFhxRUViTEotRmJMTUVteVFkYkF4UUpoSWk5VnJTNkY5eHZobjBqLTZrSGVPT2JXYjREazZVaw?oc=5",
-      "snippet": "Was Ontario prepared for this wildfire season? Doug Ford, critics and experts weigh in &nbsp;&nbsp; Toronto Star Ford defends Ontario’s wildfire response as smoke blankets central ",
-      "pub": "Sat, 18 Jul 2026 00:47:02 GMT",
+      "title": "Ford defends Ontario’s wildfire response as smoke blankets central Canada, Eastern U.S. - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdzNXUWlrd0RQbXNfWDlTV0l6QUF1VnBDZnVFakN3aVc3cUFxMzJIclNzUUJfWmlwUW1melEzb25SV1kwaXd1TFNGVVRMbHNiN0owczk5eW9TSkt3UWlteG8tTjNxQTUzWlNwMVF6Q1hfVlFQdUk0REpkUEx1U29JS1E2WUY0RGIxN2JfU0JvQjJZcUJOUFRuVWdaOXlrd01mYlRHZTJYVS1Udw?oc=5",
+      "snippet": "Ford defends Ontario’s wildfire response as smoke blankets central Canada, Eastern U.S. &nbsp;&nbsp; The Globe and Mail Ontario crews battling about 190 wildfires, half out of cont",
+      "pub": "Fri, 17 Jul 2026 17:03:53 GMT",
       "image": ""
     },
     {
