@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-07-19T13:58:40.847736+00:00",
+  "generated_at": "2026-07-19T14:55:58.425095+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "MNP Debt Index Reveals ‘Lifestyle Shrinkflation’ Gripping Atlantic Canada",
+      "link": "https://vocm.com/2026/07/19/304707/",
+      "snippet": "Insolvency Trustee MNP's latest Consumer Debt Index shows that close to 70 per cent of respondents in Atlantic Canada say at least half of their next ...",
+      "pub": "Sun, 19 Jul 2026 14:26:32 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/12/canadian-money-dollar-bills-toonie-spending-prce-coins.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Province Invites Public Feedback for Review of ATIPPA Legislation",
+      "link": "https://vocm.com/2026/07/19/304704/",
+      "snippet": "Feedback from the public is now being accepted as part of the province's review of Access to Information and Protection of Privacy legislation. The co...",
+      "pub": "Sun, 19 Jul 2026 14:20:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/nl-house-of-aseembly-confederation-building-government-nl-hoa.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Labrador City Reminds Public of E-Bike Ban on Walking Trails and Playgrounds",
@@ -51,35 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/provincial-newfoundland-and-labrador-water-bomber-waterbomber-wildfire-fire-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Pride Parade Happening Today in St. John’s",
-      "link": "https://vocm.com/2026/07/19/pride-parade-happening-today-in-st-johns/",
-      "snippet": "The annual Pride Parade takes place today in the city of St. John's. The parade route starts at St. John's City Hall and will proceed along Duckworth ...",
-      "pub": "Sun, 19 Jul 2026 08:52:38 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/06/St.-Johns-Pride-2019-akk-.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "July 19, 2026 – Finance minister Craig Pardy says a “host” of affordability measures will be introduced in the fall. What would you most like to see?",
-      "link": "https://vocm.com/2026/07/19/july-19-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13175').",
-      "pub": "Sun, 19 Jul 2026 08:00:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/craig-pardy-1.jpg"
+      "source": "Google News Canada",
+      "title": "Social media influencers Andrew and Tristan Tate arrested in Miami - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTJoeGdSTUxKdmNmUGJOenJYRXlib19kNExwY2VBUnNPZWZvblA1NDdzOU9JcjVtdnhDMlVkVWJSak40S2ljNHp1Tl9keFEzdURvemg5Z1pOMnBQMFBpd21MRFZrMjBZR3FBRWVaaUJKOW9xZzlGdjRIczlSQ1Q3MnhDV3RrQmxkLU45ZzVFS0VGSzZNZFFMNm1ESFJIMXFxR25kYl92Yw?oc=5",
+      "snippet": "Social media influencers Andrew and Tristan Tate arrested in Miami &nbsp;&nbsp; CTV News Tate brothers arrested in US as further UK charges take total to 59 &nbsp;&nbsp; BBC Why we",
+      "pub": "Sun, 19 Jul 2026 11:37:15 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Conservatives appoint ‘referendum lead’ as Poilievre makes case to ‘keep Canada united’ - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRFdReUpkMFdHbVZvUDRObTVNOTlfdEhvMXpaREtGaTZFaTNRMVFMUGZFT1dmOWpzX2FoOWc4WjlnaDktcUM2ZDNTdW9kN1l3c3hqd3ItcVAyN0J4VGpiUk9YWGYyZHVwUzNaZnlreEs4VGltb0RzZjZPalppblhGU2Y0Q0QxZE05d3BsOWFCWm5YZE12MzkxemQtLTdMTFBrelNvOVl2eHhpdUhtc1pMc1d5WFVyT3AwQjUybzNxSGVNcV9PeHNIbW5WOVZ6c2dqQ2xaUG4wcFU?oc=5",
-      "snippet": "Conservatives appoint ‘referendum lead’ as Poilievre makes case to ‘keep Canada united’ &nbsp;&nbsp; CTV News Poilievre names MP Dane Lloyd as his Alberta 'referendum lead' &nbsp;&",
+      "snippet": "Conservatives appoint ‘referendum lead’ as Poilievre makes case to ‘keep Canada united’ &nbsp;&nbsp; CTV News Poilievre appoints Edmonton MP to lead party's pro-unity campaign ahea",
       "pub": "Sun, 19 Jul 2026 09:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "U.K. seeks extradition after influencer Tate brothers arrested in U.S. - CBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HT3NhN0xOb3VIZWg5RXQwSFR3cmk0V1hBcWxBUFdtX3BnRndkNEMwbjR4R0l5bFUteGdiemlxQl9DTXNhQnNDdHlFZXRmME1hQVJZSGZ1RHRCYklxMVdiS0dXanVRMkE5eEwwSFBTOEJNcmxOT3BV?oc=5",
-      "snippet": "U.K. seeks extradition after influencer Tate brothers arrested in U.S. &nbsp;&nbsp; CBC Tate brothers arrested in US as further UK charges take total to 59 &nbsp;&nbsp; BBC Why wer",
-      "pub": "Sat, 18 Jul 2026 23:42:00 GMT",
       "image": ""
     },
     {
@@ -87,7 +87,7 @@
       "title": "Alberta First Nations intend to 'rock the vote' against separatism - CBC",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN25wU2ZuWEFycERlV2pXeG5Fbm9BN0V1M0RlQURDWDlEQ0YyQ05rZWhWUXN1VXZMbUhjMms4STlwQUN3YUtUNEZWMTdodGF4V2NhUnY0OHU1bGt2QXU3Tng1MjJLczk4bG1VNG9oQXA5WC1Gb3VlSGs5eUt2ZDZ2UUotR3F1QTh0b0ZQQ085dTF5LVZubjV1Wl9hRUpyRG5yZ0E?oc=5",
       "snippet": "Alberta First Nations intend to 'rock the vote' against separatism &nbsp;&nbsp; CBC AFN calls on Ottawa, provinces to protect treaty rights in wake of Alberta separatism &nbsp;&nbs",
-      "pub": "Sun, 19 Jul 2026 08:00:00 GMT",
+      "pub": "Sun, 19 Jul 2026 14:01:02 GMT",
       "image": ""
     },
     {
@@ -100,18 +100,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Ford warns evacuees to heed orders after some residents battle wildfires - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZHI1U29UbGNtV2ZGbG56RGFhbmduS1lHQ01EaHdWLUZxMk9HZ1YyV3I3bzQxODlRVmtKTGxHQUx4ZTI5VGJpdk50cDhUa0hkV0RvSFVYeVd6RDZVdnpRaGRMc0YzVmVqeG1NclJQaE95blRabkZRczFsdFo3a21KTHZ1bmxaRUVPRkZUV3MzVkl3YVY1dV9xUjlxOXJIdXI1dXlqbnJIaHdCUzlQRFAw?oc=5",
-      "snippet": "Ford warns evacuees to heed orders after some residents battle wildfires &nbsp;&nbsp; The Globe and Mail Premier Doug Ford visits Thunder Bay as fires rage in northern Ontario &nbs",
-      "pub": "Sat, 18 Jul 2026 12:49:47 GMT",
+      "title": "Iran hits US allies as Israel warns missiles headed for Jordan could land on its territory - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLTFXdWpEeUNSaklBencySE1odklSZlFkc2FEMWpOVWczWENsY1Q5ZFJyeWV0X19MT2RvN3kwR204dmhEU3Y0LWpWYTdWSnBtby1nTjNoM0pZcERrX21oYXltRW96TG1NMDRsMloyR2pYVjc2NnJoU09kMnVrUDIxZjNtSzNreVJsMGtEbFJCQXR2SV9MOXdpbTNDMy02YjFCTXfSAacBQVVfeXFMT241cnV4b0xDcDQ3cDZReXcxTjB5dVRzSWRLcGNWWmVxNDNtbkJFdEtaaWZON1NxZ085RU1nN3duVGttNzJPb2hMUXgyY1pJMl9OT2txdGp2am5iWU5tOUwzam8xbDE4cTc2MkxIOFV3QkRWNHgzOU91MWRjRmFxNm9HUWxPaER0TEZmTFJtbXpETDA4cHB0MmVSTDZZNVNQVmFWMmhDUUU?oc=5",
+      "snippet": "Iran hits US allies as Israel warns missiles headed for Jordan could land on its territory &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos Jordanian army: 3 Iranian m",
+      "pub": "Sun, 19 Jul 2026 04:58:33 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Sturgeon Lake Cree Nation surprised by trust fees levied by Jeff Rath, seeks to remove him as trustee - CBC",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd0dCVVJfaGU1RFhHS184RWE2MjJ6emQwUjFpdU1JTWpBQ0lMOC1CcVc0TTc5VXltRjdfay0ydzRWSUJwbXV6RVhQcGg0VEZoUkd6WmFfZTlEUjBLMkNuZXdSMDVKZWxZODM1QkN1VzFUbmdhRGplcGJ0aGdReGNycm9UcW1LOHYxOXNQeFR5QzlNTm95ektOUWlrUWFpTUk?oc=5",
-      "snippet": "Sturgeon Lake Cree Nation surprised by trust fees levied by Jeff Rath, seeks to remove him as trustee &nbsp;&nbsp; CBC Alberta judge extends order freezing separatist lawyer’s asse",
-      "pub": "Fri, 17 Jul 2026 21:38:18 GMT",
+      "title": "Ford warns evacuees to heed orders after some residents battle wildfires - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZHI1U29UbGNtV2ZGbG56RGFhbmduS1lHQ01EaHdWLUZxMk9HZ1YyV3I3bzQxODlRVmtKTGxHQUx4ZTI5VGJpdk50cDhUa0hkV0RvSFVYeVd6RDZVdnpRaGRMc0YzVmVqeG1NclJQaE95blRabkZRczFsdFo3a21KTHZ1bmxaRUVPRkZUV3MzVkl3YVY1dV9xUjlxOXJIdXI1dXlqbnJIaHdCUzlQRFAw?oc=5",
+      "snippet": "Ford warns evacuees to heed orders after some residents battle wildfires &nbsp;&nbsp; The Globe and Mail Evacuees of wildfires in northwestern Ontario recall harrowing escapes &nbs",
+      "pub": "Sat, 18 Jul 2026 12:49:47 GMT",
       "image": ""
     },
     {
