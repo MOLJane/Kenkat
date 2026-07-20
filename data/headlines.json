@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-20T04:59:29.153647+00:00",
+  "generated_at": "2026-07-20T08:07:05.183988+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "July 20, 2026 – Will the contaminated lettuce outbreak in the united States cause you to consider buying more locally grown food?",
+      "link": "https://vocm.com/2026/07/20/july-20-2026-will-the-contaminated-lettuce-outbreak-in-the-united-states-cause-you-to-consider-buying-more-locally-grown-food/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13180').",
+      "pub": "Mon, 20 Jul 2026 07:30:37 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/lettuce-aisle.png"
+    },
     {
       "source": "VOCM",
       "title": "Shared-Use Paths Highlighted as Free and Accessible Summer Activity in Metro",
@@ -59,26 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/07/harbour-grace-the-kyle-1.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "U.S. Launches New Strikes on Iran After Two American Troops Are Killed",
-      "link": "https://vocm.com/2026/07/19/u-s-launches-new-strikes-on-iran-after-two-american-troops-are-killed/",
-      "snippet": "The United States launched another round of airstrikes against Iranian military targets after an attack in Jordan killed two American service members....",
-      "pub": "Sun, 19 Jul 2026 10:21:53 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/07/35078665.jpg"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "As search for missing boy steps up, city mom seeks widening of Amber Alerts - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYl9PeGlqalRnTEtrTktwNW15RXRXcGstYTVzUnZIT3dHQ195djI1T0piUTlmR2RaS1JEOUNLSnZPWXg4S1RHYWtfUXBJWElnNGhRVi15cHM3RnN1dTRvM3ZELTBlRFhrSUVrVHc2bjFDaVBfYWlhUWdpTjVPWGVjYW95VTdQTDB5aHIxeUNNV3BvVlRXcHdfbnZwal9lZw?oc=5",
-      "snippet": "As search for missing boy steps up, city mom seeks widening of Amber Alerts &nbsp;&nbsp; Calgary Herald Update #5: Missing child - Parker &nbsp;&nbsp; City of Calgary Newsroom Calg",
-      "pub": "Mon, 20 Jul 2026 00:08:27 GMT",
-      "image": ""
-    },
-    {
       "source": "Google News Canada",
       "title": "Tate brothers arrested in Miami as U.K. seeks extradition: U.S. Marshals Service - National - Global News",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0ZHS214bm1ZbjEtc1lsRXlsclZZcVU1WjNzQ3c3UWI4WWUxbUo2cERkc2tzZkdKWDRRTXBWWTZKcXRWbUVvOC1VTnhRV1BFWkR0ejc2Nm5aQTd4QnJOUFYxOHUyT0F5R1pHdTlXdWdVV1RFVVBzczdKS2g2bnd5dUx3?oc=5",
-      "snippet": "Tate brothers arrested in Miami as U.K. seeks extradition: U.S. Marshals Service - National &nbsp;&nbsp; Global News Social media influencers Andrew and Tristan Tate arrested in Mi",
+      "snippet": "Tate brothers arrested in Miami as U.K. seeks extradition: U.S. Marshals Service - National &nbsp;&nbsp; Global News Tate brothers arrested in US as further UK charges take total t",
       "pub": "Sun, 19 Jul 2026 17:24:56 GMT",
       "image": ""
     },
@@ -86,16 +78,16 @@
       "source": "Google News Canada",
       "title": "Extreme weather takes toll on campgrounds in Ontario, Manitoba - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSU5jaWcwZ0NOZWhMQWNSNEx4LVh0VjdnNjI3OXMwTDAzcVlncTNrcUMyajE2UE5KWkt5eUN1VmI2UVg3NXNMTFhibGQ3Q2h1SHFBRGtyeGU0clR1R01aYk4tWjZtMkdKT3dtTlZNeXJwdV9tZXdIekNUZHFMRmwyYlZxZ1RJeklLQnNXWC1xMTZHREpQdUgzcGE5MF9namVuUHEtZ2M4RVZWWFdTbm8tSkMxSVY3VE1SYnBRVWVRQzlhNGRleTRaYUdGSmZweG9hQnJiZkVUOGxMdklGa0E?oc=5",
-      "snippet": "Extreme weather takes toll on campgrounds in Ontario, Manitoba &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
+      "snippet": "Extreme weather takes toll on campgrounds in Ontario, Manitoba &nbsp;&nbsp; CTV News This piece of life-saving equipment is being deployed to fight wildfires &nbsp;&nbsp; CTV News ",
       "pub": "Sun, 19 Jul 2026 19:56:04 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Spain win second World Cup after beating Argentina in final - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb0FIcWM0aW83eXVfZ2lNR1ZwbURTWHVFMDkxanNiNFBabWdWUk9SVHFUTnBQTV9qMGQyZlVpWmhKNEFLUnR2OERWZDBzeTdvWVdNZG1oaG05SHZjTkNaeGdmNzRKeWdyWXVId1lLNjZ3NFBHQTduWW9MODNiRml3dVVYRjAtanhrcEQtb28yWW1STlpPd3BB0gGXAUFVX3lxTE9EXzJTS2lzSC05a3Jic2o1b3V1TFdaSlllTFMyNUxlaW5NcUJiRUJPbjNEeWZKU2d0b0Z3ZlRHVy1YQUJGaEVlSU1ZWkRfTVBvaktjWHhsTFNJM3RsOS1OaUFGUDAwU0VGX1kzRGFjRHJHTWk2MzVEaE1BWjU2bjNQMlB0YTh5WnJVdmNsSFFVcGpvR1NaV1U?oc=5",
-      "snippet": "Spain win second World Cup after beating Argentina in final &nbsp;&nbsp; DW.com Torres fires Spain past Argentina in extra time to win World Cup, denying Messi a 2nd title &nbsp;&n",
-      "pub": "Mon, 20 Jul 2026 02:20:00 GMT",
+      "title": "As search for missing boy steps up, city mom seeks widening of Amber Alerts - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYl9PeGlqalRnTEtrTktwNW15RXRXcGstYTVzUnZIT3dHQ195djI1T0piUTlmR2RaS1JEOUNLSnZPWXg4S1RHYWtfUXBJWElnNGhRVi15cHM3RnN1dTRvM3ZELTBlRFhrSUVrVHc2bjFDaVBfYWlhUWdpTjVPWGVjYW95VTdQTDB5aHIxeUNNV3BvVlRXcHdfbnZwal9lZw?oc=5",
+      "snippet": "As search for missing boy steps up, city mom seeks widening of Amber Alerts &nbsp;&nbsp; Calgary Herald Update #5: Missing child - Parker &nbsp;&nbsp; City of Calgary Newsroom Calg",
+      "pub": "Mon, 20 Jul 2026 00:08:27 GMT",
       "image": ""
     },
     {
@@ -108,26 +100,34 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Roughriders linebacker and captain Jayden Dalke killed in crash - CBC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMk9jcklPb2p4U0Y1aGFNVGRkWkg3RUhmUjZsZm05SUdqOUVoMUNoQXoxUjM1Z19Gb2ZCMXdSSmRJMDBrOUszVklnQ2ZVdl9OaXZLNW5mend6OUxMVlFtOVYxbkdoSXRrUmZEbXByOF9KSEhlNlJyLXBiYjZJeTRTQWdRRlhPNmhmT3kwVXkyVlFCTWJUT2c?oc=5",
-      "snippet": "Roughriders linebacker and captain Jayden Dalke killed in crash &nbsp;&nbsp; CBC Saskatchewan Roughriders’ captain Jayden Dalke dies in car crash &nbsp;&nbsp; Global News CFL relea",
-      "pub": "Sun, 19 Jul 2026 20:24:00 GMT",
+      "title": "Kimberley, B.C., city of about 9,000, placed under evacuation alert as nearby out-of-control wildfire grows - CBC",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR3Vsekl2UklVZVBpcnk5c1A0NEpvRWx6RWJkSGlVMXhTY2NfMnA2YktCRHJ1YXc5b3JvYjU0Q2g5elczTVJySHBzR0xIZW9Qb3lBak9ZUGpBSndfYWJuU2g0YjZQd1hHYVA1Tl82S1NmcHRMNHEwTWtVakhCRF80a0V5VTBWcS1PUFg5SU1mYzJPOEZPdXN3Q19lRGdaWU1hWTlVUmNTcVlfT3FRS3c?oc=5",
+      "snippet": "Kimberley, B.C., city of about 9,000, placed under evacuation alert as nearby out-of-control wildfire grows &nbsp;&nbsp; CBC Evacuation Alert issued for St. Mary Lake area &nbsp;&n",
+      "pub": "Mon, 20 Jul 2026 03:12:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Smoke from U.S. wildfires affecting air quality in B.C. - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0lXYloyaDVYbkg5S0dZSkExZGxoT3ZDQ2licXJfUmZCN3oybkJpaE0xbUpsNzQyRkJIaF9IaFdLci1rV05VSXJ4cDdFeklVdUtXdUQyZGVKRlpDVEZKRmdRbmhSOGVCSzBOT05Ndk51NVZydkxDUUZSMk5hcUUycUxFMG9qRkdCeWdZODFhWnhYX3pwNElES1ZDa2QzSndDRlZJWGEwTURMOFhrVjFZdA?oc=5",
-      "snippet": "Smoke from U.S. wildfires affecting air quality in B.C. &nbsp;&nbsp; CTV News Environment Canada issues air quality alert for Fraser Canyon &nbsp;&nbsp; CityNews Vancouver Wildfire",
-      "pub": "Sun, 19 Jul 2026 20:09:39 GMT",
+      "title": "Spain wins the World Cup by beating Argentina 1-0 with Ferran Torres’ goal in extra time - CP24",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1Rfb3U3dDZ3S1JiU1ZsaXlhU0oxY2hzbXF3MEtqOEUtWGNtMWNPT2t2R1haenkxMWZSSjFVQTRxcTE3eUE3N0tLc21RT1FQUnUxNmlrb0twX2FGcE1EMkhPemxZYVpvNzZkQkxiOW56d1RVRThGQ1FhUnFfb3l1c1pvZUtyd3pHYS1WNXJEcE92azBGNWstaXBrRmVqY3BsM1dOMUpBQy1EbnNIeWRj?oc=5",
+      "snippet": "Spain wins the World Cup by beating Argentina 1-0 with Ferran Torres’ goal in extra time &nbsp;&nbsp; CP24 2026 World Cup: Spain clinches second win after Argentina disappoints in ",
+      "pub": "Mon, 20 Jul 2026 00:15:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Poilievre names Conservatives' point person on the Alberta referendum - CBC",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGFnZXV3c2FZcW5wQThBZUx3azlEWXZhdHpLclNJeEEwOGZ1c1RQSC1xb1hiVTBBOElqS0JQUW9HcW5UWUpmeHBCU3c0eXhINzBtQTgwcTg1MzZYS05ncFBDZG1ib0JCbVQyMWRuZ0hMUjktdldwS3Y4MmZHSGFxLWpGZ3c4UUZvdFNuMkFuN3FSWXpKSW8zazVGTDU?oc=5",
-      "snippet": "Poilievre names Conservatives' point person on the Alberta referendum &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "snippet": "Poilievre names Conservatives' point person on the Alberta referendum &nbsp;&nbsp; CBC Poilievre appoints Edmonton MP to lead party's pro-unity campaign ahead of Alberta separatism",
       "pub": "Sun, 19 Jul 2026 20:39:58 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "2 boys missing after being swept into rapids at Manitoba provincial park - Global News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXNZS0E5MWZRTTdMa3ZyTzlkdEhENTM4SzVIb2I3STREUmg3bW9fNTlFVGFabGNHa1NRNnloOUlaSmgxNFJ6NG8tQ0RsSVp4TjRDbWppTUZYQWtveUxzT1NYNFQyWkZtTDMyQjdYYWpVRzRxSzE0bm1kV1hUa0N1U0VpeERfb1EzaW5VSGFB?oc=5",
+      "snippet": "2 boys missing after being swept into rapids at Manitoba provincial park &nbsp;&nbsp; Global News 2 boys missing, believed to have drowned in Manitoba's Nutimik Lake &nbsp;&nbsp; C",
+      "pub": "Sun, 19 Jul 2026 22:11:41 GMT",
       "image": ""
     }
   ],
