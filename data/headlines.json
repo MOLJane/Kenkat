@@ -1,74 +1,137 @@
 {
-  "generated_at": "2026-07-22T07:52:37.423367+00:00",
-  "count": 8,
+  "generated_at": "2026-07-22T10:16:13.469428+00:00",
+  "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "Man Charged With Sexual Assault Following Investigation in Metro",
-      "link": "https://vocm.com/2026/07/21/304919/",
-      "snippet": "A man has been arrested and charged in connection with a sexual assault earlier this year in St. John's. The RNC were called on April 11th to reports ...",
-      "pub": "Tue, 21 Jul 2026 19:03:48 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-10.png"
+      "title": "Lieutenant Governor’s Annual Garden Party Today",
+      "link": "https://vocm.com/2026/07/22/lieutenant-governors-annual-garden-party-today/",
+      "snippet": "The centennial of the Royal Canadian Legion will be celebrated at the Lieutenant Governor's annual Garden Party in St. John's today. The Legion was fo...",
+      "pub": "Wed, 22 Jul 2026 09:58:40 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/07/garden-party-government-house-2025.jpg"
     },
     {
       "source": "VOCM",
-      "title": "RCMP Confirms Death of One Man in Workplace Accident in Springdale",
-      "link": "https://vocm.com/2026/07/21/304910/",
-      "snippet": "The RCMP has confirmed that a man has died following a workplace accident in Springdale earlier this month. Emergency crews were called to the scene o...",
-      "pub": "Tue, 21 Jul 2026 16:05:05 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/rcmp-royal-canadian-mounted-police-patch-stock-logo.jpg"
+      "title": "Residents of Happy Valley-Goose Bay Feeling ‘Unsafe, Frustrated’ Due to Continued Inappropriate and Criminal Behaviour",
+      "link": "https://vocm.com/2026/07/22/happy-valley-goose-bay/",
+      "snippet": "The town of Happy Valley-Goose Bay is once again urging the provincial government to take action public safety issues in the town. The town has been v...",
+      "pub": "Wed, 22 Jul 2026 09:36:08 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/11/town-of-happy-valley-goose-bay-stock-town-hall.jpg"
     },
     {
       "source": "VOCM",
-      "title": "Quebec Premier Predicts Churchill Falls Hydro Agreement Will Come ‘Very Soon’",
-      "link": "https://vocm.com/2026/07/21/304904/",
-      "snippet": "Quebec Premier Christine Frchette says an agreement on Hydro development on Churchill Falls will come \"very soon.\" Canadian Premiers are meeting this ...",
-      "pub": "Tue, 21 Jul 2026 15:55:03 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/christine-frechette.png"
+      "title": "Liberals Pressing Government for More Updates on Churchill Falls Negotiations",
+      "link": "https://vocm.com/2026/07/22/liberals-pressing-government-for-more-updates-on-churchill-falls-negotiations/",
+      "snippet": "The opposition Liberals are pressing for more information from the PCs on the status of negotiations on the development of Churchill Falls. Yesterday,...",
+      "pub": "Wed, 22 Jul 2026 09:19:03 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/john-hogan-leader-of-opposition-liberal-party-leader-house-of-assembly.png"
     },
     {
       "source": "VOCM",
-      "title": "RNC Confirms Six Communications Infrastructure Fires Are Connected and Suspicious",
-      "link": "https://vocm.com/2026/07/21/304900/",
-      "snippet": "The Royal Newfoundland Constabulary says fires involving communications infrastructure at six different sites around the metro region are connected an...",
-      "pub": "Tue, 21 Jul 2026 15:46:31 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/steph-myers-july-21.png"
+      "title": "Bell Aliant Working to Restore Service to Four Cell Towers",
+      "link": "https://vocm.com/2026/07/22/bell-aliant-working-to-restore-service-to-four-cell-towers/",
+      "snippet": "Bell Aliant says crews are working round-the-clock to restore service after four of its towers were damaged by fire. RNC is investigating a string of ...",
+      "pub": "Wed, 22 Jul 2026 08:51:21 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/bell-aliant-logo.png"
     },
     {
       "source": "VOCM",
-      "title": "Applefest and Rocky Harbour Storytelling Festival to Receive Funding this Fall for Tourism",
-      "link": "https://vocm.com/2026/07/21/applefest-and-rocky-harbour-storytelling-festival-to-receive-funding-this-fall-for-tourism/",
-      "snippet": "Two events being held this fall will receive money from the province in an effort that government says will help grow the tourism season. Applefest in...",
-      "pub": "Tue, 21 Jul 2026 15:28:53 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/newfoundland-and-labrador-welcome-tourism-tourists-visitors.jpg"
+      "title": "July 22, 2026 – Should the provincial government do more to support tourism events happening outside of the peak summer season?",
+      "link": "https://vocm.com/2026/07/22/july-22-2026-should-the-provincial-government-do-more-to-support-tourism-events-happening-outside-of-the-peak-summer-season/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13221').",
+      "pub": "Wed, 22 Jul 2026 08:41:50 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/08/Trinity-Tourism.jpg"
     },
     {
       "source": "VOCM",
-      "title": "Government Allocates $1.2-Million to Fund Medical Flights to and from Labrador",
-      "link": "https://vocm.com/2026/07/21/304874/",
-      "snippet": "The provincial government says it has allocated about $1.2-million to fund additional medical flights in and out of Labrador through September. Last w...",
-      "pub": "Tue, 21 Jul 2026 14:20:18 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/health-minister-lela-evans-budget-2026-2.jpg"
+      "title": "‘We Need to Hit ’em Tariff to Tariff’: Canada’s Trade Relationship with U.S. Dominates Day One of Premier’s Meetings",
+      "link": "https://vocm.com/2026/07/22/we-need-to-hit-em-tariff-to-tariff-canadas-trade-relationship-with-u-s-dominates-day-one-of-premiers-meetings/",
+      "snippet": "Ontario Premier Doug Ford says it's time for Canada to stop letting the United States be the \"bully\" when it comes to tariffs. U.S. President Donald T...",
+      "pub": "Wed, 22 Jul 2026 08:41:38 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/doug-ford.png"
     },
     {
       "source": "VOCM",
-      "title": "Rogers Confirms One of its Towers was Damaged in Recent Rash of Fires",
-      "link": "https://vocm.com/2026/07/21/rogers-confirms-one-of-its-towers-was-damaged-in-recent-rash-of-fires/",
-      "snippet": "Rogers has confirmed that one of its communications towers was damaged during the recent rash of fires targeting such infrastructure in the metro regi...",
-      "pub": "Tue, 21 Jul 2026 14:16:31 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/cell-phone-tower-2.png"
+      "title": "Daily Fuel Prices for Wednesday, July 22, 2026",
+      "link": "https://vocm.com/2026/07/22/daily-fuel-prices-for-wednesday-july-22-2026/",
+      "snippet": "There's little movement when it comes to gasoline, but all other fuels are a bit more expensive today. Diesel increases by nearly 3 cents per litre. F...",
+      "pub": "Wed, 22 Jul 2026 08:35:48 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/gas-gasoline-fuel-price-pump-pub-gas-station-4.jpg"
     },
     {
       "source": "VOCM",
-      "title": "Authorities Requesting Help From Public for Information on Communication Towers Fires",
-      "link": "https://vocm.com/2026/07/21/304893/",
-      "snippet": "Authorities are urging anyone with information in relation to a rash of fires at communications towers in the metro area to come forward as soon as po...",
-      "pub": "Tue, 21 Jul 2026 14:11:48 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/cell-phone-tower-1.png"
+      "title": "Two Fishermen Dead Near Small Community on Baie Verte Peninsula",
+      "link": "https://vocm.com/2026/07/22/two-fishermen-dead-near-small-community-on-baie-verte-peninsula/",
+      "snippet": "Two fishermen are dead after running into trouble off the Baie Verte Peninsula. The two perished near the small community of Harbour Round yesterday a...",
+      "pub": "Wed, 22 Jul 2026 08:31:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/ocean.webp"
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump's new tariffs on Canada could face a court challenge. But this time, he might win - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMS1QRDRST2RJQUR1MGlhVTVVVjI3TEhuMm50VHFvU2MwQUhVWklvemp5ODlGNGVYci1KOTVVWmlNX0hTSWhSNWdnTF92a1dIc3ZjVDNOU2NFcURORlhQQU1ScTlydlN2OHZ3Z1lNSFRSajZ0REtwWkRiVDdwYmdDdFZn?oc=5",
+      "snippet": "Trump's new tariffs on Canada could face a court challenge. But this time, he might win &nbsp;&nbsp; CBC Opinion | Trump’s Canada Threats Are Nothing Compared With What’s Coming &n",
+      "pub": "Wed, 22 Jul 2026 08:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Gordie Howe Bridge opening celebration with U.S. cancelled, Ottawa says - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRk5RNXJoRWlHVDVSRlptU0ROUVB3Mm8zR3lUQi0ydUx0X3NKSmR1dUVvcmE2ZEFWSkltbXFQVlZFczlqdGtTZUl3QW42SFBSYm84aFhuSGs0dEFpb1lmQUJwaXduUmg1N0VzWDZ6WUxRcUNxZFB4V0E4NFBDSGNRQWJTeDJrUVJYTFR1SXh2Wm9iZUVUb2o1ZHFFMW0?oc=5",
+      "snippet": "Gordie Howe Bridge opening celebration with U.S. cancelled, Ottawa says &nbsp;&nbsp; The Globe and Mail Details of Gordie Howe Bridge deal released amid political pressure &nbsp;&n",
+      "pub": "Tue, 21 Jul 2026 21:51:54 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmFPSFZrYjRYOGh2Nlh5OUlleEEwSG05ck4xc3g0YUdCRS1pQUVOSmY1TkZDVWRMRjFwc1dQVzBKT0lIREdQMmx6aHBtNHF6ZmxDMnB5b210amljS2I2a2ZuVFVmNTlUVldIcy04a0ZqZWRFLWxGYzN4WHhwaXlIaFpCVEVtUE9hSHppTThEUURUdnhjRVJXSGFrZzYza0dyME1DSE9tSGRiVURD0gGyAUFVX3lxTE4wUDZfb0VMcGNNSHd1QURLZ1k1cXpkNVpqZjdpY1Z6bVBVZ3VHMGpxcGphX0FJR2k0RktLNnBFUG43TTBOaDJheENTaWpzZklMby1mVUhjb0ViUW9MLXdoR1MtamN1M3VDSThKOFotOVU5ejV0cEtFTXNuTC1zSDRUYWNVY0p0MEcxSnQxVldkNnVRQkc5bEF2VS1fZEJOa2VOcEZMZVFHY3lqNVZLR0dXRkE?oc=5",
+      "snippet": "US defence chief Hegseth puts Iran war cost at $37.5bn so far &nbsp;&nbsp; Al Jazeera Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more &nbsp;&nbsp",
+      "pub": "Tue, 21 Jul 2026 21:23:17 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Police now warning of donation scam as search for missing Calgary boy continues - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWXhMbWhFdkg5U2tndGpjaDBsTVlBaHZRU05FQ1NpanN0ckZOXzJ1bkY1NTdWREY3LXIwVUFCLTFCTjRLV3RFLXo5QVdKYWRfTl94dUZBaFJraG1mWkNVajdjQmI5VVRfeko4MXpHRzJNX1V5N0tKQnBfYnVVTEpKVWgwQ0lwSzNnRkNPbnFGdXVSc2stem1Ed3FSano1U3J6MFF0bGVsZDVZY2NORTBoNUlzd2tBUnl4MXpj?oc=5",
+      "snippet": "Police now warning of donation scam as search for missing Calgary boy continues &nbsp;&nbsp; CTV News Update #7: Missing child - Parker &nbsp;&nbsp; City of Calgary Newsroom Family",
+      "pub": "Tue, 21 Jul 2026 23:51:55 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "New wildfire near Boston Bar prompts evacuation of entire area - Global News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZHlXTVJxWE85X2hVa3ZaM2g1eEpKeExLQzlJeExzdEI2WEhyMnRicGxQTWhLSENBTmhNSGlzR1p1NV9hVVd0ejVyYmNWMEdoYkhOZk9TbmNCZmxtczJaYzltVjdabHdaM3ctN0NodjdIVXlYRVdpOHJnR0piMDY5MnQxVHhTY3ZZQ1dfQlFVZTJtSWN2?oc=5",
+      "snippet": "New wildfire near Boston Bar prompts evacuation of entire area &nbsp;&nbsp; Global News Remaining Boston Bar residents ordered to evacuate as new wildfire spreads &nbsp;&nbsp; The ",
+      "pub": "Wed, 22 Jul 2026 02:27:21 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Alberta signs joint agreement with eight other provinces to allow direct-to-consumer alcohol sales - Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONS11VkZmRmxNd2RzQkpJWndBR3B0NmtCM1A0N0RQWWwtZkJZcncyRzJaUld2T3AycWNMeVNJRXdwSm5RcklnWExLNHpkWVZmNmd6VEZmZ3ZMY210Ynh3bUtSZ3pBRU93NHFabTlYNUF5MU5qWVFzODlwNXk4eGhWcjNjZWtyLXZ3UzhQcThwaGo4VUV3WXBuUVphN3ppa3IwZWZRTDBR?oc=5",
+      "snippet": "Alberta signs joint agreement with eight other provinces to allow direct-to-consumer alcohol sales &nbsp;&nbsp; Edmonton Journal 9 premiers to allow wineries, distilleries, breweri",
+      "pub": "Tue, 21 Jul 2026 23:02:45 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Convoy leader Tamara Lich asking court's permission to visit White House, go on cruise - CBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIb3NZY05ZOC0zb2FLcmpDdnFFYTB2c1ZjQk9wQUp2eHh2TC13UV9UajgyYWg5cHE5Zy1OZ3JRX2JHRkxtclp4MERMYW11SUt3WTdwZERDNVBEcm9jMmI1amxiZTBHemlqcUJIcHdxRHNxeEhBSnJWeGhnd1RhUQ?oc=5",
+      "snippet": "Convoy leader Tamara Lich asking court's permission to visit White House, go on cruise &nbsp;&nbsp; CBC",
+      "pub": "Wed, 22 Jul 2026 08:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Man shot and killed by police at Westview Shopping Centre in North Vancouver - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVXZyWlJSaVQyWGgzU0NieHl0Q09nRndwLUx0YUpkZ2tLaUt6amJIeklIdFdvR01XUEZGNTBxN0k3VjdNS2lUN25uaGZDNE4waGF4cnhtLVRXOW4tUUtLYXp4TDhSUHdYa2hrcXRUWDM3MzlEY1NSbVgzQkdBOVp4NWkzX2d6QVE0?oc=5",
+      "snippet": "Man shot and killed by police at Westview Shopping Centre in North Vancouver &nbsp;&nbsp; Vancouver Sun North Vancouver RCMP shoot suspect at Westview Plaza, witnesses say &nbsp;&n",
+      "pub": "Wed, 22 Jul 2026 03:41:29 GMT",
+      "image": ""
     }
   ],
   "errors": [
-    "CBC News failed: The read operation timed out",
-    "Google News Canada failed: The read operation timed out"
+    "CBC News failed: The read operation timed out"
   ]
 }
