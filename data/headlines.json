@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-07-22T10:16:13.469428+00:00",
+  "generated_at": "2026-07-22T12:10:00.693657+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Man Ticketed for Excessive Speed in Gros Morne National Park",
+      "link": "https://vocm.com/2026/07/22/man-ticketed-for-excessive-speed-in-gros-morne-national-park/",
+      "snippet": "A man has been ticketed for excessive speeding after he was pulled over along the Great Northern Peninsula Highway Monday morning. The vehicle was pul...",
+      "pub": "Wed, 22 Jul 2026 10:41:50 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-officer.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Minister to Announce Fire Protection Equipment on West Coast",
+      "link": "https://vocm.com/2026/07/22/minister-to-announce-fire-protection-equipment-on-west-coast/",
+      "snippet": "An announcement is coming today regarding fire protection vehicles and equipment. Forestry minister Pleaman Forsey will be in the west coast community...",
+      "pub": "Wed, 22 Jul 2026 10:14:53 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/08/2019_06_16_3689-2-2x1-firefighters-truck-lights-sirens-sjrfd.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Lieutenant Governor’s Annual Garden Party Today",
@@ -14,7 +30,7 @@
       "source": "VOCM",
       "title": "Residents of Happy Valley-Goose Bay Feeling ‘Unsafe, Frustrated’ Due to Continued Inappropriate and Criminal Behaviour",
       "link": "https://vocm.com/2026/07/22/happy-valley-goose-bay/",
-      "snippet": "The town of Happy Valley-Goose Bay is once again urging the provincial government to take action public safety issues in the town. The town has been v...",
+      "snippet": "The town of Happy Valley-Goose Bay is once again urging the provincial government to take action on public safety issues in the town. The town has bee...",
       "pub": "Wed, 22 Jul 2026 09:36:08 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/11/town-of-happy-valley-goose-bay-stock-town-hall.jpg"
     },
@@ -30,7 +46,7 @@
       "source": "VOCM",
       "title": "Bell Aliant Working to Restore Service to Four Cell Towers",
       "link": "https://vocm.com/2026/07/22/bell-aliant-working-to-restore-service-to-four-cell-towers/",
-      "snippet": "Bell Aliant says crews are working round-the-clock to restore service after four of its towers were damaged by fire. RNC is investigating a string of ...",
+      "snippet": "Bell Aliant says crews are working around-the-clock to restore service after four of its towers were damaged by fire. RNC is investigating a string of...",
       "pub": "Wed, 22 Jul 2026 08:51:21 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/bell-aliant-logo.png"
     },
@@ -51,51 +67,35 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/doug-ford.png"
     },
     {
-      "source": "VOCM",
-      "title": "Daily Fuel Prices for Wednesday, July 22, 2026",
-      "link": "https://vocm.com/2026/07/22/daily-fuel-prices-for-wednesday-july-22-2026/",
-      "snippet": "There's little movement when it comes to gasoline, but all other fuels are a bit more expensive today. Diesel increases by nearly 3 cents per litre. F...",
-      "pub": "Wed, 22 Jul 2026 08:35:48 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/gas-gasoline-fuel-price-pump-pub-gas-station-4.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Two Fishermen Dead Near Small Community on Baie Verte Peninsula",
-      "link": "https://vocm.com/2026/07/22/two-fishermen-dead-near-small-community-on-baie-verte-peninsula/",
-      "snippet": "Two fishermen are dead after running into trouble off the Baie Verte Peninsula. The two perished near the small community of Harbour Round yesterday a...",
-      "pub": "Wed, 22 Jul 2026 08:31:26 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/ocean.webp"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump's new tariffs on Canada could face a court challenge. But this time, he might win - CBC",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMS1QRDRST2RJQUR1MGlhVTVVVjI3TEhuMm50VHFvU2MwQUhVWklvemp5ODlGNGVYci1KOTVVWmlNX0hTSWhSNWdnTF92a1dIc3ZjVDNOU2NFcURORlhQQU1ScTlydlN2OHZ3Z1lNSFRSajZ0REtwWkRiVDdwYmdDdFZn?oc=5",
-      "snippet": "Trump's new tariffs on Canada could face a court challenge. But this time, he might win &nbsp;&nbsp; CBC Opinion | Trump’s Canada Threats Are Nothing Compared With What’s Coming &n",
-      "pub": "Wed, 22 Jul 2026 08:00:00 GMT",
+      "snippet": "Trump's new tariffs on Canada could face a court challenge. But this time, he might win &nbsp;&nbsp; CBC ‘Without us there’s no way they can survive,’ Trump says of Canada as trade",
+      "pub": "Wed, 22 Jul 2026 11:00:20 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Gordie Howe Bridge opening celebration with U.S. cancelled, Ottawa says - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRk5RNXJoRWlHVDVSRlptU0ROUVB3Mm8zR3lUQi0ydUx0X3NKSmR1dUVvcmE2ZEFWSkltbXFQVlZFczlqdGtTZUl3QW42SFBSYm84aFhuSGs0dEFpb1lmQUJwaXduUmg1N0VzWDZ6WUxRcUNxZFB4V0E4NFBDSGNRQWJTeDJrUVJYTFR1SXh2Wm9iZUVUb2o1ZHFFMW0?oc=5",
-      "snippet": "Gordie Howe Bridge opening celebration with U.S. cancelled, Ottawa says &nbsp;&nbsp; The Globe and Mail Details of Gordie Howe Bridge deal released amid political pressure &nbsp;&n",
-      "pub": "Tue, 21 Jul 2026 21:51:54 GMT",
+      "title": "Details of Gordie Howe Bridge deal released amid political pressure - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLXNVMUdIdUs0RGlOLUhNcmd2YUctZzA5RkQ1d3o0VXFYZ08zajJwRVl3NEp1YkNSdHB0cTNLSktTYloxaWY4VDlUOFltRWdKNm9zcjVaamhEdnVfYlhabnJrTDVzMGlFSkJFVnJtMEtPT0M5c1FoY2JybVBmRklfWnlZb2xDT01IN3hSdnZpSUY0akdPamNsYm12cDQ5Zi1YaWZ2VzVFT05weWFz?oc=5",
+      "snippet": "Details of Gordie Howe Bridge deal released amid political pressure &nbsp;&nbsp; CTV News Canada won’t join U.S. at Gordie Howe bridge opening after tariff threat &nbsp;&nbsp; Glob",
+      "pub": "Wed, 22 Jul 2026 10:37:38 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmFPSFZrYjRYOGh2Nlh5OUlleEEwSG05ck4xc3g0YUdCRS1pQUVOSmY1TkZDVWRMRjFwc1dQVzBKT0lIREdQMmx6aHBtNHF6ZmxDMnB5b210amljS2I2a2ZuVFVmNTlUVldIcy04a0ZqZWRFLWxGYzN4WHhwaXlIaFpCVEVtUE9hSHppTThEUURUdnhjRVJXSGFrZzYza0dyME1DSE9tSGRiVURD0gGyAUFVX3lxTE4wUDZfb0VMcGNNSHd1QURLZ1k1cXpkNVpqZjdpY1Z6bVBVZ3VHMGpxcGphX0FJR2k0RktLNnBFUG43TTBOaDJheENTaWpzZklMby1mVUhjb0ViUW9MLXdoR1MtamN1M3VDSThKOFotOVU5ejV0cEtFTXNuTC1zSDRUYWNVY0p0MEcxSnQxVldkNnVRQkc5bEF2VS1fZEJOa2VOcEZMZVFHY3lqNVZLR0dXRkE?oc=5",
-      "snippet": "US defence chief Hegseth puts Iran war cost at $37.5bn so far &nbsp;&nbsp; Al Jazeera Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more &nbsp;&nbsp",
-      "pub": "Tue, 21 Jul 2026 21:23:17 GMT",
+      "title": "Zelenskyy replaces Ukraine military chief after protests - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3pJZG9LNm1GdGZ3Nm9oRXdsRGRrMU5KdEZGWUhfOXVpWDZ2dG8yMHNKdVNCWUtuenB6MWpFMHk0YXl2UnF3OHk1OUpFVmFPemNsaXFfXzItbzZaeS0wTnZZcTI3UE5WVWozc1JxOVFxV04xaFdVekh2eURURW9OWmJIaDZjRlNQT2tsWlpZRXNaUVlvNXJSeXpabkdkZ9IBowFBVV95cUxPWUkyRzYwbDcwOFJaZUlpeEhDQlVrbnd4djZKbWdHUVNHUkw1UG4tT1A4ekplY09RYkM5TlYtLUFQVFc0VU16VmVCdTVJS2hhZ1JON21YT1VFZFg3MXVtS3IwSHZSRzlCVFlaV3FvSUprc3I3dDRscGhVcE1tWG1ROThrckptdU12alJxYVVhUWlvZkVfWTB3eUYyV2cxTDJibHpF?oc=5",
+      "snippet": "Zelenskyy replaces Ukraine military chief after protests &nbsp;&nbsp; Al Jazeera Firing of Ukraine’s Top General Signals the End of an Era &nbsp;&nbsp; The New York Times Watch: Ne",
+      "pub": "Wed, 22 Jul 2026 09:38:37 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Police now warning of donation scam as search for missing Calgary boy continues - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWXhMbWhFdkg5U2tndGpjaDBsTVlBaHZRU05FQ1NpanN0ckZOXzJ1bkY1NTdWREY3LXIwVUFCLTFCTjRLV3RFLXo5QVdKYWRfTl94dUZBaFJraG1mWkNVajdjQmI5VVRfeko4MXpHRzJNX1V5N0tKQnBfYnVVTEpKVWgwQ0lwSzNnRkNPbnFGdXVSc2stem1Ed3FSano1U3J6MFF0bGVsZDVZY2NORTBoNUlzd2tBUnl4MXpj?oc=5",
-      "snippet": "Police now warning of donation scam as search for missing Calgary boy continues &nbsp;&nbsp; CTV News Update #7: Missing child - Parker &nbsp;&nbsp; City of Calgary Newsroom Family",
-      "pub": "Tue, 21 Jul 2026 23:51:55 GMT",
+      "title": "Search for 11-year-old Calgarian enters sixth day as groups widen search area - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR3FOakk4NzZzbW9XS1c4c1g0dVZ0eWZkTFYtRmFxQUJaVEhZLVVtLUVSd3JfMXJNQzBsRG1sVmxrZDdHSjZwMDZCSGoxMXJjZUdPYWhQNjFJTFlWNDh1Z0Q0YzF4SVBMYmFMd2VYRXl4MjFadDNwc1ZtV3hwS0dsNkxrR2FCNDhlSWloM2FnTDA?oc=5",
+      "snippet": "Search for 11-year-old Calgarian enters sixth day as groups widen search area &nbsp;&nbsp; Calgary Herald Update #7: Missing child - Parker &nbsp;&nbsp; City of Calgary Newsroom Fa",
+      "pub": "Tue, 21 Jul 2026 22:52:30 GMT",
       "image": ""
     },
     {
@@ -108,26 +108,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta signs joint agreement with eight other provinces to allow direct-to-consumer alcohol sales - Edmonton Journal",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONS11VkZmRmxNd2RzQkpJWndBR3B0NmtCM1A0N0RQWWwtZkJZcncyRzJaUld2T3AycWNMeVNJRXdwSm5RcklnWExLNHpkWVZmNmd6VEZmZ3ZMY210Ynh3bUtSZ3pBRU93NHFabTlYNUF5MU5qWVFzODlwNXk4eGhWcjNjZWtyLXZ3UzhQcThwaGo4VUV3WXBuUVphN3ppa3IwZWZRTDBR?oc=5",
-      "snippet": "Alberta signs joint agreement with eight other provinces to allow direct-to-consumer alcohol sales &nbsp;&nbsp; Edmonton Journal 9 premiers to allow wineries, distilleries, breweri",
-      "pub": "Tue, 21 Jul 2026 23:02:45 GMT",
+      "title": "Bell Aliant Working to Restore Service to Four Cell Towers - VOCM",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSVhMb3ZtaWJIaTRPdkRhZHNad3lDSThXdXJwX1JmaVFKcS15dV83RHZocHpnUDJLSjhobk9lblQ2eGhxS2dnR0U4eE9maDZTNUx3STU5ZVBGTVFlWjgySXduM1Z3bFJUMkIyYk91T0RQRnpzbWJlSE50TUhkMC1pVFZCOEtaMDFmOUpBQzYxLXk?oc=5",
+      "snippet": "Bell Aliant Working to Restore Service to Four Cell Towers &nbsp;&nbsp; VOCM RNC Confirms Six Communications Infrastructure Fires Are Connected and Suspicious &nbsp;&nbsp; VOCM Pol",
+      "pub": "Wed, 22 Jul 2026 08:51:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Tk'emlúps te Secwépemc chief says probe into possible unmarked graves continues with no end in sight - CBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdzZzNl80clhJdWhqcDRIaDVlREhkbXdmd1FocEFGdXlYWWxGMld4cS0xbmRpUGxSSTR5NnlEblFoY1RuUUtqbFpURTEzM2EyODRKXzlfT0dOSHBxaDFmMURBSUFqNlBUelVqYTF6VGdDbE1VQmEtamtmTmZ3VEhKemt1djNVVVhHSjcwLVJHQ1pUNzlybmZNRE5Mbw?oc=5",
+      "snippet": "Tk'emlúps te Secwépemc chief says probe into possible unmarked graves continues with no end in sight &nbsp;&nbsp; CBC",
+      "pub": "Wed, 22 Jul 2026 08:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Convoy leader Tamara Lich asking court's permission to visit White House, go on cruise - CBC",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIb3NZY05ZOC0zb2FLcmpDdnFFYTB2c1ZjQk9wQUp2eHh2TC13UV9UajgyYWg5cHE5Zy1OZ3JRX2JHRkxtclp4MERMYW11SUt3WTdwZERDNVBEcm9jMmI1amxiZTBHemlqcUJIcHdxRHNxeEhBSnJWeGhnd1RhUQ?oc=5",
-      "snippet": "Convoy leader Tamara Lich asking court's permission to visit White House, go on cruise &nbsp;&nbsp; CBC",
+      "snippet": "Convoy leader Tamara Lich asking court's permission to visit White House, go on cruise &nbsp;&nbsp; CBC Freedom Convoy Leader, Under House Arrest, Wants to Visit the White House &n",
       "pub": "Wed, 22 Jul 2026 08:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Man shot and killed by police at Westview Shopping Centre in North Vancouver - Vancouver Sun",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVXZyWlJSaVQyWGgzU0NieHl0Q09nRndwLUx0YUpkZ2tLaUt6amJIeklIdFdvR01XUEZGNTBxN0k3VjdNS2lUN25uaGZDNE4waGF4cnhtLVRXOW4tUUtLYXp4TDhSUHdYa2hrcXRUWDM3MzlEY1NSbVgzQkdBOVp4NWkzX2d6QVE0?oc=5",
-      "snippet": "Man shot and killed by police at Westview Shopping Centre in North Vancouver &nbsp;&nbsp; Vancouver Sun North Vancouver RCMP shoot suspect at Westview Plaza, witnesses say &nbsp;&n",
-      "pub": "Wed, 22 Jul 2026 03:41:29 GMT",
       "image": ""
     }
   ],
