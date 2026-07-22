@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-22T17:46:44.697260+00:00",
+  "generated_at": "2026-07-22T18:58:45.742803+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Third Man Arrested in Connection With Violent Harbour Grace Home Invasion",
+      "link": "https://vocm.com/2026/07/22/304984/",
+      "snippet": "A third person has been arrested and charged in connection with a home invasion in Harbour Grace earlier this month. The RCMP were called to a home in...",
+      "pub": "Wed, 22 Jul 2026 17:56:38 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/05/rcmp-car-vehicle-logo-stock-1.jpg"
+    },
     {
       "source": "VOCM",
       "title": "RCMP Investigate Serious ATV Collision in L’Anse au Clair",
@@ -38,7 +46,7 @@
       "source": "VOCM",
       "title": "NL Joins Others in Signing Deal Allowing for Purchase of Alcohol from Other Provinces",
       "link": "https://vocm.com/2026/07/22/nl-joins-others-in-deal-allowing-for-purchase-of-alcohol-from-other-provinces/",
-      "snippet": "Newfoundland and Labrador has joined nine other provinces in signing a direct-to-consumer agreement that would allow alcohol sales to other provinces ...",
+      "snippet": "Newfoundland and Labrador has joined eight other provinces in signing a direct-to-consumer agreement that would allow alcohol sales to other provinces...",
       "pub": "Wed, 22 Jul 2026 13:42:36 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/premiers-meeting-pei-council-of-the-federation-2026.jpg"
     },
@@ -59,27 +67,59 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/campfire-camp-fire.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Driver Clocked Nearly 100 km/h Over Speed Limit on Busy Corner Brook Roadway",
-      "link": "https://vocm.com/2026/07/22/driver-clocked-nearly-100-kmh-over-speed-limit-on-busy-corner-brook-roadway/",
-      "snippet": "Police hauled over a lead-footed driver in Corner Brook at 6:30 last evening zipping along at nearly 100 km/hr over the speed limit. RNC radar clocked...",
-      "pub": "Wed, 22 Jul 2026 12:34:38 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/speed-oconnell-drive-corner-brook-rnc.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump's new tariffs on Canada could face a court challenge. But this time, he might win - CBC",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMS1QRDRST2RJQUR1MGlhVTVVVjI3TEhuMm50VHFvU2MwQUhVWklvemp5ODlGNGVYci1KOTVVWmlNX0hTSWhSNWdnTF92a1dIc3ZjVDNOU2NFcURORlhQQU1ScTlydlN2OHZ3Z1lNSFRSajZ0REtwWkRiVDdwYmdDdFZn?oc=5",
-      "snippet": "Trump's new tariffs on Canada could face a court challenge. But this time, he might win &nbsp;&nbsp; CBC 9 premiers agree to lift interprovincial trade barriers on alcohol products",
+      "snippet": "Trump's new tariffs on Canada could face a court challenge. But this time, he might win &nbsp;&nbsp; CBC 'Storm before the calm': Canadian exporters opt to wait and see on Trump ta",
       "pub": "Wed, 22 Jul 2026 17:13:31 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Details of Gordie Howe Bridge deal released amid political pressure - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLXNVMUdIdUs0RGlOLUhNcmd2YUctZzA5RkQ1d3o0VXFYZ08zajJwRVl3NEp1YkNSdHB0cTNLSktTYloxaWY4VDlUOFltRWdKNm9zcjVaamhEdnVfYlhabnJrTDVzMGlFSkJFVnJtMEtPT0M5c1FoY2JybVBmRklfWnlZb2xDT01IN3hSdnZpSUY0akdPamNsYm12cDQ5Zi1YaWZ2VzVFT05weWFz?oc=5",
-      "snippet": "Details of Gordie Howe Bridge deal released amid political pressure &nbsp;&nbsp; CTV News Gordie Howe bridge deal text confirms Canada is splitting toll revenues with U.S. &nbsp;&n",
-      "pub": "Wed, 22 Jul 2026 09:35:21 GMT",
+      "title": "Search for missing Calgary child Parker Wells continues for 7th day - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3VhaTN5WkM2ZXQ1ZWY5M29jMVd2OEJyMFZwMi12RnJ6ZGpFam9hZkVGNDRwUnhpSzVuTzlnWWtVbVRIQ1JvZ3QzQzdOaFFveE5sZVNELWM5YmRFSjhERUtwNlBLTEIyU1M1T2U4MnJ1TF8wQjVGOVJscnFuSG1FLUZBYThKWkp1NVNId3hkQUlIZG5NcnVILVJ0dEhlRksybXBDdFpBWTQzT1k?oc=5",
+      "snippet": "Search for missing Calgary child Parker Wells continues for 7th day &nbsp;&nbsp; CTV News Family of missing 11-year-old boy thanks Calgarians as desperate search continues &nbsp;&n",
+      "pub": "Wed, 22 Jul 2026 12:52:53 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Text of new Gordie Howe bridge deal seems to contradict Carney - CBC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVJEY1BzUm1NZmJYcklvMXpqVmpfaHAyRGpDN29Wd25fZlY1cVEzQmxQVm9NVTc4VU1zaVR6a001T1VHZlZJb1p2VkVocjRXU1VxZzRSOEMyTmkzMlhpaUZwUk9mOUQzSy1iVXppckJoemJQUElsUTRXdk41VG5OR05wYWppX3Z1TnZNZkNzYk9hdlQ0VnhXVEQwWGYxRGdhS3hwMGw4dw?oc=5",
+      "snippet": "Text of new Gordie Howe bridge deal seems to contradict Carney &nbsp;&nbsp; CBC Details of Gordie Howe Bridge deal released amid political pressure &nbsp;&nbsp; CTV News Canada to ",
+      "pub": "Wed, 22 Jul 2026 15:14:22 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Greer defends Canada tariff threat, says CUSMA ‘options’ coming this year - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUk9SbEhoSjh0WUlSUDNkLXRMYmczTkIwOGJNd0p1ejVMdXhDRGdTY0RYX3JLTXB5MVBKWWxvM1pNcS1zNGl4Y2xWQ29CeDRsM0ZFVU5EX2dNSVhkRkVtc2doWklyNEREZHVxS1c0VkN0aGlTWnNMbGhueV9ZVlBFU0l1TXZMUVYwZ0M0?oc=5",
+      "snippet": "Greer defends Canada tariff threat, says CUSMA ‘options’ coming this year &nbsp;&nbsp; Global News U.S. aiming for interim trade deals with Canada, Mexico by year end, Greer says &",
+      "pub": "Wed, 22 Jul 2026 17:12:24 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "B.C. wildfires force closure of 2 major highways linking Lower Mainland, Interior - Global News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkpzSHBpc3U0ck01MVI0MVJPb2xaSXRYRHZiSkc1R2h2UFZfVGJhR284M2J2SHBpOFhLTVJVRU5uTlpLZHEzeDhTeExoZ0ltbS1SbTdSaUZacE5KbGpFSnlPcUxLLWVjOFY2Xy1iSlFOTzdfSmZmRWl5V3d4NVJEeXRGTFlLU3JSZmJBRUtsSFNVSHRKMmMxbHd2VTY?oc=5",
+      "snippet": "B.C. wildfires force closure of 2 major highways linking Lower Mainland, Interior &nbsp;&nbsp; Global News New wildfire threatening Boston Bar, B.C., quadruples in size overnight &",
+      "pub": "Wed, 22 Jul 2026 17:13:10 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "U.S. senator issues blunt appeal to trade czar as tourism tanks: Improve relations with Canada. Live updates here. - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPelpleW15VlotVDBNblk0ekpwSmdid05mOTVhMkpXN2pZZXluZ1NaYWlaU1dtdVNsbGkwYUZGQXVUc29seWpaakxJT3pqQ0Zabnl4ZmFPRTlWd2w0RHN1a2l5YnhKa1Z5OFAzTmtzMjZ1bk9iMmFzb0FOR2hJQlRpMkt0MFVkOUxleTN1NWJWbDF6eGxkV241bWZhN2F6WUVrbnpBbWFlX2NFaWxDbktDOXE1S1ZpUTZjaWtZYkk4VWZKUXlUTE9ldHF2a0g?oc=5",
+      "snippet": "U.S. senator issues blunt appeal to trade czar as tourism tanks: Improve relations with Canada. Live updates here. &nbsp;&nbsp; CTV News Trump's trade rep defends new tariffs on Ca",
+      "pub": "Wed, 22 Jul 2026 17:36:38 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "First Nations leaders demand public inquiry into Ontario wildfire response - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc0ZSMXJLUWRMYlAxdV8zZjZveGlQOWhKZWNrYVRUOFREZ3RVLTdNQzk2VW5XdU00aWtNcXFUY1dKZVBIVXg3Y0NyRUNEejNsV2x0TFU3RHRWQ3hCS1IwX2xvVFFPbHJMZXdvVFFlWDNDWUxyT0swSlluWTdOeHI4TDlVTWdlUnNUb3JCYnJsUHJEZVF5cFlrQVZxMFpIUklNMFdrQ21PRG9IZ2l5QWJuQ0gxWnE1THVUNS15RHZmNVc?oc=5",
+      "snippet": "First Nations leaders demand public inquiry into Ontario wildfire response &nbsp;&nbsp; CTV News Forest fire count rises to 146 &nbsp;&nbsp; Thunder Bay News - TBNewsWatch.com ‘Hel",
+      "pub": "Wed, 22 Jul 2026 18:19:33 GMT",
       "image": ""
     },
     {
@@ -88,46 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQREd4aEJvdFp0al9FYXFzOFJMYzRHYlk3LURPOUVDOWlxVU96SDdtZWFFb2ZPVTl0U0FyRlRBZHJYQmZ1V1Y1ZG5DaHlKVDRlUG5rQmk1alZzMHZtUjlhb09DYjdudEU3dmRydWNRT0J1dzBTZWQ2X1d3NFdRVjA2bXdlcFQzNmhrR1RDWlQwQmNqbTRaeDlOMk9mY0dMajZhOXhhLW9kajRuMmh5RktYY2VqTDhtRHpVRW0tUzBwekQ2dlRXbnlvVk03OGhfblQtUWZGMFQ0OHJZWjdXdjFWZy1pVWs?oc=5",
       "snippet": "Unity a must when ‘going up against a much larger opponent,’ says Kinew. Live trade war updates. &nbsp;&nbsp; CTV News As Carney meets premiers, Joly says Europe trade may ‘counter",
       "pub": "Wed, 22 Jul 2026 12:57:22 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Cross-border bridge celebration ‘inappropriate’ after Trump’s tariff threats: Canada - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZWxnVUN2a1A2MWlYOE52NXQ1bHJWVnZiMmJURzhlQTBJaGNkZTB2Q3RyeXhIa0d4WThKZ18zMzFoMjhubjNna0h6VURYcElLX3FDalVwcXdoYmoybVRyNl8xOGp2M1dXTkh2RXpNdU9jYXR1aFNha2JvUlRkcnBmNjFsVER2RFdLZENyQWZ3anVfRXQ3MlFCOXJDVDNEMVROdl9OTjVKRDZkbUlzbmpXMk0wQjBPWlNQM1c1WHdVM2JnOTNmSnNqOEc3VURSN3JEN1FxaVk1QTd5Y3VvNmk2aTFUemZFTXotUmIxdnFWQ3lyYVpObE1BdA?oc=5",
-      "snippet": "Cross-border bridge celebration ‘inappropriate’ after Trump’s tariff threats: Canada &nbsp;&nbsp; Toronto Star See more headlines & perspectives on Google News",
-      "pub": "Tue, 21 Jul 2026 21:32:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Search for 11-year-old Parker enters seventh day as groups widen search area - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR3FOakk4NzZzbW9XS1c4c1g0dVZ0eWZkTFYtRmFxQUJaVEhZLVVtLUVSd3JfMXJNQzBsRG1sVmxrZDdHSjZwMDZCSGoxMXJjZUdPYWhQNjFJTFlWNDh1Z0Q0YzF4SVBMYmFMd2VYRXl4MjFadDNwc1ZtV3hwS0dsNkxrR2FCNDhlSWloM2FnTDA?oc=5",
-      "snippet": "Search for 11-year-old Parker enters seventh day as groups widen search area &nbsp;&nbsp; Calgary Herald Family of missing 11-year-old boy thanks Calgarians as desperate search con",
-      "pub": "Tue, 21 Jul 2026 22:52:30 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "First Nations chiefs demand public inquiry, resignations over Ontario’s wildfire response - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0s4VkJycnNRZTdKQ29BLUJvNmp6aWRUOEw4ckF2ZXhpQ1dLZXFhYm9YMHYyWVdvSVo5eWZJbkdfc3RNRkRVVlg2bkhYZ1RwUE9FRzlJdXE3WTM1ZzVUYmJwU3NrTUtJQmpRUG8xaWF2T3dkUTFhM05TdGlySFM0NjlGa2RaTG9oTU5VZWoxUmpkelpsMzZETlln?oc=5",
-      "snippet": "First Nations chiefs demand public inquiry, resignations over Ontario’s wildfire response &nbsp;&nbsp; The Globe and Mail Forest fire count rises to 146 &nbsp;&nbsp; Thunder Bay Ne",
-      "pub": "Wed, 22 Jul 2026 01:39:32 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Wildfires closing major routes, including Highway 1 and 3 - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRldrUEhQeG40Y0RZX3Jja1ZUTGRGNFdFQ1BFR1VrUnRpeVNGNUJ3eUhuLXZWRUp0SmhzMjh5dktVbjZVZ1R5WWU0ampmRlluSXoxd3F2cUtGWjR1SmQ1TmNtMjhSNmtkYUJwclhUYTk0TVBpd1JTOWIwang5YmkwUmFDMlNpVDFzY0JRRDFPQ1RfS3VVbXhtUk5KTXo?oc=5",
-      "snippet": "Wildfires closing major routes, including Highway 1 and 3 &nbsp;&nbsp; Castanet B.C. wildfires force closure of 2 major highways linking Lower Mainland, Interior &nbsp;&nbsp; Globa",
-      "pub": "Wed, 22 Jul 2026 12:43:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "How hot is too hot to work? Report calls for heat protections for B.C. workers - Global News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CcldkakdFRl82TXN5RHJaaUtHTUlXcTVYcUZLR3l6SkQ2ZWprVkpGOGlVaElSTUplNGdjNF9hWjNMZDVTOU9Kdzlvc21faWFDa0E0ejhWLV8zNERfWHJqdjVTV3hCY1IzbFdHTllYbVdHYnY3SFZhSndfYw?oc=5",
-      "snippet": "How hot is too hot to work? Report calls for heat protections for B.C. workers &nbsp;&nbsp; Global News Heat warnings expand in southern B.C. as daily temperature records fall &nbs",
-      "pub": "Wed, 22 Jul 2026 02:25:09 GMT",
       "image": ""
     }
   ],
