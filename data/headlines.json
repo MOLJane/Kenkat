@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-07-23T10:12:18.579616+00:00",
+  "generated_at": "2026-07-23T12:08:30.824198+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Lead-Footed Driver Forced to Face the Music on TCH Near Gander",
+      "link": "https://vocm.com/2026/07/23/lead-footed-driver-forced-to-face-the-music-on-tch-near-gander/",
+      "snippet": "A 30-year-old St. John's man has been ticketed by the RCMP for not only speeding down the highway, but for having headphones on and not being able to ...",
+      "pub": "Thu, 23 Jul 2026 10:43:49 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Province ‘Struggling’ to Staff East End Urgent Care: Health Minister",
+      "link": "https://vocm.com/2026/07/23/province-struggling-to-staff-east-end-urgent-care-health-minister/",
+      "snippet": "The minister of health says it's a struggle to keep the Urgent Care Clinic on Stavanger Drive open 12 hours a day. NLHS has had to revert to a virtual...",
+      "pub": "Thu, 23 Jul 2026 10:24:19 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/health-minister-lela-evans.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Long-time Safety Advocate Calling for Investigation into Fishing Tragedy Near Harbour Round",
@@ -51,51 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/05/POLICE-RCMP-Car.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Canadian Premiers Meeting With PM Mark Carney Today",
-      "link": "https://vocm.com/2026/07/23/canadian-premiers-meeting-with-pm-mark-carney-today/",
-      "snippet": "Premiers from across the country took to the podium, calling for increased federal funding, with Premier Tony Wakeham saying the need in Newfoundland ...",
-      "pub": "Thu, 23 Jul 2026 08:31:40 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/premier-tony-wakeham-premiers-meetings-pei.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "July 23, 2026 – Do you plan on taking advantage of the new direct-to-consumer alcohol sales agreement?",
-      "link": "https://vocm.com/2026/07/23/do-you-plan-to-take-advantage-of-the-new-direct-to-consumer-alcohol-sales-agreement/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13224').",
-      "pub": "Thu, 23 Jul 2026 07:30:03 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/nlc-vodka-alcohol-liquor-store.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "B.C. gets sideswiped by latest Trump tariffs - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTEt3YmdYaUtKMk1TZU5icmFSNk5tVVNwZnRVOFM0SV9EQVlYdXRiUTNNX2VPSGhuYlk3cGZ1dU8xMWJRTEZOMy1JbnhLMDRBamw1R20tMk1MclpPZnI2TVJpbHFuVkRWdmtBcC1sZkFMd2NFQ2tyMk1ZVnNRN2o3eXN4N25wNGlQdjIxdzFfU0RHOExHcElkTXNfREZ1UQ?oc=5",
-      "snippet": "B.C. gets sideswiped by latest Trump tariffs &nbsp;&nbsp; The Globe and Mail These 3 charts show where Trump's new tariffs could have the biggest impact &nbsp;&nbsp; CBC Carney, pr",
-      "pub": "Thu, 23 Jul 2026 00:00:53 GMT",
+      "title": "‘We’re getting into an ugly phase’: Trump’s new tariffs are angering voters and U.S. allies alike - Politico",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMXBYb1RVN1JGdE1vNHRLaFdKQ1JwMHVQT2JoclVRbURoRHY1LVJjdkg5Yld4cm91RHZvOTU4Zy0zdHlCLUcyMVl2dW55TjZTOEd4SDZMMDRra3hZYjdfNTZIRXpCZzRUYjU1cE92MzVOYXNkNEhYTXVreC0ycmJKMS1TR2N0aHJSV2lCU1pZU25URkZhMFozenFBenZyMVc1Ymh0UjRNQTJ0bDl4Y2d4a2FZS3pOVWN1cklmWGxRVV9qWmRPcjNDSjZXRVFsdktfYng4bzdOSk1Pb2V0bFpReA?oc=5",
+      "snippet": "‘We’re getting into an ugly phase’: Trump’s new tariffs are angering voters and U.S. allies alike &nbsp;&nbsp; Politico These 3 charts show where Trump's new tariffs could have the",
+      "pub": "Thu, 23 Jul 2026 09:45:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Windsor leaders react to scaled-back Gordie Howe Bridge opening celebration - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalRqQ1NjZHZ5NDR5dldua0w2OElxaWVDbWp2RDdRNFR5cTFqM2RDdjNQcUViYkc4dXVoaXM5dHJBQ1hMN19QWUZNNWRwYUJuR3ZPZWNxQzJhbWJIdXktOFN4bktuZ2oxMHZkX2VpZGR4ODFiWlpFUHhNa3dFb0pWZVU1SEdiSzB4Y1g0RVp4Rm9veGN4LThaaDg0aHBxN2FjZUEzOGVmSXlsSDU5QmxvcTByR0U?oc=5",
-      "snippet": "Windsor leaders react to scaled-back Gordie Howe Bridge opening celebration &nbsp;&nbsp; CTV News Gordie Howe Bridge deal released as Conservatives accuse Carney of lying &nbsp;&nb",
-      "pub": "Wed, 22 Jul 2026 20:00:42 GMT",
+      "title": "Doorbell video shows wildfire roaring toward B.C. couple’s farmhouse near Boston Bar - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSC1uRHR6R1lTd3Y4cG5YbjdUT1lFQ2syRkg0Z1RNd1BWQmxpY2Qzd0c0UTFKa3RaNURqdW51ZzZUTUVIZFFLNnI0dmRFOE1NOFU3U0t0Q1AwTEoyUTNBUzVRRm1kTHZVZEZDTlJJX1JSVVo0YlVfejN4aFRkOGs3LTJVcm82LTNCbjVNdkw1T2VtZHlzUzBrY1R4eThoejdURjdTeHZkSlU0SnhLVi1OaDNaN3dobGZjZ2J4RVREWVI?oc=5",
+      "snippet": "Doorbell video shows wildfire roaring toward B.C. couple’s farmhouse near Boston Bar &nbsp;&nbsp; CTV News B.C. wildfires force closure of 2 major highways linking Lower Mainland, ",
+      "pub": "Thu, 23 Jul 2026 01:41:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Democrats prepare to resist Saudi nuclear deal - Semafor",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNGVpOExDUVA4Ui0wZUxpX3FKYkJNZVRyTWVGZTB0Z01tdWllYjQ2RzhlcGNnb2JFV1E2enR6c1JGRi1sSG9aU2tfejBqdTdPRWFXbmtpaU9lY3Jha0pqYmFpYjJPZ29pNVpKaV9ySUE4RkZYcFN3OG5lSy13djQ4RTFNajJHWDVyM2g0c3g4S1pNakE?oc=5",
-      "snippet": "Democrats prepare to resist Saudi nuclear deal &nbsp;&nbsp; Semafor Why would Trump agree to the absurd Saudi nuclear deal? | Kenneth Roth &nbsp;&nbsp; The Guardian Is Donald Trump",
-      "pub": "Wed, 22 Jul 2026 22:37:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Wildfires close several B.C. highways as smoke and heat blanket Vancouver - Daily Hive",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSm9NSXFQSmNwUXp4N3d2MkRvRGtXTUtLNjVfMkxCUjZQVjkwYmhSUjV0SWhwU2FPZXVieFBTNzBfc3I5c2pTVVV5clBvSzA5YnNqSVdBdV9mNUNLbXo2LXhPY0UtQlJabTEzYTZORWR4bUJPaS1XZ2hOcXN0YmtOSXJNSXh0aXc2?oc=5",
-      "snippet": "Wildfires close several B.C. highways as smoke and heat blanket Vancouver &nbsp;&nbsp; Daily Hive B.C. wildfires force closure of 2 major highways linking Lower Mainland, Interior ",
-      "pub": "Wed, 22 Jul 2026 22:20:00 GMT",
+      "title": "U.S. aiming for interim deals with Canada, Mexico by end of year, top Trump trade official says - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONW1JdWZ0ajdvQ1F4V1F5TWdCekhBVW1PdXVYcDZlQmlNMU9qUUVnWEZnRnRDMUpPUml3dDdLMG5SajZlSjhiWm81Y2hiR0VpUld0VV9vYmdJWjJwaXJadHpzaUlOaTdJQTQ1Q1M2ajZUQUYyMlF6UE8xZWZjY29GdFdUbDBQUVloaUw1UnZ1TG9ZTXU4N2tTNVNQWkNYU09kMkRoYlE1SC1CNXFfay01R29B?oc=5",
+      "snippet": "U.S. aiming for interim deals with Canada, Mexico by end of year, top Trump trade official says &nbsp;&nbsp; The Globe and Mail Greer defends Canada tariff threat, says CUSMA ‘opti",
+      "pub": "Wed, 22 Jul 2026 23:28:04 GMT",
       "image": ""
     },
     {
@@ -108,26 +100,34 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Greer defends Canada tariff threat, says CUSMA ‘options’ coming this year - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUk9SbEhoSjh0WUlSUDNkLXRMYmczTkIwOGJNd0p1ejVMdXhDRGdTY0RYX3JLTXB5MVBKWWxvM1pNcS1zNGl4Y2xWQ29CeDRsM0ZFVU5EX2dNSVhkRkVtc2doWklyNEREZHVxS1c0VkN0aGlTWnNMbGhueV9ZVlBFU0l1TXZMUVYwZ0M0?oc=5",
-      "snippet": "Greer defends Canada tariff threat, says CUSMA ‘options’ coming this year &nbsp;&nbsp; Global News U.S. aiming for interim deals with Canada, Mexico by end of year, top Trump trade",
-      "pub": "Wed, 22 Jul 2026 17:12:24 GMT",
+      "title": "Text of Gordie Howe Bridge deal with U.S. contradicts Carney's initial description - National Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0VfQVJvdnN3dDRRQzZVTDBFeXkwLTZDTzJoNTA0ckYwcFdkRExpOU84RkIwTnNqTE0tcUJZZ2JiN1E4TkotS0NNQXNzS0pPSDNmYkdxeTBUM2ViOGVzVld3ZHRZSTdVdUJSc05sN3R1dkxqWDdmVTZ2ZjRhS1FVRV8ybVlieEtRRVFVTFlNSjRFZ3gtMkRZMDFKR1B3bzV2a0JXYWVabmpKVTNVZUww?oc=5",
+      "snippet": "Text of Gordie Howe Bridge deal with U.S. contradicts Carney's initial description &nbsp;&nbsp; National Post How does the new Gordie Howe bridge deal compare to the original one? ",
+      "pub": "Wed, 22 Jul 2026 18:26:45 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Duncan in top spot for most severe crime in B.C. in 2025 - CHEK News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0o5eTFibmNMWExJOHhoLVZhamt4U1ZJUzNLb1FrUWp5NGo2azNkdE1Uc2hRVGlPVjA1ckhYSlJrazZlY3FOWmN3SWctQ3lwSFpTT1RzU1JZX1FEVVpiZ2dOenBOazdRMFZnenNMUUJCUDR3XzFnWHdfem9aNGZYM3lZSm9GeF91Uy0yWA?oc=5",
-      "snippet": "Duncan in top spot for most severe crime in B.C. in 2025 &nbsp;&nbsp; CHEK News Sask. crime index almost double national figure; 60 of 84 RCMP detachment areas high in crime &nbsp;",
-      "pub": "Thu, 23 Jul 2026 01:12:26 GMT",
+      "title": "US signs deal with Saudi Arabia that could allow kingdom to enrich nuclear fuel - CNN",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jU0o0aWNYV0lSWEpkRVZfd2lrSXlvZXNwb2lWMTRNZGxCcXA3MEFVaFN6UnU4ZHYzTGxuWURvb0ljYWQ1LWVaSGd1d3YxVzcxSUpEc2sxdF9rU3FHa0E5akM3NmZMM1ladXQ2RUJlcEwydzQ?oc=5",
+      "snippet": "US signs deal with Saudi Arabia that could allow kingdom to enrich nuclear fuel &nbsp;&nbsp; CNN Trump's nuclear deal with Saudis jettisons longstanding US demands &nbsp;&nbsp; BBC",
+      "pub": "Wed, 22 Jul 2026 11:44:53 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Village of Clinton under evacuation alert due to Fiftynine Creek wildfire - Global News",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSEZGUm9MRnowSC1DVV91N19ER0dHdUh2a2Y2bEN5SjY1VlQxRTVOdG1KdldQQTVqcHBqZlJtNGNDTVdNY25zdmV4Q0dOdjJvMy1uRW9INS1OclpZZlh4MWJMWXZSUkJFTVdBMGY5WUpCWEFpenNwNjRCb054MUZLRERRNnQzblhYeVpna3l3Y3NQZTAtbFQ2N01R?oc=5",
-      "snippet": "Village of Clinton under evacuation alert due to Fiftynine Creek wildfire &nbsp;&nbsp; Global News More B.C. communities under threat of encroaching wildfires &nbsp;&nbsp; Toronto ",
+      "snippet": "Village of Clinton under evacuation alert due to Fiftynine Creek wildfire &nbsp;&nbsp; Global News More B.C. communities under threat from out-of-control wildfires &nbsp;&nbsp; The",
       "pub": "Thu, 23 Jul 2026 02:28:07 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Aerial photos show devastation of Ontario First Nation as wildfires burn across north - CP24",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdTctN3lKbTV1REFkRmJ0bGU5cHBPeXhTSlFPcW12d1FadWFlRU5jSDBYYlVCaENlR1hOdUdIcHNPNURCZ1VrZ0FCZlIyNlBLX2puQ2tDQlhQMWVxUEU0R0NuM2hIN3ozXzd3dnZzaDNKLUhVOFcyNWdrNWo3ZUQ1NlZQVWRQUHF3TkdXUWF5dUh3MkExaXR3clBB?oc=5",
+      "snippet": "Aerial photos show devastation of Ontario First Nation as wildfires burn across north &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
+      "pub": "Wed, 22 Jul 2026 22:03:00 GMT",
       "image": ""
     }
   ],
