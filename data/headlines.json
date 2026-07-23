@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-23T05:23:03.072422+00:00",
+  "generated_at": "2026-07-23T07:54:37.334230+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "July 23, 2026 – Do you plan on taking advantage of the new direct-to-consumer alcohol sales agreement?",
+      "link": "https://vocm.com/2026/07/23/do-you-plan-to-take-advantage-of-the-new-direct-to-consumer-alcohol-sales-agreement/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13224').",
+      "pub": "Thu, 23 Jul 2026 07:30:03 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/nlc-vodka-alcohol-liquor-store.jpg"
+    },
     {
       "source": "VOCM",
       "title": "RNC Arrests Man in Connection With Fires at Two Communication Tower Sites",
@@ -59,43 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/02/choices-for-youth.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "NL Joins Others in Signing Deal Allowing for Purchase of Alcohol from Other Provinces",
-      "link": "https://vocm.com/2026/07/22/nl-joins-others-in-deal-allowing-for-purchase-of-alcohol-from-other-provinces/",
-      "snippet": "Newfoundland and Labrador has joined eight other provinces in signing a direct-to-consumer agreement that would allow alcohol sales to other provinces...",
-      "pub": "Wed, 22 Jul 2026 13:42:36 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/premiers-meeting-pei-council-of-the-federation-2026.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "One in six products on Trump tariff list aren’t Canadian exports, officials say - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbFVhbmVqTVAxMDZkUVFsck1Canhja3d6TEdpRzFMUW9RSkl2d2dxSEFKeFVseUo5Y0JZVWR0Tm1mOXNWWERFakhqalBYVFo1UjJXclljVTllcExPWlBhOEtncVAybWxkaG1aclM1NEw0Mk1LdEw4U3E3Tko5R09GaXdjRlFaQVFQa3N5VkJHR051VjV4Vjg5elJJbnBWRm5nMFM5TXlOM3hYZURseUNVT01Sa1NZUEJiM1pOZ0xPNnJqZUZORmFaNVdNZ05MZ0dCSWxudDlzbjB1akxZNnRGTUlzM1M2Yjk1N3o1bjhiNGlfU2t6eVZaMWc4SFE?oc=5",
-      "snippet": "One in six products on Trump tariff list aren’t Canadian exports, officials say &nbsp;&nbsp; Toronto Star Premiers rally behind Carney, but not everyone is confident a tariff deal ",
-      "pub": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "title": "B.C. gets sideswiped by latest Trump tariffs - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTEt3YmdYaUtKMk1TZU5icmFSNk5tVVNwZnRVOFM0SV9EQVlYdXRiUTNNX2VPSGhuYlk3cGZ1dU8xMWJRTEZOMy1JbnhLMDRBamw1R20tMk1MclpPZnI2TVJpbHFuVkRWdmtBcC1sZkFMd2NFQ2tyMk1ZVnNRN2o3eXN4N25wNGlQdjIxdzFfU0RHOExHcElkTXNfREZ1UQ?oc=5",
+      "snippet": "B.C. gets sideswiped by latest Trump tariffs &nbsp;&nbsp; The Globe and Mail Premiers rally behind Carney, but not everyone is confident a tariff deal is close &nbsp;&nbsp; CBC Tru",
+      "pub": "Thu, 23 Jul 2026 00:00:53 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ford calling again to block oil, potash exports to U.S. in trade war gets cold response - National Post",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MZnROMGQ4MTRkRnlveUFyc2tGWTMxejNhS0dyWXZid3VJNDEwUjVBZk1XRnZKYWdIM3dRRy0tSnQxRmFWYUxDb2tyU0M4VGVjOWtwSTNlVkFJVmgwbGRaRWlQMVRvQ19UaWlaWFhBamdpRFpnOV9r?oc=5",
-      "snippet": "Ford calling again to block oil, potash exports to U.S. in trade war gets cold response &nbsp;&nbsp; National Post See more headlines & perspectives on Google News",
-      "pub": "Wed, 22 Jul 2026 20:07:40 GMT",
+      "title": "Duncan in top spot for most severe crime in B.C. in 2025 - CHEK News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0o5eTFibmNMWExJOHhoLVZhamt4U1ZJUzNLb1FrUWp5NGo2azNkdE1Uc2hRVGlPVjA1ckhYSlJrazZlY3FOWmN3SWctQ3lwSFpTT1RzU1JZX1FEVVpiZ2dOenBOazdRMFZnenNMUUJCUDR3XzFnWHdfem9aNGZYM3lZSm9GeF91Uy0yWA?oc=5",
+      "snippet": "Duncan in top spot for most severe crime in B.C. in 2025 &nbsp;&nbsp; CHEK News Crime rates dropped across most of the country in 2025: Statistics Canada &nbsp;&nbsp; CBC ‘People a",
+      "pub": "Thu, 23 Jul 2026 01:12:26 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta city has third-highest crime rate of all Canadian metros - Daily Hive",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jalRqUVliRzROTnk4d0k4U3FkdURjSC1IaEZIdXZjYUlTN0FZNTAxQWRQTHd2dTdndmtNeXR2allBQXBMXzA5X08wS2Frd2tKNlZRMHZFR1dBZkNNOFlPcy1Ib3pmVGZjdmVGdURuUmcwWmZzMzBkWUJwRUc?oc=5",
-      "snippet": "Alberta city has third-highest crime rate of all Canadian metros &nbsp;&nbsp; Daily Hive Duncan in top spot for most severe crime in B.C. in 2025 &nbsp;&nbsp; CHEK News Lethbridge ",
-      "pub": "Wed, 22 Jul 2026 22:27:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "All Boston Bar residents ordered out as new wildfire erupts - Vancouver Sun",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXk3MGlCQjk5bnUxWkRscWp2aW4tbVRTMmFiS1dsa1FleVdxYkVBTVFTT24tUEE3U25CU1lEY1JMLXNFRjdLZzJiNTFjWThfMmFDNWNyNjJiZnZIMC04TU1rZjNaOENCcjh1T0RIenZENUNTak5wWmNkRGRQTXZBNg?oc=5",
-      "snippet": "All Boston Bar residents ordered out as new wildfire erupts &nbsp;&nbsp; Vancouver Sun B.C. wildfires force closure of 2 major highways linking Lower Mainland, Interior &nbsp;&nbsp",
-      "pub": "Wed, 22 Jul 2026 16:24:40 GMT",
+      "title": "Wildfires close several B.C. highways as smoke and heat blanket Vancouver - Daily Hive",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSm9NSXFQSmNwUXp4N3d2MkRvRGtXTUtLNjVfMkxCUjZQVjkwYmhSUjV0SWhwU2FPZXVieFBTNzBfc3I5c2pTVVV5clBvSzA5YnNqSVdBdV9mNUNLbXo2LXhPY0UtQlJabTEzYTZORWR4bUJPaS1XZ2hOcXN0YmtOSXJNSXh0aXc2?oc=5",
+      "snippet": "Wildfires close several B.C. highways as smoke and heat blanket Vancouver &nbsp;&nbsp; Daily Hive B.C. wildfires force closure of 2 major highways linking Lower Mainland, Interior ",
+      "pub": "Wed, 22 Jul 2026 22:20:00 GMT",
       "image": ""
     },
     {
@@ -116,18 +108,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Windsor leaders react to scaled-back Gordie Howe Bridge opening celebration - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalRqQ1NjZHZ5NDR5dldua0w2OElxaWVDbWp2RDdRNFR5cTFqM2RDdjNQcUViYkc4dXVoaXM5dHJBQ1hMN19QWUZNNWRwYUJuR3ZPZWNxQzJhbWJIdXktOFN4bktuZ2oxMHZkX2VpZGR4ODFiWlpFUHhNa3dFb0pWZVU1SEdiSzB4Y1g0RVp4Rm9veGN4LThaaDg0aHBxN2FjZUEzOGVmSXlsSDU5QmxvcTByR0U?oc=5",
-      "snippet": "Windsor leaders react to scaled-back Gordie Howe Bridge opening celebration &nbsp;&nbsp; CTV News Gordie Howe Bridge deal released as Conservatives accuse Carney of lying &nbsp;&nb",
-      "pub": "Wed, 22 Jul 2026 20:00:42 GMT",
+      "title": "Gordie Howe bridge revenue-sharing agreement appears to contradict Carney - Global News",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43RUlyeTZrRmNoMGRmQTl0NlFpUzFmSy1zaV9GWFItcmtKUjVRZ1QyM21UblVKbXVudFNtU0ZhS3ZxZ0dxYmRtQng2NF80b1pLZmJOWWtHYTMwLW1qNXFXTmRNcmdqQlhpX25CNEpNemtWbTFrblk4Nw?oc=5",
+      "snippet": "Gordie Howe bridge revenue-sharing agreement appears to contradict Carney &nbsp;&nbsp; Global News Gordie Howe Bridge deal released as Conservatives accuse Carney of lying &nbsp;&n",
+      "pub": "Wed, 22 Jul 2026 20:15:25 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Baie Verte Peninsula mourning loss of 2 fishermen, MHA says - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQktfLXRBYjF1UlFlX1lmM2VXelZDaHZQUDlEdW1adWFidzltaklhMmlMbEhHR1RZWWIwUWNEdGkwZE5DSU51T3YzWXVJWmx3czg0VkVFTkVYdExxMXR2UzlpdUlrVEZHTzAzVi1XVU5YWVRGcGlGdlZYSHN4RzNaMXgwSWV6M0VhRnZN?oc=5",
-      "snippet": "Baie Verte Peninsula mourning loss of 2 fishermen, MHA says &nbsp;&nbsp; CBC Two dead after vessel sinks off Baie Verte Peninsula &nbsp;&nbsp; ntv.ca One Rescued, Two Deceased Afte",
-      "pub": "Wed, 22 Jul 2026 21:53:56 GMT",
+      "title": "Aerial photos show devastation of Ontario First Nation as wildfires burn across north - CP24",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdTctN3lKbTV1REFkRmJ0bGU5cHBPeXhTSlFPcW12d1FadWFlRU5jSDBYYlVCaENlR1hOdUdIcHNPNURCZ1VrZ0FCZlIyNlBLX2puQ2tDQlhQMWVxUEU0R0NuM2hIN3ozXzd3dnZzaDNKLUhVOFcyNWdrNWo3ZUQ1NlZQVWRQUHF3TkdXUWF5dUh3MkExaXR3clBB?oc=5",
+      "snippet": "Aerial photos show devastation of Ontario First Nation as wildfires burn across north &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
+      "pub": "Wed, 22 Jul 2026 22:03:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Premiers call on Ottawa to return to paying 50% of health-care costs - National Post",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQekdqMW0zWXhhanJoSnBsaXpBUTQwdzY0T29vanFWQjNvQkpvaXNLaHNhcWE3dzRuSkNjcFY2dmxKSC05S2VZT0xPYTdBN1ppa3JNSVBNMlVKclN2dTdCa2xLcUlCSXlPQTVweVlROWdNVF85S0M1UVVOYjUxZjduTW80ckxuLXF0RUowSkd0bUd5UHJ1NjhDZWRFaHZpbnFrc1N3aGdqbw?oc=5",
+      "snippet": "Premiers call on Ottawa to return to paying 50% of health-care costs &nbsp;&nbsp; National Post Feds should increase health funding, but with strings attached: advocates &nbsp;&nbs",
+      "pub": "Wed, 22 Jul 2026 22:50:03 GMT",
       "image": ""
     }
   ],
