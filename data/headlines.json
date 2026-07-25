@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-07-25T07:31:18.114315+00:00",
+  "generated_at": "2026-07-25T09:28:55.677418+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Harbour Grace Regatta Paddles On Today Despite Rainy Morning",
+      "link": "https://vocm.com/2026/07/25/harbour-grace-regatta-paddles-on-today-despite-rainy-morning/",
+      "snippet": "It will be a wet start to it but the Harbour Grace Regatta on Lady Lake is a go. The first race is at 9:00 with the championship races at 5:30 and 6:0...",
+      "pub": "Sat, 25 Jul 2026 09:00:46 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/05/Harbour-Grace-Regatta.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "VOCM Cares Teams up with RNC for Children’s Road Safety Course",
+      "link": "https://vocm.com/2026/07/25/305205/",
+      "snippet": "The VOCM Cares Foundation is teaming up with the RNC for an event later this week to promote road safety for children. VOCM Cares fund development man...",
+      "pub": "Sat, 25 Jul 2026 08:52:48 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/11/img-0383.jpeg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Government appoints 10 New Members to the King’s Counsel",
+      "link": "https://vocm.com/2026/07/25/305203/",
+      "snippet": "The provincial government has announced 10 new appointments to the King's Counsel - including the current justice minister The honourary title recogni...",
+      "pub": "Sat, 25 Jul 2026 08:48:14 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/confederation-building-summer-provincial-government-woods-nature-3.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "July 25, 2026 – Prime Minister Mark Carney says he will be spending part of the weekend exploring Gros Morne. Do you think that sends a positive message about the province’s tourism industry ?",
+      "link": "https://vocm.com/2026/07/25/july-25-2026-prime-minister-mark-carney-says-he-will-be-spending-part-of-the-weekend-exploring-gros-morne-do-you-think-that-sends-a-positive-message-about-the-provinces-tourism-industry/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13230').",
+      "pub": "Sat, 25 Jul 2026 07:30:43 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/04/gros-morne-mountain.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Memorial University Names Dr. Andre McDonald as New VP of Research and Innovation",
@@ -35,36 +67,12 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/12/bruce-keating-newfoundland-and-labrador-liquor-corporation.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Salmon Cove Hopeful Permanent Solution to Algae Bloom Is ‘Finally on the Horizon’",
-      "link": "https://vocm.com/2026/07/24/305164/",
-      "snippet": "The town of Salmon Cove says after a recent meeting with government officials, they have a positive feeling that a solution to their algae bloom probl...",
-      "pub": "Fri, 24 Jul 2026 18:37:01 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/06/salmon-cove-discoloured-water-algea-1.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Pedestrian Fatally Injured in School Bus Collision Near Confederation Building",
-      "link": "https://vocm.com/2026/07/24/305180/",
-      "snippet": "An accident at an intersection near Confederation Building has claimed a life. A school bus struck a 77-year-old man at the Allandale Road/Parkway gri...",
-      "pub": "Fri, 24 Jul 2026 17:54:18 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/05/RNC-Police-Car-Logo.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Bee Swarm Forces Closure of Main Entrance to A.C. Hunter Library",
-      "link": "https://vocm.com/2026/07/24/305174/",
-      "snippet": "Anyone heading to the library inside the Arts and Culture Centre will have to \"bee\" careful making their way inside. A swarm of bees has forced the cl...",
-      "pub": "Fri, 24 Jul 2026 17:32:40 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/11/ac-hunter-public-library-st-johns.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Paid Work Terms and Mentorship Programs Urged Under NDP’s NL Cares Plan",
-      "link": "https://vocm.com/2026/07/24/305161/",
-      "snippet": "The NDP are calling on the provincial government to rethink how it approaches recruitment and retention of those in the healthcare system, and to star...",
-      "pub": "Fri, 24 Jul 2026 17:23:50 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/08/Nurse-Hospital-Health.jpg"
+      "source": "Google News Canada",
+      "title": "Canada celebrates long-awaited opening of Gordie Howe bridge without U.S. - CBC",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQUc1YWxoMnp6UUQ3X09MRnFkai1qMGxfWGxld0doeVBWd01SLWc2cldlWVNBS1VUY0tUdUZrQS1PX0ZLbEZjdGlwakdMUjFGbFF0cXlmRGNZb21aZGc2b2ZuYXpSUDFjRWZVXzV5Q0FUV29tTDNjLTJwY29RQ3RNQkZEcmF2S2hxdVp5cENzYkN0dE1Rd2w3YkVLTG1mSXNBaGhJV2d5S0hkdVM3QXc?oc=5",
+      "snippet": "Canada celebrates long-awaited opening of Gordie Howe bridge without U.S. &nbsp;&nbsp; CBC Trump says original Gordie Howe bridge deal is dead, contradicting Carney &nbsp;&nbsp; Gl",
+      "pub": "Sat, 25 Jul 2026 03:33:26 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -72,14 +80,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaF9JaHRNRXA4eHNCOGVENlc3QWItTVZYSlp2NjZOTC15ejlEeVJpa253R3RHOWhlcDdwMWh6QTVYZ0ltZF9UTHRqS280a19WbWpsYXV2Z3dCbTVrSkhCZTVvODFJRUx3Rl9TeEJ5amg4UTdFbURLaWk1U0kzc1BxOGpvMWZvM3dPNGxJaWVkQmVUSVBWTnowcG1lUGRleVdEaTRJbjlfTjctN3FIa0dF?oc=5",
       "snippet": "Trump jokes about tariffs for Mexico's lettuce, Canada's wildfire smoke &nbsp;&nbsp; USA Today Trump vows tariffs to come for Canada over wildfire smoke that has drifted to U.S. &n",
       "pub": "Fri, 24 Jul 2026 22:41:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Village of Clinton ordered evacuated as Pear Lake fire grows eastward - CFJC Today Kamloops",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOFltYXFuX0ZhdFdKQjgyQkFNOWJkVXI0SThqQ2Vvc3R1LWJUMFA4TEhmanNzem9QbTcxRUJuV0s2OXdvUlpzamJvZE1OQ1dZR2t0bG84UzZFdU1uTUJCeDhVVzJFd2hpanBiVmRJT19EZl9wbkhQalFWLW5jM3dialFCV29xNW1mYnhLRi1DaERPWnpITEFITHFhY2dOUDBjbGt0aHBn?oc=5",
-      "snippet": "Village of Clinton ordered evacuated as Pear Lake fire grows eastward &nbsp;&nbsp; CFJC Today Kamloops Entire B.C. village ordered to evacuate due to encroaching wildfire &nbsp;&nb",
-      "pub": "Fri, 24 Jul 2026 21:05:59 GMT",
       "image": ""
     },
     {
@@ -92,6 +92,14 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Village of Clinton ordered evacuated as Pear Lake fire grows eastward - CFJC Today Kamloops",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOFltYXFuX0ZhdFdKQjgyQkFNOWJkVXI0SThqQ2Vvc3R1LWJUMFA4TEhmanNzem9QbTcxRUJuV0s2OXdvUlpzamJvZE1OQ1dZR2t0bG84UzZFdU1uTUJCeDhVVzJFd2hpanBiVmRJT19EZl9wbkhQalFWLW5jM3dialFCV29xNW1mYnhLRi1DaERPWnpITEFITHFhY2dOUDBjbGt0aHBn?oc=5",
+      "snippet": "Village of Clinton ordered evacuated as Pear Lake fire grows eastward &nbsp;&nbsp; CFJC Today Kamloops Evacuation orders expand around Clinton, B.C., as 2 wildfires threaten commun",
+      "pub": "Fri, 24 Jul 2026 21:05:59 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Calgary air quality on Friday among the worst cities on earth - Global News",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRG9BTXk5Y0oydFd2TGZhUHA1OUg4U1NUV1RudFJfWDZmaUl0dXN2OFNQOEJlXzJmX2hEMm9TTVJBcGJnRDdpQXFzdHczS3o0TVNncWFySHRMUXhXbVJ5dG1KeDBaLXdnTUw4UkRqVTZhRzhFWU9jbEpxSF8xc2tPQWhzUQ?oc=5",
       "snippet": "Calgary air quality on Friday among the worst cities on earth &nbsp;&nbsp; Global News Forecaster says smoke bad enough for health impacts in B.C.’s Okanagan, Fraser Canyon &nbsp;&",
@@ -100,18 +108,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Canada marks Gordie Howe bridge opening without US after trade war deepens - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0NTa3BCSGVWMFR2aG9CaVJDT3lvVTJyUGtjSVcyX25XVlBRaGRvTUtFRC14eGR5ZmxiajZsSDlHOVkzN1Jjc1dYT1hxUkxiTzk0NVZ0MDYtNExEb1JTMy11TE9YeHhYRFFmVEZNTUFNei1kSmpybEFsMF91NlhfXzR4enlxOXpiYzdkdVZZR1FHQVQzT2FhakVVc2Yxbmh0T1hpMGRpb3YyREI3S24wYmE2N1BteVI3blHSAb8BQVVfeXFMTkRkaE15UnZ5VDdseEtmYmllZktGWkR1dUF4U1pIOVd3VzNXaUdYMzhCb0NqamtBRE5IdHo3RUpRZWhXSERpTXBEaG9FRmxTUnFYbllBMk1ycURPRE15enRHUERGYU5iTWdNYUNlUVZJc0pmZERkdTMtZGZMdDg5UGFNeGlLc2NGSW9oSXY0Uzhfamw3eHREWmlHLU1CWDJKVE9Fd2ZrNUs3dWxhVEY0YkMwTWd4bVdGOEJOVV9TREU?oc=5",
-      "snippet": "Canada marks Gordie Howe bridge opening without US after trade war deepens &nbsp;&nbsp; Al Jazeera Canada celebrates long-awaited opening of Gordie Howe bridge without U.S. &nbsp;&",
-      "pub": "Fri, 24 Jul 2026 20:33:25 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump imposes new tariffs on dozens of countries, including Canada - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTQyVjhwcGVZYkt2ZGJhTU9vLUd6V0dVVi1RbDd2bmhlUWVzUjNTa24zZklXSzAtcE9GTTBoM256Y0pNYVNxLVJrQ3dBdXVHU1JrbUdlLVlwdVpRdUNsakF4NkpuRk1hRlc0bHhlbERtNnJOcF9PSGFKTVBtd0s4eVZNMXc3b2RNWVE5alJQb3hOVExJLUlGWXg1YTlYOEkwcks5emM0V1RXUDYwdlZnZzM4Vy1pVDlVb3c?oc=5",
-      "snippet": "Trump imposes new tariffs on dozens of countries, including Canada &nbsp;&nbsp; The Globe and Mail Citing forced labour, Trump hits Canada and dozens of countries with new tariffs ",
-      "pub": "Thu, 23 Jul 2026 22:04:21 GMT",
+      "title": "Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWDVCQ3ZGZ3NPLXVFdlQyQlJYdFIxTG5aUDJxVTBEUm5YS1lWZllPYW9uU2FrV2ViNFhDd2lVaHZWeWFpbEZHdHNzX3puMnY0cVVsdXZMelE1aXFfbzA0NDFsWUMxc3V6c0tVRjgxbG9lX1Jpd2ZBcDhPYUd2NDFWYkpweWdrazM3dGFrTkpGNDlFdUhXU1M4MzV5VWEtenJUb1hXZ1FB0gGrAUFVX3lxTFA3ODFJYk9XelphMzk5TlpHS1l3OF83enVfek5SWkRBalQ3UzQzRGxwUUhLaFk3ZWZFVmNNX2hRa1lMWkE2NkwwSUVHY2RZNElLRVNWcjRlVHd4WWRVaVRiWi0zaVVXU2tkREwtWEt1cFQ1eUhUWTl6X1FRNVAwWFhIYnBjdEViaUV0SlZTR0E2MFZ2Ujh0Si1kNlk1cG5TYzhYODFXZzlPa090cw?oc=5",
+      "snippet": "Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly? &nbsp;&nbsp; Al Jazeera ‘Completely unjustified’: How countries are reacting to Trump’s tariffs and forced labour",
+      "pub": "Fri, 24 Jul 2026 09:20:48 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Federal government says it won't support Ontario's Billy Bishop Airport expansion plans - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzJiengzSGpGdWN3OHA4Zy1rTWpxa1h6c2lhX1NfOXdoXzF0MlNqT3pmZGN1RWN0RERRd3JmNVUwaWdxTXh3SDlpQlJyb1ZJUFF2ZjlLUHhISHkxRE1GX2tnZ0ZZeFhPUWdKX0dnYWF2V19ON2MyVHIyUVU2TENHMjFIT0IxbmtkS1Ftd0c0eUt6Zw?oc=5",
-      "snippet": "Federal government says it won't support Ontario's Billy Bishop Airport expansion plans &nbsp;&nbsp; CBC Billy Bishop Airport expansion plans halted by federal government &nbsp;&nb",
-      "pub": "Sat, 25 Jul 2026 00:48:00 GMT",
+      "title": "Billy Bishop Airport expansion plans halted by federal government - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXA1YU9aTTAxTHJBd3B4WVpjSG9rTG80em10TUFwMUdOSmdNVlVZWlZwbWlCQ0NpcmlXZExJOFUwTnBZVXljckFkTTR6OVR1d1hXRlFKXzI5ZE5HUlRaalpveHVlVXhSTnd6NktkUUFWUlBMYy16Nk5UN19mdzkzMWxrN2hKVEJTY2dacndKdUdESjBSTE40eHFXTlotOW9pc3dGZmdxc00?oc=5",
+      "snippet": "Billy Bishop Airport expansion plans halted by federal government &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
+      "pub": "Sat, 25 Jul 2026 00:30:00 GMT",
       "image": ""
     }
   ],
