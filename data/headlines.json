@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-26T11:13:37.039591+00:00",
+  "generated_at": "2026-07-26T12:35:27.742987+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "NL Absent from Maritime MOU Deal",
+      "link": "https://vocm.com/2026/07/26/305254/",
+      "snippet": "The three Maritime provinces have signed an MOU with the federal government to work together on addressing energy issues in the region, but Newfoundla...",
+      "pub": "Sun, 26 Jul 2026 12:07:42 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/wakeham-at-the-airport.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Visitor Information Centre’s Across NL Receive Funding Boost",
@@ -59,19 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/hockey-generic.png"
     },
     {
-      "source": "VOCM",
-      "title": "July 26, 2026 – Do you support the concept of privatizing major airports across the country?",
-      "link": "https://vocm.com/2026/07/26/july-26-2026-do-you-support-the-concept-of-privatizing-major-airports-across-the-country/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13233').",
-      "pub": "Sun, 26 Jul 2026 07:30:51 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/st-johns-international-airport-terminal-travel-vacation-yyt.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump’s tariff threat already costing Canadian businesses, trade lawyer says - Global News",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JS1ZGQ0UxcnRhZE9FeWcyVW5kSlNZZHpPcnBtcHMyT2xfRGhrYWpJVF8tRm12bnhuZXlHZFcwd043V1JLdTNhU2JXT1pITEd3eVM5TXVDOEtDM0xxZWwtQTUweUg3bENBLXNMcWRB?oc=5",
-      "snippet": "Trump’s tariff threat already costing Canadian businesses, trade lawyer says &nbsp;&nbsp; Global News Ontario cosmetics company that ships 20 per cent of product to U.S. says lates",
+      "snippet": "Trump’s tariff threat already costing Canadian businesses, trade lawyer says &nbsp;&nbsp; Global News Conservatives call for emergency meeting on Trump threats, demand Carney expla",
       "pub": "Sat, 25 Jul 2026 19:55:25 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Photos: Wildfires rage across France and Spain - CNN",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GeW03UG5SLV90R1BBdzIwV2xrU0J5SS0wb0FBZDJ4ZlBzLWJYVlA5SFdmNFk2RUpjTzV5MHBycmtfTGVIZHBwVXk5SENnQ1BpMExCSUFxNUdJcDhZX3hUWGFMVHctRjNYT3l0VEZkSDd3aUt4b2U5d29Bdw?oc=5",
+      "snippet": "Photos: Wildfires rage across France and Spain &nbsp;&nbsp; CNN Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sanchez as more than 300,000 fl",
+      "pub": "Sun, 26 Jul 2026 02:48:00 GMT",
       "image": ""
     },
     {
@@ -84,50 +92,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Wildfires in Spain and France force evacuation of more than 267,000 people - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb0VHYWpLWnhpQkxOakdtUC15eGUxUFp5VFlXV21mZXlpc29abjcydkFyY0dWYTJJQjN2ZzNyeDN1dHR6ckxReV9JUkx1ZGNkQk5kY0ZieFBkX1dkQXFITHJrNVllLUtoRlpwOWdzVWJubW92RnFJLVR1MERydkoxSzE0b1k5ZmFuU3JrOW5zNHJsVWlwTVN0cVhEWnRsb2pzbzc2anNvWdIBrAFBVV95cUxOQTU1Zzd1SXRsM3QtOG5HaGU1NFFDcm1CQi05bXE4LVRZU3Rtc3I0OU1kMnJZcWpUdmp1OUdZckhoaHpXdkk1Z01Xd3daRWl1akhrdXFfZlRXc2pkeEtQT3JNb0Z4SXUxTGdoS21oWW5STjAzWGt4dE1WTGJjOXIzM1hLNGtHTzlCdTl4Y1ozSkNua1dpOGxwNVNOaHk3dVNJMEd4TTh5c3YyNjZR?oc=5",
-      "snippet": "Wildfires in Spain and France force evacuation of more than 267,000 people &nbsp;&nbsp; Al Jazeera Live updates: More than 300,000 displaced by France and Spain wildfires as hotter",
-      "pub": "Sat, 25 Jul 2026 20:16:57 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Police identify Islamist as suspect in Berlin Pride attack, seeking his arrest - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXNGVlZFWjIyRWRlUk5MSGlEUS03bDI1Mjg5NlJZTFByZDZ3MHdvZFV2X0FVUFA0SWhJSkk0NG1hNXZFVTROVXJjMnRsdG0xdnJUTHkydC1EY1ByS28zUVZmNzZnZk5PdlM3Uk5ZNEItejAzNHFoVW9jY3pWSFlrSW02Ri1SaEhTMkJpOEo2MkNWTlEtUmZTcldvTjJlcXNxbFNnM2lYT1ZSdnZKNHlscjJmc2tVdDI1OGFUWg?oc=5",
-      "snippet": "Police identify Islamist as suspect in Berlin Pride attack, seeking his arrest &nbsp;&nbsp; Reuters Berlin pride parade cancelled after van slams into people &nbsp;&nbsp; CTV News ",
+      "snippet": "Police identify Islamist as suspect in Berlin Pride attack, seeking his arrest &nbsp;&nbsp; Reuters German police hunt suspect in Berlin Pride van-ramming attack that left 1 dead a",
       "pub": "Sun, 26 Jul 2026 00:48:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Saturday morning shooting in Surrey: SPS - CityNews Vancouver",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0UnVMSDV2U1Z0NGpacGxhMWhKdWNpb3pqbDl0TTZSSndacDlwaWJ4SWpjVXNUY3k2bUgySkNaekRGWmRwM0h1YU5HQ1RPMUZ6RVJnNV9RUDNmUFY3cHM4Mkw5NE9yZGdHRHZLWnNqczVObjVqZmc?oc=5",
-      "snippet": "Saturday morning shooting in Surrey: SPS &nbsp;&nbsp; CityNews Vancouver See more headlines & perspectives on Google News",
-      "pub": "Sat, 25 Jul 2026 19:49:42 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canadian intern at NATO HQ in Belgium arrested on suspicion of spying for ‘third country’ - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdkJEcmlRVmx2djFaYjFiRlZDNjNPRWtaWGtfdFRMaGNqbHduWWtnMzRUcG1Xd1c0V1BGazdweTJvQ1hlYUo2SEhOYXg2UDZiNUZ3c2plVnJQSTVqUDhyLWV5TFVILVVHbEJqbzJwMjJvWjF3T3kzd3dDSTA2LWhOYjBySU5Bd1VtX3ViYk02YVdYN1lLTGswbGZaVQ?oc=5",
-      "snippet": "Canadian intern at NATO HQ in Belgium arrested on suspicion of spying for ‘third country’ &nbsp;&nbsp; The Globe and Mail See more headlines & perspectives on Google News",
-      "pub": "Sat, 25 Jul 2026 21:45:37 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Alberta premier says she won't retaliate Trump's latest threats with alcohol ban - CBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaC1pYWhIS2ZlQkpfSnVxTUx5REdRWXBwbHhuRWtfUzZReFFnVFlMSjZiNDhfQmxwaHVuVk5OS253dUlWV290S1p3MUttSEoyUFl4Qi1pMUZUSUtObGY3QVFMX2dMVXhEcmFDNGh5d29feHNUVGRiR2UyNUtxeE5YVzczTkpDRFBGMkx4bFVDQmZTN3FxMTFQcERR?oc=5",
-      "snippet": "Alberta premier says she won't retaliate Trump's latest threats with alcohol ban &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Sat, 25 Jul 2026 19:48:54 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Evacuation measures expand north, east due to raging Fiftynine Creek fire near Clinton - CFJC Today Kamloops",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDBPaWlKWGpmSXdkWmdhVVZJeW5xS2h0cTNQbGZmYU9ZZ05kMFFGMU1TdXJkNUI2X2NZSFJLZ0xwa1dPSGs2dVFhQXFBZy0zWFJMWWpqRXJGRHF0Y2c0dFBNczgwVVB4WW9sREFkVkRCS18zVVBfTmNXV3Z1WndIRHpvNWkzajZKdFR0cXdPaFJJbU4zVW1OTFNKUDNDYmE5V0tFN1VITUpfUTVqQVRJdjNUMndFQVdwbnpR?oc=5",
-      "snippet": "Evacuation measures expand north, east due to raging Fiftynine Creek fire near Clinton &nbsp;&nbsp; CFJC Today Kamloops Clinton, B.C., still standing with some structure losses, bu",
+      "snippet": "Evacuation measures expand north, east due to raging Fiftynine Creek fire near Clinton &nbsp;&nbsp; CFJC Today Kamloops ‘It was difficult’: Residents of Clinton, B.C. recount evacu",
       "pub": "Sun, 26 Jul 2026 00:22:39 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Are your lights flickering? B.C. Hydro says ash from wildfires affecting power - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYjdGY293WUNWZEM4XzBrSHRUekpzcWpYZDBGd2FpN1pfalpJQUlVekNsYlA2dlljV01pRXE0Mm1CdjdreWMtOXN3bU9ud2s5aTk0WUl1NktaN1RpcndIRk02U3pPdGU1djRWZXZaUjB4ckJWUnk0NHdPbmFWdjdRRlcxb0s5cjdj?oc=5",
+      "snippet": "Are your lights flickering? B.C. Hydro says ash from wildfires affecting power &nbsp;&nbsp; Vancouver Sun Photos show wildfires raging across parts of British Columbia &nbsp;&nbsp;",
+      "pub": "Sat, 25 Jul 2026 19:37:24 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "More than 500 properties under evacuation alert as wildfire burns north of West Kelowna - CBC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWw1Q01lVU81WmpfUzRpN1VfRDgzcWczRVotOWRRSTRuaU91MDlKV05adTJ4ZEo4dTMwNlJjMHg4WXE5SFdaRkNVd3BkWGhTM0ZfQjdBZjBhVVdTTXhPdXQ4Z21jMzdCZVp3NHNwQmJOS1laejFkeHg0Q1NKQ0NRaHZ5OS1VZlpKc0VWbUpocVlzc2xUMEVPSWpGSXMzUDhVSFJFRHhhSQ?oc=5",
+      "snippet": "More than 500 properties under evacuation alert as wildfire burns north of West Kelowna &nbsp;&nbsp; CBC 507 properties placed on evacuation alert at La Casa due to wildfire &nbsp;",
+      "pub": "Sun, 26 Jul 2026 04:26:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Alberta Premier Danielle Smith is Canada down — but not for retaliatory measures against Trump's tariff threats - Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZDZrcjlSS3pLa0ZJbHVtcld4b1d0OVRhYkd6b1pxYUR0S293QnlOTU90VEdNb0RhSFNkQmxMNnZFZ1h2c2dVM2JwYzlLQ1lMMXJPWTdSaWp0R2x4RTEwaVVoLUpJa0ZXRm9QZHRqWGtuZExGOEF1V25Lbk4ycjhKN0MxeWhiVUhCeXRIUU9lb2JuaUFTZjUwdldQN0trN3dFU1E?oc=5",
+      "snippet": "Alberta Premier Danielle Smith is Canada down — but not for retaliatory measures against Trump's tariff threats &nbsp;&nbsp; Edmonton Journal Alberta premier says she won’t retalia",
+      "pub": "Sat, 25 Jul 2026 19:09:17 GMT",
       "image": ""
     }
   ],
