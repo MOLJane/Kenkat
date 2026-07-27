@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-07-27T05:03:37.418259+00:00",
+  "generated_at": "2026-07-27T08:51:37.552907+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "LPN Suspended for Allegedly Snapping Photo of Patient in Vulnerable State",
+      "link": "https://vocm.com/2026/07/27/lpn-suspended-for-allegedly-snapping-photo-of-patient-in-vulnerable-state/",
+      "snippet": "A licensed practical nurse at the Baie Verte Peninsula Health Care Centre, who allegedly snapped a photo five years ago of a patient who was in a vuln...",
+      "pub": "Mon, 27 Jul 2026 08:38:25 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/nl-newfoundland-and-labrador-college-of-nurses.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Three Men Face Intimate Partner Violence Charges in Connection with Separate Incidents",
+      "link": "https://vocm.com/2026/07/27/three-men-face-intimate-partner-violence-charges-in-connection-with-separate-incidents/",
+      "snippet": "Three men have been charged after allegedly assaulting their partners during three separate incidents in the metro region yesterday. The first happene...",
+      "pub": "Mon, 27 Jul 2026 08:31:21 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-7.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "July 27, 2026 – Have you taken in any live music this summer?",
+      "link": "https://vocm.com/2026/07/27/305273/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13236').",
+      "pub": "Mon, 27 Jul 2026 08:00:55 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/image.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "US and Iran Maintain Pause in Attacks as Diplomacy Continues",
+      "link": "https://vocm.com/2026/07/27/us-and-iran-maintain-pause-in-attacks-as-diplomacy-continues/",
+      "snippet": "The United States and Iran continued holding back from new attacks as officials explored whether the temporary pause could create space for negotiatio...",
+      "pub": "Mon, 27 Jul 2026 07:06:20 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/07/53771257.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "TCH West of Chapel Arm Turnoff Impassible Due to Collision",
+      "link": "https://vocm.com/2026/07/27/tch-west-of-chapel-arm-turnoff-impassible-due-to-collision/",
+      "snippet": "The Trans Canada Highway near the Chapel Arm turnoff is currently blocked in both directions due to a collision. The advisory, affecting both lanes ju...",
+      "pub": "Mon, 27 Jul 2026 07:14:04 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-17.png"
+    },
     {
       "source": "VOCM",
       "title": "The 37 Signal Regiment Training in East End Over Next Few Weeks",
@@ -27,58 +67,18 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/st-marys-fish-plant-wind-damage-6.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "NL Absent from Maritime MOU Deal",
-      "link": "https://vocm.com/2026/07/26/305254/",
-      "snippet": "The three Maritime provinces have signed an MOU with the federal government to work together on addressing energy issues in the region, but Newfoundla...",
-      "pub": "Sun, 26 Jul 2026 12:07:42 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/wakeham-at-the-airport.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Visitor Information Centre’s Across NL Receive Funding Boost",
-      "link": "https://vocm.com/2026/07/26/305251/",
-      "snippet": "Some of the groups that help inform visitors about many communities across the province are getting a funding boost. The department of tourism is divv...",
-      "pub": "Sun, 26 Jul 2026 11:00:50 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/newfoundland-and-labrador-welcome-tourism-tourists-visitors.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "SpaceX Starship Flight Tests New Starlink Satellites",
-      "link": "https://vocm.com/2026/07/26/spacex-starship-flight-tests-new-starlink-satellites/",
-      "snippet": "SpaceX launched its 13th integrated Starship test flight from South Texas, continuing work on the company's fully reusable rocket system. NBC News rep...",
-      "pub": "Sun, 26 Jul 2026 09:55:51 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/07/653323824.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Stephenville Named NL’s Most Active Community",
-      "link": "https://vocm.com/2026/07/26/stephenville-named-nls-most-active-community/",
-      "snippet": "Stephenville has been named Newfoundland and Labrador's most active community. The town received the honour as part of the ParticipACTION Community Ch...",
-      "pub": "Sun, 26 Jul 2026 09:56:27 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/09/participaction.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Man Charged with Theft in East End Yesterday",
-      "link": "https://vocm.com/2026/07/26/man-charged-with-theft-in-east-end-yesterday/",
-      "snippet": "A man who wasn't even supposed to be at a particular business in the east end of St. John's has been nabbed by police after a call came in about someb...",
-      "pub": "Sun, 26 Jul 2026 09:47:35 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-2.png"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Two people killed, several injured in shooting at Seattle food festival, authorities say - CNN",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51cXlWSDJJVS1kd21JWUs4cUlLZDU4YkRHUlZfUEY1ODdlYUpZWjdKNmpHQXhLeG0xTkU4LUhKUy0zWWU3OFVub2QyaWhUWGVUMUEwVi1LUUh1OEFmck5nWHlQYzlLSVd5aEVKd2F3ZW4tdEt0?oc=5",
-      "snippet": "Two people killed, several injured in shooting at Seattle food festival, authorities say &nbsp;&nbsp; CNN Multiple people shot near Seattle's Space Needle, police say &nbsp;&nbsp; ",
-      "pub": "Mon, 27 Jul 2026 01:51:00 GMT",
+      "title": "Water shortages, vandalism complicate wildfire response in 2 B.C. communities - CBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1FfbWJXSDJack9TcjhCX1hwVXZMa1Z0aURPMGYyT2d0eVBiYjd6ei15WjBTQmVWSGo0cE1LSTlOTTlRZVRXXzJmLVdMaXlfQ1R1cDY4eWFCbzhFVks0OGJaLVhVY0Y3a1B1d1lwR1JxaTNLMDlZcFRiZWJHVVlQS24xT2cwSXN2d2dVYmU3OUhOT1Z4ZW5Z?oc=5",
+      "snippet": "Water shortages, vandalism complicate wildfire response in 2 B.C. communities &nbsp;&nbsp; CBC Evacuation planned for 70 Mile House Monday due to Pear Lake Creek wildfire &nbsp;&nb",
+      "pub": "Mon, 27 Jul 2026 00:45:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Former WDBA chair ‘wary’ of Gordie Howe International Bridge opening Monday - CTV News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGpzcG1taFVRSUdSMHdxQWI2MHotdkY0REtpazg3RzliWm9xcmY1dnpVeC02RVlrZm9EdWNMaWRuWEhDc3NwYmphQnlkdFZDTVp2UUhZNThoWGN3RzRxQmRyUFZXekt2b3NZTlZZYmZkQmJCNnBSSmJLNHZBVDdzTk5xbkJ6cHNMQTNZMWZod0xPeU1Xb29MN1pOeW45WnpPNklMUkRHZ1BrODRWQjY5TEJ2dw?oc=5",
-      "snippet": "Former WDBA chair ‘wary’ of Gordie Howe International Bridge opening Monday &nbsp;&nbsp; CTV News Traffic to start flowing Monday across new bridge between Canada and US &nbsp;&nbs",
+      "snippet": "Former WDBA chair ‘wary’ of Gordie Howe International Bridge opening Monday &nbsp;&nbsp; CTV News Check out Canada's other Gordie Howe bridge &nbsp;&nbsp; CBC Traffic to start flow",
       "pub": "Sun, 26 Jul 2026 18:54:36 GMT",
       "image": ""
     },
@@ -86,32 +86,32 @@
       "source": "Google News Canada",
       "title": "‘Difficult hours ahead’ as France and Spain continue to battle wildfires - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWtLSnpPdm5iTHNQMmEwT1NlcGlzcVZOclN3X25HZGNhdW9YbFc2Mkt5RGlZZnZiNlh2T3pvQVF1RjMtdUJ5TWNlQ3pyRG4wSkozTHZYZ0V2eVN3TE1nOVFfZzRkTjhKdjhkb2NiZUQ0NlNrVk1ld080TlJIa3Uzb21Bb2t0dE94ZW04ZlNoRVh3VGpPdmxhaWpDbkYxSzZNUUR6Ry1QYk3SAa4BQVVfeXFMT09SamxLYkUzaTVqdFJPYjF3VDNqcUdVNzFycEVkQnQ5VGR1M2dIUERkaWVhQlNGN0QzcE5IQWY2Y0M3UU5GSWp5akFncGhQM0NmRk16WV9sX1d4MXpoTUxmXzJxclctb0RBN2I3STl3OHZPTnFEYjZxb1BZci10QVZsYldoVWZMSWxTM2k5czJCVDI5UmJSMzZuNUlQbk9PYmhhM280YW11U3FweFBB?oc=5",
-      "snippet": "‘Difficult hours ahead’ as France and Spain continue to battle wildfires &nbsp;&nbsp; Al Jazeera Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms &nbsp",
+      "snippet": "‘Difficult hours ahead’ as France and Spain continue to battle wildfires &nbsp;&nbsp; Al Jazeera Europe wildfires live: Macron to chair crisis meeting as France and Spain continue ",
       "pub": "Mon, 27 Jul 2026 01:24:50 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘It was difficult’: Residents of Clinton, B.C. recount evacuating wildfires - Global News",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FNkR6RjUtaFRLdUlqT2JkNmo4TXNxVktGVVZxWlp5dDR2djRnMTRxX3VrbEN0dVhYdHdoVjkxZjh4RVVZNDI2M3hPRHZBb3JFcmoyMW5KU3BBU21LeUNlVzdoeDVyZTVWTmtjdzc4SkJkQQ?oc=5",
-      "snippet": "‘It was difficult’: Residents of Clinton, B.C. recount evacuating wildfires &nbsp;&nbsp; Global News Evacuation planned for 70 Mile House Monday due to Pear Lake Creek wildfire &nb",
-      "pub": "Sun, 26 Jul 2026 00:25:09 GMT",
+      "title": "Three people killed, several injured in shooting at Seattle food festival, authorities say - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51cXlWSDJJVS1kd21JWUs4cUlLZDU4YkRHUlZfUEY1ODdlYUpZWjdKNmpHQXhLeG0xTkU4LUhKUy0zWWU3OFVub2QyaWhUWGVUMUEwVi1LUUh1OEFmck5nWHlQYzlLSVd5aEVKd2F3ZW4tdEt0?oc=5",
+      "snippet": "Three people killed, several injured in shooting at Seattle food festival, authorities say &nbsp;&nbsp; CNN Three killed and four injured in shooting at food festival near Seattle'",
+      "pub": "Mon, 27 Jul 2026 01:51:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Carney calls August byelections for 3 ridings in Ontario, Quebec and B.C. - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQTZzVElqWndnc2oyc3NxaHV0ZlNQMTZZaDZjNDdmZXFSME5IeExsY19nX01yazZ1ekVETXFiZXRiUGhVZXFwdnl4dFV2Snl2OGY0QmFMUFZfUEl2aHRudkg0SllXX2dzNWNKNkEwb18xaHZqNEg4SmtlTUtuWVY2U0hMZXpBQQ?oc=5",
-      "snippet": "Carney calls August byelections for 3 ridings in Ontario, Quebec and B.C. &nbsp;&nbsp; CBC Three by-elections set for Aug. 31 in Ontario, B.C., Quebec ridings, Carney announces &nb",
-      "pub": "Sun, 26 Jul 2026 18:50:05 GMT",
+      "title": "B.C. man charged, accused of driving motorhome onto Abbotsford airport runway - Global News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSDliQlBzUVhJZkNWOTBPeW9zRThYbEZ4M2RXYS1QU2kxUDg1R2RKNjZwUHlPcy1VV1RGSVc4djRsM2JwaXhJeVB4Y3c2VkxOVXpuN0RwUmFaaC1KT2ZMdzBrN0QtLS05TUNJNkNsZy1idFhUS1hwQzhJSzZ1OTUxMmZnWF9Fdw?oc=5",
+      "snippet": "B.C. man charged, accused of driving motorhome onto Abbotsford airport runway &nbsp;&nbsp; Global News 'We just got a random vehicle in the middle of the runway': Motorhome crashes",
+      "pub": "Sun, 26 Jul 2026 22:38:13 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Billy Bishop jet opponents turn planned protest into celebration after Ottawa rejects expansion - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaTNjYkhWVF9tYnZXcUJybE5FUWRlRWVHN1hITnFUMTllZHpWeGJCNl93VWFmQWZfMXZ3SGNRZTg4M3B0Qmt2VTJOaEVlTDlCZ1ZfdXVYMndCMTNPNGFUSkFnbUl1MHBTNE1oSUJIZ1lFNEZKMTNPR2F6NTZzYzRFZzhVaHd6Um1WOWw1ZEViUDlzZ0E?oc=5",
-      "snippet": "Billy Bishop jet opponents turn planned protest into celebration after Ottawa rejects expansion &nbsp;&nbsp; The Globe and Mail Rally and celebration planned after Ford government’",
-      "pub": "Sun, 26 Jul 2026 22:56:02 GMT",
+      "title": "Looming byelections set to test Mark Carney again - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeXNBNWE3UDA1ZFlyVFhlbkRoOG9wNjkwbjAxcGxibzEwWlBSSGpZNy03N2p2VUJ4a0ZSNjlZY1RnNlZiUGxaaVdHM24xMzN1b0MyWGhEX3NCc2ZWUjA1Z1BWeC1GRXQxWHlKcVJTcHV2LXM3X1JRaHM5NDRGMlJRaDFEai1memdESHRqZDZpUGFCQ1FBSUxJNDhkM2sxMVJRdUhWZGEzbl9zZ0p5bW5uZGdBcS1vMDFNTGh2LV9oYXdzTlVWN1RTSjFxUmtlZTdK?oc=5",
+      "snippet": "Looming byelections set to test Mark Carney again &nbsp;&nbsp; Toronto Star Carney calls August byelections for 3 ridings in Ontario, Quebec and B.C. &nbsp;&nbsp; CBC Mark Carney c",
+      "pub": "Sun, 26 Jul 2026 10:00:00 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "West Kelowna area wildfire now held, BC Wildfire Service says - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcW5zTkZTdXdZREF2MUNvWUo4MXFNWTlpNGtjZkhZTHpjQzI0WXRqQm9XT3J5cXkxalA5WjdPdGg1d1otWWVoTmNHa3E2MkYtVWwzSmJReGJoaWF4a1h5aDJxZWg4QzJKSWFkM2xJOXFuaGhoS3NTTTNkc0dIekxyWC1hRlh5Q0U3WVlQQ1pBNWxMNkNKS1ZrcWdYczBvYnYyYXpyLVNKVmVzamxIMjJN?oc=5",
-      "snippet": "West Kelowna area wildfire now held, BC Wildfire Service says &nbsp;&nbsp; Castanet Evacuation alert lifted for Okanagan Lake community &nbsp;&nbsp; CBC UPDATE: Evacuation alert is",
-      "pub": "Mon, 27 Jul 2026 01:01:00 GMT",
+      "title": "Evacuation alert lifted for Okanagan Lake community - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEZhd3RXNmJZWFVidjRxa1FNZE8xZUNMVi00N2Q5bDRidGxjNktYZnJDVXVad1JrcEZjR1Z4bG0wV3J4M0R2Z3hfS3RORS11UjVEZ0NTMjFhMm45RkZWdnlNbjlaZi1OSnNPay1xNjdOVHZ2UVAwS0s2RUNGTlhMcF9SemlGdTdDZHc?oc=5",
+      "snippet": "Evacuation alert lifted for Okanagan Lake community &nbsp;&nbsp; CBC No overnight growth on wildfire burning near Fintry &nbsp;&nbsp; Castanet UPDATE: Evacuation alert issued for L",
+      "pub": "Sun, 26 Jul 2026 19:51:13 GMT",
       "image": ""
     }
   ],
