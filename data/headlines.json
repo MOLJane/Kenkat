@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-07-28T12:19:14.406518+00:00",
+  "generated_at": "2026-07-28T14:56:36.145371+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "SUV Destroyed by Fire on Trans-Canada Highway Near Gander",
+      "link": "https://vocm.com/2026/07/28/305452/",
+      "snippet": "There were no injuries, but an SUV was destroyed after catching fire on the Trans-Canada Highway just outside Gander yesterday. Police were called to ...",
+      "pub": "Tue, 28 Jul 2026 14:30:58 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/vehicle-fire-gander.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Applications Open for 60th Annual NL Youth Parliament",
+      "link": "https://vocm.com/2026/07/28/305438/",
+      "snippet": "Young people are being invited to participate in the parliamentary process through a special hands-on learning experience. Applications are now open f...",
+      "pub": "Tue, 28 Jul 2026 13:51:32 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/04/house-of-assembly-stock-photo.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Man Charged After Two Stolen Vehicles Recovered in Shea Heights",
+      "link": "https://vocm.com/2026/07/28/305442/",
+      "snippet": "A 64-year-old man has been charged stemming from a stolen vehicle investigation launched last month. RNC was contacted about a vehicle stolen from the...",
+      "pub": "Tue, 28 Jul 2026 13:27:07 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-14.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Prohibited Driver Charged After Crashing Vehicle in Point of Bay",
+      "link": "https://vocm.com/2026/07/28/305435/",
+      "snippet": "A 61-year-old man from Phillips Head who was prohibited from being behind the wheel has been charged after crashing the vehicle he was driving in Poin...",
+      "pub": "Tue, 28 Jul 2026 12:51:55 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/point-of-bay.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "St. John’s Set to Experience Partial Solar Eclipse Next Month",
+      "link": "https://vocm.com/2026/07/28/305425/",
+      "snippet": "St. John's isn't in the path of totality, but residents of the easternmost portion of the island will be able to experience a partial solar eclipse ne...",
+      "pub": "Tue, 28 Jul 2026 12:27:06 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/06/partial-eclipse-june-10-nasa-bill-ingalls.jpg"
+    },
     {
       "source": "VOCM",
       "title": "NLSA Issues Request for Proposals for Provincial Soccer Infrastructure Assessment",
@@ -27,107 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/rib-fest-happy-valley-goose-bay.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Liberals Want Province to Focus on Efforts to Lower Electricity Costs",
-      "link": "https://vocm.com/2026/07/28/energy-2/",
-      "snippet": "The Opposition is urging Premier Tony Wakeham not to \"miss an opportunity\" and work with Ottawa and the other Atlantic provinces on lowering electrici...",
-      "pub": "Tue, 28 Jul 2026 10:39:32 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/liberal-leader-john-hogan-house-of-assembly-march-2-2026.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Nature Conservancy of Canada’s Big Backyard BioBlitz Running This Week",
-      "link": "https://vocm.com/2026/07/28/305402/",
-      "snippet": "The Nature Conservancy of Canada is reaching out to residents to become citizen scientists as part of the annual Big Backyard BioBlitz. Residents thro...",
-      "pub": "Tue, 28 Jul 2026 10:14:16 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/backyard-bioblitz-1.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Three People Being Inducted into Regatta Hall of Fame",
-      "link": "https://vocm.com/2026/07/28/three-people-being-inducted-to-regatta-hall-of-fame/",
-      "snippet": "Three people are being formally inducted into the Royal St. John's Regatta Hall of Fame tomorrow. New inductees include Paul Power in the Coach/Coxswa...",
-      "pub": "Tue, 28 Jul 2026 09:47:14 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/07/regatta-hall-of-fame-stock-pic.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Only One Container Remaining on Grounded Baltic III",
-      "link": "https://vocm.com/2026/07/28/305394/",
-      "snippet": "As of mid-month, all but one of the 472 cargo containers on board the grounded cargo ship Baltic III had been removed from the vessel. The Canadian Co...",
-      "pub": "Tue, 28 Jul 2026 09:32:08 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/baltic-iii-ccg.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Two Great White Sharks Tracked Off Western Newfoundland",
-      "link": "https://vocm.com/2026/07/28/305390/",
-      "snippet": "A number of great white sharks that are being tracked by marine research organization Ocearch have moved into the Gulf of St. Lawrence - including two...",
-      "pub": "Tue, 28 Jul 2026 09:16:05 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/quint-ocearch-great-white-shark.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Magnitude-7.1 earthquake shakes part of southern Japan, injuring dozens and damaging buildings - CBC",
+      "title": "Major earthquake shakes southern Japan, some victims trapped in damaged shopping mall - CBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zc2poMTFuaUZXZUkzQ0VXcnYzYnhLdm5tT19EbU56MXZLbDFIVXVYV2dOYVpJWHdYbDcwQ3gtazlyU0xXSEM4QlNQVjVxUkZLRFd2Y0ZwX1RWckVHSXJtN2s0ejdwTlk?oc=5",
-      "snippet": "Magnitude-7.1 earthquake shakes part of southern Japan, injuring dozens and damaging buildings &nbsp;&nbsp; CBC Many people trapped inside Japanese shopping centre after earthquake",
-      "pub": "Tue, 28 Jul 2026 11:18:54 GMT",
+      "snippet": "Major earthquake shakes southern Japan, some victims trapped in damaged shopping mall &nbsp;&nbsp; CBC ‘Many people’ trapped inside Japanese shopping centre, others missing in pape",
+      "pub": "Tue, 28 Jul 2026 13:26:41 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "101-year-old vehicle among first to cross Gordie Howe International Bridge - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHBURnhRWnotQkNaZjQya0Q4MEczWWFEYWRZdnIwYlczM1dEUzlEWUFpbDZDbTZ2REhSQ281TXpjQW1ZcHJ2aVJyNjRmdUZka0Q2SzNOUFVoaFhuR3pDQWhOdkR3ZE0xSFlKd0ZVVGM0MEN0NmVXUktoRTkxellPQmZTeVRxck9wRFVueHJrRGxHS3NkdEdYckZwX1Z5MmItZHZENTN1ZEl0YmFJbkRSNG5jRGk?oc=5",
-      "snippet": "101-year-old vehicle among first to cross Gordie Howe International Bridge &nbsp;&nbsp; CTV News Trump is trying to shake Canada down with new Gordie Howe Bridge deal: Bob Rae &nbs",
-      "pub": "Mon, 27 Jul 2026 22:55:35 GMT",
+      "title": "Another B.C. community evacuated as massive wildfires merge - Global News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWF9pcEpzdHgwYklOWTYtTEJfdmR6WjNxQkhQVDVra2pZc2d2MG5EeFdWLXpyLXp4YzBFSDJpNmdFaFRDSDhJZ3k3VGw1RGJRRlBjMHJLcXM1WTlkbHVaeUhTd0t3OGpkRG5qOFJMMDIwU1Jxd3pTQ3JicW1RVkI0S080NUlQMkE2VmJiam5XbnBLX2Z0N0dhM2x4dmhwUQ?oc=5",
+      "snippet": "Another B.C. community evacuated as massive wildfires merge &nbsp;&nbsp; Global News Clinton, B.C., set to assess damage after 'apocalyptic' wildfire forces evacuations &nbsp;&nbsp",
+      "pub": "Mon, 27 Jul 2026 18:30:56 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Spy charges against Canadian intern at NATO triggers ‘cascade of issues’ for multiple agencies - CP24",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQTFjRFZFUjdqUFlGZHhnYUhDX2hTUHZ0RndUd29Mck9nS3IzWWhtQ29FQ3Zyam9fZUZlWEdWY2NZdUVGMU5tT2ZRMWc0WnByV0NFLVNGelFmR0I4OHZJYU1GeGYyR1Y4MXc1RGV2WXlMRkJ4Z2V3ZkY1eWhWcHE5MDJKSjBETHMzbU9fTTJqZl91M01XQ3BGR2tzZ19QZDdmUmdJQkFiUW1oSXZUejJDN3JjVU9ZUDlVNDNRWmV2R3d1TDhsbzhpTEZSSXRSUQ?oc=5",
-      "snippet": "Spy charges against Canadian intern at NATO triggers ‘cascade of issues’ for multiple agencies &nbsp;&nbsp; CP24 Minister vows probe of ‘quite serious’ charges against Canadian NAT",
-      "pub": "Tue, 28 Jul 2026 01:46:00 GMT",
+      "title": "This region, home to 1.7M people, has seen shootings nearly double. Here’s what police say is the cause. - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWVKNl92NEE0N2hkRHZ6SFMwQXpObHlxbG5wSUxDZzlCZks0WnVRX1hZb3BVREJFMEZaeXljdmc3c1FRc2F4Y0dtd2JDRWJnWW5Bb0FSb1RXVGhNOG56YmZhZm1iN0hWWDltaFZWbmJrZmlvanNZNDF5R0JOX0k3T2h1aDlZanNkZHE4aFl4SUJTMVNTNnZRd0JFenVyWEt3NHJrUUNNREVqdWxDdmc?oc=5",
+      "snippet": "This region, home to 1.7M people, has seen shootings nearly double. Here’s what police say is the cause. &nbsp;&nbsp; CTV News",
+      "pub": "Tue, 28 Jul 2026 11:11:41 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Wildfires in southwest Europe: What we know so far - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUU83STRPeFBGMmpHT1NaZC1qTGd6aGMtRURjblJ5cUhHa0tlQ21DVUs2MlJqTnhlZ2h0OEZycEZEeWhHbE1veXdEcUtWR0hfRmE1RHBfeEd0Z1VrYTBxSEZZamRMU1RieFYxY180TE1aVXUySXJBbDBYMllOTHAwMld4VW94VG13OHMwbDZBbWR6TE8x0gGaAUFVX3lxTE01WWM2em96ejE1LWJYVjVidkJEcVlMcmEycmRTcm8wa0E0Ui1Ta0hPWDdNZF9seUYwTEVDSXlrdjNiVmdmSG9WZEJFdGxzekFuMWJHdUl4ajZERTlTSWFPNFBaWmUybnhNTUdSVGphYzFDRjhoMjU4WTlqUGt3QlFieE1BNTZ5WkYwRWJ5NVN6MXFvQ2RwSjZjWXc?oc=5",
-      "snippet": "Wildfires in southwest Europe: What we know so far &nbsp;&nbsp; Al Jazeera Western Europe wildfires at 'point of fragility' with temperatures rising again | CBC News &nbsp;&nbsp; C",
-      "pub": "Mon, 27 Jul 2026 22:37:47 GMT",
+      "title": "Online sex ads reveal routes used to traffic Indigenous women and girls across Canada - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRnNyRDF3bVJMSW5YNFlxM19ONzNyU2hBVlJocWt3TmphZXcxajI1b1hpeHlId1kxT25LdVZWdXh2VGhaOTFCcmFjdlIwdXJvSXE3c3ZOb3ZyRFBZX2NVNnlmQU9taWFmTlB4RzJPdHEyUUtNVzR0Z0FwVHc0VFo4bTlTdlVMNFZDeklwcmJwZWF1aHh3anpZOGFuY2VTbjE1X25ZdnRHVkMxc2dOM3Bj?oc=5",
+      "snippet": "Online sex ads reveal routes used to traffic Indigenous women and girls across Canada &nbsp;&nbsp; The Globe and Mail",
+      "pub": "Tue, 28 Jul 2026 11:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Calgary police end large-scale ground search for missing boy Parker - CityNews Calgary",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RbjFqeUZraUtYYk13X1pLMTVHc2Q0cHZpRTJyX0tUczlHbFItYTBZTkxYanQyaXBBVjdNTVBab3Z0R3RuTDNIdG81dG02bWlCZ3NwaEVvSkp1N0VDYVQwcWtwSm9TUkN3aGJhSGJUY2dWeFR1WDM1R3o1cTlzUGM?oc=5",
-      "snippet": "Calgary police end large-scale ground search for missing boy Parker &nbsp;&nbsp; CityNews Calgary Calgary police scaling back physical search for missing 11-year-old boy &nbsp;&nbs",
-      "pub": "Mon, 27 Jul 2026 19:43:38 GMT",
+      "title": "Trump flouts political risk to host Netanyahu’s seventh White House visit - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHpBTVNmeGw1SzJFa2lOWldIVmVKNGhiWWF3UEZFSkJ0UjdhdHVXOVpGYVh3a014RmxnWmxOLU0wdzI0QXhfNkpzXzg5VEsyRkxpTTdRRkZMS0ttZUZTTGJGM29aVFFuekdkaXE0cmFjaFAxYldnX0M3UDdqeVhmaTlJZUJxXzMwb1gwOEMybVdQbG9HQXBVcUVMNmlJWWFrVTkzeTVuSHhFOHpISXlqOTlrVdIBuAFBVV95cUxQN2FIM0ZaT0FkNHppSEpqOWdSSU1UdmI2YlNVSXJfVVVFUTVZUFZ4TmdYR2Q4UDhyR29OWUFBSjZ4enR0QlpFQkZQRFJObnhVc0k0NEh5bE5WZ1ZkRFJaNXpqYms3VWNLU25JSUxteWxlTjVNTVJhbW5EY0pvZnZaRDV4V3czT3Jva0FweVFRTVZNeXhRcmlFWkd0RTE5Zk9yTFVnWFA3NEdBV3EycDlWcXR2Tkx6d1NV?oc=5",
+      "snippet": "Trump flouts political risk to host Netanyahu’s seventh White House visit &nbsp;&nbsp; Al Jazeera Why this time around, Netanyahu’s meeting with Trump might not go to script &nbsp;",
+      "pub": "Tue, 28 Jul 2026 11:46:48 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Netanyahu in the White House: What’s on the agenda and what’s next? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUk9XRi01UzEzdmRjTmhyUDdfU09QRkxCd3lSSExxRW11elpXZ1lOZmJWdm1XNTBTQ1gteDBOd241Z29hVElPUDNzQ0hqRzd1V0FGM0RjOFU4dHJ0YWpFblk1Vy1IQkw1OHc5eG9vbnJTNnJVVGYyOHNFc0ZNcUxQZUpPa1BfaVBsRVc0Q18yeWhRS3ZOZWlCNGhYaldYV1laa2pMU2R4WdIBrAFBVV95cUxPUUR5NWpPWVRVSGkwdFVUWXpfeElWMUdlY0ktaUdha01sNHRKTEo3dm1HQjVlSFJ2aXJTUmREZWQ5bmc4YktEa3Jqc1M5cFZjNURUVjB0UzJKTFp6NkpueEUzb0RkelcyTnplTWZGUHU4WEtQTld0czRUWXNYU3V3ajNpcng5RERvSW9zelQ4SV9iYTFQSmlKVGM4Zl9rQVNUSWxGMEZIWWN1NUVj?oc=5",
-      "snippet": "Netanyahu in the White House: What’s on the agenda and what’s next? &nbsp;&nbsp; Al Jazeera Why this time around, Netanyahu’s meeting with Trump might not go to script &nbsp;&nbsp;",
-      "pub": "Tue, 28 Jul 2026 09:32:43 GMT",
+      "title": "David Eby's idea to leverage critical minerals in Trump tariff dispute could backfire: B.C. mining sector - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSTBUSTRYQllpTmJ5bkZJRVRHTk92ZG9YLWx5RUV2SjNKSUowem45Y1lkMUhvSkhIaDNBZEhpWl9TU1VYNXl0cC1XcFN2MG5kTWFNUU8waGRZdGJSQTVKMklDRUoyeVdGZjBWNnVFYlA3eUhfaUczOHFmb3JldkgzcFRucDZFR1BHLVhEakZUNjVtUmFQaHB3cVM3S1EzbEhFYWVDNmRSaE0ySnNGTDNWU1lfVk0tRXFLa0FrWE9LdHVKSlhlOHRr?oc=5",
+      "snippet": "David Eby's idea to leverage critical minerals in Trump tariff dispute could backfire: B.C. mining sector &nbsp;&nbsp; Vancouver Sun 'Too much for us to absorb': Manitoba businesse",
+      "pub": "Mon, 27 Jul 2026 20:19:56 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Police to provide update on 2022 murder of man shot in vehicle in Scarborough parking lot - CP24",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWVI4b3U3Qmg0RTIxTi1INDFMYXN2VmEwb1Zqd184dW1CcVpjZERUamJqQlE0a3JkY0RYRkk4WFozS21kbmF3VWRjTnp2SkxqS3JfN1FGYW5QUG9BSUE2VEUzRHdjTW9YQ1hPS0tqRjFFYjBfdVdfQlNCVUFCclhGdEs5d0NqN3MxOXZ1eF9kdzh6ZlZNbWhtbUt2emxzOGdOZE5Hclg1Zm1vSkJxMS1uazJ3bGtWT0FuYUIzdjF3TWxQV2JtNGIzbk9NQnhzRjR6RXc?oc=5",
-      "snippet": "Police to provide update on 2022 murder of man shot in vehicle in Scarborough parking lot &nbsp;&nbsp; CP24 Police to update 2022 killing of Toronto man shot in Scarborough &nbsp;&",
+      "snippet": "Police to provide update on 2022 murder of man shot in vehicle in Scarborough parking lot &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
       "pub": "Tue, 28 Jul 2026 10:30:36 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "What Canadian communities can do to reduce wildfire risk - CBC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oYS1OSDZTR19wN1FxeE5SWGRLNHNfaG1SSkM4Qng0bVZLc2htOGQxTkFYMk9xZTBWZHNGM0ZNUTYyOVMzZmhMa1lEME9VWWZuZ050S0hSblZSRjBXX2ZiRmpvT054bkNfYlJjZjR3bEZFVm5tbTFOUWdWX3EzQQ?oc=5",
-      "snippet": "What Canadian communities can do to reduce wildfire risk &nbsp;&nbsp; CBC Gillian Steward: Trump stokes political flames over Canadian wildfires as we plan to sell more oil &nbsp;&",
-      "pub": "Tue, 28 Jul 2026 08:00:00 GMT",
+      "title": "2 women sue former Regina police officer who used internal records to pursue relationships with them - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR1VVR0l5S0hyZ0VFcDJEVlRPcVVWdTNDNHRrZk1FQzZQbzQyUEE5a1B4YkZ5Vkk3Q1kzaW5lWXEwMlk0Wjd2Qk1QSktTZHpfQ05GZU83YWxjTHJZOUJhYjcyeWdLNUhWUVoyVklJeG5SN1FvVFFVT2lucHV6MG54djJveG9tdE5vZjNlSE5LdHI0R0dfUV9pUXB3bDA2N2lKQU1oYTNVcjhtV1RiSkZoSld0cU5jSHVI?oc=5",
+      "snippet": "2 women sue former Regina police officer who used internal records to pursue relationships with them &nbsp;&nbsp; CBC",
+      "pub": "Tue, 28 Jul 2026 11:00:00 GMT",
       "image": ""
     }
   ],
