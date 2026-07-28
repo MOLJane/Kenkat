@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-28T04:56:17.623811+00:00",
+  "generated_at": "2026-07-28T07:34:31.120900+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "TCH Between Badger and South Brook Impassable Following Collision",
+      "link": "https://vocm.com/2026/07/28/tch-between-badger-and-south-brook-impassable-following-collision/",
+      "snippet": "Both lanes of the Trans Canada between Badger and South Brook are closed due to an accident. RCMP issued the advisory around 3:15 this morning. Delays...",
+      "pub": "Tue, 28 Jul 2026 06:43:47 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/rcmp-lights.jpg"
+    },
     {
       "source": "VOCM",
       "title": "ANC Receives $220,000 Federal Grant to Combat Human Trafficking",
@@ -59,14 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/05/RNC-Police-Car-Logo.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Toronto Police Investigate Apparent Shooting Outside US Consulate",
-      "link": "https://vocm.com/2026/07/27/305332/",
-      "snippet": "There's been another apparent shooting outside the U.S. Consulate in Toronto. Toronto police are investigating after witnesses reported hearing gunfir...",
-      "pub": "Mon, 27 Jul 2026 16:46:50 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/07/toronto-police-service-car-cruiser-stock.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Bridge connecting Canada and U.S. opens after Trump tried to block it - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa0RUekxZa0xPNFp5dDhFVncxemoxTEItQ0RkekFESDdLMUY2dEZocGVIblJEaFBtdmRhNVd4b3lYNEoyUjlzZTVlbGY3T0czUGNLUGdkdUlwMm5zSGV6Z2FuSHFMajhMdTBBeVV1cmN5ejRENjRRdGRjSlI0dUEwVU5vTGJfc3NkR1cwamFxam1SMENmUkVwazlZNU9oc3RtSHhZSE5KT2ctdmFXSU1GSjNmSmNKdzBXbWZr?oc=5",
@@ -84,17 +84,17 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Another B.C. community evacuated as massive wildfires merge - Global News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWF9pcEpzdHgwYklOWTYtTEJfdmR6WjNxQkhQVDVra2pZc2d2MG5EeFdWLXpyLXp4YzBFSDJpNmdFaFRDSDhJZ3k3VGw1RGJRRlBjMHJLcXM1WTlkbHVaeUhTd0t3OGpkRG5qOFJMMDIwU1Jxd3pTQ3JicW1RVkI0S080NUlQMkE2VmJiam5XbnBLX2Z0N0dhM2x4dmhwUQ?oc=5",
-      "snippet": "Another B.C. community evacuated as massive wildfires merge &nbsp;&nbsp; Global News Wildfire near Clinton, B.C., expected to grow as dry conditions, stronger winds approach &nbsp;",
-      "pub": "Mon, 27 Jul 2026 18:30:56 GMT",
+      "title": "Albertans can pay for MRIs and other tests without a doctor's referral, as of Friday - CBC",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOTUyaXk5MURSbTFYY0xGY0NZR2Ezam00TVk2U2xzbzJVc3lSTGtiZFpsSFRINmxMQ2dzMVdsczRpU0ZMcVBwTFo1b3NSdnFjR05vOHZHeV9WbktPSlNQaEdXR2lnc1BnVzJNbENxcDVIRnI4X2JUNzE4NDZGZHQxdHhsc203TnVGWVB1dDdoeGx0TTZv?oc=5",
+      "snippet": "Albertans can pay for MRIs and other tests without a doctor's referral, as of Friday &nbsp;&nbsp; CBC Alberta to begin allowing out-of-pocket payments for medical testing as of Fri",
+      "pub": "Mon, 27 Jul 2026 23:56:42 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Netanyahu lands in Washington as Trump pursues 'friendly' talks with Iran - Ynetnews",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yWW1VcmVNM24tZm9RR19ic3IwTHZHOFBjNmZ3QlpZZDJMRUZ3aXZrUE9lSEtzU2pRem9GLXE2ckwyeXplMF9EazJ4V3BwNHloYnNPVTJR?oc=5",
-      "snippet": "Netanyahu lands in Washington as Trump pursues 'friendly' talks with Iran &nbsp;&nbsp; Ynetnews Iran war live: Trump says ‘friendly’ talks ongoing; Netanyahu arrives in US &nbsp;&n",
+      "snippet": "Netanyahu lands in Washington as Trump pursues 'friendly' talks with Iran &nbsp;&nbsp; Ynetnews Why this time around, Netanyahu’s meeting with Trump might not go to script &nbsp;&n",
       "pub": "Mon, 27 Jul 2026 22:32:00 GMT",
       "image": ""
     },
@@ -102,32 +102,32 @@
       "source": "Google News Canada",
       "title": "Shots fired at US consulate in Toronto for a second time this year - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLeXd2M1hoZ2FiUWJibmhDNzJtSG1Zb1VfMnpZdWJmNGhxV19aeE9Sel9ldEdjSUZUdVZkck8xX1Q4MjZrV2pyTlVkcGxxeExGMWdRelNJVWZDUQ?oc=5",
-      "snippet": "Shots fired at US consulate in Toronto for a second time this year &nbsp;&nbsp; BBC U.S. Consulate fired upon for 2nd time this year, police seek suspect vehicle &nbsp;&nbsp; CBC S",
+      "snippet": "Shots fired at US consulate in Toronto for a second time this year &nbsp;&nbsp; BBC Shots fired near US consulate in Canada for second time in four months &nbsp;&nbsp; The Guardian",
       "pub": "Tue, 28 Jul 2026 00:36:16 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmJEaUc4b0UwWHY1NzlsOHBDa2Zfb1dpai1kUnc5Z1k3cTgxVUlTUVVUY20tNnZzMGR2MWtwWU9RbEloZWZEWXctMFdOMWt2S0ZVbHFKUlBWRXIxby1pcEFtNjRBM0VVUDRZNVJ2ZE1uVHdhampTelpoX3Brd0M0X0xiQjltcTF2MHNtcTNWLU5talJGOTNZbGhQbUtwRnZiZDctMVFiMS02am5VVXFvNHJtNDFEQTBURzVCM01R?oc=5",
-      "snippet": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters CBS News poll finds Iran conflict marked by feelings of uncer",
-      "pub": "Mon, 27 Jul 2026 20:55:03 GMT",
+      "title": "Chow asks for Toronto island land back after feds block Billy Bishop expansion - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXFyLUwzREVYemU0azV3Y1pESGw2M0lhdUt1Q2F5SzNvZ2RzaTYxdVdWQ3RQLVYybWdkSkdwRUFhMHZkNDNMSHd4eHZhb1pTOVc4bmNPdEZ5eFRsWFRSYVFDa3hQc185NmN4cTFXV2U3cHpqSkNxRFNTY0Fub2R0NjBpNjRtOVo3eHFEaGQ4TDFRbW0tNzh5WGhLVkVqSExjSm1uQV9XZF9KOXlWZ0xleVhiNA?oc=5",
+      "snippet": "Chow asks for Toronto island land back after feds block Billy Bishop expansion &nbsp;&nbsp; Global News ‘Disappointed’ Doug Ford spoke privately with Mark Carney after decision blo",
+      "pub": "Mon, 27 Jul 2026 20:57:09 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "‘Shock and disbelief’ as Morse, Sask., RCMP detachment burns down - CBC",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHdINUVwWDlzRXZOMUZwTDduamhXTDBTZ1BKTC1YVDN5WmtoX1pJNm1fT1JheEcxNlhNRzhCclVSQU5jX1JKTHdIYlhkWnk0bEo0RHhDYUI0T1JaTzQ2SW9XNVBVcV9IVjJBMEV6bDdJWElkOEhpbkN0QXFWTk5IM29OSUNpY0U?oc=5",
-      "snippet": "‘Shock and disbelief’ as Morse, Sask., RCMP detachment burns down &nbsp;&nbsp; CBC Sask. RCMP detachment destroyed by fire &nbsp;&nbsp; CTV News Southern Saskatchewan RCMP detachme",
+      "snippet": "‘Shock and disbelief’ as Morse, Sask., RCMP detachment burns down &nbsp;&nbsp; CBC Southern Saskatchewan RCMP detachment ‘destroyed’ by fire, police say &nbsp;&nbsp; Global News Mo",
       "pub": "Tue, 28 Jul 2026 00:45:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta allowing patients to self-refer, pay out of pocket for preventative health testing - Edmonton Journal",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNGduQmc2Q212SzBETUZNN0VGNVI5a2hxTW5yV2g4c1U0elpmRW1lT2ZLbUp0clA1X2lKaGZxTXZEOWthZGoyVUs3SFpqcmpIczQ4VVB2QXdic3l6eUxTcDR1RDZHT2R3dVlzUHR1QllEaHN2ZFRibmFjdzhHbmcxVWtEdm1hTm5YNklBaFJpYnZEdXBCb19FSmtySHBEcTYtblMwbURyZ2owdC1iLWhlekxvUUoxTjBHVXJWeGpaMDFyNm9rZjd3NmFLYw?oc=5",
-      "snippet": "Alberta allowing patients to self-refer, pay out of pocket for preventative health testing &nbsp;&nbsp; Edmonton Journal Albertans can pay for MRIs and other tests without a doctor",
-      "pub": "Mon, 27 Jul 2026 21:30:24 GMT",
+      "title": "Water shortages, vandalism complicate wildfire response in 2 B.C. communities - The Weather Network",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUjZpaTRDWkJ1M0YxUGdsUm5YWmMyXzBkYXBYWmdNOVJIcGs2b0s1bmNOYjQzM0VZd1FrUDFGMFhRc0I2OEFYQkhRRFctTnc4RWFSLUN5QXNKSks0VlFzb205czROV29ON0FYUXlJZ3JQZXR6SVFqTXh5S3puVE1LbnUzb3RMVllGZzFfME5Pc19fenZqN2xHNUp1RnkyVmtGbkZlRWdObGtJRGRQMDhiUW1zOXhJajVVQ2ZlODZrbVdyYUhHUE1FbW03UFE?oc=5",
+      "snippet": "Water shortages, vandalism complicate wildfire response in 2 B.C. communities &nbsp;&nbsp; The Weather Network Another B.C. community evacuated as massive wildfires merge &nbsp;&nb",
+      "pub": "Mon, 27 Jul 2026 18:30:00 GMT",
       "image": ""
     }
   ],
