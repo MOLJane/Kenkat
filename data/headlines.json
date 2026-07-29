@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-07-29T18:01:21.509911+00:00",
+  "generated_at": "2026-07-29T19:50:12.269529+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "One Dead and Another Rescued After Boat Capsizes on Gillams Pond",
+      "link": "https://vocm.com/2026/07/29/one-man-dead-after-boat-overturns-on-gillams-pond/",
+      "snippet": "A Corner Brook man is dead but another was rescued after a boat overturned on Gillams Pond Monday night. RNC responded around 8:30 p.m. after receivin...",
+      "pub": "Wed, 29 Jul 2026 19:27:19 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/bay-of-islands-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Dr. Anthony Fauci Invokes Fifth Amendment During US Congressional Hearing",
+      "link": "https://vocm.com/2026/07/29/305577/",
+      "snippet": "A former advisor to both presidents Donald Trump and Joe Biden during the COVID pandemic has invoked the Fifth Amendment - refusing to answer question...",
+      "pub": "Wed, 29 Jul 2026 18:35:56 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/dr-anthony-fauci.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Wanted Man Allegedly Damages Police Car and Resists Arrest in Bonavista Bay",
@@ -51,51 +67,35 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/shea-heights-fire-water-tower.png"
     },
     {
-      "source": "VOCM",
-      "title": "Province Invites Public Input to Develop Supported Decision-Making Framework",
-      "link": "https://vocm.com/2026/07/29/305539/",
-      "snippet": "The provincial government wants to hear from residents to help develop a policy framework for supported decision-making. The aim is to develop a polic...",
-      "pub": "Wed, 29 Jul 2026 13:30:49 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/nl-house-of-aseembly-confederation-building-government-nl-hoa.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RCMP Providing Update on Investigation into CBN Wildfires Tomorrow",
-      "link": "https://vocm.com/2026/07/29/305550/",
-      "snippet": "RCMP will provide an update tomorrow on the ongoing investigation into wildfires that decimated the Conception Bay North Shore one year ago. A series ...",
-      "pub": "Wed, 29 Jul 2026 13:22:05 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/08/kingston-wildfire-ccg.jpg"
+      "source": "Google News Canada",
+      "title": "As Trump doubles down on tariffs, Canadian distillers see a glass half full - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUwxdUZ4WWEtR04zMHRBWVJnTWJQVE1vYmJLa2xuZW40SXlHblZWX05LSXJxNW1DTWM5Znl6QXd1WjV3M1lqRHdEN2dydFFldzhYak1hTDZ3c2ZzWmJzS3lrQk5BS3QwZjdVYXVZdTVmemlMeWJXYkhZTTVHTm9ENE1BM1JFb0xr?oc=5",
+      "snippet": "As Trump doubles down on tariffs, Canadian distillers see a glass half full &nbsp;&nbsp; CNN Mark McQueen: Why Mark Carney is choosing to not play trade games with Donald Trump &nb",
+      "pub": "Wed, 29 Jul 2026 10:00:26 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Dr. Anthony Fauci invokes 5th Amendment, declining to answer questions at Senate hearing - CBC",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ta3VxT2Y1UkFNSVlZLS1YZGdVU1ViMFJWZmtrTFd6RjVBNFBGV2JfdTZSYm5OS3lYZzZEbVpJRFBIMEpHY05BUlNrQVhyX0xfVUI5Y1IxSzdxWlRiN05fVVRhMHNCeGdQZXFOS1M4eXE?oc=5",
-      "snippet": "Dr. Anthony Fauci invokes 5th Amendment, declining to answer questions at Senate hearing &nbsp;&nbsp; CBC The most fiery moments from Fauci's Senate hearing &nbsp;&nbsp; Axios Dr. ",
+      "snippet": "Dr. Anthony Fauci invokes 5th Amendment, declining to answer questions at Senate hearing &nbsp;&nbsp; CBC Fauci refuses to answer questions at U.S. Senate hearing on COVID-19 &nbsp",
       "pub": "Wed, 29 Jul 2026 16:24:16 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Ottawa plans to end 'Netflix tax,' replace with public Canadian content funding: document - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYVAxa3NQbTJNMktZUElmdmNxSjVqdzRUWUVWMGJJdXlxLTlRWnl6M2NtcUFIZUwxWVlWTllmSW9ka29QSXNJaXd1eG1tTkpTQzk5alB4MW95aGg5QVlhQTZPeGd1aUtsMHVMcm1FcGxsd2JTVVN2TUJ2dFFzY0s0Tg?oc=5",
+      "snippet": "Ottawa plans to end 'Netflix tax,' replace with public Canadian content funding: document &nbsp;&nbsp; CBC Ottawa seeks to ‘eliminate’ streamers’ Cancon base contributions: court d",
+      "pub": "Wed, 29 Jul 2026 17:20:01 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Security for Prince Harry's visits to Canada topped all internationally protected persons - CBC",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80SWQwWDVZcXB5MUxPbnB4YURIU1E0bEhZZVRkWlJQSXZoUERLbWJyVzF1RmtkWWo2d3psS2ZzSVc3OV9rUnB0Q1lBSWZEeFo0eWdMRXY5N0dpckE5Tlg0ZE12UXlyS1ctN1M1a2pHY1llTmxFRVJYNw?oc=5",
-      "snippet": "Security for Prince Harry's visits to Canada topped all internationally protected persons &nbsp;&nbsp; CBC",
+      "snippet": "Security for Prince Harry's visits to Canada topped all internationally protected persons &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
       "pub": "Wed, 29 Jul 2026 12:20:49 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Ontario rethinking support for federal government’s Alto high-speed rail after Billy Bishop expansion blocked - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONmI3b1NtUkZFNFJrSnJuWUZrUU94eTlGUnZJSTRwc1lnMVhDWkFhV0RRd3RfSkpRdzVBa3VBa2tvYk1tTWU1Y2hjSWpCMTJYZ21zQ2NoWFIxTjFKb3JGdFU4Z25WbmFGT2FwS21FdnZWY1dDb0FySkJmNWZsWnVWZG92RnBsMTRXQ2h5Q0Y0YlRldTNyLVM5akZXMVZ6NXg0SjE0bUc0UEs4SW4zYkRFblcyYTNhU18wLTBPUVdSYjF5VExuT1ZwTm5KbDBoZmdXMFZTTzdDczFpUi1zSlo4ME1GQXlyakpnalNB?oc=5",
-      "snippet": "Ontario rethinking support for federal government’s Alto high-speed rail after Billy Bishop expansion blocked &nbsp;&nbsp; CP24 Doug Ford’s Billy Bishop airport plans won’t fly, Ol",
-      "pub": "Wed, 29 Jul 2026 01:45:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump has singled out us Canadians for special treatment in his tariff war – there is no choice but to get nasty - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeTBWTzd4SHFOVHBtZEg0djl3WEpNZ1gxZEtmU3ZHbUtEdHE5QTkzUUpVdHZ3c05TRlZXanhOaVpCLUdlaTFBdFh3TC1GRWZVS0s4NnlnNG9pc1RUVHo0RDc1dmJQbFIxM0RidTVaMjJyNWtqenpDTERtWGJCLXZtdThLRzMzRDhxaG5kTTJPVzVORS1SMm1XOWFfdV9LN2N6OGxYVlVNOUNRT1RjcnBIUHRFdnRmUDI1UVkyMmRB?oc=5",
-      "snippet": "Trump has singled out us Canadians for special treatment in his tariff war – there is no choice but to get nasty &nbsp;&nbsp; The Guardian Mark McQueen: Why Mark Carney is choosing",
-      "pub": "Wed, 29 Jul 2026 11:01:00 GMT",
       "image": ""
     },
     {
@@ -108,26 +108,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Immigrants to Canada have adopted the country's low-fertility rates, new research finds - National Post",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzlLMURBN0Z4aVc5T3ROeGVFVkZjb0VNdUx3NkhQa1ZIZzI0dWlpTjl4VkdTV202R0xCVGxJRmljYXVMZ3JBSVNOUFlGak1mdEVLaGtVckJFZXlHUDA1cVhSVUM1Y3ZKTFU4aEZNYkJ0eGhsLXdFWXM5a1lyc0liaVNoVFlZdw?oc=5",
-      "snippet": "Immigrants to Canada have adopted the country's low-fertility rates, new research finds &nbsp;&nbsp; National Post",
-      "pub": "Wed, 29 Jul 2026 10:04:16 GMT",
+      "title": "A Peel police officer left her loaded gun in a Mississauga change room — here is the penalty she faces - Brampton Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOTd2WDI3TWhoS3lKSVk3R2JHRW5OV2F5NFJKbi1pb2dHUG1lcklvQlRlaGNiWURleXh5UzdVTGs3YzhSZVNrd0ZnNUZFMW9uQjRxaU8wdjl2NklfeGQ1SEljSVNqTjF4ZXo4d0pZQ21Ldy1jQVVJR2hwUnBxWWVBZmJpWlRYb00xQWpvSFFNZmhUYVJtajV2VFBJUEpPcmMtTC14SGUxR05ITEdycTNod2xEQWd6ZnVoUm5VX1hYOUZYOFBkUkltOTlTbGlzblVHajQxR195VVFZbnAtb0E?oc=5",
+      "snippet": "A Peel police officer left her loaded gun in a Mississauga change room — here is the penalty she faces &nbsp;&nbsp; Brampton Guardian See more headlines & perspectives on Google Ne",
+      "pub": "Wed, 29 Jul 2026 10:30:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Decades in the making, work begins to remove rotten fish sauce from St. Mary's plant - CBC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGdyajQ0YlBIMFhpaTd5S0NBWHJKTE1PYzBBZFp2SnFqajMycTNlb1B6Q2J4ZU5hTlRTQU1oenVZMi1veERmeWt4SU8wUEZlb3gwVXpFQjctUUVWdzE4QVFNOUo4N1dJWU1uQUI1M1dacHJibzRHeXFZUUN0dDRhbGR2TWljTmVpbTJ5MkFxWUpuRkd0?oc=5",
-      "snippet": "Decades in the making, work begins to remove rotten fish sauce from St. Mary's plant &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Wed, 29 Jul 2026 12:43:36 GMT",
+      "title": "New Alberta-Canada infrastructure agreement aims to accelerate housing development - CBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS1dwM2REUElGYUhweU1BRWNETEpETmxGT01uMnhVay1wcWZCNlJSMFBBcGhGS182VXFHNnlEUWNDdWFPQkdkTWpwamdmc0hZLTNSbDZKdHk0d0pTOHF1SFlMUUszeHBxX09qengtVzdHd1BLcnpaMmJKNHRZeHUtY1VSMlhMdVVFakVFZkxpa1RqR05KQ2VzT1R3?oc=5",
+      "snippet": "New Alberta-Canada infrastructure agreement aims to accelerate housing development &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "pub": "Wed, 29 Jul 2026 19:02:24 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canadian National Exhibition says it received 50k applications ahead of job fair - CP24",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV096SnF0cTNHdGNDZVRtZzdqZkJ1SnZmSVpHdkVuWXFlci1ia0NaNUxFR25BbmRtNFU1dnNaMzRQTmM3WTV0dGFiXzhWZVhiZDFaOG1zTFZIaUNJUVdtblBvOUxsa3FaQUZHQUpGOGZob0hWclhwOHBYVkIzbXctWHpTZE1tYmcxZVZrUmlBUnZrRjJVRVNzUlZpY1RmdkVsTWhEN0xDODFNODRYTVB6enJRdmhzMHhZY1lRRDlFUFBOVlFiUHc?oc=5",
-      "snippet": "Canadian National Exhibition says it received 50k applications ahead of job fair &nbsp;&nbsp; CP24 Tattoo fundraiser raises $11K for Humane Society &nbsp;&nbsp; CTV News Toronto yo",
-      "pub": "Wed, 29 Jul 2026 11:14:37 GMT",
+      "title": "St. Mary’s Mayor Thanking All Involved in Getting Toxic Fish Sauce Removed - vocm.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmdkaFVtX2dtTGo0ZVZmNFFOczZIak5CZjNTX1ZhbHpDYWlSbC1GR1JfdmtpS3loMGNRcGdsSFBxTDZNQ1I3OWdJUjlzT2ZaT0FISDdySktLa0YybVEtZUtBdUc4OF9NeHVrTkhkTE53aFc0bTJDRWJXdUFJV0NGNW5GMnpfRkFiWFhtSHI1a2RqYkhaanN4VkZ1WWFPa1l6dW5DTA?oc=5",
+      "snippet": "St. Mary’s Mayor Thanking All Involved in Getting Toxic Fish Sauce Removed &nbsp;&nbsp; vocm.com See more headlines & perspectives on Google News",
+      "pub": "Wed, 29 Jul 2026 09:39:00 GMT",
       "image": ""
     }
   ],
