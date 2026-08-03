@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-03T04:57:26.092043+00:00",
+  "generated_at": "2026-08-03T08:26:18.309634+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "August 3, 2026 – Should Regatta Day align with the Civic Holiday on the first Monday in August?",
+      "link": "https://vocm.com/2026/08/03/august-3-2026-should-regatta-day-align-with-the-civic-holiday-on-the-first-monday-in-august/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13257').",
+      "pub": "Mon, 03 Aug 2026 07:30:27 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/08/royal-st-johns-regatta-2021-js.jpg"
+    },
     {
       "source": "VOCM",
       "title": "NL Optometrists Association Recommends Eye Exams for Infants and Children",
@@ -59,22 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/trans-canada-highway-tch-exit-sign.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Flights Cancelled as WestJet Goes on Strike",
-      "link": "https://vocm.com/2026/08/02/flights-cancelled-as-westjet-goes-on-strike/",
-      "snippet": "The country's second-largest airline has been grounded. Labour action at WestJet has come to pass, and flights are now being cancelled. WestJet usuall...",
-      "pub": "Sun, 02 Aug 2026 09:13:09 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/westjet-airplane-aircraft-aviation-flying-travel.jpg"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Bradley Creek wildfire doubles in size as thousands evacuate in the Okanagan - CityNews Vancouver",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLW05dDdkeGdUZHNxM0otbXJjQ1ZTM1FxVkhsc1hXMzZnRWJRUHk0WUloTEhfZTBVNG0wTnFfaWJrbUx4NzN1VEZtWExzc2F5Y1VPTHF0SlczNFg2WTMxNm1aTmM5Y0k2RExhbjNvNDY2cTFhSGdHU25vX0VqdWNtYVhTQ2RKTzJ2QW4tTTlVNE9ZdXhnQkM0dnZZNmpXLWgzQXpkemhnUnY2YkdRMDlqZmR5ZFV3UWxuMXc?oc=5",
-      "snippet": "Bradley Creek wildfire doubles in size as thousands evacuate in the Okanagan &nbsp;&nbsp; CityNews Vancouver Quilpituk Creek wildfire grows to 200 hectares &nbsp;&nbsp; Castanet La",
-      "pub": "Sun, 02 Aug 2026 23:39:39 GMT",
-      "image": ""
-    },
-    {
       "source": "Google News Canada",
       "title": "B.C. wildfires grow, put more than 5K under evacuation orders in past 24 hours - Global News",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0lUejNRNVRXMWpFU3BFY0NkcURfN25CRFdENzJ2UmF1aV92aE8ycmVuMHlxMGhuNXdEMDZiTXpqQmRtdFhTQ1g2M2tZZ3JFd3RRM1d3U0doeXJYUmx4d0RUaHJuMldnWEFlTFhhNENGYVdsdHc0anY2UGhoMHFJMjFBUQ?oc=5",
@@ -84,34 +76,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Montreal restaurant Nöam gutted in possible arson attack - montrealgazette.com",
+      "title": "Montreal restaurant Nöam gutted in possible arson attack - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3QwVXFObkVoelRBU1VYS1gzQnlMQll4MjBSQkNWdmM2dFp4YnU4T2ZLcmlLR3k0UnBZeHpSa09sTjUxYXJ2djctMGd6UjQ4SlFBMFNWb1hUSFc4a09ZYlJBb3E1QjFueG9uMjZhME9XU3FnUVREN2xxblp1My1nVWtwVE00eWUydm1XOTlsbl9RU0RRcURwd1F4WTBXMTVxN3RQcHJfZl9oWWFkYkpjZk14bk8?oc=5",
-      "snippet": "Montreal restaurant Nöam gutted in possible arson attack &nbsp;&nbsp; montrealgazette.com Montreal police investigate fire that heavily damaged kosher restaurant &nbsp;&nbsp; The G",
+      "snippet": "Montreal restaurant Nöam gutted in possible arson attack &nbsp;&nbsp; Montreal Gazette Montreal police investigate fire at kosher restaurant Nöam &nbsp;&nbsp; CTV News Beryl P. Waj",
       "pub": "Sun, 02 Aug 2026 21:56:29 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Frustration descends on long weekend travellers as WestJet strike brings flights to a standstill - The Globe and Mail",
+      "title": "Trump says new round of Iran talks will begin Monday - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWlOS01PM3h0RHk5ZVNJU3F4anZleTVhNko2ZnhpN0hFcHVfWlhnYTlXVzdTeW85UEFOaFRlUWE4QWo2bmp4ZDBqTFBKNzhpNE1iT3Bvc2lpUHMxTEM2Ry0td3RJd2RNQzhZd1A2RzMxVjM3UVpLLU5WY2RHT1FQc05UMnJMeDdDM0JpLWYyQWppTnpKTDNJ0gGcAUFVX3lxTE41UWl5eVp0bGlPYTJhQkxreUc4NUNnc2NOZ1dtWFNXVEozNmRrZEg0bW10aHpmSkxoTGlEakN2XzBQLWJ4Z20ySW1kWEtlLURhY2NqNFBWOXprWFB2QTVzXzFtS1hacHQxTi1HWm96eGtvdGZ3NTZPMHFkM1Z2bEJySUJuY1lnZGl0Z1htajdUSU04WW1CWVVzeEN4eQ?oc=5",
+      "snippet": "Trump says new round of Iran talks will begin Monday &nbsp;&nbsp; Al Jazeera Trump suggests new talks with Iran to begin on Monday &nbsp;&nbsp; BBC CNBC Daily Open: Back to the neg",
+      "pub": "Sun, 02 Aug 2026 23:51:13 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Frustration descends on long weekend travellers as WestJet strike brings flights to a standstill - theglobeandmail.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQld3UGxiWVJTRG1Kb0lkeDRFLXdsSUxEa2JkbFFKSktMamd3NTFnMllfV1NHeHR5SlZxU1NWYjlCUGtwdXpMUGJURjZTQWpWS0hWeF9IaG1vdGFOLWo5TVliSnhtOFZZR05INTczb1VTdkROOEhSSXVyOFNqQXBjYlY2eFBwcFExbDJlYkV5SDNfbW96UHRfLVFqVTBJWV9uZmt4R1hjeGR2OTJNa19pYTlxbw?oc=5",
-      "snippet": "Frustration descends on long weekend travellers as WestJet strike brings flights to a standstill &nbsp;&nbsp; The Globe and Mail WestJet strike: Airline and union negotiate while f",
+      "snippet": "Frustration descends on long weekend travellers as WestJet strike brings flights to a standstill &nbsp;&nbsp; theglobeandmail.com WestJet flight attendants on strike as union says ",
       "pub": "Mon, 03 Aug 2026 00:51:25 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Man succumbs to injuries after being pinned under vehicle in parking lot - CP24",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZkx4Y2ZIcUhBQ1RNQmIzRGRybllBdE8tMFozbnhraDRjbVpkU1JfeHBOR0V1cmc5c3lFaWtvVlUzc0hVa2dWX0NwU2FVOW1zLS1EWkVaS2I3eDNBQy0wUDNxSF9DbHliVDJ1M1JUdWxTZzlhMW1YZ2dRVUNuSXpJSnRyeEFyMm5Ta2hYeWdLb2JnVlpIOC04QTQ3eHIxQmVPaUExWjhpclpwTE1FQlVZUWxSdw?oc=5",
-      "snippet": "Man succumbs to injuries after being pinned under vehicle in parking lot &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
-      "pub": "Mon, 03 Aug 2026 01:48:00 GMT",
+      "title": "Wildfires knock out power, gas pumps, EV chargers east of Revelstoke - Castanet",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWVGYnRlT2FVbUg3RkU5T2VwSDNzMkYtdklrQ3o2aUFCcGYzZFNndXhvLTZ4TzU2MHV4ZkViQU01MlZQZUhSQ0o2ZFYyMFNuUmFYWThxV1dYbTd2aFMxYlYya1NXY1ZsODlvQVFkSHRjT2dlUUUyazQ1OWF1cmhxVlJ2bGNScE1RU0l1Qk1UTmE5Z3BhOUxYVW45dU5oYkNPUDFWQk9MclFtdw?oc=5",
+      "snippet": "Wildfires knock out power, gas pumps, EV chargers east of Revelstoke &nbsp;&nbsp; Castanet BC Hydro reports 'extensive damage' to infrastructure from Bradley Creek wildfire &nbsp;&",
+      "pub": "Mon, 03 Aug 2026 01:24:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump suggests new talks with Iran to begin on Monday - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40Y09LMUJHY2x5bzRGNXU4emF0RVpyckR3VjNPWnNJRzhYNUhpYzVUR1FUZkRqdWNfSmgyN1FUUlVGZUE5S2pJckxmaU90LTF0aTFpbXFBeHhDdw?oc=5",
-      "snippet": "Trump suggests new talks with Iran to begin on Monday &nbsp;&nbsp; BBC Opinion | Trump’s Latest Iran ‘DEAL’ &nbsp;&nbsp; WSJ Oil drops over 4% as Middle East tensions ebb on diplom",
-      "pub": "Mon, 03 Aug 2026 00:11:18 GMT",
+      "title": "Lakeside homes destroyed, evacuations expanded as B.C. wildfires surge - thecanadianpressnews.ca",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdUZubVlyVFUyZDNPaXV0MWVZWXdTQWxEbXh2b1ViMkNzRWlsS1duWUtNejhveWFTSkhzc0lyQ0VQNDc0UE5SeFBacWdzb3lFSE15b3RhdVJXdUNlZmotOHg5cmJnd2xDSEhjRFFCLVVuQ0RMRHE0UVhKS041RVNYOFVwYlZvNmpjeHBWQUZydzJzN0pacFpjQTFQMFp5ckJsMnEzSjhTVDY1eXp4VXR0OXRYcTlsLWU4VHdIVG93NDFvQjg5RHNMNnNMVnN5QTlfYWF3T3ZfblhNTWNVMlY4Uk5kc3RmYU1DMi0ycjZYeEw1UzY1dHRUVUhPTTBZQQ?oc=5",
+      "snippet": "Lakeside homes destroyed, evacuations expanded as B.C. wildfires surge &nbsp;&nbsp; thecanadianpressnews.ca 'We're all pretty stressed out': Residents in B.C.'s Okanagan flee fast-",
+      "pub": "Mon, 03 Aug 2026 05:10:16 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "BC Hydro reports 'extensive damage' to infrastructure from Bradley Creek wildfire - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnpQWDFucDBXS3k0a21LcXJKanVXVEtMRE1RVDZLVFVfdHpWdU9pZFlWTDVNUTI3ZC1JdElzdG9mU3E3VEk3S1NVUG93TnB6VTdpV2s0bVRCd0dsX2cyT1FXSHY2RnZza2hBOXFja2hSUXN4TjRVcGZienVpVjAtR0hKSXliRFVobkpTRVU1YXBoUkN3X0RraGVrWXJJamE5bUZ3cUhzNkNuSm1ZWDN6dEpLTmJ5NTZvNklRQ05oZVg?oc=5",
-      "snippet": "BC Hydro reports 'extensive damage' to infrastructure from Bradley Creek wildfire &nbsp;&nbsp; Castanet Power outages prompt Columbia Valley residents to conserve water &nbsp;&nbsp",
-      "pub": "Mon, 03 Aug 2026 00:14:00 GMT",
+      "title": "Man succumbs to injuries after being pinned under vehicle in parking lot - CP24",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWEzNXFIbXJSWks3MGZJTk1OZnNoa1JrN1FjN1dpTmlydjhPMUF4UFJzcGx3WDJSVlh2WDMxU1NuWk51RXFOLXU0SXBDY2dvLXZGQWRZWjBGbndfclh4Zl9CVTBqVXNyb19uaDh1Wl8zNnZLQUYwRHRGeXRpb0tjbThuRC0tTVJJSDY5STVrOUI1OVItLUUzTmVIb2JodEctQmRPM2pTY3IxclpRMHFTOE04NzJqWWIyaFRJ?oc=5",
+      "snippet": "Man succumbs to injuries after being pinned under vehicle in parking lot &nbsp;&nbsp; CP24 Man dead after being struck in Downsview Park parking lot after concert &nbsp;&nbsp; thes",
+      "pub": "Mon, 03 Aug 2026 01:48:00 GMT",
       "image": ""
     }
   ],
