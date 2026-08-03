@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-03T11:53:33.084782+00:00",
+  "generated_at": "2026-08-03T14:18:10.718788+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Ottawa Announces Funding for Two Burin Peninsula Harbours",
+      "link": "https://vocm.com/2026/08/03/305958/",
+      "snippet": "The federal government is going to spend money on two key harbours on the Burin Peninsula. It allocated close to $1-billion in last spring's budget fo...",
+      "pub": "Mon, 03 Aug 2026 14:00:19 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/small-craft-harbours-annc-joanne-thompson.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "RNC Seeking Witnesses Following Another Child Hit-and-Run",
+      "link": "https://vocm.com/2026/08/03/rnc-3/",
+      "snippet": "The RNC is looking for witnesses following a hit-and-run involving a 12-year-old child. The incident occurred Wednesday afternoon when police say the ...",
+      "pub": "Mon, 03 Aug 2026 12:29:14 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rnc-hq.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Fortis Earnings Rise Significantly in Q2",
+      "link": "https://vocm.com/2026/08/03/fortis-earnings-rise-significantly-in-q2/",
+      "snippet": "Earnings are up at electric and gas utility Fortis, which is based in St. John's and is the parent company of Newfoundland Power. Second quarter earni...",
+      "pub": "Mon, 03 Aug 2026 12:07:11 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/05/fortis-inc-building-downtown-st-johns.jpg"
+    },
     {
       "source": "VOCM",
       "title": "CUPE, WestJet Reach Tentative Agreement; Strike Ends",
@@ -43,38 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/05/WestJet-Plane-Jet-Landing-Gear.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Two Vehicles Impounded in St. John’s After Drivers Caught Without Insurance or Valid Licences",
-      "link": "https://vocm.com/2026/08/03/305938/",
-      "snippet": "Two drivers in the capital city are without their vehicles today after being caught driving without proper credentials yesterday. The RNC pulled over ...",
-      "pub": "Mon, 03 Aug 2026 09:07:53 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-5.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "August 3, 2026 – Should Regatta Day align with the Civic Holiday on the first Monday in August?",
-      "link": "https://vocm.com/2026/08/03/august-3-2026-should-regatta-day-align-with-the-civic-holiday-on-the-first-monday-in-august/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13257').",
-      "pub": "Mon, 03 Aug 2026 07:30:27 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/08/royal-st-johns-regatta-2021-js.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "NL Optometrists Association Recommends Eye Exams for Infants and Children",
-      "link": "https://vocm.com/2026/08/02/305802/",
-      "snippet": "The NL Optometrists Association is recommending eye exams for children starting as young as six months to a year in order to identify and address any ...",
-      "pub": "Sun, 02 Aug 2026 16:08:31 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/dr-ariel-hannaford-newfoundland-and-labrador-association-of-optometrists-nlao.jpg"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "WestJet, CUPE reach tentative deal to end strike by flight attendants, airline says - CBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TWjFVcXlCeENJTklod1pSRTU1Sm1oc01uOWxXVnJnZXhCNVhaRXZ4aU9rZFlCSlNqazhRY3pOTzJZRjRaV3VONDNKMmNROGthU25HUlRWb0hPTVhVNkpzbThKM3FNcDdGLTM0MlJpQ2dVelhtRFQtTXRpa2FPRDA?oc=5",
-      "snippet": "WestJet, CUPE reach tentative deal to end strike by flight attendants, airline says &nbsp;&nbsp; CBC WestJet, CUPE reach tentative agreement, ending operational disruptions &nbsp;&",
-      "pub": "Mon, 03 Aug 2026 11:17:19 GMT",
-      "image": ""
-    },
-    {
       "source": "Google News Canada",
       "title": "B.C. wildfires grow, put more than 5K under evacuation orders in past 24 hours - Global News",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0lUejNRNVRXMWpFU3BFY0NkcURfN25CRFdENzJ2UmF1aV92aE8ycmVuMHlxMGhuNXdEMDZiTXpqQmRtdFhTQ1g2M2tZZ3JFd3RRM1d3U0doeXJYUmx4d0RUaHJuMldnWEFlTFhhNENGYVdsdHc0anY2UGhoMHFJMjFBUQ?oc=5",
@@ -84,10 +76,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump says new round of Iran talks will begin Monday - aljazeera.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWlOS01PM3h0RHk5ZVNJU3F4anZleTVhNko2ZnhpN0hFcHVfWlhnYTlXVzdTeW85UEFOaFRlUWE4QWo2bmp4ZDBqTFBKNzhpNE1iT3Bvc2lpUHMxTEM2Ry0td3RJd2RNQzhZd1A2RzMxVjM3UVpLLU5WY2RHT1FQc05UMnJMeDdDM0JpLWYyQWppTnpKTDNJ0gGcAUFVX3lxTE41UWl5eVp0bGlPYTJhQkxreUc4NUNnc2NOZ1dtWFNXVEozNmRrZEg0bW10aHpmSkxoTGlEakN2XzBQLWJ4Z20ySW1kWEtlLURhY2NqNFBWOXprWFB2QTVzXzFtS1hacHQxTi1HWm96eGtvdGZ3NTZPMHFkM1Z2bEJySUJuY1lnZGl0Z1htajdUSU04WW1CWVVzeEN4eQ?oc=5",
-      "snippet": "Trump says new round of Iran talks will begin Monday &nbsp;&nbsp; aljazeera.com Trump suggests new talks with Iran to begin on Monday &nbsp;&nbsp; BBC Trump says new Iran negotiati",
-      "pub": "Sun, 02 Aug 2026 23:51:13 GMT",
+      "title": "Blanche formally withdraws Trump fund plan, ahead of AG confirmation vote - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TdXVOT0NQMlg3eFo0OTV3RlJhYzg1VVpSeEZ0N0VZdm0tcDJveUVERG10Y0lobWZnT0pONlBLZE9vOEd5MmlnS2FlOUFSX2d5TlNfaWp5ZE5TQQ?oc=5",
+      "snippet": "Blanche formally withdraws Trump fund plan, ahead of AG confirmation vote &nbsp;&nbsp; BBC Acting U.S. Attorney General Blanche revokes ‘anti-weaponization’ fund before key Senate ",
+      "pub": "Mon, 03 Aug 2026 11:07:13 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Biwei Zhang: Retracing the steps of the alleged NATO spy in Canada - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0VXb0ZNWVZuMGM5aHI5bG5VaWJURW9QZnU4TzRMNGlZRzNCTHlhekF0OWlJZG5JeG9MNVYwSEVxaDE5eGNLOGV6N3lZRHJKaDFrNTUwa2RtdzR1WDlraF9ua3RMT1duWTlpVW5aWFdWNmJrQWcxNVFtd0FuY0JGYlpDSnFYeW1qYTV0b1VZV3FGZGlhNVBF?oc=5",
+      "snippet": "Biwei Zhang: Retracing the steps of the alleged NATO spy in Canada &nbsp;&nbsp; CTV News Arrested NATO intern has history of fraud, was ordered to take ethics course &nbsp;&nbsp; T",
+      "pub": "Mon, 03 Aug 2026 09:00:00 GMT",
       "image": ""
     },
     {
@@ -95,23 +95,31 @@
       "title": "Montreal mosque damaged after vehicle fire spreads to building - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDA5Ym9hT2JCOG9jdzhjdHJkRXBVRG5zQzNuaXN4LXBpUUQwdUNKcWNkekdkMXhTVmlZNWY4UlhZWWdCNTlPeGI2MFlNS2hiY2ZDR3RIV0JFam8wRGRuRDhldjNSbjFfZjVQVGVnZ3poZEJTOUw4T01ZbF9ZaTlHb1R5X0lNa082QXRNMlRRSi1oV3BMR3IzdHZaZDg?oc=5",
       "snippet": "Montreal mosque damaged after vehicle fire spreads to building &nbsp;&nbsp; Montreal Gazette",
-      "pub": "Sun, 02 Aug 2026 20:43:09 GMT",
+      "pub": "Mon, 03 Aug 2026 13:38:12 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Popular kosher restaurant in Montreal destroyed in apparent arson attack - National Post",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVV8wRDR3VFFFLWJGRWpmU0paczV5R2RTR0FTM1ZoQjRqMW5UTjNubmltRkJMc1VfcnhwYjdUa1g1SHYxYjczeG05bW4xODI3akVlbFI0ZTRhY18zazJVWERBS1V1bFRzQ3g4VVhQY2VNZ0tETVZmdVJVY0NoT1VJd2ZPYUN1NXFhTEdCTllzRy1vQXpzQjFjdlg3aTd4ZHhZZlE?oc=5",
-      "snippet": "Popular kosher restaurant in Montreal destroyed in apparent arson attack &nbsp;&nbsp; National Post Montreal police investigating suspicious fire at kosher restaurant &nbsp;&nbsp; ",
-      "pub": "Sat, 01 Aug 2026 19:21:19 GMT",
+      "title": "Bradley Creek wildfire doubles in size as thousands evacuate in the Okanagan - CityNews Vancouver",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLW05dDdkeGdUZHNxM0otbXJjQ1ZTM1FxVkhsc1hXMzZnRWJRUHk0WUloTEhfZTBVNG0wTnFfaWJrbUx4NzN1VEZtWExzc2F5Y1VPTHF0SlczNFg2WTMxNm1aTmM5Y0k2RExhbjNvNDY2cTFhSGdHU25vX0VqdWNtYVhTQ2RKTzJ2QW4tTTlVNE9ZdXhnQkM0dnZZNmpXLWgzQXpkemhnUnY2YkdRMDlqZmR5ZFV3UWxuMXc?oc=5",
+      "snippet": "Bradley Creek wildfire doubles in size as thousands evacuate in the Okanagan &nbsp;&nbsp; CityNews Vancouver 'We're all pretty stressed out': Residents in B.C.'s Okanagan flee fast",
+      "pub": "Sun, 02 Aug 2026 23:39:39 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Lakeside homes destroyed, evacuations expanded as B.C. wildfires surge - thecanadianpressnews.ca",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdUZubVlyVFUyZDNPaXV0MWVZWXdTQWxEbXh2b1ViMkNzRWlsS1duWUtNejhveWFTSkhzc0lyQ0VQNDc0UE5SeFBacWdzb3lFSE15b3RhdVJXdUNlZmotOHg5cmJnd2xDSEhjRFFCLVVuQ0RMRHE0UVhKS041RVNYOFVwYlZvNmpjeHBWQUZydzJzN0pacFpjQTFQMFp5ckJsMnEzSjhTVDY1eXp4VXR0OXRYcTlsLWU4VHdIVG93NDFvQjg5RHNMNnNMVnN5QTlfYWF3T3ZfblhNTWNVMlY4Uk5kc3RmYU1DMi0ycjZYeEw1UzY1dHRUVUhPTTBZQQ?oc=5",
-      "snippet": "Lakeside homes destroyed, evacuations expanded as B.C. wildfires surge &nbsp;&nbsp; thecanadianpressnews.ca 'We're all pretty stressed out': Residents in B.C.'s Okanagan flee fast-",
-      "pub": "Mon, 03 Aug 2026 05:10:16 GMT",
+      "title": "WestJet, union reach tentative deal to end strike by flight attendants - CBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TWjFVcXlCeENJTklod1pSRTU1Sm1oc01uOWxXVnJnZXhCNVhaRXZ4aU9rZFlCSlNqazhRY3pOTzJZRjRaV3VONDNKMmNROGthU25HUlRWb0hPTVhVNkpzbThKM3FNcDdGLTM0MlJpQ2dVelhtRFQtTXRpa2FPRDA?oc=5",
+      "snippet": "WestJet, union reach tentative deal to end strike by flight attendants &nbsp;&nbsp; CBC WestJet strike ends after tentative deal reached &nbsp;&nbsp; Global News WestJet, CUPE reac",
+      "pub": "Mon, 03 Aug 2026 13:53:46 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Showers Penned for Regatta Day on Wednesday - VOCM",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yYUEweWN3Z3lSSExDQ1IzaV90enkzZ3BFZjd1M2pnb0RFWXcwMk1oRm1BdlkzU215aUJQNEhJUnlnSEVaOWlkZXJ0aw?oc=5",
+      "snippet": "Showers Penned for Regatta Day on Wednesday &nbsp;&nbsp; VOCM Civic Holiday for Most Today, St. John’s Waits for Regatta Day &nbsp;&nbsp; VOCM Royal St. John's Regatta goes digital",
+      "pub": "Mon, 03 Aug 2026 10:52:00 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWG93NjUyNlk4c2ZQQ3FsNWdaeV9KTXJWRHlVcnU1NGtDYXQ3TUYyUUpjcFZaUnBzNjlfSFQ5X0RRNWJIeW9EeUdNRGdVazhwZ2d4ajNJLUFXUVFiVkRVUDF3bkd4MlJrUGJUbVJjcmdsRHhSR3AxODBOS1UxZWtMMzV2U0RsS3VLdEUzNGUwTmx0aEVqZEJ5QVRnQ2VTQQ?oc=5",
       "snippet": "Wait times for hip and knee replacements in Nova Scotia now shortest on record &nbsp;&nbsp; CBC",
       "pub": "Mon, 03 Aug 2026 09:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Power outages in B.C.’s East Kootenay region due to wildfire smoke, storm damage - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0cyVDNudWJZYzNxUmJFOWNEUEVBRHBJS1lIMHVibU15eUx5bm5hWmx5RnBTS1FkcWtLUTc2cFRXbWF6c1NfV3c3V25LNTdzRlNQUTUtbWZKVGxkY2hvN2p3bDhwWkxLTzFyRHFOblFjNUZDQXN4dXBkRjJFb1lZOVhxQjJhWFZWZm16elVLYTJYYkd5NXk4a3BRMEFIVzlQampOQk4xOWxSZDZ1UzFUUEc3VHJUYzNXRGc?oc=5",
-      "snippet": "Power outages in B.C.’s East Kootenay region due to wildfire smoke, storm damage &nbsp;&nbsp; CTV News Wildfires knock out power, gas pumps, EV chargers east of Revelstoke &nbsp;&n",
-      "pub": "Sun, 02 Aug 2026 21:19:34 GMT",
       "image": ""
     }
   ],
