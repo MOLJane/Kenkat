@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-04T05:40:50.921844+00:00",
+  "generated_at": "2026-08-04T08:23:12.060082+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "August 4, 2026 – Rogers TV announced it will not provide regatta coverage this year. Do you follow along with the races at home?",
+      "link": "https://vocm.com/2026/08/04/august-4-2026-rogers-tv-announced-it-will-not-provide-regatta-coverage-this-year-do-you-following-along-the-races-at-home/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13260').",
+      "pub": "Tue, 04 Aug 2026 08:00:13 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/07/royal-st-johns-regatta-time-trials.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Sierra Club Would Like to see NL Join Maritime Electricity MOU",
@@ -59,75 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/05/fortis-inc-building-downtown-st-johns.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "CUPE, WestJet Reach Tentative Agreement; Strike Ends",
-      "link": "https://vocm.com/2026/08/03/cupe-westjet-reach-tentative-agreement-strike-ends/",
-      "snippet": "WestJet and its unionized flight attendants have reached a deal to end their strike. Flights were grounded over the weekend after roughly 4,400 flight...",
-      "pub": "Mon, 03 Aug 2026 11:05:02 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/st-johns-international-airport-terminal-travel-vacation-westjet-bag-drop-counter.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Okanagan wildfires force more evacuation orders as First Nation assesses losses - Global News",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdDQ5RVVLalFiYzNoQms5LXhWRTNIaWNYMXQ2NzcybFpRelpJVmhHcGJWOURqU2xBR1pyNmVBTE53bDlKZzFxMkNUNS1iZnhUMVo0MkhMUURfeGEwTXJGNFd2d2dQOEZkTHkxcUFzTm1ESXh0aUxXb3dNNXpQQ3p1UGxza0lScDZoUTFBbzlTQm5KNWhCOV9HVmFhU08tWG5md0NQbXMxMXR2bmRJQzJlbU9ka2hMY28?oc=5",
-      "snippet": "Okanagan wildfires force more evacuation orders as First Nation assesses losses &nbsp;&nbsp; Global News City of Armstrong rescinds evacuation alert due to Bradley Creek wildfire &",
+      "snippet": "Okanagan wildfires force more evacuation orders as First Nation assesses losses &nbsp;&nbsp; Global News Crews continue to battle 565-hectare wildfire south of La Casa &nbsp;&nbsp;",
       "pub": "Mon, 03 Aug 2026 20:39:57 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Search and rescue called after reports plane crash into water in Chilliwack - Abbotsford News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWtkUDg4RFQtMThha2ZkRHl5RGpQb3VGR2E0czdXa2JJZnFyTnJMYjZlZW9PbHl0Zk9STDVKTi1ENUFYbm4yMkZMSGZ2dzBvTkdneTJ4LVRHVExBRE5qTEZaV29jSzh6cEhmMkk5UnpQOHVFVk5RRVVLZ0p0RmJsb21IREZUYXJlNWhuamcwYjctSndJUTBJYlVyd2NpOU5pWG10N1czbEYxblFy?oc=5",
-      "snippet": "Search and rescue called after reports plane crash into water in Chilliwack &nbsp;&nbsp; Abbotsford News",
-      "pub": "Tue, 04 Aug 2026 01:03:25 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada urged to protect Sikh activist with credible threats to life by UN experts - CTV News",
+      "title": "Canada urged to protect Sikh activist with credible threats to life by UN experts - ctvnews.ca",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWFWNDMtblNoeTVEeE9PRGpLX25STmdQVmFpN0k3QTM5YmlRaFRfNEVxTGp5OTFwcDByNTlCMzFaNFBiNVQzcWZ1cmphbVZOZ0NERXI0YnR0bUZpMGdiY0hNSkE2eG9WZmJkclhLc0hyclFTbGZWNGNPOS1yRWhhVHZHbjVLbUhtX3NkcWdST3E3amxIeEMwQTI0emZhQlBFT0J4VjFvaEUzNUJUMUpfZzVjdFV1aG15aXF0TQ?oc=5",
-      "snippet": "Canada urged to protect Sikh activist with credible threats to life by UN experts &nbsp;&nbsp; CTV News UN rapporteurs concerned India may be behind threats to Canadian activist &n",
-      "pub": "Mon, 03 Aug 2026 19:50:38 GMT",
+      "snippet": "Canada urged to protect Sikh activist with credible threats to life by UN experts &nbsp;&nbsp; ctvnews.ca UN rapporteurs concerned India may be behind threats to Canadian activist ",
+      "pub": "Mon, 03 Aug 2026 21:23:43 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump warns Tehran facing 'last chance before decapitation' - Euronews",
+      "title": "Trump warns Iran facing 'last chance before decapitation,' says negotiations are ongoing - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVNvNHRhdmhhYXZPaVoyRmhzbEZfQTR5aDg1Y1pfQnpPWmprbHpwcUl1bUtPeEM2LW10Y3BqSVlNN3dGX3g2UTdjWmlWRVZjdG9uelFjZHRjZ0hRZERSTVBieDZiMzc3bnZFR1lldDlfSVVWWHVqcE1yblFla2hKeHdvTm5KVWtfU3h4Q3ZudXZRM0p6aEtCYw?oc=5",
-      "snippet": "Trump warns Tehran facing 'last chance before decapitation' &nbsp;&nbsp; Euronews Iran war live: Tehran denies US talks as Trump warns of ‘last chance’ &nbsp;&nbsp; Al Jazeera Aug ",
+      "snippet": "Trump warns Iran facing 'last chance before decapitation,' says negotiations are ongoing &nbsp;&nbsp; Euronews.com Trump meets his obstinate match in Iran’s hardball regime &nbsp;&",
       "pub": "Mon, 03 Aug 2026 20:26:42 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "St. Catharines, Ont. declares state of emergency after flooding following second rain storm in a week - CP24",
+      "title": "Conservative infighting could be trouble for Poilievre: ‘he just needs to demonstrate some wins,’ say party strategists - The Hill Times",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUWFCQjlxVnctbThicHg5clFLZjFoTUE3Wkl4QzJQaWV4Y2t3NmFUcEFnYkQ3UUVyZjZZRW5NMDZmcTNPX2pNclg2NTBVWkJNaTBVcDRXTUNmQU5ZNXlIRnNQckgwQzc1YUpwdlBJRGxrb2Q0cjlYT1U4UXROOVp0amYyUmlvU2ZDN2c1MWRiOWdlc0c3RzRWc0tkZkNLdmhMdE9tOTdpdXFGeWF5clR6aC05Z2I0SXVLM2w2ekVzOW9UeU8yNjBVS0duZVJiamQwb05ucVVlVUROd3V2V1Joc0lUSlFTNVM1ZGpQOU0wbVZCUQ?oc=5",
+      "snippet": "Conservative infighting could be trouble for Poilievre: ‘he just needs to demonstrate some wins,’ say party strategists &nbsp;&nbsp; The Hill Times Talk of Conservative 'infighting",
+      "pub": "Mon, 03 Aug 2026 05:05:54 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Charred homes, burned out cars - before and after images show Spokane wildfire destruction - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45aTByaFBQR0tsWWxfakdVdm9kaU5FM2JnenBqX3V6MlpVSDZ6OE5zWjR4dTA0T09OX3pSSmhOSVJGby1oRlcyaFZEeWZ0NzVaTEFmQkpiUQ?oc=5",
+      "snippet": "Charred homes, burned out cars - before and after images show Spokane wildfire destruction &nbsp;&nbsp; BBC Authorities arrest arson suspect in connection with one of Spokane’s dev",
+      "pub": "Mon, 03 Aug 2026 21:23:42 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "St. Catharines, Ont. declares state of emergency after flooding following second rain storm in a week - cp24.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUnNHNEc3cUJSaEtoMTF2U0JIdFpYTC1DX1NhMnRnRF93RGcyaVk2ajhwYndLQlliam9IZ3EtM2h1eFdjSHMyaXhCS3Y1NzBubWw5aUU0TGxPZDYzc0RaY0c5SFRpdkNRNHJpN2V2cWFhU3ljajBKeTBvaXJxWHJWRkduemZxVFlmdDYwU1NkTWx2ZjRKYVpYQjFtd3dJQUhPQ08yX0tsS0xJY21rUTNNZS10WXE4VUxXMnRLdWtFZkxPQ3pSdFFia1d0RVNjTWFZX0hBWnBWX2NtS2ZPeHc?oc=5",
-      "snippet": "St. Catharines, Ont. declares state of emergency after flooding following second rain storm in a week &nbsp;&nbsp; CP24 St. Catharines, Ont., declares state of emergency after back",
+      "snippet": "St. Catharines, Ont. declares state of emergency after flooding following second rain storm in a week &nbsp;&nbsp; cp24.com St. Catharines, Ont., declares state of emergency after ",
       "pub": "Mon, 03 Aug 2026 18:37:47 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "4 dead, 4 injured after crash on Calgary's Stoney Trail - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVGFfbGdFRk53TGU2YVE3T1prM1dzYmNMcDR3ZXFCc3FhTHdnSWtWTTdhaWgxb0tVSHd5VTlVa2x5SFE2RXFKWHhNUGVXbi1wZVVfQ2F2bUNkUG11U3d4cEpiVGZpSDRTM29uMFNsd3NDSHhSbEFta2xqWkRjR2NzUHRR?oc=5",
-      "snippet": "4 dead, 4 injured after crash on Calgary's Stoney Trail &nbsp;&nbsp; CBC Child among 4 dead, several injured after multi-vehicle crash along Stoney Trail: police - Calgary &nbsp;&n",
-      "pub": "Mon, 03 Aug 2026 22:27:36 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Seven more belugas on the move from Marineland to U.S. aquarium - CP24",
+      "title": "Seven more belugas on the move from Marineland to U.S. aquarium - cp24.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaFJnNVRZYkZlYWVLRVVGc3RmN2gxMWRLSlN0dHlzUkVGalNPb0tCX2hBS0xxeGhSZ09UTUEwcENsaHZ1aFRVaEtvSTVDOWxTeFN1czZIanJMX3dmTmpZcThSeG9DUjd0UWNiS2FhWndrVC1GSWFzdXZaQTNEcG9lc1p2ZzlVTzYyYWZsNUNIRk91a2lLVFlhaGt5X3UtM2pxVVVNaTF6WTZxN0dh?oc=5",
-      "snippet": "Seven more belugas on the move from Marineland to U.S. aquarium &nbsp;&nbsp; CP24 More belugas from Marineland in Niagara Falls, Ont., head to new home in U.S. &nbsp;&nbsp; CBC Aqu",
+      "snippet": "Seven more belugas on the move from Marineland to U.S. aquarium &nbsp;&nbsp; cp24.com Aquariums Are Relocating 30 Beluga Whales in ‘Unprecedented’ Rescue &nbsp;&nbsp; The New York ",
       "pub": "Tue, 04 Aug 2026 00:42:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Rebuilding Continues One Year After CBN Fire - VOCM",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PQ3dITDZnZXhkZ2ZUa3d2NlNCVWk4R1RUemdBdjA1S2ZlNWp1bmUtblZWSWc1WGR2blNxY0xVcDNpcy1WWHh6bXZhYw?oc=5",
-      "snippet": "Rebuilding Continues One Year After CBN Fire &nbsp;&nbsp; VOCM A year after the fires, devastated Conception Bay North communities are slowly rebuilding &nbsp;&nbsp; CBC One year l",
-      "pub": "Mon, 03 Aug 2026 10:10:00 GMT",
+      "title": "Four dead, including child, in wrong-way crash on Stoney Trail - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc01KNC1KUWtzbXJPeXROMW9qN2ZKWnpsTTEzXzZRb0FsLVpsWUdodG1tMTk1Q2o2RHp1ZGVVRkZqTHVJdFd3ZHN2c0lmd3RvNExHQTZLWld0dk9FVXNhZV8xYmlzUDYtM3ZBUXhsVVZSdl9Ra3lwRlp5WVlKa3JHM3BoaHhvRG0wcmxsQQ?oc=5",
+      "snippet": "Four dead, including child, in wrong-way crash on Stoney Trail &nbsp;&nbsp; Calgary Herald Child among 4 dead, several injured after multi-vehicle crash along Stoney Trail: police ",
+      "pub": "Mon, 03 Aug 2026 20:06:23 GMT",
       "image": ""
     }
   ],
