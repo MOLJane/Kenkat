@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-06T12:26:05.369850+00:00",
+  "generated_at": "2026-08-06T14:43:52.027944+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Welcome Sign Headed Downtown for Temporary Display",
+      "link": "https://vocm.com/2026/08/06/306267/",
+      "snippet": "The City of St. John's is taking a second shot at putting up a controversial welcome sign at a new location. Plans to erect the sign in Bannerman Park...",
+      "pub": "Thu, 06 Aug 2026 14:00:41 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/city-landmark-sign.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Tribunal Upholds Suspension of NL Nurse Over Medication Practices",
+      "link": "https://vocm.com/2026/08/06/306262/",
+      "snippet": "A registered nurse in the eastern urban zone has been found guilty of conduct deserving of sanction by the regulatory body. Newfoundland and Labrador ...",
+      "pub": "Thu, 06 Aug 2026 13:46:08 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/07/pills-generic.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Senior Soccer Playoffs Get Underway Tonight",
+      "link": "https://vocm.com/2026/08/06/306264/",
+      "snippet": "The senior men's and women's soccer championships kick off this evening at King George V. The undefeated Holy Cross women's team will take on the CBS ...",
+      "pub": "Thu, 06 Aug 2026 12:44:42 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/05/King-George-5th-Field-for-the-Womans-Soccer-Jubilee-Trophy-Gold-1.jpg"
+    },
     {
       "source": "VOCM",
       "title": "GoFundMe Launched for Local Musician Paul ‘Boomer’ Stamp as He Faces Cancer Battle",
@@ -43,91 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-patch.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Province Offering up $10K to Rowing Crews Who Claim Triple Crown",
-      "link": "https://vocm.com/2026/08/06/province-chips-in-10k-for-rowing-crews-who-claim-triple-crown/",
-      "snippet": "The provicial government is becoming financially involved in the Royal St. John's Regatta by offering an incentive for crews to strive toward winning ...",
-      "pub": "Thu, 06 Aug 2026 09:49:16 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/regatta-winds-2026.jpg"
+      "source": "Google News Canada",
+      "title": "Senate committee holds Anthony Fauci in contempt of Congress – live - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZDlNZ2p5b2trMGtSdEZNLXNySC1YdXU3MC12NEhvcDhiRHhuQ2xZQ251V2JDSlFfdWxsZzNveXF1RzhUVVEtc3g2NUZaMmZibzBEQjItZ3NaWDdyWVpVR3RxVHpyeWQ3S0xJbUdad2JGQVpoNW5YaVFvV0hxek9ZbUFyVTAySHFNd3VSbi00Yy1qaVlsXzE4cFAxVGJlQXBfY3lRdElNS1h4QVcta0E0MUJpVFpiWnNMNjcwcUFTTGFrbm1EM3RZclM1NXVMa2o1TWloS24wVmRRYlZBaHNHQlhzUjNleE90Y0lLOHU5TTBoWkNfaFE?oc=5",
+      "snippet": "Senate committee holds Anthony Fauci in contempt of Congress – live &nbsp;&nbsp; The Guardian US Senate committee votes to hold Fauci in contempt &nbsp;&nbsp; BBC Live updates: Sen",
+      "pub": "Thu, 06 Aug 2026 10:44:00 GMT",
+      "image": ""
     },
     {
-      "source": "VOCM",
-      "title": "bp Explains Reasoning Behind Exit from Bay du Nord Project",
-      "link": "https://vocm.com/2026/08/06/bp-explains-reasoning-behind-exit-from-bay-du-nord-project/",
-      "snippet": "We now have a little more information on bp's exodus from the Bay du Nord project off Newfoundland. It pulled out a few months ago, leaving Equinor as...",
-      "pub": "Thu, 06 Aug 2026 09:32:17 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/08/equnor-bay-du-nord-project-illustration-of-the-floating-production-storage-and-offloading-fpso-unit.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RCMP Vehicles Damaged During Brief Pursuit in Deer Lake",
-      "link": "https://vocm.com/2026/08/06/rcmp-vehicles-damaged-during-brief-pursuit-in-deer-lake/",
-      "snippet": "Police have charged a Deer Lake man after an assault and a brief pursuit which resulted in damage to two RCMP vehicles. Alan Renouf is currently in cu...",
-      "pub": "Thu, 06 Aug 2026 09:08:29 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-22.png"
+      "source": "Google News Canada",
+      "title": "Metro Vancouver wildfire prompts evacuation alerts as Fraser Canyon residents go home - Global News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaGF1YkJRZGo2dlU4cXBvV0cya3VJVGlGT1pRbi1BUlBwTGZ1NzRXV283SnpxeGJLRzk4VzF3VWgzNlhjVjEzTGJscm9fTHZDd2xFS3ZyeGs2ZmRaZFloZ01ueUZ5S0hwLXdHT3FtdEtjODh2ZGtVbm1GQXVmMzZlc2tNUnFPNkcwZy1zSHJ4ek8yUklkOGxIVmlEUExXaFh5ZkhRWXRCcGhXbTl1dWpoQ2xwdTczR0JjQXhJcFo4Zw?oc=5",
+      "snippet": "Metro Vancouver wildfire prompts evacuation alerts as Fraser Canyon residents go home &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
+      "pub": "Thu, 06 Aug 2026 12:16:46 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "‘It’s like somebody died’: Okanagan chief mourns homes and memories lost in wildfire - CTV News",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdktwT1AyS050aFljMFZSeTRIZld2NXJ3TVhaeE9qY0tFSi10bWNPY0FrQ2xvZ09pU1dCTmp1clFGcVdnSXJVdmJ0M1NBakxfLWJLbWlQNTNIZUpza3VNSS1YRHhuanBkczRHd281ZS03TmxRTHBGTUVwOGI2YTc1cmtZLTlrNzlIWXpDSWZMTnZSLTdaU2hUZ012VmVRTUlDTTBRMmtZU2dKLVNpUll0ZVBOQmxmbFZpbmJwTENPQTIxZGp0MXBIag?oc=5",
-      "snippet": "‘It’s like somebody died’: Okanagan chief mourns homes and memories lost in wildfire &nbsp;&nbsp; CTV News More properties expected to be placed on evacuation order Thursday mornin",
+      "snippet": "‘It’s like somebody died’: Okanagan chief mourns homes and memories lost in wildfire &nbsp;&nbsp; CTV News B.C. resident lost home to Bradley Creek wildfire: ‘It was all just so fa",
       "pub": "Thu, 06 Aug 2026 00:46:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Explosive drone found at German airport poses ‘new quality of danger’ - Al Jazeera",
+      "title": "Ontario man who pimped out and impregnated a teen sentenced to one more day in jail - National Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcm1ZbVJtWHNHSTZ1ZWFUT2FHRHI2ZkYtZFdQaUpjQ0ZMMUR6N2NXTkRVYUVoa3J3Q1lySFlsaHhMRFpkSzNqLTRjd1Z1dkx0QkhST1ZhVHdkWXFLTXZvTldDcG5NY0hzX1JPNnluU2h2QmJYbi1rVndZV3pfNVFrQy1DUmlKbzVxeWNGeWhqRE9QNV9HcWZBQXYydDJGZERrTlp5c2gyVmQ1NnFBWFZuTVJTMWphbjZJbVRTaA?oc=5",
+      "snippet": "Ontario man who pimped out and impregnated a teen sentenced to one more day in jail &nbsp;&nbsp; National Post",
+      "pub": "Thu, 06 Aug 2026 10:04:24 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Explosive-laden drone found at German airport poses ‘new quality of danger’ - aljazeera.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1dRdlNfY3pKbWt3dnM0UjcweGJzdkFXMkRXOVljU2dHUzJ6cHJzSk9pQ19ZeFZmZGU2cHlGZTlrZ3BjMzBYME9qcVQxYU1nRGdiUjJJdGNoYVlYOVJsVFg0SGRyTDdQSmpleUZwRFEzbW5KcU5PZ2pEMHFSWTJSSzRocE15SE5NUzFqRjE5dUNiMDU3OVdxQUNfQ0VlSWt3WGplN3JFc3B6a1NnVXo2TURYOULSAboBQVVfeXFMTXhuTlByelZfY0NvcUJPMmpnbzJhNG5NMGg1TTBncG5FQzFhQWdxakw2MmdRRkx5bm45RVdnMXhnMEtTM2ZtMk1UOVVpQjl4cGJWM2ZNVDFuc3dfREVQREJWTExfbXdBLVdZcTNobjMzdXJBTm0wRTZ1WmFYSDBHM05YWmczM0l5SW5tcDhBalhqVmhMeE5BMWp6SWRnOXdFakVGdG44UTdVTU5jX0F6eDFlM2JONTJ0RzdR?oc=5",
-      "snippet": "Explosive drone found at German airport poses ‘new quality of danger’ &nbsp;&nbsp; Al Jazeera The Leipzig drone bomb marks a dangerous escalation for Europe &nbsp;&nbsp; The Guardi",
+      "snippet": "Explosive-laden drone found at German airport poses ‘new quality of danger’ &nbsp;&nbsp; aljazeera.com The Leipzig drone bomb marks a dangerous escalation for Europe &nbsp;&nbsp; T",
       "pub": "Thu, 06 Aug 2026 07:49:45 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "NATO intern accused of spying reported working a range of Canadian government jobs - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnU1d1JNcnJzRFBMTlZFdm9FMmMzSUI5UG54cF9UbmFDdS1NRlZLdzA2YUxiazlaVnJ1cjR3N0tBbldfcnYxMmszUWFBaUpSd3NoRzNqTDk5MW80MXRJS1IyaXotMXN4dV9xa2FhbS1CdG4xZlNDaVVTZkVkeXZKaDVnTUFNTVVzU2ZWbU93cUFWZ25pdng3T3VTenB1aGdrTGZYN1kzbWhsbVdZVEVaalo5SzJZZw?oc=5",
-      "snippet": "NATO intern accused of spying reported working a range of Canadian government jobs &nbsp;&nbsp; The Globe and Mail Carney says Canada involved ‘from the start’ in NATO intern spyin",
-      "pub": "Thu, 06 Aug 2026 02:03:05 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Wildfire burning in Belcarra Park near Village of Anmore - Vancouver Sun",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Eb2k1ZDRId2JIbUF5cjdzZ3g2VURZSHBmbnVHb3IzNzZweGVyQ3JtQ0VaeExHRGNzOEVyNWZxbExjNVBzdmZXanRKNkdiWC1ZamlGeF80cEFCZFF0VllObkNlVzF3eFZnbndqSzNkTnY3Mk9ZVFZYZW8ydw?oc=5",
-      "snippet": "Wildfire burning in Belcarra Park near Village of Anmore &nbsp;&nbsp; Vancouver Sun Wildfire breaks out in Belcarra Park near Port Moody, Anmore &nbsp;&nbsp; Global News What you n",
-      "pub": "Thu, 06 Aug 2026 03:26:04 GMT",
+      "title": "Court authorizes class action against McGill alleging failure to protect Jewish students - CBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUVdMS0t6WF9FZWFQbnZRcU5zTDZhbm13TURvN0JOTnpRY2tuYnI5QnV3OFpXTmNrbEh1N2NhWkExTTJfNHl5ZmtBbGNNcGlTend2ZzluVnhYOVBHWlE4UjU4SUNvZnlXUVpQR3lLUk56dTBuVmVUaEdYRGU0MlQ2bkNHUTZfQnFsTU1jdmJfRDdVd1AwRnB1ZW53?oc=5",
+      "snippet": "Court authorizes class action against McGill alleging failure to protect Jewish students &nbsp;&nbsp; CBC Quebec court authorizes class action alleging McGill failed to protect Jew",
+      "pub": "Wed, 05 Aug 2026 23:43:13 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "‘I lost everything’: St. Catharines residents deal with aftermath of flooding - CP24",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQS2o5SUcxYWZST0h1NHVPT3A2bkRYRFdzSnpqb2psdU5scHJiRGE0YUFJZXBRQmlnZEgzTVRzQVBVQWJLeFB2bmJIdG8ya2d4RjJGdlhJX04yWHJweWdobnVxTlNMM1dMZnRmRlNtTG5LdkQtcnlyUWF5LXpxN2ZXcnU5Mkh6LXNtQWw4Q3ZISG5VMWhHeTN0a3laZWlDQW5KclNNeFk0UGFnM3RGVHFXQlRldU5mVHlMX3BLSThGcVlLSVREdzFfLTFheC10U3hEbjZNamRFM0lIVVhFcE1NMEszeEdIcm4zVjBNQkZwSkQ5RDF1bGJBUXJqTE5JSVBVNk5lTDNtbks?oc=5",
-      "snippet": "‘I lost everything’: St. Catharines residents deal with aftermath of flooding &nbsp;&nbsp; CP24 Flood-hit Niagara municipalities declare emergencies, call for government help &nbsp",
+      "snippet": "‘I lost everything’: St. Catharines residents deal with aftermath of flooding &nbsp;&nbsp; CP24 The ground is giving way: Sinkholes and eroding banks add new threat to flood-ravage",
       "pub": "Tue, 04 Aug 2026 15:39:07 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "'All strategic sectors' being discussed as new U.S. tariff threat looms, says Carney - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0gyWVNGSHFRcnllNUxzT0FqZ25WaldPZ3REOG1qQmNNcUIzYlVyeXFXVjYzdEJsc0IxU0NfRS1BMm1XcVlmM3dNb2VDQ2VHbzRIdmNSRS1yeDZQWjNqbk1IcVRnQ0liVFZYU290TDFScFVTZERDTmNQNlpRWnlRVFhLOTRSSzRJb183eUwxUjZ5dw?oc=5",
-      "snippet": "'All strategic sectors' being discussed as new U.S. tariff threat looms, says Carney &nbsp;&nbsp; CBC Canada ready to ‘get tougher’ if U.S. trade deal isn’t reached before deadline",
-      "pub": "Wed, 05 Aug 2026 22:28:58 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Dry lightning, hot weather expected to increase wildfire conditions in BC Interior - Global News",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00WlpBWWQxV0F3WEZ1Ui1feGtzSDcwS2hPZHNsMEhNTFQ5MWpRU0FSZjFVNExVcjZtNlZUSXpyQVNxbVJWeVhWUnVZc2FXU2JneS0yUFlLUExudkRTQWtTbjRGNnoxRmlucUdPNEFNNzFJZWRnMmhV?oc=5",
-      "snippet": "Dry lightning, hot weather expected to increase wildfire conditions in BC Interior &nbsp;&nbsp; Global News Dry lightning, hot weather to increase wildfire conditions in B.C. Inter",
-      "pub": "Wed, 05 Aug 2026 12:18:42 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Everyone loved Marineland — then the tide turned. A look inside the park’s final days - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyRHVESmxpSm94dmZxN2YzUWVGZkU3SHoyUHlMT3l1N3dhX0s0d3hzbEtwTUZER2tUdzlBUVp6QzFqTVdnTXcyUjRHMEdjcWtBZ0ZQeTRHd2dHLXh4a0phbHVIdXY3QjhE?oc=5",
-      "snippet": "Everyone loved Marineland — then the tide turned. A look inside the park’s final days &nbsp;&nbsp; Global News 7 more beluga whales arrive in Texas as international relocation effo",
-      "pub": "Wed, 05 Aug 2026 12:10:09 GMT",
+      "title": "What you need to know about B.C. wildfires on Aug. 5 - CBC",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnktU2JfMDVIdDFFZkc3ZVJva2hxd3U1NExSWkFmc2pZSmRxNS1LN2JrSlBxd2xnc2NjZWhucWZmeURsbXFOMm9QRlVyeWlnZU5jbXdtd2xnUnB5aW4xYkJYZE5JVXZaNnQ0N1RUUTlLSlBvN2pVRHFTbGpCVUhmZ3JpX1hreC00NFVvakF3N2wxbHY2WTFaUkQ1RUZCdC1yYWxnVXBULTBFVHRv?oc=5",
+      "snippet": "What you need to know about B.C. wildfires on Aug. 5 &nbsp;&nbsp; CBC Dry lightning, hot weather to increase wildfire conditions in B.C. Interior &nbsp;&nbsp; CityNews Vancouver Wi",
+      "pub": "Wed, 05 Aug 2026 15:34:00 GMT",
       "image": ""
     }
   ],
