@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-07T18:41:14.493525+00:00",
+  "generated_at": "2026-08-07T19:44:43.450337+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Minimal Rain Expected for NL Folk Fest Tomorrow",
+      "link": "https://vocm.com/2026/08/07/nl-folk-festival-2/",
+      "snippet": "The forecast is looking pretty good for this weekend's 49 and a half annual Newfoundland and Labrador Folk Festival. Speaking with Your VOCM Morning's...",
+      "pub": "Fri, 07 Aug 2026 18:39:41 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/08/Folk-Fest-Bannerman-Park.jpg"
+    },
     {
       "source": "VOCM",
       "title": "RCMP Release More Information on Bell Island Fatality",
@@ -59,19 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/02/rnc-royal-newfoundland-constabulary-fall.png"
     },
     {
-      "source": "VOCM",
-      "title": "No Oversight for Two Children Placed in NL Home, Advocate Finds",
-      "link": "https://vocm.com/2026/08/07/306332/",
-      "snippet": "An investigation into a situation in which two children from another province were placed in care in a home in Newfoundland and Labrador ended up bein...",
-      "pub": "Fri, 07 Aug 2026 14:03:07 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/wilma-macinnis-office-of-the-child-and-youth-advocate.png"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Canada prepared to halt booze bans, meet other U.S. demands in exchange for tariff relief: sources - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMllBV29OUWpQWDl5TkY1UkI1WFFtTG1rb2hVa2F4QzBTVE9vTDBJTVlTbnRSRXowcnBPS3dLWFZxdlJidW1BeHpfQzdjVTlCUGtYLWtWOEh1RHFPbUppRHpzX2FmZXRUZlYxVGtkeG1mNGdYOUZsWS1kUDNIRG1vVWpjdGE3NS1ZdEZr?oc=5",
-      "snippet": "Canada prepared to halt booze bans, meet other U.S. demands in exchange for tariff relief: sources &nbsp;&nbsp; CBC Opinion: Concession Carney faces his Neville Chamberlain moment ",
-      "pub": "Fri, 07 Aug 2026 16:30:49 GMT",
+      "title": "Alcohol, dairy and autos: What is and isn’t on the table in Canada-U.S. trade negotiations - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSGt6RUZsTGlEOUpqeTlKLVhlcjNsYUNaMFViNVpQckgxeDYtSzh0Wnh5NXhxbEIyWlI0VFpwcWJxNUhiZWdQUGZQdG5TU09BR0w2ZDQ3VnhQaVVQRTdzTnNHTlFUZklnMGZFN2s5M1YzQmpSalAtZm4yWGh2VUotdEhTWEQ1dmdtYkR6bVBlSy00NjRwUWszWUVEWEJhb2ZoMHdTZlR2MW04MXU2eUZjLVhyMnc2dV92b0FfUkthaFp0NmF4?oc=5",
+      "snippet": "Alcohol, dairy and autos: What is and isn’t on the table in Canada-U.S. trade negotiations &nbsp;&nbsp; CTV News Canada prepared to halt booze bans, meet other U.S. demands in exch",
+      "pub": "Fri, 07 Aug 2026 17:53:00 GMT",
       "image": ""
     },
     {
@@ -79,7 +79,7 @@
       "title": "Salsa on St. Clair shooting: Toronto police charge two 18-year-old men with first-degree murder - Toronto Star",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVU41MXh0U0FjZXg2aEs3dVY0dm9CNFVTOU96V2Znd0FxWFJBaTRWM2JLZnY5NjhuaG93VVZWeEw2OTlkNnBDSGxfLUFWaE5XNTkwQkFac1Q2cGhYSlBEbUVIZzRzN0RjZUtqaHNBRlNKcVNuNUlaU2w0TWZkSnladV94aTd4eldPSHdDd1ZBdjdXcVVtbWlaSXdaMDBZaFUwZlB0R1pIeU9HMk9jd29BdnVmZ1NLSVpLZl9SbmsyUE03Q0xqQWhBdXA3RWpzdWtMUWNWMm1Ec050U1RvTkE?oc=5",
       "snippet": "Salsa on St. Clair shooting: Toronto police charge two 18-year-old men with first-degree murder &nbsp;&nbsp; Toronto Star Two 18-year-old men charged in deadly Salsa on St. Clair s",
-      "pub": "Fri, 07 Aug 2026 18:04:15 GMT",
+      "pub": "Fri, 07 Aug 2026 19:02:30 GMT",
       "image": ""
     },
     {
@@ -92,42 +92,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sc0NtT3lLSEl6NlhDR3hPcDhaRzhCYWVRallDcWl4aS1IYkNJZ2xIeWVvLWR5dHpncVJrVmswODRoNDZNR3l2NVBYWkM3aGhZSmlCWUZ0dXJwZw?oc=5",
-      "snippet": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown &nbsp;&nbsp; BBC Trump says he’ll bring ballroom fight to Supreme Court after lower court halts ",
-      "pub": "Fri, 07 Aug 2026 17:41:30 GMT",
+      "title": "Trump says voters are angry with Republicans – but not him – as midterms near - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWpLQ05nM0xRTlBNdTlPZU9vaDdKWDNRRTZvbWhpU3U2ckdHR3Q4WWM2N0lENzg0UDVSUE4tSkt4ZlNoZWR6bkFWZ3NvUmVNekdpajQzekxEbUVoQ2p5SGpmeW1VNmRyd0lsODdWV19pejRwRUVPVXZmTkxnY2otU3g3X1pya3JOWFR2ZjZOYkphaG9MckxQSkl4T1BwaEtVWnVqMkVhTnppZw?oc=5",
+      "snippet": "Trump says voters are angry with Republicans – but not him – as midterms near &nbsp;&nbsp; The Independent Trump distances himself from voter frustration with GOP: ‘They’re not ang",
+      "pub": "Fri, 07 Aug 2026 14:44:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Chow holds lead as Alexander enters Toronto mayoral race: poll - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbjV6LUpEZXZJeFRGVWdXTkk3SXB6ZjBtR1ItNm8xWG56dDQ1dFRnVkxvOXYwTVFQSVdaMklVQkZiZW1aTnpSUXFzbTQ4WWNxYVA3eEhFUm1VempwTTJJeW4wb2VkOFFpMDJITWJlaFJESjdiM25kZ0RnOG1YNXRFeGs5VzFteUpqRTdEbGl3bEUwbG1fTWtNMXFnWWlRUVNUdWNRQlYydXZLSUE?oc=5",
-      "snippet": "Chow holds lead as Alexander enters Toronto mayoral race: poll &nbsp;&nbsp; CityNews Toronto Toronto: Chow 47%, Bradford 40%, Alexander 10% &nbsp;&nbsp; Liaison Strategies Olivia C",
-      "pub": "Fri, 07 Aug 2026 12:34:00 GMT",
+      "title": "Olivia Chow leads Toronto mayoral race as Chris Alexander debuts at 10 per cent in new poll - CP24",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaWFydms0eWJ6LXA0UjVjZjV2NFhKbHNlOEoxWHVib2NWOWhJRk5SZXhWdGI0S185TmxLYWlaeDlkLW5MbDZJam9NZ0M1ZWFTdkE5WVhqSUFNWnVncFE4UFJVNk5ON01GTWF3MkpuTUl1RVRHUklpV1FuM29CNWJZWXNNUlVWVEtLa19xWVNLdTlzYzNOclpkdll5emV6OU94aFZXN2dnM1lFVThiRlNLNzMyVGhlM3c3Sk5OTjZkX3NUU0ZybVBNalE3aWFXSHVXMXB4aA?oc=5",
+      "snippet": "Olivia Chow leads Toronto mayoral race as Chris Alexander debuts at 10 per cent in new poll &nbsp;&nbsp; CP24 Toronto: Chow 47%, Bradford 40%, Alexander 10% &nbsp;&nbsp; press.liai",
+      "pub": "Fri, 07 Aug 2026 13:44:39 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Italy says no plans to review Spain border controls until 15 August - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGNsV3RmS0U0aGJlOUxmdmstV1dCTnc4Z21KSmlWenQ4YUs4dEZrSkRXWS1CV192TmIxYTI4TUpxbHgwcXBpX1duVHNfcFNjaVZiTU5UZWVXcDVmSWUyOXFfQWxrbFVVTnF4NVItTnhMT2lPdFJ2Si1jMGkxeWQyUzlBeVFYT1JfLUUzXzFLbm5rTjcwTlVSOG9VMG9PVDZIMDNjU0FHdmVFM01jWnFwRmxyZjJQWGhkLWR2dGFIeGp0NzZOYXhrMGFnRWZRMXBxWUE?oc=5",
-      "snippet": "Italy says no plans to review Spain border controls until 15 August &nbsp;&nbsp; Euronews.com 80 people died trying to get to Ceuta. In Europe, politics could eclipse the tragedy &",
-      "pub": "Fri, 07 Aug 2026 12:05:32 GMT",
+      "title": "Appeals court says Trump is unlawfully constructing White House ballroom - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1Z0WFVjNkNabFZGb0Q5cGlBREtNSlU1ckh2cjBqekwwaHh3MVNMX2JlSWZaZkxLdDV5MG43eEV3cGZaMm9JUnRKc0ZqSEl0cF9SUnpCTHBNZVM3UmFBT1V2dEkyNGZGekFXRXJHMDRaZVp4RVZMSHpjaS1QbEVueVllZ0d0OFJf?oc=5",
+      "snippet": "Appeals court says Trump is unlawfully constructing White House ballroom &nbsp;&nbsp; CNN Appeals court halts construction of Trump’s $400m White House ballroom &nbsp;&nbsp; The Gu",
+      "pub": "Fri, 07 Aug 2026 14:33:23 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Police seize $4.5M worth of cocaine, hundreds of thousands in cash, multiple people arrested - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHRDN0pYNVhpNVE2YS1WRmJQYk9iQ0VvOW5WYUJQREtOclhQT3ExR3J4LXhUeU1CR3k5RG5VNXh1ZmU0TG9DMHlaN0c3SWxkWElFLVMybFdKN0dUUlNlOTJyWktMdXdWSlhXbm5tTEI3b21taEswQmt5TTJ6REFJb2VsSll5YkdKZ1laOGpQNnA3YzRFMjFOTzZoa3ZQcTlIV1ItZ2hwZk1IcmNPZkxSNUZNXzM3enpsVG1qallGMFlBcU5KS3JF?oc=5",
-      "snippet": "Police seize $4.5M worth of cocaine, hundreds of thousands in cash, multiple people arrested &nbsp;&nbsp; CTV News More than $4.5M worth of cocaine seized, 3 charged in Ontario dru",
-      "pub": "Fri, 07 Aug 2026 15:14:09 GMT",
+      "title": "More than $4.5M worth of cocaine seized, 3 charged in Ontario drug bust - Global News",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94RHJQbUhXTXQtV0F0TXdhVDY1WnRMYlZBVGRVLVBPM0lFYlVPSVJLVkE5UkthLTJKTFJsdU8tMHRWaDJId2I3SFNIY1pORHlTZHRvVU9fMzcwY0xiT3NpS2l4T2tXUWFTU2tzYTFUMlBTWl9JVXR6LQ?oc=5",
+      "snippet": "More than $4.5M worth of cocaine seized, 3 charged in Ontario drug bust &nbsp;&nbsp; Global News Police seize $4.5M worth of cocaine, hundreds of thousands in cash, multiple people",
+      "pub": "Fri, 07 Aug 2026 15:23:22 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Okanagan resident says flames were surrounding their house as they fled - Global News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ3R1MEI1bHBpQU1OQzhXT2FfRDJmTGNPaHVoeFRKSEcxdEZHTXIxc3dyQWhkWWZIU3FKeUN4X0QtNTdJaEtDYXpNWjFwbF9LM3VWak11dTNfajVFZlJPdXVuMEFHYXQtSGs0V0FVZG5MX05lM0RLZkhiUFFpaTV5dm5mcjhGYS00ajhacW5mMDJENTYwY19CUEFaYlhiM3pJVzF5Wg?oc=5",
-      "snippet": "Okanagan resident says flames were surrounding their house as they fled &nbsp;&nbsp; Global News Okanagan rancher describes Bradley Creek fire's 'path of destruction' that decimate",
-      "pub": "Fri, 07 Aug 2026 01:55:45 GMT",
+      "title": "Two officers, inmate die during transfer from Edmonton prison - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlcwVXFEeUE0YWhRUm9zaW9SbHZneFpUUkhOT3lFWk5jNG80VTF4ZUtLdUttN01FQ1RzajdSVmpQYUNWaUxvX2t3YmlQakZRVDZ2N0hSUUI3bEc2ZHQzTjRmWUIwLUZHZVFlSHdZMW1LV1p4TVlWZjZsT0VCR0s0SmNVcXBXN0tOUS1ORGNYOW0tZlN3TE9v?oc=5",
+      "snippet": "Two officers, inmate die during transfer from Edmonton prison &nbsp;&nbsp; The Globe and Mail 2 correctional officers, offender dead after transfer accident: CSC &nbsp;&nbsp; Globa",
+      "pub": "Fri, 07 Aug 2026 12:49:06 GMT",
       "image": ""
     }
   ],
