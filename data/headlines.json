@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-08T07:27:03.873583+00:00",
+  "generated_at": "2026-08-08T08:05:48.428509+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "August 8, 2026 – Do you agree with the Toronto police chief that the bail system should be tightened up?",
+      "link": "https://vocm.com/2026/08/08/august-8-2026-do-you-agree-with-the-toronto-police-chief-that-the-bail-system-should-be-tightened-up/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13291').",
+      "pub": "Sat, 08 Aug 2026 07:30:51 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/chief-myron-demkiw.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Minimal Rain Expected for NL Folk Fest Tomorrow",
@@ -59,14 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/07/Ribfest-1-1.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Corner Brook RNC Arrests Man After Woman Found Injured Outside Home",
-      "link": "https://vocm.com/2026/08/07/corner-brook-rnc-arrests-man-after-woman-found-injured-outside-home/",
-      "snippet": "A man is facing a slew of charges after a woman was assaulted and injured in Corner Brook yesterday. A woman was found around mid-afternoon outside a ...",
-      "pub": "Fri, 07 Aug 2026 14:39:11 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/02/rnc-royal-newfoundland-constabulary-fall.png"
-    },
-    {
       "source": "Google News Canada",
       "title": "U.S. trade talks focus on booze ban, dairy as new Trump tariffs loom - Toronto Star",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZTItY2pOcll3bjBtcWFzQkExM2FiVU5laVBIYVZCdFVvaGktYUl6cDlLczhRZlE5cFN6LWlydUtJRVhUTFgyRU5QaE95WnN4TmltOFpmY2NlS3VSWHN4c2Z0NVJBYUFveV9zQVk3Z3hjUTl1X19QcFY1b3k1Y3FYRmNjOEkxSEZRelpQaFBoc0VMcmwwanktdlhEZENnVmFaekI3c0V3T3pKZHVvSVJkbk1WNFMzeHBGWHVMYmFsQlBEUElEaDZpS2dNRnQ3QjdWc1BXV3c0ZVc0NWFDZnlYV245Z3NITER1TGZfTA?oc=5",
@@ -78,16 +78,8 @@
       "source": "Google News Canada",
       "title": "'Significant risk to life': Evacuation orders issued for wildfire near Summerland - CBC",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNkhTdjZIeXlWNThtQmtxSHNyMG01ZkN6bjdpdGpYYXB2bmlBZS1mc2NqbkFBeEV1V0haeGRmOU9ELUhRNlcwMnM4NFRyTkJuV2JHWEM3ZzhDeUlrTmJINFE4a3g5bWFwX2xCblYzc0hNQndhZjJnQVZyWE1JNjN3ckV2aS1yZ1otQlRtdnF0VQ?oc=5",
-      "snippet": "'Significant risk to life': Evacuation orders issued for wildfire near Summerland &nbsp;&nbsp; CBC Residents asked to stay away as evacuations underway for wildfire west of Summerl",
+      "snippet": "'Significant risk to life': Evacuation orders issued for wildfire near Summerland &nbsp;&nbsp; CBC Your photos: New wildfire erupts west of Summerland &nbsp;&nbsp; Castanet CP News",
       "pub": "Sat, 08 Aug 2026 04:15:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Inmate, prison staff killed in truck and minivan crash identified - thecanadianpressnews.ca",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOS2NzRGIwWkxmdXo4N2p0MWpkVHh1WHBLcC1xWEdyNzZpdnJuaU1VeXp4WXgxSjl2cVhPYl95RnVObXpBYkV5eTVXTm9uNERHcVppRDNPeUNqTXd6MzZ4N05SWHBBckJJRDRtVml6ZTNBeEtfTUt3QmxfLUh4WG90eHpjNmVoVzFHQnpPTmd4N0QwekZNTTdQNGdZMEViNWMtSHlMQU5jUzRmLXBzXzRKYVI1aXJVT0JGYURmNmF5YjFtalg2YjBlOUJvdGl6bXJuZmdJVHZ5bm9vRmdzckFvdjFhRUk1b214LWxDYkFsMTc0ajEwMXczZEFVSXEwQWs?oc=5",
-      "snippet": "Inmate, prison staff killed in truck and minivan crash identified &nbsp;&nbsp; thecanadianpressnews.ca 2 correctional officers, inmate killed in crash identified &nbsp;&nbsp; CTV N",
-      "pub": "Fri, 07 Aug 2026 23:04:23 GMT",
       "image": ""
     },
     {
@@ -100,6 +92,14 @@
     },
     {
       "source": "Google News Canada",
+      "title": "What could the Mecca defence pact mean for the US role in the Middle East? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlNPeVhxVy15TERxU2RmdmJLekxwVnBKamxndFg4aXdKTEd5dlpRajhpQWZWa1ZjdFNfTHl0TFJJLW9NLWtUbGtqRldqQkZaY2YzUDljbm9DT3loeFdEM1hJOTgzX3B6a19FMXN1Q0EyTjdUUHQxb2ZmMWZkcW1Wc0Nib1Y0NllaMUR6MkZSSG5qbGphenl1N0RVUHN2U1lVX08zOTZOR2dITm9kZGpMRlU2VdIBuAFBVV95cUxOUXc0eU53M1JGNmVicS1ZUzdYaGlzS3RieFRkMktqTEtnT3VUa0hMaGdVY0VEUU9ad09nWWYtQmNkZEliekZhMUZxa2JhODFaZlQ0WXZnRUhRV1RNRFM3RHN4TEk0Xy0zMmVsb25RUUU4dGFMeEtldmtTX3NXLTczWFdLdXc1Zk9sYWhDbm1WVlpGWW9ESjdNTHRwbEFlNWluUmt1RENlMU5IbzVrY3RNZzI0YU56dHJ2?oc=5",
+      "snippet": "What could the Mecca defence pact mean for the US role in the Middle East? &nbsp;&nbsp; Al Jazeera Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms &nbsp;&",
+      "pub": "Sat, 08 Aug 2026 01:31:35 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Motorcyclist flees into oncoming Surrey traffic, crashes after attempted police stop - Global News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUxaUzhNSU40bVNJbFBFcldCNm1vM1dOVHFCM0hYYWx1TnlqWTZWMmdaU2ZKb1NxNk95RV9VaFZweksyZ2lxMnFGOFBrZEp0U1d5RFgtLURGY1pxNGJ6QlJOaTJCdm53S0VCY05WTjhVeEFNcHNDdjhWSTdSLUkwckhsM1BOSEpRTlBTUlRmTzJGR2hkdXNaZTBLTlZBNWlnbExxQmM0dm4yNENja3c?oc=5",
       "snippet": "Motorcyclist flees into oncoming Surrey traffic, crashes after attempted police stop &nbsp;&nbsp; Global News Witnesses sought in police-involved motorcycle crash in Surrey: IIO &n",
@@ -108,10 +108,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "What could the Mecca defence pact mean for the US role in the Middle East? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlNPeVhxVy15TERxU2RmdmJLekxwVnBKamxndFg4aXdKTEd5dlpRajhpQWZWa1ZjdFNfTHl0TFJJLW9NLWtUbGtqRldqQkZaY2YzUDljbm9DT3loeFdEM1hJOTgzX3B6a19FMXN1Q0EyTjdUUHQxb2ZmMWZkcW1Wc0Nib1Y0NllaMUR6MkZSSG5qbGphenl1N0RVUHN2U1lVX08zOTZOR2dITm9kZGpMRlU2VdIBuAFBVV95cUxOUXc0eU53M1JGNmVicS1ZUzdYaGlzS3RieFRkMktqTEtnT3VUa0hMaGdVY0VEUU9ad09nWWYtQmNkZEliekZhMUZxa2JhODFaZlQ0WXZnRUhRV1RNRFM3RHN4TEk0Xy0zMmVsb25RUUU4dGFMeEtldmtTX3NXLTczWFdLdXc1Zk9sYWhDbm1WVlpGWW9ESjdNTHRwbEFlNWluUmt1RENlMU5IbzVrY3RNZzI0YU56dHJ2?oc=5",
-      "snippet": "What could the Mecca defence pact mean for the US role in the Middle East? &nbsp;&nbsp; Al Jazeera Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms &nbsp;&",
-      "pub": "Sat, 08 Aug 2026 01:31:35 GMT",
+      "title": "Inmate, prison staff killed in truck and minivan crash identified - thecanadianpressnews.ca",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOS2NzRGIwWkxmdXo4N2p0MWpkVHh1WHBLcC1xWEdyNzZpdnJuaU1VeXp4WXgxSjl2cVhPYl95RnVObXpBYkV5eTVXTm9uNERHcVppRDNPeUNqTXd6MzZ4N05SWHBBckJJRDRtVml6ZTNBeEtfTUt3QmxfLUh4WG90eHpjNmVoVzFHQnpPTmd4N0QwekZNTTdQNGdZMEViNWMtSHlMQU5jUzRmLXBzXzRKYVI1aXJVT0JGYURmNmF5YjFtalg2YjBlOUJvdGl6bXJuZmdJVHZ5bm9vRmdzckFvdjFhRUk1b214LWxDYkFsMTc0ajEwMXczZEFVSXEwQWs?oc=5",
+      "snippet": "Inmate, prison staff killed in truck and minivan crash identified &nbsp;&nbsp; thecanadianpressnews.ca 2 correctional officers, inmate killed in crash identified &nbsp;&nbsp; CTV N",
+      "pub": "Fri, 07 Aug 2026 23:04:23 GMT",
       "image": ""
     },
     {
