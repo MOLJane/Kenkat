@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-09T16:23:18.776888+00:00",
+  "generated_at": "2026-08-09T17:02:39.010440+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Key West Coast Bridge to be Replaced",
+      "link": "https://vocm.com/2026/08/09/key-west-coast-bridge-to-be-replaced/",
+      "snippet": "The provincial government is going to replace a key transportation link on the west coast. The aging Ballam Bridge, which carries traffic over the Hum...",
+      "pub": "Sun, 09 Aug 2026 16:20:39 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/ballam-bridge.png"
+    },
     {
       "source": "VOCM",
       "title": "Federal Convervatives Push for Seven Day Recreational Fishery",
@@ -59,18 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-21-traffic-radio.png"
     },
     {
-      "source": "VOCM",
-      "title": "August 9, 2026 – Do you think the provincial government has done enough to reduce the risk of moose-vehicle crashes on our highways?",
-      "link": "https://vocm.com/2026/08/09/august-9-2026-do-you-think-the-provincial-government-has-done-enough-to-reduce-the-risk-of-moose-vehicle-crashes-on-our-highways/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13294').",
-      "pub": "Sun, 09 Aug 2026 07:30:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/moose-sign-highway.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "What you need to know about B.C. wildfires on Aug. 9 - CBC",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2ZOejhjRl9jVTlYMFdqSFJFZmk3bFZjQkNqX0d2V0hNSU5QVEJKOE5tTnhCc3A0b1VGZE1nRk5iTE5YbkZRZ2RVRzdlZmdjTUJHeDZYa185MWVTSE9UZHVnd2xXd1ZSWjhDM2UtVmttT3NObGtLSmZFNnVGMXVrY1RldE52ZjFKNkFqZGt3?oc=5",
-      "snippet": "What you need to know about B.C. wildfires on Aug. 9 &nbsp;&nbsp; CBC ‘Explosive’ wildfire forces 22,000 people to flee as British Columbia declares state of emergency &nbsp;&nbsp;",
+      "snippet": "What you need to know about B.C. wildfires on Aug. 9 &nbsp;&nbsp; CBC Bradley Creek wildfire being held after ‘tireless work’ to contain blaze: officials &nbsp;&nbsp; CTV News Vide",
       "pub": "Sun, 09 Aug 2026 13:00:00 GMT",
       "image": ""
     },
@@ -78,16 +78,8 @@
       "source": "Google News Canada",
       "title": "Poilievre asks Carney in letter to not concede to Trump’s demands during trade talks - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbzR2Z0N1TEZVMFV6STlNZ001U0pMTWl0bXl0RTAxSGI1TmpiUFRJNXN3UlgyeEpodnppWkZZOFVkREtDU3ZKUVp1T2JFSk1HUmJlaGw2MHBnRU5POC0yN0lWVFhJTDUwdFpNNHMxOE9nN0Z4RnJIb2o1UGd5NVBVTzk5ZG82LUhzRU5VdWZMZnVwSG5IblRjNWQyaHE0dmtIb3p3OTYyZVZjZ2Z5OXR6LVpqU3BTQQ?oc=5",
-      "snippet": "Poilievre asks Carney in letter to not concede to Trump’s demands during trade talks &nbsp;&nbsp; The Globe and Mail 'No more caving': Poilievre's letter to Carney urges him to not",
+      "snippet": "Poilievre asks Carney in letter to not concede to Trump’s demands during trade talks &nbsp;&nbsp; The Globe and Mail 'No more caving': Poilievre's letter to Carney urges him not to",
       "pub": "Sun, 09 Aug 2026 11:55:38 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump's new U.S. customs rules could upend Canadian exports - National Post",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaG9LWFZld1pid1dFeUFQVXQ3WlMtLXNqckNwbkxiZ1ZjM2tRWXlId1Z0azJRVXdMbG5KNVZaRkhadF9SbEdMQlVaZW5BbzAwQ1huQmgyQjQySm1KWE5zVE1vd0dIdGk0clg0OV91WlhxVHFiRFNRcFJBZEhEQVR3VUxjSkhyWEZnN05uc1FpSl8?oc=5",
-      "snippet": "Trump's new U.S. customs rules could upend Canadian exports &nbsp;&nbsp; National Post Ottawa discussing trade concessions with U.S. in return for some tariff relief, sources say &",
-      "pub": "Sun, 09 Aug 2026 10:03:26 GMT",
       "image": ""
     },
     {
@@ -100,18 +92,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "UAE hands alleged drug kingpin Daniel Kinahan to Irish authorities - thenationalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOV9rLUVMcDdSdTF3MnBpUzlUNnJsTE56R081UzFFNnlEQlVFUkF6UXpxMnZMdFhPRi12UkhMWFFUaXdlS3hUZjY5QmhPWTFKNDl3bFJPaFpCTUJyekI0MEYxV0xYMFRYeGNTOVc4VlVDRkRNVGdpU1lWVzU0WjNOaVVCaDdmdnRpNDRTVFVhb3lvdHJpQVEtMzZvV3Y2dHphM2tYZ3JpQXN5ZlB0eDVEeXFLVl9DZU1Ydm4ycA?oc=5",
-      "snippet": "UAE hands alleged drug kingpin Daniel Kinahan to Irish authorities &nbsp;&nbsp; thenationalnews.com Daniel Kinahan: Suspected crime boss returning to Ireland amid tight security &n",
-      "pub": "Sun, 09 Aug 2026 12:11:32 GMT",
+      "title": "Trump's new U.S. customs rules could upend Canadian exports - National Post",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaG9LWFZld1pid1dFeUFQVXQ3WlMtLXNqckNwbkxiZ1ZjM2tRWXlId1Z0azJRVXdMbG5KNVZaRkhadF9SbEdMQlVaZW5BbzAwQ1huQmgyQjQySm1KWE5zVE1vd0dIdGk0clg0OV91WlhxVHFiRFNRcFJBZEhEQVR3VUxjSkhyWEZnN05uc1FpSl8?oc=5",
+      "snippet": "Trump's new U.S. customs rules could upend Canadian exports &nbsp;&nbsp; National Post Ottawa discussing trade concessions with U.S. in return for some tariff relief, sources say &",
+      "pub": "Sun, 09 Aug 2026 10:03:26 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Captain charged after boat capsizes near Statue of Liberty, killing woman and baby - CNN",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wcmY1VGYweHVwWDl6U2Q5Q2EzdUo3TWMtdEdlWU5TXzZWcXdRaml4Z3ptNzR3VTBiUlo2MTdSalFzZnptbmtBektZMFN0NnRvSTBBWTJwdDlnZGdReTNVUmpCbkFSVTBQQ2haSw?oc=5",
-      "snippet": "Captain charged after boat capsizes near Statue of Liberty, killing woman and baby &nbsp;&nbsp; CNN See more headlines & perspectives on Google News",
-      "pub": "Sun, 09 Aug 2026 06:46:30 GMT",
+      "title": "Iran says Strait of Hormuz will remain closed until US meets six demands - independent.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUlZDU1FGRFFPNmozeDhFSFdFR0pRUUdFM0loSENzWFlIaWdMR2RMRzVfbkZ5TWp2MFJfbXhQNVJYVEk4dy01LXdmUmlvN3cwWFNpZnV3bnpIa0ZrYkE3dTVpYmhUZGszUndId0FIaFU1NmIyMnhlMzVhbWp2MDVwRTRIV1Y5VlVEWWVkbHBTTWI2aDJSRG5aTnI2Zw?oc=5",
+      "snippet": "Iran says Strait of Hormuz will remain closed until US meets six demands &nbsp;&nbsp; independent.co.uk Iran war live: Tehran seeks ‘to create grounds’ for talks with US &nbsp;&nbs",
+      "pub": "Sat, 08 Aug 2026 20:58:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "UAE hands alleged drug kingpin Daniel Kinahan to Irish authorities - thenationalnews.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOV9rLUVMcDdSdTF3MnBpUzlUNnJsTE56R081UzFFNnlEQlVFUkF6UXpxMnZMdFhPRi12UkhMWFFUaXdlS3hUZjY5QmhPWTFKNDl3bFJPaFpCTUJyekI0MEYxV0xYMFRYeGNTOVc4VlVDRkRNVGdpU1lWVzU0WjNOaVVCaDdmdnRpNDRTVFVhb3lvdHJpQVEtMzZvV3Y2dHphM2tYZ3JpQXN5ZlB0eDVEeXFLVl9DZU1Ydm4ycA?oc=5",
+      "snippet": "UAE hands alleged drug kingpin Daniel Kinahan to Irish authorities &nbsp;&nbsp; thenationalnews.com Alleged crime boss Daniel Kinahan’s return to Ireland ends global game of cat-an",
+      "pub": "Sun, 09 Aug 2026 12:11:32 GMT",
       "image": ""
     },
     {
