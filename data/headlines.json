@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-11T13:50:05.301763+00:00",
+  "generated_at": "2026-08-11T14:50:13.813265+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Pomerleau Inc. Awarded New CRA Building Contract on Kelsey Drive",
+      "link": "https://vocm.com/2026/08/11/306555/",
+      "snippet": "The federal government has awarded a $121.6 million contract for the construction of the new CRA building in St. John's to Pomerleau Incorporated. The...",
+      "pub": "Tue, 11 Aug 2026 14:37:31 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/04/st-johns-tax-centre-cra-canada-revenue-agency.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Hiker and First Responder Urges Others to Be Prepared on the Trail",
+      "link": "https://vocm.com/2026/08/11/306526/",
+      "snippet": "An avid hiker is cautioning anyone hitting the trails that there are certain items they should always have with them - no matter the time of day. Jack...",
+      "pub": "Tue, 11 Aug 2026 13:58:12 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/09/hiking-boots-generic.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "17-year-old Charged for Allegedly Altering Images to Generate and Share Child Sex Abuse Material",
+      "link": "https://vocm.com/2026/08/11/306540/",
+      "snippet": "The RNC has laid charges against a 17-year-old boy who they allege had been using AI to alter images to create sexually-explicit material and sharing ...",
+      "pub": "Tue, 11 Aug 2026 13:54:56 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rnc-hq.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Cooler, Wetter Weather Expected to Continue for the Island",
@@ -43,34 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/damage-parking-lot-danny-cleary-arena-harbour-grace.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Events Planned in Gander Commemorate 25th Anniversary of the Day the World Came to Town",
-      "link": "https://vocm.com/2026/08/11/events-planned-in-gander-commemorate-25th-anniversary-of-the-day-the-world-came-to-town/",
-      "snippet": "Final preparations are being made as the town of Gander gets ready to commemorate the 25th anniversary of the 9/11 terrorist attacks. Exactly one mont...",
-      "pub": "Tue, 11 Aug 2026 09:27:44 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/09/gander-international-airport-9-11.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Local Tour Boat Operator Responds to Concerns of Vessel Getting Too Close to Orcas",
-      "link": "https://vocm.com/2026/08/11/306509/",
-      "snippet": "A local whale and bird watching tour group is facing some backlash after sharing a moment involving a pod of orcas online. O'Brien's Whale and Bird To...",
-      "pub": "Tue, 11 Aug 2026 09:06:12 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/obriens-whale-and-bird-tours-orca-video.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RCMP Seeking More Information Following Unusual Incident in Port aux Basques",
-      "link": "https://vocm.com/2026/08/11/rcmp-seeking-more-information-following-unusual-incident-in-port-aux-basques/",
-      "snippet": "RCMP in Port aux Basques are seeking more information following reports of a commotion in the town early Sunday morning. Police were called just after...",
-      "pub": "Tue, 11 Aug 2026 08:53:11 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/05/POLICE-RCMP-Car.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "B.C. wildfire evacuees told to brace for devastation, as RCMP launch criminal probe - Times Colonist",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTFzOUNEMl9idlAwa2V6c19MTTlkeWtubjdPVUlsS0FCZ0x2Y21Od25JdWpCbGFZbHF0WW1TcUk4UDBsMk96bzlSYWNVVkVjSkFOb1BkUXJnX3VWRVV4Nlp6T1ktMTFwdnpDNVFTeWdFRHg0T0xMbFk0dTVNdFZVOHQyeGFUU2puck1xT0tXeTJvbG1ERTBkSFEtVGo1dWQtOG9UM2hSWmowN0J6Y2JhRWxZb0UtLWUwSVNSRHU3eWR3TnNhc3dvbjJB?oc=5",
-      "snippet": "B.C. wildfire evacuees told to brace for devastation, as RCMP launch criminal probe &nbsp;&nbsp; Times Colonist Influx of help on the way to Bald Range wildfire &nbsp;&nbsp; Castan",
+      "snippet": "B.C. wildfire evacuees told to brace for devastation, as RCMP launch criminal probe &nbsp;&nbsp; Times Colonist What you need to know about B.C. wildfires on Aug. 11 &nbsp;&nbsp; C",
       "pub": "Tue, 11 Aug 2026 04:57:25 GMT",
       "image": ""
     },
@@ -84,9 +84,9 @@
     },
     {
       "source": "Google News Canada",
-      "title": "We asked Americans for their thoughts on the Canada-U.S. trade war. Here’s what we found - bnnbloomberg.ca",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWE5oMmQ4aVBnRnczeWx4dDlTVk5qTUJwQzQ1LWNKbHZva0JpdFYxYlZEOXlkb1J6eHRzenRyLUtFWGdWblc5azRUNzc1bnY5NE5WZHhWajZKV2pEMkZwcjcydHdjc2hHSzdsXzByX3RYMWNDWUZNMG1qMXN4Rzl2bTFNS3BjUmF2a1B3aGJQaVEwNkw0NVVRNzJCSUxXcHlxajIxM1NJRE5QcU4tUGc?oc=5",
-      "snippet": "We asked Americans for their thoughts on the Canada-U.S. trade war. Here’s what we found &nbsp;&nbsp; bnnbloomberg.ca Canada-U.S. trade minister to meet U.S. counterpart for 3rd ti",
+      "title": "We asked Americans for their thoughts on the Canada-U.S. trade war. Here’s what we found - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUFlIMGpZM0ZLTDZzeDlSYmowU1o2TVFSaW5mUnFHOXRzc1pyRmdlT29UTGJnR0F6eGZkYmg1SDNGZHlzcG1jTFBJMzJaamRwcUNfYVp0d0tPa1FnUkI3ZDhremRxNHpxU2dubWxnRi0xdHMtU1IyTk15T19QZmdpOE12dVV1LVJHUWs0WUE1M3J0TXR3Yzk4bTE5UHFmSFZXRm1PT0FIQUlYYTV5V1RnRXB4NWo?oc=5",
+      "snippet": "We asked Americans for their thoughts on the Canada-U.S. trade war. Here’s what we found &nbsp;&nbsp; CTV News Canadian trade negotiators meeting with U.S. counterparts again Tuesd",
       "pub": "Tue, 11 Aug 2026 00:36:00 GMT",
       "image": ""
     },
@@ -100,34 +100,34 @@
     },
     {
       "source": "Google News Canada",
-      "title": "‘Some type of closure’ after Montreal man found guilty of murdering 9-year-old daughter - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGIySjM4c2xwTURZSGxrTmo0anJjeGEzc0Z6UGJLNUdIcUg1LWluVFFGbkRBd2ZyeEdrNFhqc1lfbmlZVGhPWHN4cnBiZDNOZW56d0poMm12dkZ1RzdyRmE2QmR3dXFJeU56dG0xRE10cmhocVp2ZExzaE1Ga2FJQnpXbzBJR1ZpY2VJQmJxclNubFgyR0txWHBYNVF4UEdQRVE?oc=5",
-      "snippet": "‘Some type of closure’ after Montreal man found guilty of murdering 9-year-old daughter &nbsp;&nbsp; Montreal Gazette New York jury convicts father of murder in death of nine-year-",
-      "pub": "Tue, 11 Aug 2026 02:59:19 GMT",
+      "title": "Man arrested after threatening U.S. consulate in downtown Halifax - PNI Atlantic News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM1R5TTNIVm5EdldUSTRuUGpNVlRXTEo5WUFROHo1cVpadzRxaHhHbGV0WHRkbkRjbmF6QnpmN24wWXJfallQeFhVUy1QNndjRWg5Q05EZXdXMWJFLVZ0dmdoT0NzTUxaa3Fxbk9VTk94bjRNczdJQWxxQ1dNOUtyOUdoLTNVYjZqTE94dEVvOUJyRUZyZFFpVnR6R1BZeFpvM2NGdkZuY3pyZEt0RTlxWWlOQQ?oc=5",
+      "snippet": "Man arrested after threatening U.S. consulate in downtown Halifax &nbsp;&nbsp; PNI Atlantic News Man charged after alleged bomb threat targeting U.S. Consulate in Halifax &nbsp;&nb",
+      "pub": "Mon, 10 Aug 2026 20:35:14 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Magnitude 7.4 quake hits western Colombia, killing at least 111 people - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHBUWER6SXU3blRqblBTcEhQWEVuTGhvbVhHQWhsclJoZHllZjJYeF9PdElhZVdrSGZyeVFDRDZZRDJsUFFONmZxdE1rX3R6V01zaUt3dWFSUEF1MHJicHhkU1F6SWF4SEtobUZMWC1ZZGZvQUZJVFpVSFl0Z1hGQ2t5QzFodUZRZjdiQjlacWVQZ25kUDd0el92RE03V0k1eVFZTElaM0Nadw?oc=5",
-      "snippet": "Magnitude 7.4 quake hits western Colombia, killing at least 111 people &nbsp;&nbsp; CTV News Colombia searches for over 3,000 missing after a powerful earthquake kills more than 10",
-      "pub": "Tue, 11 Aug 2026 00:45:00 GMT",
+      "title": "Colombia quake: Frantic search for survivors as over 2,700 reported missing - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTE4yNTR1MWU2TmhNU1N3bXoyN0RiMTh6OFRUVDdVb1FFRGNsN01GMmhHMGRvTkVwNTc2WXdVbHBoeDNRVnVXYU1nRlBoT0pyX200dEQ1Q1V0YWxEYXZoVm1SMnlfOGFBY1J4cTFGYW91MXk1WFR2NXRLMDJXZnk5U0NVUFlIWUVQWE14VzZxbE1kdk8xa3h1Z1hfQlJrbGl5MHBsc0tmcUxyTUx6YVZrLXdPcFPSAboBQVVfeXFMTW5YVzZ4TUg3OEZOelhpZzdITkJoS1dvUGx0VGFTTG0xU1c1VHB4Sm9xb01EeDdSNmR4YVVkRGVhQVFoUlVveGVEeHA1WnhadjhBSW1TV3dHY3pSVVBfczBiSko1eGJzR2FmR3VLTnVseUFSY3l5c0lYWnFGNXc4Z0tZS3pjY1NNUVhyUVMtRGgyUDNTZGJ5bVc2SEZqUHI5d1JDZk1rZ1dBbGFTT0RWN0NFUFJsN0VkT21B?oc=5",
+      "snippet": "Colombia quake: Frantic search for survivors as over 2,700 reported missing &nbsp;&nbsp; Al Jazeera Colombia rescue efforts press on after quake, death toll expected to rise &nbsp;",
+      "pub": "Tue, 11 Aug 2026 10:05:21 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Investor charged with kidnapping 'Crypto King' accused of meddling in co-accused's case - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ1hFcmdkdUhHYXYtVXR3RUxodU5JY2t5b3JGUkhmRjdMUk43Z1F0MGl4MEZYYk1KeEIzN3Bwa3BHcU9xNzdzVU16TzdURjQ2M21XNjJ6ZW50Qm9nS1U3eFJJdmtEUmVRY284UE1oYlQyWExwM1lBWDhMbVJSSzNqZzBpQ1BGM20wNW9RYWhfLUZNY0lIUFIxVW1TejRpMWZBMXc?oc=5",
-      "snippet": "Investor charged with kidnapping 'Crypto King' accused of meddling in co-accused's case &nbsp;&nbsp; CBC",
+      "title": "Toronto police search for missing 63-year-old woman - CP24",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRldyWHZzaGZFQUpSUVNKN3lmS0lWSUFkYVVnQTZUeXB5SVppQVZYd1F2dXJleEw1M2xHYUZ5QjR6RWUyNkkxaGJLMTBtemVvX3Z5aXoxS0c5eXFCSl9Kamd2SDV5dUJWblRrTG50cUI4blctOUxRdUo2bXdFaVhzWGZNWGdNcGxNZ2ltZG1uWkFXYUp5UDB6UjlxZkdPMVU?oc=5",
+      "snippet": "Toronto police search for missing 63-year-old woman &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
+      "pub": "Tue, 11 Aug 2026 11:45:54 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Researchers looking into soot falling across Hamilton say they've uncovered what's in the grime - CBC",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90NVVPU2NEZUNjMlR1dFZwdHp1bmpUeXNweGpfLTg0dkRPRkZyTDhpa0JrWFNuek9LakNMN0l5OFljdGlkdHBBd3hPNXZ2b09ncHN0b2lQdzNfLTR0ZDhINXBJekhjQWFCN084eGdMUGJZc0RF?oc=5",
+      "snippet": "Researchers looking into soot falling across Hamilton say they've uncovered what's in the grime &nbsp;&nbsp; CBC",
       "pub": "Tue, 11 Aug 2026 08:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Toronto man who is accused of sexually assaulting victim at gunpoint is arrested - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGJESGtSUmN2MzluRGV0MUNJYjNYRF9wcXljdnM5Wm91SWpOU3pITnV6RGNDRGloWFEyUFJZT0ZzcnBkelRlbmJSVG1XLUlLUk9GRFp1STZaam9YQmRyT09fZEdkSHpDTDZDNFJhZDhYdVVsQTFHZXVnc21IZDBya2QwX3puVERueFp4QWIwVnFRTjRaLVlBcHJGbzgwWmtaUm1GdjM1ZXA4Z2ZKSUtVTnVCaFBNeWtnNnU3eA?oc=5",
-      "snippet": "Toronto man who is accused of sexually assaulting victim at gunpoint is arrested &nbsp;&nbsp; CityNews Toronto See more headlines & perspectives on Google News",
-      "pub": "Tue, 11 Aug 2026 02:59:00 GMT",
       "image": ""
     }
   ],
