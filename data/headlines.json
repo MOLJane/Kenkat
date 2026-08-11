@@ -1,10 +1,42 @@
 {
-  "generated_at": "2026-08-11T14:50:13.813265+00:00",
+  "generated_at": "2026-08-11T15:51:49.389775+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "Pomerleau Inc. Awarded New CRA Building Contract on Kelsey Drive",
+      "title": "GF-W Woman Found Unconscious in Car, Charged with Resisting and Refusal",
+      "link": "https://vocm.com/2026/08/11/306571/",
+      "snippet": "A woman who was found unconscious in a parked car has been charged after refusing to provide a breath sample for police. RCMP in Grand Falls-Windsor w...",
+      "pub": "Tue, 11 Aug 2026 15:41:36 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/rcmp-royal-canadian-mounted-police-patch-stock-logo.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "New TGH Extension Roundabout Causing Confusion Near Brookfield Road",
+      "link": "https://vocm.com/2026/08/11/306544/",
+      "snippet": "The Department of Transportation says signs have been installed to direct traffic at the new roundabout as part of the Team Gushue Highway extension, ...",
+      "pub": "Tue, 11 Aug 2026 15:30:04 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/tgh-roundabout.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Super Yacht Turning Heads on St. John’s Waterfront",
+      "link": "https://vocm.com/2026/08/11/super-yacht-turning-heads-on-st-johns-waterfront/",
+      "snippet": "A super yacht - the largest single-masted yacht ever built - is turning heads on the St. John's waterfront. The M5, formerly known as the Mirabella V ...",
+      "pub": "Tue, 11 Aug 2026 15:17:02 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/super-yacht-m5.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RCMP Charge HV-GB Man with Impaired Following Crash on TLH",
+      "link": "https://vocm.com/2026/08/11/306558/",
+      "snippet": "A 35-year-old man from Happy Valley-Goose Bay was charged with impaired after the vehicle he was driving left the Trans Labrador Highway Saturday nigh...",
+      "pub": "Tue, 11 Aug 2026 14:51:07 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-21-traffic-radio.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Pomerleau Awarded $121 Million Contract for New CRA Building",
       "link": "https://vocm.com/2026/08/11/306555/",
       "snippet": "The federal government has awarded a $121.6 million contract for the construction of the new CRA building in St. John's to Pomerleau Incorporated. The...",
       "pub": "Tue, 11 Aug 2026 14:37:31 +0000",
@@ -35,38 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/rain-stock-2.png"
     },
     {
-      "source": "VOCM",
-      "title": "NLHS Facing Continued ER Retention Challenges",
-      "link": "https://vocm.com/2026/08/11/306528/",
-      "snippet": "NL Health Services says this province is continuing to face recruitment and retention challenges in the health care system and the ER is no exception....",
-      "pub": "Tue, 11 Aug 2026 12:44:31 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/emergency-clinic-hospital-nlhs-exam-room-health-6.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Nominations Open for Free Heat Pump Program",
-      "link": "https://vocm.com/2026/08/11/306523/",
-      "snippet": "Applications are now open for a program that will help keep three families warm this winter. Heat Pump Solutions is participating in the Lennox Feel T...",
-      "pub": "Tue, 11 Aug 2026 12:39:20 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/11/heat-pump-home-heating-cooling-retrofit.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Survey Finds Most Back-to-School Shoppers Plan to Spend In-Store",
-      "link": "https://vocm.com/2026/08/11/306518/",
-      "snippet": "As back-to-school shopping season ramps up, most parents are planning to purchase items in-store as opposed to online, according to an annual research...",
-      "pub": "Tue, 11 Aug 2026 10:14:55 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/08/School-Supplies.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Police Investigating Damage Done to Parking Lot of Harbour Grace Arena",
-      "link": "https://vocm.com/2026/08/11/police-investigating-damage-done-to/",
-      "snippet": "Harbour Grace RCMP are asking for the public's help in identifying vehicles and drivers involved in damaging the lot at the local hockey arena. It all...",
-      "pub": "Tue, 11 Aug 2026 09:51:33 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/damage-parking-lot-danny-cleary-arena-harbour-grace.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "B.C. wildfire evacuees told to brace for devastation, as RCMP launch criminal probe - Times Colonist",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTFzOUNEMl9idlAwa2V6c19MTTlkeWtubjdPVUlsS0FCZ0x2Y21Od25JdWpCbGFZbHF0WW1TcUk4UDBsMk96bzlSYWNVVkVjSkFOb1BkUXJnX3VWRVV4Nlp6T1ktMTFwdnpDNVFTeWdFRHg0T0xMbFk0dTVNdFZVOHQyeGFUU2puck1xT0tXeTJvbG1ERTBkSFEtVGo1dWQtOG9UM2hSWmowN0J6Y2JhRWxZb0UtLWUwSVNSRHU3eWR3TnNhc3dvbjJB?oc=5",
@@ -76,50 +76,50 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump used elaborate ruse to leave Turkey after NATO summit because of Iran threat, report says - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblU2TjcwZl9JMVdqRzZmYWE2eDB6NzZ3bEVVNTFZUF9tdDJvVG5tQWRZbEw1ZUZiVTItVXVNVWpfWkMxdTI1WDlUMm9VcUxfVWlXUmNfODJUM3ZPa1RBclFYMkU2cjBPNlZUaXJqNk5faG5EY3BSVU93UUluMGNJaF84OGJyWlhCaDBQNGNkTWpHaG1FNTJLYnFTNUVCS1JYWHNyRw?oc=5",
-      "snippet": "Trump used elaborate ruse to leave Turkey after NATO summit because of Iran threat, report says &nbsp;&nbsp; The Globe and Mail Contradicting public statements, Trump took secret f",
-      "pub": "Tue, 11 Aug 2026 03:11:10 GMT",
+      "title": "Braid: Poll shows Canada may have more friends than Trump in the U.S. - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTBSVFFiU0J2V3JqM1hyVmJiNldHcy1taU9lNnFJX0pyWG1WU3E3eGdXaVkwS3p6T3kwc3BuSXUxdi1kMW1FUmw5OUlpSFRTR0tmN3VNc3RJNldydTJ0RUdBR0pWQWtzOW1LRkN0TkQzeW8xbWhqLVhkWERseUR3dDJJUnZOUlo4RkV0am1EVXU2UEVQWUQ2YjBBbTEzWFFMUzRWRk5PTkRjQW5jLXFnc1lR?oc=5",
+      "snippet": "Braid: Poll shows Canada may have more friends than Trump in the U.S. &nbsp;&nbsp; Calgary Herald Canada’s Trump trade problem is that it’s focused on the wrong thing while the U.S",
+      "pub": "Mon, 10 Aug 2026 21:27:26 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "We asked Americans for their thoughts on the Canada-U.S. trade war. Here’s what we found - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUFlIMGpZM0ZLTDZzeDlSYmowU1o2TVFSaW5mUnFHOXRzc1pyRmdlT29UTGJnR0F6eGZkYmg1SDNGZHlzcG1jTFBJMzJaamRwcUNfYVp0d0tPa1FnUkI3ZDhremRxNHpxU2dubWxnRi0xdHMtU1IyTk15T19QZmdpOE12dVV1LVJHUWs0WUE1M3J0TXR3Yzk4bTE5UHFmSFZXRm1PT0FIQUlYYTV5V1RnRXB4NWo?oc=5",
-      "snippet": "We asked Americans for their thoughts on the Canada-U.S. trade war. Here’s what we found &nbsp;&nbsp; CTV News Canadian trade negotiators meeting with U.S. counterparts again Tuesd",
-      "pub": "Tue, 11 Aug 2026 00:36:00 GMT",
+      "title": "Trump was hidden in catering truck as part of elaborate ruse to get U.S. president out of Turkiye: report - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNXlmRUZySXVxTGE0eG1VX2JkTVJxTjVrSUVqVUJfT0diRTl2c2Y5bHppQU1pYnBwODBBWWMtd1JYSHBYbVp2ZmNZZ1VOajF2djZpZjRSMWZITjVCbXgzNnlMdDBQSG1qM1l5SWM1NGJrOTA2bTNyMC1KNVphMmhLZXRObjZWQ3NDczBUczByS3FsS2g2MXpQQ0F5VzhwTVlZbi1HRFBrUHJNcWhSZzVqSGJyMHNkQzN4OUxIRnhYLVZhRVYyWXJaeVdTLXNiUEtjbHBnS0lCWQ?oc=5",
+      "snippet": "Trump was hidden in catering truck as part of elaborate ruse to get U.S. president out of Turkiye: report &nbsp;&nbsp; CTV News Contradicting public statements, Trump took secret f",
+      "pub": "Tue, 11 Aug 2026 10:05:57 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canadian colonel's medal raises questions about Canada's role in U.S. war with Iran - nationalpost.com",
+      "title": "Man arrested after bomb threat targeting U.S. consulate in Halifax, police say - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUHUtUHJtRVp5eERzaUdFQTJVbTV1MGlfX2N0b2k0SEsxd0ZQdm9QOVF1VHM3a0hiSEFlM0c5VEVfcHBLcjJtdmhhRXM1dUFxRVFzb25UNURqN0U4RWdNNWU1T2ZsbXZxNDNTbHNMMzZzTEswYzJDOFh3cVkxRG5WYUhoSjlackJodFoyajJmcWh0OVdNUkVGV0NJVDhpaGZROWhLRGRLbXhJSGJMZUxYVkRB?oc=5",
+      "snippet": "Man arrested after bomb threat targeting U.S. consulate in Halifax, police say &nbsp;&nbsp; The Globe and Mail Man charged after alleged bomb threat targeting U.S. Consulate in Hal",
+      "pub": "Mon, 10 Aug 2026 19:59:36 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Canadian colonel's medal raises questions about Canada's role in U.S. war with Iran - National Post",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGFmUGZKdW9RclJTUDRKOTdxZ1oyWUk4VW5BcElKbklmMUY1c2s0b3NwTXhTWGFhbTdWczRFam55bUpGb3MzMUhvWEhyUk1aZ3dwT1hnRGR1WVBvWUtZQ2VXVjJJcjJnT3AtaXhUekJpWm5LWWg3YTBEdlJGVlZQZXRSYXpTU0oxMzh2YTZ0RzJQanNsWGlOZTJuWDhqdlZlQ3RFWW4tSF9qU2dScElGa2Z0OHliT2dF?oc=5",
-      "snippet": "Canadian colonel's medal raises questions about Canada's role in U.S. war with Iran &nbsp;&nbsp; nationalpost.com",
+      "snippet": "Canadian colonel's medal raises questions about Canada's role in U.S. war with Iran &nbsp;&nbsp; National Post",
       "pub": "Tue, 11 Aug 2026 10:34:49 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Man arrested after threatening U.S. consulate in downtown Halifax - PNI Atlantic News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM1R5TTNIVm5EdldUSTRuUGpNVlRXTEo5WUFROHo1cVpadzRxaHhHbGV0WHRkbkRjbmF6QnpmN24wWXJfallQeFhVUy1QNndjRWg5Q05EZXdXMWJFLVZ0dmdoT0NzTUxaa3Fxbk9VTk94bjRNczdJQWxxQ1dNOUtyOUdoLTNVYjZqTE94dEVvOUJyRUZyZFFpVnR6R1BZeFpvM2NGdkZuY3pyZEt0RTlxWWlOQQ?oc=5",
-      "snippet": "Man arrested after threatening U.S. consulate in downtown Halifax &nbsp;&nbsp; PNI Atlantic News Man charged after alleged bomb threat targeting U.S. Consulate in Halifax &nbsp;&nb",
-      "pub": "Mon, 10 Aug 2026 20:35:14 GMT",
+      "title": "Trump Wanted to Punish Canada. American Workers Paid the Price - The Walrus",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4weUw2b0Vzd1N5N05SU2FVS1FvSThrSFJmYXdFSmNCVk9hanFzekY1QzIwV183dDZlTTU5RWNWdmZjenFMUzVJcEh6eTFhSUFJTi01MUwwbXA5QQ?oc=5",
+      "snippet": "Trump Wanted to Punish Canada. American Workers Paid the Price &nbsp;&nbsp; The Walrus See more headlines & perspectives on Google News",
+      "pub": "Mon, 10 Aug 2026 15:06:35 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Colombia quake: Frantic search for survivors as over 2,700 reported missing - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTE4yNTR1MWU2TmhNU1N3bXoyN0RiMTh6OFRUVDdVb1FFRGNsN01GMmhHMGRvTkVwNTc2WXdVbHBoeDNRVnVXYU1nRlBoT0pyX200dEQ1Q1V0YWxEYXZoVm1SMnlfOGFBY1J4cTFGYW91MXk1WFR2NXRLMDJXZnk5U0NVUFlIWUVQWE14VzZxbE1kdk8xa3h1Z1hfQlJrbGl5MHBsc0tmcUxyTUx6YVZrLXdPcFPSAboBQVVfeXFMTW5YVzZ4TUg3OEZOelhpZzdITkJoS1dvUGx0VGFTTG0xU1c1VHB4Sm9xb01EeDdSNmR4YVVkRGVhQVFoUlVveGVEeHA1WnhadjhBSW1TV3dHY3pSVVBfczBiSko1eGJzR2FmR3VLTnVseUFSY3l5c0lYWnFGNXc4Z0tZS3pjY1NNUVhyUVMtRGgyUDNTZGJ5bVc2SEZqUHI5d1JDZk1rZ1dBbGFTT0RWN0NFUFJsN0VkT21B?oc=5",
-      "snippet": "Colombia quake: Frantic search for survivors as over 2,700 reported missing &nbsp;&nbsp; Al Jazeera Colombia rescue efforts press on after quake, death toll expected to rise &nbsp;",
-      "pub": "Tue, 11 Aug 2026 10:05:21 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Toronto police search for missing 63-year-old woman - CP24",
+      "title": "‘The highest priority search we have:’ Level 1 search underway for missing Toronto woman - cp24.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRldyWHZzaGZFQUpSUVNKN3lmS0lWSUFkYVVnQTZUeXB5SVppQVZYd1F2dXJleEw1M2xHYUZ5QjR6RWUyNkkxaGJLMTBtemVvX3Z5aXoxS0c5eXFCSl9Kamd2SDV5dUJWblRrTG50cUI4blctOUxRdUo2bXdFaVhzWGZNWGdNcGxNZ2ltZG1uWkFXYUp5UDB6UjlxZkdPMVU?oc=5",
-      "snippet": "Toronto police search for missing 63-year-old woman &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
-      "pub": "Tue, 11 Aug 2026 11:45:54 GMT",
+      "snippet": "‘The highest priority search we have:’ Level 1 search underway for missing Toronto woman &nbsp;&nbsp; cp24.com Police to update search for missing 63‑year‑old in North York &nbsp;&",
+      "pub": "Tue, 11 Aug 2026 13:26:19 GMT",
       "image": ""
     },
     {
