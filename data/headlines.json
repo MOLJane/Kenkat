@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-08-11T06:51:00.805556+00:00",
+  "generated_at": "2026-08-11T08:03:49.119726+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
+      "title": "August 11, 2026 – Have you done any hiking throughout the province this summer?",
+      "link": "https://vocm.com/2026/08/11/august-11-2026-have-you-done-any-hiking-throughout-the-province-this-summer/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13306').",
+      "pub": "Tue, 11 Aug 2026 07:30:41 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/outdoors.jpg"
+    },
+    {
+      "source": "VOCM",
       "title": "RCMP Asking Public’s Help to Find Break and Enter Suspect",
       "link": "https://vocm.com/2026/08/10/306491/",
-      "snippet": "The RCMP are seeking the public's help identifying a suspect following a break in at a cabin outside Lewisporte. Police were called just before 6 a.m....",
+      "snippet": "The RCMP are seeking the public's help identifying a suspect following a break-in at a cabin outside Lewisporte. Police were called just before 6 a.m....",
       "pub": "Mon, 10 Aug 2026 16:57:35 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/cabin-be.jpg"
     },
@@ -59,34 +67,34 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/pp-conference-in-st-johns-august-2026.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Gun Crime in NL Nearly Double from 2023 to 2025: Statistics Canada",
-      "link": "https://vocm.com/2026/08/10/gun-crimes-in-nl-nearly-double/",
-      "snippet": "The number of offences involving firearms in Newfoundland and Labrador the past couple of years is about double that on the crime sheets three years a...",
-      "pub": "Mon, 10 Aug 2026 10:43:58 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/06/Police-Line-Crime-Scene.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Seniors forced to flee B.C. wildfire found safe due to Apple AirTag, help from strangers - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNEo1YVJ0UVJTMmI4N18ycFhJZWllc2dsODdydUh6SFlSdEYtdko5M2Z4eUdCT3gxSUlqOFZvTWJsbGdqcHVROVZad05yWnA4Y2lxejhCX0lXNVhZa3JCN0ZCVnhzZXhKLVRGWmZ4V2FaTGdETUJCaGs5cUMzOWxwS1diOUNWWUhGSWlyOVZhS2oyUkwydGJjS2tqWUpIajAzWDYw?oc=5",
-      "snippet": "Seniors forced to flee B.C. wildfire found safe due to Apple AirTag, help from strangers &nbsp;&nbsp; Global News Videos capture aftermath of Summerland fire in Faulder, residents ",
-      "pub": "Mon, 10 Aug 2026 20:42:14 GMT",
+      "title": "RCMP warn of ‘misinformation’ circulating about wildfire cause - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTTB2VlJLT2ZXeG9STmNxYTNMeUQ2dzE0S1M0cVJDSUlDSDZnQWtlaG0yN3JhUnJ0bHFXZTlzYXdMSzVObFZIbXBKd2lGZm9FRlc5UFpkNC1wZ2djVFJkVWREclRCU1F2TDctNG9COVBOeW95UDZfbzJrcmtVOVdBQkM0V1ZieEZSWm0zMlRwcUZVZGRwRVIyNEdWUDJlOFF2NmJlVQ?oc=5",
+      "snippet": "RCMP warn of ‘misinformation’ circulating about wildfire cause &nbsp;&nbsp; CTV News RCMP launch investigation as ‘out-of-control’ B.C. wildfires force thousands to flee &nbsp;&nbs",
+      "pub": "Tue, 11 Aug 2026 01:19:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Man arrested after threatening U.S. consulate in Halifax - cbc.ca",
+      "title": "Man arrested after threatening U.S. consulate in Halifax - CBC",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnBsSmtORjYxbGxwSnZpaG1VRHNZMWI4a0tsbkcyelVuVVFPbWx1VlNGLVl6RkNRSG4xbmVvajZEemRodmRsZ1g3S3E3YnFXYk5TZ0h6RHMyRzlmYkdkMDFSVzMtSUFySzloVmYtcFdWMEFiOS13YVBTU0tOb3k4X0FiUFVSekZSdlVwd09EVlZZUWRWVHNkYzE2QkdmeG5pdVlMY2tQa3RrWkk?oc=5",
-      "snippet": "Man arrested after threatening U.S. consulate in Halifax &nbsp;&nbsp; cbc.ca Halifax police say bomb threat was made to U.S. consulate, man in custody &nbsp;&nbsp; CTV News Heavy p",
+      "snippet": "Man arrested after threatening U.S. consulate in Halifax &nbsp;&nbsp; CBC Man in Custody Over Bomb Threat at U.S. Consulate in Nova Scotia &nbsp;&nbsp; The New York Times Halifax p",
       "pub": "Mon, 10 Aug 2026 20:57:58 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump signs executive order aimed at reducing number of recommended childhood vaccines - CNN",
+      "title": "We asked Americans for their thoughts on the Canada-U.S. trade war. Here’s what we found - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUFlIMGpZM0ZLTDZzeDlSYmowU1o2TVFSaW5mUnFHOXRzc1pyRmdlT29UTGJnR0F6eGZkYmg1SDNGZHlzcG1jTFBJMzJaamRwcUNfYVp0d0tPa1FnUkI3ZDhremRxNHpxU2dubWxnRi0xdHMtU1IyTk15T19QZmdpOE12dVV1LVJHUWs0WUE1M3J0TXR3Yzk4bTE5UHFmSFZXRm1PT0FIQUlYYTV5V1RnRXB4NWo?oc=5",
+      "snippet": "We asked Americans for their thoughts on the Canada-U.S. trade war. Here’s what we found &nbsp;&nbsp; CTV News Trump's new U.S. customs rules could upend Canadian exports &nbsp;&nb",
+      "pub": "Tue, 11 Aug 2026 00:36:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump signs executive order aimed at reducing number of recommended childhood vaccines - cnn.com",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lT2FzT3B3M3BpS1RWcjdpY0lLMlhuVjRFU3JCZEZiZlpYQzBCT3lmVHlrc19OeXRjTWlkMU5jaVQwU2lMYUxuT2U5ekd0WDlOX0VQR3lFcEhUNnc0bFdMTEpOSTYxVlVXZ3VFMF8wVWtHQQ?oc=5",
-      "snippet": "Trump signs executive order aimed at reducing number of recommended childhood vaccines &nbsp;&nbsp; CNN Trump signs executive order calling for fewer childhood vaccinations &nbsp;&",
+      "snippet": "Trump signs executive order aimed at reducing number of recommended childhood vaccines &nbsp;&nbsp; cnn.com Trump signs order that would space out childhood vaccinations in U.S. &n",
       "pub": "Mon, 10 Aug 2026 18:19:22 GMT",
       "image": ""
     },
@@ -108,26 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "'No more caving': Poilievre's letter to Carney urges him not to concede to U.S. tariff demands | CBC News - cbc.ca",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVJuaEdQMXM1TW1zQWlmbjVSRG9nWGc3c1RVbE5uSkVJVWxzaFFrd2pTWTlxcklwQnRVRHFLVEJObGVabXU4SmFJVkdySnhHZU1GNkEzUnN0LTJ5VVV6ZWMtMDJrck5xWlBnSkhLdWVZT2VzaXEzNFAydzNGRnhoX212X0xlLU5oSkFmVVRyVlZXdjQzdGln?oc=5",
-      "snippet": "'No more caving': Poilievre's letter to Carney urges him not to concede to U.S. tariff demands | CBC News &nbsp;&nbsp; cbc.ca Opinion: Making concessions to get a trade deal when t",
-      "pub": "Sun, 09 Aug 2026 15:25:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Alberta to review emergency alert system following multi-week search for Calgary boy - cbc.ca",
+      "title": "Alberta to review emergency alert system following multi-week search for Calgary boy - CBC",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDF3cmZ0bkxHNy13Ym5zdVQtLVZ0eHJrWUVQVDg1MHFXQWFSWEtTbW83Tk5MaGx2N1YzajJXelFLNFRoQkpaUWg4TWFEN2VuangxYVNlc2tXb1hwYTRkZWR6NFhnR0tCcEF4NkdGZFltcW5WbUZtcmtBMDduNlJnSUZFZWg?oc=5",
-      "snippet": "Alberta to review emergency alert system following multi-week search for Calgary boy &nbsp;&nbsp; cbc.ca Alberta to review Amber Alert criteria and day home after death of Calgary ",
+      "snippet": "Alberta to review emergency alert system following multi-week search for Calgary boy &nbsp;&nbsp; CBC Alberta to review Amber Alert criteria and day home after death of Calgary boy",
       "pub": "Mon, 10 Aug 2026 23:39:06 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Conservation officers continue search for bear after Maple Ridge girl attacked - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWk84X1puaU5ubm13aEtDd2NtbG9rM2o0Mlg1ZEZnaW5UUW5zdUtuandyUFV6eFo0ZUd1eTBTcnNMcl9ua0R6aEdQTUJJM2xLZW52RWpoMm5vNjNDV3h0MXlycW02M012d0tQY0dRV0MxRC1mY3R2TWlOSlREdkg2TmprbndoVlZ5aVhXSA?oc=5",
-      "snippet": "Conservation officers continue search for bear after Maple Ridge girl attacked &nbsp;&nbsp; Global News VIDEO: 3 year old mauled by bear in Maple Ridge &nbsp;&nbsp; Maple Ridge New",
-      "pub": "Tue, 11 Aug 2026 02:05:53 GMT",
+      "title": "RCMP arrest man over alleged death threat against Carney - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSEhMRGMyT1pQQzc3Uy1wcGk0MnZ1RVgzX000M3lQQXd3UUxIZFNGRi1HbFQ0amowbTlPUUs2dzB6VmM4dkFZRmVPLTF5c2FFUHhaZXJTbFRIbldKYUVGaEdDWVdyWjFyaUdUSENPclotUFpvbUxxYmNjbElHTzdWQWRfdmVnYXZnNVRqRzZ0ZkFaZGk1SnBlQWFpRUhmZ0M2ZExvNzB0TQ?oc=5",
+      "snippet": "RCMP arrest man over alleged death threat against Carney &nbsp;&nbsp; The Globe and Mail See more headlines & perspectives on Google News",
+      "pub": "Mon, 10 Aug 2026 18:34:37 GMT",
       "image": ""
     }
   ],
