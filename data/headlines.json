@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-12T11:39:19.485318+00:00",
+  "generated_at": "2026-08-12T12:47:20.349611+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Survey Shows Trump’s Threats Damaging US-Canada Relations",
+      "link": "https://vocm.com/2026/08/12/306669/",
+      "snippet": "Americans might like Canadians, but Donald Trump's presidency and his constant threats against his neighbours to the north appear to have soured the r...",
+      "pub": "Wed, 12 Aug 2026 12:20:15 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/us-president-donald-trump-april-2026.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Government Meets with Salmon Cove Town Council About Recurring Algae Problem",
+      "link": "https://vocm.com/2026/08/12/306665/",
+      "snippet": "The minister responsible for the environment and municipal affairs says government is open to addressing concerns raised by the Salmon Cove town counc...",
+      "pub": "Wed, 12 Aug 2026 11:54:29 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/06/salmon-cove-discoloured-water-algea-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Dump Truck Fire Backs Up Traffic on Pitts Memorial",
+      "link": "https://vocm.com/2026/08/12/306660/",
+      "snippet": "Traffic is backed up on Pitts Memorial at this hour due to a dump truck fire. The fire is in the westbound lane, between the Ruby Line and Galway exit...",
+      "pub": "Wed, 12 Aug 2026 11:40:05 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/pitts-memorial-truck-fire-screengrab.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Partial Eclipse Visible from Atlantic Canada This Afternoon",
@@ -43,30 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/12/RNC-car-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "SportNL Gets Funding Boost from Provincial Government",
-      "link": "https://vocm.com/2026/08/12/sportnl-gets-funding-boost-from-provincial-government/",
-      "snippet": "SportNL has some big plans for its funding this year from the provincial government. Yesterday, the province announced $1.2-million for the organizati...",
-      "pub": "Wed, 12 Aug 2026 08:53:41 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/provincial-government-sport-nl-funding-corner-brook.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Section of Brookfield Road to be Renamed",
-      "link": "https://vocm.com/2026/08/12/section-of-brookfield-road-to-be-renamed/",
-      "snippet": "A section of Brookfield Road in St. John's, which has been severed from the main stretch with the construction of the extension to the Team Gushue Hig...",
-      "pub": "Wed, 12 Aug 2026 08:42:48 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/city-of-st-johns-brookfield-road-cul-de-sac-brookfield-place.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Man Wanted in Theft Investigation Located at HMP",
-      "link": "https://vocm.com/2026/08/12/man-wanted-in-theft-investigation-located-at-hmp/",
-      "snippet": "A man who has been on the RNC's radar for the past couple of months has been located, coincidentally, at Her Majesty's Penitentiary. Back in May, poli...",
-      "pub": "Wed, 12 Aug 2026 08:36:18 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/handcuffs-3.png"
-    },
-    {
       "source": "Google News Canada",
       "title": "B.C. fire evacuees find social media comfort amid official void about destruction - thecanadianpressnews.ca",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORUY1T3dOZHU2eDRUd1NEbFEwNGNIV1QteElyRVN0RERMNUVWenFDZW5vRzF6XzJPRkJIcW83VnlidkxkMWc1cU9zcUZRcTA2Yk5feTBkT0FoR3czeVpoc1hLaHFoNVRxOVdoYUtkRk1DU1k3M3I4RTJHY09aMGJ6T2lHSTBxT2RWdUE4ejBsUURRUEg3akpIbXdwZnhEUndIV0twME9pMnVSdGhfSGNYQ3Y4WE1DcjduNlBnbEhFR3RFOWx5VlNZd0g1U1BFcGpfUmQwVU1JalNSd0pLZkNrTi1qX0hncDRjX2hFV1V0VDFkc042S2pRTkl6YzNBNzRYMVVFbUJR?oc=5",
@@ -76,26 +76,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Wisconsin race tight: Key takeaways from US primary election results - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVNwczdSUUNLSTdLUk1kYzd5NWJMUU0xWkdXODNncFoybEJDU0VoZ0NSSjkwM0FTT1EwMlMtTnBxVS1Jbk00T2h3R1gxeFZ4ckFvdzhoUkF6bGI5OTVqRkVQdC1TQUFBY0o4cDktLVN0SW5KTlMwSFlxVzN5LUlDWDNRVE1qYnNKb3pVT250MHFsVkhpSnludUNOTU9CS0lndDFSMFlsSXRkVVc00gGyAUFVX3lxTE91X2tzTGY1R1hma0RfY3QzbWlPbmxPempMNXk4Q3dkUG1mUDFhM3U2YWpfRVpwTzh2UEt2ZDBFWi1yUmxIVEdfNy00VDdqQUdZNG9HMVpOU2ZXa1hmSEhjMzdxQ1dtMmNWemVfak5XT2NOamE5RVBIcjlNM29CLXEya3VRaVBjSFV5YjBwQ2ZRSDJZT0xJVnFnTl83dHF0a1VYT2dqeVFaT3J0bVdXNWRwYnc?oc=5",
-      "snippet": "Wisconsin race tight: Key takeaways from US primary election results &nbsp;&nbsp; Al Jazeera David Crowley defeats Francesca Hong in Wisconsin governor primary &nbsp;&nbsp; BBC Tru",
-      "pub": "Wed, 12 Aug 2026 08:52:37 GMT",
+      "title": "David Crowley defeats Francesca Hong in Wisconsin governor primary - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYaHdkdlpYRV9POTVfM3JXMTlHeHduMWRHakpULTcwVjBTX2dMQXNsZW5fT1dkclFUb1g0ekNhUTFRVGxINTZ6SE9RQ3FrckdSaVNROWpQX3hSQQ?oc=5",
+      "snippet": "David Crowley defeats Francesca Hong in Wisconsin governor primary &nbsp;&nbsp; BBC Socialist fever breaks: Takeaways from Crowley's win &nbsp;&nbsp; Axios Wisconsin Democrats nomi",
+      "pub": "Wed, 12 Aug 2026 09:55:40 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada’s top negotiator told U.S. counterparts Aug. 19 tariffs could halt trade talks, sources say - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPandzX2tIdmEyRFBOTWg1TDdLVDlxaEJBdnV1c3JCclZ6WFdfcUtTeGFaWlUwcTJIMklMaUI3UmdzOGlWQm0wY2M3Y0tVdFFZTG5DTHRvRThTYVhhd2RzcnVxOWpxSkZsZDlLNHZ6OENBZ3hLUGpTMVJ3YjFlMTZncE5NZ2tsS0lKSzl1Z1RuUDhPTU5qVGswZkdnNnVZWnp2TFNUWjEwWks0aTlralpCSE5wenU?oc=5",
-      "snippet": "Canada’s top negotiator told U.S. counterparts Aug. 19 tariffs could halt trade talks, sources say &nbsp;&nbsp; The Globe and Mail Trump’s Tariffs Force Some Canadian Companies to ",
-      "pub": "Tue, 11 Aug 2026 14:42:46 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump’s Latest Attack on Childhood Vaccines Is the Worst Yet—Here’s Why - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2hLUWYzWE1lU3I5cVl2RXZBcHdzVUdrRTYwWjY0dFpYNFlxcWFuVTlkakxaT1NVTmZrQjVyTGFFN25hWnlPbTFPbjVmdG5JRXluaVRfSmRDSlFNeWRHeENvTXVZUWpibGhLR1FQeEhEMlY3eUhaN1ZBVDR5Q2ZNb2NKTFFCX2Z1VUdMTjNNNWUxVEpTeUI1VVpMdVZmamRYZXc?oc=5",
-      "snippet": "Trump’s Latest Attack on Childhood Vaccines Is the Worst Yet—Here’s Why &nbsp;&nbsp; Gizmodo Trump’s vaccine overhaul could fuel misinformation and confusion in Canada, expert warn",
-      "pub": "Tue, 11 Aug 2026 17:05:44 GMT",
+      "title": "Trump signs executive order with plan to reduce number of recommended childhood vaccines - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZm5ydFZzXy1BUTZFVUllVlc4RjZXOWI5WkVyRzFRWGtQMzdJdDhMMVJjYWVwMjB0OC1OREg0M1o5Zno5MDMwSVBlNTZBeWQyNFhrRkt1R2ZJMFBvR2kxZUF5OVFGT25ueVhQaUtnN1UtUlcyNHVWOE9USUtNVkxxZktHVVQtcjBaWTNxUVVhZw?oc=5",
+      "snippet": "Trump signs executive order with plan to reduce number of recommended childhood vaccines &nbsp;&nbsp; The Guardian Trump’s vaccine overhaul is ‘going to impact Canada.’ Here’s how ",
+      "pub": "Mon, 10 Aug 2026 19:06:00 GMT",
       "image": ""
     },
     {
@@ -108,26 +100,34 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Calgary owners of B.C. wineries facing uncertain futures following wildfire evacuation - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdW9HMkFjM2N5Q09OVWFHa29fMWlyTndNM1FEa3d4NEU2WUlIbExLemFTeFAwLTN1cXE2SGc3bE5MYzN3bTFrVC10b2dhWlQwWXNRU3BZY2docmJfT1ZsMk9ROFNhSGtHOWFtaFNPX0laOXBHQ01McExBa0ZwanpJRldSWjNpS0VGT196bEduZ3JjRHZwM1BsUFNLZ3Ntd0Qxc1Rpakt4Nmt6WjVyVkE?oc=5",
-      "snippet": "Calgary owners of B.C. wineries facing uncertain futures following wildfire evacuation &nbsp;&nbsp; Calgary Herald British Columbia winemakers and ranchers flee wildfires, facing u",
-      "pub": "Tue, 11 Aug 2026 20:37:14 GMT",
+      "title": "Canada’s top negotiator told U.S. counterparts Aug. 19 tariffs could halt trade talks, sources say - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPandzX2tIdmEyRFBOTWg1TDdLVDlxaEJBdnV1c3JCclZ6WFdfcUtTeGFaWlUwcTJIMklMaUI3UmdzOGlWQm0wY2M3Y0tVdFFZTG5DTHRvRThTYVhhd2RzcnVxOWpxSkZsZDlLNHZ6OENBZ3hLUGpTMVJ3YjFlMTZncE5NZ2tsS0lKSzl1Z1RuUDhPTU5qVGswZkdnNnVZWnp2TFNUWjEwWks0aTlralpCSE5wenU?oc=5",
+      "snippet": "Canada’s top negotiator told U.S. counterparts Aug. 19 tariffs could halt trade talks, sources say &nbsp;&nbsp; The Globe and Mail Canada, U.S. trade officials mapping out potentia",
+      "pub": "Tue, 11 Aug 2026 14:42:46 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Global campaign launched to counter claims of Israeli genocide in Gaza - National Post",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjNBOFpxT3NSaFNtLTVDU0pXMVVRUHpIS2NsNXo5ZEh5VHVEZmFlSzQtUTRDUFpjX1VkMHQwd25ENDJHOEtkbzRjb3BYX0l4YU1uZ0JKRGk3Z3JWTmdMRHEtSjI5SGZGYi10aDd5UXltX3BPSjA1TktMVHZCRWNfZWh6OU9zUEN4UFE1VmQwV0U1SVFkSG5VSVh5Q3czckxCT3hnQmdJUHpVZw?oc=5",
+      "snippet": "Global campaign launched to counter claims of Israeli genocide in Gaza &nbsp;&nbsp; National Post No evidence that Israel is committing genocide in Gaza &nbsp;&nbsp; The Kingston W",
+      "pub": "Tue, 11 Aug 2026 20:35:48 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "The hurdles facing Canada's planned pandemic-busting lab - CBC",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNzZvdGlzWU1YVWJsaVpxWFpxYnF4ZUh5d2x1bkYyeHRsdEtmRDVLdGhrRHhFOGRSa1EzMmhja0RwN3BmdkhJNVVWb2hrYnpma0dNblNTTkVnSUU1R1lNSWplX3Bsc0NUNkpoLXFYcXc4UkhzOVptSkstVU1yOUlTMlFwT2w?oc=5",
-      "snippet": "The hurdles facing Canada's planned pandemic-busting lab &nbsp;&nbsp; CBC Feds award design contract for $267-million countermeasures lab in Winnipeg &nbsp;&nbsp; CTV News Opinion:",
+      "snippet": "The hurdles facing Canada's planned pandemic-busting lab &nbsp;&nbsp; CBC Feds award design contract for $267-million countermeasures lab in Winnipeg &nbsp;&nbsp; ctvnews.ca Opinio",
       "pub": "Wed, 12 Aug 2026 08:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Wildfire smoke, thunderstorms in store for Toronto this week - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXB6cFVfTG5xbGl5cGtzaEJ2VmV5Y1JSVFFuZ3h0STdTVWp3UjczcjI1ZHhodWhSeEhJcnl1TVBsM2JRMGxpbFNrSDJ3YlM0dzB5aHZpWnpudktTamdZbW1aUXpBQ1FQTmtOUVdFcnRsbHAwWmZxMkVidnF5UWdGUDBBQWNucFZ3YUtFdQ?oc=5",
-      "snippet": "Wildfire smoke, thunderstorms in store for Toronto this week &nbsp;&nbsp; CityNews Toronto See more headlines & perspectives on Google News",
-      "pub": "Tue, 11 Aug 2026 19:16:00 GMT",
+      "title": "Police ID man fatally stabbed in Hamilton over the weekend - CP24",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckdQTW1VT2xDLUlITnJ6Mk11dXdKZlVzdElKZkU0V2hVTEZHNmZwd09hYkxGR0RvVUE5UUMxR0x4MWxHTWJNUkhqeUlhU0tjT1d3NS1CbUlJd2duWEpzUzVJVzk2d3YxQjFoQUxWeUdkUnFnXzluWXlPUnZCc3NvX2E0aWE3dGxCdEdhaXBFdXNpUUN6R0M5R2dsS043MFR5UmVyT1d3b1ZWQQ?oc=5",
+      "snippet": "Police ID man fatally stabbed in Hamilton over the weekend &nbsp;&nbsp; CP24 Police to provide update on fatal stabbing of man outside Hamilton pool hall &nbsp;&nbsp; CP24 Man, 21,",
+      "pub": "Mon, 10 Aug 2026 20:11:59 GMT",
       "image": ""
     }
   ],
