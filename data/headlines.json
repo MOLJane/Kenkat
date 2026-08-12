@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-08-12T14:14:36.218624+00:00",
+  "generated_at": "2026-08-12T15:26:40.246760+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "RNC Warns of ‘Crimes of Opportunity’ as Summer Break-ins on the Rise",
+      "link": "https://vocm.com/2026/08/12/306693/",
+      "snippet": "The RNC is offering some reminders to people about securing their property to prevent crimes of opportunity. The number of reported break-ins typicall...",
+      "pub": "Wed, 12 Aug 2026 15:19:34 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/constable-steph-myers-3.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Facebook Group Gains Steam Over NL Health Care Concerns",
+      "link": "https://vocm.com/2026/08/12/306689/",
+      "snippet": "A facebook page which invites Newfoundlanders and Labradorians to share their health care stories is picking up steam. Some 9,000 people have joined t...",
+      "pub": "Wed, 12 Aug 2026 14:18:44 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/doctors-office-medical-exam-hospital-nlhs-generic-2.png"
+    },
     {
       "source": "VOCM",
       "title": "Toyota Recalling Some 2025-26 Camrys Over Combination Meter Issue",
@@ -12,7 +28,7 @@
     },
     {
       "source": "VOCM",
-      "title": "Great White Sharks Moving Through Gulf of St. Lawrence",
+      "title": "Great White Shark Makes Epic Journey in Nfld Waters",
       "link": "https://vocm.com/2026/08/12/306679/",
       "snippet": "Two great white sharks are continuing to swim the Gulf of St. Lawrence off the coast of Newfoundland. A number of great white sharks, outfitted with r...",
       "pub": "Wed, 12 Aug 2026 13:10:06 +0000",
@@ -51,83 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/pitts-memorial-truck-fire-screengrab.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "16-Year-Old ATV Driver’s Licence Suspended for Stunting, Driving Without Insurance",
-      "link": "https://vocm.com/2026/08/12/306682/",
-      "snippet": "A 16-year-old had his ATV seized after patrol officers noticed the machine performing a stunt on Water Street in St. Lawrence on Tuesday afternoon. RC...",
-      "pub": "Wed, 12 Aug 2026 11:30:09 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/atv-all-terrain-vehicles-off-road-vehicles.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Partial Eclipse Visible from Atlantic Canada This Afternoon",
-      "link": "https://vocm.com/2026/08/12/partial-eclipse-visible-from-atlantic-canada-this-afternoon/",
-      "snippet": "Expect the skies to dim somewhat this afternoon, as the moon moves between the Earth and Sun, partially obscuring the sun's rays. The partial eclipse ...",
-      "pub": "Wed, 12 Aug 2026 11:19:32 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/04/solar-eclipse-viewing-glasses.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "B.C. fire evacuees find social media comfort amid official void about destruction - thecanadianpressnews.ca",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORUY1T3dOZHU2eDRUd1NEbFEwNGNIV1QteElyRVN0RERMNUVWenFDZW5vRzF6XzJPRkJIcW83VnlidkxkMWc1cU9zcUZRcTA2Yk5feTBkT0FoR3czeVpoc1hLaHFoNVRxOVdoYUtkRk1DU1k3M3I4RTJHY09aMGJ6T2lHSTBxT2RWdUE4ejBsUURRUEg3akpIbXdwZnhEUndIV0twME9pMnVSdGhfSGNYQ3Y4WE1DcjduNlBnbEhFR3RFOWx5VlNZd0g1U1BFcGpfUmQwVU1JalNSd0pLZkNrTi1qX0hncDRjX2hFV1V0VDFkc042S2pRTkl6YzNBNzRYMVVFbUJR?oc=5",
-      "snippet": "B.C. fire evacuees find social media comfort amid official void about destruction &nbsp;&nbsp; thecanadianpressnews.ca What you need to know about B.C. wildfires on Aug. 12 &nbsp;&",
-      "pub": "Wed, 12 Aug 2026 05:35:49 GMT",
+      "title": "'Explosive' wildfire behaviour keeps thousands of British Columbians out of their homes - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZTZfX2pJYW53TDZnd1Y3cUtsUGplVWFtSXhzNEtnUTlwc0FPcHZDTWdXRDdsVTViN2NlbnhieUlZc2tFWlFKcDFfbnBpS3k0dDA0RXhmSDBKQWVDWmx4c2xUeUtmam1xT2xUNVR0UWYtQ085YzZiYzRjOUdndFdzUmthX3B6eUNhdVpXbEhGTkRPYndXeDFaMy1PelFWdDFwdXc?oc=5",
+      "snippet": "'Explosive' wildfire behaviour keeps thousands of British Columbians out of their homes &nbsp;&nbsp; CBC B.C. fire evacuees find social media comfort amid official void about destr",
+      "pub": "Wed, 12 Aug 2026 10:12:56 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "David Crowley defeats Francesca Hong in Wisconsin governor primary - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYaHdkdlpYRV9POTVfM3JXMTlHeHduMWRHakpULTcwVjBTX2dMQXNsZW5fT1dkclFUb1g0ekNhUTFRVGxINTZ6SE9RQ3FrckdSaVNROWpQX3hSQQ?oc=5",
-      "snippet": "David Crowley defeats Francesca Hong in Wisconsin governor primary &nbsp;&nbsp; BBC Primaries key takeaways: A centrist win, questions about Trump endorsement &nbsp;&nbsp; ABC News",
+      "snippet": "David Crowley defeats Francesca Hong in Wisconsin governor primary &nbsp;&nbsp; BBC Sabato’s Crystal Ball shifts Wisconsin governor’s race in Democrats favor after Crowley win &nbs",
       "pub": "Wed, 12 Aug 2026 11:32:17 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump signs executive order calling for fewer childhood vaccinations - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZU9rR21HLUk0RVk2VVh3LTBta19WTmdLQzJvbTZzNGZYMkhaUGZydllELWhZVy15R3VwMW9YOExDdU1TbGI4Vk5DelFydjZwd1I3d1Z6VXRaS2c5YjZORHlvZC1SQ3V0U09KTFlvVzZtLVkyVm1qU2lJTDZ3X2x0ekcyN1NLdzlreFdz?oc=5",
-      "snippet": "Trump signs executive order calling for fewer childhood vaccinations &nbsp;&nbsp; CBC Trump’s vaccine overhaul is ‘going to impact Canada.’ Here’s how &nbsp;&nbsp; CTV News Fact-ch",
-      "pub": "Mon, 10 Aug 2026 20:45:00 GMT",
+      "title": "Trump’s vaccine overhaul is ‘going to impact Canada.’ Here’s how - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmJXdnpxS21Wb0pYUUp3Zk8wQ1pSbWZVQ3R4Z3M3T1ctNV91aUY4UVdXajJsTmczTmdMZkdwaWl4U0c1S08wQ1FGMkhxamZBM1N0RlU4VEtnWU12WVJiNHQ5azBSU0FUOWt0UmVrUExneFRkV21mdmg2TmMyNGxUX3plNVIxRjVKdGo3VTRMYTgxMncyYjl3cjlnQUhtSmM?oc=5",
+      "snippet": "Trump’s vaccine overhaul is ‘going to impact Canada.’ Here’s how &nbsp;&nbsp; CTV News Trump’s shifting vaccine approach &nbsp;&nbsp; Politico Fact-checking Trump's claims as he ro",
+      "pub": "Wed, 12 Aug 2026 10:42:33 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump switched planes hidden in a food truck over Iran threat: U.S. report - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXZPZ1NvbUVhRi1KZzBvOUdLRkZjU0dHbW1kZEVQUTlKTTZXQ3BQaVhRMHN6LXduYmdxQ2ptVUVYZkkxeUhmZnJGWmtmcUNvQVFaT2x2STQ3V09tM1hlOXJZTUlBVWd3LXBNamVFOXBmSmdsckx2Nk1xX2JUM3Rna1VLVXpjelRXUGx6TVFmQQ?oc=5",
-      "snippet": "Trump switched planes hidden in a food truck over Iran threat: U.S. report &nbsp;&nbsp; Global News Shoulder-fired missile threat prompted Trump’s plane ruse, source says &nbsp;&nb",
-      "pub": "Tue, 11 Aug 2026 16:24:16 GMT",
+      "title": "Teen stabbed in downtown Montreal - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVB2bTJkYVExd1pEMW15cXB0b3BEbjdCa3JIRHRvb2J5SEJkem1KODBVS2sxT0lBbUhNM3N4YlJ3ZHFJSmZoeF9FUXRLWFA3Nm9BY1ZlNVI3RTVZeG5TUC1Id2VaaWR6elVuTDVFXzBqcklOUlFiN1g4VHNxZnByclJWTFdtTk9ScGNOMw?oc=5",
+      "snippet": "Teen stabbed in downtown Montreal &nbsp;&nbsp; CTV News 16-year-old boy stabbed in downtown Montreal &nbsp;&nbsp; CBC 2 people injured in stabbings in downtown Montreal &nbsp;&nbsp",
+      "pub": "Wed, 12 Aug 2026 10:17:18 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Magnitude 7.4 quake hits western Colombia, killing at least 111 people - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHBUWER6SXU3blRqblBTcEhQWEVuTGhvbVhHQWhsclJoZHllZjJYeF9PdElhZVdrSGZyeVFDRDZZRDJsUFFONmZxdE1rX3R6V01zaUt3dWFSUEF1MHJicHhkU1F6SWF4SEtobUZMWC1ZZGZvQUZJVFpVSFl0Z1hGQ2t5QzFodUZRZjdiQjlacWVQZ25kUDd0el92RE03V0k1eVFZTElaM0Nadw?oc=5",
-      "snippet": "Magnitude 7.4 quake hits western Colombia, killing at least 111 people &nbsp;&nbsp; CTV News Woman pulled alive from rubble 36 hours after Colombia quake &nbsp;&nbsp; BBC Earthquak",
-      "pub": "Tue, 11 Aug 2026 00:45:00 GMT",
+      "title": "Canadians could soon lose up to $1,800 in unclaimed CRA payments. Here's how to check if you're owed - National Post",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3ZTQzc0JYR3c1anlBYWVQbmVRc3ZTdnFZVE9jbkNRUm1hQ2RYbWI3UDlHVml5X0Fua1lOc1laTDNfTFBPeXkySVFfaTNQZk5ycjRMdVFTRU9DZ19IUUtpT3A4aC1vOU4yMTJCRDQzN2VOMDRsQWhWZEhlU0dmb2c?oc=5",
+      "snippet": "Canadians could soon lose up to $1,800 in unclaimed CRA payments. Here's how to check if you're owed &nbsp;&nbsp; National Post",
+      "pub": "Wed, 12 Aug 2026 10:02:39 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘Some type of closure’ after Montreal man found guilty of murdering 9-year-old daughter - montrealgazette.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGIySjM4c2xwTURZSGxrTmo0anJjeGEzc0Z6UGJLNUdIcUg1LWluVFFGbkRBd2ZyeEdrNFhqc1lfbmlZVGhPWHN4cnBiZDNOZW56d0poMm12dkZ1RzdyRmE2QmR3dXFJeU56dG0xRE10cmhocVp2ZExzaE1Ga2FJQnpXbzBJR1ZpY2VJQmJxclNubFgyR0txWHBYNVF4UEdQRVE?oc=5",
-      "snippet": "‘Some type of closure’ after Montreal man found guilty of murdering 9-year-old daughter &nbsp;&nbsp; montrealgazette.com N.Y. jury convicts Montreal father of murder in death of 9-",
-      "pub": "Tue, 11 Aug 2026 18:44:29 GMT",
+      "title": "PQ leader appeals to Quebec anglophones ahead of election: ‘I extend my hand to you’ - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHNzLTRsRDE2TGVmUU5GZy1xdlZkTkw5YXdGN0EydlJJV3lqSHVOMExfSlhLWFoxSmZfX0hmS05IdXIxU3NZMTRiMjh3NGQtTlpta29KZ1h1cmhIeW16WGZ4RGxqRzhXUHN3cjBtWlI3SVBpdkZNNDVQcHpVSkJEQVNYYU1QaGRGR1FWeFJubDk3TnBoS0xSRElFV3RVNzdQSW1XMndqZlZTRG5qNlhUMzhEQ1dISlFSZXcyVmVyVWhyN1VIa3ptc2RPMFZoTjFtbGJR?oc=5",
+      "snippet": "PQ leader appeals to Quebec anglophones ahead of election: ‘I extend my hand to you’ &nbsp;&nbsp; Montreal Gazette PQ leader makes pre-election pitch to English-speaking Quebecers ",
+      "pub": "Tue, 11 Aug 2026 21:15:17 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Police to provide update on fatal stabbing of man outside Hamilton pool hall - CP24",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOamRObDJfWVFpYlNVZTYzUkhKbjR6R1hmakpFa21PcHdURkZlMG9CX19PdUYzaVBjYlZpa05LRXpWMzhVMk1PYjFrV1loaXJKSTFVTG5fdGprRWxwSWtmNnZ2YlltUDAyOXFNMHh3VEF4TVc2U3lmWWYzVVBqZTlMSFRtckpCWjhISC1fY0ZDc21Ta1JLZXNsakNTd2VfY25CNDl5bUxZQXZZeWpDNm1paWtLV01Sbld5ZzVBd3VtUW0?oc=5",
-      "snippet": "Police to provide update on fatal stabbing of man outside Hamilton pool hall &nbsp;&nbsp; CP24 Man, 21, fatally stabbed on Main Street West following altercation &nbsp;&nbsp; The S",
+      "snippet": "Police to provide update on fatal stabbing of man outside Hamilton pool hall &nbsp;&nbsp; CP24 Police identify Zenin Roussel, 21, as victim in Hamilton’s ninth homicide of the year",
       "pub": "Wed, 12 Aug 2026 10:30:28 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada’s top negotiator told U.S. counterparts Aug. 19 tariffs could halt trade talks, sources say - theglobeandmail.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPandzX2tIdmEyRFBOTWg1TDdLVDlxaEJBdnV1c3JCclZ6WFdfcUtTeGFaWlUwcTJIMklMaUI3UmdzOGlWQm0wY2M3Y0tVdFFZTG5DTHRvRThTYVhhd2RzcnVxOWpxSkZsZDlLNHZ6OENBZ3hLUGpTMVJ3YjFlMTZncE5NZ2tsS0lKSzl1Z1RuUDhPTU5qVGswZkdnNnVZWnp2TFNUWjEwWks0aTlralpCSE5wenU?oc=5",
-      "snippet": "Canada’s top negotiator told U.S. counterparts Aug. 19 tariffs could halt trade talks, sources say &nbsp;&nbsp; theglobeandmail.com Canada, U.S. trade officials aim to present Trum",
-      "pub": "Tue, 11 Aug 2026 14:42:46 GMT",
+      "title": "Crews respond to third battery fire in Toronto in 24 hours - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQzlQbVBLMlNaUDJ5RzF4UkdBOHpXemlzbFNCSUYzVXB1bXl2di1obFhpdERMbGk0bmgzWDNVUi0yeWVtNVRRZHBCNmN6SmgzbmQwS0tEYjJ0eHVVV0F1eFQ1akN0SWlRX3JFVmI0Z3A4eTdrUG9rVFZhN1dIMWNiSm1aTHg1aGVwTmRDY1c0SG1mS3dXWGRSQUJMWng3em8?oc=5",
+      "snippet": "Crews respond to third battery fire in Toronto in 24 hours &nbsp;&nbsp; CTV News 1 injured in lithium-ion battery fire at Toronto apartment building &nbsp;&nbsp; CityNews Toronto ‘",
+      "pub": "Wed, 12 Aug 2026 13:17:11 GMT",
       "image": ""
     }
   ],
