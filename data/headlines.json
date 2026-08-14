@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-08-14T11:37:29.991906+00:00",
+  "generated_at": "2026-08-14T12:43:39.506320+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Metro Residents Warned to Avoid Invasive Giant Hogweed",
+      "link": "https://vocm.com/2026/08/14/306959/",
+      "snippet": "Beware the giant hogweed! The city of St. John's has posted warnings in some public areas about an invasive species that can cause real problems if yo...",
+      "pub": "Fri, 14 Aug 2026 12:12:41 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/hogweed.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Police Investigating Break-Ins Near St. Anthony and Roddickton",
+      "link": "https://vocm.com/2026/08/14/306952/",
+      "snippet": "RCMP on the Great Northern Peninsula are investigating a number of break-ins at cabins and campers in and around St. Anthony and Roddickton. Early thi...",
+      "pub": "Fri, 14 Aug 2026 11:41:10 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/cabin-break-in.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Spruce Budworm to Blame for Swarming Moths in Western NL",
@@ -51,20 +67,36 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/escooter.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Cell Service Still Spotty in Some Areas Following Tower Fires",
-      "link": "https://vocm.com/2026/08/14/cell-service-still-spotty-in-some-areas-following-tower-fires/",
-      "snippet": "The damage caused by a number of targeted attacks on telecommunications infrastructure in the metro area this summer is continuing to affect service i...",
-      "pub": "Fri, 14 Aug 2026 08:36:50 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/cell-tower-fire-shea-heights-2.png"
+      "source": "Google News Canada",
+      "title": "‘It looks like it’s going to end in tears,’ former diplomat warns ahead of Canada-U.S. tariff deadline - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONnVMaUxhcVEwb2wxREZuQklFUDVlTzJyNzB3MVBnY2tYYk1RbUE4MmdmN0NCZlpGMTQtYWVubW1wTldIdGVRZ0NFSld2YUh4dl9DRTFNWU50cDQ3U2xVV29EYTNPMy1fTk41c0pHbU9IODBPdkppSURFNmh2T0x2b3FHNFR5dVBYTWtXeUdhU2JmNnItMzdweEZPZ084ZG1wb2pyd1JLMHAxVHJlNk5yVmxUXzAtd1E5ZGEwelMzMEVWYlIyZGJPZDZxNzNYcnc?oc=5",
+      "snippet": "‘It looks like it’s going to end in tears,’ former diplomat warns ahead of Canada-U.S. tariff deadline &nbsp;&nbsp; CTV News LeBlanc says ‘we’ll have as many meetings as it takes’ ",
+      "pub": "Thu, 13 Aug 2026 16:36:21 GMT",
+      "image": ""
     },
     {
-      "source": "VOCM",
-      "title": "Woman Arrested for Causing Damage to CBS Business",
-      "link": "https://vocm.com/2026/08/14/woman-arrested-for-causing-damage-to-cbs-business/",
-      "snippet": "A woman is set to appear before a judge this morning after an incident at a business in Conception Bay South. RNC was made aware of suspicious activit...",
-      "pub": "Fri, 14 Aug 2026 08:31:40 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
+      "source": "Google News Canada",
+      "title": "Montreal police take down high-powered surveillance camera after Radio-Canada story - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNG5pbkVqNWdBcV8zS2RscUI5WjZoalVwRVhDTHVRRWJQZ2djY2hOd1NMYTVjYUxOMnlHVkN1U012NlJHYkRqWWVTUFhYS1FrMzZEbm96ZjN3X21XcmJJajktaU1PNG1VcG55X3V5THBQRWYybzJXRUlTOWVRbzNxNEdR?oc=5",
+      "snippet": "Montreal police take down high-powered surveillance camera after Radio-Canada story &nbsp;&nbsp; CBC",
+      "pub": "Fri, 14 Aug 2026 11:29:23 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Quitting Canada: Why I am moving to the United States - National Post",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oRGFaZDNHRDlqaVZ3Zi1lWk9YUFV5VDA4dVQzUllnT0w1LWpQcE1OMmlJV2toVGtsZ0V0ZmZMdVNKdElQN3NPTmgyN29fSnR4U28wX084c1F6UE1zQ1pGbHgxTFZldXR0eXBRQy1LcFo3bVF6UmRmRXVR?oc=5",
+      "snippet": "Quitting Canada: Why I am moving to the United States &nbsp;&nbsp; National Post The Americans Are Coming &nbsp;&nbsp; Macleans.ca",
+      "pub": "Fri, 14 Aug 2026 10:31:37 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Some Ontario wineries say bring back U.S. wines, if it eases tariffs - Global News",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TaXViZDdOYm1idkt5QkEzZlpWajdHSDEtb25qWE9jVnNTd1Zjc0ZXRkR3RHRqQTFyRnFLeXJkLTJ3Y1A5SGZqOUlPbGxGdEhWNW0yakUtYXpWTHg3YnNUUURkaHlUbFU3YVJn?oc=5",
+      "snippet": "Some Ontario wineries say bring back U.S. wines, if it eases tariffs &nbsp;&nbsp; Global News Ford open to lifting Ontario’s ban on U.S. alcohol if ‘fair deal’ reached &nbsp;&nbsp;",
+      "pub": "Thu, 13 Aug 2026 11:00:27 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -76,58 +108,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Doug Ford 'more than happy' to bring U.S. alcohol back if a 'fair deal' is reached - National Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFJHTUpiaG5rTFBZNnhHcFpoV29NV1lUbzQ1R3puOGJTQ1ZBMHhkZnpOZngwZHkwMHg1MEFSMTVxNEJ4MUZUOHRCdUNTREpGa3JLMlBvTkdCZHVIUk5GbnFCc2x0Nk4wX3JmVXBmeTByby13QmViOUI3TjQzb0RfbEtHcDhxeHFSekI2eUNqektSZHQyN3RuU1hNN0plZkdYZUJGaXFKWDlhU00?oc=5",
-      "snippet": "Doug Ford 'more than happy' to bring U.S. alcohol back if a 'fair deal' is reached &nbsp;&nbsp; National Post Some Ontario wineries say bring back U.S. wines, if it eases tariffs &",
-      "pub": "Thu, 13 Aug 2026 17:17:36 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "LeBlanc says talks ‘ongoing’ after meeting Greer as 50% tariff date nears - Global News",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55czN0dzZWTHM5R2hvTkptVFpHN21oWVYzUnpqVXgzck5HQV9iekZ6c2IwX0FmUjY2R3hqNEpuellCTGptLVc0MFdqWlVlNnpQYjYxOGI2MzF4ajU4eUcyMTBzNEdHZ2M2d0lfQnpNNTZnWGc?oc=5",
-      "snippet": "LeBlanc says talks ‘ongoing’ after meeting Greer as 50% tariff date nears &nbsp;&nbsp; Global News Carney, Trump to be given 'options' following latest trade talks, says U.S. rep &",
-      "pub": "Thu, 13 Aug 2026 14:28:25 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb21CY09tNFZMeUdwdVZmT3NPTmRRbUlScU9pdFVHTEhYVWw0aVQyc1BUWkdFTDBLaEZGT29KeDhmWDZJaVZBQ19kd3RaOHg1Z0Vpam1xdUF6Ry1iam1UcWhKRWlEbHlvZzFqUW1wdk9IdlBaVjJzNFlkUFlMTTBuVWRPYVZ2NGFxa2xTV29OQzZfZ3huMl9TX3U5RXNDSkdBaWxMWWg3SXdFSEtpaklPb202ZzI2Z9IBuwFBVV95cUxOZ3gycXJtVmUtQW96ZzNaTG8tUkZoYmJKTzRnVEE3MzY5U3NBRjhsTjB3QlVla05LT2JVQkVFUmRsT2tBMWhJbTlIRm51THNUUlBwVmJaa1ZxNmJSVF83ejRFYUZPSHczdjFlQkEwRmg3MjVBS1FHb01tbVlpMF9TQnNBZDRSY29vN2l6anQzcW80bjBNZGx3ZjhqQWNrMmduaVVaX0dDZVRKaDlnRmEyVFl5M2NTRmdLTDl3?oc=5",
-      "snippet": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students &nbsp;&nbsp; Al Jazeera Trump administration’s antisemitism lawsuit against Harvard dismissed by a federa",
-      "pub": "Thu, 13 Aug 2026 18:31:40 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Meadow Valley resident stayed to save his home from wildfire: ‘This is my life’ - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVdaUWpIcWJ2YXBRZHhNV0JTVHlTZzBmQ2dZc05tYmRreElGNXUtTU5jYmx3dUJhVlo3NDdyQnFrajEwMVFEa3pnRS1VY3cxU3RoVlZxZnNPeXRzUVF1YUNaa2VGUVBKRmt3VHdBYXhmM2J2TUVoSVBUQnBSWE5ycWlqd09Bemt0MHc?oc=5",
-      "snippet": "Meadow Valley resident stayed to save his home from wildfire: ‘This is my life’ &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
-      "pub": "Thu, 13 Aug 2026 23:50:48 GMT",
+      "title": "Truck found floating down Bow River near Calgary Zoo; police investigating - CityNews Calgary",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sVTdWRUFQaUtxNTF5NWp5alBhbXB2ZE1DUWtPUnpjRTBjV2dCdDhDNkRLdFNQcXpEY2RVaWN0bFlfV0lha2VSYUp4U0VNdDY4SERkWkkxLUhDcVVtTVlZQXdrVjVvSENrVjFzT3l4Q2RjZw?oc=5",
+      "snippet": "Truck found floating down Bow River near Calgary Zoo; police investigating &nbsp;&nbsp; CityNews Calgary Emergency crews locate driver of truck found floating in Bow River &nbsp;&n",
+      "pub": "Thu, 13 Aug 2026 19:00:49 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Ford says he was unaware PC Party trailed former Ontario Liberal leader Crombie to Jamaica - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXd3VnRTS1h2VDZTbU8teGh2OVozVjFOaVFoV3BuTjRabWk3Um51b1FuOVp4azROaS1jX01YcDVNSWVOSVR3cGhfeUtZMzFtUkR4bElFM2ZjUWJrenJidTdweXc5OXgtQllIeHlnOWt4WHMzUHJrMG9OQmUycnRRZ0p1Nk1hY1g4ZXdHNzlWc2tUak5WdGMxU1M3RlloZw?oc=5",
-      "snippet": "Ford says he was unaware PC Party trailed former Ontario Liberal leader Crombie to Jamaica &nbsp;&nbsp; The Globe and Mail See more headlines & perspectives on Google News",
+      "snippet": "Ford says he was unaware PC Party trailed former Ontario Liberal leader Crombie to Jamaica &nbsp;&nbsp; The Globe and Mail 'Stuff happens': Ford says he was unaware party allegedly",
       "pub": "Thu, 13 Aug 2026 22:50:12 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Rollout of AI surveillance by Montreal police raises privacy concerns - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNG5pbkVqNWdBcV8zS2RscUI5WjZoalVwRVhDTHVRRWJQZ2djY2hOd1NMYTVjYUxOMnlHVkN1U012NlJHYkRqWWVTUFhYS1FrMzZEbm96ZjN3X21XcmJJajktaU1PNG1VcG55X3V5THBQRWYybzJXRUlTOWVRbzNxNEdR?oc=5",
-      "snippet": "Rollout of AI surveillance by Montreal police raises privacy concerns &nbsp;&nbsp; CBC",
-      "pub": "Fri, 14 Aug 2026 11:29:23 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Municipalities NL, E-Bike Retailer say Regulation is Needed on Devices; Government Seeks Public Input - vocm.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96R1ZIS21fYXdLVFJDTUFieDdMU1VXTGFMYjBiaWFNRjZKSmF2S1NsaE01NGM5WlV0YWNKdVFrazNJbTJ0M1BKM2x1Zw?oc=5",
-      "snippet": "Municipalities NL, E-Bike Retailer say Regulation is Needed on Devices; Government Seeks Public Input &nbsp;&nbsp; vocm.com E-bike, e-scooter injuries are on the rise and N.L. want",
-      "pub": "Fri, 14 Aug 2026 08:46:00 GMT",
+      "title": "Man wanted by Hamilton police for more than 30 years arrested in California, ICE says - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFNHamNtSExHcmo0SDVaaXgzNlAwZHJtVk9VejRyM0Z0YmtyanU1SE50djNDNUJuQ2VSVXF1YlVWazVyUC1BdWJFNjRYZ1dEbU5ycUJZWnRkdVcxQUhHcW8yLVJ5R1RzNk5MN1FTSTRoVzZtdEkxQ2ViaFdLc0h6cHg1QlRmb3Z1TTRjOUNOcWliaE5Ud0g3bGd1WnVrajctN0xaQmQzaHVyNWNBSmtScEZ2bmhuY0tKcUMtVzNiQWNpUQ?oc=5",
+      "snippet": "Man wanted by Hamilton police for more than 30 years arrested in California, ICE says &nbsp;&nbsp; CityNews Toronto Hamilton fugitive arrested by ICE in California after decades on",
+      "pub": "Thu, 13 Aug 2026 22:21:00 GMT",
       "image": ""
     }
   ],
