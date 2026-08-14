@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-14T16:11:45.854167+00:00",
+  "generated_at": "2026-08-14T17:23:49.068807+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Burin RCMP Asking Public’s Help in Locating Missing Woman",
+      "link": "https://vocm.com/2026/08/14/307026/",
+      "snippet": "RCMP are seeking the public's help in locating a woman reported missing from Burin. Police say they have concerns for the well-being of 49-year-old Cr...",
+      "pub": "Fri, 14 Aug 2026 16:33:05 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/missing-crystal-besserer.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Work Underway to Improve Traffic Flow and Pedestrian Safety Near Kelsey Drive",
@@ -20,9 +28,9 @@
     },
     {
       "source": "VOCM",
-      "title": "Two-Vehicle Crash on TCH Near Goobies",
+      "title": "TCH Remains Impassable Following Collision Near Jack’s Pond / Southern Harbour Turnoff",
       "link": "https://vocm.com/2026/08/14/307008/",
-      "snippet": "Traffic is backed up in both directions on the Trans Canada due to a two-vehicle crash approximately just east of Jack's Pond near the Southern Harbou...",
+      "snippet": "Update as of 2:17 The Trans Canada Highway is expected to remain closed near Jack's Pond at least until this evening following a serious two-vehicle c...",
       "pub": "Fri, 14 Aug 2026 14:42:34 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/goobies-traffi-backup.jpg"
     },
@@ -59,27 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/group-photo-fertility.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Metro Residents Warned to Avoid Invasive Giant Hogweed",
-      "link": "https://vocm.com/2026/08/14/306959/",
-      "snippet": "Beware the giant hogweed! The city of St. John's has posted warnings in some public areas about an invasive species that can cause real problems if yo...",
-      "pub": "Fri, 14 Aug 2026 12:12:41 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/hogweed.jpg"
+      "source": "Google News Canada",
+      "title": "Luigi Mangione to plead guilty to federal stalking charges in connection with slaying of Brian Thompson - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNF8yR2hsenhuUWFkX3VnZWdOdUNtbnpzNWVhcFZENmtCaVR4ZC1LQy1VZVhfa1hybEpMX25XbUNma254UE9hRHM2TGlXRXdhSHZkV193NUxWcjBMYWI1dy1aOW1lSVJLS08xbzhjRkR5cmRaSGp5dVp0V2oyN2Nna2hyWlBHUFRfbU45eA?oc=5",
+      "snippet": "Luigi Mangione to plead guilty to federal stalking charges in connection with slaying of Brian Thompson &nbsp;&nbsp; CBC Luigi Mangione, accused of killing healthcare boss, to appe",
+      "pub": "Fri, 14 Aug 2026 16:21:37 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Champagne ‘confident’ in Canadian economy despite tariff uncertainty - Global News",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqdDZ2NWlnb0M2Sk9zYXRfc0RZOWFPSWsyOFhBZ2VrOF85V1Bod1VlaXlreURvbkp6TnYzRG9qOGtlWDROaC1xNDBoczAxQ05oXzJzSUQ5MHpPRWt1TXduYUZGR0xvcUxvWEJWb3lIMDJDZDMt?oc=5",
+      "snippet": "Champagne ‘confident’ in Canadian economy despite tariff uncertainty &nbsp;&nbsp; Global News Trump trade rep says Washington 'not going to tolerate' retaliation as tariff deadline",
+      "pub": "Fri, 14 Aug 2026 15:49:00 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Montreal police take down high-powered surveillance camera after Radio-Canada story - CBC",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNG5pbkVqNWdBcV8zS2RscUI5WjZoalVwRVhDTHVRRWJQZ2djY2hOd1NMYTVjYUxOMnlHVkN1U012NlJHYkRqWWVTUFhYS1FrMzZEbm96ZjN3X21XcmJJajktaU1PNG1VcG55X3V5THBQRWYybzJXRUlTOWVRbzNxNEdR?oc=5",
-      "snippet": "Montreal police take down high-powered surveillance camera after Radio-Canada story &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "snippet": "Montreal police take down high-powered surveillance camera after Radio-Canada story &nbsp;&nbsp; CBC Montreal police dismantle controversial surveillance camera &nbsp;&nbsp; CTV Ne",
       "pub": "Fri, 14 Aug 2026 13:59:24 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Luigi Mangione expected to plead guilty in federal case over insurance CEO killing, NYT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOXzhjaE9wWUZGTHNQdkcwX3hEaXlvUUJaNTctTTFyTjE5XzRvVnBCT19CWkZQcGt1WHFVWHNZX05TLUFLV3c0MkpYTVExNHA2NkQ1OHpuMlQ3ODd3aF9OMlhoc0tsTDRuVndoT2oxaDVlOGFOSGVNeDE2clBlWnRGQmFvRFlMQk1sbVlTRmRvWFl3UG1UX0tPM2tIYjJtcTlHQmdKR25Eand2UGRXRkQ4QVgxY0pYMTVKLXc?oc=5",
-      "snippet": "Luigi Mangione expected to plead guilty in federal case over insurance CEO killing, NYT reports &nbsp;&nbsp; Reuters Luigi Mangione to plead guilty to federal stalking charges in c",
-      "pub": "Thu, 13 Aug 2026 19:56:05 GMT",
       "image": ""
     },
     {
@@ -92,9 +100,9 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Quitting Canada: Why I am moving to the United States - National Post",
+      "title": "Quitting Canada: Why I am moving to the United States - nationalpost.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oRGFaZDNHRDlqaVZ3Zi1lWk9YUFV5VDA4dVQzUllnT0w1LWpQcE1OMmlJV2toVGtsZ0V0ZmZMdVNKdElQN3NPTmgyN29fSnR4U28wX084c1F6UE1zQ1pGbHgxTFZldXR0eXBRQy1LcFo3bVF6UmRmRXVR?oc=5",
-      "snippet": "Quitting Canada: Why I am moving to the United States &nbsp;&nbsp; National Post",
+      "snippet": "Quitting Canada: Why I am moving to the United States &nbsp;&nbsp; nationalpost.com",
       "pub": "Fri, 14 Aug 2026 10:31:37 GMT",
       "image": ""
     },
@@ -102,16 +110,8 @@
       "source": "Google News Canada",
       "title": "Trump asks Supreme Court to let him build ballroom, citing national security needs and architectural values - CNN",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ0ZqWTVlakptR05fdzJ0NHA5OWU4S0YwbGhDcXZLcmhrUW9HNGRjXzFWSUtmWGJ3NXlTQzdpUHMtOWNBbzVFLVl5M1J1WVlBa05PSFlTNGt1Y3U3ZXpwZUFuUjhneUxqVHJPUEJ2R0FkQURtcmVlTDNISDFFajZ5d2dDSlduRW0ydldBeGV3?oc=5",
-      "snippet": "Trump asks Supreme Court to let him build ballroom, citing national security needs and architectural values &nbsp;&nbsp; CNN Trump asks Supreme Court to let White House ballroom co",
+      "snippet": "Trump asks Supreme Court to let him build ballroom, citing national security needs and architectural values &nbsp;&nbsp; CNN Trump asks Supreme Court to allow ballroom work to cont",
       "pub": "Fri, 14 Aug 2026 13:31:46 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "‘Watchful waiting’: Canadian firms bet Trump will buckle ahead of 50% tariff deadline - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc3RheWFRbTVhNW02MVRhUWJxdXRIY1pLVG15cGZkNlJ5eHBXR09HODVLOWhoTDlhejg3bENPdUhEUmNMckFvYmF6OGFvVlhSNEdUaGFNM1JYSEV1RngzY0w1bGIwZzhiR1pJQzZSV1RjOEdoTm9hRFJJYThjdUtYcXFaelRzNlFBc0JaTnZNaTRTM3RYU0dheGJOZWtYQWJCb2M2aWtVZEEyYlhCOTR3anlqa1VDYXRVWUYzcFZSNkcxZ3JXUUQwMWwtUGt0YUk?oc=5",
-      "snippet": "‘Watchful waiting’: Canadian firms bet Trump will buckle ahead of 50% tariff deadline &nbsp;&nbsp; CTV News Trump trade rep says Washington 'not going to tolerate' retaliation from",
-      "pub": "Fri, 14 Aug 2026 15:50:23 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Hamilton man wanted in child sexual assault case arrested in California after decades - globalnews.ca",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1WTBkMUUteTNzUTQzZVl5X0RLMVQtekswa1J1RlVMRm9BU2UxLUxtOGZjUmJRQmg0Y0dBV3huQ3k2YW4xZlZNN3JxaXM4bENmcWdadDJ5Z0lsenpLZU1XRExCQmdXdnZ0a1NYTk1OYw?oc=5",
-      "snippet": "Hamilton man wanted in child sexual assault case arrested in California after decades &nbsp;&nbsp; globalnews.ca Man wanted by Hamilton police for more than 30 years arrested in Ca",
-      "pub": "Thu, 13 Aug 2026 23:17:37 GMT",
+      "title": "Doug Ford wins major court battle to strip Toronto of its main downtown bike lanes - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOa2ZTM0xrSnZaU3BDdUtaVGctSHRHWnQ4MXVyaTNTUG9zWU9EcVU0ZDBOLTU1dHRjc21LYmFoMnVaeHNCcDg1ekJEVUtoZnJhZGMtRk8tS2o0djhJSGFTenVOWXlrUmVHYWJEcDk3TmdkNm1ETDdtTUNPTDhuX00tVUdrZ0I3YTZ1d0duVmwwR25rSXptamUtWkNnUjlHUGhBV0Zicy1ySkJTT3VOU2l1UDkwVFdzQ1pzUUhHMTJDODlOMUxMZnFCZjVtRm9pWmk1ME00WXRySlFlYnVybmhzMWNSNTJTeDhWM0VqVXRJMUpnamhTRDZKWA?oc=5",
+      "snippet": "Doug Ford wins major court battle to strip Toronto of its main downtown bike lanes &nbsp;&nbsp; Toronto Star Ford government wins appeal in Toronto bike lanes case &nbsp;&nbsp; Cit",
+      "pub": "Fri, 14 Aug 2026 16:00:00 GMT",
       "image": ""
     }
   ],
