@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-14T09:32:38.944001+00:00",
+  "generated_at": "2026-08-14T10:49:43.332591+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Spruce Budworm to Blame for Swarming Moths in Western NL",
+      "link": "https://vocm.com/2026/08/14/spruce-budworm-to-blame-for-swarming-moths-in-western-nl/",
+      "snippet": "Parts of the island are in the midst of a spruce budworm outbreak and people are noticing as the creatures move into the moth stage. Images and video ...",
+      "pub": "Fri, 14 Aug 2026 10:37:19 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/spruce-budworm-moths.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Government Helping Communities Affected by Wildfires Replant Trees",
+      "link": "https://vocm.com/2026/08/14/306933/",
+      "snippet": "The Department of Forestry is helping communities plant trees with a multi-year reforestation plan for areas burned in last year's wildfires. The goal...",
+      "pub": "Fri, 14 Aug 2026 10:08:53 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/town-of-small-point-broad-cove-blackhead-adams-cove-tree-planting.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "MUN Criminologist says Age-Appropriate Education is Needed on Responsible AI Use",
+      "link": "https://vocm.com/2026/08/14/mun-criminologist-says-age-appropriate-education-is-need-on-responsible-ai-use/",
+      "snippet": "A criminologist is calling for more education at a younger age for children about the use of things like AI - and the potential criminal consequences ...",
+      "pub": "Fri, 14 Aug 2026 09:41:42 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/08/cell-phone-cellphone-school-student.jpg"
+    },
     {
       "source": "VOCM",
       "title": "NDP Calling for Debate in HoA Once Hydro Deal With Quebec is Signed",
@@ -43,66 +67,42 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "August 14, 2026 – Should the House of Assembly be reopened to debate a new deal on Churchill Falls once it’s formally announced?",
-      "link": "https://vocm.com/2026/08/14/306918/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13315').",
-      "pub": "Fri, 14 Aug 2026 07:30:09 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/hoa.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Province Providing $100,000 to NL Outfitters Association",
-      "link": "https://vocm.com/2026/08/13/province-providing-100000-to-nl-outfitters-association/",
-      "snippet": "The provincial government is providing the NL Outfitters Association with $100,000 in operational funding. The non-profit organization represents hunt...",
-      "pub": "Thu, 13 Aug 2026 23:05:04 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/06/Central-Hunter-Rifle-NL-Outfitters-Association.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Springdale RCMP Searching for Two Missing Teens",
-      "link": "https://vocm.com/2026/08/13/306910/",
-      "snippet": "RCMP in Springdale are searching for two young teens reported missing from the town. Thirteen-year-old Harlow Newman and 14-year-old Jeremy Warren wer...",
-      "pub": "Thu, 13 Aug 2026 18:38:31 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/missing-teens.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Quebec bracing for ‘colossal’ impact from looming U.S. tariffs, Fréchette warns - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOExVbTZUZ3FkbjByS0k3ZWxSNkd5a2dHNkhqb1F0N2FvV0dGRUwybTVlMUsxYkhVVmFGZ1RvNHJOWWdyN3U2bDJMUDNQYy1zZi1mdTFKV1hYZDNUQVh2NTNNVnl4WmQ0SnU5U3lfd19FaW9pS3BQTWRybWE0R3VrNDg0d1Q3dw?oc=5",
-      "snippet": "Quebec bracing for ‘colossal’ impact from looming U.S. tariffs, Fréchette warns &nbsp;&nbsp; Montreal Gazette LeBlanc says ‘we’ll have as many meetings as it takes’ as Canada-U.S. ",
-      "pub": "Thu, 13 Aug 2026 19:46:47 GMT",
+      "title": "Conservative MPs worried about losing their seats privately question Poilievre’s leadership, ability to defeat PM Carney - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPb2xfaExFbndaS09HZk9FcjBBeTdoNXRlSUNZcHpFanpoMzVXQTV5WUJpMElRWXdJaFE3aFN2NG9HWk4xQUd4QjkxckY0VlVYNUU1Y3hid0xZa3JrTUdkWnJuLUlQQmUwYVJrNGlIMUxjRWc4cFFTRGJnTUFpOFFveHliVmtYSk9HQk5KOHd2WWk2S2RNWnZtQXNUVzJCb29HRDBCUnlOUlNfbVFtbS14REl6NnZzcklCYXRZRDIwX0RGRWdWSG10akUyTTFUM1llaXIzX0FtZXFYZ0thWU1ZZWptc1lVS3ViZXFKbFowcjA?oc=5",
+      "snippet": "Conservative MPs worried about losing their seats privately question Poilievre’s leadership, ability to defeat PM Carney &nbsp;&nbsp; CTV News Liberal Dominance Masks a Rapidly Chu",
+      "pub": "Fri, 14 Aug 2026 09:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Why one Conservative MP’s push to probe COVID-19 vaccine injuries is prompting concern - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcmU4YzZDWi1zdGx3SkNPc3VZcVlEaExIc1VaTnNGdDVBbkV3aTd5X29Pbm9VY0gyaDh5WnY1MG0tSmxvWEZ0cTZzaFVqZzRyWVdsOXE4eElYMThIOEJLeE5xV3NJNE44Qm9mYVNINmt5LWRuZTM1MWxBYk1hb1A1bGJjSm5hOGlmMkFLOUl4bjhnWk11VkZ4NGpXc2poZjh1QURoUnB1S3JfWnBfWFNiVDNwcXlJUXZfVU8weWVfY0p2dw?oc=5",
-      "snippet": "Why one Conservative MP’s push to probe COVID-19 vaccine injuries is prompting concern &nbsp;&nbsp; CTV News Why parliament hill hasn’t held a real pandemic inquiry yet &nbsp;&nbsp",
-      "pub": "Fri, 14 Aug 2026 01:26:00 GMT",
+      "title": "If Trump imposes 50 per cent tariffs, should Canada hit back? Trade analysts disagree - National Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZE5NdmdBTXphcXdFTjZiUzNmaUhJMU9HMVJyQ0dGdUY0UGlVZFlsNWppT2pFR05ucjZsdDVueE8tM2w3ek81NDRpMmkxd1NOeUhibXhaWGtYdkFNaHF1Y2c0NHhvc2xLQURRMUdLX2NvRzVqZWtZS1gyMHRvN0xfN2wxWE5UOEVFRzFVLTRnc1NRNzBYUjRTN2NQRklqaTAyLVlOLXRnNlBZc29lODBweng5aw?oc=5",
+      "snippet": "If Trump imposes 50 per cent tariffs, should Canada hit back? Trade analysts disagree &nbsp;&nbsp; National Post See more headlines & perspectives on Google News",
+      "pub": "Thu, 13 Aug 2026 16:54:31 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Doug Ford 'more than happy' to bring U.S. alcohol back if a 'fair deal' is reached - National Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFJHTUpiaG5rTFBZNnhHcFpoV29NV1lUbzQ1R3puOGJTQ1ZBMHhkZnpOZngwZHkwMHg1MEFSMTVxNEJ4MUZUOHRCdUNTREpGa3JLMlBvTkdCZHVIUk5GbnFCc2x0Nk4wX3JmVXBmeTByby13QmViOUI3TjQzb0RfbEtHcDhxeHFSekI2eUNqektSZHQyN3RuU1hNN0plZkdYZUJGaXFKWDlhU00?oc=5",
-      "snippet": "Doug Ford 'more than happy' to bring U.S. alcohol back if a 'fair deal' is reached &nbsp;&nbsp; National Post Some Ontario wineries say bring back U.S. wines, if it eases tariffs &",
-      "pub": "Thu, 13 Aug 2026 17:17:36 GMT",
+      "title": "Some Ontario wineries say bring back U.S. wines, if it eases tariffs - globalnews.ca",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TaXViZDdOYm1idkt5QkEzZlpWajdHSDEtb25qWE9jVnNTd1Zjc0ZXRkR3RHRqQTFyRnFLeXJkLTJ3Y1A5SGZqOUlPbGxGdEhWNW0yakUtYXpWTHg3YnNUUURkaHlUbFU3YVJn?oc=5",
+      "snippet": "Some Ontario wineries say bring back U.S. wines, if it eases tariffs &nbsp;&nbsp; globalnews.ca Ford open to lifting Ontario’s ban on U.S. alcohol if ‘fair deal’ reached &nbsp;&nbs",
+      "pub": "Thu, 13 Aug 2026 11:00:27 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb21CY09tNFZMeUdwdVZmT3NPTmRRbUlScU9pdFVHTEhYVWw0aVQyc1BUWkdFTDBLaEZGT29KeDhmWDZJaVZBQ19kd3RaOHg1Z0Vpam1xdUF6Ry1iam1UcWhKRWlEbHlvZzFqUW1wdk9IdlBaVjJzNFlkUFlMTTBuVWRPYVZ2NGFxa2xTV29OQzZfZ3huMl9TX3U5RXNDSkdBaWxMWWg3SXdFSEtpaklPb202ZzI2Z9IBuwFBVV95cUxOZ3gycXJtVmUtQW96ZzNaTG8tUkZoYmJKTzRnVEE3MzY5U3NBRjhsTjB3QlVla05LT2JVQkVFUmRsT2tBMWhJbTlIRm51THNUUlBwVmJaa1ZxNmJSVF83ejRFYUZPSHczdjFlQkEwRmg3MjVBS1FHb01tbVlpMF9TQnNBZDRSY29vN2l6anQzcW80bjBNZGx3ZjhqQWNrMmduaVVaX0dDZVRKaDlnRmEyVFl5M2NTRmdLTDl3?oc=5",
-      "snippet": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students &nbsp;&nbsp; Al Jazeera Judge Dismisses Trump Administration’s Antisemitism Case Against Harvard &nbsp;&n",
+      "snippet": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students &nbsp;&nbsp; Al Jazeera Judge tosses Trump administration’s case against Harvard alleging school didn’t p",
       "pub": "Thu, 13 Aug 2026 18:31:40 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Meadow Valley resident stayed to save his home from wildfire: ‘This is my life’ - Global News",
+      "title": "Meadow Valley resident stayed to save his home from wildfire: ‘This is my life’ - globalnews.ca",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVdaUWpIcWJ2YXBRZHhNV0JTVHlTZzBmQ2dZc05tYmRreElGNXUtTU5jYmx3dUJhVlo3NDdyQnFrajEwMVFEa3pnRS1VY3cxU3RoVlZxZnNPeXRzUVF1YUNaa2VGUVBKRmt3VHdBYXhmM2J2TUVoSVBUQnBSWE5ycWlqd09Bemt0MHc?oc=5",
-      "snippet": "Meadow Valley resident stayed to save his home from wildfire: ‘This is my life’ &nbsp;&nbsp; Global News In the news today: B.C. wildfire damage, awaiting tariff moves, WestJet set",
+      "snippet": "Meadow Valley resident stayed to save his home from wildfire: ‘This is my life’ &nbsp;&nbsp; globalnews.ca See more headlines & perspectives on Google News",
       "pub": "Thu, 13 Aug 2026 23:50:48 GMT",
       "image": ""
     },
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "B.C. RCMP commanding officer relieved of duties following unspecified allegations - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRTJjU0tLWlR1eDh4blVQWUZCMnFldjhMZVFiTFVXWkhsMDZhWGZMX1VIMDZJekR5WUsxNXNYQnhMYzZLVlBsZnY4WWRGYlJkWjhqSEU1VmVLZ0M3V3pxc293LXowcnRQUnZXUDdtTm9oM1NlUWJ6Z2haMEFlRlJDLTlsQlc1M3pnLUZ0VE9CNElnMUFWbDktSjFMNW1qZ0l1VFpB?oc=5",
-      "snippet": "B.C. RCMP commanding officer relieved of duties following unspecified allegations &nbsp;&nbsp; CBC B.C.’s top Mountie relieved of duty over unspecified allegations &nbsp;&nbsp; CTV",
-      "pub": "Thu, 13 Aug 2026 22:59:00 GMT",
+      "title": "Rollout of AI surveillance by Montreal police raises privacy concerns - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNG5pbkVqNWdBcV8zS2RscUI5WjZoalVwRVhDTHVRRWJQZ2djY2hOd1NMYTVjYUxOMnlHVkN1U012NlJHYkRqWWVTUFhYS1FrMzZEbm96ZjN3X21XcmJJajktaU1PNG1VcG55X3V5THBQRWYybzJXRUlTOWVRbzNxNEdR?oc=5",
+      "snippet": "Rollout of AI surveillance by Montreal police raises privacy concerns &nbsp;&nbsp; CBC",
+      "pub": "Fri, 14 Aug 2026 08:00:00 GMT",
       "image": ""
     }
   ],
