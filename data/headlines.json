@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T03:09:55.029100+00:00",
-  "count": 8,
+  "generated_at": "2026-08-15T04:00:36.530030+00:00",
+  "count": 16,
   "items": [
     {
       "source": "VOCM",
@@ -65,10 +65,73 @@
       "snippet": "RCMP say two children reported missing from Springdale yesterday, have been found and are safe. The 13-year-old girl and 14-year-old boy were both rep...",
       "pub": "Fri, 14 Aug 2026 12:58:02 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/rcmp-royal-canadian-mounted-police-patch-stock-logo.jpg"
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Canada, U.S. far apart on tariff deal as deadline looms: sources - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3l1RnZqT1VVY1lFR3pFNGNhMHp0OGR5Q3hZYzk2VWhuSy14eS1uYzlEWDdXNkpTSzJfaWVFRjhkcWM0NHdCOENmLTdtVlJncnJ5ZG4zb29iRXJkUWVYaGd3dWJUXzlfQUd3T1NKMVRPUTJ3Yk1xc185MGQwQUtRdWd3?oc=5",
+      "snippet": "Canada, U.S. far apart on tariff deal as deadline looms: sources &nbsp;&nbsp; CBC Opinion: In the trade war showdown, it’s strong-hand Carney vs. weak-hand Trump &nbsp;&nbsp; The G",
+      "pub": "Fri, 14 Aug 2026 20:12:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "'Super’ El Niño Could Push Earth's Temperature 13 Years Ahead of the Current Warming Trend - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEppNnluWnB3MTlvTldUbEpsb3JTS0RiM1dqN0NHUzZWLWZPUmZjY0VybW5RdjR3blN2QzdHcTNyUGNBUXR2ZnYzR3EwLThTUXFzYThJSUVOcUZ5WVNtb2I5VkxHTWZpUy1tZjhTTlA3aDlxS1YxdThqOHV3LTBoWHpZLWdOam05d1dRcm16cjNNT1d2NVN2V2NWc1k3eklRVnoyU3NhM29NMEtobTA1Y0xnY212bWxsNmc?oc=5",
+      "snippet": "'Super’ El Niño Could Push Earth's Temperature 13 Years Ahead of the Current Warming Trend &nbsp;&nbsp; Gizmodo Latest El Niño forecast calls for historic heat by this autumn &nbsp",
+      "pub": "Fri, 14 Aug 2026 15:35:14 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Tsunami warnings after M7.7 earthquake hits in Indonesia - The Weather Network",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNjNOQWx5R3RES1U0T3VNR20tay1yZTJmQXpvV0VWeXVURmlXZXBLcXpyQXUwb1dNRVhTZlh2SHhfVS1jQ05ucUU4SWZvX1N1RTJSXzVTUVp2WTcyMTVvNzl2Uk9rQVVsdlZpUlNPZUIzY2djd0h0YTV4UHA2MHktMjFrTDVKRTcyQUt0OUUyOFRFbG9IcE5JRVNXMm9NWFFFekJPQnZGQV9QVjVjbmhGRkxCM0lPZ2s?oc=5",
+      "snippet": "Tsunami warnings after M7.7 earthquake hits in Indonesia &nbsp;&nbsp; The Weather Network Powerful 7.7 magnitude earthquake hits Indonesia, forcing villagers to flee &nbsp;&nbsp; C",
+      "pub": "Fri, 14 Aug 2026 19:44:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump asks Supreme Court to allow ballroom work to continue - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UcVBMcVFjdVdzV3FQSFktT2IxOFNKSlViUTlkcFREUjR3amR4U0xwZzVaSFZSWWU5U0p0TGF5NmpDN0Y5NmoyYmpvUU5OVUVXbDB1Y1hkTU5NQQ?oc=5",
+      "snippet": "Trump asks Supreme Court to allow ballroom work to continue &nbsp;&nbsp; BBC Trump wants to put golden seals on White House ballroom &nbsp;&nbsp; The Washington Post New White Hous",
+      "pub": "Fri, 14 Aug 2026 19:05:22 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Former Cambridge professor accused of plagiarism found dead - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVW1WeDJwUGlha3BIaGFiUGRHQVd6ZGdqel9PXzU0anVmMnZrYzJLaVNhS0lXYlhGYzBMcXBoLVRBSnhrYjFiRGl5bTdxdGxzaXlBc3FCT05QRTFyTHJCZGlJUlJVaTNOVlQ1NUFkSVNrb1VZNDdGRHYyQ0ZSUzRQdmJ5TmtxR1BGYTJGbnVBRS1YQ3VnczNyQ2RSY1lSQTFwS3fSAacBQVVfeXFMT1dqNlNPbnJQa05xNWM3X0piLURyNW5SVGtWR0wwRm1iUm5wVUVzODZ2WlIyZXdOS2VCbGlReWdBSzd1TnVMYzVvYVA5M2JoZzRQQmMxcWViS1JBTHNOVkJRZURvSTVKc0R1WW1ZMkx6UXBUZUx6cUx6ODJsbkgwTk00STF5QVYxQXhfZ2FDbnJ2bDRNeC1FQVM1bldiTXA3cUxfRHFXdkE?oc=5",
+      "snippet": "Former Cambridge professor accused of plagiarism found dead &nbsp;&nbsp; Al Jazeera Ex-Cambridge professor who faced plagiarism claims, weeks of public scrutiny, found dead &nbsp;&",
+      "pub": "Fri, 14 Aug 2026 23:39:11 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Doug Ford wins major court battle to strip Toronto of its main downtown bike lanes - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOa2ZTM0xrSnZaU3BDdUtaVGctSHRHWnQ4MXVyaTNTUG9zWU9EcVU0ZDBOLTU1dHRjc21LYmFoMnVaeHNCcDg1ekJEVUtoZnJhZGMtRk8tS2o0djhJSGFTenVOWXlrUmVHYWJEcDk3TmdkNm1ETDdtTUNPTDhuX00tVUdrZ0I3YTZ1d0duVmwwR25rSXptamUtWkNnUjlHUGhBV0Zicy1ySkJTT3VOU2l1UDkwVFdzQ1pzUUhHMTJDODlOMUxMZnFCZjVtRm9pWmk1ME00WXRySlFlYnVybmhzMWNSNTJTeDhWM0VqVXRJMUpnamhTRDZKWA?oc=5",
+      "snippet": "Doug Ford wins major court battle to strip Toronto of its main downtown bike lanes &nbsp;&nbsp; Toronto Star Ford government can rip out Toronto bike lanes, Court of Appeal for Ont",
+      "pub": "Fri, 14 Aug 2026 21:15:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Conservation officers say RCMP weren't mistaken in shooting bear that attacked 3-year-old - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWhrdjBNZXo1eEdlbURrd2JfVmxNbmlDZ25VcW8xTWtZOUFuYWFINTg4bnRBYXdieFRycDBZMW9WVkZmSWpyTWF3VWMzYnphdVZNMFhmSldBUnp6OGtTZ3c0cXg3NXpnemhkVjdyT29XRmtfalN3eHJrcHQ4V0ZtT1poQl9kX1ZnS0FUVTVn?oc=5",
+      "snippet": "Conservation officers say RCMP weren't mistaken in shooting bear that attacked 3-year-old &nbsp;&nbsp; CBC Bear killed by RCMP was animal that attacked B.C. toddler, contrary to ea",
+      "pub": "Fri, 14 Aug 2026 23:47:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Quebec man reaches settlement after wrongful 1983 double murder conviction - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1BFb0d1Q0ZPYkFibC1jbVR3QkZiTFljSFVGQ0N6ekU0MG9sRzc2X1ZRUy1fbG9Ed2ZTS3V1SXVqaVBINGNGdGdCSW9aOHVVMDMtb19OZjdGeWxLc2tfdXZhVmZpZVJBMFhmSTZVaHVNM0gzSU9MbjZTVDFpWV8zR3lCekVoTGQ0SzZzQXcwMmpIdG5FcFFrcHFZZzBzUkhCRF8tS1lxRFg5MHA3cFdJaHc0MFRadw?oc=5",
+      "snippet": "Quebec man reaches settlement after wrongful 1983 double murder conviction &nbsp;&nbsp; CTV News Man acquitted of double murder after 40 years reaches settlement with Montreal, Que",
+      "pub": "Fri, 14 Aug 2026 18:40:29 GMT",
+      "image": ""
     }
   ],
   "errors": [
-    "CBC News failed: The read operation timed out",
-    "Google News Canada failed: HTTP Error 503: Service Unavailable"
+    "CBC News failed: The read operation timed out"
   ]
 }
