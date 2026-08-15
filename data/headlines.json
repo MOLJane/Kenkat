@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-15T13:49:02.045866+00:00",
+  "generated_at": "2026-08-15T14:13:08.815187+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Hours Long Traffic Standstill After Serious Collision Near Goobies",
+      "link": "https://vocm.com/2026/08/15/307062/",
+      "snippet": "There were extensive backlogs on the TCH yesterday following a serious collision near Goobies. The collision happened yesterday afternoon east of Jack...",
+      "pub": "Sat, 15 Aug 2026 13:47:25 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/goobies-traffi-backup.jpg"
+    },
     {
       "source": "VOCM",
       "title": "‘Extended Struggle’ Ends in Arrest and Multiple Charges for St. John’s Man",
@@ -59,26 +67,18 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/construction-thorburn-road-detour.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Requests for Proposals Issued to Accommodate Those Living at Horizons 106",
-      "link": "https://vocm.com/2026/08/14/307007/",
-      "snippet": "Three Requests for Proposals have been issued to accommodate 75 people as the provincial government moves forward with plans to shut down transitional...",
-      "pub": "Fri, 14 Aug 2026 14:46:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/04/transitional-housing-airport-comfort-inn-2.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump’s new tariffs should be a wake-up call for Canada: Iowa senator - CTV News",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLVgydVRWVTc4OWFsZ2xudkZiRm1OSTRIRzVUeVdGM2FvdXViLW9YYjJjM2VNbnNHYjVrZGRyc2dlaXItVEo0ZktVUlM3azFBb1pYUHAwY3RiTEdtOWwyMURVSGVRWXd0Q1pWckNaVGxtaWt5QmxaOHgwMDdSNnJlQ3BlZHVqN3J1NFRWcFRVN0g2dWx2NE12UWpGSThIY25ObUtWOXZsaUhHVU50QlRkekd6NmlIaEQ1QWdNRA?oc=5",
-      "snippet": "Trump’s new tariffs should be a wake-up call for Canada: Iowa senator &nbsp;&nbsp; CTV News Already beset by tariffs, Quebec braces for another big trade hit &nbsp;&nbsp; The Globe",
+      "snippet": "Trump’s new tariffs should be a wake-up call for Canada: Iowa senator &nbsp;&nbsp; CTV News Opinion: In the trade war showdown, it’s strong-hand Carney vs. weak-hand Trump &nbsp;&n",
       "pub": "Sat, 15 Aug 2026 11:46:32 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Multiple shooters at Virginia State University, with several people shot - CBC",
+      "title": "Multiple shooters at Virginia State University, with 5 people shot - CBC",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05VGZRQUszM3U1MHhvNTFiZHVjZU80RmduTzZucUlST0FLZ2lmY18xWmdGQW1fX3lWYjRBTGVjYTB0VmhDNndkOU5rbFgteEpNSUtTNkZ0eDZQVzZ1UnpoaU1kaGY3MWpvWjNqVFdSazAzc09wZnpBcjBERkNpQjQ?oc=5",
-      "snippet": "Multiple shooters at Virginia State University, with several people shot &nbsp;&nbsp; CBC Five wounded in shooting at Virginia State University &nbsp;&nbsp; aljazeera.com Multiple ",
+      "snippet": "Multiple shooters at Virginia State University, with 5 people shot &nbsp;&nbsp; CBC Multiple people injured in shooting at Virginia State University &nbsp;&nbsp; The Guardian Five ",
       "pub": "Sat, 15 Aug 2026 13:18:35 GMT",
       "image": ""
     },
@@ -92,17 +92,9 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Zelensky Confirms Flamingo Missile Strikes Deep in Russian Territory - Kyiv Post",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBydFhDdWp1MGRRaElsZ3dLT21GVDJhZ1M3WFB2TlFWbktCSEpFT25mczBfX2FuYTZLZ0JKbFdQNlp3dzBrUHRIbmt0cw?oc=5",
-      "snippet": "Zelensky Confirms Flamingo Missile Strikes Deep in Russian Territory &nbsp;&nbsp; Kyiv Post Ukraine strikes Russian rocket and military centre, Moscow hits infrastructure &nbsp;&nb",
-      "pub": "Sat, 15 Aug 2026 09:28:05 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Five years after the Taliban won, Afghanistan is still losing - CNN",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWFRkZW9iV3dJUE1qUlZqaVdtRzVNWkJvYmJibG1QMTJ2QlZQdHMzRW04T0F4dkt4bm1WWVZfTS1yMGNKYU9fdUhNYmdnSkFfbXBUbkhMTFZIYjNIX180M0xNa1hDa19MRWJSNUo0QlI2VnFUYzc3UWxfVkJxcFk?oc=5",
-      "snippet": "Five years after the Taliban won, Afghanistan is still losing &nbsp;&nbsp; CNN Afghan advocates flag five years of Taliban rule &nbsp;&nbsp; Global News Five years after Kabul fell",
+      "snippet": "Five years after the Taliban won, Afghanistan is still losing &nbsp;&nbsp; CNN Taliban mark five years back in power in Afghanistan as aid groups warn of crisis &nbsp;&nbsp; NBC Ne",
       "pub": "Sat, 15 Aug 2026 04:01:29 GMT",
       "image": ""
     },
@@ -110,24 +102,32 @@
       "source": "Google News Canada",
       "title": "B.C. Wildfires Updates: Some Summerland residents returning home | Section of Highway 97 to reopen Saturday - Vancouver Sun",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2pkZEtkZlM4VVhNWkFqZEp1QjI1cGtERVdDb2NLNkluYl9EOGtHNDlZZUtoQjRpY0ZWVWppRnBRY012UDVSdkpwZGlrVTB1QXl1OUt4eENpdkVMWVkzcHJCaHR4OEtWaE5fUHdQb2VIMHJOUmtBclBLYUVYaW13cUh5VnNMZUI5elloRkw4RmxZLWV1d04teUhwVjZ5LTRGQXZGUU9udw?oc=5",
-      "snippet": "B.C. Wildfires Updates: Some Summerland residents returning home | Section of Highway 97 to reopen Saturday &nbsp;&nbsp; Vancouver Sun 'We don't even have a phone': Aging B.C. wild",
+      "snippet": "B.C. Wildfires Updates: Some Summerland residents returning home | Section of Highway 97 to reopen Saturday &nbsp;&nbsp; Vancouver Sun Inside the early battle against the ferocious",
       "pub": "Sat, 15 Aug 2026 03:59:07 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "VIDEO: City police defend use of force in Intercity-area arrest - tbnewswatch.com",
+      "title": "VIDEO: City police defend use of force in Intercity-area arrest - Thunder Bay News - TBNewsWatch.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaHdoRTk2NHVUdVJKdHFxRGlJSG9tdEtiTXU5RkhCajdFMWNGV2R6WlZFZEVlOHJEMnV3dk5RZEM5ZUQwV2JIVzZJZlhfcmNSRHVEVW12eGstUU1nckpuTFNlb2E5dWhYTlJDM2xnLWVBQ3UxSWNXMVBmbUp1VXlaTkFqWDI0ejgyaWNDUDNwZWE5a0xUUTBEbWpzaXZIS2RaREh6emVLdw?oc=5",
-      "snippet": "VIDEO: City police defend use of force in Intercity-area arrest &nbsp;&nbsp; tbnewswatch.com Thunder Bay residents arrested after drug trafficking probe &nbsp;&nbsp; tbnewswatch.co",
+      "snippet": "VIDEO: City police defend use of force in Intercity-area arrest &nbsp;&nbsp; Thunder Bay News - TBNewsWatch.com Thunder Bay residents arrested after drug trafficking probe &nbsp;&n",
       "pub": "Fri, 14 Aug 2026 20:30:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Doug Ford wins major court battle to strip Toronto of its main downtown bike lanes - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOa2ZTM0xrSnZaU3BDdUtaVGctSHRHWnQ4MXVyaTNTUG9zWU9EcVU0ZDBOLTU1dHRjc21LYmFoMnVaeHNCcDg1ekJEVUtoZnJhZGMtRk8tS2o0djhJSGFTenVOWXlrUmVHYWJEcDk3TmdkNm1ETDdtTUNPTDhuX00tVUdrZ0I3YTZ1d0duVmwwR25rSXptamUtWkNnUjlHUGhBV0Zicy1ySkJTT3VOU2l1UDkwVFdzQ1pzUUhHMTJDODlOMUxMZnFCZjVtRm9pWmk1ME00WXRySlFlYnVybmhzMWNSNTJTeDhWM0VqVXRJMUpnamhTRDZKWA?oc=5",
-      "snippet": "Doug Ford wins major court battle to strip Toronto of its main downtown bike lanes &nbsp;&nbsp; Toronto Star Ontario free to axe Toronto bike lanes, region’s top court rules &nbsp;",
-      "pub": "Fri, 14 Aug 2026 21:15:00 GMT",
+      "title": "How an open container of expired coconut milk helped investigators pinpoint the source of a deadly Listeria outbreak - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQM3Y3OHU4MFFCVk01Ui1uV09xb0dFYThoc0VwSVdiMnJJUVFLZTFJNDJnWDZhWnZ3LWxrUnBXc0VfOHlLYnFnUFNqQVJaQ0hnX2llMkZsV05MMWNpMW5EZzVHYzdhcHNpcEN3dm1FZjdxckRBamd6THQyRUJiMjhEOHVRZWtUZjdRY1VoeFVNMDdLMlY1dXpYZ29PV0RLbmRZbHBPaExCelVNQUtCZHFVU1JNdHlMSjVVaWU1MzA2LTQyb2t5eTN4OUJDZWFSWUxXb0xyemExRmY0bHZsMGExaWxheWduQ2hjMGtBbw?oc=5",
+      "snippet": "How an open container of expired coconut milk helped investigators pinpoint the source of a deadly Listeria outbreak &nbsp;&nbsp; CTV News",
+      "pub": "Sat, 15 Aug 2026 13:04:23 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Conservation officers say RCMP weren't mistaken in shooting bear that attacked 3-year-old - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWhrdjBNZXo1eEdlbURrd2JfVmxNbmlDZ25VcW8xTWtZOUFuYWFINTg4bnRBYXdieFRycDBZMW9WVkZmSWpyTWF3VWMzYnphdVZNMFhmSldBUnp6OGtTZ3c0cXg3NXpnemhkVjdyT29XRmtfalN3eHJrcHQ4V0ZtT1poQl9kX1ZnS0FUVTVn?oc=5",
+      "snippet": "Conservation officers say RCMP weren't mistaken in shooting bear that attacked 3-year-old &nbsp;&nbsp; CBC Bear killed by RCMP was animal that attacked B.C. toddler, contrary to ea",
+      "pub": "Fri, 14 Aug 2026 23:47:00 GMT",
       "image": ""
     }
   ],
