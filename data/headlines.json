@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T00:43:12.974298+00:00",
+  "generated_at": "2026-08-15T02:08:39.058705+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
       "title": "Local Fire Department Fully Equipped Thanks to Former Resident’s Donations",
-      "link": "http://vocm.com/2026/08/14/306998/",
+      "link": "https://vocm.com/2026/08/14/306998/",
       "snippet": "The Riverhead Volunteer Fire Department in St. Mary's Bay is now fully fitted-out with the necessary equipment and protective clothing thanks to the g...",
       "pub": "Fri, 14 Aug 2026 20:41:18 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/riverhead-fire-dept-bunker-suits.jpg"
@@ -13,7 +13,7 @@
     {
       "source": "VOCM",
       "title": "Motorcyclist Facing Multiple Charges After Fleeing Police",
-      "link": "http://vocm.com/2026/08/14/307038/",
+      "link": "https://vocm.com/2026/08/14/307038/",
       "snippet": "Charges have been laid after a motorcycle crash that occurred after the same machine caught the attention of police officers in the capital city. RNC ...",
       "pub": "Fri, 14 Aug 2026 17:59:19 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
@@ -21,7 +21,7 @@
     {
       "source": "VOCM",
       "title": "Work Underway to Improve Traffic Flow and Pedestrian Safety Near Kelsey Drive",
-      "link": "http://vocm.com/2026/08/14/306990/",
+      "link": "https://vocm.com/2026/08/14/306990/",
       "snippet": "A busy stretch of road in the metro area will soon be undergoing construction to address concerns with traffic flow and pedestrian safety. The first p...",
       "pub": "Fri, 14 Aug 2026 15:28:04 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/construction-thorburn-road-detour.jpg"
@@ -29,7 +29,7 @@
     {
       "source": "VOCM",
       "title": "Requests for Proposals Issued to Accommodate Those Living at Horizons 106",
-      "link": "http://vocm.com/2026/08/14/307007/",
+      "link": "https://vocm.com/2026/08/14/307007/",
       "snippet": "Three Requests for Proposals have been issued to accommodate 75 people as the provincial government moves forward with plans to shut down transitional...",
       "pub": "Fri, 14 Aug 2026 14:46:45 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/04/transitional-housing-airport-comfort-inn-2.jpg"
@@ -37,7 +37,7 @@
     {
       "source": "VOCM",
       "title": "TCH Reopened Near Jack’s Pond Following Serious Collision",
-      "link": "http://vocm.com/2026/08/14/307008/",
+      "link": "https://vocm.com/2026/08/14/307008/",
       "snippet": "Update as of 7:40 p.m. The Trans-Canada Highway east of Jack's Pond near the Southern Harbour exit has reopened in both directions following a serious...",
       "pub": "Fri, 14 Aug 2026 14:42:34 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/crash.jpg"
@@ -45,7 +45,7 @@
     {
       "source": "VOCM",
       "title": "Churchill Falls Agreements Needed Before Quebec Election, says Political Scientist",
-      "link": "http://vocm.com/2026/08/14/306986/",
+      "link": "https://vocm.com/2026/08/14/306986/",
       "snippet": "A Dalhousie political scientist believes \"it was in everyone's interest\" to get a renegotiated Churchill Falls agreement before the next provincial el...",
       "pub": "Fri, 14 Aug 2026 14:11:29 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/lori-turnbull-2.jpg"
@@ -53,7 +53,7 @@
     {
       "source": "VOCM",
       "title": "Gander to Commemorate Milestone 9/11 Anniversary",
-      "link": "http://vocm.com/2026/08/14/306971/",
+      "link": "https://vocm.com/2026/08/14/306971/",
       "snippet": "The town of Gander is expecting large crowds for a ceremony commemorating the 25th anniversary of the terrorist attacks on September 11th, 2001. The a...",
       "pub": "Fri, 14 Aug 2026 13:11:16 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/gander-airport-cbsa.jpg"
@@ -61,7 +61,7 @@
     {
       "source": "VOCM",
       "title": "Missing Springdale Teens Found Safe",
-      "link": "http://vocm.com/2026/08/14/springdale-rcmp-report-missing-teens-found-safe/",
+      "link": "https://vocm.com/2026/08/14/springdale-rcmp-report-missing-teens-found-safe/",
       "snippet": "RCMP say two children reported missing from Springdale yesterday, have been found and are safe. The 13-year-old girl and 14-year-old boy were both rep...",
       "pub": "Fri, 14 Aug 2026 12:58:02 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/rcmp-royal-canadian-mounted-police-patch-stock-logo.jpg"
@@ -70,24 +70,8 @@
       "source": "Google News Canada",
       "title": "Canada, U.S. far apart on tariff deal as deadline looms: sources - CBC",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3l1RnZqT1VVY1lFR3pFNGNhMHp0OGR5Q3hZYzk2VWhuSy14eS1uYzlEWDdXNkpTSzJfaWVFRjhkcWM0NHdCOENmLTdtVlJncnJ5ZG4zb29iRXJkUWVYaGd3dWJUXzlfQUd3T1NKMVRPUTJ3Yk1xc185MGQwQUtRdWd3?oc=5",
-      "snippet": "Canada, U.S. far apart on tariff deal as deadline looms: sources &nbsp;&nbsp; CBC Opinion: In the trade war showdown, it’s strong-hand Carney vs. weak-hand Trump &nbsp;&nbsp; The G",
-      "pub": "Fri, 14 Aug 2026 23:16:03 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Former Cambridge professor accused of plagiarism found dead - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVW1WeDJwUGlha3BIaGFiUGRHQVd6ZGdqel9PXzU0anVmMnZrYzJLaVNhS0lXYlhGYzBMcXBoLVRBSnhrYjFiRGl5bTdxdGxzaXlBc3FCT05QRTFyTHJCZGlJUlJVaTNOVlQ1NUFkSVNrb1VZNDdGRHYyQ0ZSUzRQdmJ5TmtxR1BGYTJGbnVBRS1YQ3VnczNyQ2RSY1lSQTFwS3fSAacBQVVfeXFMT1dqNlNPbnJQa05xNWM3X0piLURyNW5SVGtWR0wwRm1iUm5wVUVzODZ2WlIyZXdOS2VCbGlReWdBSzd1TnVMYzVvYVA5M2JoZzRQQmMxcWViS1JBTHNOVkJRZURvSTVKc0R1WW1ZMkx6UXBUZUx6cUx6ODJsbkgwTk00STF5QVYxQXhfZ2FDbnJ2bDRNeC1FQVM1bldiTXA3cUxfRHFXdkE?oc=5",
-      "snippet": "Former Cambridge professor accused of plagiarism found dead &nbsp;&nbsp; Al Jazeera Jason Arday, Cambridge Scholar Who Resigned Under Scrutiny, Is Found Dead &nbsp;&nbsp; The New Y",
-      "pub": "Fri, 14 Aug 2026 23:39:11 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Luigi Mangione pleads guilty to killing UnitedHealthcare CEO - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3pHQlF6Ml90Q2laTEtuRUhIeUJ5Z1JYSERXdldyYWF0cXdRWVk3bGhXdFB2MU5ma0pwZjc4QUxVOTBlQnlMOXZDRmFtZTQyWVZMNU9RTE9pTDNCVWhpUWtoVFlPRWNFb0dQbHJZUmNVYV9pc2E0NjZBaXlxMmtZT05sbEtxUjEzckZ6cmtCU1pUWWVja1VreEc2SUxvS3ZpZWtZVFdoQVJ6VEU?oc=5",
-      "snippet": "Luigi Mangione pleads guilty to killing UnitedHealthcare CEO &nbsp;&nbsp; The Globe and Mail Luigi Mangione pleads guilty in federal case over insurance CEO killing &nbsp;&nbsp; CT",
-      "pub": "Fri, 14 Aug 2026 15:48:25 GMT",
+      "snippet": "Canada, U.S. far apart on tariff deal as deadline looms: sources &nbsp;&nbsp; CBC Opinion: In the trade war showdown, it’s strong-hand Carney vs. weak-hand Trump &nbsp;&nbsp; thegl",
+      "pub": "Fri, 14 Aug 2026 20:12:00 GMT",
       "image": ""
     },
     {
@@ -100,9 +84,9 @@
     },
     {
       "source": "Google News Canada",
-      "title": "7.7 magnitude earthquake hits Indonesia - CNN",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYjZtemJUWVVPbWNRMGVReEtpVFBOQnFWSUJWSTFQS0NrTm1jUFVjNUhidFUwMFNNaEpzNDM5WlgyVFpKMzJVeGtrTGx1b2xSMWJ3bjEzTk1oOEwwdFh5RENYX2pxdnJBQUY3YVNHVF80VTF6NWhwN0UtQzBtZU1KZA?oc=5",
-      "snippet": "7.7 magnitude earthquake hits Indonesia &nbsp;&nbsp; CNN Indonesia issues tsunami warning following 7.7 magnitude earthquake &nbsp;&nbsp; CNN Tsunami warning issued after 7.7 magni",
+      "title": "Indonesia issues tsunami warning following 7.7 magnitude earthquake - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yX2ZaMTUzbFQ3QjBDRnNuN0hxVVE1b2x6NU43VmwtOUx3WE1MTFp3ZWl4ZVEtdk40LU9iNEt1Z1ZNcm40ZXNTOTJueDJfSmRRc2tNemN4WW9WcHhpNGwxQktjT1NHbjA4M3lKMDhPTzEyNk96d0E?oc=5",
+      "snippet": "Indonesia issues tsunami warning following 7.7 magnitude earthquake &nbsp;&nbsp; CNN Powerful 7.7-magnitude quake strikes off Indonesia coast &nbsp;&nbsp; Yahoo News Canada 7.7 ear",
       "pub": "Fri, 14 Aug 2026 23:16:31 GMT",
       "image": ""
     },
@@ -110,24 +94,40 @@
       "source": "Google News Canada",
       "title": "Trump asks Supreme Court to allow ballroom work to continue - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UcVBMcVFjdVdzV3FQSFktT2IxOFNKSlViUTlkcFREUjR3amR4U0xwZzVaSFZSWWU5U0p0TGF5NmpDN0Y5NmoyYmpvUU5OVUVXbDB1Y1hkTU5NQQ?oc=5",
-      "snippet": "Trump asks Supreme Court to allow ballroom work to continue &nbsp;&nbsp; BBC Trump asks Supreme Court to allow White House ballroom construction to continue &nbsp;&nbsp; NBC News T",
+      "snippet": "Trump asks Supreme Court to allow ballroom work to continue &nbsp;&nbsp; BBC Trump asks Supreme Court to allow his White House ballroom construction &nbsp;&nbsp; Politico Trump wan",
       "pub": "Fri, 14 Aug 2026 19:05:22 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Man acquitted of double murder after 40 years reaches settlement with Montreal, Quebec - CBC",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWTNmZDJ0ZHdKbS1HUk5mbVBKRXYwV1Q3Wm9LNDI4bGJ3M0M3S3JaZV83b0cxdVROaHpMUUFJejBTeTNVQjNpM1EyY2ZBRkpsMDZ2Sk4yMG1Da21uQjU5UDBMbzRCNkx5eDFCR0RGdUhsUkZaQlQ0SEpLNDRyaTVOWHZ4RTJ5NWd2eWF1OVJPRnA3dlByRkUxY0RveHRod0NmNDhZa3pFR3lvZ2J2UDJJ?oc=5",
-      "snippet": "Man acquitted of double murder after 40 years reaches settlement with Montreal, Quebec &nbsp;&nbsp; CBC Claude Paquin, wrongfully convicted of two murders, settles out of court wit",
-      "pub": "Fri, 14 Aug 2026 22:17:43 GMT",
+      "title": "Former Cambridge professor accused of plagiarism found dead, reports say - theglobeandmail.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFhPdV9zbGdIbURCTnRxY1JYd0JNVTlnN25CcXJsYXZlR3pPd3A4SE9sLTUyUXlIOE1URVdnVV9xT3k4WDZhU1BKZURoem00Y2FEb1hydm9ULVQ1QUhHYXQ5SUFxSC13M05TQTVON3cwT3JBNW1UWjNVVWNvRWtXWXd6eHFkaWhBemNQLV9nekU0UW9XbDVqbmUwZUF6Q2ZXYTM3SV9xeVZJWk5yaTRadWRBWGM?oc=5",
+      "snippet": "Former Cambridge professor accused of plagiarism found dead, reports say &nbsp;&nbsp; theglobeandmail.com Ex-Cambridge professor who faced plagiarism claims, weeks of public scruti",
+      "pub": "Fri, 14 Aug 2026 20:41:51 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Moose Jaw restaurant faces fines for charging foreign worker for job - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU3gtT2hMWVp2X0ZTc2pIZWs5RlUwZkh4eGdRa0NaVVlnc2JTSXQ3djRPYmlrazJaOGh3ZGt1bnVsbjM1WVM5V3pfRHNqTUk3Sk5TTTFiVGVxdkQ5d2E2TURSLTRRUEItbHdzLURvbFF4NkhaSXVsSkM5cW9QdnNKZEF2N0ozZ0tybmlzXzRhVVB1eEtmcGhTMFFGVG9vLXQtaHlySWdVRkNyM1k?oc=5",
-      "snippet": "Moose Jaw restaurant faces fines for charging foreign worker for job &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Thu, 13 Aug 2026 22:12:30 GMT",
+      "title": "Doug Ford wins major court battle to strip Toronto of its main downtown bike lanes - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOa2ZTM0xrSnZaU3BDdUtaVGctSHRHWnQ4MXVyaTNTUG9zWU9EcVU0ZDBOLTU1dHRjc21LYmFoMnVaeHNCcDg1ekJEVUtoZnJhZGMtRk8tS2o0djhJSGFTenVOWXlrUmVHYWJEcDk3TmdkNm1ETDdtTUNPTDhuX00tVUdrZ0I3YTZ1d0duVmwwR25rSXptamUtWkNnUjlHUGhBV0Zicy1ySkJTT3VOU2l1UDkwVFdzQ1pzUUhHMTJDODlOMUxMZnFCZjVtRm9pWmk1ME00WXRySlFlYnVybmhzMWNSNTJTeDhWM0VqVXRJMUpnamhTRDZKWA?oc=5",
+      "snippet": "Doug Ford wins major court battle to strip Toronto of its main downtown bike lanes &nbsp;&nbsp; Toronto Star Ford government can rip out Toronto bike lanes, Court of Appeal for Ont",
+      "pub": "Sat, 15 Aug 2026 01:19:15 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Conservation officers say RCMP weren't mistaken in shooting bear that attacked 3-year-old - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWhrdjBNZXo1eEdlbURrd2JfVmxNbmlDZ25VcW8xTWtZOUFuYWFINTg4bnRBYXdieFRycDBZMW9WVkZmSWpyTWF3VWMzYnphdVZNMFhmSldBUnp6OGtTZ3c0cXg3NXpnemhkVjdyT29XRmtfalN3eHJrcHQ4V0ZtT1poQl9kX1ZnS0FUVTVn?oc=5",
+      "snippet": "Conservation officers say RCMP weren't mistaken in shooting bear that attacked 3-year-old &nbsp;&nbsp; CBC Bear killed by RCMP was animal that attacked B.C. toddler, contrary to ea",
+      "pub": "Fri, 14 Aug 2026 23:47:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Quebec man reaches settlement after wrongful 1983 double murder conviction - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1BFb0d1Q0ZPYkFibC1jbVR3QkZiTFljSFVGQ0N6ekU0MG9sRzc2X1ZRUy1fbG9Ed2ZTS3V1SXVqaVBINGNGdGdCSW9aOHVVMDMtb19OZjdGeWxLc2tfdXZhVmZpZVJBMFhmSTZVaHVNM0gzSU9MbjZTVDFpWV8zR3lCekVoTGQ0SzZzQXcwMmpIdG5FcFFrcHFZZzBzUkhCRF8tS1lxRFg5MHA3cFdJaHc0MFRadw?oc=5",
+      "snippet": "Quebec man reaches settlement after wrongful 1983 double murder conviction &nbsp;&nbsp; CTV News Man acquitted of double murder after 40 years reaches settlement with Montreal, Que",
+      "pub": "Fri, 14 Aug 2026 18:40:29 GMT",
       "image": ""
     }
   ],
