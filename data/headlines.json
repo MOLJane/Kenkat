@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-15T11:41:37.769663+00:00",
+  "generated_at": "2026-08-15T12:19:47.822769+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "‘Extended Struggle’ Ends in Arrest and Multiple Charges for St. John’s Man",
+      "link": "https://vocm.com/2026/08/15/307060/",
+      "snippet": "A 30-year-old man is in custody after the RNC say he put up quite a struggle during his arrest. Police were called to a home on St. Clare Avenue just ...",
+      "pub": "Sat, 15 Aug 2026 11:42:30 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Man Arrested Following Nascopie Crescent Disturbance",
@@ -59,14 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/04/transitional-housing-airport-comfort-inn-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "TCH Reopened Near Jack’s Pond Following Serious Collision",
-      "link": "https://vocm.com/2026/08/14/307008/",
-      "snippet": "Update as of 7:40 p.m. The Trans-Canada Highway east of Jack's Pond near the Southern Harbour exit has reopened in both directions following a serious...",
-      "pub": "Fri, 14 Aug 2026 14:42:34 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/crash.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Former trade minister urges Canada to seek ‘grand bargain’ with Trump, not narrow CUSMA deal - National Post",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZXI4TjlSWktzSURnU3UwczhySmVXMUxMQzFWWGtPOXE2SHNFcWNVTkhINUd5NlQwLVZiZXZtNmdQanN0ODlQME10WmFJbzYzanBtQmJraDYyRG90X25WOHY1S0VOb2VyVXMyUzN4ckVlQTBHLXJmc0FkdDBXVGdBNGswTFdOaVlGSmZTa1p6U0lxY1p0U1RaSWRVNVQtUEcwa0Nhd19XV2tqRnlqdDhhbmt4Vk9OaVlZMTQ0?oc=5",
@@ -76,10 +76,26 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Five years after the Taliban won, Afghanistan is still losing - CNN",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xWFRkZW9iV3dJUE1qUlZqaVdtRzVNWkJvYmJibG1QMTJ2QlZQdHMzRW04T0F4dkt4bm1WWVZfTS1yMGNKYU9fdUhNYmdnSkFfbXBUbkhMTFZIYjNIX180M0xNa1hDa19MRWJSNUo0QlI2VnFUYzc3UWxfVkJxcFk?oc=5",
+      "snippet": "Five years after the Taliban won, Afghanistan is still losing &nbsp;&nbsp; CNN Five years after Kabul fell, the reckoning over Afghanistan is far from over &nbsp;&nbsp; CBC Entrenc",
+      "pub": "Sat, 15 Aug 2026 04:01:29 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZTY2cUJTSllLTDJsWFdsWVRMRWEyUjZiRGctQXFjM1FSV0FGT1lMMGFaM2l1bkdmdUhRaVZNa1g5YWlKX192U1huSTlLVDQtZmk1RUhjQ0E4TzhqV29HVTl1UXZBTUVnYUVhRmZDb1JMc3RGZHVYWFVqbFBNcFFIcUd0ZFFsLVZJUm5od1lrMGYwTDVMSE40T24zZWkxNzlFWjVYNHRWcFpURE9qd25taNIBtgFBVV95cUxPWVJ1aTlnamRyTlE3c20xa2s3ajM3S2tDNldRT3BESkd5VEs0SlVQM195c1dLTE9RNVJnak14S1Nwd1g4Smc0ZzN5S25ma3pGazdqM2IxSWJ2WFNQSDEteC1sRXpNQ2k0ZVJmYUpHckFHOHNBZnFJWEtsT3QzQTVaRkxWc29uajl0Zy1ZTDdsbW1wSWt4UlA2U2hsTDNaOTQxanJuTXJIR0doeFlta2YwaDIwTWNZZw?oc=5",
-      "snippet": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier &nbsp;&nbsp; Al Jazeera US aircraft carrier on way to relieve USS Abraham Lincoln after issues reported on bo",
+      "snippet": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier &nbsp;&nbsp; Al Jazeera US navy veterans and military health experts express concern over USS Abraham Lincoln",
       "pub": "Fri, 14 Aug 2026 21:32:14 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Zelensky Confirms Flamingo Missile Strikes Deep in Russian Territory - Kyiv Post",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBydFhDdWp1MGRRaElsZ3dLT21GVDJhZ1M3WFB2TlFWbktCSEpFT25mczBfX2FuYTZLZ0JKbFdQNlp3dzBrUHRIbmt0cw?oc=5",
+      "snippet": "Zelensky Confirms Flamingo Missile Strikes Deep in Russian Territory &nbsp;&nbsp; Kyiv Post Zelenskyy Says Ukraine Strikes Russian Space Facility in Samara &nbsp;&nbsp; Bloomberg U",
+      "pub": "Sat, 15 Aug 2026 09:28:05 GMT",
       "image": ""
     },
     {
@@ -92,26 +108,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSEI0LTBZY0ZpUDZZVGZlVndrSXZoNUNkUy13dkVWNmZGRDM5MWwtcnBRZFItTUJabHp5OXhZalc0LXZaUE1pSm0wb2hzWG4wY0hDN3NsYk9uUzlrTWVvT1dXQk45d1FnZUw3T2FWR1BnMmJob2lCUGlyOVVZa2Rvb2NudGNMQWFHaHZ5OE5QdGVzRVoxcGZseE93cWdHMGZUdEY4QnYtdDBLMU94MWFr0gG0AUFVX3lxTE42YmFScFBpek5OSjkxc3NLS3ZBYy1MVVNtMVFFQlFsX1JFRzU2MmhvdVQ1XzFyel93OWZPMXdJejU0VS13Sk55N19uSVRZMHU1MFMzWEc0TmxpQzJtQlhYSHBTSHpzQ0NRYkNvS0U3QWVMNkR3WUNlWVI4TGRWREcxM0ZuSnU2aEpITmFuUnhrdkFQdVhzOG52Wkh1QmxpVUphYm1aNjg0RHowSFpsZFMyR3ctNw?oc=5",
-      "snippet": "Trump asks US Supreme Court to allow $400m ballroom project to proceed &nbsp;&nbsp; Al Jazeera Trump wants to put golden seals on White House ballroom &nbsp;&nbsp; The Washington P",
-      "pub": "Fri, 14 Aug 2026 19:05:24 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia’s coast, toppling buildings and killing at least 5 - Global News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JVElWNmo2VDVuQ1RPSUxONXZ2UE5qRGtOaERHU2dvV2Q2RDV3WG9qcEkwUmp2TUdpMThuN2JQUWN1d1lIYlZhVVlSWVlMU01XLUxoSVBINUlfZExEXzdtWW9MajJSemstdW1QZy1wQ29pdHpyUDdrUHdzRTNkUQ?oc=5",
-      "snippet": "Magnitude 7.7 earthquake strikes off Indonesia’s coast, toppling buildings and killing at least 5 &nbsp;&nbsp; Global News Powerful 7.7-magnitude earthquake kills at least 20 in In",
-      "pub": "Sat, 15 Aug 2026 01:44:01 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "VIDEO: City police defend use of force in Intercity-area arrest - Thunder Bay News - TBNewsWatch.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaHdoRTk2NHVUdVJKdHFxRGlJSG9tdEtiTXU5RkhCajdFMWNGV2R6WlZFZEVlOHJEMnV3dk5RZEM5ZUQwV2JIVzZJZlhfcmNSRHVEVW12eGstUU1nckpuTFNlb2E5dWhYTlJDM2xnLWVBQ3UxSWNXMVBmbUp1VXlaTkFqWDI0ejgyaWNDUDNwZWE5a0xUUTBEbWpzaXZIS2RaREh6emVLdw?oc=5",
-      "snippet": "VIDEO: City police defend use of force in Intercity-area arrest &nbsp;&nbsp; Thunder Bay News - TBNewsWatch.com Thunder Bay residents arrested after drug trafficking probe &nbsp;&n",
-      "pub": "Fri, 14 Aug 2026 20:30:00 GMT",
+      "title": "Former Cambridge professor accused of plagiarism found dead, reports say - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFhPdV9zbGdIbURCTnRxY1JYd0JNVTlnN25CcXJsYXZlR3pPd3A4SE9sLTUyUXlIOE1URVdnVV9xT3k4WDZhU1BKZURoem00Y2FEb1hydm9ULVQ1QUhHYXQ5SUFxSC13M05TQTVON3cwT3JBNW1UWjNVVWNvRWtXWXd6eHFkaWhBemNQLV9nekU0UW9XbDVqbmUwZUF6Q2ZXYTM3SV9xeVZJWk5yaTRadWRBWGM?oc=5",
+      "snippet": "Former Cambridge professor accused of plagiarism found dead, reports say &nbsp;&nbsp; The Globe and Mail Jason Arday, professor at centre of Cambridge plagiarism row, found dead &n",
+      "pub": "Fri, 14 Aug 2026 20:41:51 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Processing times have been increasing for proof-of-citizenship applications. Here’s why - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWRDV0szemF3LXozNFdURm1hZFZpT0lVNC10ekt0M3dkcFJxX0cwNjZ2VzFUYmcycDhPenJxbXpFVHQ2dHFzQzYtSXR4Zm54UWo0UnJDVVFzYXh1Q2hNbDlpOWt5c1QyaUVrMFZBVDViSDJyUjFXQXNzMnVwQ1RhZWFud1NzQWwxQVhhMXF1U1VUOXkzblJFOEhSYlhJMnlIX2RUMi1FMklMRTN0M0xCSDhraC1hbWlWdXV3Sw?oc=5",
-      "snippet": "Processing times have been increasing for proof-of-citizenship applications. Here’s why &nbsp;&nbsp; CTV News Processing time for proof of Canadian citizenship applications surpass",
-      "pub": "Sat, 15 Aug 2026 09:00:00 GMT",
+      "title": "VIDEO: City police defend use of force in Intercity-area arrest - Thunder Bay News - TBNewsWatch.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaHdoRTk2NHVUdVJKdHFxRGlJSG9tdEtiTXU5RkhCajdFMWNGV2R6WlZFZEVlOHJEMnV3dk5RZEM5ZUQwV2JIVzZJZlhfcmNSRHVEVW12eGstUU1nckpuTFNlb2E5dWhYTlJDM2xnLWVBQ3UxSWNXMVBmbUp1VXlaTkFqWDI0ejgyaWNDUDNwZWE5a0xUUTBEbWpzaXZIS2RaREh6emVLdw?oc=5",
+      "snippet": "VIDEO: City police defend use of force in Intercity-area arrest &nbsp;&nbsp; Thunder Bay News - TBNewsWatch.com Thunder Bay residents arrested after drug trafficking probe &nbsp;&n",
+      "pub": "Fri, 14 Aug 2026 20:30:00 GMT",
       "image": ""
     }
   ],
