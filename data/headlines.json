@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-15T17:42:19.510815+00:00",
-  "count": 16,
+  "generated_at": "2026-08-15T18:15:21.317134+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Housing Minister Believes Community Housing for Horizons 106 is the “Best Cost-Option”",
+      "link": "https://vocm.com/2026/08/15/307069/",
+      "snippet": "The minister responsible can't say whether housing the tenants currently living at Horizons 106 in the community will result in cost-savings, but he b...",
+      "pub": "Sat, 15 Aug 2026 18:10:39 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/joedy-wall-1.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Government Increasing One-Time Subsidy for Fertility Treatment",
@@ -57,81 +65,10 @@
       "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13318').",
       "pub": "Sat, 15 Aug 2026 07:30:55 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/e-bike-3-tire-closeup.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Local Fire Department Fully Equipped Thanks to Former Resident’s Donations",
-      "link": "https://vocm.com/2026/08/14/306998/",
-      "snippet": "The Riverhead Volunteer Fire Department in St. Mary's Bay is now fully fitted-out with the necessary equipment and protective clothing thanks to the g...",
-      "pub": "Fri, 14 Aug 2026 20:41:18 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/riverhead-fire-dept-bunker-suits.jpg"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump’s new tariffs should be a wake-up call for Canada: Iowa senator - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLVgydVRWVTc4OWFsZ2xudkZiRm1OSTRIRzVUeVdGM2FvdXViLW9YYjJjM2VNbnNHYjVrZGRyc2dlaXItVEo0ZktVUlM3azFBb1pYUHAwY3RiTEdtOWwyMURVSGVRWXd0Q1pWckNaVGxtaWt5QmxaOHgwMDdSNnJlQ3BlZHVqN3J1NFRWcFRVN0g2dWx2NE12UWpGSThIY25ObUtWOXZsaUhHVU50QlRkekd6NmlIaEQ1QWdNRA?oc=5",
-      "snippet": "Trump’s new tariffs should be a wake-up call for Canada: Iowa senator &nbsp;&nbsp; CTV News Opinion: In the trade war showdown, it’s strong-hand Carney vs. weak-hand Trump &nbsp;&n",
-      "pub": "Sat, 15 Aug 2026 11:46:32 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia’s coast, toppling buildings and killing at least 5 - Global News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JVElWNmo2VDVuQ1RPSUxONXZ2UE5qRGtOaERHU2dvV2Q2RDV3WG9qcEkwUmp2TUdpMThuN2JQUWN1d1lIYlZhVVlSWVlMU01XLUxoSVBINUlfZExEXzdtWW9MajJSemstdW1QZy1wQ29pdHpyUDdrUHdzRTNkUQ?oc=5",
-      "snippet": "Magnitude 7.7 earthquake strikes off Indonesia’s coast, toppling buildings and killing at least 5 &nbsp;&nbsp; Global News Powerful magnitude 7.7 earthquake kills at least 47 in In",
-      "pub": "Sat, 15 Aug 2026 01:44:01 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada issues a 'do not travel' warning for Hawaii. Here's what to do about Vancouver flights - Vancouver Is Awesome",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWUtOVzEwVjUxUWU5WWlGc2NLRWpFQ2tvRDhjTnJXOFFTSDF0d0RyVmNOSU9kNWs3V0JjNl9kYXhMLWNJU3YxTVhIM2xKVkIzcHR2czhzN1JaWGJiMDVxQlYyQi1zTTFpT1FERUhUZVVoM2dBSF9oUVA3MTBHWnplbjJCZ1hwWjNBczczd3paWVg0aGtRV29qYUFkR2hHV0FoZjY2cDY5OUdxV0JpMHNPQWZnYy1tcnk1Vjc1UFhvY3plcVBnakdvSlBqY1lUMDNobUdOclVuNA?oc=5",
-      "snippet": "Canada issues a 'do not travel' warning for Hawaii. Here's what to do about Vancouver flights &nbsp;&nbsp; Vancouver Is Awesome Tropical storm Lala closes in, hitting Hawaii's Big ",
-      "pub": "Sat, 15 Aug 2026 08:15:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "‘Cool little undiscovered experience’: Canada’s wide world of roadside attractions - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTBiUndKbzlkT0wtOU9uVzN1ZHc1SXQ3amNOMGlZNTNYYl9heERXdFdvc3c0QmoyUFRiSUROZERCQ0NQQm43Qk03VHRydGVXXzRyeE1hWVNYODREVzRySHFiS1IzOFM3bzBiampvaVJfYVRtRXJSQVN6cTR2U1RaMTc3ZDlValZfMVlqQTlNaGVTLVFoTjFnbldZbmNKUmM?oc=5",
-      "snippet": "‘Cool little undiscovered experience’: Canada’s wide world of roadside attractions &nbsp;&nbsp; CTV News",
-      "pub": "Sat, 15 Aug 2026 11:54:27 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Live updates: US-Iran war; Trump says he ‘did the right thing’ and would ‘never apologize’ - CNN",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jZlpLZGNVVU9BX2JPcU13ZWt1SXZPLWZmaUdhR05fcWdmUmtZMHRTNFZNdUllN2g3MHU0ejRidWVqSVRtUkRwSnlmOFI0U3BPX1FGaXEyQTl1VjVhNTh4Y1BRbU5kUGhvU2JfN1lR?oc=5",
-      "snippet": "Live updates: US-Iran war; Trump says he ‘did the right thing’ and would ‘never apologize’ &nbsp;&nbsp; CNN 2 UAE tankers attacked while transiting Strait of Hormuz, and other news",
-      "pub": "Sat, 15 Aug 2026 17:08:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Inside the early battle against the ferocious Bald Range wildfire - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTQ4N1hrTEw5dDg1ZE5zejN3cE5UalVkaDlvV1BTSzZiRFY0MHNGdG9GMjA5dmFEWlEyd0k0Y0tveXJ6Qk1jd3RfMkhXbHplNnNESXlPSmxKeVFUbU5pbEFGOTE2V0N1NVpsX3AwQUNsUWlacTlzVmY5SUJMMHRKUXRpRmVYTnpfX3dKcnNfM0NwUjJ6aEtiRFY4UjN1c2VC?oc=5",
-      "snippet": "Inside the early battle against the ferocious Bald Range wildfire &nbsp;&nbsp; The Globe and Mail ‘We don’t even have a phone’: Aging B.C. wildfire evacuees faced unique challenges",
-      "pub": "Sat, 15 Aug 2026 10:30:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "BC Wildfire Service continues to work on containing the Bald Range Wildfire near Summerland - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGhmZTNVUW1PM01EcTNtRUQzZlFiRGFsUXBQa0lpTURDc2lnTmFjNVVNUld4bkpLRThYd2kwV3BJbXdsNVI2QWdfNXBKS2kwc2twX2JEX0hIOWVjVUJTRUtsS2tUNG5kZ0FCNEFZQ2s0ZVVyNlRaYTItbmh6Q0pwdktjZ04wZ2RFMUJ4cFdmeHpSMlFwVW1uMWhKMUNCeG9telQ3NE9feXByWUNEUGtKUW1lb0tFZVJBd0ZUVlU5UlJJejJISkFlc2NwZGgya0RFSWVqekVB?oc=5",
-      "snippet": "BC Wildfire Service continues to work on containing the Bald Range Wildfire near Summerland &nbsp;&nbsp; Castanet Residents near Okanagan Lake allowed home after some B.C. fire eva",
-      "pub": "Sat, 15 Aug 2026 16:47:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "'I am tired of being silent:' Hamilton Mayor Andrea Horwath goes public about leaving an abusive relationship - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3BBYjA3ZEtDdGd5NlUzYlZqUnpmQS1rY0REbHR2Y2dlUVVOcEZrRi1wazNQNng3MnJYRlVvTUhNd0lSWGNTODcyWURET0VocjYxX0hrLWhOV2JGcmFoVU82YS1abjJKQXJGNmV6MVNyNjVZRG51RDg2ZTg0dThfX0x6akZIWUVmZ1NobVZvdVkxXzBEelpZZzNGMGdScndrZnpj?oc=5",
-      "snippet": "'I am tired of being silent:' Hamilton Mayor Andrea Horwath goes public about leaving an abusive relationship &nbsp;&nbsp; CBC Mayor reveals abusive relationship + An illegal home ",
-      "pub": "Sat, 15 Aug 2026 08:00:00 GMT",
-      "image": ""
     }
   ],
   "errors": [
-    "CBC News failed: The read operation timed out"
+    "CBC News failed: The read operation timed out",
+    "Google News Canada failed: The read operation timed out"
   ]
 }
