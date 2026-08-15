@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-15T07:04:40.259341+00:00",
+  "generated_at": "2026-08-15T07:49:55.553697+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "August 15, 2026 – What would you like to see in terms of regulation of the use of e-bikes and e-scooters?",
+      "link": "https://vocm.com/2026/08/15/august-15-2026-what-would-you-like-to-see-in-terms-of-regulation-of-the-use-of-e-bikes-and-e-scooters/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13318').",
+      "pub": "Sat, 15 Aug 2026 07:30:55 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/e-bike-3-tire-closeup.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Local Fire Department Fully Equipped Thanks to Former Resident’s Donations",
@@ -59,43 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/gander-airport-cbsa.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Missing Springdale Teens Found Safe",
-      "link": "https://vocm.com/2026/08/14/springdale-rcmp-report-missing-teens-found-safe/",
-      "snippet": "RCMP say two children reported missing from Springdale yesterday, have been found and are safe. The 13-year-old girl and 14-year-old boy were both rep...",
-      "pub": "Fri, 14 Aug 2026 12:58:02 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/rcmp-royal-canadian-mounted-police-patch-stock-logo.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Trump trade rep says Washington 'not going to tolerate' retaliation as tariff deadline looms - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnJmVk16YVFWUXBLSlJwWUE3eVRRQmluWWdXXzJkOGJvWWhQSlBfZVNjRG53a3FHM0QzdkpTX0dfWTh0M1hEMW81WXlXNG1rWVpwWGc4bEZ5RWFvSnEtY2FJbWVQOTU3QTJ2QWhkZ1A3OTBrS09KdlFXTnBDamkxcjNzX2hvQQ?oc=5",
-      "snippet": "Trump trade rep says Washington 'not going to tolerate' retaliation as tariff deadline looms &nbsp;&nbsp; CBC John Ivison: Days before deadline, Canada should be ready to make toug",
-      "pub": "Fri, 14 Aug 2026 19:11:05 GMT",
+      "title": "Canada, U.S. far apart on tariff deal as deadline looms: sources - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3l1RnZqT1VVY1lFR3pFNGNhMHp0OGR5Q3hZYzk2VWhuSy14eS1uYzlEWDdXNkpTSzJfaWVFRjhkcWM0NHdCOENmLTdtVlJncnJ5ZG4zb29iRXJkUWVYaGd3dWJUXzlfQUd3T1NKMVRPUTJ3Yk1xc185MGQwQUtRdWd3?oc=5",
+      "snippet": "Canada, U.S. far apart on tariff deal as deadline looms: sources &nbsp;&nbsp; CBC Opinion: In the trade war showdown, it’s strong-hand Carney vs. weak-hand Trump &nbsp;&nbsp; The G",
+      "pub": "Fri, 14 Aug 2026 20:12:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZTY2cUJTSllLTDJsWFdsWVRMRWEyUjZiRGctQXFjM1FSV0FGT1lMMGFaM2l1bkdmdUhRaVZNa1g5YWlKX192U1huSTlLVDQtZmk1RUhjQ0E4TzhqV29HVTl1UXZBTUVnYUVhRmZDb1JMc3RGZHVYWFVqbFBNcFFIcUd0ZFFsLVZJUm5od1lrMGYwTDVMSE40T24zZWkxNzlFWjVYNHRWcFpURE9qd25taNIBtgFBVV95cUxPWVJ1aTlnamRyTlE3c20xa2s3ajM3S2tDNldRT3BESkd5VEs0SlVQM195c1dLTE9RNVJnak14S1Nwd1g4Smc0ZzN5S25ma3pGazdqM2IxSWJ2WFNQSDEteC1sRXpNQ2k0ZVJmYUpHckFHOHNBZnFJWEtsT3QzQTVaRkxWc29uajl0Zy1ZTDdsbW1wSWt4UlA2U2hsTDNaOTQxanJuTXJIR0doeFlta2YwaDIwTWNZZw?oc=5",
-      "snippet": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier &nbsp;&nbsp; Al Jazeera Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deploy",
+      "snippet": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier &nbsp;&nbsp; Al Jazeera US aircraft carrier on way to relieve USS Abraham Lincoln after issues reported on bo",
       "pub": "Fri, 14 Aug 2026 21:32:14 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "US wants Netanyahu to condemn settler violence in Qusra - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVl8yMnFBWXk0cmxIdXhwdmhGVHQ0SWNaQk51NUhYWkNrZ3pfU1B1UHFVYWt2eV82akVUMkVJVldEVW9rQlY2Tzg0NUVQenBlZ0xHVzNxbUs2akdDZWdCbGxaQVo0TzNuQkk2Y3EzenhSZ0xBVGZRSDdQWGdGMlZITldnRlRDdkJjWk82MVVqX2pQeHc1UlVCa0t2amx1SEpvZndUb2xNa1ZmbmowWnfSAbMBQVVfeXFMUGlObHVVZlEtQWd6RjhJbEptV2lwWjBtQnhnc1I0OEZKblFZYkc0blpjSDFzcFhpaGZZaE93NXRnNmZhdUd5NUpwVmhyS2JZeXRpZTdyVzhOYzR4QmhHQnIyTjhmUVlqc1YtOU9DM0RJaXBsQkRudVJRQ1ZYRWoxTFNCZ0dXM1FtN2U0LUtNeVYtNkhYdWRsTkhTNG9xVjRTenBWQkY4c3pXcU95ZVJYMmgxb0E?oc=5",
-      "snippet": "US wants Netanyahu to condemn settler violence in Qusra &nbsp;&nbsp; Al Jazeera Analysis: Israel’s government can’t disown West Bank settler violence &nbsp;&nbsp; Al Jazeera Activi",
-      "pub": "Sat, 15 Aug 2026 00:11:15 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "'Super’ El Niño Could Push Earth's Temperature 13 Years Ahead of the Current Warming Trend - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEppNnluWnB3MTlvTldUbEpsb3JTS0RiM1dqN0NHUzZWLWZPUmZjY0VybW5RdjR3blN2QzdHcTNyUGNBUXR2ZnYzR3EwLThTUXFzYThJSUVOcUZ5WVNtb2I5VkxHTWZpUy1tZjhTTlA3aDlxS1YxdThqOHV3LTBoWHpZLWdOam05d1dRcm16cjNNT1d2NVN2V2NWc1k3eklRVnoyU3NhM29NMEtobTA1Y0xnY212bWxsNmc?oc=5",
-      "snippet": "'Super’ El Niño Could Push Earth's Temperature 13 Years Ahead of the Current Warming Trend &nbsp;&nbsp; Gizmodo Scientists predict high chances El Niño will bring a ‘very strong ev",
-      "pub": "Fri, 14 Aug 2026 15:35:14 GMT",
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia’s coast, toppling buildings and killing at least 5 - Global News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JVElWNmo2VDVuQ1RPSUxONXZ2UE5qRGtOaERHU2dvV2Q2RDV3WG9qcEkwUmp2TUdpMThuN2JQUWN1d1lIYlZhVVlSWVlMU01XLUxoSVBINUlfZExEXzdtWW9MajJSemstdW1QZy1wQ29pdHpyUDdrUHdzRTNkUQ?oc=5",
+      "snippet": "Magnitude 7.7 earthquake strikes off Indonesia’s coast, toppling buildings and killing at least 5 &nbsp;&nbsp; Global News Twenty dead after Indonesia's magnitude-7.7 earthquake, r",
+      "pub": "Sat, 15 Aug 2026 01:44:01 GMT",
       "image": ""
     },
     {
@@ -108,6 +100,14 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Trump asks Supreme Court to allow White House ballroom work to continue - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UcVBMcVFjdVdzV3FQSFktT2IxOFNKSlViUTlkcFREUjR3amR4U0xwZzVaSFZSWWU5U0p0TGF5NmpDN0Y5NmoyYmpvUU5OVUVXbDB1Y1hkTU5NQQ?oc=5",
+      "snippet": "Trump asks Supreme Court to allow White House ballroom work to continue &nbsp;&nbsp; BBC New White House East Wing renderings reveal gold additions &nbsp;&nbsp; Axios Trump wants t",
+      "pub": "Fri, 14 Aug 2026 19:05:22 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Former Cambridge professor accused of plagiarism found dead, reports say - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFhPdV9zbGdIbURCTnRxY1JYd0JNVTlnN25CcXJsYXZlR3pPd3A4SE9sLTUyUXlIOE1URVdnVV9xT3k4WDZhU1BKZURoem00Y2FEb1hydm9ULVQ1QUhHYXQ5SUFxSC13M05TQTVON3cwT3JBNW1UWjNVVWNvRWtXWXd6eHFkaWhBemNQLV9nekU0UW9XbDVqbmUwZUF6Q2ZXYTM3SV9xeVZJWk5yaTRadWRBWGM?oc=5",
       "snippet": "Former Cambridge professor accused of plagiarism found dead, reports say &nbsp;&nbsp; The Globe and Mail Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
@@ -116,18 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Bear killed by RCMP was animal that attacked B.C. toddler, contrary to earlier finding - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaDlNYi1BNXJ5ZWV6R2t6OVdkTmhsYlFoMDB5RmxPMVlheV8zQ1Bzc1BKdDVSd2EyaWFUNUh2VDlHM1hiVVhNdExtcWtob0RjSUkySkRidFpmMEtIMmc4dW9hY2ZqUkktb3M5YjhlRnh5OFZOcGswVHlkZDIzN0hHUUZrZnVGNFRIT0Z4R2VmbXdNNnNhQkZ1QURmNEVoVE1jS1VGOGU5dWl6Q21COHB2S2x2M0VsWXIzMjh0SU1YRTJjWUE?oc=5",
-      "snippet": "Bear killed by RCMP was animal that attacked B.C. toddler, contrary to earlier finding &nbsp;&nbsp; CTV News Conservation officers say RCMP weren't mistaken in shooting bear that a",
-      "pub": "Fri, 14 Aug 2026 22:43:30 GMT",
+      "title": "Conservation officers say RCMP weren't mistaken in shooting bear that attacked 3-year-old - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWhrdjBNZXo1eEdlbURrd2JfVmxNbmlDZ25VcW8xTWtZOUFuYWFINTg4bnRBYXdieFRycDBZMW9WVkZmSWpyTWF3VWMzYnphdVZNMFhmSldBUnp6OGtTZ3c0cXg3NXpnemhkVjdyT29XRmtfalN3eHJrcHQ4V0ZtT1poQl9kX1ZnS0FUVTVn?oc=5",
+      "snippet": "Conservation officers say RCMP weren't mistaken in shooting bear that attacked 3-year-old &nbsp;&nbsp; CBC Bear killed by RCMP was animal that attacked B.C. toddler, contrary to ea",
+      "pub": "Fri, 14 Aug 2026 23:47:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Man acquitted of double murder after 40 years reaches settlement with Montreal, Quebec - CBC",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWTNmZDJ0ZHdKbS1HUk5mbVBKRXYwV1Q3Wm9LNDI4bGJ3M0M3S3JaZV83b0cxdVROaHpMUUFJejBTeTNVQjNpM1EyY2ZBRkpsMDZ2Sk4yMG1Da21uQjU5UDBMbzRCNkx5eDFCR0RGdUhsUkZaQlQ0SEpLNDRyaTVOWHZ4RTJ5NWd2eWF1OVJPRnA3dlByRkUxY0RveHRod0NmNDhZa3pFR3lvZ2J2UDJJ?oc=5",
-      "snippet": "Man acquitted of double murder after 40 years reaches settlement with Montreal, Quebec &nbsp;&nbsp; CBC Quebec man reaches settlement after wrongful 1983 double murder conviction &",
-      "pub": "Fri, 14 Aug 2026 22:17:43 GMT",
+      "title": "Quebec man reaches settlement after wrongful 1983 double murder conviction - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1BFb0d1Q0ZPYkFibC1jbVR3QkZiTFljSFVGQ0N6ekU0MG9sRzc2X1ZRUy1fbG9Ed2ZTS3V1SXVqaVBINGNGdGdCSW9aOHVVMDMtb19OZjdGeWxLc2tfdXZhVmZpZVJBMFhmSTZVaHVNM0gzSU9MbjZTVDFpWV8zR3lCekVoTGQ0SzZzQXcwMmpIdG5FcFFrcHFZZzBzUkhCRF8tS1lxRFg5MHA3cFdJaHc0MFRadw?oc=5",
+      "snippet": "Quebec man reaches settlement after wrongful 1983 double murder conviction &nbsp;&nbsp; CTV News Man acquitted of double murder after 40 years reaches settlement with Montreal, Que",
+      "pub": "Fri, 14 Aug 2026 18:40:29 GMT",
       "image": ""
     }
   ],
