@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-17T18:24:21.540066+00:00",
+  "generated_at": "2026-08-17T19:05:49.074899+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Opposition Questions Terms of Updated Churchill Falls Deal",
+      "link": "https://vocm.com/2026/08/17/307275/",
+      "snippet": "The Opposition Liberals, who drafted the original MOU with Quebec, have questions regarding what they see as additional developments which \"appear to ...",
+      "pub": "Mon, 17 Aug 2026 18:25:32 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/opposition-liberal-leader-john-hogan-house-of-assembly-march-5-2026.jpg"
+    },
     {
       "source": "VOCM",
       "title": "New Churchill Deal Brings 15% Electricity Rebate for NL Residents",
@@ -59,19 +67,35 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "First Annual ‘New Harvesters Summit’ Happening This October",
-      "link": "https://vocm.com/2026/08/17/307207/",
-      "snippet": "The union that represents fish harvesters in the province is holding a summit this fall focused on new people getting in to the industry. The FFAW say...",
-      "pub": "Mon, 17 Aug 2026 12:44:44 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/crab-harvesters.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump’s promised tariffs on Canada threaten higher inflation on both sides of the border. - NBC News",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS1hXQWdRZnFNN1JUUlZnYzZMLUk5ZEdWZlpZd3FBQm1rSG1icXBSU2lmTFJGUVpLZGdoeHF4MTg5bTRXZV9NRlZEenRWUng4T3BfYW5kUnBRTE5hcENaOW9ZUUd2dXhTV2NIOEVvaGFYc05MZld0anVjMTFCS1R3OWRCSUkyV216MHlRT0ZwVmwxUXRCbEl2ZQ?oc=5",
       "snippet": "Trump’s promised tariffs on Canada threaten higher inflation on both sides of the border. &nbsp;&nbsp; NBC News Carney says last-minute U.S. tariff negotiations are 'delicate' and ",
-      "pub": "Mon, 17 Aug 2026 16:57:25 GMT",
+      "pub": "Mon, 17 Aug 2026 18:07:06 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump orders joint military exercises with South Korea to be scaled back - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObkE2czlaaExhcGFLbU5abjJZRzZ4Y2hOelo2bU8xcjBjQWpTdTZhOW9saDJBdmdRSHdtSkxxNUMxVmxsZWhzN0x4NjNFTXNEVk1zQ2FEdjJOQ2tycmJCRGhYWHJHTXFhUHBHNG41Z3E5Y3dVSXdCV1Q3WHpYcTByUnFnb2tWdFdsOWc?oc=5",
+      "snippet": "Trump orders joint military exercises with South Korea to be scaled back &nbsp;&nbsp; CBC Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say &nb",
+      "pub": "Mon, 17 Aug 2026 01:55:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmpRRVBLRXhGNDJhZkRHSlhWbWcyemJTNXp4akxyVUpSV0xwTEx5UG9ZdUY3V3U5TkdHd3VuSXhHd0NZVzV2eVM3d3g0ajNZR0tyZzRoZ1cwVjlrTVFVZGNJM2JuWjdOYlBLbVBLWnQwV0dpRFZaT2VNVjFTR3NrTE96M3V4ZGlfbEJtcHZabjlpMHY0TnJFNGVn0gGfAUFVX3lxTE9Cek5VQUEwRmxxbGdtX1RLYlNiZUZqRFlqbkdSQ2RSelVoTi1kdDdwYXV5bl9tTEY5MWdnT2tLMXlHWXJXNTF0SFZRUnVUZEFVMm9wYVEwT3UteWUtdUp6SkVVa1hraXJpVXVmdXVDWlp5SXdrTXg2OTU3bnZ2emhxYUIzcHEwQmh3OWdybFZ5ZUhiNnVlVDY4bGxmV2VxQQ?oc=5",
+      "snippet": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan &nbsp;&nbsp; Al Jazeera World in Brief: Jared Kushner meets Bibi; Trump threatens to bomb Oman &nbsp;&nbsp; The Econo",
+      "pub": "Mon, 17 Aug 2026 01:30:01 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "N.L., Quebec announce new Churchill Falls agreement worth billions — with help from Ottawa - CBC",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWtQWkUwYTVUejNUYzVJcUtKbm5TR1p0bEpFUHlCNVRNcVhlbmMwWGFwcjFybERtb0ViaDY4c0VtMU1TX0hWU3ZfME83bE1QRDdrUktXN1doMzNteE5WTC1VODd6TkNyN2RIbmFaeThldlJpNkZPV2RsY3Mzc1FrUi1KejgxeU5zaGFvamM0Q0R3NDJoWWZHWWpOZlBwNlpaOFBLbWZPZ3BaWWd5MjBDSlBYd3lUVDltMXJfdHVYZw?oc=5",
+      "snippet": "N.L., Quebec announce new Churchill Falls agreement worth billions — with help from Ottawa &nbsp;&nbsp; CBC N.L., Quebec to sign new Churchill Falls agreement worth billions — with",
+      "pub": "Mon, 17 Aug 2026 17:52:39 GMT",
       "image": ""
     },
     {
@@ -84,42 +108,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Quebec and N.L. reach new Churchill Falls agreement - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT1o4dEJEWE04SWtfVG0wTVlxenVvZURHN3pVdTI0U0R6LVQ2dHY1TEp1c1Awclh5MnRzWG9OMTM0WmFSd01fRDgwcVZ5UGMtdjBvMjNzazE0MnpSOEdVbjY5TnpvN0xWcXNpRnl1bkNldXYyRGludzhWQm5nRzZZZ3FR?oc=5",
-      "snippet": "Quebec and N.L. reach new Churchill Falls agreement &nbsp;&nbsp; The Globe and Mail N.L., Quebec to sign new Churchill Falls agreement worth billions — with help from Ottawa &nbsp;",
-      "pub": "Mon, 17 Aug 2026 10:36:36 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump says US in contact with IRGC and calls on Iran to surrender - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2JUWXl1andyRnYtampVbHFSUVdRSDQ1RnFSMXBNZlRGS2JVM1kzeDd4OG80Rl85eVc4MTRjQVd0QTM1VVFtWGdsdmZjYTJEMzFNNnc1S05MUG01NDJBWjR1VVlaRFB1eEt6dzVqc0N2YTJzNENMTGs4eFBuYmU5aGM5TzBBX1ZPdWNhcW85c3dSQUxmazdaY3FUYzhGdU9STHBZaXJaOWtJQ05LblHSAbMBQVVfeXFMTXdYTVhDMG5xc0YwUnhwb0REMGc4a0RLdElYWXBmNm5MWThxRUNtek11T0VBSE5Jb1Y2UEdhRzQyNFZ4SDZrdW1NSGZHOGpFMFJjVm8ycVBfeWZPZWVyWDhOVFRPeF91MURyMjF4V2FsMTdkTUdpVXVDTVNzVFAxNll4QjVEOUc3NW02UU1HRFFOTlo2elFzYjJtMXNHaXJOMzlqdXp3OU1UQVdFSmNtSWotaU0?oc=5",
-      "snippet": "Trump says US in contact with IRGC and calls on Iran to surrender &nbsp;&nbsp; Al Jazeera Live updates: Trump threatens to bomb US ally Oman as Iran agreement expires &nbsp;&nbsp; ",
-      "pub": "Mon, 17 Aug 2026 15:14:57 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Pilot still missing in Ontario, police say plane debris found - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX1U4ZWxTc1hROTRtWnVkY3NRMUQ1SGM5Qk9iQmstUnFTcnBlNTNHZzk3cEVoLVhaRWtRUTMzeGF2VmhqOTFRLXFjUnpnSXUxaG5jZkRSU0pYZF9SOWRNSGhRY2ZaX0pRWEJTZXB0TmJVdUhiX3FYY3o4VVUzRDJrekJ5UkFTTEdLc3pUWQ?oc=5",
-      "snippet": "Pilot still missing in Ontario, police say plane debris found &nbsp;&nbsp; Global News Search ends for missing plane after debris discovered in Ontario lake &nbsp;&nbsp; CTV News P",
-      "pub": "Mon, 17 Aug 2026 14:44:20 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Girl, 16, dies Sunday in north Edmonton after reports of shooting - Edmonton Journal",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTE1aQmtZNlcxQk92WW1OaGZDclY0akRxdW5hb2d0b1otMnhwSkhxQ3NpUUJSTXBybHhjM2hlUmRXNjBkWkNjVTFwbkF4UFB0R3ZkVzJSWnRFaVRBaDBlaXI5dW9MWTNnV0F1bDVoSDR5VlUyd1hKQnlCal9CcW5Xa2ZaeFg5cDFZZk9NbERPQ3g?oc=5",
-      "snippet": "Girl, 16, dies Sunday in north Edmonton after reports of shooting &nbsp;&nbsp; Edmonton Journal See more headlines & perspectives on Google News",
-      "pub": "Mon, 17 Aug 2026 11:26:56 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Driver visiting eastern Ontario from another country stopped for stunt driving on Hwy. 401 - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbnVmYVZtRGkwUUVqQlNfbEhIQ0JIeWRJbnhyak5kbU9waXluRG1BNUNoRFFZVF85SkFjQjhWS1V1eEhwOHoxSms3SEdrRXZuY1R4X1FiQUdkUXVSWC1CTno2dmhwRW1hNVZiNC1CZTRNSXoxcEV6NG9wRndfOUZSZDZLTTFqakRJdGRESV9HYzczZjVkakEtRVRsV0NkTUlZTFE1MFRHT3IzLWFxRnZ0WXloU3lMS3h3UVRYcEFqQXF4V19vR2JJ?oc=5",
-      "snippet": "Driver visiting eastern Ontario from another country stopped for stunt driving on Hwy. 401 &nbsp;&nbsp; CTV News",
-      "pub": "Mon, 17 Aug 2026 10:31:09 GMT",
+      "title": "A 44-year-old woman is Montreal’s 15th homicide victim of 2026, police say - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS09Wa05rbWlyZUVRcDMyUk0zS2dwNnZKQmdTSVZqOTZ5Vy1LdUF2RG01elY2SFQ4WlNYc2RYYWVUQXROVmVWaElhdTVTVzVSMkJyS2ZfY0N6a0dsTTR4LTRPeXNpWUJqa3JSc25ZLUhoNFliSUZEUG5FcENOd25rTVk5Y25DNnRmWWNFTXRWWjM?oc=5",
+      "snippet": "A 44-year-old woman is Montreal’s 15th homicide victim of 2026, police say &nbsp;&nbsp; Montreal Gazette Montreal police investigate suspected femicide after woman found dead &nbsp",
+      "pub": "Mon, 17 Aug 2026 00:31:17 GMT",
       "image": ""
     },
     {
@@ -128,6 +120,14 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGZLNzRzTDlzM0g3eDJOQ2VwYkhwQ0l3Y0cyUDNlWmdaNWpaT0pyMm5fSG1zWGtKT1F5NjFsQ00zX3g4T1YyU2k2NXdRX0lhcVhLamxTOFlkczk3SUJ0OC1XazZfcWVfVlZYaVRockpyNU41a25JRFZ6ejFlQmJheElnd3FPcm9sazhzSThrVQ?oc=5",
       "snippet": "Demand for Canadian Citizenship Certificates soaring, fuelled by Americans &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
       "pub": "Mon, 17 Aug 2026 08:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Plane of pilot in Ontario found, officials say case now missing person investigation - Global News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX1U4ZWxTc1hROTRtWnVkY3NRMUQ1SGM5Qk9iQmstUnFTcnBlNTNHZzk3cEVoLVhaRWtRUTMzeGF2VmhqOTFRLXFjUnpnSXUxaG5jZkRSU0pYZF9SOWRNSGhRY2ZaX0pRWEJTZXB0TmJVdUhiX3FYY3o4VVUzRDJrekJ5UkFTTEdLc3pUWQ?oc=5",
+      "snippet": "Plane of pilot in Ontario found, officials say case now missing person investigation &nbsp;&nbsp; Global News Overdue home-built plane found in Ontario’s Kawartha Lakes area, pilot",
+      "pub": "Mon, 17 Aug 2026 14:44:20 GMT",
       "image": ""
     }
   ],
