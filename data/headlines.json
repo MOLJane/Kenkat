@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T00:43:25.546803+00:00",
+  "generated_at": "2026-08-17T02:14:15.431471+00:00",
   "count": 16,
   "items": [
     {
@@ -70,15 +70,15 @@
       "source": "Google News Canada",
       "title": "Negotiators fear U.S. tariffs will be imposed, as provinces and Washington dig in on demands - CBC",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRnZvZEFLc2VDNVQtQjE3dTl5cEdTQzV0a0FjLVl2OFBfcEktOFdoR094dkYzWUxHcGYxdXJZa2hJdl9qU0U3MnEwa3RoUURkYW92UTVMM1I4X3E4RTJCX1JOaEFNTjBGOWJWRHQ0YlkyX01ZOXpVdnZhOG8wTjRKSXRvV0VYdHpTa0d3OUNFNTBEa1d3NjRLb3EtbU92dkQ1b1N6UnkyWnZxQTZNeC1XYTd0Mm91U0hCanBUWA?oc=5",
-      "snippet": "Negotiators fear U.S. tariffs will be imposed, as provinces and Washington dig in on demands &nbsp;&nbsp; CBC Canada, U.S. officials to meet again as 50% tariffs to take effect in ",
+      "snippet": "Negotiators fear U.S. tariffs will be imposed, as provinces and Washington dig in on demands &nbsp;&nbsp; CBC LeBlanc meets with U.S. trade representative as tariff deadline looms ",
       "pub": "Sun, 16 Aug 2026 22:50:49 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Highway 97 fully reopened through Summerland, time restraints lifted - castanet.net",
+      "title": "Highway 97 fully reopened through Summerland, time restraints lifted - Castanet",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYXRiOXBXSW9DZWV4WGIxdU5iQnZXc1IzMEE0eDdldS1Ob0JIWl9FcUFJcTVnS2hoWS1aMXNBTDZpVjFoSFFfZ1JvWkNzN1J2MEVLMUZURk9RR3hzN2pqQWxJaVJsejFobVIxOFJtT0VGaXVWS2stSlNZUG56azJVZm02Q2UwZ25BY1pmMTBzUW5ESGNZaHNOSlJCeUlNT19DS3JoQ1RpTXpuOWhkUXhiUFROMEt3UQ?oc=5",
-      "snippet": "Highway 97 fully reopened through Summerland, time restraints lifted &nbsp;&nbsp; castanet.net Wildfires shut down B.C. wineries’ peak tourism season, leaving financial strain &nbs",
+      "snippet": "Highway 97 fully reopened through Summerland, time restraints lifted &nbsp;&nbsp; Castanet Wildfires disrupt B.C. wineries’ peak tourism season, cause financial strain &nbsp;&nbsp;",
       "pub": "Sun, 16 Aug 2026 20:10:00 GMT",
       "image": ""
     },
@@ -92,14 +92,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Owner hopes ‘for the best’ after three-alarm fire at Zanzibar Tavern in downtown Toronto - CP24",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ2RhZnlYSWpBMHRLeWZmTUlhRlpvTWViYk1XaF91Tjd2T2pUMlBtN2tvOXllSUdEbFNWUmVCUzFzczcxYjNCX3J5T1Exd0JqWkdXeWNWa1VmbFU5ZnJwSjBZZ255dm5jeG9rSWdGbnBFVU1vWkFJWlFLQzdOMXVEYVhhMU9HTTR2N3NnM2dOUmdWOEdfbkpXN1VveWN0OEFTUzdsNW9lbHY1RXdZRmlmZy1HU1RZbUgtcF9RSkM1LUMwd3JnUnc3VWw4ZFZmdw?oc=5",
-      "snippet": "Owner hopes ‘for the best’ after three-alarm fire at Zanzibar Tavern in downtown Toronto &nbsp;&nbsp; CP24 Roof collapses at Toronto’s iconic Zanzibar Tavern after 3-alarm fire &nb",
-      "pub": "Sun, 16 Aug 2026 17:02:04 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Man, 36, charged in unprovoked stabbing of TTC employee - CityNews Toronto",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDBKWERjX0FWMFpMM2tVRWVIZ3dKN2NqMnhNZHlOZ1VJaDd6ODlvZEhMcW5tX1JwRHpuUlNBZzJLNE4tOXhsSnpEZkxma2UyN2NmbDBmVldhb1ZEZXF0WnFnT21MVndvM3F0R3dPUXBPSEdvdTRnTVdxSHI3YjZoRHF3RS1mQS13dDJ3blB3YlFBVjlhMlBWNw?oc=5",
       "snippet": "Man, 36, charged in unprovoked stabbing of TTC employee &nbsp;&nbsp; CityNews Toronto Toronto police release images of suspect wanted in stabbing of TTC worker &nbsp;&nbsp; CP24 Po",
@@ -108,26 +100,34 @@
     },
     {
       "source": "Google News Canada",
-      "title": "‘Meeting face-to-face is essential’: Canada brings politics to pork at Iowa state fair - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVzRiQzU0R24yR1pWYjFuVjRZMThGckFKTUc5QzN1M012aFgzTHNuLTRUaVdhUDV3U1ZtN1g5NzBjTXE2MDhFckRwNFY3NHM0X2xOQklFZ2YwVkNrSHM0aDQybkhuUmtPS1o1QXNINVRnWWVZR0RoMDl3ZEplaHhIbGJ5eVJZVlpHUEhQRU1kU0JVSld6TmFYcFF1YllRTDdzX2hrLTd1S3JlOTZSUWFUam9ORk9LbXhLQ29xLW0xMnV4MkhvbEtZempTejhPNGp2SGc?oc=5",
-      "snippet": "‘Meeting face-to-face is essential’: Canada brings politics to pork at Iowa state fair &nbsp;&nbsp; CTV News How Iowans feel about Trump's tariffs, Canada's treatment as Republican",
-      "pub": "Sun, 16 Aug 2026 18:48:00 GMT",
+      "title": "Province, feds roll out $1B for municipalities that don't charge development fees - CBC",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNTI4cFp4eXA4NUh2S01uTjV6SzBaYUI0TlhtTHNyRUk1X0N0Xzd3VFFSY1NROFIwNzNPSlFwQy00Uk5FeTNQWk5oM1hscVZUSmRFekszd2RBRUJ4dHUwbzRNTG9tay0tUXBhYXJkTnRaWHlFLVZ4TEF2ak8zd2ZUc0NBM043TmJuOXdaWVJQSmduTEJ1T19DNjhybTdNcEVReXVDVVdsUkVRN1c1YjZvSVI2OFNqc1I2c0wyV3VsZHBuQldBMkE?oc=5",
+      "snippet": "Province, feds roll out $1B for municipalities that don't charge development fees &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "pub": "Sun, 16 Aug 2026 18:37:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "What you need to know about B.C. wildfires on Aug. 16 - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWlVTl9xaTd6ZFN5NUlmY0lGQ1h3eUltWjVlWmp5U0lVNWFlMnVFektFS1Q0enctUjUxd0xkUTJNQTRZOEYtcWNidDVqTm5lUno4MUlzTmFZV1Q2amtqQ0tCUmM1RmVMUGZ0QlNYcEpUVEdTaWF6SEtMTzNESVlyS3BsYk0zVE5MZTcwSHVRaXcwSlB0YmdFb2tZd1hDNV9fU3dPMUpRd2ZQYmdQeHNDdTFxTQ?oc=5",
-      "snippet": "What you need to know about B.C. wildfires on Aug. 16 &nbsp;&nbsp; CBC Metro Vancouver lifts air quality warning as wildfire smoke reduces &nbsp;&nbsp; vancouver.citynews.ca B.C. o",
-      "pub": "Sun, 16 Aug 2026 23:24:04 GMT",
+      "title": "Trump directs Hegseth to reduce U.S. joint exercises in South Korea - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1ZYZFFxZ2ZwY200MGxEOWNtSUU3dktxcWFpbUJoMldRcjZwb29sOV93TXFSTzg5b1NQckNNRFBMdmlQd2dKTHZ3RlFpbXJZVVJFQ3cyc0hqelpGTlNIbnFpdFRpVXN2MTdHcG1hSGdzQ1ducEU1dWNhcVdVLVFobWtKSXFVd3YyWFRn?oc=5",
+      "snippet": "Trump directs Hegseth to reduce U.S. joint exercises in South Korea &nbsp;&nbsp; The Hill Trump says US will reduce military exercises with South Korea, citing lack of help with Ir",
+      "pub": "Sun, 16 Aug 2026 21:55:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ontario, Canada governments announce $1 billion for infrastructure to support housing - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSkg1eGZ5UjNLbm9kNjRTMU1HMW5ZaC1rMjRwYTVaQXhxaFJkOFl1b1NsenQtSlh3RHR0eWRGMHN4QjBuSzRJdXIzbEwwczJQTFBZck02RTFucEdRajlqRGd3Ml9MZDNFeG9qUXlqeC11NkljeEpXd3JBZFU4NXRKZ2cwUTNzT2NyUHc3b0NCSlYwOWtzU2F5RWNvZHJLaWhHdUZKd21RLVJyeVZIeDhlZlh1TmRXVURFdVllaExLQ3BXZ3dpdEJxSzBONUdwR1I2X3c?oc=5",
-      "snippet": "Ontario, Canada governments announce $1 billion for infrastructure to support housing &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Sun, 16 Aug 2026 19:11:52 GMT",
+      "title": "Grizzly bear escapes enclosure at Calgary Zoo - CBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNkExLWpmVjRKZW5CT1Bxb0VmM1kyU1lkOGcyenJBa3c4UTAyc1RtQTJabVJKZWRZZ2tpZzdiZzRHOEN5ZURUNHF4WTRlMmRFU1puWmtsemNFYUU0WC1lMmtBaW9VaXlpQUJHaWotTW5wbzRqVU82N0k4RFp0TUx1Nkt0S0ZSTi1wRFZRSjh3WUY0eGZkSXNDdGFB?oc=5",
+      "snippet": "Grizzly bear escapes enclosure at Calgary Zoo &nbsp;&nbsp; CBC",
+      "pub": "Mon, 17 Aug 2026 00:56:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Smoky skies continue across Southern B.C. Sunday - Castanet",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYXVhMklXaUs3N2JQUmlpRXVHTlpBWUxmaTB2clpaSnU1V082Nk1jbEQ1Mnd5cnR3R0g3NTlVS0dFUUlMODdFdXpUd2ZkNWN6NW5tcnlQLXZBTkxqTDdPaV9IUTlCMzQxNWNNNkZxTEdCZVFFcFpPeVlCaE9zeVg1alN4UVJ0NXItTGZ2SXBwSG4?oc=5",
+      "snippet": "Smoky skies continue across Southern B.C. Sunday &nbsp;&nbsp; Castanet What you need to know about B.C. wildfires on Aug. 16 &nbsp;&nbsp; CBC B.C. offering free N95 masks for B.C. ",
+      "pub": "Sun, 16 Aug 2026 19:10:00 GMT",
       "image": ""
     }
   ],
