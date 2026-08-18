@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T05:32:23.478330+00:00",
+  "generated_at": "2026-08-18T06:26:58.601351+00:00",
   "count": 16,
   "items": [
     {
@@ -68,18 +68,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Canada braces for 50% US tariffs, with negotiators still far apart - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbW1QZklpeDg1Z0hQYVFXbVZvUnZRZ3UwZ21qdVJMTWpWQnRTNHJCdmlscEpxNEtQNlBadGZIeXdpc3pBY0JPSW9mMk1QXzk5dkFVX2E4c18tSm1XN0dKbXlWc3VTTkNldWstakhodnM1Q2JseVZ6Nk1kbTZ4aWhfV0dUSmVyVkNlSzR4VW43SzRqT3ZzTjhSMzdlMVRUUmJnLV9WeHIwLTQ5c0FTTlJXMWFOcFZrTG8?oc=5",
-      "snippet": "Canada braces for 50% US tariffs, with negotiators still far apart &nbsp;&nbsp; Reuters LeBlanc says job ‘not yet done’ after trade meeting &nbsp;&nbsp; CTV News It’s Crunchtime Ag",
-      "pub": "Mon, 17 Aug 2026 21:08:45 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Russia warns UK over supplying drones to Ukraine - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FOV9IY1V1dlNiOW1UV3Z6a2w5dG9zQk9MaVNiUV83MGhmYzN5NDFZdVlGSFFXVlN3SWxkdTFZbmJIQlk3UTJCNVRkb09UOUJ2ekc5ckN0M2k1dw?oc=5",
-      "snippet": "Russia warns UK over supplying drones to Ukraine &nbsp;&nbsp; BBC How Ukraine’s Satellites Help Drive Its War Drones &nbsp;&nbsp; The New York Times UK drones used for ‘deep strike",
-      "pub": "Tue, 18 Aug 2026 01:16:41 GMT",
+      "title": "US-Canada trade talks 'intense' as new tariff deadline looms - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ITkJ4Ri1adkxLYk02bFhlQnhQRlE3eVJidVVYb2kycHAtMVlHdThGV1dhV3hyNHlsUUxQbF9OVDRuQXV1RkNvNFFsc1NfczA2aXo4NVpjd3FOdw?oc=5",
+      "snippet": "US-Canada trade talks 'intense' as new tariff deadline looms &nbsp;&nbsp; BBC LeBlanc says job ‘not yet done’ after trade meeting &nbsp;&nbsp; CTV News ‘An existential threat’: B.C",
+      "pub": "Tue, 18 Aug 2026 00:02:31 GMT",
       "image": ""
     },
     {
@@ -96,6 +88,14 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeU0wQ21sWnFpTTZxT2tGVGtVbG5ucFkwLTVYY01CQTdHLUVOYy1NZFJDWnRxSnFMbGl6eU54QkhrdURuNExLYmJ0R21WQjdQZ0pKVFBob2lLNVViZ3Q0aEUwSzM1Y3VpWEc0dXZWZDhmMng5SG5reEtpN21JcVc4Z01MWlpHRXRjTWg40gGQAUFVX3lxTFBiTlY0c1hYeFBueHVDT29taXFUWC0xSEc3U2R2NGlISW9Oa1dzX0REYVA3Q2M0cjlDSFBQb3JvNEkwNUx2cVlnSnQzRmM3TUlPdG1vcDBWakFXTk9iT2kyeEZDWnlDUV9jRS1oNnJWNVM5V3p3VU54MF9OLWpsaTdvaFFCRDQ0RXNHWmFNc1V6ZQ?oc=5",
       "snippet": "Trump’s approval rating sinks to new low at 33 percent &nbsp;&nbsp; Al Jazeera EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds &nbsp;&nbs",
       "pub": "Mon, 17 Aug 2026 20:44:29 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Canada issues serious advisory for popular Asian destination - Daily Hive",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PZmNrbzJwX05tQUd1M1FQckpiR3IzRGMtX0FENlVGc1NNTXNXYVJZaWRtT2dHZ3l2OHdJNVgyWkJEM1VvMjc1QUJLOUt2UHRWMFREUjRxOUtYTEpSMFhQQTNHUDNKU1QxMXhUOG5nYUZHZHlt?oc=5",
+      "snippet": "Canada issues serious advisory for popular Asian destination &nbsp;&nbsp; Daily Hive Fear grips children after deadly earthquake in eastern Indonesia leaves thousands displaced &nb",
+      "pub": "Mon, 17 Aug 2026 17:37:00 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "B.C. wildfires being exploited by bad actors, Russian operatives, profiteers - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU0ZGWUtBRU4zZzZLSUp6Q0hrdUFPczN6akxIdDAyMFRXeHloVXRZMWNFOUFPXzkxRXg2VUZlWDVrTzIyLWdYUlVBMmF4ZGVoVzNXdmRIcm5paTZhSHdjTUlvNVMwUm1TRTA3bGpSbUNYT0ZDbzJCMGtjSWk5SHlJczVXLVVCZkE0RUFkR0x5Y1V6T0ZfT0hmdWZJTzBJdkFZUUZqZ2tiTlFvaHZVaDlESkIwZWE?oc=5",
-      "snippet": "B.C. wildfires being exploited by bad actors, Russian operatives, profiteers &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Tue, 18 Aug 2026 01:15:00 GMT",
+      "title": "Alberta government misses treaty anniversary event - Global News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSHFzcFNQdldwR3MtSzg5Tzg5OXktVDBsUW5YajBaX3FvcU5DLVJNVWlfeDgzX040UUViWUR4cUdXLUFtNlZ6MzdUdHNLV3RTdHo1VkNXM25FLWt6MjBZMkEwSFg2UXV4X1ZGenF6WFlXR1VvRmJEVDY1QmRfYjNCZk5GMXpjMmdhR1VFR2VjSGU?oc=5",
+      "snippet": "Alberta government misses treaty anniversary event &nbsp;&nbsp; Global News Chief calls for respect from Alberta after government misses Treaty anniversary event &nbsp;&nbsp; Globa",
+      "pub": "Mon, 17 Aug 2026 21:19:27 GMT",
       "image": ""
     }
   ],
