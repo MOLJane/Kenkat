@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-18T17:19:00.401962+00:00",
+  "generated_at": "2026-08-18T17:51:01.018103+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Harbour Grace RCMP Investigating Two Separate Fires at Harvey Street Apartments",
+      "link": "https://vocm.com/2026/08/18/307404/",
+      "snippet": "An investigation is underway following two recent fires that caused damage at an apartment building in Harbour Grace. Both fires at Harvey Street Apar...",
+      "pub": "Tue, 18 Aug 2026 17:34:49 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-28.png"
+    },
     {
       "source": "VOCM",
       "title": "Two Drivers Lose Licenses Following Major Speeding Incidents on GNP",
@@ -16,7 +24,7 @@
       "link": "https://vocm.com/2026/08/18/19-year-old-facing-assault-charges-following-alleged-bear-spray-attack/",
       "snippet": "A 19-year-old man is facing charges after two women were sprayed with bear spray at a home on Jeffers Drive in Mount Pearl on Sunday. RNC say the man ...",
       "pub": "Tue, 18 Aug 2026 16:36:49 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/jeffers-mount-pearl.jpg"
     },
     {
       "source": "VOCM",
@@ -59,35 +67,51 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Former Premier Optimistic Latest Attempt to Remedy 1969 Upper Churchill Contract Will Come to Fruition",
-      "link": "https://vocm.com/2026/08/18/this-is-a-placeholder-title/",
-      "snippet": "It was deja vu for former premier Roger Grimes who was among the many dignitaries on hand for yesterday's Churchill Falls announcement. Grimes was inv...",
-      "pub": "Tue, 18 Aug 2026 13:15:13 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/former-premier-nl-roger-grimes.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Carney speaks with Trump, calls trade negotiations ‘very intense and delicate’: Live tariff updates here. - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUTZaLVhDQWJ0QTVBMGhSdHFoUDBnVW4zeDZPU0E2QjlqejgzRHF3TUthMDQxNmdscXFocFZaaUlxdWkxMEhRNGNVNW5jOGYzSUhTNzVZeS1haWUxZXdZN3Nuem1idEhybXg4VWZNS09wMTZ4NDlfWmNZbmwyY1FQYktRSVdveGZFa0UxYV80am1RMnZ3VEUzX1pSY1JubExjNURMV1pkdDNaQndJWlZnMVg3NGhoQ200ME5HNGhqclRsS1lKcVUteFVuaUtPS2FoS0NILTEyU25NTlJkVTR5cjlFNXVURkxZ?oc=5",
-      "snippet": "Carney speaks with Trump, calls trade negotiations ‘very intense and delicate’: Live tariff updates here. &nbsp;&nbsp; CTV News Where Trump’s looming 50% tariffs could hit consumer",
-      "pub": "Tue, 18 Aug 2026 16:27:08 GMT",
+      "snippet": "Carney speaks with Trump, calls trade negotiations ‘very intense and delicate’: Live tariff updates here. &nbsp;&nbsp; CTV News Canadian, U.S. negotiators expected to meet again ah",
+      "pub": "Tue, 18 Aug 2026 17:32:29 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Donkey left behind after Bald Ridge wildfire found rolling in ash, doing 'great' - Castanet",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY2xkNU51d3ppV3Z5cUVESldFLWd5ZGtISW9Hc25RSmVmTlk2ZnBIaHJOMXhsRDMtQTM5MGNveHFyNk1rbzdCc2tXSVdWQVR4eC1TSkJkcm0waks2VnhUV1lZcFVPVlo3WVRyd01xazg0THZmZ2h5SlBjQmJrMkV2Vkx3WEh6YmM4bmJ3YnJhNmhiSHRfclgxeExSdndqVm03YVBMQ2FSY2djbGlJejZyT0EzZ2Z4WGVwWEFVdGxZS2U4ZFNR?oc=5",
-      "snippet": "Donkey left behind after Bald Ridge wildfire found rolling in ash, doing 'great' &nbsp;&nbsp; Castanet Evacuation order lifted for majority of Summerland, B.C. &nbsp;&nbsp; CBC Wil",
+      "snippet": "Donkey left behind after Bald Ridge wildfire found rolling in ash, doing 'great' &nbsp;&nbsp; Castanet Majority of Summerland, B.C., allowed home as evacuation order partially down",
       "pub": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump declares Strait of Hormuz as 'new US territory,' day after MoU deadline expires - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NczBOaDg4Z1FsQ1I1N05PVTA5YUxiUTFvTUZXamgwZXJmME9ndFdtRk94VkphQnBNa1lIQkJvdUp2ZTdyZE9CeG9uNWItU0RiSk1PZW9MeXBMRE83Wno2RkR4eHlsZVlQVlE?oc=5",
+      "snippet": "Trump declares Strait of Hormuz as 'new US territory,' day after MoU deadline expires &nbsp;&nbsp; The Jerusalem Post Trump posts map labeling Strait of Hormuz as US territory &nbs",
+      "pub": "Tue, 18 Aug 2026 14:23:22 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Nova Scotia minister faces calls to resign over resurfaced rap lyrics - Global News",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSDVDWTVTNzY0QjEyZXVDVm1GX0lXcnNoM3ZIWml5eXdMR3hoeDFGdUhoWEUzV0E4Z2pla0NFLUs0RjlDY1lSanhreTVqaGN0cXRrOGYxemtRNXk0dFlZY1lQSEoxN0F4REZkODdzWHE2T1d6cjdnY0ZfalVyaHRvTWNMSWpqQQ?oc=5",
-      "snippet": "Nova Scotia minister faces calls to resign over resurfaced rap lyrics &nbsp;&nbsp; Global News N.S. energy minister criticized for past song lyrics, faces calls for resignation &nb",
+      "snippet": "Nova Scotia minister faces calls to resign over resurfaced rap lyrics &nbsp;&nbsp; Global News N.S. energy minister apologizes for lyrics ‘hurtful to women’ but doesn’t plan to res",
       "pub": "Tue, 18 Aug 2026 00:23:24 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Search for B.C.'s best roadside attraction: Southwest B.C. finals - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclotX2tJUWZ4WFhodG80aHA4M2RDcjBiMldrNUI4d1k1MFJGSkE0WEpPRlJzTURXbC1OdTNaVC02ZmhiYTBITjJGU3Z5Q0FBZHRmczVLZEhsaXpYVFQxNFBXc0xMbHBKQ0dNMnd3ZWJwMzRRYmxuNFhNMXNiQUU4Rk9Rb0FKNWduOFhzZ0gwOHdGcE9vRlVKa21EMWROR0N4Znc?oc=5",
+      "snippet": "Search for B.C.'s best roadside attraction: Southwest B.C. finals &nbsp;&nbsp; CBC ‘Cool little undiscovered experience’: Canada’s wide world of roadside attractions &nbsp;&nbsp; C",
+      "pub": "Tue, 18 Aug 2026 16:30:07 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Petition to expel Donald Trump’s ambassador to Canada gets more than 200,000 signatures - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNTk5Z25zOVpEMm51bHZVWEdfZnRka05mRDkydzg1U1hoakNsT2xTMC1qX3Q0RFBtRXNleHRHcU9KODNTRGw2QWJzV3dDVGxYb2dSWTdkUG93bEJDRzFDZmRpME1QLXRPWUlDbEUxRkNGVzhtRzZHSklhdEZReXh5TTc5a0wtbno5aEI3aHo2RURyNkxKSWhwY01HS0ZaTlhVM3I2blJqOFppMlZQTHJwTVZTc0NKaGItZFN4NTZWbXdqUU5kUVdqaFlocGk4bVg2WkRBZWUzVkVDSWFmQmVTdFFabnQ1QUJCS3poWHFpVjZ1RDlmMUQ2SHM4LWRjUWFHaDJhbTItbw?oc=5",
+      "snippet": "Petition to expel Donald Trump’s ambassador to Canada gets more than 200,000 signatures &nbsp;&nbsp; Toronto Star Hoekstra's missteps in Canada are mild compared to some of Trump's",
+      "pub": "Mon, 17 Aug 2026 21:00:00 GMT",
       "image": ""
     },
     {
@@ -95,23 +119,7 @@
       "title": "No referendum with Trump around, says PQ ahead of October election - CBC",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUnlETWx5TUtZOWxYT1lYcFRVbm5uc21mZnFZYmhqTlo0WjBRcnNMNmhjZHAtb3o4bHd2RWp5Z09nUy1WbzZsUW9IQnYzRVRKZUo0T2JvbmpKdC1nalBLTFloUHJxSkJmbEkxYjN0bXROcXpoLXlXWVM1MnBmSlU0anpB?oc=5",
       "snippet": "No referendum with Trump around, says PQ ahead of October election &nbsp;&nbsp; CBC PQ won’t hold Quebec sovereignty vote while Trump is president, leader says &nbsp;&nbsp; Global ",
-      "pub": "Tue, 18 Aug 2026 16:39:13 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "'The Trump Bump': Demand for Canadian Citizenship Soars as Americans Try to Flee Disastrous Second Term - Common Dreams",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yajNUSnFyRmRHT1VXLTNBcHRzdy1WLTFubk42SkhqT0llaUtKZnJaX1NMQk9FdG03VFE0ZHN2dWZlMUlCcDlya2NxYnJGYkUwZjdYbmlhWWRWcnJrR3ZWN1Y2ellrZkNPbHpRNkRB?oc=5",
-      "snippet": "'The Trump Bump': Demand for Canadian Citizenship Soars as Americans Try to Flee Disastrous Second Term &nbsp;&nbsp; Common Dreams Demand for Canadian Citizenship Certificates soar",
-      "pub": "Mon, 17 Aug 2026 16:04:13 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Search for B.C.'s best roadside attraction: Southwest B.C. finals - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclotX2tJUWZ4WFhodG80aHA4M2RDcjBiMldrNUI4d1k1MFJGSkE0WEpPRlJzTURXbC1OdTNaVC02ZmhiYTBITjJGU3Z5Q0FBZHRmczVLZEhsaXpYVFQxNFBXc0xMbHBKQ0dNMnd3ZWJwMzRRYmxuNFhNMXNiQUU4Rk9Rb0FKNWduOFhzZ0gwOHdGcE9vRlVKa21EMWROR0N4Znc?oc=5",
-      "snippet": "Search for B.C.'s best roadside attraction: Southwest B.C. finals &nbsp;&nbsp; CBC Search for B.C.'s best roadside attraction: Northern semifinals &nbsp;&nbsp; CBC Search for B.C.'",
-      "pub": "Tue, 18 Aug 2026 16:30:07 GMT",
+      "pub": "Tue, 18 Aug 2026 17:29:22 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTTA3cUlDN2pRVUI1X05KY2lvQ2FrNkpxamszOFB4NHRJNFh1UXNva2NlMHg1WWVTNkZKUXVfVFFob0NZT1EyNEI1WXJLclBIcFZnaHhHejZ2WGp5c3RwVFRXcFByb2FYTzRzRk50akl0NGN4RWtwdFhQZlZrUm1UQklrSHZLWFhWN1VIcDViemZCTFIydHhDMEI3OG1fc3JKaTFjZzVIUndaTHc?oc=5",
       "snippet": "Edmonton police continue to search for answers in death of 16-year-old girl &nbsp;&nbsp; Global News Neighbours shaken up after teen killed in apparent shooting in northeast Edmont",
       "pub": "Mon, 17 Aug 2026 22:46:10 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Dreeshen applauds Ontario court’s ruling on bike lanes as Alberta bill looms - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2V4TVhTc2x1VTllZmRvcUdjVUNyRmZ5alBfdUoxeTc2OHo2U0hNTXZvN2VYR2pweENFeXdZM2xpRGNMalBuLTNMY1I1YWhRUzRiMkhaSHBtWTZmTDhlS1oyb0FtYWJNeHhOR0trNXRnb1VvTE5YNElnbFd2S1o2RXpYOHIwV1UtZmNscVV4RHpfZU1aVVFzemVNUnVJMHZhQjRmdXBVWkZvY3NoT0Y3bVF2cEYydw?oc=5",
-      "snippet": "Dreeshen applauds Ontario court’s ruling on bike lanes as Alberta bill looms &nbsp;&nbsp; CTV News Government of Alberta praises Ontario court ruling on bike lanes &nbsp;&nbsp; Glo",
-      "pub": "Tue, 18 Aug 2026 12:33:10 GMT",
       "image": ""
     }
   ],
