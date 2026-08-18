@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-18T16:20:17.862754+00:00",
+  "generated_at": "2026-08-18T16:55:14.028364+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Two Drivers Lose Licenses Following Major Speeding Incidents on GNP",
+      "link": "https://vocm.com/2026/08/18/307396/",
+      "snippet": "A teenager's driver's license has been suspended after he was clocked by police at well over double the speed limit over the weekend. The 17-year-old ...",
+      "pub": "Tue, 18 Aug 2026 16:49:27 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/speeders.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "19-Year-Old Man Facing Assault Charges Following Alleged Bear Spray Attack",
+      "link": "https://vocm.com/2026/08/18/19-year-old-facing-assault-charges-following-alleged-bear-spray-attack/",
+      "snippet": "A 19-year-old man is facing charges after two women were sprayed with bear spray at a home on Jeffers Drive in Mount Pearl on Sunday. RNC say the man ...",
+      "pub": "Tue, 18 Aug 2026 16:36:49 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "HV-GB Demands Guarantees Before Supporting New Hydro Agreement",
+      "link": "https://vocm.com/2026/08/18/307358/",
+      "snippet": "The town of Happy Valley-Goose Bay is taking a hard-line approach to the newly-announced hydro agreement with Quebec, saying it won't support hydro de...",
+      "pub": "Tue, 18 Aug 2026 16:27:11 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/06/Happy-Valley-Goose-Bay-town-hall-suymmer.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Suspended Driver Charged with Impaired Driving, Pickup Seized",
@@ -43,42 +67,26 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/former-premier-nl-roger-grimes.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "One Sent to Hospital, Vehicle Strikes House in Two-Vehicle Crash at Mundy Pond Road and Columbus",
-      "link": "https://vocm.com/2026/08/18/307331/",
-      "snippet": "One person was taken to hospital with undetermined injuries following a two-vehicle crash at Mundy Pond Road and Columbus Drive yesterday afternoon. R...",
-      "pub": "Tue, 18 Aug 2026 12:36:22 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/mundy-pond-car-on-saide-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Local Criminal Lawyer Suspended for Failing to Respond to Allegation",
-      "link": "https://vocm.com/2026/08/18/307314/",
-      "snippet": "The Law Society has suspended the licence of criminal lawyer Sandra Fry for failing to respond, as requested, to an allegation made against her. On Fr...",
-      "pub": "Tue, 18 Aug 2026 10:33:21 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/law-society-supreme-court-nl-1.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "MUN Yet to List Properties Including Harlow Campus, Johnson GEO Centre",
-      "link": "https://vocm.com/2026/08/18/mun-yet-to-list-properties-including-harlow-campus-johnson-geo-centre/",
-      "snippet": "Memorial University has yet to list a number of assets it has decided to sell off. MUN, which was grappling with a $25 million deficit, announced in J...",
-      "pub": "Tue, 18 Aug 2026 10:02:15 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/johnson-geo-centre.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "U.S. businessowners don't want to leave their Canadian suppliers, but 50% tariffs might leave them no choice - CBC",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMG01NlBSa05KT0NjZkFFVi0yUnp3X2w5NlJCbGJYOEVKSUJZWnBiWkxXVXJPc0lRMEMxd015VUdpcENHa3pYT05zRjBqY1RXX3Y3T0Z0ZURLWVBPSnhwdm5pb1R1WlVreEkweXpidUhBcno1NHBieFFMWlc5VkR0SlJZZDZiZEdjS0RZRXNmZmFBZw?oc=5",
-      "snippet": "U.S. businessowners don't want to leave their Canadian suppliers, but 50% tariffs might leave them no choice &nbsp;&nbsp; CBC Trump’s 50% tariffs are set to hit Canada in hours. Th",
+      "snippet": "U.S. businessowners don't want to leave their Canadian suppliers, but 50% tariffs might leave them no choice &nbsp;&nbsp; CBC Carney speaks with Trump, calls trade negotiations ‘ve",
       "pub": "Tue, 18 Aug 2026 15:51:53 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Donkey left behind after Bald Ridge wildfire found rolling in ash, doing 'great' - Castanet",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY2xkNU51d3ppV3Z5cUVESldFLWd5ZGtISW9Hc25RSmVmTlk2ZnBIaHJOMXhsRDMtQTM5MGNveHFyNk1rbzdCc2tXSVdWQVR4eC1TSkJkcm0waks2VnhUV1lZcFVPVlo3WVRyd01xazg0THZmZ2h5SlBjQmJrMkV2Vkx3WEh6YmM4bmJ3YnJhNmhiSHRfclgxeExSdndqVm03YVBMQ2FSY2djbGlJejZyT0EzZ2Z4WGVwWEFVdGxZS2U4ZFNR?oc=5",
+      "snippet": "Donkey left behind after Bald Ridge wildfire found rolling in ash, doing 'great' &nbsp;&nbsp; Castanet Bald Range wildfire damages or destroys 150 structures &nbsp;&nbsp; Castanet ",
+      "pub": "Tue, 18 Aug 2026 11:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Trump declares Strait of Hormuz as 'new US territory,' day after MoU deadline expires - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NczBOaDg4Z1FsQ1I1N05PVTA5YUxiUTFvTUZXamgwZXJmME9ndFdtRk94VkphQnBNa1lIQkJvdUp2ZTdyZE9CeG9uNWItU0RiSk1PZW9MeXBMRE83Wno2RkR4eHlsZVlQVlE?oc=5",
-      "snippet": "Trump declares Strait of Hormuz as 'new US territory,' day after MoU deadline expires &nbsp;&nbsp; The Jerusalem Post Hormuz Strait to remain shut until U.S. meets interim deal con",
+      "snippet": "Trump declares Strait of Hormuz as 'new US territory,' day after MoU deadline expires &nbsp;&nbsp; The Jerusalem Post Trump posts map labeling Strait of Hormuz as US territory &nbs",
       "pub": "Tue, 18 Aug 2026 14:23:22 GMT",
       "image": ""
     },
@@ -92,6 +100,14 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Quebec separatist leader says no independence referendum until Trump leaves office - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQy1hcWxsY1VqTGxYdHE0N2pOVVNWOXlnUE5KVGhNWnpCOWluQkxHSjloUTR2VjAxVXV6czhQTURsS1NEN3VreV9EdWR2S0I5QW9RUXFJYTNJRkFlTEpxbDBPa3kxeUo1VVhRM2ltQzU3eW9sYVBFQXEtNHRNTmF2eTQxeEltTWREZW1rNlJrYmlCYkFmNVlabUZCMmVKQXhIV2w4V1Zn?oc=5",
+      "snippet": "Quebec separatist leader says no independence referendum until Trump leaves office &nbsp;&nbsp; AP News No referendum with Trump around, says PQ ahead of October election &nbsp;&nb",
+      "pub": "Tue, 18 Aug 2026 14:24:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Search for B.C.'s best roadside attraction: Southwest B.C. finals - CBC",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclotX2tJUWZ4WFhodG80aHA4M2RDcjBiMldrNUI4d1k1MFJGSkE0WEpPRlJzTURXbC1OdTNaVC02ZmhiYTBITjJGU3Z5Q0FBZHRmczVLZEhsaXpYVFQxNFBXc0xMbHBKQ0dNMnd3ZWJwMzRRYmxuNFhNMXNiQUU4Rk9Rb0FKNWduOFhzZ0gwOHdGcE9vRlVKa21EMWROR0N4Znc?oc=5",
       "snippet": "Search for B.C.'s best roadside attraction: Southwest B.C. finals &nbsp;&nbsp; CBC Search for B.C.'s best roadside attraction: Northern semifinals &nbsp;&nbsp; CBC Search for B.C.'",
@@ -100,34 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Elections Alberta seeks help from other provinces to run fall referendum - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdFNQd204UmpXdW9vclZUNkhuU09RdWhVblpqallRZ2Z2czBVT2JqZkpTNzRicm5EeHp0bDc1ZU1WckRDcVlDdmdTNEhCMGVFTFJuV21WZ0UzUmJtNGVQMDRzYWRDeHY5eUJNY2hrSmxFOGpKTFo2VW82bVV3ODI0ZjVTeW1PT0RLVEF1ZUl1clBlUC1qOWtfTWJWSmxqVkJkeEVWcmlsRG9xRkJLZzFB?oc=5",
-      "snippet": "Elections Alberta seeks help from other provinces to run fall referendum &nbsp;&nbsp; The Globe and Mail Why a low turnout could lead to a surprise result in October &nbsp;&nbsp; S",
-      "pub": "Tue, 18 Aug 2026 09:30:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Petition to expel Donald Trump’s ambassador to Canada gets more than 200,000 signatures - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNTk5Z25zOVpEMm51bHZVWEdfZnRka05mRDkydzg1U1hoakNsT2xTMC1qX3Q0RFBtRXNleHRHcU9KODNTRGw2QWJzV3dDVGxYb2dSWTdkUG93bEJDRzFDZmRpME1QLXRPWUlDbEUxRkNGVzhtRzZHSklhdEZReXh5TTc5a0wtbno5aEI3aHo2RURyNkxKSWhwY01HS0ZaTlhVM3I2blJqOFppMlZQTHJwTVZTc0NKaGItZFN4NTZWbXdqUU5kUVdqaFlocGk4bVg2WkRBZWUzVkVDSWFmQmVTdFFabnQ1QUJCS3poWHFpVjZ1RDlmMUQ2SHM4LWRjUWFHaDJhbTItbw?oc=5",
-      "snippet": "Petition to expel Donald Trump’s ambassador to Canada gets more than 200,000 signatures &nbsp;&nbsp; Toronto Star Hoekstra's missteps in Canada are mild compared to some of Trump's",
-      "pub": "Mon, 17 Aug 2026 21:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "PQ would not hold Quebec independence referendum until after Trump leaves office, leader says - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOODRsRjlPNVVGSFNSdGxwdzJzMzJ4ZlcxbGZkOUgwRjlfenIzekIxbjItSDUtMmpacXdhbzFEZlZrM2QwZzlVUzkxenlWbDloWWNjYUs4NnRxRHhlNVhHT1AzcFRqdmpMd3c2NHBOSmZaR0pJaXVTR2JnRnM1bTU1ZElpS2ZqMGhsVUpSQVR5YVZKblBaMkhzZEFBWWpndEFCMVpGa3VWeHR5UC1XeFpKOVN2cEU3Zw?oc=5",
-      "snippet": "PQ would not hold Quebec independence referendum until after Trump leaves office, leader says &nbsp;&nbsp; The Globe and Mail No referendum with Trump around, says PQ ahead of Octo",
-      "pub": "Tue, 18 Aug 2026 12:30:10 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Edmonton police continue to search for answers in death of 16-year-old girl - Global News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTTA3cUlDN2pRVUI1X05KY2lvQ2FrNkpxamszOFB4NHRJNFh1UXNva2NlMHg1WWVTNkZKUXVfVFFob0NZT1EyNEI1WXJLclBIcFZnaHhHejZ2WGp5c3RwVFRXcFByb2FYTzRzRk50akl0NGN4RWtwdFhQZlZrUm1UQklrSHZLWFhWN1VIcDViemZCTFIydHhDMEI3OG1fc3JKaTFjZzVIUndaTHc?oc=5",
       "snippet": "Edmonton police continue to search for answers in death of 16-year-old girl &nbsp;&nbsp; Global News Neighbours shaken up after teen killed in apparent shooting in northeast Edmont",
       "pub": "Mon, 17 Aug 2026 22:46:10 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Dreeshen applauds Ontario court’s ruling on bike lanes as Alberta bill looms - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2V4TVhTc2x1VTllZmRvcUdjVUNyRmZ5alBfdUoxeTc2OHo2U0hNTXZvN2VYR2pweENFeXdZM2xpRGNMalBuLTNMY1I1YWhRUzRiMkhaSHBtWTZmTDhlS1oyb0FtYWJNeHhOR0trNXRnb1VvTE5YNElnbFd2S1o2RXpYOHIwV1UtZmNscVV4RHpfZU1aVVFzemVNUnVJMHZhQjRmdXBVWkZvY3NoT0Y3bVF2cEYydw?oc=5",
+      "snippet": "Dreeshen applauds Ontario court’s ruling on bike lanes as Alberta bill looms &nbsp;&nbsp; CTV News Government of Alberta praises Ontario court ruling on bike lanes &nbsp;&nbsp; Glo",
+      "pub": "Tue, 18 Aug 2026 12:33:10 GMT",
       "image": ""
     }
   ],
