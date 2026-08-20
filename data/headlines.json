@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-08-20T16:59:36.721149+00:00",
+  "generated_at": "2026-08-20T17:31:44.816282+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Board of Trade Welcomes New Churchill Falls Deal",
+      "link": "https://vocm.com/2026/08/20/307627/",
+      "snippet": "The Board of Trade is welcoming the expanded agreement on Churchill Falls. The board says the project has \"enormous promise\" for the people of the pro...",
+      "pub": "Thu, 20 Aug 2026 17:13:51 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/board-of-trade-st-johns.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Wanted Man Arrested in Carbonear Following Foot Chase",
+      "link": "https://vocm.com/2026/08/20/rcmp-arrest-wanted-man-in-carbonear-following-foot-chase/",
+      "snippet": "RCMP in Harbour Grace arrested a 20-year-old wanted man following a brief foot chase in Carbonear. Police were notified after the man, who was wanted ...",
+      "pub": "Thu, 20 Aug 2026 16:48:51 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/rcmp-royal-canadian-mounted-police-patch-stock-logo.jpg"
+    },
     {
       "source": "VOCM",
       "title": "UPDATE: TCH Closed in Both Directions Near Flat Bay Junction Due to Crash",
@@ -51,22 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/churchill-falls.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Portion of Proceeds from Teen Burgers Sold at A&W Today Benefits MS Society",
-      "link": "https://vocm.com/2026/08/20/307559/",
-      "snippet": "They'll be flipping burgers at A&W today with a purpose - it is \"Beat MS Day\" at their restaurants in Atlantic Canada. Preet Pander, who is President ...",
-      "pub": "Thu, 20 Aug 2026 10:42:41 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/aandw-group-photo-bear.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RCMP Investigating Damage to Rink in L’Anse au Clair",
-      "link": "https://vocm.com/2026/08/20/rcmp-investigating-damage-to-rink-in-lanse-au-clair/",
-      "snippet": "RCMP in Forteau are investigating an incident of vandalism at the community rink in L'Anse au Clair. RCMP say sometime over the previous week, someone...",
-      "pub": "Thu, 20 Aug 2026 10:18:57 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/lanse-au-clair-property-damage-vandalism.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Canada, U.S. negotiators meeting again to finalize trade deal ahead of new tariff deadline - CBC",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMXY3SU4tV01DWnNLNXlYY05IamY1RnNKMmNWd3hyNm5nRjRqREVwSXQ1bGZ5cjNEVkdSZW85cXpncHFsZ3QwRGN4dExFNEdZWWw5NWJNWWE2aVlHa1NFempEdnE3eFdLWEJxLUhGWmlHdU5JbFZUbmpVX1hZYWsyb1V5M2JCbElEMjV4dFZ3M2RSZE8wMEtaQ0JLUVB6QVVsVl9JcGwtRXRvdFBP?oc=5",
@@ -92,14 +92,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Ontario judge discounts violent sex assault sentence for permanent resident facing deportation - National Post",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbVg2WXlzOUJuXzN5VnMtQ2xlSU9aWThXWlJwWkFtZUFTUkZsMm5qcS1abWtyTkxMbkFIWk5lTlVaQlp4ak9PMGdORjBwUXpGeHdzOG9kcUp4Smdubi12VmFseDBsajM4UzBfcEkwbmhfS25TLWtuQzlHakt5eDNtdV9BRG1IQmdtdmpSNFNmSjhDaDNkOHg5RDNuNG5JMnREcnY4d3hnVzBSaDgzSDlnMGI3T1FWTGQxTExrdGNDdHcxVERiWFJHc1JYMA?oc=5",
-      "snippet": "Ontario judge discounts violent sex assault sentence for permanent resident facing deportation &nbsp;&nbsp; National Post",
-      "pub": "Thu, 20 Aug 2026 10:53:57 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Montreal officer stabbed, civilian shot during police intervention in St-Michel - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1JVUmRzVU50UDEtbnFnY3JicUExYld1bzdfQmJTdGNrdFhZLXc4SzhQeDBzbG5DcGk0bVozdllleVkwRVF0MU5fUkVUcGJsSV8xLWtYSW8wTlN4OENaUzdqZHlWOEwzV1FfVm93aXlxYWwwQjFlMS1PWExMR0tRMnhHeVJoNGF1d2VHRExyeFlvd2owa3U3dThyTTk1SVFOSU1RYg?oc=5",
       "snippet": "Montreal officer stabbed, civilian shot during police intervention in St-Michel &nbsp;&nbsp; Montreal Gazette Person seriously injured in Montreal police shooting after wellness ch",
@@ -108,10 +100,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Calgary officer to stand trial for murder charges after 2 dead in police chase - Global News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOTNnLUJ4d1AxZFoyVmlpUC1SNElHNUVJbV9rbW1McmZpRm1rNE5MVHIwejNjbjZIcEhEeDVoM3RjUndBWHFSTGFUUFR2VERjY29VUmtYWnZobnVBUjdvYzdWb2JlMXhfU1dRbU54anRTV3FzdkwxaE54Zjg0a1JZNU5aR1FwOTZPdlFCNGczVEdCN0pmTC04Zg?oc=5",
-      "snippet": "Calgary officer to stand trial for murder charges after 2 dead in police chase &nbsp;&nbsp; Global News Calgary police officer will go to trial on murder charges for shooting on Me",
-      "pub": "Wed, 19 Aug 2026 18:11:08 GMT",
+      "title": "Drimonis: PQ leader’s referendum strategy might backfire on election day - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSTBHalZzbU40aHQxbnlNTTdqM3lVVTUtMGxJYkdubnpROS02VXgycUhhN2NCTXg0blpJMHdXY1c2YkZzdlhJVnZ4bV9SRFpVbFdwT1I0N1NVRkt3aFlXU1Vwbk9vOUlKMzhfLVMta0tDdktHWV9EWHhCMlRmZDh6SjljWXhScTlTTTdWMUdlMXl3V3htNnA1TDRVWGw0OURoeWNvNjR6Qnd5SWRad29jaExyVHRTWFkxVUdqVzAzVEMxZ3lnNHdScVJjcWhKTDBPeEt0d3Fn?oc=5",
+      "snippet": "Drimonis: PQ leader’s referendum strategy might backfire on election day &nbsp;&nbsp; Montreal Gazette Will the PQ's Trump-era referendum pause work with voters? &nbsp;&nbsp; CBC Q",
+      "pub": "Wed, 19 Aug 2026 18:58:37 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "1 person killed in crash involving transport truck on Hwy. 401 in eastern Ontario - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNazZTaGxJV1hqMmNJTzd1eFR6UjZtalJUQmJUeXpTNGY1SHBBQXhXZ0tJTWZTa2tSSU9sOXlMS29EY1RGTmpwek1ibnViYzgxcFBxc080OWhMM2JnMzhzZFQ1YjVXUzZLWkxDeDBUUG81Z2lXcHdBYi1XSTkyRjkzelhDWE9xV3ZYak0wNGU0NkxsU2J1QTJnY2RGRlBhNC16b0doMndfR0ozUTFMcnR0Nm9LNFh0ZFlXb05Obg?oc=5",
+      "snippet": "1 person killed in crash involving transport truck on Hwy. 401 in eastern Ontario &nbsp;&nbsp; CTV News Major collision closes Hwy. 401 Eastbound flyover at Hwy. 8 &nbsp;&nbsp; Cit",
+      "pub": "Thu, 20 Aug 2026 10:15:49 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "4 people in hospital following Highway 401 crash that resulted in lengthy closure - CP24",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDBBM18zUS1LcjVKb1REa19tWjNNNl81b00wd01sX3pMM19yaTFsNnRFUnA5eWhlR2NxemRGT1dOT2syeXBtZXNIN2FKVEdxTlVxeXRCR0hpaVJwT3lyREtrX2xNSHNiMUdRQlpQTWNNMVNBd0NsU052Vm1ONExIQnV2VHFvTmVjcl93RHJCZW9MZmRKSkVSZWVCaHR0VHJfTnRPaHRad2JGd3hzN01iRGhac0JGVlVRY21EWDlLR3NnZmxiQ0Jj?oc=5",
-      "snippet": "4 people in hospital following Highway 401 crash that resulted in lengthy closure &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
-      "pub": "Thu, 20 Aug 2026 01:59:00 GMT",
+      "title": "Alberta driver loses vehicle doing double the speed limit near fort St. John - Castanet",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGRsTk9CcTlLcVZZb3lSeklKdnhEdW00RWZLMllSRUtKdDVobzdZOXRud1FZWEoxUnJqZHpYXzNBRXhsMTFBUnRqWFVYZWJ3VkVDZEZnMEtiUFkyMDcxaDFva3EyZUhjSXg5SGcwQ3Jmd08ycks0dWdnMG1zUkxhLUdzWUpfMHhocEdSanhFTXRjVnpWMGo3SlQ1SGx3N3RITDQ0a1BoMG9yZS1Sa2M0Wk0xemxJZw?oc=5",
+      "snippet": "Alberta driver loses vehicle doing double the speed limit near fort St. John &nbsp;&nbsp; Castanet See more headlines & perspectives on Google News",
+      "pub": "Thu, 20 Aug 2026 15:47:00 GMT",
       "image": ""
     }
   ],
