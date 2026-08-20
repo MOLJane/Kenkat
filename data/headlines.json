@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-08-20T14:06:58.659171+00:00",
+  "generated_at": "2026-08-20T15:02:05.005709+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "NLC to Start Re-Ordering American Product, 11 per cent of Original Inventory Remains on Shelves",
+      "link": "https://vocm.com/2026/08/20/307620/",
+      "snippet": "Newfoundland and Labrador returned American products to liquor store shelves last year, but Premier Tony Wakeham says NLC will start to re-order new i...",
+      "pub": "Thu, 20 Aug 2026 14:33:51 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/12/united-states-american-us-alcohol-booze-liquor-nlc-store-shelves-empty.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Water Restrictions Imposed Following Mysterious Water Loss in Holyrood",
+      "link": "https://vocm.com/2026/08/20/307615/",
+      "snippet": "The Town of Holyrood is having trouble finding where all the water is going but until it does, it's imposing restrictions to reduce consumption. The C...",
+      "pub": "Thu, 20 Aug 2026 14:08:03 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/02/tap-water-sink.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Opposition Concerned About Concessions in New Hydro Deal, Premier Explains Removal of 2 Per Cent Escalator",
@@ -51,26 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/nape-rally-health-sciences-same-group-shot-signs.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Electricity Bill Rebate to Kick in Once Churchill Falls Agreement is Finalized, says Premier",
-      "link": "https://vocm.com/2026/08/20/electricity-bill-rebate-to-kick-in-once-churchill-falls-agreement-is-finalized-says-premier/",
-      "snippet": "The premier says a 15 per cent rebate on the electricity bills of Newfoundlanders and Labradorians will come into effect once the hydro agreement betw...",
-      "pub": "Thu, 20 Aug 2026 09:22:35 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/wakeham-and-frechette.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Man on Canada-Wide Driving Ban Arrested After Fleeing Police in Dildo",
-      "link": "https://vocm.com/2026/08/20/man-on-canada-wide-driving-ban-arrested-after-fleeing-police-in-dildo/",
-      "snippet": "A 54-year-old man who was on a Canada-wide driving ban has been charged with flight from police after officers attempted to pull him over in Dildo. A ...",
-      "pub": "Thu, 20 Aug 2026 09:01:54 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Trade Minister LeBlanc heading to Washington - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV1A2czFQRU4ycDhMRDVoNFlVa0xWYXNOU2d0MHpGMDl4VnFpSlNOUVkxUENyVWdfNjdPOWdBWFVVSXBxQ2ZBSG5pQVBzeHBkanJEUTducGlhTjY0V3lpbDJQR0JrcnVpMkZFTEU1dXludWJIdmRuREhSSlpuWnpFWS1UX3Q3TWVoUk01ekw1akU0VjJJQ1RqNjZ4TnM0Zw?oc=5",
-      "snippet": "Trade Minister LeBlanc heading to Washington &nbsp;&nbsp; CTV News Canada, U.S. officials work to finalize trade deal after new tariffs paused &nbsp;&nbsp; CBC First Up: Carney and",
+      "title": "Canada-U.S. trade minister heads to Washington as premiers express optimism. Live tariff updates here. - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTG9Vd1E0RTR4X3ZBdURyb2RsUWJ6M2lkS0hCN05SM3BaNEMwOU5lOEtwenY0ejA3VDA3Wkk0dUNDTWk1YmJORWJ0UmxqQ0NhR1VzT19Sb0FnZnpLblY5LXk4T3UyRDUzYmRHNFM4OUhmWGxRVDI0M2RLX3RfSDdaa1NGTDVmbzRzc3FldnBfVlUxdEI0R3lGcktvWjRtRFNPSktOeG1pdkFFMDdKeFh2bGZYTEFBazZiT1FuNHg3Ui1ITzZHM2hkamxOVEhValR1b29xTmpfVE1YWE1NLWhtZktHT0Z0dw?oc=5",
+      "snippet": "Canada-U.S. trade minister heads to Washington as premiers express optimism. Live tariff updates here. &nbsp;&nbsp; CTV News Canada, U.S. officials work to finalize trade deal afte",
       "pub": "Thu, 20 Aug 2026 12:48:32 GMT",
       "image": ""
     },
@@ -78,7 +78,7 @@
       "source": "Google News Canada",
       "title": "Carney asks for end to US alcohol ban, province leader says, as trade deal nears - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xVFNSRk14WG52LXE3MUlwcUJzQWFIUU8xbXVFQ0o5OGU5U0d4MlUxajFxZmZ4LVU2ZmlYZXBieVdQUjZONzlDRmhKc1NQZEdnRmZ2cHdIb0E1UQ?oc=5",
-      "snippet": "Carney asks for end to US alcohol ban, province leader says, as trade deal nears &nbsp;&nbsp; BBC Trump expected to slash tariffs on Canadian goods, Carney asks premiers to put U.S",
+      "snippet": "Carney asks for end to US alcohol ban, province leader says, as trade deal nears &nbsp;&nbsp; BBC PM asks provinces to stock U.S. alcohol &nbsp;&nbsp; Global News PM Carney asks pr",
       "pub": "Thu, 20 Aug 2026 11:10:25 GMT",
       "image": ""
     },
@@ -92,18 +92,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump announces ‘most crushing economic operation ever’ against Iran - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVhCS05GTl9MZEVxcUFnNTlYSERZMlRFVXotU2FQMXBrRHhyVU1ULUN4X2N2TXpJbDFjbEo5X2djeW9hNjlkYU0wVTMxWV9QbHp5TGFHY1EzUFRCZGxNVlNiYVBJNkU5UGpSdG0yOEFxSm5Zc2xrNzloZHRkdXNJMnVobUkwMDJKR1JkS3hPZjRNZFJfWjZKRkhqR2hZUDZRVTNjcS1HWFJGbFHSAbABQVVfeXFMTzNXU2ZhU2FUMmswRXJ0eUdVaWF5SUc4eXRKNlp0eVFWYUpWaE1vUFlmSnhDdFVWLVNDeFlzOTB6aWdYYUZLRzlENzhfSUNkV0dLUS1sNFJ4OUd1dERiUlNGX1ByeFUxREhKckxmOGhGSzhxSHVSdXBDWmZDVWFtQkN3U0pIaHZ0Q3p6QUtpazM2VUtXTkx2b2J3eXpCV0ZyaE1vTTZyVU5vSGo5b3J0RlE?oc=5",
-      "snippet": "Trump announces ‘most crushing economic operation ever’ against Iran &nbsp;&nbsp; Al Jazeera Iran rejects Trump's threat of 'economic warfare' on 'unprecedented scale' &nbsp;&nbsp;",
-      "pub": "Thu, 20 Aug 2026 07:23:52 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Calgary officer to stand trial for murder charges after 2 dead in police chase - Global News",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOTNnLUJ4d1AxZFoyVmlpUC1SNElHNUVJbV9rbW1McmZpRm1rNE5MVHIwejNjbjZIcEhEeDVoM3RjUndBWHFSTGFUUFR2VERjY29VUmtYWnZobnVBUjdvYzdWb2JlMXhfU1dRbU54anRTV3FzdkwxaE54Zjg0a1JZNU5aR1FwOTZPdlFCNGczVEdCN0pmTC04Zg?oc=5",
       "snippet": "Calgary officer to stand trial for murder charges after 2 dead in police chase &nbsp;&nbsp; Global News Calgary police officer will go to trial on murder charges for shooting on Me",
       "pub": "Wed, 19 Aug 2026 18:11:08 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "UPDATE: Government Undergoes Major Cabinet Shuffle - VOCM",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlQ0V2FZajlmZXdOeXNndnhTRTBORVFjbE5raDg5TnN6dE9xN1RoNXRnWmtacEd2cGNaTE9SMEJXQm55cnZ0aXpQbC1qRmozSWcwR1pWMTdCYlZSZy1TdnJxN3piVXRidUk5dlBIV2JSOG85Y1RjTmRkMnNuUnZGZ1RXa2xGUUFn?oc=5",
+      "snippet": "UPDATE: Government Undergoes Major Cabinet Shuffle &nbsp;&nbsp; VOCM See more headlines & perspectives on Google News",
+      "pub": "Thu, 20 Aug 2026 10:03:00 GMT",
       "image": ""
     },
     {
@@ -116,18 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Expecting Ontario moms are travelling hours for routine ultrasounds amid sonographer shortage - CBC",
+      "title": "Expectant Ontario moms are travelling hours for routine ultrasounds amid sonographer shortage - CBC",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2NnRkhlRUFha0JrWUk4UDF5QXQ2LWpneXA1R25jVjRROU9LdHRyT1dMR2kxXzV3X1JQR0NvMzlwcm44M1d5d2JjckRkU3d0OTVnTzlKNGtwcUhaamIta3BBZjBjUGIyTTVWSjZrZmZYNXVnZzBxYkNFQjBmTTN4V0NCMm5WU3FaV2JYM094bVQ4ME9IeS1TWg?oc=5",
-      "snippet": "Expecting Ontario moms are travelling hours for routine ultrasounds amid sonographer shortage &nbsp;&nbsp; CBC",
+      "snippet": "Expectant Ontario moms are travelling hours for routine ultrasounds amid sonographer shortage &nbsp;&nbsp; CBC",
       "pub": "Thu, 20 Aug 2026 09:26:10 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "UPDATE: Government Undergoes Major Cabinet Shuffle - VOCM",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlQ0V2FZajlmZXdOeXNndnhTRTBORVFjbE5raDg5TnN6dE9xN1RoNXRnWmtacEd2cGNaTE9SMEJXQm55cnZ0aXpQbC1qRmozSWcwR1pWMTdCYlZSZy1TdnJxN3piVXRidUk5dlBIV2JSOG85Y1RjTmRkMnNuUnZGZ1RXa2xGUUFn?oc=5",
-      "snippet": "UPDATE: Government Undergoes Major Cabinet Shuffle &nbsp;&nbsp; VOCM See more headlines & perspectives on Google News",
-      "pub": "Thu, 20 Aug 2026 10:03:00 GMT",
+      "title": "Summerland residents return to neighbourhoods forever changed by the Bald Range wildfire - Global News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDU4b01BY1FhZ2VBbTNpZmZ3NFZ2bms2eFdvekRURnVvZ0ZqN3cyS1c4MldCeXdsQU5PZVQycEdMSzQxcHpFX2hVZEM4Vkw4Vm50dThPcFRSU3pMS2V0dmFDWm5iZlMxMHEyRExGTjlBQUxySUdONFVwS2xjNWdFRnc1aFpocWt2a0gzLTV3Sjl4RzVsbXYtVVFXR3l2U2dieThNWGJ0aDYtNHJDWmpqOXhtc3lBdw?oc=5",
+      "snippet": "Summerland residents return to neighbourhoods forever changed by the Bald Range wildfire &nbsp;&nbsp; Global News Bald Range wildfire causing heavy financial toll for local busines",
+      "pub": "Thu, 20 Aug 2026 00:38:01 GMT",
       "image": ""
     }
   ],
