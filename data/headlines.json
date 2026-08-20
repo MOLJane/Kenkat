@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-20T17:31:44.816282+00:00",
+  "generated_at": "2026-08-20T18:24:58.070052+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Privacy Commissioner Recommends NL Hydro Release Requested Information",
+      "link": "https://vocm.com/2026/08/20/307636/",
+      "snippet": "The Privacy Commissioner has determined that NL Hydro provide information - as requested - to a complainant who twice sought monthly volume and sales ...",
+      "pub": "Thu, 20 Aug 2026 18:10:52 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/05/nl-privacy-commissioner-kerry-hatfield-oipc.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Board of Trade Welcomes New Churchill Falls Deal",
@@ -59,19 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/churchill-falls-infrastructure-nalcor.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Wakeham says 2 Per Cent Escalation Clause in 2024 MOU Had to Go",
-      "link": "https://vocm.com/2026/08/20/premier-compares-2-per-cent-escalation-clause-in-2024-mou-to/",
-      "snippet": "Premier Tony Wakeham says the Independent Review Committee determined that the 2 per cent escalation clause on Gull Island power - included in the 202...",
-      "pub": "Thu, 20 Aug 2026 11:09:07 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/churchill-falls.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Canada, U.S. negotiators meeting again to finalize trade deal ahead of new tariff deadline - CBC",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMXY3SU4tV01DWnNLNXlYY05IamY1RnNKMmNWd3hyNm5nRjRqREVwSXQ1bGZ5cjNEVkdSZW85cXpncHFsZ3QwRGN4dExFNEdZWWw5NWJNWWE2aVlHa1NFempEdnE3eFdLWEJxLUhGWmlHdU5JbFZUbmpVX1hZYWsyb1V5M2JCbElEMjV4dFZ3M2RSZE8wMEtaQ0JLUVB6QVVsVl9JcGwtRXRvdFBP?oc=5",
-      "snippet": "Canada, U.S. negotiators meeting again to finalize trade deal ahead of new tariff deadline &nbsp;&nbsp; CBC Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms ",
-      "pub": "Thu, 20 Aug 2026 14:32:30 GMT",
+      "title": "Canada, U.S. officials work to finalize trade deal after new tariffs paused - CBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjdLOV9fZVRPUUJmeUZOODhNbFNFbUxpRmxXUkNTeUNROXM0Wk1iRlBoRkZmV3FNQ0pPYzdTTzM3M0VxUWJRTlVEcDc3Qmh5aHNta1FibmJQdElURUpmLUlsOG5lOVNEaHgwOEJOSmZ2LUxtZ2Y1NTlZYkN2UFRNLXNqbGYwaEg4ZG5DdEgwUjNvSW92Wi03NV83VjFxV0pVQlIweVdR?oc=5",
+      "snippet": "Canada, U.S. officials work to finalize trade deal after new tariffs paused &nbsp;&nbsp; CBC Canada-U.S. trade minister heads to Washington as premiers express optimism. Live tarif",
+      "pub": "Thu, 20 Aug 2026 13:14:15 GMT",
       "image": ""
     },
     {
@@ -84,10 +84,26 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Canada-U.S. trade minister arrives in Washington as premiers express optimism about possible deal. Live tariff updates here. - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYlF6Z0ZXanVmamhIdXRJM2oxOXJYRWVOVUM3YUYwZW1kS1RWbTUwVUZqQ1hNYzNzRHA1V3VvLWVxQnpTSWt4YVlnZzFScFNNYUtSbUFYTTJXLVBYUHZYbFhicmJOZ3BpYlhaaDBLSkw5c3RuOHZ5T3FiQjI0ZEpUOFFwZWpjekxoVFpKdUlxXzF4dzBCdXNkMHVLekFaWFd0UE9oMVB3Mk83QzN3NHFIS1ZDc1dEMF9QRWpQSk0tY3JzUWlaUi02a2tUMExMN0tsZ2x0TF9XQTdGNnY5TThNcEJQNEpaY1BIMjdsSFdqQmJ3UVFCaUl3eDNQd281RndNdTlR?oc=5",
+      "snippet": "Canada-U.S. trade minister arrives in Washington as premiers express optimism about possible deal. Live tariff updates here. &nbsp;&nbsp; CTV News Opinion: Canada, it may come back",
+      "pub": "Thu, 20 Aug 2026 17:57:32 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "RCMP officer who fatally shot Tla-o-qui-aht First Nation man declines to testify at inquest - CBC",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdnJzOElmQncyLThqZDdhNWVhMkc2RnlEWmNkaEVqUmNLVUVORGt1TXJiZ0owOFBVV09JX1QwVUtRbEJJOFVFRExUMklFWk9uenZrWmgwdmFsSUF1VTRvSzktc2ZOcEdpdXJjSExabkdIRDdoZVhOQ1YtSWFkSy1iSXdMUy1nWVRYQ1lwRFhDUQ?oc=5",
       "snippet": "RCMP officer who fatally shot Tla-o-qui-aht First Nation man declines to testify at inquest &nbsp;&nbsp; CBC Coroners' inquest told Indigenous man killed by RCMP in 2021 came at po",
       "pub": "Thu, 20 Aug 2026 02:19:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Drimonis: PQ leader’s referendum strategy might backfire on election day - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSTBHalZzbU40aHQxbnlNTTdqM3lVVTUtMGxJYkdubnpROS02VXgycUhhN2NCTXg0blpJMHdXY1c2YkZzdlhJVnZ4bV9SRFpVbFdwT1I0N1NVRkt3aFlXU1Vwbk9vOUlKMzhfLVMta0tDdktHWV9EWHhCMlRmZDh6SjljWXhScTlTTTdWMUdlMXl3V3htNnA1TDRVWGw0OURoeWNvNjR6Qnd5SWRad29jaExyVHRTWFkxVUdqVzAzVEMxZ3lnNHdScVJjcWhKTDBPeEt0d3Fn?oc=5",
+      "snippet": "Drimonis: PQ leader’s referendum strategy might backfire on election day &nbsp;&nbsp; Montreal Gazette Quebec’s referendum is on hold until Trump leaves. What if Trumpism does not?",
+      "pub": "Wed, 19 Aug 2026 18:58:37 GMT",
       "image": ""
     },
     {
@@ -100,34 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Drimonis: PQ leader’s referendum strategy might backfire on election day - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSTBHalZzbU40aHQxbnlNTTdqM3lVVTUtMGxJYkdubnpROS02VXgycUhhN2NCTXg0blpJMHdXY1c2YkZzdlhJVnZ4bV9SRFpVbFdwT1I0N1NVRkt3aFlXU1Vwbk9vOUlKMzhfLVMta0tDdktHWV9EWHhCMlRmZDh6SjljWXhScTlTTTdWMUdlMXl3V3htNnA1TDRVWGw0OURoeWNvNjR6Qnd5SWRad29jaExyVHRTWFkxVUdqVzAzVEMxZ3lnNHdScVJjcWhKTDBPeEt0d3Fn?oc=5",
-      "snippet": "Drimonis: PQ leader’s referendum strategy might backfire on election day &nbsp;&nbsp; Montreal Gazette Will the PQ's Trump-era referendum pause work with voters? &nbsp;&nbsp; CBC Q",
-      "pub": "Wed, 19 Aug 2026 18:58:37 GMT",
+      "title": "Alberta driver ‘learned the hard way’ after car impounded for speeding: B.C. police - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOURLbm1rbWlLbUdqRGtQLUVzVHZUREkyOHVrRWhIOGw0ME5qZUFSM2VtUk5GSjNtNnpKdkJKVWNHZ1VpZXp1Yk8yODMzMDluamZGVWNTT2RoUGltVHlmNWdmMUZtN3ZjbktKLUFNbDkzd3pOR2VIWlhBVU0wSllFcDVfQXZTWUNJS3Nvdl9KdGZTdEdkSWtPOXI3WnQ2WS1VM3d3emxvYzB6bjQtX2NFNEFPZWlzdFN4X0JKMQ?oc=5",
+      "snippet": "Alberta driver ‘learned the hard way’ after car impounded for speeding: B.C. police &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
+      "pub": "Thu, 20 Aug 2026 15:56:37 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "1 person killed in crash involving transport truck on Hwy. 401 in eastern Ontario - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNazZTaGxJV1hqMmNJTzd1eFR6UjZtalJUQmJUeXpTNGY1SHBBQXhXZ0tJTWZTa2tSSU9sOXlMS29EY1RGTmpwek1ibnViYzgxcFBxc080OWhMM2JnMzhzZFQ1YjVXUzZLWkxDeDBUUG81Z2lXcHdBYi1XSTkyRjkzelhDWE9xV3ZYak0wNGU0NkxsU2J1QTJnY2RGRlBhNC16b0doMndfR0ozUTFMcnR0Nm9LNFh0ZFlXb05Obg?oc=5",
-      "snippet": "1 person killed in crash involving transport truck on Hwy. 401 in eastern Ontario &nbsp;&nbsp; CTV News Major collision closes Hwy. 401 Eastbound flyover at Hwy. 8 &nbsp;&nbsp; Cit",
-      "pub": "Thu, 20 Aug 2026 10:15:49 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Police officer shot in southwest Calgary recovering at home: chief - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGs0WFROeU1HTV9jZzVBRUZ0QTVsRm1nTHJoLV9oenVjTXNQNTZMbjA0bDNzeC1XQm1mczZhcTJEem9rc2xpZU9TT0xtbXZIc3k4NS1relR2RjZuOVRCel9wSDFlTk9ZbEFXUG1mNGV6dEkxWEF6ZFY3cFFfbE0wc2JSUVhsRlZGN3NDZF92WHNkMnFES2ZuSHR4REVtN21Cd2VhSmNRdm4?oc=5",
-      "snippet": "Police officer shot in southwest Calgary recovering at home: chief &nbsp;&nbsp; CTV News",
-      "pub": "Thu, 20 Aug 2026 14:43:49 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Alberta driver loses vehicle doing double the speed limit near fort St. John - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGRsTk9CcTlLcVZZb3lSeklKdnhEdW00RWZLMllSRUtKdDVobzdZOXRud1FZWEoxUnJqZHpYXzNBRXhsMTFBUnRqWFVYZWJ3VkVDZEZnMEtiUFkyMDcxaDFva3EyZUhjSXg5SGcwQ3Jmd08ycks0dWdnMG1zUkxhLUdzWUpfMHhocEdSanhFTXRjVnpWMGo3SlQ1SGx3N3RITDQ0a1BoMG9yZS1Sa2M0Wk0xemxJZw?oc=5",
-      "snippet": "Alberta driver loses vehicle doing double the speed limit near fort St. John &nbsp;&nbsp; Castanet See more headlines & perspectives on Google News",
-      "pub": "Thu, 20 Aug 2026 15:47:00 GMT",
+      "title": "Andrea Barbour now environment minister, Joedy Wall gets health portfolio as Wakeham's cabinet gets shakeup - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWZ5VzN2ZlBJb0VvMXhta1ZWY3NpenBwemtxanRJTGxVczhuWURnRk1vR2lvcXo2NkJHYmhJZTFLeGVpYTNyMTV3aVo1SUMzU1FuU2RSV241bHFhR2hZOTQzOHB4RDlnUFBxejRHcFc1cV8xdmlpN2xsWE5tTGY2ZV9BMFhHZDZrbnlYVnI5VQ?oc=5",
+      "snippet": "Andrea Barbour now environment minister, Joedy Wall gets health portfolio as Wakeham's cabinet gets shakeup &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "pub": "Thu, 20 Aug 2026 15:47:07 GMT",
       "image": ""
     }
   ],
