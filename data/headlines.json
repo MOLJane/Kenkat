@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-08-21T12:28:29.748647+00:00",
-  "count": 8,
+  "generated_at": "2026-08-21T13:25:59.192314+00:00",
+  "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Police Recover Truck, Seek Public’s Help Finding Stolen Boat Motor",
+      "link": "https://vocm.com/2026/08/21/307727/",
+      "snippet": "Police in central Newfoundland have found the pickup truck used to steal an outboard motor from a dealership, but they need help in identifying the gr...",
+      "pub": "Fri, 21 Aug 2026 13:13:56 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/06/RCMP-Police-Car-Logo-Stock-4.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Dempster Calls on Government to Hold NL Health Services Accountable",
+      "link": "https://vocm.com/2026/08/21/307725/",
+      "snippet": "The opposition says it's time for government to hold NL Health Services to account for health care delivery in the province. Health Critic Lisa Dempst...",
+      "pub": "Fri, 21 Aug 2026 12:42:16 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/03/lisa-dempster-march-2025.png"
+    },
     {
       "source": "VOCM",
       "title": "Province Unveils ‘Team Labrador’ to Capitalize on Churchill Falls, Gull Island Opportunities",
@@ -51,24 +67,71 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/nape-rally-health-sciences-jerry-earle.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Premier Calls Barbour a ‘Perfect Fit’ for Environment Minister",
-      "link": "https://vocm.com/2026/08/21/premier-calls-barbour-a-perfect-fit-for-environment-minister/",
-      "snippet": "Premier Tony Wakeham says he decided to separate the Department of Environment from Municipal Affairs as the province prepares for major development o...",
-      "pub": "Fri, 21 Aug 2026 08:53:34 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/minister-andrea-barbour-mha-st-barbe-lanse-aux-meadows.jpg"
+      "source": "Google News Canada",
+      "title": "As Canadian booze bans dominate tariff talks with U.S., winemakers and distillers feel caught in the middle - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNElMZ3BaejUzQjhaRnBiZFQxWkVWVzdjbmNNS3ItVjh1VGpaOHFmTG1EaldFY3VneHE5RS1PRjl1WEtzYUp4dTRwa0cyXzFJandDT0VOb2VFUzRWUmlXZnNLX2RWcGwwaVUtQ085RnZ1OGpnSno2TmdjZkVFRmZMaG9zeEVYaHBPbWFr?oc=5",
+      "snippet": "As Canadian booze bans dominate tariff talks with U.S., winemakers and distillers feel caught in the middle &nbsp;&nbsp; CBC Éric Blais: Why U.S. booze won’t just sit on Canadian l",
+      "pub": "Fri, 21 Aug 2026 08:00:00 GMT",
+      "image": ""
     },
     {
-      "source": "VOCM",
-      "title": "Town of Holyrood Still Trying to Determine Cause of Water Troubles",
-      "link": "https://vocm.com/2026/08/21/town-of-holyrood-still-trying-to-determine-cause-of-water-troubles/",
-      "snippet": "Holyrood has begun another attempt to find if a leak in the system is the culprit as it copes with water woes. Mayor Laura Crawley says they have alre...",
-      "pub": "Fri, 21 Aug 2026 08:44:24 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/12/Faucet-Water-Tap-crop.jpg"
+      "source": "Google News Canada",
+      "title": "Canada, U.S. ‘very close’ to finalizing tariff deal as deadline approaches: trade minister - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTDU2dUo0V1c5bWNiMUxjcGFydVpqelg2T0VrQkdEUXZVU1JQOG9FWTI5WUxOX2NweXpmMDlqWUYzUlVVNzFlUndWbEVTS0dIVktwNFZaWGlFcFA5TU1SME43T2J5ZEJPdE1JNmlxcGhnQTI4akJiejBKczI3TWxZallMRlNZMXI5T251dVJtQTJYaFVWZ3pDVFZvVVh3M21OV3dtMUIwN0VIdWppRERBdGg4SjY1ZVV1VmE4YUFHX1ZFYVp6M0pPVWozTUhlT1JnRG9ncy15VFc4S3ZCNHFCdkxlcWI?oc=5",
+      "snippet": "Canada, U.S. ‘very close’ to finalizing tariff deal as deadline approaches: trade minister &nbsp;&nbsp; CTV News U.S., Canada near final trade deal as Trump tariff deadline looms &",
+      "pub": "Fri, 21 Aug 2026 02:28:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Japan executes man convicted of killing five in 2009 Osaka pachinko parlor arson - The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDhSY0Z6bGJGNjk5Um9yX09ZaVF6b0FCRXpCSDdsQ0hHNWxHRUhCTFg3aUFzQTUtdDJiN0VkUUw0OS1DaGd4UjJnUTVCalNYelB1dkVHdlhxWHVqenhvSVZzOUdXTkhnRFJjcjdRc1BZVnZkd0Q0TlkwMWpTSkpST0k3eWViZFV0aTNKMW5UaS0?oc=5",
+      "snippet": "Japan executes man convicted of killing five in 2009 Osaka pachinko parlor arson &nbsp;&nbsp; The Japan Times Japan executes a man convicted of setting fire that killed 5 at a pach",
+      "pub": "Fri, 21 Aug 2026 12:33:45 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Carney tried to ‘out-tough’ Trump in trade negotiations, Vance says - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80a2hGWWtaRnlvUXJOZEdqNFBZRXVqRXlHZy04NUxFRFlsNlNtTTJlOV9WZ1kydWVaTXNLSzhGZ0J3RUZzbmRtWEl3VlBBRTNHbllrWFAxUHdnM2RycDBnUTJmRWNwRGs5RmdlMlotaEhERHdmUnI1T3FRX2c3Ulk?oc=5",
+      "snippet": "Carney tried to ‘out-tough’ Trump in trade negotiations, Vance says &nbsp;&nbsp; The Globe and Mail Vance says Carney tried to ‘out-tough’ Trump in latest trade negotiations &nbsp;",
+      "pub": "Thu, 20 Aug 2026 22:22:55 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmdqeE9FSzM1Ym9zWXpSQVMxYVBpZTJtSmRUY0Y5Qmlibmt5TzhwWVkwOXltMkZlNFgtcXZ0enBneldOaUdRUVJzTmdiWkhCV2xpVEc3c3lTcjctTjExVjRUSjlhdVFEMzRuUmM4YUV5bGJFSEl3Z21qZTRkdE82VDc3a2s3V2wxdWEyVUQxcU05ckhaMjRPTkE2NndLSmd3R29iYVMzay11SzREVFJVQ9IBtgFBVV95cUxNMWhneW9ESmxaUVYzOE82aUdhbWRZME1ERll5bnVCWGI2NFpsY1QzMExXSzc2ZVJqOTdjeUdJcEFYUjVlTk1EbVFMTmdtaVV0U1NLdDgyR0oyMThLanZ6eVpoY1kyaXVRVTh2RUdWc3BjOVV1bW5fVmRaU3d3NmJTTlhCZUpZWTZQSjRlMGtvWlRyNVpoV2hLNklPa3hhYUFjd3ZNV2pROXQtZEg3T2ttY0NGczFJUQ?oc=5",
+      "snippet": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran? &nbsp;&nbsp; Al Jazeera Iran war live: Tehran says planned US sanctions threaten global economy &nbsp;&nb",
+      "pub": "Thu, 20 Aug 2026 14:42:10 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Nathan Cofnas, who exposed Cambridge professor Jason Arday’s plagiarism, suspended by Ghent University - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbElleVF5WFVrZGt6RVBWc0ZzZUZBZ2hjYUhnRVMtT0FVN25NdU1EZm9hdlR2SGFsdU1ZdjJtQ2xscXRYSUtlY3ZMY01SVDR4aVhJSEtYZTlOemIwQXFLVklaMXdUU3c2Q0RKd3Zwdm96QkNuSE8yU3lLbXZnZzd3aGRGWVJaYnpWTGVNeUhZSXZmTXpRdGgwcV84MmZpVVhIVzExdTZfZUQ2TlI5c1dIRUljWWlTckozOG9tV29MRmtfV0YwQUdjX2N0QmJjbTN6eGRFZ3I4Vjd0TGhCLUM1QkpOQUV5NWRuc1RtQ1RJSXNVS0xEZmUtUWVGSVdRYW_SAYQCQVVfeXFMTnYtZk5VenltNHp3LTRoM0xHZWNDWGFlUDN0R0lsN3M1bFVXaE9hQkQzdjJTVkZJMlBtRGRWR1ZxdDF1RG1BbS12WjViSUxoR09yWklZNVVlSlhOTkdtZ3FkUWllNTFxemxTQzVqS1NacF9CMm1ZWjdFQnZicHlXT25sNjRnZENfZE55UDlKc1V5eTJDWk9xVC1IclA0MHB0MllZalBzRUNXWkE0eWJwVkdweFR1RkM0ekp3NTJUYUxoOUZwcmFKYXhFZjNxbDRqbmZ3Tk42c1VSSEljMjNlb0t5ZWI0Uk5wZHRCbkhjdVFpTGpHdFBWOUNTeVV1ZFJ6T21KRi0?oc=5",
+      "snippet": "Nathan Cofnas, who exposed Cambridge professor Jason Arday’s plagiarism, suspended by Ghent University &nbsp;&nbsp; The Times of India The Controversial Academic Who Ignited the Ja",
+      "pub": "Thu, 20 Aug 2026 13:20:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Updated: One fatality confirmed in Prince George Foothills plane crash - My Prince George Now",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS181QnlrcHZGM2ZHZDhFcmpqUVVwc2VsakxNYU5wRG5PX2hNa1kteU55T0xHdU5VZ1Z3aVBhZWRMcXlLajZzOVhMNmtzaVFXcVFKd1J2OU5qa3Y2RVpKZUMtLW1WcC1GTTl2VlFiOFRkSl9ENHh5Q2ZHbTIyZEE0NktIYktYNWFjcGxrM2l0VkVvMWE2TnpaclJheDlkU2UyaTFFdEo1dEE5MlMzRVk0Tkg3emNtLUpONGhwTngwZFBZTVdXLTdITmxKelpScGlWUzh1bGg3dU1DcHVRLVM2T1JpSFBvU2NMZGFKSGpubnhuSzJwS0xOTg?oc=5",
+      "snippet": "Updated: One fatality confirmed in Prince George Foothills plane crash &nbsp;&nbsp; My Prince George Now One dead as plane makes emergency landing on B.C. road, crashing into cars ",
+      "pub": "Fri, 21 Aug 2026 04:14:45 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Winnipeg man who once fled Somalia as refugee sentenced to 4 years for human smuggling - CBC",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORHVveWZrTXdJcHc0UWIyS3FrNHdEMDhtQlg0clBkcFRVbnZFTEF2YkNHd3Zlelh1UTFtU1JQb3Q4N0pRV0pUS2xmQXFsbzJHTFN5SEFJejNPZE1EblRtZ1BITmFkaTFxOFFJZ0hlSERXUnFQS2VzV29POUtid3llRjEtMDlIaC1rVjNvV0dGcEhYdjF2RVlrUGxEdWpLM0tFQ1FvMTQ2RFVzR181RWpqZDJvLTNtUUZMTkRscl9hQUJielgtZEhRZGlkVWx6NGItNkE?oc=5",
+      "snippet": "Winnipeg man who once fled Somalia as refugee sentenced to 4 years for human smuggling &nbsp;&nbsp; CBC Somali refugee gets 4 years for transporting smuggled migrants in Manitoba &",
+      "pub": "Wed, 19 Aug 2026 23:36:17 GMT",
+      "image": ""
     }
   ],
   "errors": [
-    "CBC News failed: The read operation timed out",
-    "Google News Canada failed: The read operation timed out"
+    "CBC News failed: The read operation timed out"
   ]
 }
