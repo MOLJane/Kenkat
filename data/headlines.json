@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-21T16:58:55.119408+00:00",
-  "count": 8,
+  "generated_at": "2026-08-21T17:28:55.966576+00:00",
+  "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "NL Retail Sales Rise Significantly in June",
+      "link": "https://vocm.com/2026/08/21/307741/",
+      "snippet": "Retail sales rose significantly in Newfoundland and Labrador in June compared with the numbers from June 2025. Across Canada, retail sales were up by ...",
+      "pub": "Fri, 21 Aug 2026 17:11:43 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/11/visa-mastercard-credit-cards-online-shopping-money.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Cardinal Roadhouse Chicken Burgers Recalled Due to Undeclared Egg",
@@ -59,16 +67,71 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/lela-evans.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Opposition Questions Timing of Cabinet Shuffle",
-      "link": "https://vocm.com/2026/08/21/307707/",
-      "snippet": "Opposition House Leader Lisa Dempster is questioning the timing of a major cabinet shuffle held yesterday. The premier says the changes were made as t...",
-      "pub": "Fri, 21 Aug 2026 11:06:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/lisa-dempster.jpg"
+      "source": "Google News Canada",
+      "title": "Midnight deadline looms as Canada seeks deal to avoid Trump's steep new tariffs - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeGRTMXl2N1RscERPa3pLdEl5Z3oyZndKcTFnanZ6d1BMOFJZZEpOX3R0MFZlSk1sTHhQMlFMWk1LdzBpeDdUQmUyMUxYcDdCM2t3YU90T05GRnNfczE4SG9nWk43RktOQUItT3V4SHM1YmFQUE5Ia2hXTS1lTnVCOTVTTTdqNEVjOGgzeUIxdDQxUlA4T1A4d203VzRLSjNzYUdaa29JdFc5UQ?oc=5",
+      "snippet": "Midnight deadline looms as Canada seeks deal to avoid Trump's steep new tariffs &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "pub": "Fri, 21 Aug 2026 16:52:30 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Prime minister asks that American alcohol return to store shelves as trade talks accelerate - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUXhWRFV0R09DdUw0bkRVcTZoNE4tcHVqYzlJYVNDWUZJUGh0dE16M1BEcVZpY1N1RDJwTWNCNnNtYVdYbE1uSkRlV2VYaGRTRTZGVm1FOHlvX0xKbm5aV0dzT1RHYnZfNUdJX3dsLTRTY2RMQjN5VHAtZ01KenBBZU1FcUdMLWRURFBDak14dXY4ZlhoY0tNelJuUG9SSmE0bDZLZ3lxdkUxY2Nqbk5TSk1fNUhCV0hObTBDczVlT3ZKOFJ0NEFNY00zMA?oc=5",
+      "snippet": "Prime minister asks that American alcohol return to store shelves as trade talks accelerate &nbsp;&nbsp; CTV News As Canadian booze bans dominate tariff talks with U.S., winemakers",
+      "pub": "Fri, 21 Aug 2026 00:23:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenpHVXJUV3A5cTY4b0ctYVZwVUZ3bGFSeFoxaGNMSEtBNUtGR2cxR0tsWi12N09DQzVVY1VPZ3lUNDNVU2t0MGd3Ql9rczBVNnpLZDhkWUpNVHlLekF4a1REMDc2QVZHX05NWmJ4OGtTRWlGcXRodmJsMWZEVWFhSWs1SXA2WWM1NHhNSXl3QTd1VnFHNnJqNnB5aVJXWFhudjA5Tlh0YjA4d9IBrwFBVV95cUxObEVoRGp3U0lCOG9JODRJdHVtTzBDQXlJTU96YVB3SDlmaGRmemU1WmZlYnlLakN0LW0zNTFZcWV3aTBWVHRzbV84ZTVWb3pIY2lmVUg1S09PWUltVUlfa002bGxHQkp4RUhLMXkzM2dvUHl6YXhpQ2tpNnhORHlLSzNtMGpzTlYzbjVJTEtXZUpWYTdJb0NQcU8wY2NKUjJ4ZWxKSmh0NTNQb3dTT0ZF?oc=5",
+      "snippet": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets &nbsp;&nbsp; Al Jazeera Live updates: Key Iranian trading partner China rejects Trump’s ‘economic D-Day’ thre",
+      "pub": "Fri, 21 Aug 2026 13:51:42 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Natalie Harp's Intimate Letters to President Trump Revealed - TMZ",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zaVI4dXUwRXZDTUs3QVZkWEJIdDRZTUcwU2liRmdtcFRkTU81TjA3V3NJMFI0Ulh2ZW5OSUNKaWV4Z1J6czJJVmhXZ0pSZE1Ob2NjZXhsblRFdUoxSjE5Sjk5U29fQjBKMnExSUFMeEp5ZUI4Vm9Z?oc=5",
+      "snippet": "Natalie Harp's Intimate Letters to President Trump Revealed &nbsp;&nbsp; TMZ ‘My Guardian and Protector’: Natalie Harp letters express her devotion to Trump &nbsp;&nbsp; CNN Natali",
+      "pub": "Fri, 21 Aug 2026 12:41:30 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Vance says Carney tried to ‘out-tough’ Trump in latest trade negotiations - Global News",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hNDJCLTI1UmVVbzV1VDh4UXhzWWF6Tk5ObDlfa0dtM0JrNW9oYmJ0Q1Y4RmFDcGZPQ1pJLXRSTFJhUjZVdkpRcTBYWVdfcUdNQXhsVDdxQzE5MUY4bTRhWi1zOUFCanFlS1JReU1n?oc=5",
+      "snippet": "Vance says Carney tried to ‘out-tough’ Trump in latest trade negotiations &nbsp;&nbsp; Global News Vance tells audience at private event that Carney tried to 'out-tough' Trump on t",
+      "pub": "Fri, 21 Aug 2026 13:00:28 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Activity picks up on the Bald Range wildfire near Summerland, Peachland - Global News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbXBhV3hoRDRCeExibklOZFVyTDBZcjltQ3pCc2oxakczRmVzakRQWnhydjNGaXB5cUpYQU9hN19UbWRHbkNMRTd4YmsyUUJHNE9GcXVHTlhrMk1YRTBVY0NlU2Y0SWw0RjJfUXJGWWxsV3VUS1VkYm9BTW1ESGdYTmZGamtiLW9FZVlwM3hSYnU5UkR6NDZ0ZHZzWQ?oc=5",
+      "snippet": "Activity picks up on the Bald Range wildfire near Summerland, Peachland &nbsp;&nbsp; Global News Following fire, Summerland orchards race to save fruit from spoilage &nbsp;&nbsp; C",
+      "pub": "Thu, 20 Aug 2026 20:20:51 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Police presence at Edmonton's Nanaksar Gurdwara, Sikh organization reports early morning attack - CityNews Edmonton",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUjhTWVBJSUl2YkNBZU01Nk5yOVpjXy01LTlmQ3JRRGlvWEJ3akVGQ05jZFJGekp5Ulh0YUdEWGd1Zms2bkRQY21IVEdBWHhPWXdMblh1Vndrd1FrWWdZbXZxcndoa21YTUNtMHB5TUgxTG9sVk1pTllFb08tbk40el9OTndhTU85QWFMYzUyOU5qREhaXzQ4RlBzc252TkVKaFFEZnV0RTNqRDd1c3NVV2tvcVFPRzU2QmVhOUJwOXVJQ0dySlNWVlhSeTlGelE?oc=5",
+      "snippet": "Police presence at Edmonton's Nanaksar Gurdwara, Sikh organization reports early morning attack &nbsp;&nbsp; CityNews Edmonton",
+      "pub": "Fri, 21 Aug 2026 16:51:36 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Quebec autistic student denied disability-based French exemption, removed from college - CBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbzFpaTJSRmtBZUJYM1I2b0N3TlR0Nm5DMXdsNllGM1U3d0FHSUFsZnUyM3o2VlVBbWlFT0FPR1lvODFaZ2tlWFdOM2VWNlV6d0NLOS1OUlNJZ2tXYzI1Y3RHNXJxejJZQWdHLTBIb29NUjhiMmpVbkdBaUVaQmM3aW85ai1POHVXMDZBSGt1TXJzal9vQU85WUk5RXBDUQ?oc=5",
+      "snippet": "Quebec autistic student denied disability-based French exemption, removed from college &nbsp;&nbsp; CBC",
+      "pub": "Fri, 21 Aug 2026 16:29:49 GMT",
+      "image": ""
     }
   ],
   "errors": [
-    "CBC News failed: The read operation timed out",
-    "Google News Canada failed: The read operation timed out"
+    "CBC News failed: The read operation timed out"
   ]
 }
