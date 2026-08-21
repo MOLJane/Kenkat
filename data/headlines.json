@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-08-21T08:28:29.859255+00:00",
+  "generated_at": "2026-08-21T09:07:04.370619+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Premier Calls Barbour a ‘Perfect Fit’ for Environment Minister",
+      "link": "https://vocm.com/2026/08/21/premier-calls-barbour-a-perfect-fit-for-environment-minister/",
+      "snippet": "Premier Tony Wakeham says he decided to separate the Department of Environment from Municipal Affairs as the province prepares for major development o...",
+      "pub": "Fri, 21 Aug 2026 08:53:34 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/minister-andrea-barbour-mha-st-barbe-lanse-aux-meadows.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Town of Holyrood Still Trying to Determine Cause of Water Troubles",
+      "link": "https://vocm.com/2026/08/21/town-of-holyrood-still-trying-to-determine-cause-of-water-troubles/",
+      "snippet": "Holyrood has begun another attempt to find if a leak in the system is the culprit as it copes with water woes. Mayor Laura Crawley says they have alre...",
+      "pub": "Fri, 21 Aug 2026 08:44:24 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/12/Faucet-Water-Tap-crop.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "American Booze Will Return to NLC Shelves, What Consumers Choose to Do is Up to Them: Premier",
+      "link": "https://vocm.com/2026/08/21/307689/",
+      "snippet": "NLC will start ordering products from American suppliers now that Ottawa has encouraged the provinces to resume the sale of American booze. Many provi...",
+      "pub": "Fri, 21 Aug 2026 08:36:21 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/02/nlc-alchol-liqour.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Daily Fuel Prices for Friday, August 21, 2026",
+      "link": "https://vocm.com/2026/08/21/daily-fuel-prices-for-friday-august-21-2026/",
+      "snippet": "Gas is a bit cheaper this morning. The PUB has lowered the maximum price by 2.7 cents per litre. The price of all other fuels remains relatively uncha...",
+      "pub": "Fri, 21 Aug 2026 08:31:11 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/09/new-gas2-2014.jpg"
+    },
     {
       "source": "VOCM",
       "title": "August 21, 2026 – Will you be buying U.S. products now that NLC has resumed selling American alcohol?",
@@ -35,43 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/jim-dinn-1.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Hydro Development Work Could Begin as Soon as Spring says Premier",
-      "link": "https://vocm.com/2026/08/20/307632/",
-      "snippet": "Expect shovels in the ground as early as this spring if the definitive agreements on Churchill Falls are signed by the end of the year. That's accordi...",
-      "pub": "Thu, 20 Aug 2026 18:49:17 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/construction-generic-1.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Privacy Commissioner Recommends NL Hydro Release Requested Information",
-      "link": "https://vocm.com/2026/08/20/307636/",
-      "snippet": "The Privacy Commissioner has determined that NL Hydro provide information - as requested - to a complainant who twice sought monthly volume and sales ...",
-      "pub": "Thu, 20 Aug 2026 18:10:52 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/05/nl-privacy-commissioner-kerry-hatfield-oipc.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Board of Trade Welcomes New Churchill Falls Deal",
-      "link": "https://vocm.com/2026/08/20/307627/",
-      "snippet": "The Board of Trade is welcoming the expanded agreement on Churchill Falls. The board says the project has \"enormous promise\" for the people of the pro...",
-      "pub": "Thu, 20 Aug 2026 17:13:51 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/board-of-trade-st-johns.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Wanted Man Arrested in Carbonear Following Foot Chase",
-      "link": "https://vocm.com/2026/08/20/rcmp-arrest-wanted-man-in-carbonear-following-foot-chase/",
-      "snippet": "RCMP in Harbour Grace arrested a 20-year-old wanted man following a brief foot chase in Carbonear. Police were notified after the man, who was wanted ...",
-      "pub": "Thu, 20 Aug 2026 16:48:51 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/rcmp-royal-canadian-mounted-police-patch-stock-logo.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Prime minister demands American alcohol return to store shelves as trade talks accelerate - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZkZ1dF9WZmd0dWY5X3JQSnR6WW5fazVVUU90MUJtMVpLemV2a3pmaXREY0JGcnRrdFVZbm9aMF8xV3kwT0xETm5DZFZBZGNLTGszSEpQeVMwSUIzZnkybzVaajJLb0tkRkpoQnRuTzJaMGItMUJhM0R1M01KVzU0OFBSbUFjQm1YaXFObzNPcDUyN3NkeHd3Mzc2WlVxaDFwTGdDcVM3OVdiQmE5MlVLUzVyTkRucWxUZXBCZnN2Y2RCcTVOM1FBZw?oc=5",
-      "snippet": "Prime minister demands American alcohol return to store shelves as trade talks accelerate &nbsp;&nbsp; CTV News Canada, U.S. ‘very close’ to finalizing trade deal, LeBlanc says. Li",
-      "pub": "Fri, 21 Aug 2026 00:23:00 GMT",
+      "title": "If U.S. booze returns to shelves, 'leave it there,' Manitoba premier says - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN3I0Y1NGWGdzMEFTSHRyS1pQVkNGeGNlZTBEV1VlU1pGaTRDQXViZ04zblp5alUxUG83amI0MTVLbk5mNWFja2VoVXhoWVg0OXZUbVZVZlRqZUlmQUxOYUlRWHJCTmJFYzBReG1KX0xtQVotWnFxWWdaQkgwdzFDUGJB?oc=5",
+      "snippet": "If U.S. booze returns to shelves, 'leave it there,' Manitoba premier says &nbsp;&nbsp; CBC Canada, U.S. ‘very close’ to finalizing trade deal, LeBlanc says. Live updates here. &nbs",
+      "pub": "Thu, 20 Aug 2026 22:23:38 GMT",
       "image": ""
     },
     {
@@ -79,7 +79,7 @@
       "title": "Canada, U.S. officials inch closer to finalizing trade deal as tariff deadline looms - CBC",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMXY3SU4tV01DWnNLNXlYY05IamY1RnNKMmNWd3hyNm5nRjRqREVwSXQ1bGZ5cjNEVkdSZW85cXpncHFsZ3QwRGN4dExFNEdZWWw5NWJNWWE2aVlHa1NFempEdnE3eFdLWEJxLUhGWmlHdU5JbFZUbmpVX1hZYWsyb1V5M2JCbElEMjV4dFZ3M2RSZE8wMEtaQ0JLUVB6QVVsVl9JcGwtRXRvdFBP?oc=5",
       "snippet": "Canada, U.S. officials inch closer to finalizing trade deal as tariff deadline looms &nbsp;&nbsp; CBC ‘We’re very close’: LeBlanc on new trade deal as premiers agree to restock U.S",
-      "pub": "Fri, 21 Aug 2026 01:34:17 GMT",
+      "pub": "Fri, 21 Aug 2026 08:36:45 GMT",
       "image": ""
     },
     {
@@ -92,42 +92,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Carney tried to ‘out-tough’ Trump in trade negotiations, Vance says - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80a2hGWWtaRnlvUXJOZEdqNFBZRXVqRXlHZy04NUxFRFlsNlNtTTJlOV9WZ1kydWVaTXNLSzhGZ0J3RUZzbmRtWEl3VlBBRTNHbllrWFAxUHdnM2RycDBnUTJmRWNwRGs5RmdlMlotaEhERHdmUnI1T3FRX2c3Ulk?oc=5",
-      "snippet": "Carney tried to ‘out-tough’ Trump in trade negotiations, Vance says &nbsp;&nbsp; The Globe and Mail Vance tells audience at private event that Carney tried to 'out-tough' Trump on ",
-      "pub": "Thu, 20 Aug 2026 22:22:55 GMT",
+      "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmdqeE9FSzM1Ym9zWXpSQVMxYVBpZTJtSmRUY0Y5Qmlibmt5TzhwWVkwOXltMkZlNFgtcXZ0enBneldOaUdRUVJzTmdiWkhCV2xpVEc3c3lTcjctTjExVjRUSjlhdVFEMzRuUmM4YUV5bGJFSEl3Z21qZTRkdE82VDc3a2s3V2wxdWEyVUQxcU05ckhaMjRPTkE2NndLSmd3R29iYVMzay11SzREVFJVQ9IBtgFBVV95cUxNMWhneW9ESmxaUVYzOE82aUdhbWRZME1ERll5bnVCWGI2NFpsY1QzMExXSzc2ZVJqOTdjeUdJcEFYUjVlTk1EbVFMTmdtaVV0U1NLdDgyR0oyMThLanZ6eVpoY1kyaXVRVTh2RUdWc3BjOVV1bW5fVmRaU3d3NmJTTlhCZUpZWTZQSjRlMGtvWlRyNVpoV2hLNklPa3hhYUFjd3ZNV2pROXQtZEg3T2ttY0NGczFJUQ?oc=5",
+      "snippet": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran? &nbsp;&nbsp; Al Jazeera How much could Trump's 'economic D-Day' hurt Iran? &nbsp;&nbsp; BBC Iran war live",
+      "pub": "Thu, 20 Aug 2026 14:42:10 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alarm in South Korea as Iran dispute with Trump rattles a 72-year alliance - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmdNSjhQeC1GcmNGV2FmQnJaRHVzSVU0dEstM0hnX3JyVEFFbG5lMGVnT1pQbmxyNHdRUkU1NkllMUlIR282RGkyUEhXOVIxSjM4UTdoT3FKUGVDSWx1TGozdlRna3pPVk5zODd0OGhyRUFIN2RxVmxrVGJlSzdjZjA0OUhPdC02elhnNWpFc19oaVJiVnNfYS13bGVpTGNlQnBYRWhCT3dmd0tPOUpGSXk0WXHSAboBQVVfeXFMUDJUS1lmX2drelZKQzFXSDdub09CSkhEaUxoVkJIMXZzYkc1SmxNSG1SRC1mMTRSYXdTSUFacW9zYXpUYzlYWE9NMVRBRm9IdWJFald3bUZ6clFRa1Nwb1NmbjFDU1ZjNDFIMFJNS3hqVkhuUkNHdnBtd2tzUnA1RkxxV1BfalZZTUg4VGlKVzNPUU1fN25qV2E0cTlSRUdyME1lUU9qVDFaUWJQUVZIbTB3d3ZHTGlzY2dn?oc=5",
-      "snippet": "Alarm in South Korea as Iran dispute with Trump rattles a 72-year alliance &nbsp;&nbsp; Al Jazeera US, South Korean militaries wrapping up drills early, a day after North Korea's m",
-      "pub": "Thu, 20 Aug 2026 22:31:37 GMT",
+      "title": "Japan executes man convicted of killing five in 2009 Osaka pachinko parlor arson - The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDhSY0Z6bGJGNjk5Um9yX09ZaVF6b0FCRXpCSDdsQ0hHNWxHRUhCTFg3aUFzQTUtdDJiN0VkUUw0OS1DaGd4UjJnUTVCalNYelB1dkVHdlhxWHVqenhvSVZzOUdXTkhnRFJjcjdRc1BZVnZkd0Q0TlkwMWpTSkpST0k3eWViZFV0aTNKMW5UaS0?oc=5",
+      "snippet": "Japan executes man convicted of killing five in 2009 Osaka pachinko parlor arson &nbsp;&nbsp; The Japan Times See more headlines & perspectives on Google News",
+      "pub": "Fri, 21 Aug 2026 04:12:20 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "22-year-old man shot in Montreal’s Plateau Mont-Royal - CityNews Montreal",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU2pZUnctUDd5WkFWSGJwUzlGd2tXQnBETkxhQjdxczV4OXRDazFYXzd0MkZkVGFkOFRRV3gtQkswSU4yS2VkVFJFZXlvUUg3bjZlY0R1TThUTHItdzVXZXE4QW5GWTM2SGRHNkJBd0dreVk1MFY2OTljXzNZYWxQOUp6MTJMNHoyZGxrcnRsSlFIQnc?oc=5",
-      "snippet": "22-year-old man shot in Montreal’s Plateau Mont-Royal &nbsp;&nbsp; CityNews Montreal Teen arrested after daylight shooting in Montreal's Plateau-Mont-Royal borough &nbsp;&nbsp; CBC",
-      "pub": "Thu, 20 Aug 2026 17:24:45 GMT",
+      "title": "‘Puff his chest out’: JD Vance says PM Carney tried to ‘out-tough’ Trump in trade negotiations - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMEZwR0ZySnBZY01hdTZyVEk3RWJLbU1MekFiQi1uOVd6UFJTdFlqbEtSY0ctaGd3TVBRWHdwRHA1aDJtYk43OFYyUVRyS2xrNkFCNVduc1RvMlVZSGdzOS04RFBfc2FHd1BXYmFkOFdPNEl1SmttZTMtUzhHR2dTSk1rY3psbFBHX3AzajI4M2xERlhEa2V3YU9JYmFCdUtMS1ctZE9zSUc0WUNwdFVTM2ZNdUsyVVZpdHVQblRtXzV6R09tVmc4Q1ZjNEhZUQ?oc=5",
+      "snippet": "‘Puff his chest out’: JD Vance says PM Carney tried to ‘out-tough’ Trump in trade negotiations &nbsp;&nbsp; CTV News Vance tells audience at private event that Carney tried to 'out",
+      "pub": "Thu, 20 Aug 2026 23:27:01 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "1 dead after plane makes emergency landing on Prince George, B.C., road - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWnBrTElGRG8xWmRWcE5jd19IUkNSYmM2ZThSM0kyZXFEcUlhWlBRMTR1d1NxRWp1V2FwU3cwWlYxbnd5T29SNVZPeXZsa2lsU1ZJLWFGSDRkSHNpT01pMFl5OEhYakJEendLUElxRENjZ3lEcXI2d3lWR3M1dmtDOWtRYkVIcmZFVDFRWkkzVkN4clNCTEVNaVVUbG5zM3BzRTR3eGI4cw?oc=5",
-      "snippet": "1 dead after plane makes emergency landing on Prince George, B.C., road &nbsp;&nbsp; CTV News Updated: One fatality confirmed in Prince George Foothills plane crash &nbsp;&nbsp; My",
-      "pub": "Fri, 21 Aug 2026 00:25:00 GMT",
+      "title": "Updated: One fatality confirmed in Prince George Foothills plane crash - My Prince George Now",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQS181QnlrcHZGM2ZHZDhFcmpqUVVwc2VsakxNYU5wRG5PX2hNa1kteU55T0xHdU5VZ1Z3aVBhZWRMcXlLajZzOVhMNmtzaVFXcVFKd1J2OU5qa3Y2RVpKZUMtLW1WcC1GTTl2VlFiOFRkSl9ENHh5Q2ZHbTIyZEE0NktIYktYNWFjcGxrM2l0VkVvMWE2TnpaclJheDlkU2UyaTFFdEo1dEE5MlMzRVk0Tkg3emNtLUpONGhwTngwZFBZTVdXLTdITmxKelpScGlWUzh1bGg3dU1DcHVRLVM2T1JpSFBvU2NMZGFKSGpubnhuSzJwS0xOTg?oc=5",
+      "snippet": "Updated: One fatality confirmed in Prince George Foothills plane crash &nbsp;&nbsp; My Prince George Now 1 dead after plane makes emergency landing on Prince George road, crashes i",
+      "pub": "Thu, 20 Aug 2026 23:59:42 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada expands access to low-wage foreign workers for multi-site employers - CIC News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRkdzdjRZQm82U2UwUFlpbHdzNGFGWnF3VUc4UjhNQWFrdzZjYV9vZ2VNSFlrU2NFZ3VhS3NYc3hnOTQ5RUg2R1ZsSWp6NFYtZGVTdXRCWS1xUm5rYjJKWExIbklBc0VUNzczYm9tOFZ5Qzl0eUtKVW9IeVhXc2ZYcF9yM2xZWU8tc01kNU85VGtRdmRSSUhVUDVvSFpoQzFxRXVINVVpZWlSNUxsRDJUZk42TkZ4c1haWGVv0gHAAUFVX3lxTE5GT0p1MUd4NW4zOGM4R0FnLUFmWXJRMzBsYUJxOV9VZGpqTXlmYl94SGxNS01Ybk12U016YjNUNlZWemlMT0tiM0RRbWYzWGxic0FsbDF1c3dWNEZnMDJ2Mko3MEhmTjFGLU13TnF0b2pmWnd1cGQ5ekl0Y25ZaDR4T3JBN0luOXRqM2E3VTNoQ0tmWml4WmprN1JNOEVYUHhpN0xKNExZLUFfVHpSNXRrWmtuNl9rNUhtazZmT2NEYw?oc=5",
-      "snippet": "Canada expands access to low-wage foreign workers for multi-site employers &nbsp;&nbsp; CIC News P.E.I. declines Ottawa's offer to let rural employers hire more temporary foreign w",
-      "pub": "Thu, 20 Aug 2026 22:16:57 GMT",
+      "title": "Andrea Barbour now environment minister, Joedy Wall gets health portfolio as Wakeham's cabinet gets shakeup - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWZ5VzN2ZlBJb0VvMXhta1ZWY3NpenBwemtxanRJTGxVczhuWURnRk1vR2lvcXo2NkJHYmhJZTFLeGVpYTNyMTV3aVo1SUMzU1FuU2RSV241bHFhR2hZOTQzOHB4RDlnUFBxejRHcFc1cV8xdmlpN2xsWE5tTGY2ZV9BMFhHZDZrbnlYVnI5VQ?oc=5",
+      "snippet": "Andrea Barbour now environment minister, Joedy Wall gets health portfolio as Wakeham's cabinet gets shakeup &nbsp;&nbsp; CBC Media Advisory: Cabinet Swearing-in Ceremony Today &nbs",
+      "pub": "Thu, 20 Aug 2026 21:24:59 GMT",
       "image": ""
     }
   ],
