@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-22T19:43:07.315351+00:00",
+  "generated_at": "2026-08-22T20:12:49.098428+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Several Vehicles Targeted in Grand Falls-Windsor Theft Spree",
+      "link": "https://vocm.com/2026/08/22/307801/",
+      "snippet": "RCMP are looking for electronic footage after several vehicles in Grand Falls-Windsor were broken into on Thursday and Friday. The vehicles were parke...",
+      "pub": "Sat, 22 Aug 2026 19:42:12 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Harbour Grace Man Charged with Impaired ATV Driving",
@@ -59,19 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/pleaman-forsey-1.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Bonavista RCMP Request Help Finding Missing Woman",
-      "link": "https://vocm.com/2026/08/22/307807/",
-      "snippet": "Police are looking for information on a woman who has gone missing in eastern Newfoundland. Jill Bidgood, who's 63 and is originally from Ontario, was...",
-      "pub": "Sat, 22 Aug 2026 12:18:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/missing-woman.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "‘Attacked’ by Trump on Trade, Canada Is ‘at War’ With U.S., Carney Says - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUNRRk00blBmOVdhVDUyVzQ3T2o2bE9LbU1yY2doRXBlMkZEU3o1WXpqcXNNRGtsX2x2T3hzNGsyR1VYT2V1MTNNWlF6RldBbXoyRjlxNElHUHFIdHpETGYxdFBNR21Bek5qeHhLLU1qWkcwa0VoUTRidnpoSWxKdy12SWFJQQ?oc=5",
-      "snippet": "‘Attacked’ by Trump on Trade, Canada Is ‘at War’ With U.S., Carney Says &nbsp;&nbsp; The New York Times B.C. premier responds to new U.S. tariffs &nbsp;&nbsp; CBC U.S.-Canada trade",
-      "pub": "Sat, 22 Aug 2026 18:02:43 GMT",
+      "title": "Carney says trade deal became untenable when U.S. 'asked too much and offered too little' - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXphWVZtaDQwLVJCdHZuY0d6MnZ5OGlPRUx4TWp1VHNsdmNOdkFwbGlJaVVjcU1BMmdSeXZCc0lJWkVTcnpjamh4N3EyODJBdEhlQ3ZBUmhvMTR5a3E0R2l3RVZJeUM0M21CbDBOcnFtVTUwaVJKQUpGT2pIX2lTOWtMeHU?oc=5",
+      "snippet": "Carney says trade deal became untenable when U.S. 'asked too much and offered too little' &nbsp;&nbsp; CBC U.S.-Canada trade talks have collapsed. Carney says these 3 issues torped",
+      "pub": "Sat, 22 Aug 2026 19:34:40 GMT",
       "image": ""
     },
     {
@@ -84,10 +84,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Three people injured in shooting in Fort Smith, N.W.T. - CBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LRjc1aUZVN1JqcW1JRHdyQmJGdkZlUXI3R2thLXZPbEY3c2hXSXExdi1nWVlqV2s3eFlZRGRWTjZXcDZZamNYWGFQcnpMaVJwendfRC13akRWbkRNdF9FMTZHYmItT2FRYXZGOTc4dEFqalND?oc=5",
-      "snippet": "Three people injured in shooting in Fort Smith, N.W.T. &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Sat, 22 Aug 2026 17:44:17 GMT",
+      "title": "Devastated Fireweed Festival organizers await police word after shooting - Cabin Radio",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWGtNX042b2pnYldsbWFxR3lGRVJ6RUJTRklmenBJV3lJLTJIYm5tYzhLQWd6THd2amhUVTQwcDdtSUljcDh6NWRaYnhXVDNITE9JN1F0SlBfNlBqLWRGLTFNdzVYVEl3ZW96WHIzeThBTl9LdDBZbnBBLW1pVWV5OUZOM25nZTFQUGlFVnd1ZGw4MDVVVjcxNklfVjJnMWxlVFE4RnpObU10TnBReGdtUkVuMkE5amh5WEdFNU9NdVpPRlQtRDNuQ2V3?oc=5",
+      "snippet": "Devastated Fireweed Festival organizers await police word after shooting &nbsp;&nbsp; Cabin Radio See more headlines & perspectives on Google News",
+      "pub": "Sat, 22 Aug 2026 14:37:37 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Investigation into North York crash leaves 1 person dead after officer fires weapon - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONERib2VOb0JKWHRtUExjNE0xbXB5WklQNlNDSEZNTDJtSl9NQVRxSDRTTmc4Y1Zwc3ZTMC12dzJBVEVHWDRQN2pmYjZVbE93SDljdzBvMlM2dWt4Rjdlektwa0xsbEt6TjY1QVk2RmMxNkthX1ZGZmFVVk91RVVzbnJYSk52WW9DNUk2QjduWnlBc05XbDd3aWRNdUFmWEhxN2ZmTmR0eHYxd0luNUVDLUFPYUNOUTdoR2I1dU1pT1k?oc=5",
+      "snippet": "Investigation into North York crash leaves 1 person dead after officer fires weapon &nbsp;&nbsp; CityNews Toronto See more headlines & perspectives on Google News",
+      "pub": "Sat, 22 Aug 2026 18:30:00 GMT",
       "image": ""
     },
     {
@@ -100,34 +108,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "1 person dead after police-involved shooting in North York - CP24",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanVlTWxwVDQwYW4zcTA0aXB4Mk9BRGlhVXJwcnJZaVd4OWpfOTNyZlh2TkNUR0VhT2RqS1dQdk1pcV84NjB0WE5PbVNfUG02ZS1kNzdOQ0pkZGw2eVQ3SzhHc2dTZ1FwZl96U3JKQlVZWmx1OU1DRVVlc0twTUJGUW13Skk0WnJtMXk1ZEN6d0ppUWFqbUp6SWwtZmhaWFFHSXFCWXZ1aEM?oc=5",
-      "snippet": "1 person dead after police-involved shooting in North York &nbsp;&nbsp; CP24 Person dead after shooting involving officer in North York: Toronto police &nbsp;&nbsp; CBC 1 person de",
-      "pub": "Sat, 22 Aug 2026 19:16:48 GMT",
+      "title": "Following fire, Summerland orchards race to save fruit from spoilage - CBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLUVaMFRNOHJKMzFuMDlBN29ZM0FwSUlqR1hLNENFZHBra25tYkJJNmhIaDZsc05QTlY5UFlrSmNFZWZVWjRIN0pXTUROYVk0M2ZHbDZzT3FDNlhWdi1YekY4YXlrYVJmWkFyWnBRQ09mY3hQWU9MY0NnaFhWRVhSX2llelhGaFh5Mk9Sc29OeUh5aVFweVlVUUpn?oc=5",
+      "snippet": "Following fire, Summerland orchards race to save fruit from spoilage &nbsp;&nbsp; CBC Preliminary rapid damage assessment data available from Bald Range wildfire area &nbsp;&nbsp; ",
+      "pub": "Fri, 21 Aug 2026 14:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Cracks in Team Canada as some premiers openly question booze boycott strategy - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVC1sU2p2aVBwanREdDJ2V0JoTjMtVlBncDNvOGUtVktFX0wtZmxLVlZxZ3pvd011anFTWU5ISW1Kc3VsNkZER01KZ0xsTVA1N1ZyZUNEWnduME5RaDBTT3l0aW9jT1dkRjJnRXNPOHFaMU1WR3d2U2g3SnpVemhQOEptb1lLZUs0NHlOYjdzS1B6OWtZMl9zTnVsOUFZd044?oc=5",
-      "snippet": "Cracks in Team Canada as some premiers openly question booze boycott strategy &nbsp;&nbsp; The Globe and Mail If U.S. booze returns to shelves, 'leave it there,' Manitoba premier s",
-      "pub": "Fri, 21 Aug 2026 21:21:43 GMT",
+      "title": "A president, open-carry gun laws, elected judges: Group floats vision for an independent Alberta - CBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYTYySHJsRF9ldzN2ejRfWDlCd2pCRnJNdU15NUNBc09xWTNfbVotcGxsU0pSTkR1MWtJbEdKZWpsZDNYTkUzaEtCSnNBVXYyVnp0VUxRRWNpNFVIOHpFNkpSNkJQSmlsY3VLSUlndjNCdnlCZHQ5TURGcFdOcEpXd2JJbF9uQlkwUFR2ajV2Wk13WnZmSEow?oc=5",
+      "snippet": "A president, open-carry gun laws, elected judges: Group floats vision for an independent Alberta &nbsp;&nbsp; CBC What independence would look like, according to Alberta Prosperity",
+      "pub": "Fri, 21 Aug 2026 15:30:51 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Heavy downpours, flood risk looming for N.S., southern N.B. - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQU9JN1FMNkhwdTZTV0p4X1cwa0s0UVpvR1l6UEFzYkh4clA1STd0UHNNX3R2eGpjWVBsdlpRVFh0MjZUUFFHQ3dHdDNEa3V5a21VZzNDeDQzVFR0YkV2eU4tNWprcWtKSnFoYVkyTUJLNC1rY2VFbDMtdG9FNkZwXy1sbWR6WUN0UkxXdS01bXRqNFRVM1Y2NWtrRFRZTHFhOGFFLTk2Z2lqYW8?oc=5",
-      "snippet": "Heavy downpours, flood risk looming for N.S., southern N.B. &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Fri, 21 Aug 2026 22:27:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "What independence would look like, according to Alberta Prosperity Project - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjJsaDdvZGZ5N19KamZRMWhYN2pqNmpYaGtoNHpObTlKc3pteDJqR0t6S3ZUeVFuWklTbG5tbUh0VkRTY0gtb1F3Z3VHWEpOWXlmSW9CdTc2TjN0ZmRUSHVkX2VDY0ZzMkhEOUR1al9iMlVxTXcyVWdYNUFlVUZ4UndfanZnaU1GblQyTkQtRE1WcDNHOEkxVzFHd2p2bHJUaU5iNDNoNDRFUkJBX3lkNjE4cw?oc=5",
-      "snippet": "What independence would look like, according to Alberta Prosperity Project &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Fri, 21 Aug 2026 23:21:42 GMT",
+      "title": "Saskatchewan Marshals pausing specialized response unit after tactical gear request - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnR4UEhZOTVocUs1b2s2VVUtcnV1S3p1RlIwa2hoVlRxWmJvY3ZadkZsMDVwUTduRVBjWDZrN2Z2RGlYQjBoemt0MEkwQ05HUzFFakg5ZFM4RlRvbVhRRVVKNWpUcExKSHZXNlhzM1p0OEV2ZXJBWkNRV3c1bDhHYkVmZEh4T0hjd0pNVHVnQUE5WWlEMnQzRjU0Y1daZG5jc3UwSk13WmFLQzJEcXN3eG85V3FZeFpiYkYxakRfRQ?oc=5",
+      "snippet": "Saskatchewan Marshals pausing specialized response unit after tactical gear request &nbsp;&nbsp; CTV News Province pauses SWAT unit for Sask. Marshals Service, says eager employee ",
+      "pub": "Fri, 21 Aug 2026 15:37:08 GMT",
       "image": ""
     }
   ],
