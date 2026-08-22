@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-22T07:07:32.049263+00:00",
-  "count": 16,
+  "generated_at": "2026-08-22T07:52:03.778594+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "August 22, 2026 – Do you agree with government’s decision to make health a stand-alone ministerial portfolio?",
+      "link": "https://vocm.com/2026/08/22/august-22-2026-do-you-agree-with-governments-decision-to-make-health-a-stand-alone-ministerial-portfolio/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13339').",
+      "pub": "Sat, 22 Aug 2026 07:30:20 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/emergency-clinic-hospital-nlhs-exam-room-health-4.png"
+    },
     {
       "source": "VOCM",
       "title": "Energy NL says Local Companies Ready for Labrador Hydro Megaprojects",
@@ -57,81 +65,10 @@
       "snippet": "The traffic grid in Paradise is in for big change this weekend to allow for water and sewer construction activity. The main road will be closed around...",
       "pub": "Fri, 21 Aug 2026 16:02:20 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/construction-generic-2.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Churchill Falls Agreement Clears Path for Labrador West Power Expansion",
-      "link": "https://vocm.com/2026/08/21/307733/",
-      "snippet": "The premier says work is already underway in establishing an additional power line to feed Labrador West. Mining development and investment in the reg...",
-      "pub": "Fri, 21 Aug 2026 14:22:24 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/churchill-falls-infrastructure-nalcor.jpg"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada-U.S. Trade War Escalates as Talks Collapse - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXJicWNvNlVhUFZsYjd3QXBXbnQ1MzRGYXNCM2tkUnhLWFVaNnVxYjR4dThzMEpyUVQ3SjJOcUNKYm8xR0NGMG80d3gzdW95OUxSb3dZXzI2NWpoZEpYamxIQ2dQajFvMi1udTNjYmpVQVIxWkhGazRrYy1tTTQ1c3hmVDBoVHNmbXd3QmZ0TXpIeEZ6dUpjZm1n?oc=5",
-      "snippet": "Canada-U.S. Trade War Escalates as Talks Collapse &nbsp;&nbsp; The New York Times New set of U.S. tariffs on Canada go into effect Saturday. Live updates here. &nbsp;&nbsp; CTV New",
-      "pub": "Sat, 22 Aug 2026 05:13:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Supreme Court lets Trump continue work on White House ballroom for now - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDRsWDhPVVVzZVdpcEpaNi0tRGF3SU90MmwwcWw5UHdkb3VEM3FCcXVzQm0tWExlQUtMNy0yUGl6NVBMeWJSenN3VXNqZ251TzMySHBrTEpSVjMwQWFreFVjTE9idkFJbE1zWWtnWlBveXlLNmc3Z25pTkU1RlFLRGg0R1REZnVOeVVsRXNpNlJBN3BmakJGMWVxcFNsdkh4c00teW1OX3c?oc=5",
-      "snippet": "Supreme Court lets Trump continue work on White House ballroom for now &nbsp;&nbsp; Reuters Supreme Court temporarily unfreezes Trump ballroom construction &nbsp;&nbsp; BBC Donald ",
-      "pub": "Fri, 21 Aug 2026 20:47:45 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump says he did not direct Bessent to intervene in bond market - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkFsc1FIR29sOXp1dmJuLTJFNHR0Z04taHhTaEZkd1QyRmhxN0hKTmZHYldObW5zV1J6c2ozT04xOXp0dlFMbWgwMHVUckdCeHNPRG1QTEE4bU9fckJmd1BnekhaZ0JCOUUwbDBCdWdRM3FRWEFJUHB4LW9KaTNPRDBmQ1lLYTdOUTJWa2wtckZ1Y0FFbjJVTkFjaUVKY2Zwdm05VENB?oc=5",
-      "snippet": "Trump says he did not direct Bessent to intervene in bond market &nbsp;&nbsp; Reuters Trump Says It Was Bessent’s Choice to Intervene in Bond Market &nbsp;&nbsp; Bloomberg.com",
-      "pub": "Fri, 21 Aug 2026 23:27:43 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Russian double-tap strike on shopping center in Kryvyi Rih kills at least 16, injures 130 - The Kyiv Independent",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ1h6bXlXVDJ2MXg4emljSERhSmFLWlNCZjNxdnB2VU5fV3VnUFJEdnZmTlN4dkMzR2l1WUktTnNaWFBsVFhsSkFTSFBLbmE1Z3o4WlZUQVZWZnA4cFRPVXBGOGVJcm9feWM5ZnEtSjRpSk95bndtN3ZqbGFmUWZVSWU3ZU1xSUFQOFpCQTlhN3k1SXRteTNVZ2NYN2hJRGZJZnZiNXNzQUxFcW5CNzFyUm9lY0tyelRmRDVBenJkb3pHZDVzTi1Fd2VjcHFpQQ?oc=5",
-      "snippet": "Russian double-tap strike on shopping center in Kryvyi Rih kills at least 16, injures 130 &nbsp;&nbsp; The Kyiv Independent Russian strikes on Ukraine kill two, officials say, a da",
-      "pub": "Fri, 21 Aug 2026 22:03:27 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenpHVXJUV3A5cTY4b0ctYVZwVUZ3bGFSeFoxaGNMSEtBNUtGR2cxR0tsWi12N09DQzVVY1VPZ3lUNDNVU2t0MGd3Ql9rczBVNnpLZDhkWUpNVHlLekF4a1REMDc2QVZHX05NWmJ4OGtTRWlGcXRodmJsMWZEVWFhSWs1SXA2WWM1NHhNSXl3QTd1VnFHNnJqNnB5aVJXWFhudjA5Tlh0YjA4d9IBrwFBVV95cUxObEVoRGp3U0lCOG9JODRJdHVtTzBDQXlJTU96YVB3SDlmaGRmemU1WmZlYnlLakN0LW0zNTFZcWV3aTBWVHRzbV84ZTVWb3pIY2lmVUg1S09PWUltVUlfa002bGxHQkp4RUhLMXkzM2dvUHl6YXhpQ2tpNnhORHlLSzNtMGpzTlYzbjVJTEtXZUpWYTdJb0NQcU8wY2NKUjJ4ZWxKSmh0NTNQb3dTT0ZF?oc=5",
-      "snippet": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets &nbsp;&nbsp; Al Jazeera Live updates: Iran and China push back after Trump’s economic threat &nbsp;&nbsp; CNN",
-      "pub": "Fri, 21 Aug 2026 13:51:42 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Weekend wallop: Toronto under special weather statement for heavy rain with possible thunderstorms - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1JTTFFDeVFWZ2dIWjU5UndUUkFwa3VlUlJQbHNOYVVULW9xR0ZPRmpkN0lDRXVieDRvbFQ5Y2RlckJxT3BteTFDU0dKdDdtaW1WaWFuZUpxaGo0WktJbXEyXzZ1Vlk1TElleXhPSHRrNlRwcjByMFMwZGlmbmJKaG5ZZHhObEx6QlBBVGpDTWF3MTZnenlqazc1QS1zWjdvZXZPQUd2aFNMMmZCQjBvOXlBNGg0dUJZNFhURXB1NjlsYVJjZVRXdHFXRDZkcmxEM2hr?oc=5",
-      "snippet": "Weekend wallop: Toronto under special weather statement for heavy rain with possible thunderstorms &nbsp;&nbsp; CityNews Toronto Special weather statement issued for Toronto this w",
-      "pub": "Fri, 21 Aug 2026 23:11:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Prince George emergency landing caused by plane’s engine losing power - Global News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWN6dmVub3EzV1BXXzAyTUhucXhUTDJDdFZuT0JQMkRURUl5dGxDZHBONElJSVR2aUMyNUpndVBKbHZwcEJiS1hCdnF0RnFmUHVHSFZXYllmNWthN3NwVVZCZm5Ca1M5ZV9ucHpSUzVUcjNRaFNWM3lmS0ItVXdwRE9RUTR4WEFKWVIyQjhacTJOcGhjZnp6bWFB?oc=5",
-      "snippet": "Prince George emergency landing caused by plane’s engine losing power &nbsp;&nbsp; Global News Survivor describes moments after plane ripped through his vehicle in Prince George &n",
-      "pub": "Fri, 21 Aug 2026 21:06:49 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Two injured in stabbing attack at Canada Sikh temple - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qM2Y2dzMyMk4tam5tdTNlWF9fYmgxRGdBS1BBcnllUGxoMC1PY3R6eUlaYTk0SmlKQUhvZXE0Vi1WOXg5aU9jWFBvY3hNVC1tZWhWcUZjb3Nmdw?oc=5",
-      "snippet": "Two injured in stabbing attack at Canada Sikh temple &nbsp;&nbsp; BBC 2 men stabbed during morning prayers at Edmonton gurdwara, 1 arrested &nbsp;&nbsp; CTV News Edmonton Sikh temp",
-      "pub": "Fri, 21 Aug 2026 22:45:01 GMT",
-      "image": ""
     }
   ],
   "errors": [
-    "CBC News failed: The read operation timed out"
+    "CBC News failed: The read operation timed out",
+    "Google News Canada failed: HTTP Error 503: Service Unavailable"
   ]
 }
