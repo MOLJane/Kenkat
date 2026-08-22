@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T04:57:02.309300+00:00",
+  "generated_at": "2026-08-22T05:22:31.805589+00:00",
   "count": 8,
   "items": [
     {
@@ -69,6 +69,6 @@
   ],
   "errors": [
     "CBC News failed: The read operation timed out",
-    "Google News Canada failed: HTTP Error 503: Service Unavailable"
+    "Google News Canada failed: The read operation timed out"
   ]
 }
