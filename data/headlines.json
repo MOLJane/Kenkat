@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T14:44:29.283863+00:00",
+  "generated_at": "2026-08-22T15:11:59.366778+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
       "title": "RCMP Looking to Mow Down Leads in Tractor Theft",
-      "link": "http://vocm.com/2026/08/22/rcmp-looking-to-mow-down-leads-in-tractor-theft/",
+      "link": "https://vocm.com/2026/08/22/rcmp-looking-to-mow-down-leads-in-tractor-theft/",
       "snippet": "Bonavista RCMP are asking for the public's help in locating a stolen ride-on mower. The tractor, which is a green and yellow John Deere E130, was stol...",
       "pub": "Sat, 22 Aug 2026 14:10:52 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
@@ -13,7 +13,7 @@
     {
       "source": "VOCM",
       "title": "Government Announces New Funding for Fire Departments in Conception Bay North",
-      "link": "http://vocm.com/2026/08/22/307781/",
+      "link": "https://vocm.com/2026/08/22/307781/",
       "snippet": "A fire department in Conception Bay North is getting $630,000 for a new tanker truck. Forestry Minister Pleaman Forsey presented the cheque to the Bay...",
       "pub": "Sat, 22 Aug 2026 13:07:40 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/pleaman-forsey-1.jpg"
@@ -21,7 +21,7 @@
     {
       "source": "VOCM",
       "title": "Bonavista RCMP Request Help Finding Missing Woman",
-      "link": "http://vocm.com/2026/08/22/307807/",
+      "link": "https://vocm.com/2026/08/22/307807/",
       "snippet": "Police are looking for information on a woman who has gone missing in eastern Newfoundland. Jill Bidgood, who's 63 and is originally from Ontario, was...",
       "pub": "Sat, 22 Aug 2026 12:18:37 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/missing-woman.jpg"
@@ -29,7 +29,7 @@
     {
       "source": "VOCM",
       "title": "Man Charged After Security Guard was Punched in the Face at the Avalon Mall",
-      "link": "http://vocm.com/2026/08/22/307797/",
+      "link": "https://vocm.com/2026/08/22/307797/",
       "snippet": "A man has been arrested after a security guard at the Avalon Mall was punched in the face. The incident happened around 9:00 last night at a business ...",
       "pub": "Sat, 22 Aug 2026 10:16:48 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
@@ -37,7 +37,7 @@
     {
       "source": "VOCM",
       "title": "RNC Arrest Man After Reported Threat at The Gathering Place",
-      "link": "http://vocm.com/2026/08/22/rnc-arrest-man-after-reported-threat-at-the-gathering-place/",
+      "link": "https://vocm.com/2026/08/22/rnc-arrest-man-after-reported-threat-at-the-gathering-place/",
       "snippet": "There was a dust-up at a shelter on the edge of downtown St. John's last night. RNC say a 31-year-old man threatened a woman at The Gathering Place ea...",
       "pub": "Sat, 22 Aug 2026 10:15:57 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc-crest.jpg"
@@ -45,7 +45,7 @@
     {
       "source": "VOCM",
       "title": "PM Carney to Address Nation on Trade Deal Early This Afternoon",
-      "link": "http://vocm.com/2026/08/22/307789/",
+      "link": "https://vocm.com/2026/08/22/307789/",
       "snippet": "After a lot of speculation that a trade deal between Canada and the United States was near, it all fell through at the last minute. That means the tar...",
       "pub": "Sat, 22 Aug 2026 09:40:35 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/mark-carney-2.jpg"
@@ -53,7 +53,7 @@
     {
       "source": "VOCM",
       "title": "US and Canada Push for Trade Deal Ahead of Tariff Deadline",
-      "link": "http://vocm.com/2026/08/22/us-and-canada-push-for-trade-deal-ahead-of-tariff-deadline/",
+      "link": "https://vocm.com/2026/08/22/us-and-canada-push-for-trade-deal-ahead-of-tariff-deadline/",
       "snippet": "The United States and Canada were working through final trade issues Friday as a deadline approached that could bring steep new tariffs on Canadian go...",
       "pub": "Sat, 22 Aug 2026 08:46:02 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/08/8299019.jpg"
@@ -61,7 +61,7 @@
     {
       "source": "VOCM",
       "title": "Dinn Supports Continuing Ban on U.S. Alcohol Sales in Newfoundland and Labrador",
-      "link": "http://vocm.com/2026/08/22/307779/",
+      "link": "https://vocm.com/2026/08/22/307779/",
       "snippet": "Provincial NDP Leader Jim Dinn says he would rather see American alcohol kept off NLC shelves, stating a bottle of U.S. liquor will not see the inside...",
       "pub": "Sat, 22 Aug 2026 09:05:20 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/united-states-wine.jpg"
@@ -76,18 +76,26 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Arrest warrant issued for Quebec man charged in alleged visa fraud scheme - Global News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRdE5zcU4tLVd3RFpHWnB3cDhGTkwxVWhKT2dyUDFaemp2ejR1WlN3MkhXNldYOEN5T1FuNFFPN2d4QXcyUFNjcjNsb3lwVWdiY1F1RWNIOHBPcUVIZ2lKWkFnclFlZnJMbEV2RGJmVFpONHk4UkROMWNZdDJLZw?oc=5",
+      "snippet": "Arrest warrant issued for Quebec man charged in alleged visa fraud scheme &nbsp;&nbsp; Global News Border agency alleges Montreal resident helped dozens enter Canada illegally &nbs",
+      "pub": "Sat, 22 Aug 2026 00:01:01 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Iran's president calls for end to war from 'position of power' as US ups pressure - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3ZUcG9hcXkyOTA5TEJXVzExRzJyNm9sY3VnVzJhQkZBNW00eXhBOUVqcVJqRVE1U2x0OURaM0VCTW1RVzNzbVdzakFtRlhHTmRWQmxlRUwybGZfN19QZ29iOEd4bUh3ellJYlNwN09LQTZWX0NEZUNzTDJvVElkazg0VlFhdW83eEhSeVdsRWx5ZFltcHNyYm9BYWhOYm9iMDQ2dEt1UFZiWnVNS2lhNWlxZVY?oc=5",
-      "snippet": "Iran's president calls for end to war from 'position of power' as US ups pressure &nbsp;&nbsp; Euronews.com Iran says the world has accepted it has defeated the US, and other Middl",
+      "snippet": "Iran's president calls for end to war from 'position of power' as US ups pressure &nbsp;&nbsp; Euronews.com See more headlines & perspectives on Google News",
       "pub": "Fri, 21 Aug 2026 12:31:33 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "One killed, three injured in sword attack at school in Sweden - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc1FiWmhleEdURXFoczdXdkxZNnRIMFRvNkltM3VOdFBTa2h0MUhyempnTE9JOFVxT0ozX05pOFJaY2RjQU1wb2FIdlZOOEdrS3RBcmZpNWZWU2wzakhCdVBlMDJlLUpkbGEyVjNJemZCQ1VaQ0dmTDR0dnVXS0pWR05aaHBCeXk4MkUzcnVWYl8tdUNSMEpna2lKT2FoZ9IBowFBVV95cUxQczc4bDgzNDNTTEt2a1pOd2x6ejRyMkQ2RlN6RUlBY1VNcFJOQjdBSlFLSkJ3ZjgwVWFNdjBzTm5PNDYwa3ZKNTYtUU9lQ0lzd0N1S2pQQ2t1TG95cm45TlNYaXhCV1VKOWNYTk04S3FxTUFjRWJKYVZrQkZON09yWE84b281RFVERjcyX0xDYndORjBxMjFFeG1ZNUw1aDY2ZDVN?oc=5",
-      "snippet": "One killed, three injured in sword attack at school in Sweden &nbsp;&nbsp; Al Jazeera Victim of sword attack at a Swedish school was a 17-year-old girl &nbsp;&nbsp; CTV News An att",
-      "pub": "Fri, 21 Aug 2026 22:01:21 GMT",
+      "title": "Trump’s aggression toward Canada faces resistance from within - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV3BrMW1MVUtEOUlZcUNMV016UTRvSE45WE5IeXFOQmpoaEQ1ZjRqUkRDU20zN1haQTh2czlUd0F1NVZaSms5elhmbFp0d1Z0anJ5OU9aN3AyczlDR0dKSHd5cEM1WEFvbm1TUU55d3VhWU9Ya1Z1QmVUQ1NZdkNiSDBMT0JkdkI0M0ZHSWJudWRpb0RmWTNpUUNzcDRzemx0REVyS3dNV0VVWEFwV01aaWUxc3NVUmVxLU1PX0dYT19aXzdFQTU5c1JaT25WRVI5T2Vv?oc=5",
+      "snippet": "Trump’s aggression toward Canada faces resistance from within &nbsp;&nbsp; The Globe and Mail America is really being a bad friend &nbsp;&nbsp; The Globe and Mail Canada needs to t",
+      "pub": "Thu, 20 Aug 2026 22:38:42 GMT",
       "image": ""
     },
     {
@@ -100,18 +108,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Supreme Court temporarily allows construction of White House ballroom to continue - CNN",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQVA5Y2E1bzJibUF6d1RHTkk3MWdUd21jdnZkeE9iNDIzTTMydjc2WFk1aWI0WXBfaE5pTERBMEdSdlJRbVVWTjBFSjVNdklyTXEwWHNKYnZWanVJNmp4aUlqSXpLVURnVlFiMHItRUN5dWNLNlQxMkN2MGZJUVhTeTRLQQ?oc=5",
-      "snippet": "Supreme Court temporarily allows construction of White House ballroom to continue &nbsp;&nbsp; CNN Supreme Court allows Trump to continue work on White House ballroom for now &nbsp",
-      "pub": "Fri, 21 Aug 2026 18:12:32 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Weekend wallop: Toronto under special weather statement for heavy rain with possible thunderstorms - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1JTTFFDeVFWZ2dIWjU5UndUUkFwa3VlUlJQbHNOYVVULW9xR0ZPRmpkN0lDRXVieDRvbFQ5Y2RlckJxT3BteTFDU0dKdDdtaW1WaWFuZUpxaGo0WktJbXEyXzZ1Vlk1TElleXhPSHRrNlRwcjByMFMwZGlmbmJKaG5ZZHhObEx6QlBBVGpDTWF3MTZnenlqazc1QS1zWjdvZXZPQUd2aFNMMmZCQjBvOXlBNGg0dUJZNFhURXB1NjlsYVJjZVRXdHFXRDZkcmxEM2hr?oc=5",
-      "snippet": "Weekend wallop: Toronto under special weather statement for heavy rain with possible thunderstorms &nbsp;&nbsp; CityNews Toronto Special weather statement issued for Toronto this w",
-      "pub": "Fri, 21 Aug 2026 23:11:00 GMT",
+      "title": "U.S. alcohol bans must end for trade deal to happen, Canada's ambassador told council: sources - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWVRhU2EyN2c3bXBjQWI5UGVJb2d2bndhcXoyZ1hIcEp2ampfaUNHOEJJaGV2eUhJYlptUkt4c0s4b3djdWlIUlIzdG1lUGdSeGNicWNkSl9ZZnBWS1pRcnNRT3hrRFl2OXhFb3pScS1RMG1WWGsyOTdzZTdjT2Y4RFl5SE5QQTNMWlE?oc=5",
+      "snippet": "U.S. alcohol bans must end for trade deal to happen, Canada's ambassador told council: sources &nbsp;&nbsp; CBC Cracks in Team Canada as some premiers openly question booze boycott",
+      "pub": "Fri, 21 Aug 2026 22:22:19 GMT",
       "image": ""
     },
     {
