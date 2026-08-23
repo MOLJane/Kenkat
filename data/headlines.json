@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-23T09:19:10.299461+00:00",
+  "generated_at": "2026-08-23T09:49:41.873861+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Premier Wakeham Stands Firmly with ‘Team Canada’ Among U.S. Trade Dispute",
+      "link": "https://vocm.com/2026/08/23/307854/",
+      "snippet": "The Premier says Prime Minister Mark Carney has his \"full support\" as the provinces maintain a \"united Team Canada approach\" to its trade dispute with...",
+      "pub": "Sun, 23 Aug 2026 09:37:40 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/premier-tony-wakeham-prime-minister-mark-carney-shaking-hands-churchill-falls-announcement.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Premier Considers Gaining Access to U.S. Energy Markets a ‘Major Victory’",
@@ -12,17 +20,17 @@
     },
     {
       "source": "VOCM",
-      "title": "August 23, 2026 – Do you think the provincial government should rely more heavily on in-house workers for its renovations and building projects as opposed to contracted workers?",
+      "title": "August 23, 2026 -Do you agree with PM Mark Carney’s decision to walk away from the trade talks with the United States?",
       "link": "https://vocm.com/2026/08/23/august-23-2026-do-you-agree-with-pm-mark-carneys-decision-to-walk-away-from-the-trade-talks-with-the-united-states/",
       "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13342').",
       "pub": "Sun, 23 Aug 2026 08:49:19 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/home-renovations-contractor-painting-housing-construction.jpg"
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/carney-trade-deal-announcement-3.jpg"
     },
     {
       "source": "VOCM",
       "title": "No Serious Injuries Reported After Float Plane Goes Down in Woods at Paddy’s Pond",
       "link": "https://vocm.com/2026/08/22/breaking-no-serious-injuries-reported-after-float-plane-goes-down-in-woods-at-paddys-pond/",
-      "snippet": "No serious injuries after a float plane went down in the woods near Paddy's Pond just after takeoff Saturday evening. Officials are holding the scene ...",
+      "snippet": "A pilot and passenger on board a float plane that went down in the woods near Paddy's Pond last evening managed to walk away from the crash. Officials...",
       "pub": "Sat, 22 Aug 2026 23:33:50 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/img-5969.jpeg"
     },
@@ -59,18 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/carney-trade-deal-announcement.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Details Still Being Finalized for Churchill Falls Debate in House of Assembly",
-      "link": "https://vocm.com/2026/08/22/307795/",
-      "snippet": "The details on next month's debate in the House of Assembly are being worked on, but Premier Tony Wakeham says he's hoping to line up a series of expe...",
-      "pub": "Sat, 22 Aug 2026 15:33:04 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/wakeham-at-the-airport-3.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OZHM4OFo4OEhvRE5iUmpOSi15U2NqaEQ0OGFWazktZkRIVXVHVkMwbnE4eHBJYXIxNlk2bjlmYkZvaDRzM3R3TnQ1VlBBaF82RUVWSWxOTVUtUQ?oc=5",
-      "snippet": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war &nbsp;&nbsp; BBC Mark Carney doesn't stop the United States from driving negotiations ove",
+      "snippet": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war &nbsp;&nbsp; BBC Carney says trade deal became untenable when U.S. 'asked too much and of",
       "pub": "Sun, 23 Aug 2026 05:46:43 GMT",
       "image": ""
     },
@@ -88,6 +88,14 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXBEa0MyUU40aUdjVU8xcEdFb1hJdjdIN2pmSmdrOU5XRUN1VkQ2TkxjZE8zUFNVQUEyS2N1YlA4c2V0OFZtSnNxdzNFVzJnV1hFM2hGSUdiMnl0aDZ4WE01TU1BZVhIMldiQ0RWVVRjeDJDRGRubXEwRlhITDkyRXZjTVdkeTd6eXpDT3R6U1JRSGJsbnV2NV8wUVlSSzlrTmU4Nk5CVWNzYVhTTVMwRHFaTFBXbTB2TGc?oc=5",
       "snippet": "Ottawa-area distillery looks east and west after Canada-U.S. trade talks collapse &nbsp;&nbsp; CTV News Will you buy U.S. alcohol if it returns? Here’s what readers told us &nbsp;&",
       "pub": "Sat, 22 Aug 2026 20:45:04 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Alberta separatists' blueprint for independent nation draws scrutiny - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHZlS19lb202X2VhR29HMGFRT0tzVlhJdm9zR1lEeENhLUF6NkRDS192dm9xNXNFSWNVS3RnWVpmUGFtVmlNaG1XVUY4STZrSWhncHd0ZVVKN3VURHEtcm11UmtWWUJuWWsyUmx1emNXNnVWNnBRTTdEZzZESVNlTVlwaHMwdTZMTWR5a09jV2l6TGkyVkQ2Rk4taTNwZEQ4MGhEbnIzQVR2SnhvX2hFbzc3dV9uSG9J?oc=5",
+      "snippet": "Alberta separatists' blueprint for independent nation draws scrutiny &nbsp;&nbsp; Calgary Herald 'Ridiculous, racist' remark leads to member’s exit from Alberta Prosperity Project ",
+      "pub": "Sun, 23 Aug 2026 00:47:15 GMT",
       "image": ""
     },
     {
@@ -112,14 +120,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQU9JN1FMNkhwdTZTV0p4X1cwa0s0UVpvR1l6UEFzYkh4clA1STd0UHNNX3R2eGpjWVBsdlpRVFh0MjZUUFFHQ3dHdDNEa3V5a21VZzNDeDQzVFR0YkV2eU4tNWprcWtKSnFoYVkyTUJLNC1rY2VFbDMtdG9FNkZwXy1sbWR6WUN0UkxXdS01bXRqNFRVM1Y2NWtrRFRZTHFhOGFFLTk2Z2lqYW8?oc=5",
       "snippet": "Heavy downpours, flood risk looming for N.S., southern N.B. &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
       "pub": "Fri, 21 Aug 2026 22:27:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "What independence would look like, according to Alberta Prosperity Project - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjJsaDdvZGZ5N19KamZRMWhYN2pqNmpYaGtoNHpObTlKc3pteDJqR0t6S3ZUeVFuWklTbG5tbUh0VkRTY0gtb1F3Z3VHWEpOWXlmSW9CdTc2TjN0ZmRUSHVkX2VDY0ZzMkhEOUR1al9iMlVxTXcyVWdYNUFlVUZ4UndfanZnaU1GblQyTkQtRE1WcDNHOEkxVzFHd2p2bHJUaU5iNDNoNDRFUkJBX3lkNjE4cw?oc=5",
-      "snippet": "What independence would look like, according to Alberta Prosperity Project &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Fri, 21 Aug 2026 23:21:42 GMT",
       "image": ""
     },
     {
