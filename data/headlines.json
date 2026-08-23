@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-23T12:20:49.522926+00:00",
+  "generated_at": "2026-08-23T13:08:13.078798+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Pasadena Elementary Set for New Classrooms, Kitchen and Pre-K Space",
+      "link": "https://vocm.com/2026/08/23/307865/",
+      "snippet": "The provincial government is calling for proposals to renovate and expand Pasadena Elementary School on the west coast. Some $16-million was included ...",
+      "pub": "Sun, 23 Aug 2026 12:57:21 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/pasadena-elementary.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Ukrainian Independence Day Celebration to be Held in Bannerman Park",
@@ -59,34 +67,18 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/img-5969.jpeg"
     },
     {
-      "source": "VOCM",
-      "title": "Several Vehicles Targeted in Grand Falls-Windsor Theft Spree",
-      "link": "https://vocm.com/2026/08/22/307801/",
-      "snippet": "RCMP are looking for electronic footage after several vehicles in Grand Falls-Windsor were broken into on Thursday and Friday. The vehicles were parke...",
-      "pub": "Sat, 22 Aug 2026 19:42:12 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzBpSF8weUI2bUNJSmhSS0lHMUlHVFpDQWRGYkpLLW1HVDVRWnNVY2kxSHlsQTdlVUx4MGJ6VnFHVlpIbnZiajNTQndfNlJGS2N1RVRSVWhGQXNDYlRqUlJDak44VkVPUFZnS19QdEZMYXd6cTM4RTRoZEVtQXRPQjl3S0szczZxT1FQOWFNU1BYLTBPbG5oRGpjNjRaUnhVQ3RyWm11U001eTBVaE1Jajh3ZEF1b00?oc=5",
-      "snippet": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war &nbsp;&nbsp; The Guardian What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items. ",
+      "snippet": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war &nbsp;&nbsp; The Guardian From business leaders to sports fans, Canada responds to trade war escalation ",
       "pub": "Sun, 23 Aug 2026 11:17:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Opinion: No deal was better than this deal. Mark Carney was right to call Donald Trump’s bluff - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR0xtN3dybFI5TXFyeEFFNWVyclFObGVhOHlib0Rfb0ZsX25HMnhRNUp5WEwyNGgwaGlKdGt3UWNyQmttTWl2UXZkR1dnNmU3TjNHU28ySzlLUldzX19wdWNIX2JMZXR4aEhSbFFSdS1VdDdaa0l2WHpwMTJrRlJqanZueXBBNzlCZU9Ud1I1Q2I4S3Zqd0Z0Y21PMHo0NmNZd0x6VlRNeUl1eEROY0NPV01HbVNmLVFUQjgtSlJnczRlRDlDcmJ1bEw0aw?oc=5",
-      "snippet": "Opinion: No deal was better than this deal. Mark Carney was right to call Donald Trump’s bluff &nbsp;&nbsp; The Globe and Mail Mark Carney has cemented his post as leader of the an",
-      "pub": "Sun, 23 Aug 2026 10:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Toronto, parts of GTA under yellow warning due to severe thunderstorm - CP24",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0dqYnJSQ2ZraG1ta1Z1OVBvaWlhU2lLNTNWMTlmSDdRWE5vNWlXQU1rZXd5SzdvazhBVlJmbEFoU1VmelhaZDZTMHdLN3Rpb0Q1LXAyTG5NQzBGcm1od3VOaVp0dXRGLXAzSDBqMEpzLTlRMkpJRVFoZmdXdDJkTzN6ZjNRQ0RiYnpwMm5Tbml0eUhua0JnNzFYOFhzNWVyT2VjckRnSC1rUjB6bkZfTTJ3RnBGUQ?oc=5",
-      "snippet": "Toronto, parts of GTA under yellow warning due to severe thunderstorm &nbsp;&nbsp; CP24 Yellow warning ends, but Toronto remains under special weather statement &nbsp;&nbsp; CP24 W",
+      "snippet": "Toronto, parts of GTA under yellow warning due to severe thunderstorm &nbsp;&nbsp; CP24 Weekend wallop: Toronto under special weather statement for heavy rain with possible thunder",
       "pub": "Sat, 22 Aug 2026 23:01:55 GMT",
       "image": ""
     },
@@ -116,10 +108,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Eby says U.S. alcohol will stay off B.C. shelves amid tariffs - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV29yYWR3blVWNUs2Y2FSVlJLZEJ3aDJCLVFxQ2VDMzllZDJTS3gwOTY2MnZPbGtyc2lHTjVibGJFN1JJRkpQbmlGWXh4WE5wNm1GVHNHbXNwcGhIbENLN0RIdWdQOGt4WVV6RG1vZGtPWUpQUFJOcmMtTGtmWDZNbjRQRFdiUUtBM0NscTBXa2hZYml1YmhRdFBMT0ZHWkVu?oc=5",
-      "snippet": "Eby says U.S. alcohol will stay off B.C. shelves amid tariffs &nbsp;&nbsp; Castanet Cracks in Team Canada as some premiers openly question booze boycott strategy &nbsp;&nbsp; The G",
-      "pub": "Sat, 22 Aug 2026 23:11:00 GMT",
+      "title": "Here are six Canadian wines to drink instead of U.S. labels - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkN4dG1naTYtZ3ZCeFVyQ29sUkJwdTlxNG1MNWl3eWlyYllUS3p2NDZfOExYOG95RWpKbEwyc25aZWhndS1ZN1Z4RlQ4OFBZaVNhMXRGYWNkcm1VUk9majQ3WERRQnVEQmRTcEtNXy1rMzdiZy1FNV9kTEI2TjlTMUxudWtKX0g4V3lFSGhvZXQ5UGtOZGNLclJlekE5aUM4Ul9HYk9CRGlSR3M0bFNNZ1FmTC1ZQ2xRbkJtUURCeUQyQQ?oc=5",
+      "snippet": "Here are six Canadian wines to drink instead of U.S. labels &nbsp;&nbsp; The Globe and Mail Cracks in Team Canada as some premiers openly question booze boycott strategy &nbsp;&nbs",
+      "pub": "Fri, 21 Aug 2026 20:46:08 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Marco Mendicino: Why Mark Carney was right to draw a line in the sand - CP24",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMlhVSUFmcTBwMFE2VHVTRmt6WXdpQlduVUlFQXZCOVNxZ1R0Q0MydklUMmJKQmlRZ2NjN1QyRE9NZ1ZlQ0poQlV5MmhlWHRoVjZrY1gwLVdzREFJX0pjem5fQ1hTdXRIUDdvd3h6Z05BVUlzejJCTUc5V2hYOWF5WDU5REoteGJ0U3pSeWpDM0tZeW1tUTBoNWhaRXZCVjV5bk9rUElnZERuWm5fQlNnc2RxMA?oc=5",
+      "snippet": "Marco Mendicino: Why Mark Carney was right to draw a line in the sand &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
+      "pub": "Sun, 23 Aug 2026 10:00:01 GMT",
       "image": ""
     },
     {
