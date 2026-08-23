@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-23T18:54:23.280826+00:00",
+  "generated_at": "2026-08-23T19:15:37.114396+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Labrador City Can’t Grow Without Provincial Investment, Mayor Says",
+      "link": "https://vocm.com/2026/08/23/307846/",
+      "snippet": "The mayor of Labrador City says his community will need more funding and resources if government plans to attract more industry under a deal on hydro ...",
+      "pub": "Sun, 23 Aug 2026 19:06:39 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/02/jordan-brown.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Come by Chance Health Clinic Relocating to Arnold’s Cove",
@@ -59,19 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/premier-tony-wakeham-prime-minister-mark-carney-shaking-hands-churchill-falls-announcement.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Premier Considers Gaining Access to U.S. Energy Markets a ‘Major Victory’",
-      "link": "https://vocm.com/2026/08/23/307843/",
-      "snippet": "Premier Tony Wakeham admits there is a cost to NL gaining access to U.S. energy markets, but he considers gaining that access - which had previously b...",
-      "pub": "Sun, 23 Aug 2026 09:03:56 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/wakeham-at-the-airport.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzBpSF8weUI2bUNJSmhSS0lHMUlHVFpDQWRGYkpLLW1HVDVRWnNVY2kxSHlsQTdlVUx4MGJ6VnFHVlpIbnZiajNTQndfNlJGS2N1RVRSVWhGQXNDYlRqUlJDak44VkVPUFZnS19QdEZMYXd6cTM4RTRoZEVtQXRPQjl3S0szczZxT1FQOWFNU1BYLTBPbG5oRGpjNjRaUnhVQ3RyWm11U001eTBVaE1Jajh3ZEF1b00?oc=5",
-      "snippet": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war &nbsp;&nbsp; The Guardian Trump says Canada 'wants the benefits' of being a U.S. state 'without being on",
+      "snippet": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war &nbsp;&nbsp; The Guardian Tom Mulcair: Can Carney and Trump salvage a deal? &nbsp;&nbsp; CTV News Amid ‘",
       "pub": "Sun, 23 Aug 2026 17:25:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Special weather statement says up to 40 mm possible across Toronto, GTA - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVTF6ajI5YS1yOEtjLWdhTE1LWmNhOFFSZnRNTlNoWnFvQUc0QUg0bTN1ajUtWFJIWGc1cFlEUTZ0eWlIWW1kRjdoXzdfeE80SnJ3a0lMaWhWSXRLaE1WU1hXNUhNSGhxazluVVp1NEZ5V2xlTERTODVMcWN1Tjh4OEFDcjN6Y2FGYXVTOXZuVlJta0FmTkMyTmVDN1pER2dQYkYxVXB2SU1JbkVablNz?oc=5",
+      "snippet": "Special weather statement says up to 40 mm possible across Toronto, GTA &nbsp;&nbsp; CityNews Toronto UPDATE: Between 75 to 150 mm of rain now forecast for Sudbury area &nbsp;&nbsp",
+      "pub": "Sun, 23 Aug 2026 15:40:00 GMT",
       "image": ""
     },
     {
@@ -92,14 +100,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Toronto, parts of GTA under yellow warning due to severe thunderstorm - CP24",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0dqYnJSQ2ZraG1ta1Z1OVBvaWlhU2lLNTNWMTlmSDdRWE5vNWlXQU1rZXd5SzdvazhBVlJmbEFoU1VmelhaZDZTMHdLN3Rpb0Q1LXAyTG5NQzBGcm1od3VOaVp0dXRGLXAzSDBqMEpzLTlRMkpJRVFoZmdXdDJkTzN6ZjNRQ0RiYnpwMm5Tbml0eUhua0JnNzFYOFhzNWVyT2VjckRnSC1rUjB6bkZfTTJ3RnBGUQ?oc=5",
-      "snippet": "Toronto, parts of GTA under yellow warning due to severe thunderstorm &nbsp;&nbsp; CP24 UPDATE: Between 75 to 150 mm of rain now forecast for Sudbury area &nbsp;&nbsp; Sudbury News",
-      "pub": "Sat, 22 Aug 2026 23:01:55 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Heavy downpours, flood risk looming for N.S., southern N.B. - CBC",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQU9JN1FMNkhwdTZTV0p4X1cwa0s0UVpvR1l6UEFzYkh4clA1STd0UHNNX3R2eGpjWVBsdlpRVFh0MjZUUFFHQ3dHdDNEa3V5a21VZzNDeDQzVFR0YkV2eU4tNWprcWtKSnFoYVkyTUJLNC1rY2VFbDMtdG9FNkZwXy1sbWR6WUN0UkxXdS01bXRqNFRVM1Y2NWtrRFRZTHFhOGFFLTk2Z2lqYW8?oc=5",
       "snippet": "Heavy downpours, flood risk looming for N.S., southern N.B. &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
@@ -108,10 +108,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Will businesses pass along the extra tariff costs to consumers? Here’s what experts say. - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU3ZfUWFCOWJYUDRqa1lSRjFJMThyREluMDJGZVQzeS1qNnNnNWNuc1gtV056S1lyRzU3WHNwVUhfQlBuSE02VEstdURWRGFfbzJydGl6Y3RGQWhRbTJxX1dLc1RsUnRxRDNuVkc3SmE4TVI0RVpUR040SjdRcHRhcnk1bThXdzFaTXBFU29HUk42VnhpU1I4MHpZRjBONjByMkFySWVZelJKNkREV05pY2FRQnlTTXdxbkxCZmVIZ0tYUGtDay1VMHU3UmtiRFZ2OElBSQ?oc=5",
-      "snippet": "Will businesses pass along the extra tariff costs to consumers? Here’s what experts say. &nbsp;&nbsp; CTV News Could Canada fully supply the U.S. with aluminium? &nbsp;&nbsp; Inves",
-      "pub": "Sun, 23 Aug 2026 16:07:23 GMT",
+      "title": "Trump administration latest: IndyCars race through the capital for Freedom 250 event - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWnhsTnl0ODN1bUQ2c1c0X1pYOXV2THZSOF8yWHhsT21kYzZ5dmVfeTdfVW9PRVZZcktfWGNObS1KUnJCcG5sR041Zld5RnNqMHB1SWFoYXRFS1IzQXFVSlBSRnczcm1zak9ENGpmR2dpUlBwM0hCaDVGZVgwQkxiOE1mcVJ5MHhQTW1vSGdVMmg?oc=5",
+      "snippet": "Trump administration latest: IndyCars race through the capital for Freedom 250 event &nbsp;&nbsp; CNN Trump arrives at high-speed IndyCar race through Washington's streets &nbsp;&n",
+      "pub": "Sun, 23 Aug 2026 18:21:00 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Eby says U.S. alcohol will stay off B.C. shelves amid tariffs - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV29yYWR3blVWNUs2Y2FSVlJLZEJ3aDJCLVFxQ2VDMzllZDJTS3gwOTY2MnZPbGtyc2lHTjVibGJFN1JJRkpQbmlGWXh4WE5wNm1GVHNHbXNwcGhIbENLN0RIdWdQOGt4WVV6RG1vZGtPWUpQUFJOcmMtTGtmWDZNbjRQRFdiUUtBM0NscTBXa2hZYml1YmhRdFBMT0ZHWkVu?oc=5",
-      "snippet": "Eby says U.S. alcohol will stay off B.C. shelves amid tariffs &nbsp;&nbsp; Castanet Kinew stands with Carney, vows to fight back against Trump’s tariffs &nbsp;&nbsp; CTV News Crack",
-      "pub": "Sat, 22 Aug 2026 23:11:00 GMT",
+      "title": "Treaty 6 celebration draws in thousands of attendees - paNOW",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2ZxS0R6RmlCU0hkaG81NUZXSjFNcU04S1J1elByYmtIWlkzdUZBUEtXTmtzWld2ZnF3R1cxSkdTNEJVXzA1YkJnNnlPc29UNG0zM2V1ZGUtbDA3Z05PenpZamlTNG5RV1JFNUlqZmQ2YTJiZ0R4RFZBakI1Z2loZnZsdlBnY3EzR3c?oc=5",
+      "snippet": "Treaty 6 celebration draws in thousands of attendees &nbsp;&nbsp; paNOW 150th anniversary of Treaty 6 to be commemorated &nbsp;&nbsp; Global News ‘Very powerful moment’: Original T",
+      "pub": "Sun, 23 Aug 2026 01:22:54 GMT",
       "image": ""
     }
   ],
