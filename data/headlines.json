@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-08-24T08:09:58.363278+00:00",
+  "generated_at": "2026-08-24T09:11:03.681419+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Wakeham and Parrott in Norway for Oil Show",
+      "link": "https://vocm.com/2026/08/24/wakeham-and-parrott-in-norway-for-oil-show/",
+      "snippet": "The Premier and his energy minister are in Norway this week for an oil show. The Offshore Northern Seas Conference in Stavanger drives conversations a...",
+      "pub": "Mon, 24 Aug 2026 08:58:49 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/lloyd-and-tony-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Matching U.S. Tariffs Necessary but May Cost Canadians More: PM",
+      "link": "https://vocm.com/2026/08/24/matching-u-s-tariffs-necessary-but-may-cost-canadians-more-pm/",
+      "snippet": "The Prime Minister admits that meeting American tariffs dollar-for-dollar will raise costs for consumers, but action had to be taken. The U.S. imposed...",
+      "pub": "Mon, 24 Aug 2026 08:43:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/carney-trade-deal-announcement-3.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Town of Paradise Anxiously Awaiting Results of Traffic Study",
+      "link": "https://vocm.com/2026/08/24/town-of-paradise-anxiously-awaiting-results-of-traffic-study/",
+      "snippet": "Gridlock is a frequent reality in parts of Paradise as a busy and growing suburb of St. John's, but the town is hoping to find the means to loosen up ...",
+      "pub": "Mon, 24 Aug 2026 08:36:32 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/town-of-paradise-mayor-patrick-martin.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Delta Flight Makes Emergency Landing at YYT",
+      "link": "https://vocm.com/2026/08/24/delta-flight-makes-emergency-landing-at-yyt/",
+      "snippet": "A couple hundred Delta Air Lines passengers had an unexpected layover in St. John's last night. The flight, en route to Rome from JFK, declared an eme...",
+      "pub": "Mon, 24 Aug 2026 08:31:10 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/airport-arrivals.png"
+    },
     {
       "source": "VOCM",
       "title": "August 24, 2026 –  Do you support Ottawa’s decision to meet U.S. tariffs dollar-for-dollar even if it means increasing costs and reducing choice for Canadians?",
@@ -35,43 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/02/battle-harbour-labrador-boat-harbour-ocean.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Labrador City Can’t Grow Without Provincial Investment, Mayor Says",
-      "link": "https://vocm.com/2026/08/23/307846/",
-      "snippet": "The mayor of Labrador City says his community will need more funding and resources if government plans to attract more industry under a deal on hydro ...",
-      "pub": "Sun, 23 Aug 2026 19:06:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/02/jordan-brown.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Come by Chance Health Clinic Relocating to Arnold’s Cove",
-      "link": "https://vocm.com/2026/08/23/come-by-chance-health-clinic-relocating-to-arnolds-cove/",
-      "snippet": "The public health clinic in Come by Chance is going to relocate to nearby Arnold's Cove tomorrow. NL Health Services says the district clinic will mov...",
-      "pub": "Sun, 23 Aug 2026 17:09:06 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/come-by-chance.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Premier Does More Shuffling At the Top",
-      "link": "https://vocm.com/2026/08/23/premier-does-more-shuffling-at-the-top/",
-      "snippet": "Premier Tony Wakeham continues to shuffle around senior positions in the civil service. Craig Davis has been appointed as the deputy minister of the D...",
-      "pub": "Sun, 23 Aug 2026 15:28:04 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/premier-tony-wakeham-pei-premiers-meeting.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Pasadena Elementary Set for New Classrooms, Kitchen and Pre-K Space",
-      "link": "https://vocm.com/2026/08/23/307865/",
-      "snippet": "The provincial government is calling for proposals to renovate and expand Pasadena Elementary School on the west coast. Some $16-million was included ...",
-      "pub": "Sun, 23 Aug 2026 12:57:21 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/pasadena-elementary.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Canada Sees Long Trade War With US That May Last Beyond Midterms - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb25wTkZ2N3FmdGNyQl9uWkdtWW54WTVmNEpMUjJDSWRsbm53c2JEVVNEQmdqd1l1RVQ5cFdnMUNkSE10emxWVTdGTkJvRndnb3BwaDNaVWtCYUJSMDlFOEJHSFVPQ2Y2QjhvQURLX1ZMbG1VZEFrQkVQSHdpUzE1REgzYm5HWE40bmY1Q3Uxeml6dkJDeGNVNm1Db3dlcjI0WDczQU9Gek9VTGpMTmdxcVg1TzFlZw?oc=5",
-      "snippet": "Canada Sees Long Trade War With US That May Last Beyond Midterms &nbsp;&nbsp; Bloomberg.com ‘We can’t run our businesses’: Canadian companies react to U.S. tariffs &nbsp;&nbsp; Glo",
-      "pub": "Sun, 23 Aug 2026 23:59:52 GMT",
+      "title": "Canada Rejected US Tariff Deal. Now Comes the Economic Cost - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVFBQ3R0WHZJV2xnd0I4RVIxUjdNS2hoVGRaZUpPaW5OcFdFVEloM0JoT1RqMzZmMUxHT1RKcnA4LUxQTmgyMy1YR09zVHBGTDMzbEhjdjFpRENjYzFnOXp5N2VqMzFvclRDdl9MTTVqRnpFUnJ2c203NzUwUDBqUlY1djFqbzZucnpGZmg4aUk4VlF5cTZnaXpMMlZMYUJYdm9UNVBuZnk2MnlORlF4Vk5GelY?oc=5",
+      "snippet": "Canada Rejected US Tariff Deal. Now Comes the Economic Cost &nbsp;&nbsp; Bloomberg ‘We can’t run our businesses’: Canadian companies react to U.S. tariffs &nbsp;&nbsp; Global News ",
+      "pub": "Mon, 24 Aug 2026 05:49:00 GMT",
       "image": ""
     },
     {
@@ -108,10 +108,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Fort Smith shooting suspect in custody, police say - Cabin Radio",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVUZZX3c4QU14RWsxTnVkM0U0QUlXMTFmbVdqVDlySXI3cHZ2Vi1RZDEyeTBTbFFlSjJHd0MxTFRzajlJNlRCZUVzU3RJdjVzLW8tdWZzSlpReDEzOERxYWkxU3pIdDJaeEpQaDM4dkd5UTVUbXQ2cGpDUjd4M1lSZzJfNG5YZlNqbXlEMm52WTNRMlRKc0dvY2FJRHY0OHI5cVhqZjlkNTgxeTNBWjJ0cm0xRS0?oc=5",
-      "snippet": "Fort Smith shooting suspect in custody, police say &nbsp;&nbsp; Cabin Radio Shelter in place lifted, 2 people arrested after shooting that injured 3 in Fort Smith, N.W.T. &nbsp;&nb",
-      "pub": "Sun, 23 Aug 2026 17:40:11 GMT",
+      "title": "Ottawa-area distillery looks east and west after Canada-U.S. trade talks collapse - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXBEa0MyUU40aUdjVU8xcEdFb1hJdjdIN2pmSmdrOU5XRUN1VkQ2TkxjZE8zUFNVQUEyS2N1YlA4c2V0OFZtSnNxdzNFVzJnV1hFM2hGSUdiMnl0aDZ4WE01TU1BZVhIMldiQ0RWVVRjeDJDRGRubXEwRlhITDkyRXZjTVdkeTd6eXpDT3R6U1JRSGJsbnV2NV8wUVlSSzlrTmU4Nk5CVWNzYVhTTVMwRHFaTFBXbTB2TGc?oc=5",
+      "snippet": "Ottawa-area distillery looks east and west after Canada-U.S. trade talks collapse &nbsp;&nbsp; CTV News Ontario Premier Doug Ford silent on request to restock American alcohol &nbs",
+      "pub": "Sat, 22 Aug 2026 20:45:04 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "The Ambassador Bridge's monopoly was ending. What its owner wanted from Ottawa is largely a secret - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWZVODkxVWtyVHZxTUNaTFgzVVJhbWhCVkkxazJ6eEp3aS0yR3BYZzB3dzNNUG1OclYzM09KWjN6TkR3dE9NM2E5VGxYQVdLQV8ydGFvbm4wV2M3R0o3cmJFcVgzcUJIcEZQY2NpWUo5aE1yN3RUZFVQbmFIZDhaYUZid0hmQ0FXUndaMTd2amd1b3U4bmxtWlV5b3IyYk83X0Fn?oc=5",
+      "snippet": "The Ambassador Bridge's monopoly was ending. What its owner wanted from Ottawa is largely a secret &nbsp;&nbsp; CBC",
+      "pub": "Mon, 24 Aug 2026 08:00:00 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcW5ra2pXdzRRUy1VSE0xaXRIMU03SGRhSTMzajFWenpWU2k0bGx3VTJGM0Y2c2FrNFU4ZVp5UjFyRV9LNWtwSHkxWXpWNnhOc0FCRXFVYm9hU2hLcFdDVFlQTUY1MDhKM3RyR21kZzNuVlNZZFlMSnJsQUpxWkpqcHk0Z1FPV0JURzZSY2pCenJmTFJ0dktnZUQ0LVo?oc=5",
       "snippet": "‘Twin’ nurses help Barrie twin girls in lengthy rehab &nbsp;&nbsp; CP24",
       "pub": "Sun, 23 Aug 2026 18:56:18 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Treaty 6 celebration draws in thousands of attendees - paNOW",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2ZxS0R6RmlCU0hkaG81NUZXSjFNcU04S1J1elByYmtIWlkzdUZBUEtXTmtzWld2ZnF3R1cxSkdTNEJVXzA1YkJnNnlPc29UNG0zM2V1ZGUtbDA3Z05PenpZamlTNG5RV1JFNUlqZmQ2YTJiZ0R4RFZBakI1Z2loZnZsdlBnY3EzR3c?oc=5",
-      "snippet": "Treaty 6 celebration draws in thousands of attendees &nbsp;&nbsp; paNOW 150th anniversary of Treaty 6 to be commemorated &nbsp;&nbsp; Global News ‘Very powerful moment’: Original T",
-      "pub": "Sun, 23 Aug 2026 01:22:54 GMT",
       "image": ""
     }
   ],
