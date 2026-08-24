@@ -1,15 +1,7 @@
 {
-  "generated_at": "2026-08-24T06:00:12.345988+00:00",
+  "generated_at": "2026-08-24T07:06:39.236412+00:00",
   "count": 16,
   "items": [
-    {
-      "source": "VOCM",
-      "title": "Question of the Day – Do you support Ottawa’s decision to meet U.S. tariffs dollar-for-dollar even if it means increasing costs and reducing choice for Canadians?",
-      "link": "https://vocm.com/2026/08/24/question-of-the-day-do-you-support-ottawas-decision-to-meet-u-s-tariffs-dollar-for-dollar-even-if-it-means-increasing-costs-and-reducing-choice-for-canadians/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13345').",
-      "pub": "Mon, 24 Aug 2026 04:19:05 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/carney-trade-deal-announcement-2.jpg"
-    },
     {
       "source": "VOCM",
       "title": "Travel Delayed on Road to the Isles Due to Accident Near Moreton’s Harbour Turnoff",
@@ -67,11 +59,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/08/ukrainian-flag-raising-ukrainian-independence-day.jpg"
     },
     {
+      "source": "VOCM",
+      "title": "Woman Sleeps it off in the Lockup After Being Found Passed Out Downtown",
+      "link": "https://vocm.com/2026/08/23/woman-sleeps-it-off-in-the-lockup-after-being-found-passed-out-downtown/",
+      "snippet": "A woman will face the judge today after being found passed out in the downtown area of St. John's yesterday. Officers approached her at about 5:00 in ...",
+      "pub": "Sun, 23 Aug 2026 09:53:34 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc-police-buick.jpg"
+    },
+    {
       "source": "Google News Canada",
-      "title": "Canada Sees Long Trade War With US That May Last Beyond Midterms - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb25wTkZ2N3FmdGNyQl9uWkdtWW54WTVmNEpMUjJDSWRsbm53c2JEVVNEQmdqd1l1RVQ5cFdnMUNkSE10emxWVTdGTkJvRndnb3BwaDNaVWtCYUJSMDlFOEJHSFVPQ2Y2QjhvQURLX1ZMbG1VZEFrQkVQSHdpUzE1REgzYm5HWE40bmY1Q3Uxeml6dkJDeGNVNm1Db3dlcjI0WDczQU9Gek9VTGpMTmdxcVg1TzFlZw?oc=5",
-      "snippet": "Canada Sees Long Trade War With US That May Last Beyond Midterms &nbsp;&nbsp; Bloomberg Conservatives ask Carney to release U.S. trade offer details &nbsp;&nbsp; CTV News An Elbow ",
-      "pub": "Sun, 23 Aug 2026 23:59:52 GMT",
+      "title": "Canadians ready to go elbows up as they brace for trade war with U.S. - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNE9OUEdJdF9WUUZuMVlmTkhMN1ZEVWRHOER0cm5kNXd2UWN3MTJQOFhrMTl5aTA5am5HV0MxNkttTGlSTjNiYUVnTE5zRlRVVmZKT3hRYkNITW1nVzFoNmhtN2p3WGluVGZocDAtUzNKeW84REJBbWdPUHpnNVhaUXVnM0FzQ1NibnZsN1RWVW8yVkJSaWZwYnlQaTdKQjBsbkg0UXRXanFJQWNwWE1LNWtFcVpaZw?oc=5",
+      "snippet": "Canadians ready to go elbows up as they brace for trade war with U.S. &nbsp;&nbsp; The Globe and Mail Conservatives ask Carney to release U.S. trade offer details &nbsp;&nbsp; CTV ",
+      "pub": "Mon, 24 Aug 2026 00:18:28 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "French-language, Quebec culture, non-negotiable for Canada in trade talks - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3pCSkcwcmduQzJ2NW0xYVRzeWJLaUJKOERWVkplTDZBajF2X3VCYzY2NnVFOU85ZDMxVGlkZzBKZ3B1aWIwNmxkR04wVi1vRHg4NkVUSUZyalBDbXp5cVIxaFFfeDlZWmc5VUZ0Zm5vU3BjTkhNeHc4TzdTdFFTQzN6bVYwQkpwMng2dWVyLWRCSG5JWkgzamlKRkE4UWVFVXB1LTdaQVNnbG5TSTRndkp3?oc=5",
+      "snippet": "French-language, Quebec culture, non-negotiable for Canada in trade talks &nbsp;&nbsp; CTV News Ottawa rejected last-minute U.S. demand to drop Cancon rules for streamers &nbsp;&nb",
+      "pub": "Sun, 23 Aug 2026 19:55:19 GMT",
       "image": ""
     },
     {
@@ -84,22 +92,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Ottawa rejected last-minute U.S. demand to drop Cancon rules for streamers - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVW9RM2ZtTTMwRlgwdE5mRmQ1YmpvLU14ZzlVY1dkczFoLVRYY2hCOV96cERHOFBNdmdCU1BqRjgtYU94NGo1SGd0NlgzNGlzdTJRVDlNMFF6YnhuNGJyVkprMjRWTFJqMWREMUN1eDQ2emZQZ0tCWXhJcy13NkFrYWE0VDBfLUJxRzNWdThkMk5QX2lqRDFiSktzRDRJUmIxODN5VGV5cXlRUQ?oc=5",
-      "snippet": "Ottawa rejected last-minute U.S. demand to drop Cancon rules for streamers &nbsp;&nbsp; The Globe and Mail French-language, Quebec culture, non-negotiable for Canada in trade talks",
-      "pub": "Sun, 23 Aug 2026 23:42:03 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONlFGSWJ4Vkp6akJQYlVjQ0p2SUNsdFJudG1WNF9Va0FxajB0NHotMTBWVC0wMFNMTXE3QjNzUEdZdHAyRmE4bWRWTEhyN25PYmpOUHJPb1ZFQWtabEhLbzdvVGIzbWc4NHpXeFdxX3BNNXVTWkZLcms1bnI0ZmNVVTFSZGJfbmxERUN3RGl3T19qV1M1aEFmRm5ma9IBoAFBVV95cUxQSFctdWdZZTgxblpXNGw5TFVtNGxEdE9ETG80YmUyR2UwX3NWdXpNNlhUZzVLVUJYa1l4dFV4Zml0YWVoVEtKX21GNWlfSGJuWG5ad1pDejFKdUNYT1VHYkpQS1JFd1NPTEFvTTR3cktuaUVTNGJkZlNSVEtWTHlJVno4cDBzQzVseUg0ZUtTWUtDeEtuOG9rQTNvLUtKZmt6?oc=5",
-      "snippet": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat &nbsp;&nbsp; CNBC Scott Bessent: an economic D-Day is coming for Iran &nbsp;&nbsp; Financi",
-      "pub": "Sun, 23 Aug 2026 21:45:27 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "B.C. storm causes new wildfires, airport delays after more than 7K lightning strikes - Global News",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EcndJQjJ2c1pYc016R0J3VDUwdHZMcnB2SFhKdl9KdzFnWTdlblU1d1NWQmZSRDRObW9VdGM3QkNFVUpaenJDRVctNHM2ZjR6aWE3V3l0MFlEUzNpVWZfNHFFNjU0UEs1dGpxS0dzemkxNmtRVl9ldUhkNkw?oc=5",
       "snippet": "B.C. storm causes new wildfires, airport delays after more than 7K lightning strikes &nbsp;&nbsp; Global News 'Quite the system': Rare thunderstorm wows southern B.C., causing havo",
@@ -108,26 +100,34 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Fort Smith shooting suspect in custody, police say - Cabin Radio",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVUZZX3c4QU14RWsxTnVkM0U0QUlXMTFmbVdqVDlySXI3cHZ2Vi1RZDEyeTBTbFFlSjJHd0MxTFRzajlJNlRCZUVzU3RJdjVzLW8tdWZzSlpReDEzOERxYWkxU3pIdDJaeEpQaDM4dkd5UTVUbXQ2cGpDUjd4M1lSZzJfNG5YZlNqbXlEMm52WTNRMlRKc0dvY2FJRHY0OHI5cVhqZjlkNTgxeTNBWjJ0cm0xRS0?oc=5",
-      "snippet": "Fort Smith shooting suspect in custody, police say &nbsp;&nbsp; Cabin Radio Shelter in place lifted, 2 people arrested after shooting that injured 3 in Fort Smith, N.W.T. &nbsp;&nb",
-      "pub": "Sun, 23 Aug 2026 17:40:11 GMT",
+      "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONlFGSWJ4Vkp6akJQYlVjQ0p2SUNsdFJudG1WNF9Va0FxajB0NHotMTBWVC0wMFNMTXE3QjNzUEdZdHAyRmE4bWRWTEhyN25PYmpOUHJPb1ZFQWtabEhLbzdvVGIzbWc4NHpXeFdxX3BNNXVTWkZLcms1bnI0ZmNVVTFSZGJfbmxERUN3RGl3T19qV1M1aEFmRm5ma9IBoAFBVV95cUxQSFctdWdZZTgxblpXNGw5TFVtNGxEdE9ETG80YmUyR2UwX3NWdXpNNlhUZzVLVUJYa1l4dFV4Zml0YWVoVEtKX21GNWlfSGJuWG5ad1pDejFKdUNYT1VHYkpQS1JFd1NPTEFvTTR3cktuaUVTNGJkZlNSVEtWTHlJVno4cDBzQzVseUg0ZUtTWUtDeEtuOG9rQTNvLUtKZmt6?oc=5",
+      "snippet": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat &nbsp;&nbsp; CNBC Live updates: US set to unveil ‘economic D-Day’ sanctions on Iran &nbsp;",
+      "pub": "Sun, 23 Aug 2026 21:45:27 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Hypothermic hikers rescued from B.C. backcountry after severe thunderstorm - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2hmM0QxMHlpbzRsSWVjcGFNYTlwd0RSYVh2WUxqZzQ1V29weG51bEtzSm9WWDlkV3NTUkVYbUJFdGFqeWlZMDVHN3hzc3ZrY1NwVXlGTXNta2xxblFqNi1pS2dLMGdCVS1ZckVaSVVnY3lvLTZHU2VTMHl2ZVdzdGoyWm5lU3BfZlg1WERoR2lPWHMwZVRmVUg2aWN0bjYwaVVVdFJPVWx0NjFJdkxrMVZvRUYzYllV?oc=5",
-      "snippet": "Hypothermic hikers rescued from B.C. backcountry after severe thunderstorm &nbsp;&nbsp; CTV News",
-      "pub": "Sun, 23 Aug 2026 22:31:55 GMT",
+      "title": "Hundreds gather for funeral of correctional officer Nicolae Serban - Global News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHhZNE1JZVdqN19WV0Z1WFBOUUg1b2NraDEwQzZ0TTA0ckdTdTNGRDBmbndEQ2VIemF3a0s2ajFrbGV3Q24xLXlUU1JXV1RZS21OOHE3OEJBVkRrWkFmT2FJLXBmR1g3ZU5zSWtTWWV0WGxtM0RrNVhZWlpmOTF4OFAzMk5lMTQ?oc=5",
+      "snippet": "Hundreds gather for funeral of correctional officer Nicolae Serban &nbsp;&nbsp; Global News Regimental funerals held for correctional officers who died in crash &nbsp;&nbsp; CBC A ",
+      "pub": "Sun, 23 Aug 2026 22:50:22 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘Twin’ nurses help Barrie twin girls in lengthy rehab - CP24",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcW5ra2pXdzRRUy1VSE0xaXRIMU03SGRhSTMzajFWenpWU2k0bGx3VTJGM0Y2c2FrNFU4ZVp5UjFyRV9LNWtwSHkxWXpWNnhOc0FCRXFVYm9hU2hLcFdDVFlQTUY1MDhKM3RyR21kZzNuVlNZZFlMSnJsQUpxWkpqcHk0Z1FPV0JURzZSY2pCenJmTFJ0dktnZUQ0LVo?oc=5",
-      "snippet": "‘Twin’ nurses help Barrie twin girls in lengthy rehab &nbsp;&nbsp; CP24",
+      "title": "‘Twin’ nurses help Barrie twin girls in lengthy rehab - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlJxOWZnU2hHZXM5eUl5eDFsdmRtVkVvYVAwQ3ZJU21ZbkZLTHNYWE1wRG1neVo5cWxlTnJGX1A1dGhtMkxmd1YwX0R0Z0Z6VHBqSGZaSlpVTlViTDJyZWpSVVEzQW9lWjNQb0l2MlVUWmpaZ0JOVm8zSHRiTDN5Y3Y3NTZBU0pyVjhwU2wyQXpqS3dHcUFzd19rX1p0ZFE?oc=5",
+      "snippet": "‘Twin’ nurses help Barrie twin girls in lengthy rehab &nbsp;&nbsp; CTV News",
       "pub": "Sun, 23 Aug 2026 18:56:18 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Treaty 6 celebration draws in thousands of attendees - paNOW",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2ZxS0R6RmlCU0hkaG81NUZXSjFNcU04S1J1elByYmtIWlkzdUZBUEtXTmtzWld2ZnF3R1cxSkdTNEJVXzA1YkJnNnlPc29UNG0zM2V1ZGUtbDA3Z05PenpZamlTNG5RV1JFNUlqZmQ2YTJiZ0R4RFZBakI1Z2loZnZsdlBnY3EzR3c?oc=5",
+      "snippet": "Treaty 6 celebration draws in thousands of attendees &nbsp;&nbsp; paNOW 150th anniversary of Treaty 6 to be commemorated &nbsp;&nbsp; Global News ‘Very powerful moment’: Original T",
+      "pub": "Sun, 23 Aug 2026 01:22:54 GMT",
       "image": ""
     }
   ],
