@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-24T18:26:27.862010+00:00",
+  "generated_at": "2026-08-24T19:08:47.912877+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Bay Roberts Celebrates 75 Years by Honouring Town’s Mayors",
+      "link": "https://vocm.com/2026/08/24/307966/",
+      "snippet": "The town of Bay Roberts has planted nine trees at the town's community garden, in recognition of each of the mayors who have served the municipality s...",
+      "pub": "Mon, 24 Aug 2026 18:37:04 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/mayor-geoff-seymour-town-of-bay-roberts.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Marystown Canning Bridge Contract Awarded to Trident Construction",
@@ -28,7 +36,7 @@
     },
     {
       "source": "VOCM",
-      "title": "NLC to Continue Selling Existing US Alcohol, But Won’t Reorder",
+      "title": "Old Stock to Remain on Shelves, but NLC Won’t Reorder American Product Following Trade Talks Breakdown",
       "link": "https://vocm.com/2026/08/24/307936/",
       "snippet": "The Newfoundland and Labrador Liquor Corporation will not be ordering more American liquor following the breakdown of Canada-U.S. trade talks over the...",
       "pub": "Mon, 24 Aug 2026 17:03:02 +0000",
@@ -44,7 +52,7 @@
     },
     {
       "source": "VOCM",
-      "title": "Placentia Cable Office Recognized for Historical Role by Heritage NL",
+      "title": "Placentia Cable Office Recognized by Heritage NL",
       "link": "https://vocm.com/2026/08/24/307930/",
       "snippet": "A Placentia landmark that played a vital role in transatlantic communications during the late 19th and early 20th centuries has been recognized with a...",
       "pub": "Mon, 24 Aug 2026 16:13:55 +0000",
@@ -59,18 +67,10 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/trump.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Business Community Welcomes Push to Cut Red Tape",
-      "link": "https://vocm.com/2026/08/24/307926/",
-      "snippet": "The expansion of \"red tape\" reduction efforts to a specific entity within cabinet responsibilities is getting full marks from the business community. ...",
-      "pub": "Mon, 24 Aug 2026 15:14:42 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/11/jonathan-galgay.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Ontario's premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen - AP News",
+      "title": "Carney says Trump’s demands would dismantle Canadian auto industry as Ford warns US could be cut off - AP News",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
-      "snippet": "Ontario's premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen &nbsp;&nbsp; AP News Vance sends message to PM as Carney says he had to walk aw",
+      "snippet": "Carney says Trump’s demands would dismantle Canadian auto industry as Ford warns US could be cut off &nbsp;&nbsp; AP News See more headlines & perspectives on Google News",
       "pub": "Mon, 24 Aug 2026 18:15:00 GMT",
       "image": ""
     },
@@ -84,18 +84,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVZFT0QzeHhsdVV3NzUtWURkN3VCR3pYT2dzeXNET1pyU3pfQzFCeEpBVnM1UjZjbkViMW9RTV9MWEYweGl2NEJBMzMtNTdtREVpLVQwTDNVd3hGZExndVBTd1B1a3VUQUFrN2VyYVRobVVZZmpHVGh6ZE5pdjc5d2ZOMTZkTGVaT1drcGE2b00yU2ZpWGQ3VHdfSUxveTEzUW16UUtwOC1PS2PSAbABQVVfeXFMT3lRWkVkN3hIQWJLYXFDUmpDVVpUV1JGR3R4WHlSZlRCWGJycDVWaTc5ZmNwVmN1Nzkzbk96S1hyWlBwU0xWM0N3VU4ydGJNMHRkblJTSVB4WERBMnRJWUgxSUxJRjB3SlNsV1VhX1ZDVi1MUFo2SGpkdF9OM1pEVjZqei00RVhKRVkyYTFBa3RQOVI0SXFrdTVFamwtRENiSi1uU2Jhci12aFVrUHNYNkg?oc=5",
-      "snippet": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente &nbsp;&nbsp; Al Jazeera Bessent threatens new Iran secondary sanctions, says Trump asking world leaders to cooper",
-      "pub": "Mon, 24 Aug 2026 09:26:37 GMT",
+      "title": "Trump administration announces ‘economic D-day’ sanctions on Iran - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHhONldpOG9TMnN4R3U3cTh2M1VNQThQa3hfaGpOaXFLQ3RQbWNNcVhYRHhoZDFhQ1VUR1JKUTNoaWhTS1VjOW9hX2ptcUxZWUx3alM3azk4SmpEejJaNkFEaDBjczdmU28tNDY3SFV5TGM4M0lvaENESVhWd3BUM3BucnJhZHc5UE1UNlZGdHF5amxhREpwdDdybFQ2QUF30gGmAUFVX3lxTFB1TUxBVTlRRDhKVHp2TnhsOFQ1TG45YS1fNWxBTmtHZzhqRmlMSXBTQWNHRVpMOWhaWm9VdmdNWnY0Zm9VYzBaankzYWNQaHU3anplU3JTY00xQUJOY1JXVmdsRmh6T2xROF8tMjE4QjhCVlZMWU4zZEx2ODFTLW1oT1V3NURDX3NiX0V0Q00wLUgtaklkSlNkdERiOWpVemZLak9WZlE?oc=5",
+      "snippet": "Trump administration announces ‘economic D-day’ sanctions on Iran &nbsp;&nbsp; Al Jazeera US treasury secretary announces ‘onslaught’ of sanctions to isolate Iran from world econom",
+      "pub": "Mon, 24 Aug 2026 17:43:55 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Evacuation alert issued due to wildfire in Lions Bay, B.C. - CTV News",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQk94cHA5M1lETmRHYmZBUmFPR0xPSDQtQ0ZKX2J0V1FzdFZnYThybS1CWWNVamhrdHVCMjkySVdJY2JOZHlxeEJ4NEE2Q1hqbXhHb1pKMkNrbERpQThCdlFkTE03Nm03WVpuMlo5ak9XVlh1UVZLbnZGUGk5Z05fOXo2SEs3dHRzcUY1UEttSlRTVF9waGRuUXgzVEI5Zw?oc=5",
-      "snippet": "Evacuation alert issued due to wildfire in Lions Bay, B.C. &nbsp;&nbsp; CTV News 'Quite the system': Rare thunderstorm wows southern B.C., causing havoc at Vancouver airport &nbsp;",
+      "snippet": "Evacuation alert issued due to wildfire in Lions Bay, B.C. &nbsp;&nbsp; CTV News Lightning sparks several new wildfires across Vancouver Island &nbsp;&nbsp; Times Colonist B.C. wil",
       "pub": "Mon, 24 Aug 2026 14:21:24 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Vance says trade negotiations with Canada are ongoing - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzVkcW1fd1lNblFKelRHZlA3NjJ6ZHVFcGVWM0tRY3lBckd0VmU3Q3ZLOFo1Q3p0dnhkZ0FMbnF2T294YUxweG5XQ0lBMzFaVE1WeDJLTEFmY2VCaDVLV2dxMUd1Zl9Jb3dyQldxYVRVbWdicGs0aU52X0V0cVNVT3pBa01KSVhtaWo3ZENFbW94ampqcVZqSzU5QWZMQjI5TC1vcFBDWjQwdw?oc=5",
+      "snippet": "Vance says trade negotiations with Canada are ongoing &nbsp;&nbsp; CTV News Vance tells audience at private event that Carney tried to 'out-tough' Trump on trade &nbsp;&nbsp; CBC J",
+      "pub": "Mon, 24 Aug 2026 16:59:56 GMT",
       "image": ""
     },
     {
@@ -108,26 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "No Tanks, No Troops—Ukraine Sends Its Robot Army Through Kyiv in World-First Drone Parade - UNITED24 Media",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOHo2RGFwc2pXZ3lZNm9lMVhoXy1GQlNyWjhTQnpyWkh1c0w4S1VBZHFySk1BcHJGWTBhWUE0a0dYb1RyRUdLbWpXYWxxdnJ0ZmFKTEZEc3d4LW9QWnpjNGx0cWlMY1VrXzlZNFJjY29vOWZQeTZHUkloOWx2azk5MlROOHlUaHJVOVNVVHNxU0VTNV9LU3ZMcWRxckdFc0xtTnpjREJBSTdzSnJvM21iUWFuWjJ0OENPRTBXU3F3ekhHTEhWcmFid0djSWUyQQ?oc=5",
-      "snippet": "No Tanks, No Troops—Ukraine Sends Its Robot Army Through Kyiv in World-First Drone Parade &nbsp;&nbsp; UNITED24 Media Ukraine’s Independence Day and a Tokyo heatwave: photos of the",
-      "pub": "Mon, 24 Aug 2026 13:27:51 GMT",
+      "title": "Delta South MLA Ian Paton steps down from B.C. Conservatives to sit as independent - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHlneC1wWFZieFpfZ3JJYlNLeXJnbGhDTGwtd1ZranllZHdKMHRyQkJsSE1ZSFcwdExBSjd4VGcwdjdnalBhYk82ZW9oWmRtTUJHWnc2US1qSC1vMldONlF6M3pOSjctZGoyX3JLdGQxU05KbUFkRzE5NUM2RnBXRG1QUjlVVGhsYW52TUVfY2FTU192WkR5NXpobw?oc=5",
+      "snippet": "Delta South MLA Ian Paton steps down from B.C. Conservatives to sit as independent &nbsp;&nbsp; Vancouver Sun Ian Paton leaves B.C. Conservative caucus, says he plans to form a new",
+      "pub": "Mon, 24 Aug 2026 18:33:45 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ian Paton leaves B.C. Conservative caucus, says he plans to form a new political party with Peter Milobar - CBC",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTHlNc3NPNmI2T2J3UW12U0JIVDhZVVA2RFRXMERURktnMmJ6c0Vnc2VnaHVMbXpfRThmQkg3NFRDLWhxdjFIN3ozNGQ3UGc3dmdlUE93Ym1NZi00eHZTUU9sdnQ5dkF1aEJZT051ME5sSEFhSGJCX2lRVGwtS3lXV0RJU0J0U3E3ZHdEYjFVeGd2UDM1YkM5NlNka3ZDVFh3cWxJNnpIMjhSOWliLXAwM1FFcGNwMW5tazFZVkh5Ukkxa1BUcGpYR3VZby15NmZT?oc=5",
-      "snippet": "Ian Paton leaves B.C. Conservative caucus, says he plans to form a new political party with Peter Milobar &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Mon, 24 Aug 2026 16:53:35 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Woman flagged by ID scanner as nationwide 'public safety concern' after incident in Winnipeg bar - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS3NHNDk1MUM1NDhOS2ppZDgzbFdpeFFSdFkzZmFjRHZRNVkySDB3UWFYcVVDR2gtUmpzak1CQ3Z1NDlkT0RacHNvUFRjZGdJUVo5MHZMekdTeFZyZUdfc1ByNVFmVXNmdnV5T3BPckJzd0dTMXBCSWJuUWowN2hVQWFNVm1JZmUzUnhyN2dlOA?oc=5",
-      "snippet": "Woman flagged by ID scanner as nationwide 'public safety concern' after incident in Winnipeg bar &nbsp;&nbsp; CBC",
-      "pub": "Mon, 24 Aug 2026 10:00:00 GMT",
+      "title": "Yellowknife woman spent thousands to travel south and learn she has a fatal disease - CBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00RXczTjVUNDBzVWxnOHRUTVBJbmR1ZXYwMWo1Q1V3LTlYc1hvNHlycVVkQ3F6M1E0UWZkRjFiQ2pDcXpGRzNmazJDelRPR0lDbEJqVUZ4Ml9ZcWtqOGlSeXZDUl8ycmFGUlFJd1E3MDV4cm1PaEduekcxazVkdw?oc=5",
+      "snippet": "Yellowknife woman spent thousands to travel south and learn she has a fatal disease &nbsp;&nbsp; CBC",
+      "pub": "Mon, 24 Aug 2026 11:00:00 GMT",
       "image": ""
     }
   ],
