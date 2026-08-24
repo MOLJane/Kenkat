@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-08-24T14:32:35.928962+00:00",
+  "generated_at": "2026-08-24T15:29:33.459699+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Business Community Welcomes Push to Cut Red Tape",
+      "link": "https://vocm.com/2026/08/24/307926/",
+      "snippet": "The expansion of \"red tape\" reduction efforts to a specific entity within cabinet responsibilities is getting full marks from the business community. ...",
+      "pub": "Mon, 24 Aug 2026 15:14:42 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/11/jonathan-galgay.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Clarenville RCMP Arrest ATV Driver for Flight from Police, Dangerous Driving",
+      "link": "https://vocm.com/2026/08/24/307960/",
+      "snippet": "A 20-year-old ATV driver has been charged after speeding away instead of stopping for police early Sunday morning. Clarenville RCMP say officers condu...",
+      "pub": "Mon, 24 Aug 2026 14:58:30 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/rcmp-royal-canadian-mounted-police-patch-stock-logo.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Crash Site Near Paddy’s Pond Released to RNC for Wreckage Recovery",
+      "link": "https://vocm.com/2026/08/24/307957/",
+      "snippet": "The Transportation Safety Board says the scene of a plane crash near Paddy's Pond on Saturday has been released to RNC for wreckage recovery. The two ...",
+      "pub": "Mon, 24 Aug 2026 14:53:39 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/police-line-do-not-cross.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "High-Speed Chase Ends in Foot Pursuit in Corner Brook",
+      "link": "https://vocm.com/2026/08/24/307954/",
+      "snippet": "The Royal Newfoundland Constabulary has arrested and charged a man after he was clocked at nearly double the speed limit on the TCH near Corner Brook....",
+      "pub": "Mon, 24 Aug 2026 14:44:13 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
+    },
     {
       "source": "VOCM",
       "title": "M5 Super Yacht Makes Waves in Trinity Following St. John’s Visit",
@@ -35,51 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/wakeham-at-the-airport-3.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Mechanical Aids No Longer Permitted in Recreational Scallop Fishery",
-      "link": "https://vocm.com/2026/08/24/mechanical-aids-no-longer-permitted-in-recreational-scallop-fishery/",
-      "snippet": "A group of people on the south coast who like to drag for scallops for recreational purposes are concerned over rules which they say is discriminatory...",
-      "pub": "Mon, 24 Aug 2026 10:11:32 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/ocean.webp"
-    },
-    {
-      "source": "VOCM",
-      "title": "Former PUB Chair Says New Churchill Falls Deal Does Not Provide Additional Capacity to Sell Power to U.S.",
-      "link": "https://vocm.com/2026/08/24/307901/",
-      "snippet": "The province is promoting Newfoundland and Labrador's ability - for the first time - to sell power directly to U.S. markets, but the former chair of t...",
-      "pub": "Mon, 24 Aug 2026 09:37:03 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/Transmission-Line-Muskrat-Falls-Churchill-Falls-Electricity-Power.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Chiropractor Emphasizes Importance of Choosing Proper Backpack to Avoid Stress and Strain on Body",
-      "link": "https://vocm.com/2026/08/24/chiropractor-emphasizes-importance-of-choosing-proper-backpack-to-avoid-stress-and-strain-on-body/",
-      "snippet": "The start of the new school year is only about two weeks' away and a local chiropractor is reminding parents to consider backpacks and the impact they...",
-      "pub": "Mon, 24 Aug 2026 09:17:55 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/09/back-to-school-child-book-bag-1.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Wakeham and Parrott in Norway for Oil Show",
-      "link": "https://vocm.com/2026/08/24/wakeham-and-parrott-in-norway-for-oil-show/",
-      "snippet": "The Premier and his energy minister are in Norway this week for an oil show. The Offshore Northern Seas Conference in Stavanger drives conversations a...",
-      "pub": "Mon, 24 Aug 2026 08:58:49 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/lloyd-and-tony-1.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more' - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EekJabXFaenV0eXFYMWRIM0dxbzMyTzBRMGN4Zzd1bUNQVlBiV3VMVTlfZkcxNEs2ZU95TTg5dEJzS3kxbTg1SnBNM1RKZWl2M18zRU5Ea0ljY0k5d0p6NnpJZ3NGNWVkZmRER3VWaE9EbXA1LXBvZdIBfkFVX3lxTE5NWEtlcWFWSVFxdEdXVzN3STVEOG90UWgtT0c0UTB5aFpJWnZ0SDR0NHNWMTFTbGlENlRrQlRMMmZOYjdYWmpzSm0xQU80T2w3RlZEamZ3SFJ3MFJidzl6ZTFSa3lYSzFhY0xLeC1YSUoxa2M1UjhiVV9YRmVCZw?oc=5",
-      "snippet": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more' &nbsp;&nbsp; CNBC Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates &nbsp;&",
-      "pub": "Mon, 24 Aug 2026 12:32:09 GMT",
+      "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NVnNJWGhDdTFvVFBMaGVjcldDel91bGg5eW1IdDNOOGJ0cWVnWVFTOWE0S3VHZlpjcWRIdW5lc1hCWEg5RGVMeXBBMDQ5aUpaR2xyRTZIVnAxUDJTdzJNWEkwd0drdjdiUk5TQmw5ejJFQTcyMjY0Wm9WRzjSAYIBQVVfeXFMUElPMnVlU3BVRGRvR19leEtvUzI0akZTdVRDb1VRY1NOcmQzMmVFdFNlUVZleU5LRDg0T01YRlM1djFUUmhPRTV1RjUwZlhWTV84UGFyVFl0bl9FQ1MzOHNEdUFEeHBTVzhwdEJUNTJKZlRaQzc2Q2tUSWhDR3NIVGFLdw?oc=5",
+      "snippet": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates &nbsp;&nbsp; CNBC Ford to speak in Hamilton amid Canada-U.S. trade war &nbsp;&nbsp; CBC Trump threatens ",
+      "pub": "Mon, 24 Aug 2026 13:52:06 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Quebec’s anglos, allophones overwhelmingly back Liberals, reject sovereignist parties, new poll finds - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTUh4Q19DcFM4aVhjbG5uekNtQnZoRnpSc2pFWG93ODdpSXlodmdxNEUxT3MzOHVQWE0xVXF0ekhaQThTVkdyU3dZWkdhR0x3d1h5MEdMX2c5NC12TktOMk5VenNJMEN2ejNqUGdhZ0xNMGZBam90MGZpSTdQVGVBUTU1V0wzVExZaUE0VUJla0k3T2c3OEF2MlNua1BrWWVOYWhQWmh4akJFQTlscS1YTk5BNmRWdnJ2SVJVdHlITWZsd3JGZ2FwLVZ5dmNGaW55a0E?oc=5",
-      "snippet": "Quebec’s anglos, allophones overwhelmingly back Liberals, reject sovereignist parties, new poll finds &nbsp;&nbsp; Montreal Gazette It's election season in Quebec. Let’s get you up",
+      "snippet": "Quebec’s anglos, allophones overwhelmingly back Liberals, reject sovereignist parties, new poll finds &nbsp;&nbsp; Montreal Gazette CAQ’s slogan during Quebec election campaign wil",
       "pub": "Mon, 24 Aug 2026 12:51:47 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVZFT0QzeHhsdVV3NzUtWURkN3VCR3pYT2dzeXNET1pyU3pfQzFCeEpBVnM1UjZjbkViMW9RTV9MWEYweGl2NEJBMzMtNTdtREVpLVQwTDNVd3hGZExndVBTd1B1a3VUQUFrN2VyYVRobVVZZmpHVGh6ZE5pdjc5d2ZOMTZkTGVaT1drcGE2b00yU2ZpWGQ3VHdfSUxveTEzUW16UUtwOC1PS2PSAbABQVVfeXFMT3lRWkVkN3hIQWJLYXFDUmpDVVpUV1JGR3R4WHlSZlRCWGJycDVWaTc5ZmNwVmN1Nzkzbk96S1hyWlBwU0xWM0N3VU4ydGJNMHRkblJTSVB4WERBMnRJWUgxSUxJRjB3SlNsV1VhX1ZDVi1MUFo2SGpkdF9OM1pEVjZqei00RVhKRVkyYTFBa3RQOVI0SXFrdTVFamwtRENiSi1uU2Jhci12aFVrUHNYNkg?oc=5",
+      "snippet": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente &nbsp;&nbsp; Al Jazeera Scott Bessent: an economic D-Day is coming for Iran &nbsp;&nbsp; Financial Times Iran Ple",
+      "pub": "Mon, 24 Aug 2026 09:26:37 GMT",
       "image": ""
     },
     {
@@ -92,18 +100,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "US threatens Iran with 'economic D-Day' as markets await sanctions announcement - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmU3c0hSVmI2U3RpdG94M3psRDZqdW9rRjQwU3paM3VWd0VTZUxoNE1QMkdoeU5IYVc4YmF2b1dHV0RpS3lHSHhVbFVUZ1M4cFpJOW9LTTFGS09TOWNVVmFEaFhDRFdUbzdVQUxoR0FsR0p4QWV6eTFOVVJEcm8tVXR6OW1qUzZpelhzVTBzeUdmbjNmZlNrYWtXaHZKS1JmRk01SjFXUmJhYkdObDFIQVdidjV5SzlIMkFJdy04cw?oc=5",
-      "snippet": "US threatens Iran with 'economic D-Day' as markets await sanctions announcement &nbsp;&nbsp; Euronews.com Scott Bessent: an economic D-Day is coming for Iran &nbsp;&nbsp; Financial",
-      "pub": "Mon, 24 Aug 2026 13:40:15 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Alberta separation threatening 150 years of Treaty 6 - Yahoo News Canada",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmZHeEY1Z3BmRFFGZkRQTEdkZmFQeXFKdGVjSElvLUw0Rkp3WFlKcDd3dG9OZlRPYi11eU15NlMyX2Q0MVZlSjFVVFNxYXI0NFl4VWJkM0JCYVFjNDN4Tlp4WnRGZEt1YTJRWlU1eVI3OW90V25oWG1RQ2xqc29fN0ZjRmV0MWxD?oc=5",
       "snippet": "Alberta separation threatening 150 years of Treaty 6 &nbsp;&nbsp; Yahoo News Canada Communities honour 150 years of Treaty 6 by spreading knowledge, stories and song &nbsp;&nbsp; C",
       "pub": "Mon, 24 Aug 2026 02:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Lightning storms spark more than 65 new wildfires across B.C. - CityNews Vancouver",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ubEkwZ3c5a0MxU0dpMXB4RE5ZejFMSFRBTXE1ak8xSTNOaGNxekdhdDY5UWxPLW9hMVdxMTBGRmgtQURwTEJlWmRMQm9UV3lERnZKWFRjb24xYmktSXRpWkFZOTZiWE9FNjlDR1Z3X3ltUlZUWkVWM2ktVQ?oc=5",
+      "snippet": "Lightning storms spark more than 65 new wildfires across B.C. &nbsp;&nbsp; CityNews Vancouver Evacuation alert issued for wildfire burning near Lions Bay, B.C. &nbsp;&nbsp; CBC Onc",
+      "pub": "Sun, 23 Aug 2026 20:38:27 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00RXczTjVUNDBzVWxnOHRUTVBJbmR1ZXYwMWo1Q1V3LTlYc1hvNHlycVVkQ3F6M1E0UWZkRjFiQ2pDcXpGRzNmazJDelRPR0lDbEJqVUZ4Ml9ZcWtqOGlSeXZDUl8ycmFGUlFJd1E3MDV4cm1PaEduekcxazVkdw?oc=5",
       "snippet": "Yellowknife woman spent thousands to travel south and learn she has a fatal disease &nbsp;&nbsp; CBC",
       "pub": "Mon, 24 Aug 2026 11:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "‘Twin’ nurses help Barrie twin girls in lengthy rehab - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlJxOWZnU2hHZXM5eUl5eDFsdmRtVkVvYVAwQ3ZJU21ZbkZLTHNYWE1wRG1neVo5cWxlTnJGX1A1dGhtMkxmd1YwX0R0Z0Z6VHBqSGZaSlpVTlViTDJyZWpSVVEzQW9lWjNQb0l2MlVUWmpaZ0JOVm8zSHRiTDN5Y3Y3NTZBU0pyVjhwU2wyQXpqS3dHcUFzd19rX1p0ZFE?oc=5",
-      "snippet": "‘Twin’ nurses help Barrie twin girls in lengthy rehab &nbsp;&nbsp; CTV News",
-      "pub": "Sun, 23 Aug 2026 18:56:18 GMT",
       "image": ""
     }
   ],
