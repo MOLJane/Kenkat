@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-24T04:21:03.153446+00:00",
+  "generated_at": "2026-08-24T05:08:38.650591+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Question of the Day – Do you support Ottawa’s decision to meet U.S. tariffs dollar-for-dollar even if it means increasing costs and reducing choice for Canadians?",
+      "link": "https://vocm.com/2026/08/24/question-of-the-day-do-you-support-ottawas-decision-to-meet-u-s-tariffs-dollar-for-dollar-even-if-it-means-increasing-costs-and-reducing-choice-for-canadians/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13345').",
+      "pub": "Mon, 24 Aug 2026 04:19:05 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/carney-trade-deal-announcement-2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Travel Delayed on Road to the Isles Due to Accident Near Moreton’s Harbour Turnoff",
@@ -59,27 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/08/ukrainian-flag-raising-ukrainian-independence-day.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Woman Sleeps it off in the Lockup After Being Found Passed Out Downtown",
-      "link": "https://vocm.com/2026/08/23/woman-sleeps-it-off-in-the-lockup-after-being-found-passed-out-downtown/",
-      "snippet": "A woman will face the judge today after being found passed out in the downtown area of St. John's yesterday. Officers approached her at about 5:00 in ...",
-      "pub": "Sun, 23 Aug 2026 09:53:34 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc-police-buick.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Canada Sees Long Trade War With US That May Last Beyond Midterms - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb25wTkZ2N3FmdGNyQl9uWkdtWW54WTVmNEpMUjJDSWRsbm53c2JEVVNEQmdqd1l1RVQ5cFdnMUNkSE10emxWVTdGTkJvRndnb3BwaDNaVWtCYUJSMDlFOEJHSFVPQ2Y2QjhvQURLX1ZMbG1VZEFrQkVQSHdpUzE1REgzYm5HWE40bmY1Q3Uxeml6dkJDeGNVNm1Db3dlcjI0WDczQU9Gek9VTGpMTmdxcVg1TzFlZw?oc=5",
       "snippet": "Canada Sees Long Trade War With US That May Last Beyond Midterms &nbsp;&nbsp; Bloomberg ‘We can’t run our businesses’: Canadian companies react to U.S. tariffs &nbsp;&nbsp; Global ",
       "pub": "Sun, 23 Aug 2026 23:59:52 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Report: Jared Kushner and Democratic leader Jeffries meet with House control at stake in November - PBS",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUFYNFBoODNBNnJxWTVld29GU2NrQlo4anBOV3FIejg0Ul9wTm5rdTNoQVBCTmFaNDNUZWI1R2thUU02dXlDdnotV1pTZElDcnV6eHJJajdvV0pTc0Y1a24xcDFmNEVla1FSWDAtU1ZfMF84NDdKX2o3UWJSSjQtekhGYUVGT1VYSVd6UVRSVEoxcU90cXFFaGFidFRKeFRIc2RnMGdPTXZkYk5YVHFJeWdJSUwyOTN1d2xtdXhIVjVja3I2aHfSAcsBQVVfeXFMT29YaWF4UzFPRTVELVVBMWFpXzlJVlYxaEdWV2Z3c1FuczZ1U09HZ1loT2FINFhjSzNGbHRHcE85ZmJLWDZnUDVKMnNwRGVvQUppRDNyY1h1UVlfenU5a3dNdFZnampZUGJqd1JSUVBjWU9NcmlWSF80NnFKTHlTSDZ3eEFRUlVLUnN1UHhKbnJZYmNsQTgzczNaeXlUdmRETE5Ea3FwaS1BY2o4TmFtb2pNS2o4SWMyclNmR1NUMm1MeUhfcGpmcElzcGM?oc=5",
-      "snippet": "Report: Jared Kushner and Democratic leader Jeffries meet with House control at stake in November &nbsp;&nbsp; PBS Jeffries and Kushner Meet Privately as Midterm Attacks Fly &nbsp;",
-      "pub": "Sun, 23 Aug 2026 19:34:55 GMT",
       "image": ""
     },
     {
@@ -92,9 +84,17 @@
     },
     {
       "source": "Google News Canada",
+      "title": "Report: Jared Kushner and Democratic leader Jeffries meet with House control at stake in November - PBS",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUFYNFBoODNBNnJxWTVld29GU2NrQlo4anBOV3FIejg0Ul9wTm5rdTNoQVBCTmFaNDNUZWI1R2thUU02dXlDdnotV1pTZElDcnV6eHJJajdvV0pTc0Y1a24xcDFmNEVla1FSWDAtU1ZfMF84NDdKX2o3UWJSSjQtekhGYUVGT1VYSVd6UVRSVEoxcU90cXFFaGFidFRKeFRIc2RnMGdPTXZkYk5YVHFJeWdJSUwyOTN1d2xtdXhIVjVja3I2aHfSAcsBQVVfeXFMT29YaWF4UzFPRTVELVVBMWFpXzlJVlYxaEdWV2Z3c1FuczZ1U09HZ1loT2FINFhjSzNGbHRHcE85ZmJLWDZnUDVKMnNwRGVvQUppRDNyY1h1UVlfenU5a3dNdFZnampZUGJqd1JSUVBjWU9NcmlWSF80NnFKTHlTSDZ3eEFRUlVLUnN1UHhKbnJZYmNsQTgzczNaeXlUdmRETE5Ea3FwaS1BY2o4TmFtb2pNS2o4SWMyclNmR1NUMm1MeUhfcGpmcElzcGM?oc=5",
+      "snippet": "Report: Jared Kushner and Democratic leader Jeffries meet with House control at stake in November &nbsp;&nbsp; PBS Jeffries and Kushner Meet Privately as Midterm Attacks Fly &nbsp;",
+      "pub": "Sun, 23 Aug 2026 19:34:55 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat - CNBC",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONlFGSWJ4Vkp6akJQYlVjQ0p2SUNsdFJudG1WNF9Va0FxajB0NHotMTBWVC0wMFNMTXE3QjNzUEdZdHAyRmE4bWRWTEhyN25PYmpOUHJPb1ZFQWtabEhLbzdvVGIzbWc4NHpXeFdxX3BNNXVTWkZLcms1bnI0ZmNVVTFSZGJfbmxERUN3RGl3T19qV1M1aEFmRm5ma9IBoAFBVV95cUxQSFctdWdZZTgxblpXNGw5TFVtNGxEdE9ETG80YmUyR2UwX3NWdXpNNlhUZzVLVUJYa1l4dFV4Zml0YWVoVEtKX21GNWlfSGJuWG5ad1pDejFKdUNYT1VHYkpQS1JFd1NPTEFvTTR3cktuaUVTNGJkZlNSVEtWTHlJVno4cDBzQzVseUg0ZUtTWUtDeEtuOG9rQTNvLUtKZmt6?oc=5",
-      "snippet": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat &nbsp;&nbsp; CNBC US-Iran war latest: Bessent promises ‘economic D-Day’ ahead of expected ",
+      "snippet": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat &nbsp;&nbsp; CNBC Live updates: US set to unveil ‘economic D-Day’ sanctions on Iran &nbsp;",
       "pub": "Sun, 23 Aug 2026 21:45:27 GMT",
       "image": ""
     },
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "A special weather statement for Toronto has ended. Here’s the forecast for this week. - CP24",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUFBXbWhDRkl1QmtSc0dNZFZwcTFQc2JnbFFkamQyMzAwQVZJS1NjYmFIa3NaaE9KV1V5UXhXYllLZmRTTDQ4X0hxdFA0N1pyaTgydjNEN05FR3lRUmpXRW5JelgtaUVzZGN6X2RTcEdlbkM1d09USVN0MTB5ZDctbWVpNFZHUmI3YUJpOEtoR2o2bEh5RzVkUFd2czNrYVRuenZHNHFpM1dJLVZRNUVOUGtTNEpLQXZ3b1BHRWlUMm4?oc=5",
-      "snippet": "A special weather statement for Toronto has ended. Here’s the forecast for this week. &nbsp;&nbsp; CP24 UPDATE: Between 75 to 150 mm of rain now forecast for Sudbury area &nbsp;&nb",
-      "pub": "Sun, 23 Aug 2026 19:16:06 GMT",
+      "title": "‘Twin’ nurses help Barrie twin girls in lengthy rehab - CP24",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcW5ra2pXdzRRUy1VSE0xaXRIMU03SGRhSTMzajFWenpWU2k0bGx3VTJGM0Y2c2FrNFU4ZVp5UjFyRV9LNWtwSHkxWXpWNnhOc0FCRXFVYm9hU2hLcFdDVFlQTUY1MDhKM3RyR21kZzNuVlNZZFlMSnJsQUpxWkpqcHk0Z1FPV0JURzZSY2pCenJmTFJ0dktnZUQ0LVo?oc=5",
+      "snippet": "‘Twin’ nurses help Barrie twin girls in lengthy rehab &nbsp;&nbsp; CP24",
+      "pub": "Sun, 23 Aug 2026 18:56:18 GMT",
       "image": ""
     }
   ],
