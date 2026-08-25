@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-08-25T17:52:32.437879+00:00",
+  "generated_at": "2026-08-25T18:25:38.090554+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "UPDATE: TCH Westbound Traffic Slowed Down Near Appleton Due to Moose-Vehicle Crash",
+      "title": "McGill Professor calls Eastern Canada ‘Renewable Energy Powerhouse in the Making’",
+      "link": "https://vocm.com/2026/08/25/308086/",
+      "snippet": "An engineering professor at McGill University says he sees eastern Canada as a \"renewable energy powerhouse in the making.\" The details of the new Chu...",
+      "pub": "Tue, 25 Aug 2026 18:14:56 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/francois-bouffard-mcgill-university.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Pardy Urges Public to Wait for House Debate on Upper Churchill Deal",
+      "link": "https://vocm.com/2026/08/25/308139/",
+      "snippet": "Finance Minister Craig Pardy is cautioning the public to wait for debate in the House of Assembly before being swayed by what he calls speculation on ...",
+      "pub": "Tue, 25 Aug 2026 18:02:28 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/finance-minister-craig-pardy-budget-2026.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "UPDATE: Traffic Moving Again Near Appleton After Moose-Vehicle Crash",
       "link": "https://vocm.com/2026/08/25/westbound-traffic-on-tch-slowed-down-near-appleton-due-to-possible-crash/",
-      "snippet": "Traffic is slowed in the westbound lane of the Trans Canada Highway just east of Appleton due to a moose-vehicle collision. Emergency responders are o...",
+      "snippet": "Traffic is flowing once again following a moose-vehicle collision on the Trans Canada east of Glenwood that held up traffic for a while in the westbou...",
       "pub": "Tue, 25 Aug 2026 17:26:16 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/05/rcmp-car-vehicle-logo-stock-1.jpg"
     },
@@ -51,35 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/09/hmp-her-majestys-penitentiary.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Bell Services Restored Following Fibre Cut in Southern Labrador",
-      "link": "https://vocm.com/2026/08/25/308114/",
-      "snippet": "Phone, wireless and internet service has been restored to the southeast coast of Labrador. A fibre cut affected service throughout the region yesterda...",
-      "pub": "Tue, 25 Aug 2026 15:20:27 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/bell-aliant-logo.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "One Man Dead in Road to the Isles Motorcycle Crash",
-      "link": "https://vocm.com/2026/08/25/308118/",
-      "snippet": "A motorcycle crash on the Road to the Isles Sunday evening claimed the life of a 58-year-old man. RCMP were called to the scene near the Moreton's Har...",
-      "pub": "Tue, 25 Aug 2026 15:11:06 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/06/RCMP-Police-Car-Logo-Stock-2.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Federal ministers announce support for Canadians, $27B in counter-tariffs against U.S. - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa242bGpyRm54SXM0RnR3M3EyNDJZeWRMNFY2NzVTcVlsVEVMUTNYWDdnWllqWTZyQUQ2aGRNNTY0cGwwN1F6V2x5RGxKUGZ4S1M4Z1Jva01BN0QzakY4cm9ITjJ4SW5hb2U3RmJPQTBSdkhEVWZhVXhtVFd5VXhWU2V1S29RWVI0RFV6TW13?oc=5",
-      "snippet": "Federal ministers announce support for Canadians, $27B in counter-tariffs against U.S. &nbsp;&nbsp; CBC Canada announces retaliatory tariffs on wide range of US goods &nbsp;&nbsp; ",
-      "pub": "Tue, 25 Aug 2026 17:21:19 GMT",
+      "title": "Canada announces retaliatory tariffs on $20 billion worth of US goods, unveils support measures - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnllQWZiMlB2MERDOUJLLWZUdGs0SjFhaDVKcVJwNWVGb0FhZ2pramhtQVJlT2l0eUlBREV1YUgzTEgxZzliNjVQR1hRTWdOdGJXSFhlamF3LXl0dGRmZjg0c1NwWEZKNDRiRkgyZG5QUmw1UlZ3dDA2ZlNtMTNabUVxc0UzdDRsNTM1b2hPWHlTZjVadWxJUTRLWGVuM1A3eFQxU21lQm1RY3hpMS1URUcxX1lGQktwZnR6SFhkOA?oc=5",
+      "snippet": "Canada announces retaliatory tariffs on $20 billion worth of US goods, unveils support measures &nbsp;&nbsp; Reuters Canada announces retaliatory tariffs on 700 U.S. products. Foll",
+      "pub": "Tue, 25 Aug 2026 18:11:24 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Trump Threatens to Rename Lake Ontario as Spat With Canada Escalates - WSJ",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWs5d05oRTRrU0JENVBndV9uak1ENmJNQ1RJYW5IRU5MQ0RTb2ZLaWNwWFZmMEV5cS1aQ2dOUlVSNF92SW8tU1ZJYkJBNm9UenlwbnNRRGtGUDhsRTJ1YUYyMDVlZWlSd0lRbTZIb3RMRi1Cb3JTTTBYRW9QZjNLVzRFSl80Tk8yZ3N6T05pV0JrSXlLRXdhU0p4VHk0dlpBcTU2LVc3ajdUVWticGtZajBR?oc=5",
-      "snippet": "Trump Threatens to Rename Lake Ontario as Spat With Canada Escalates &nbsp;&nbsp; WSJ Democrat jabs Trump over Lake Ontario threat: ‘Let’s just call it Lake Natalie’ &nbsp;&nbsp; T",
+      "snippet": "Trump Threatens to Rename Lake Ontario as Spat With Canada Escalates &nbsp;&nbsp; WSJ See more headlines & perspectives on Google News",
       "pub": "Tue, 25 Aug 2026 15:27:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump: French language not a factor in Canada trade talks - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajVickJSNFNtckM1WHY3ZmRpOHNqcFdBSDNuQm1HdEtFRWJydVVDUTA5RWtXa2tjZXFWeDk2TUFFdnhfX3JvYlJ0N2NaVmpwZUtTUDlKTzZubDF5eVJhcEpMV2dOVWU3ek5penBmbUdBaWNaSFJrYVJuT0sxaW85MVktUFF5TGlSQ1lNUFFDdmwxUFdPbFBtU0tsbG9ocE1sVU4xdVNEb0lHS1HSAbABQVVfeXFMUGVsVVRVeVdHaDE3VEphenVYM1JUZmhwNE5veWZ5dDFnT05IMlllcW9rcVJDRGIya2lWbXZrQ2tlMnRUUGZnNFdlc2xhMEJjM083VVF4bV9SNVVWVUh1NTA2SFpxWUUtYXdMNVNKeUh2OVdrOFcyZ1d3VHRyZ2JicEk3enpLT3RsNzloaThhV2JQNjZRMlBjb2IwbndFOTM2MlhObWEzb0t6SkpSZkpJam4?oc=5",
+      "snippet": "Trump: French language not a factor in Canada trade talks &nbsp;&nbsp; The Hill French has become a sticking point in the Canada-US trade dispute. Here’s why &nbsp;&nbsp; CNN Colla",
+      "pub": "Tue, 25 Aug 2026 12:47:00 GMT",
       "image": ""
     },
     {
@@ -92,26 +100,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump: French language not a factor in Canada trade talks - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajVickJSNFNtckM1WHY3ZmRpOHNqcFdBSDNuQm1HdEtFRWJydVVDUTA5RWtXa2tjZXFWeDk2TUFFdnhfX3JvYlJ0N2NaVmpwZUtTUDlKTzZubDF5eVJhcEpMV2dOVWU3ek5penBmbUdBaWNaSFJrYVJuT0sxaW85MVktUFF5TGlSQ1lNUFFDdmwxUFdPbFBtU0tsbG9ocE1sVU4xdVNEb0lHS1HSAbABQVVfeXFMUGVsVVRVeVdHaDE3VEphenVYM1JUZmhwNE5veWZ5dDFnT05IMlllcW9rcVJDRGIya2lWbXZrQ2tlMnRUUGZnNFdlc2xhMEJjM083VVF4bV9SNVVWVUh1NTA2SFpxWUUtYXdMNVNKeUh2OVdrOFcyZ1d3VHRyZ2JicEk3enpLT3RsNzloaThhV2JQNjZRMlBjb2IwbndFOTM2MlhObWEzb0t6SkpSZkpJam4?oc=5",
-      "snippet": "Trump: French language not a factor in Canada trade talks &nbsp;&nbsp; The Hill French has become a sticking point in the Canada-US trade dispute. Here’s why &nbsp;&nbsp; CNN How C",
-      "pub": "Tue, 25 Aug 2026 12:47:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXI4THplUTN1UEpyNUFld2ttOTBMcjZrWTEtbTlobmRzTEphcUZYZFVfUHdHeTVZTFM3TmJRaVZFMlY2Nkd0MFNWQzBRQnRDSHZmQ2NBOHZQWV9IUi1KRTN1WXpHbENQNnFLYmNaSksyTjVRa2lJVHVBYWFoSlc0LTBlbUJhbzFKUElKY2V4dEhNUVRPMERpeXNNWFF2NG03UEk4R0RrR1dSQnlDc01raC130gG3AUFVX3lxTE5KOHVJQ0xUSzZlVlRQT0dfTFFtT2E3QnI0SmZDelFsZU9OSzFhN0p0MW5wcWsxdkV1T3BxX2VLRklhczdYNmtJQXkyUVNwejlkVUVJM191X1dNS29NRjYydDBfMzEySjhFeFltZXFkbktDUC0xbldBNFJUSVdKa0R5S1o2bTZxVnpqY1RCT1RJLVNsLXJCSmFrZVNHcktqRDIwNW5PR2ZvZFdiUnlJSnNabXo3RGNLUQ?oc=5",
-      "snippet": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted? &nbsp;&nbsp; Al Jazeera China hits out at 'illegal' new US sanctions on Iran and trading partners &nbsp;&nbsp",
+      "snippet": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted? &nbsp;&nbsp; Al Jazeera China denounces US threat of sanctions over trade with Iran &nbsp;&nbsp; The Guardian",
       "pub": "Tue, 25 Aug 2026 14:27:05 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Airdrie man pleads guilty to murder of Calgary woman - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUtETWJNbTEwbmRnc2k0U3FxVTdWOFFtaEpXel93WkkxVlVEVFAwb0tEaHhNdmY1ZGRNaW10RncyQ1BnTjIxWmRYVE5GMTFOZ0QyN1Iwel9uVDFsWjVwNUFoSS1CVHRkMjBubVVoSzV6S1llbmNFYnhCTkhxdG5CY3U2b18tM0NCdkxkY0dhTml6Qm5Ub2hF?oc=5",
-      "snippet": "Airdrie man pleads guilty to murder of Calgary woman &nbsp;&nbsp; CTV News Text messages in murder plea show killer and friend plotted to lure, confine, rape Calgary women &nbsp;&n",
-      "pub": "Mon, 24 Aug 2026 17:50:14 GMT",
+      "title": "'I was gonna kill her anyways': Judge hears murder began as plot to lure, confine, rape Calgary women | CBC News - CBC",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTJkcGlPbUtlS2Y2c3dmejJpUngwSU03bUdXS0NRdWtUb2JvcXhaRkhjMXEtc2dNSFd1NExwUDZRRnJUOEM2d0pNM19Ibk8wVFozYVVOejVKclVoajd2dGRUUGFHYnpDakFhdllGVmZBVndLN3NRV3ExRjBoUkg2WHNObHFzSWlvYUdneTBNYWRmbTY1V19jbVBlWDN2YjJ5ZEVQeEg2WF8zM2cxX1E?oc=5",
+      "snippet": "'I was gonna kill her anyways': Judge hears murder began as plot to lure, confine, rape Calgary women | CBC News &nbsp;&nbsp; CBC Co-accused pleads guilty in murder of Chelsea Davi",
+      "pub": "Mon, 24 Aug 2026 22:50:46 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Ian Paton and Peter Milobar to form new centre-right party as alternative to B.C. Conservatives - Vancouver Sun",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHlneC1wWFZieFpfZ3JJYlNLeXJnbGhDTGwtd1ZranllZHdKMHRyQkJsSE1ZSFcwdExBSjd4VGcwdjdnalBhYk82ZW9oWmRtTUJHWnc2US1qSC1vMldONlF6M3pOSjctZGoyX3JLdGQxU05KbUFkRzE5NUM2RnBXRG1QUjlVVGhsYW52TUVfY2FTU192WkR5NXpobw?oc=5",
-      "snippet": "Ian Paton and Peter Milobar to form new centre-right party as alternative to B.C. Conservatives &nbsp;&nbsp; Vancouver Sun B.C. Conservative Leader Kerry-Lynne Findlay slams 'selfi",
-      "pub": "Mon, 24 Aug 2026 21:21:16 GMT",
+      "title": "B.C. Conservative Leader Kerry-Lynne Findlay slams 'selfish' MLAs who left the party - CBC",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObWJxbUg5dDZVRzI1TTZKRHEzRHF1ekJ0VHBMZTMwUHRrVGQtRHFrTlI2MzRYWnJDZ3dYd0YxdWx5UU1zZDdLNS1sMzRiZlNJXzdUbUUzc1lyUUNfSGo1Q2JrejBrSDJtQUlwX29kQk1kc2NoSDg2Rlo0aHlJMVdFYjREbVRpSExLNEd2WTVId21NYlQydk54dU54WE1wdzk5NnlvdEJ5d0k2YmpXX3ZBRzlFblpad195Tm9pd05Bc05QOW5Sc1VZZFZkZlJCN3RicGIwZndR?oc=5",
+      "snippet": "B.C. Conservative Leader Kerry-Lynne Findlay slams 'selfish' MLAs who left the party &nbsp;&nbsp; CBC Findlay Loses Another BC Conservative MLA &nbsp;&nbsp; The Tyee Two MLAs who d",
+      "pub": "Tue, 25 Aug 2026 13:00:00 GMT",
       "image": ""
     }
   ],
