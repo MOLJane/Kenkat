@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-08-25T06:30:24.517377+00:00",
+  "generated_at": "2026-08-25T07:36:27.000235+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
+      "title": "August 25, 2026 – Have you ever had a close call, or a near-miss incident while driving?",
+      "link": "http://vocm.com/2026/08/25/august-25-2026-have-you-ever-had-a-close-call-or-a-near-miss-incident-while-driving/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13348').",
+      "pub": "Tue, 25 Aug 2026 07:30:19 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/driver-1.jpg"
+    },
+    {
+      "source": "VOCM",
       "title": "Cheer Sport Sharks NL Expanding to Meet Growing Demand",
-      "link": "https://vocm.com/2026/08/24/307947/",
+      "link": "http://vocm.com/2026/08/24/307947/",
       "snippet": "Competitive cheerleading is gaining in popularity in the province, prompting Cheer Sport Sharks NL to expand its footprint. The business is now offeri...",
       "pub": "Mon, 24 Aug 2026 19:22:51 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/cheer-sharks-3.jpg"
@@ -13,7 +21,7 @@
     {
       "source": "VOCM",
       "title": "RCMP Searching for Driver Involved in Dangerous Close Call",
-      "link": "https://vocm.com/2026/08/24/308020/",
+      "link": "http://vocm.com/2026/08/24/308020/",
       "snippet": "RCMP have released dash cam footage of a heart-stopping close call on the Trans Canada in hopes of identifying the driver involved. The incident occur...",
       "pub": "Mon, 24 Aug 2026 19:12:55 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/driver-2.jpg"
@@ -21,7 +29,7 @@
     {
       "source": "VOCM",
       "title": "Bay Roberts Celebrates 75 Years by Honouring Town’s Mayors",
-      "link": "https://vocm.com/2026/08/24/307966/",
+      "link": "http://vocm.com/2026/08/24/307966/",
       "snippet": "The town of Bay Roberts has planted nine trees at the town's community garden, in recognition of each of the mayors who have served the municipality s...",
       "pub": "Mon, 24 Aug 2026 18:37:04 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/mayor-geoff-seymour-town-of-bay-roberts.jpg"
@@ -29,7 +37,7 @@
     {
       "source": "VOCM",
       "title": "Marystown Canning Bridge Contract Awarded to Trident Construction",
-      "link": "https://vocm.com/2026/08/24/307989/",
+      "link": "http://vocm.com/2026/08/24/307989/",
       "snippet": "Trident Construction has been awarded a $23.47 million contract to replace the old Canning Bridge in Marystown. The span was closed to traffic in Febr...",
       "pub": "Mon, 24 Aug 2026 18:02:22 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/06/canning-bridge-marystown-barriers.jpg"
@@ -37,7 +45,7 @@
     {
       "source": "VOCM",
       "title": "Late-Season Cruise Ship Arrivals Bolster Shoulder Season",
-      "link": "https://vocm.com/2026/08/24/307945/",
+      "link": "http://vocm.com/2026/08/24/307945/",
       "snippet": "Summer is winding down, however there's still lots of activity left when it comes to the cruise ship season. Thousands of cruise passengers have dropp...",
       "pub": "Mon, 24 Aug 2026 17:30:34 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/downtown-st-johns-harbour-cruise-ship-port-tourism-travel-tourists-2.jpg"
@@ -45,7 +53,7 @@
     {
       "source": "VOCM",
       "title": "Heavy Rainfall Warning Issued for South Coast",
-      "link": "https://vocm.com/2026/08/24/rainfall-warning-issued-for-south-coast/",
+      "link": "http://vocm.com/2026/08/24/rainfall-warning-issued-for-south-coast/",
       "snippet": "A rainfall warning has been issued for the south coast of the island, with some significant amounts expected for Burgeo and Ramea, and lesser amounts ...",
       "pub": "Mon, 24 Aug 2026 17:22:16 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/11/wet-pavement-rain-running-water.jpg"
@@ -53,24 +61,16 @@
     {
       "source": "VOCM",
       "title": "Old Stock to Remain on Shelves, but NLC Won’t Reorder American Product Following Trade Talks Breakdown",
-      "link": "https://vocm.com/2026/08/24/307936/",
+      "link": "http://vocm.com/2026/08/24/307936/",
       "snippet": "The Newfoundland and Labrador Liquor Corporation will not be ordering more American liquor following the breakdown of Canada-U.S. trade talks over the...",
       "pub": "Mon, 24 Aug 2026 17:03:02 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/american-booze-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Bell Service Outage Leaves Some in Southern Labrador Unable to Call 911",
-      "link": "https://vocm.com/2026/08/24/307974/",
-      "snippet": "A service outage affecting southern Labrador means that some Bell customers in the region are unable to call 911 in the event of an emergency. Service...",
-      "pub": "Mon, 24 Aug 2026 16:16:46 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/bell-aliant-logo.png"
-    },
-    {
       "source": "Google News Canada",
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate - BBC",
+      "title": "US-Canada trade war heats up as Trump threatens to hike auto tariffs - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81UWcxQm1LSlMzSzdReXhpQ3VxUktlWlh1QTVLLThJVEduc1lWYVk1LWktNFhONkFTOEM0WG1CeGg5ZDczRlB2cmU1dGgyVzR4bFdIMTZTWnZPQQ?oc=5",
-      "snippet": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate &nbsp;&nbsp; BBC Canada to announce retaliatory tariffs against the U.S. on Tue",
+      "snippet": "US-Canada trade war heats up as Trump threatens to hike auto tariffs &nbsp;&nbsp; BBC Canada to announce retaliatory tariffs against the U.S. on Tuesday, sources tell CTV News. Liv",
       "pub": "Tue, 25 Aug 2026 02:51:53 GMT",
       "image": ""
     },
@@ -80,14 +80,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWpWaXhDOTJpUzZGdEpoaUYwTnJCNExhTjhpam83N1ktempFRk9FSG13NFltWjdQWWxKVnhsODJfXzhpODNLZHlYbGYtNm5MR2tuTHlpY2FHa1JreElnQVVmWU5CeXVOOU4yOWVpX3R4aFpiMVNwTU4wVWNoRVhQb1VPRFpKLTJGSjZfemhYX09CWnpkc1F0TGJINXl6aU9CbjNfNE10TTE5ZkhuQmhIeUJn0gG3AUFVX3lxTE1RU0FZVVJ1Y0J1bkprcmhiLS1nVVpGQVRZMDFYbm1lZkxLZkh3clhCMHZnc1E3T0JZb3paY1ZqM1RXMjdrTEk1NEdacFZHcHY5dUZiMm9oQnVRcllBR09vaXFjRm1xdnJjVzBnU1JrUk1rUHVoa3QtWXU0SzNDcE15U29RQ2czZWJuV3c4UkpacWVzY1NscTllWnhaV19DeW1oaGdrRzhwVkpjUUpicXFEUG1pYnB5NA?oc=5",
       "snippet": "How US sanctions on Iran ripple through global markets and consumers &nbsp;&nbsp; Al Jazeera Iran war live: Pakistan reports progress on restoring US-Iran MoU &nbsp;&nbsp; Al Jazee",
       "pub": "Mon, 24 Aug 2026 22:47:33 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Update: Montreal city council adopts amended Gaza motion after removing call to suspend ties with Israel - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3hIT3l3bHc2VS1CZGtid01GZ1J5djJhTU5oTHdtb1NCV1FLVl9zdnFmYlJDYWFlWTNPR2JwTjIxWTZCb3dEVnBqY3NvYkNaVENhLXZEbTBhcGV1dko0VkRBZ2hveHRrajBIQ2FRMDRFTEtUMFlESllhTk5zX1JxUVBMNHVFUW4yMUp2b0VMYWkzaGtRT3BWZThKUWRoTV9DTENGZA?oc=5",
-      "snippet": "Update: Montreal city council adopts amended Gaza motion after removing call to suspend ties with Israel &nbsp;&nbsp; Montreal Gazette Montreal council passes amended motion expres",
-      "pub": "Mon, 24 Aug 2026 18:31:58 GMT",
       "image": ""
     },
     {
@@ -102,16 +94,24 @@
       "source": "Google News Canada",
       "title": "Gavin Newsom says California will sue Trump administration again to block ‘Orwellian rules’ meant to curb mail-in voting – as it happened - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSjhwdlVUQUxLX0ZSNmNKYVdpcnY3dEdHYU9oWUo5emtEa1d1V0RGSzlPR1lWaGlGLUx0Nlp3a0l1N21hRVJiZkRDWjlzNEJNNDI0NGRqNzNaQjlaYkdRT3h3Qnp1MUNNdFJDSm9hSmZWU1ZkTjlNX3FJTXkycnh3N2dJZ1czbHRLWFhZV2VXeUtyVWRsU29LNUZnMVBoanNTOGVjRWc5OFRTWkdaZUJTcDlZS0NTc0paWC1FYWwwalIzRVMwVklKTXViN1dIa0tNRUdpOXZITmducVVuQXktcFpId0h4QzVuOHhtUlFJN2pwRFY2?oc=5",
-      "snippet": "Gavin Newsom says California will sue Trump administration again to block ‘Orwellian rules’ meant to curb mail-in voting – as it happened &nbsp;&nbsp; The Guardian US supreme court",
+      "snippet": "Gavin Newsom says California will sue Trump administration again to block ‘Orwellian rules’ meant to curb mail-in voting – as it happened &nbsp;&nbsp; The Guardian Supreme Court ba",
       "pub": "Mon, 24 Aug 2026 10:50:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Indonesia intensifies aerial firefighting as wildfire haze spreads to Malaysia - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFdEeXpxc2ZXYTlsR2ZlR285QVJ0Z1BrNmdDMjViZWtjWi1rVGhJTm1WR0xyZkNTZS1qWW1fYTNjR2RmRk9lTEF6RU1pdHNyeV8xeHQ3MW1yNk9iVm5ud2tJTzcta0NGM0QxcW1TMWMwYVBoMHhzT05DQUw2RjBkVXYyYmNPTDh5LW5SaWRrd3N6OWNoWldTWTNveWNXUDd5OFo2U3pYVkhiRWJIekFZ?oc=5",
-      "snippet": "Indonesia intensifies aerial firefighting as wildfire haze spreads to Malaysia &nbsp;&nbsp; AP News See more headlines & perspectives on Google News",
-      "pub": "Tue, 25 Aug 2026 00:39:00 GMT",
+      "title": "Film and TV sector says collapse of trade negotiations could prompt Ottawa to bring U.S. streamers back to table - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaXJfNnZLaWx4eHZZSXZaNHVUNE5LOVBZbG56QTY3ZzR0ZjFvVk1MRXI3ck9oNkVLcUdBSlM2MTRtZzJTVTNFTkRGMzU1UF9XSXFvWVVSR2V3SDVnb0tYNVVvOHMzVnN3QmlUMldNSVlsS2hpSXdXTDAzcGZQMzBXVDFfYmVWeWpWNmxOUlV1U2ZjUmFzYkN3Q0JaTUNIa0lSbERMOWNYQXo1MnNicmlsM2hVcUFmVkkw?oc=5",
+      "snippet": "Film and TV sector says collapse of trade negotiations could prompt Ottawa to bring U.S. streamers back to table &nbsp;&nbsp; The Globe and Mail French has become a sticking point ",
+      "pub": "Tue, 25 Aug 2026 01:56:04 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "JD Vance calls Canada a U.S. state in 'Freudian slip,' vows to fight back against 'ridiculous tariffs' - National Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZDNySjhfZlNEdVQyUjBZU3RTbkN5cGZ4TUhDcXpRMTRkT3RCT3Job3BGRUZGbnBjT0JablVtTFBJbjJITVkwWGRMYk5kWUIwc2c0bm95WGx4Z2pMRjNxZGFaTURzQTZPSGRYQ0hnbjQzaTVGbFhFakFjLWNHWXVJVmozQ21Rem1hLXVndzBNdTV1NndweDM3NWplclpEcWRNRmJiaUx1aWlzblpEX2hJVmhORFMwdWd2Tko1Wk9zRlVaRjUz?oc=5",
+      "snippet": "JD Vance calls Canada a U.S. state in 'Freudian slip,' vows to fight back against 'ridiculous tariffs' &nbsp;&nbsp; National Post Vance calls Canada a U.S. state in ‘Freudian slip’",
+      "pub": "Mon, 24 Aug 2026 20:31:22 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Vance calls Canada a 'state' during rally, says it was 'Freudian slip' - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckh3WVBVenNnYkJHa2VISWR1VmJpcWx1VzM2Yk05QWRpeTlUTlVRa3lCLWVzemllYWlodFcyMi1QMmxHZ21EcWRZOVNjNm9xdndsZjQxdE1wNVBQQlJyUGhIVUc5V2ZOWGo5dFRXRW4tNFZGQXp2eEhJcGcyamVjelM0akdSVVZVamNMMVRFcVRfY3IyRkthZFhOQmRaSUFTWUI2LXlQOA?oc=5",
-      "snippet": "Vance calls Canada a 'state' during rally, says it was 'Freudian slip' &nbsp;&nbsp; USA Today Vance calls Canada a U.S. state in ‘Freudian slip’ as trade fallout grows &nbsp;&nbsp;",
-      "pub": "Mon, 24 Aug 2026 23:28:00 GMT",
+      "title": "More evacuation alert lifted around Bradley Creek wildfire - Castanet",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVVphUVVmZEJEdnR3OUt5VmY4VmRBYlZCUXhaLWFxTWc4SWYzS2pxenE5M21fYWhpbVRzTkNPUzFxU0ZTRU1DTkVJYmxCQ0Vpb216WTRNOFZtSGY5aWh5dFRVd0pyQThJcnFGY08zOXBqbE55Q2xUVUp5SjQzV2FmR3FVSi1wZ2xPVjNsMnRZRElCZVNBRkEzT2dSLVZaNWViU0VYNg?oc=5",
+      "snippet": "More evacuation alert lifted around Bradley Creek wildfire &nbsp;&nbsp; Castanet Central Okanagan evacuation alerts lifted along Westside Road &nbsp;&nbsp; Castanet All Bradley Cre",
+      "pub": "Tue, 25 Aug 2026 00:10:00 GMT",
       "image": ""
     }
   ],
