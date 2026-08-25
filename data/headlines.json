@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-08-25T14:12:44.983132+00:00",
+  "generated_at": "2026-08-25T15:11:33.623633+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "SPANL Scrambles to Meet Record Demand for School Supplies",
+      "link": "https://vocm.com/2026/08/25/ndp-hosting-panel-on-food-insecurity/",
+      "snippet": "The Single Parent Association is still seeking donations of school supplies to help meet unusually high demand. Executive Director Danielle Seward say...",
+      "pub": "Tue, 25 Aug 2026 15:00:24 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/spanl-back-to-school-supplies.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Burin Peninsula RCMP Searching for Woman Wanted for Break and Enter",
+      "link": "https://vocm.com/2026/08/25/burin-rcmp-searching-for-woman-wanted-for-break-and-enter/",
+      "snippet": "Burin Peninsula RCMP are seeking the public's help in locating a woman wanted on a charge of break and enter. RCMP say 51-year-old Jodi Lynn Lake fail...",
+      "pub": "Tue, 25 Aug 2026 14:19:02 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/jodi-lyn-lake-wanted-rcmp.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Man Faces Charges of Arson, Uttering Threats Following Kenmount Terrace Fire",
@@ -12,7 +28,7 @@
     },
     {
       "source": "VOCM",
-      "title": "RCMP Seeking Information on French Shore Academy Vandalism",
+      "title": "Vandals Target Pride Crosswalk Outside Port Saunders School",
       "link": "https://vocm.com/2026/08/25/308095/",
       "snippet": "RCMP on the Great Northern Peninsula are looking into vandalism caused to the Pride crosswalk outside French Shore Academy in Port Saunders. Police we...",
       "pub": "Tue, 25 Aug 2026 13:48:00 +0000",
@@ -51,30 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/food-on-shelves-groceries-peanutbutter.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Montreal-Based Firm Takes Ownership of Village Shopping Centre",
-      "link": "https://vocm.com/2026/08/25/308054/",
-      "snippet": "A Montreal-based real estate investment and development firm has purchased the Village Shopping Centre in St. John's. The company has been purchasing ...",
-      "pub": "Tue, 25 Aug 2026 10:58:03 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/village-shopping-centre-mall-leyad.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Another Rainy Day on South Coast of Newfoundland",
-      "link": "https://vocm.com/2026/08/25/another-rainy-day-on-south-coast-on-newfoundland/",
-      "snippet": "It's going to be a wet couple of days for the south coast of the island. A rainfall warning is in effect for Burgeo and Ramea with rainfall rates of u...",
-      "pub": "Tue, 25 Aug 2026 10:37:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/rain-stock-3.png"
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump Threatens to Rename Lake Ontario as Spat With Canada Escalates - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWs5d05oRTRrU0JENVBndV9uak1ENmJNQ1RJYW5IRU5MQ0RTb2ZLaWNwWFZmMEV5cS1aQ2dOUlVSNF92SW8tU1ZJYkJBNm9UenlwbnNRRGtGUDhsRTJ1YUYyMDVlZWlSd0lRbTZIb3RMRi1Cb3JTTTBYRW9QZjNLVzRFSl80Tk8yZ3N6T05pV0JrSXlLRXdhU0p4VHk0dlpBcTU2LVc3ajdUVWticGtZajBR?oc=5",
-      "snippet": "Trump Threatens to Rename Lake Ontario as Spat With Canada Escalates &nbsp;&nbsp; WSJ Trump threatens to change name of Lake Ontario amid ongoing trade dispute &nbsp;&nbsp; CTV New",
-      "pub": "Tue, 25 Aug 2026 13:03:00 GMT",
-      "image": ""
-    },
-    {
       "source": "Google News Canada",
       "title": "Alberta premier under pressure to take more ‘Team Canada’ approach to escalating U.S. trade war - CBC",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3RaQUNPR3JjMGpldEV5d0hiLVBqaUU2MTQ5VVZ1Q3pwVWVwbVlhUGVRbnhsblhjOVV2Y0xLaEx4YjdNRHRKZDJCVzVkSmJ6VEt5N2xLUjhJdS1zd2dsR3VhZWV2UEc3V0ZLdGR2WjVhYmZZZlVZWmZiVmVqajU3aEE0cjBUQQ?oc=5",
@@ -84,17 +76,17 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Collapse of trade talks could bring U.S. streamers back to table, film and TV sector says - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaXJfNnZLaWx4eHZZSXZaNHVUNE5LOVBZbG56QTY3ZzR0ZjFvVk1MRXI3ck9oNkVLcUdBSlM2MTRtZzJTVTNFTkRGMzU1UF9XSXFvWVVSR2V3SDVnb0tYNVVvOHMzVnN3QmlUMldNSVlsS2hpSXdXTDAzcGZQMzBXVDFfYmVWeWpWNmxOUlV1U2ZjUmFzYkN3Q0JaTUNIa0lSbERMOWNYQXo1MnNicmlsM2hVcUFmVkkw?oc=5",
-      "snippet": "Collapse of trade talks could bring U.S. streamers back to table, film and TV sector says &nbsp;&nbsp; The Globe and Mail French has become a sticking point in the Canada-US trade ",
-      "pub": "Tue, 25 Aug 2026 01:56:04 GMT",
+      "title": "Trump Threatens to Rename Lake Ontario as Spat With Canada Escalates - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWs5d05oRTRrU0JENVBndV9uak1ENmJNQ1RJYW5IRU5MQ0RTb2ZLaWNwWFZmMEV5cS1aQ2dOUlVSNF92SW8tU1ZJYkJBNm9UenlwbnNRRGtGUDhsRTJ1YUYyMDVlZWlSd0lRbTZIb3RMRi1Cb3JTTTBYRW9QZjNLVzRFSl80Tk8yZ3N6T05pV0JrSXlLRXdhU0p4VHk0dlpBcTU2LVc3ajdUVWticGtZajBR?oc=5",
+      "snippet": "Trump Threatens to Rename Lake Ontario as Spat With Canada Escalates &nbsp;&nbsp; WSJ Trump considering renaming Lake Ontario as relations with province sour &nbsp;&nbsp; Global Ne",
+      "pub": "Tue, 25 Aug 2026 14:13:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "How US sanctions on Iran ripple through global markets and consumers - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWpWaXhDOTJpUzZGdEpoaUYwTnJCNExhTjhpam83N1ktempFRk9FSG13NFltWjdQWWxKVnhsODJfXzhpODNLZHlYbGYtNm5MR2tuTHlpY2FHa1JreElnQVVmWU5CeXVOOU4yOWVpX3R4aFpiMVNwTU4wVWNoRVhQb1VPRFpKLTJGSjZfemhYX09CWnpkc1F0TGJINXl6aU9CbjNfNE10TTE5ZkhuQmhIeUJn0gG3AUFVX3lxTE1RU0FZVVJ1Y0J1bkprcmhiLS1nVVpGQVRZMDFYbm1lZkxLZkh3clhCMHZnc1E3T0JZb3paY1ZqM1RXMjdrTEk1NEdacFZHcHY5dUZiMm9oQnVRcllBR09vaXFjRm1xdnJjVzBnU1JrUk1rUHVoa3QtWXU0SzNDcE15U29RQ2czZWJuV3c4UkpacWVzY1NscTllWnhaV19DeW1oaGdrRzhwVkpjUUpicXFEUG1pYnB5NA?oc=5",
-      "snippet": "How US sanctions on Iran ripple through global markets and consumers &nbsp;&nbsp; Al Jazeera China warns it will safeguard its interests after US widens sanctions against Iran &nbs",
+      "snippet": "How US sanctions on Iran ripple through global markets and consumers &nbsp;&nbsp; Al Jazeera China hits out at 'illegal' new US sanctions on Iran and trading partners &nbsp;&nbsp; ",
       "pub": "Mon, 24 Aug 2026 22:47:33 GMT",
       "image": ""
     },
@@ -108,18 +100,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Mexico ‘Optimistic’ on US Trade Deal After Canada Talks Fail - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNblpjSHZQUmRtMlVXQlF2NUtnVEFjNlJlME9pbzlTWHRGaGhBRkd6OU45a3FHblI1Rm5TakMwcDdrN1J6TzNQejl3TFl5YTZQeHpRUkJsMXdzZ3dIX3VZalBHZmRBYlpHbXFXSDBma0ZBNEFfRjBWdmhjOTlDWEZQcmtBekpNMlhfWTBuTnZUa05hbWxUdjVad1JEVWZFU3N5bzdxRm1lZHB2d0Q0cG5veDFHUQ?oc=5",
-      "snippet": "Mexico ‘Optimistic’ on US Trade Deal After Canada Talks Fail &nbsp;&nbsp; Bloomberg.com Claudia Sheinbaum stays on the sidelines of Canada-U.S. trade war &nbsp;&nbsp; The Globe and",
-      "pub": "Mon, 24 Aug 2026 18:12:04 GMT",
+      "title": "Montreal city council adopts amended Gaza motion after removing call to suspend ties with Israel - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ3hIT3l3bHc2VS1CZGtid01GZ1J5djJhTU5oTHdtb1NCV1FLVl9zdnFmYlJDYWFlWTNPR2JwTjIxWTZCb3dEVnBqY3NvYkNaVENhLXZEbTBhcGV1dko0VkRBZ2hveHRrajBIQ2FRMDRFTEtUMFlESllhTk5zX1JxUVBMNHVFUW4yMUp2b0VMYWkzaGtRT3BWZThKUWRoTV9DTENGZA?oc=5",
+      "snippet": "Montreal city council adopts amended Gaza motion after removing call to suspend ties with Israel &nbsp;&nbsp; Montreal Gazette Controversial motion on Israel back on Montreal's cit",
+      "pub": "Mon, 24 Aug 2026 18:31:58 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Update: Worker struck by plane at Montreal’s Trudeau airport - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVC02LXNpU0xLdWNJWTlLek0wcGpWamV4WEJLSkJrYXpxb28tc3RQdU1FQ25pSGtQZENaQzh1V2hGZ1N3MG16a0R1eUJwc1dGSUNoQ2hSS3V6TS03cnBwUV9RbXBfSkJFQ0Z6Z0tEOHhsNV95b2dwWXBPYWhGVjdTT1VOX1VwaklHZEtMVA?oc=5",
-      "snippet": "Update: Worker struck by plane at Montreal’s Trudeau airport &nbsp;&nbsp; Montreal Gazette 'Unfortunate accident' at Montreal's Trudeau airport sends employee to hospital &nbsp;&nb",
-      "pub": "Tue, 25 Aug 2026 11:54:04 GMT",
+      "title": "Supreme Court backs Trump’s order to curb mail ballots - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSDZ1c1I5R3lwU3ZMVHBPdjBtODBtcWc3bXBfNlBMRkxaM1F5YS1SWXZsTkxjSDdQamF2TXQzTFJFazVUeUx4bGtZWnFRbDRHVG5Rb194dElSWEtxbEc5Z1VEWGhtRHZud3RId3o5MVVmemZnSmk4Q1FtVWpDM0JjdFVB?oc=5",
+      "snippet": "Supreme Court backs Trump’s order to curb mail ballots &nbsp;&nbsp; CNN See more headlines & perspectives on Google News",
+      "pub": "Mon, 24 Aug 2026 20:53:30 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Montreal airport traffic controller in critical condition after being struck by a plane - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU25JODRvak9vdThHVGFVYXRJS0hxNEpsV0kxUWhxcFE4WmdPWTJ0VnU0WjlmWUdYT05yajdVSnpuaFBTOUVzcTZPVDdGeDAwMFZQdWRHZ1VoQWwzdzg3YTdzYzVUWEtHdV9FdkZtNXd1UUNneEJXNmhWT215bmhlLWNtYXA1VkpjTWRqVlhfUklxWmdCREdoQTUwVWlyME5tSlpSMUhUMy0wb21sZHE3OWt0VlFQQ05W?oc=5",
+      "snippet": "Montreal airport traffic controller in critical condition after being struck by a plane &nbsp;&nbsp; The Globe and Mail Montreal airport ground crew worker dies after being struck ",
+      "pub": "Tue, 25 Aug 2026 04:05:50 GMT",
       "image": ""
     },
     {
