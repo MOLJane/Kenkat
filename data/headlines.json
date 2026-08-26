@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T20:23:46.340264+00:00",
+  "generated_at": "2026-08-26T23:52:41.958872+00:00",
   "count": 16,
   "items": [
     {
@@ -20,15 +20,7 @@
     },
     {
       "source": "VOCM",
-      "title": "Traffic Slowing Down Following Crash at Intersection of Blackmarsh and Topsail",
-      "link": "https://vocm.com/2026/08/26/308289/",
-      "snippet": "There is an accident this hour at the intersection of Blackmarsh Road and Topsail Road. Traffic is backed up in both directions but no further details...",
-      "pub": "Wed, 26 Aug 2026 18:40:26 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Local Country Music Performer Mourns Loss of Icon Dolly Parton",
+      "title": "Local Country Music Performer Among Those Mourning Loss of Dolly Parton",
       "link": "https://vocm.com/2026/08/26/308232/",
       "snippet": "A local country music performer is among the many people saddened by the loss of Dolly Parton. The legendary singer and songwriter passed away this we...",
       "pub": "Wed, 26 Aug 2026 18:20:54 +0000",
@@ -36,9 +28,9 @@
     },
     {
       "source": "VOCM",
-      "title": "Bay St. George RCMP Searching for Pickup Driver Following Dangerous Detour",
+      "title": "UPDATE: Police Identify Driver of Pickup After Daring Detour",
       "link": "https://vocm.com/2026/08/26/308279/",
-      "snippet": "The driver in a pickup truck must have thought he was doing a stunt out of The Dukes of Hazzard when he bypassed a construction site on the west coast...",
+      "snippet": "Bay St. George RCMP say they have identified the driver of a pickup that was caught on camera taking a daring, and unusual detour around a constructio...",
       "pub": "Wed, 26 Aug 2026 18:15:16 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rcmp-nl-facebook-red-pickup-ditch-detour.jpg"
     },
@@ -60,18 +52,42 @@
     },
     {
       "source": "VOCM",
-      "title": "Public Asked to Avoid Westport Wharf as Police Conduct ‘Marine Operation’ in Area",
+      "title": "UPDATE: ‘Marine Operation’ at Westport Concludes",
       "link": "https://vocm.com/2026/08/26/rcmp-asking-public-to-avoid-westport-white-bay-wharf-during-marine-operation/",
-      "snippet": "RCMP are asking the public to avoid the wharf in Westport, White Bay, as they and others work on what is being called a \"marine operation\" in the area...",
+      "snippet": "RCMP say a \"marine operation\" at Westport in White Bay has concluded, and residents are able to go about their business. Police had earlier asked peop...",
       "pub": "Wed, 26 Aug 2026 16:29:54 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/westport.jpg"
     },
     {
+      "source": "VOCM",
+      "title": "Actor Tim Curry Dead at 80",
+      "link": "https://vocm.com/2026/08/26/308254/",
+      "snippet": "Just one day after the world learned of the passing of Dolly Parton, another well-known performer has passed away. Tim Curry, the British actor famous...",
+      "pub": "Wed, 26 Aug 2026 16:23:35 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/tim-curry.jpg"
+    },
+    {
       "source": "Google News Canada",
-      "title": "Trump's trade war: Fact-checking Canada's natural gas leverage over the U.S. - CBC",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6S3AwRWlBdDJqc0NDczZQRjRkQVNjYkQ0X3ZkejFpSy15d3FrbDN6Rng0azB1ZWJ0UkJYSE0zY29YRkZmOW91SWh5VXNFSDNxTGZ5bVI0QzNCQ0kyQXZtTTJlS1JRQzdZc0stU3JR?oc=5",
-      "snippet": "Trump's trade war: Fact-checking Canada's natural gas leverage over the U.S. &nbsp;&nbsp; CBC Canada's tariffs target certain U.S. states. See which regions are most vulnerable. &n",
-      "pub": "Wed, 26 Aug 2026 19:08:11 GMT",
+      "title": "Trump's top trade negotiator disputes Canadian assertion that U.S. made last-minute demands - CBC",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX0ZWZUtzODdJNWw0azB2TUg2NGQ4NDc0blRLM2pJRld1LVVfU1paT0dZUEtBemNoSXVSMzFNcGRZd3JCMmNnUnFFdHpqODdkcnRnTkE1ZUhCUDJuR0Nac0JhN1QtZHVPZ19VZ2l2em1KSHBNdFVrbzZYVkRNNURXUnRMdkxCX0VZSklyZnY4YzBRcFJ0ZEQ4aTNmRko4alA1WXdFMmVtcTFjaUVaREk1cg?oc=5",
+      "snippet": "Trump's top trade negotiator disputes Canadian assertion that U.S. made last-minute demands &nbsp;&nbsp; CBC Is restricting U.S. from Canada’s oil ‘crazy’? Here’s what happened bef",
+      "pub": "Wed, 26 Aug 2026 21:38:06 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Teresa Wat leaves B.C. Conservative caucus over Kerry-Lynne Findlay calling her 'CCP' - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdU1NenNHN2hpVHZuQ3Y3anVUMWtoeG1xc0RpQWYtaFl0UlplX1hBWE5NUVU4cHJMVjN2ODNxRGRIU0ZiNHJTbzBOQkRMMHlwZWhneUFRaVktbHZzeUc5VHJuMGVsc2VxTUgxY0tOa0I1NTAyV1RMWU9Wc0NoY1dOTFp5QUE4ZENzS19TLW5wUEs1VElWdEpYeDZnT0FCakMt?oc=5",
+      "snippet": "Teresa Wat leaves B.C. Conservative caucus over Kerry-Lynne Findlay calling her 'CCP' &nbsp;&nbsp; Vancouver Sun Brennan Day, Teresa Wat exit B.C. Conservatives, the latest to expr",
+      "pub": "Wed, 26 Aug 2026 18:47:04 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "CRTC to implement Cancon rules for streamers opposed by U.S. - Global News",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZRUdwd2lxdkZqeHcwZWxRbW5FdjRxYWRlQlRNd2RUNE93V003U2JiMzlCVEdMaWJZQUhaLVBCd3NWZUFCRkRrQnN0NEZLWVU1bm9leUVicU52eU5td3JqTkF2eWwzeW1hV1g4S0tWakdUUQ?oc=5",
+      "snippet": "CRTC to implement Cancon rules for streamers opposed by U.S. &nbsp;&nbsp; Global News Trump says idea of him interfering with Canadians speaking French is a 'stupid thing' &nbsp;&n",
+      "pub": "Wed, 26 Aug 2026 17:19:22 GMT",
       "image": ""
     },
     {
@@ -79,55 +95,39 @@
       "title": "Carney to address European Parliament as Canada pivots away from Trump - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMFExUTNmTWEtcTVoMGJGN09Wc2dCbHhfX3VnWThoV0Rlc0FsdG5pN2hIT05aNEsxTFRWSTRwWV9FX1IwaDhaRW5WZ1FWV013TmVzOGU1Vm12YktlMkxPTGFkY0RIWVpTNnM4V0pGdGM1bXdrWGxmNmpCSXhVa0JPb2JjNmNPRTFRN1I5SHRicmxfRHlROFJLd1d4d2pnX1E2UVotV1BUYTVHeHU5YzBJTGhzUGRVOXNYV1A2QmpsR0tSQzREY2FEeUs3MVp4QzBYVmc?oc=5",
       "snippet": "Carney to address European Parliament as Canada pivots away from Trump &nbsp;&nbsp; Euronews.com Canada’s resistance to Trump’s trade demands offers Europe a blueprint. Will the EU",
-      "pub": "Wed, 26 Aug 2026 20:12:15 GMT",
+      "pub": "Wed, 26 Aug 2026 17:17:43 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "24 Canadians missing after flash floods in Nepal, China kill at least 98 people - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTEI0ODVrZmVfdmc4a2pRZmVCLTg1RmJ3VzA0T2t2RVgyXzNhWDMwTTNseEpsbXFWVVFsZDREN2FSZUY1bGgzbzc2RllKQnNzSURNM19pbFdXTTZxaC03VlU3NjV5alhuQ3A0dnJtUG1vcXJfM1o1Sk5ZazhFN2RPa0QyZ0Rqb1h5eUViWjdrbnk3ZDRjX0t3ZEZqRF9hZzZrVEdLcm9rck91LWFfTUxiby1SMmdJT3ktZTVSa0FmMVA4aFZlc1lyalBlT19sRm8?oc=5",
-      "snippet": "24 Canadians missing after flash floods in Nepal, China kill at least 98 people &nbsp;&nbsp; CTV News Dozens of US and Canadian citizens missing after flash flooding in Nepal &nbsp",
-      "pub": "Wed, 26 Aug 2026 18:58:31 GMT",
+      "title": "Dozens of US and Canadian citizens missing after flash flooding in Nepal - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVRFpxclRYd3FscmhELWFLVjFPT203WDg0azJac2pJVzVnb1dMaC1Yck9GY2l6TXdVeVJfS0MzdThOOXBuNU8wQzJzeWZka1pSdmtMZlF6d0JyZw?oc=5",
+      "snippet": "Dozens of US and Canadian citizens missing after flash flooding in Nepal &nbsp;&nbsp; BBC Hundreds missing and many feared dead after massive flash flood hits Nepal-China border &n",
+      "pub": "Wed, 26 Aug 2026 23:14:14 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "2 Air Canada employees arrested in RCMP drug probe at Montreal airport - Global News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMmh3REJDOXBmdW5YRTBjZGt2Mm51SF9Od1pfdXNHdmtiTTV2YUpUcXJiSUdfeEVlMGFUNlU3d0lDNlJUYTdvd005TWxVWXpybGxGSGhFNEFiZ0tRaEFDNDRaVHRiVU0tbGgxM3J1RFFzbzFkOWVPTFVmcEhpZUxXb01KNA?oc=5",
-      "snippet": "2 Air Canada employees arrested in RCMP drug probe at Montreal airport &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
-      "pub": "Wed, 26 Aug 2026 13:58:01 GMT",
+      "title": "2 Air Canada employees arrested in drug-trafficking investigation at Montreal's Trudeau airport - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTlc1eXU4MnRPWVBvRXR4a0Q0dUFva29lQmtTMDV2UkhpQnRGblpsSlc5bW1ISmUyXzJPUnVXbzlpbG9GYUlWRVlJazlmYncxRHA2a0FjOFdiejE1S0dCdF9SUmFYdjNnejNVZlBtNFdNX0hsbGI4bmpOeU8zUkJHNElkYVgxMXVoZ29RSVlmNFhNeFZiM2dpc1QxUXROR1laN3NUR1VaVTJIMzFuN3FnXzZGZ3VObVJzX1BXMGJxNkg3NzQ2RTJZbW03UlhWZHZEV0hUYll3?oc=5",
+      "snippet": "2 Air Canada employees arrested in drug-trafficking investigation at Montreal's Trudeau airport &nbsp;&nbsp; Montreal Gazette See more headlines & perspectives on Google News",
+      "pub": "Wed, 26 Aug 2026 21:02:09 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHZ4b0Z3a0UwYkFxV2loZlZSUVQ4TUtKTjhLc1NxcDBJVDVRNXZ0WnJqNVRwY1o0UmRYY2lyaXJFaE1LVDVEQTJweFg1NjNkS1RYaEo5TmpjeUV6MGM2aXRGVXZKZUUzWWRnYXNrSEdkc3ExUTBXQXk4WGFja2ctOXN0d0U2c19fWFJ5SEMzZG4?oc=5",
-      "snippet": "Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea &nbsp;&nbsp; AP News What’s in a name? Trump’s ‘Lake America’ threat raises questions about centurie",
-      "pub": "Wed, 26 Aug 2026 14:24:00 GMT",
+      "title": "Premier Scott Moe announces retaliatory tariffs on U.S. booze, won't pull liquor from shelves - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUplSzFrSEx3VWQ3ekFJMVVLYUFPdTVUM0VDdUhvYzY0M1lka0dfMXFocW03RE5LMlhRTXJiTEw3a281Nko5RGNtbE11Z1psbHNZZ2xrYk1XLWkyZlBaVS1GVVlLdGNtSlBMcnJTN1JvQmFNQThNc2t0TVBqTHhhX1FSN3ZjTHZSRnJ4bHZBd0dMRDlzZmxSbzh3M1VGN0tsVnJ5VGpwLVJZbTZGUTFuaENwV204dGdq?oc=5",
+      "snippet": "Premier Scott Moe announces retaliatory tariffs on U.S. booze, won't pull liquor from shelves &nbsp;&nbsp; CBC U.S. tariffs push Canadian alcohol producers to rethink their biggest",
+      "pub": "Wed, 26 Aug 2026 23:18:56 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Teresa Wat leaves B.C. Conservative caucus over Kerry-Lynne Findlay calling her \"CCP\" - Vancouver Sun",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdU1NenNHN2hpVHZuQ3Y3anVUMWtoeG1xc0RpQWYtaFl0UlplX1hBWE5NUVU4cHJMVjN2ODNxRGRIU0ZiNHJTbzBOQkRMMHlwZWhneUFRaVktbHZzeUc5VHJuMGVsc2VxTUgxY0tOa0I1NTAyV1RMWU9Wc0NoY1dOTFp5QUE4ZENzS19TLW5wUEs1VElWdEpYeDZnT0FCakMt?oc=5",
-      "snippet": "Teresa Wat leaves B.C. Conservative caucus over Kerry-Lynne Findlay calling her \"CCP\" &nbsp;&nbsp; Vancouver Sun MLA Teresa Wat leaves B.C. Conservatives, the 4th departure this mo",
-      "pub": "Wed, 26 Aug 2026 18:47:04 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "U.S. tariffs push Canadian alcohol producers to rethink their biggest export market - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXlvMG9LeEJtTmlRNVpyY1ZQWEgtZGJqMVlOeUdnS2NWWFBiMFZXZjhYVGRCbEVVUE95a1dYblBuOXByMzhJWW91VWxjN2s3anJrVTNWOXRSRlNiZVJsY1U5MVJSZUtsVWFhQjYxQm1WelZvVWhjMUtiUUFFVmpyM1RDSjI2Q3lpRmVpU215Z3dvV1ZaVndVWkJiNV9rbHdyV3RBX0xhX2t4bTFYbkE?oc=5",
-      "snippet": "U.S. tariffs push Canadian alcohol producers to rethink their biggest export market &nbsp;&nbsp; The Globe and Mail Premier Scott Moe speaks on trade dispute, announces retaliatory",
-      "pub": "Tue, 25 Aug 2026 21:59:14 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Saskatoon man describes violent downtown attack following birthday celebration - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNF9SLXAzSzRueXd4THVvMEVrWEhFOHZtMXBuYzBZSjRMUXdXUmxBdFZodS1nVEZ0WnFFdFAyZ3hpX2c5UlY1c2tJRDRDeFAyUW9rc3UxNUxDWlNPUDY1ejNpNERleHM5LWhySVYwSDNlRWxjS1dpTEZ6NEFHaE1HSGx3ZUs2ajlvdFk1YWEwRHlGeHNoQ0VSZWl1YmZPU0VLY3FENmNybVpIR1ZsS0ZVTXJsM081NVJHZWhWZg?oc=5",
-      "snippet": "Saskatoon man describes violent downtown attack following birthday celebration &nbsp;&nbsp; CTV News",
-      "pub": "Wed, 26 Aug 2026 00:22:00 GMT",
+      "title": "More charges for former Manitoba MP Inky Mark after 445 guns, explosives found in home: RCMP - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWUZna3l4S01za3l2SjdTMGFLQkcwRmFEb2ZKRTNvRlVpamp2ZGNJVVVVZkdXWC1JTFJaaDAyWHlYd3YyQk1aNUtZemRkQTEzUUQyY2xNbTRuY2VoYlRaNlZYcVB3bTRQVU5nNTI4TF9zMV9ZTFdPaVI1SVl5MXJ4ZA?oc=5",
+      "snippet": "More charges for former Manitoba MP Inky Mark after 445 guns, explosives found in home: RCMP &nbsp;&nbsp; CBC Former MP faces 26 new weapons charges amid firearms trafficking case ",
+      "pub": "Wed, 26 Aug 2026 23:09:17 GMT",
       "image": ""
     }
   ],
