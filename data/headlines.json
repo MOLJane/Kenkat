@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-08-26T09:31:45.692920+00:00",
+  "generated_at": "2026-08-26T10:25:24.184919+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Infrastructure Announcement Taking Place in Lewisporte Today",
+      "link": "https://vocm.com/2026/08/26/infrastructure-announcement-taking-place-in-lewisporte-today/",
+      "snippet": "Minister Barry Petten will be in Lewisporte today to make what is being described as a \"significant infrastructure announcement.\" The event is schedul...",
+      "pub": "Wed, 26 Aug 2026 10:12:59 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/09/Lewisporte-Town-Hall.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Police Investigating Crash on Veterans Memorial Highway",
+      "link": "https://vocm.com/2026/08/26/police-investigating-crash-on-veterans-memorial-highway/",
+      "snippet": "RCMP are investigating a crash that resulted in the temporary closure of the Veterans Memorial Highway Tuesday morning. The two-vehicle collision happ...",
+      "pub": "Wed, 26 Aug 2026 09:39:06 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/06/RCMP-badge-patch.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Crews Battling Fire in Rattling Brook",
@@ -51,42 +67,26 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/gas-pump-fuel-price-pricing-adjustment-gasoline-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "August 26, 2026 – Do you believe measures announced by the federal government yesterday are sufficient to withstand the trade war with the U.S.?",
-      "link": "https://vocm.com/2026/08/26/august-26-2026-do-you-believe-measures-announced-by-the-federal-government-yesterday-are-sufficient-to-withstand-the-trade-war-with-the-u-s/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13351').",
-      "pub": "Wed, 26 Aug 2026 07:30:56 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/malanie-joie.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Two Taken to Hospital After Vehicle Crashes into Buckmaster’s Circle Community Centre",
-      "link": "https://vocm.com/2026/08/25/308141/",
-      "snippet": "Two people were sent to the hospital following a crash at the Buckmaster's Circle Community Centre that caused significant damage to the building. Pol...",
-      "pub": "Tue, 25 Aug 2026 19:07:23 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/buckmasters-circle-community-centre-logo.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "California governor 'absolutely' believes Trump will restart trade talks with Canada in 'a matter of days' - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS0ViVGI2NVQ3R0JhU05OdHRWekJGRkxXZngxcUF2NTZJQ0d0M2Y3aklVRGwxTTVwQ201bVkxR05xcElkSUR6NTFLajNJVXVEVVRuc25oSm5UNjd6bWw5MkhkbUVScFdYUUFrczFPTXZWQkdVQmV0em1rV2dkYTRGRW5TRUNBMFFTbWhyYWVpVXY?oc=5",
-      "snippet": "California governor 'absolutely' believes Trump will restart trade talks with Canada in 'a matter of days' &nbsp;&nbsp; CBC White House alleges ‘abuse’ as Canada hits back on tarif",
-      "pub": "Wed, 26 Aug 2026 01:34:00 GMT",
+      "title": "Trump reportedly suggests U.S. added conditions at 11th hour of negotiations as Canada hits back on tariffs - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYzhoSFJGQ29zRHIxa2xqbFJiNUtlbzlOS1ExUWNFNEJlbHkwN0ZRNnhZT2N5a0pFN2JVU2o1MThiSUtQSjA5MWF2MWt5cFg2SkNNN2R5THZjZy14RGtfbkRPQm85azFVQXA4STJZaVpKcHZjR3V2ZndkYXVCMk5XUm9adzFTR3dJV0o4QlNWeHJkT2hyVjZpbHdmRGt5U2kyNWh4ZGtkNklyMkRrcUpQalpaNkQycktkcmdPTXp0VnF6aWxnN0VxVTFuS3ZPQktmblZDZHVqdnhLMW5Bd0ZxXzlnQXA0aW91dEk2SjdPRQ?oc=5",
+      "snippet": "Trump reportedly suggests U.S. added conditions at 11th hour of negotiations as Canada hits back on tariffs &nbsp;&nbsp; CTV News Retaliatory tariffs could raise costs for Canadian",
+      "pub": "Wed, 26 Aug 2026 02:11:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Republicans and ex-military leaders recoil at Trump officials' Canada attacks - Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU0xuSHd6eWdqeVFjazdwYmdidFZmQzNNX2ljVlBiaXFEb3VhUThwazZnMmx2cGpDNV91WHRueElUUVd5VXB0eXFZdGJLZ3JSZmYwbVZzdmVqbEM0QktZR2lheXlHbzF4dDBoMWU0Uk9WcGNIeGJzUl9vX0JuUmZ2a0FvSHVBNEhwT1Y0bFFzLVJudXlOYl8zMl84b09VdzdKZzVJZllNaw?oc=5",
-      "snippet": "Republicans and ex-military leaders recoil at Trump officials' Canada attacks &nbsp;&nbsp; Financial Post Fact check: Trump keeps making stuff up about Canada &nbsp;&nbsp; CNN Fact",
-      "pub": "Tue, 25 Aug 2026 15:56:57 GMT",
+      "title": "Toronto mayoral candidate proposes new name for New York after Trump takes aim at Lake Ontario - CP24",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMWZoU3RiVldtOEdRa3ZjSTdSQW9Vd2lXcEQwTU05SzVhcnlYbWFVS2hDaW1yUlE1SmQ0dUJNa2JrdmM0WFBUR24wWHFjX3hUSTJvNXE4X0VCaEFrY0IwSXJuZDFlQTFPbGhWdlp3SWNPMVJnQTY2YWJxdzRULUtOVGZ0UVlBVTYxNEdzTHBXenJRbzNwZU9xb2JaVklKSUxXejRLMmdUSVdOcmIweThLLXNLNW5Pa0tMLTIxUC1vNlAyWjFFV3BWRkI0WDN6WUpQT0xkUVFtNUc2X0RJVzFTR181X1NBZw?oc=5",
+      "snippet": "Toronto mayoral candidate proposes new name for New York after Trump takes aim at Lake Ontario &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
+      "pub": "Tue, 25 Aug 2026 21:20:49 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Air Canada still carrying U.S. alcohol as Ottawa pushes ‘Buy Canadian’ - Global News",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OcEp0NjZCRGxVX0RSQzRIekdIMkJNUnh1SDNIbEdkcFNuVm9acFY4eXdJd1k4bVdkZHBLVW1xYWEyV1AyeDV1cm8xdmRvVmQwQUpjRk1RblVvbDJtVDhDUjZGRHQtbG5QSVpWX0ZGNm9lSlpPT0dfTTdHVQ?oc=5",
-      "snippet": "Air Canada still carrying U.S. alcohol as Ottawa pushes ‘Buy Canadian’ &nbsp;&nbsp; Global News Canadians Stand Their Ground as Trump’s New Tariffs Endanger Jobs &nbsp;&nbsp; The N",
+      "snippet": "Air Canada still carrying U.S. alcohol as Ottawa pushes ‘Buy Canadian’ &nbsp;&nbsp; Global News Canadians Stand Their Ground as Trade War Intensifies &nbsp;&nbsp; The New York Time",
       "pub": "Tue, 25 Aug 2026 17:17:35 GMT",
       "image": ""
     },
@@ -108,10 +108,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Toronto mayoral candidate proposes new name for New York after Trump takes aim at Lake Ontario - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeE5kQ1dNUERVZnFJWTYzeDdnNWx2V2NKQUZRV2d1bVNZaEVIb05QVHJpWWhsWk9YaktMSGd2TEJZSHk5aXpndEQ5cnVzTmoxTDMwdE1GOVZiT1p1bFdNNXVKSnRRSWkzMUxRLUNlSnVoNjVJdmk2RmRfcTV4OU5mNk01TFo1YV9pQ3BlU280RkJvTThUbDF1U3VpazI3a2Z5Z2tlMlB3cFM1c1RQVzBqaW9kd1hBeHRicEdBSnVLdEo1RU9MQ1hoQXRPN254aVdwdEVTWUpPdU5TamJ4?oc=5",
-      "snippet": "Toronto mayoral candidate proposes new name for New York after Trump takes aim at Lake Ontario &nbsp;&nbsp; CTV News To First Nations that named Lake Ontario, Trump’s threat doesn’",
-      "pub": "Tue, 25 Aug 2026 21:20:49 GMT",
+      "title": "Map shows states with most mail-in voting as SCOTUS backs Trump admin - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmVfSEhOVTNrNFlsaW1oa3YycERFQnZseHFFbHBuVmFNM19zZ1ZxeC1WUW5XZjJpNWgtT2NuVTM5TWc1allCTGNNYmNyajkzZ09hYXVteHo0cFY0WWNuSmNUa2ZGYmFvdEtzNGI4c0Exb2pPZGZPaHlVSjVJTEh2dDliMzRadzFlWTRmZHdiY245UlFGRklxMFRQalJqV01SLU5iZQ?oc=5",
+      "snippet": "Map shows states with most mail-in voting as SCOTUS backs Trump admin &nbsp;&nbsp; Newsweek Judge issues setback to Trump administration plans to restrict mail-in ballots &nbsp;&nb",
+      "pub": "Tue, 25 Aug 2026 10:59:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "'To avoid scandal': Unearthed letters show how N.L. bishop handled allegations in Baie Verte - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWtsLWJFYWNqQm9lWE1nR1pha3llUHAzYjFMZVFleFMtTi1iLTBZTWNUbDE0VDNJUU5NU2IwSU1tUWpwNjlwX2xFa25temowZWt1Wng4VHAxVWVGY3UwSlNCWFpOMGp1aVlVWEEwLVcxVldXbkZ3R0Nud3BrNlpDQ1A4MGxBc3B0Zks5by1GQ3B6UTRBNTRxQXJTNmh1ZVNoaHdvbzBlUEE?oc=5",
+      "snippet": "'To avoid scandal': Unearthed letters show how N.L. bishop handled allegations in Baie Verte &nbsp;&nbsp; CBC",
+      "pub": "Wed, 26 Aug 2026 08:30:00 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PamtnLU42Zk5HOWhTZ2I4c2dIY2xCQ083OFpvT0tXMFdUUUgydWNKRm84REFJSXlSSFBxdHFOYWdhYzNKV1FILTUzdEJsYmJaSHp0b2tqWndTaDZ6TksteExJMlQ3UUhOd2lsSDUzWHBGb243bXZ5Ng?oc=5",
       "snippet": "Jason Kenney says oil needs to be on the table in U.S. tariff war &nbsp;&nbsp; Global News Conservatives split on how oil should factor into Canada’s trade war playbook &nbsp;&nbsp",
       "pub": "Tue, 25 Aug 2026 22:58:20 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "U.S. tariffs push Canadian alcohol producers to rethink their biggest export market - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXlvMG9LeEJtTmlRNVpyY1ZQWEgtZGJqMVlOeUdnS2NWWFBiMFZXZjhYVGRCbEVVUE95a1dYblBuOXByMzhJWW91VWxjN2s3anJrVTNWOXRSRlNiZVJsY1U5MVJSZUtsVWFhQjYxQm1WelZvVWhjMUtiUUFFVmpyM1RDSjI2Q3lpRmVpU215Z3dvV1ZaVndVWkJiNV9rbHdyV3RBX0xhX2t4bTFYbkE?oc=5",
-      "snippet": "U.S. tariffs push Canadian alcohol producers to rethink their biggest export market &nbsp;&nbsp; The Globe and Mail Premiers told to 'bridge past' Trump administration amid tariff ",
-      "pub": "Tue, 25 Aug 2026 21:59:14 GMT",
       "image": ""
     }
   ],
