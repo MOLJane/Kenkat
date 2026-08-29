@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-08-29T04:14:04.554148+00:00",
+  "generated_at": "2026-08-29T11:14:59.871408+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Buddy Bear Program Expands Across Newfoundland and Labrador",
+      "link": "https://vocm.com/2026/08/29/308610/",
+      "snippet": "A program aimed at helping children cope with traumatic experiences is expanding its reach across Newfoundland and Labrador. The Buddy Bear program - ...",
+      "pub": "Sat, 29 Aug 2026 09:50:10 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/buddy-bears-rnc-hat-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RNC Arrests Alleged Car Prowler Downtown",
+      "link": "https://vocm.com/2026/08/29/308594/",
+      "snippet": "A man who tried to hide out at the scene of the crime in downtown St. John's has been arrested by the RNC. Police were flagged down by a person around...",
+      "pub": "Sat, 29 Aug 2026 09:03:01 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Drivers Face Lane Closures During Crosswalk Work",
+      "link": "https://vocm.com/2026/08/29/308592/",
+      "snippet": "Here's an update on the Mount Pearl traffic situation in the area of Commonwealth Avenue. The city will be installing the crosswalk lights today at th...",
+      "pub": "Sat, 29 Aug 2026 08:59:21 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/city-of-mount-pearl-commonwealth-avenue-ruth-park-intersection.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Officer Charged Following Watchdog Investigation",
+      "link": "https://vocm.com/2026/08/29/308590/",
+      "snippet": "The lead police watchdog agency in Newfoundland and Labrador has charged a police officer with criminal harassment. Constable Kameron Collins of the R...",
+      "pub": "Sat, 29 Aug 2026 08:56:38 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/12/sirt-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "August 29, 2026 – Do you think NL can become a player in Canada’s aerospace sector with the government funding provided for a proposed spaceport in St. Lawrence?",
+      "link": "https://vocm.com/2026/08/29/august-29-2026-qotd/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13360').",
+      "pub": "Sat, 29 Aug 2026 08:00:45 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/nordspace-st-lawrence-spaceport-burin-peninsula.jpg"
+    },
     {
       "source": "VOCM",
       "title": "‘We’re into Some Real Foolishness Now;’ Premiers Chime in on ‘Lake America’",
@@ -27,58 +67,18 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/03/prepared-in-canada-grocery-store-labels-tariffs-food-tag-label-canadian-buy-local.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Cocaine, Cash and Weapons Seized in Mount Pearl Investigation",
-      "link": "https://vocm.com/2026/08/28/308566/",
-      "snippet": "Two men have been arrested following a recent drug seizure in Mount Pearl. RNC seized a quantity of cocaine and cash from a man in Mount Pearl, and as...",
-      "pub": "Fri, 28 Aug 2026 16:37:08 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/seized-items-mount-pearl-lis.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Provincial, Territorial Ministers Working on Ways to Knock Down Inter-Provincial Trade Barriers",
-      "link": "https://vocm.com/2026/08/28/308552/",
-      "snippet": "Ministers responsible for internal trade met in Nunavut this week to work on ways to knock down interprovincial trade barriers. Finance Minister Craig...",
-      "pub": "Fri, 28 Aug 2026 16:30:55 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/trade-ministers.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Man Arrested After Taxi Driver Robbed at Knifepoint",
-      "link": "https://vocm.com/2026/08/28/308562/",
-      "snippet": "A 44-year-old man has been arrested and charged after a cab driver was robbed at knifepoint in the Ropewalk Lane area. RNC were contacted around 7:00 ...",
-      "pub": "Fri, 28 Aug 2026 16:27:01 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/royal-newfoundland-constabulary-rnc-stock-2025-6-fall.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Woman Wanted on Three Warrants Arrested Following Gooseberry Cove Incident",
-      "link": "https://vocm.com/2026/08/28/308550/",
-      "snippet": "A 40-year-old woman who was wanted by police was arrested following a disturbance in Gooseberry Cove in Trinity Bay yesterday. Clarenville RCMP were c...",
-      "pub": "Fri, 28 Aug 2026 15:30:35 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/rcmp-royal-canadian-mounted-police-patch-stock-logo.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Charges Laid After Man Obstructs Traffic in Bishop’s Falls",
-      "link": "https://vocm.com/2026/08/28/308545/",
-      "snippet": "RCMP arrested a 42-year-old man who was reportedly obstructing traffic on Main Street in Bishop's Falls last evening. Police were called about a man c...",
-      "pub": "Fri, 28 Aug 2026 14:54:53 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/05/rcmp-car-vehicle-logo-stock-1.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Toronto, Montreal, Ottawa residents among 32 Canadians missing at Nepal-China border - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFRYWEJhbjVyNHd4UDFtR0lZU3o0dHdScUlPMWV5RHZxOFJ3aUFrX3FKYWhOTkJSLXNmTEJzbzVRT0ZGdktmOERlYThoaXR3cHA3QmRCMUx5VmJ5Mm1heDUtOHlSRGwxUExlQ2R4NlM4MHhlckVraURJSi11TDI1ME52VjNpSVRRbEdCYVpub0xUSnh3eFRST2FaeTkwQXlBSTlKWA?oc=5",
-      "snippet": "Toronto, Montreal, Ottawa residents among 32 Canadians missing at Nepal-China border &nbsp;&nbsp; CTV News Landslides and floods have wreaked havoc in Nepal and China. Follow the r",
-      "pub": "Fri, 28 Aug 2026 22:36:13 GMT",
+      "title": "‘We’ve been so worried’: Another B.C. couple missing after Nepal flash flooding - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaV85b2h3NTN6R3ZjSUZhZTV4M3FhVkpEM2pfZjFZYk8yeEVTVXVBU3hTR2o5T2NVWXdpcC1QQ25iOVVxSk8xUXM3eWJ1VEVUZ0ZWSFZjU01tcjVnbXBrQ2hJWWphY3U1d19tWnBSQlkzSVJ5LV9odEtUVkVjUUdodDNHRThRa2ZzVkZz?oc=5",
+      "snippet": "‘We’ve been so worried’: Another B.C. couple missing after Nepal flash flooding &nbsp;&nbsp; Global News Footage of Tibet floods isn't being shown in China - and we know little abo",
+      "pub": "Sat, 29 Aug 2026 01:05:59 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "What tariffs will really cost Canadians and Americans - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pNmVYUjNqVFpVSm1KX0FkLVVLS2lUa0I2TDNvUmpGcmxObUcwVUIyWC1ZMGpDSkNKdWVfUzgyV3ItRGpEY1hKcDJKMXRaaGF0eTBVbHViXzNldw?oc=5",
-      "snippet": "What tariffs will really cost Canadians and Americans &nbsp;&nbsp; BBC Escalation tactics in trade negotiations with the U.S. prove to be a minefield &nbsp;&nbsp; The Globe and Mai",
+      "snippet": "What tariffs will really cost Canadians and Americans &nbsp;&nbsp; BBC We asked Canadians if they intend to boycott U.S. products. Here’s what they said. &nbsp;&nbsp; CTV News Doug",
       "pub": "Sat, 29 Aug 2026 00:15:19 GMT",
       "image": ""
     },
@@ -92,42 +92,42 @@
     },
     {
       "source": "Google News Canada",
+      "title": "CAQ and PQ are neck and neck on Day 2 of Quebec election campaign, poll suggests - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOTNDMzdKYkdvRjM4cVNham9Qd2hEVThMeDdISHpieG82bkhfQWRoTlhkdVAzRXRydlYzVkpqSlQzUFplZk10UHVRTmd1dWJFV2ctOEdOWE83eUVrMXpCcnRVNG5TZnpMT2dqR2RGUzdfNnMzdW1Xc0RKUnF5NnN6MGlPdWNXSEZQN3RCQVJnSVM?oc=5",
+      "snippet": "CAQ and PQ are neck and neck on Day 2 of Quebec election campaign, poll suggests &nbsp;&nbsp; Montreal Gazette Taxes, trade war and parental leave dominate Day 2 of Quebec election",
+      "pub": "Fri, 28 Aug 2026 19:30:06 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Alberta’s current, former premiers offer contradicting views on U.S. counter-tariffs - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNakR6SkVnNXYzT2Flbm8tWVR6QWNPd0dvVDFiRTFYenNtLWdZVkVvLU1yWC1RVGRFbFIxYTNSMWV1WUZ0NElkc3Z4V0lBNm0xMlYtZFNqT0pyWHpxanNkeF9hTXdQRDdXdzJMTFNIclFKNFNWbWVWYnFjRnk1R213eDFrbXpzUXFueDBneFpfTVVISmlRVDh2TVptc3JCTktwSk5rS2pxTm9wWnB4aEdfeEdpei1oT3UyOG5PV1RVS3Q1SUtYZW0wN2NIeU1XYzNVOVNYMHgyb014V3lVMW1lS1J2SWl1Zw?oc=5",
+      "snippet": "Alberta’s current, former premiers offer contradicting views on U.S. counter-tariffs &nbsp;&nbsp; CTV News Alberta Premier Danielle Smith to meet with U.S. officials next week amid",
+      "pub": "Sat, 29 Aug 2026 00:32:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
       "title": "'Sad and pathetic': U.S. politicians condemn Trump’s renaming of Lake Ontario - National Post",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFVSM1ZhNUtYVnJEeGtZdElYcFZCUlBiWGEydGMwWThQYldwczZxRF9hNUozaGI0OExnRjM1MmlEejc1SG1WLUFVbXRYbkhTa3FWV1B6UnBqeGR1UTF5aUUtazV3YmNLS1ZZeVAxVFBCenYtR2hwa0UybVZMNFVyMlhZZ0lTTUo2NjVzbHdGVEY5ZEI5ZE9v?oc=5",
-      "snippet": "'Sad and pathetic': U.S. politicians condemn Trump’s renaming of Lake Ontario &nbsp;&nbsp; National Post Can Trump actually change Lake Ontario to ‘Lake America’? Here’s what to kn",
+      "snippet": "'Sad and pathetic': U.S. politicians condemn Trump’s renaming of Lake Ontario &nbsp;&nbsp; National Post Ottawa couple's 'Lake Ontario' hats selling like hotcakes after Trump's exe",
       "pub": "Fri, 28 Aug 2026 20:31:01 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "What went wrong with U.S. trade talks, according to Canada's chief negotiator - CBC",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGJNVjdXb1JRaTFkbEstdWJ6cUtHTDlSdnZGLUxFY2FOUE9KX25GUVFPYUs1a2JMZURxaVlaazVianF1YnVXZEF6cDBWNmo4blRTYzBkRzFhYkliZ0tNSHFfR1B1LWpGOTBGZ0E4TDB1eWdyS3dxUGxrM24tOHZSaEpEc3VDRFppTVQ4OEdscGtCTFAxOU9VcWFNc2xJbzYyYnh2VGg2eFJBa1YzR25Ya2dnd0YxZw?oc=5",
-      "snippet": "What went wrong with U.S. trade talks, according to Canada's chief negotiator &nbsp;&nbsp; CBC Lutnick claims Canada pulled out of trade talks due to the Quebec election, Alberta r",
-      "pub": "Fri, 28 Aug 2026 21:20:28 GMT",
+      "title": "B.C. Conservatives to gather for crisis meeting on Monday after departure of five MLAs - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTk56WkNZSmJ3TEtBckpxakdxbnhFd0NsQ2ljSUZZcXRHbFlmdjRneWhMbWVwV0JxN2ZLOTgwbjVETktsdUhhU0hXZ09ocXFNaWI1SGhlMThmSFNfYkJiaHRjMU5WRGw4UHF1T0dLc3dyVEU3ZEJkajltbkprNWZNcVF2MWZkWmluWDhxaXpkY0pzMUFzd0tjU1ZuUEkwdlF1LWJ3WXg1d0k1RFViY0FJV1JqOVlUQzQ?oc=5",
+      "snippet": "B.C. Conservatives to gather for crisis meeting on Monday after departure of five MLAs &nbsp;&nbsp; The Globe and Mail Calls for unity after wave of exits from B.C. Conservatives &",
+      "pub": "Sat, 29 Aug 2026 00:31:04 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "CBC changes policy that says not to label 9/11 attacks as ‘terrorism’ after criticism - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWG0zMmp2cmhfMTQ4VVB6TVZCQXlhRTl0QlNNRk55Vi1Fd0ZxdkNnTmNFRlJjMmNGbVZLT0EwamtGMWVQUUZZaXBHN25faktMbDB2alpoVlpVRUlaVE9HME9FbXBsSkNZUk9PdHpTUmhOZ191RU8xR2xFSDFMaG5Icmc5Vkp1SWlOQnYwelNaMGlPdkN6dVZYbWVwTzg4cngzTEpWOXl1VlRob1BfOGFiUWFrc1daT2M?oc=5",
-      "snippet": "CBC changes policy that says not to label 9/11 attacks as ‘terrorism’ after criticism &nbsp;&nbsp; The Globe and Mail How and why CBC News will adjust its 9/11 language guidance &n",
-      "pub": "Fri, 28 Aug 2026 20:09:04 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "'Her impact was nationwide': B.C. NDP MLA Joan Phillip dead at 74 | CBC News - CBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSHVHTVgzNWthakJlV1ZlaS0zNEZLUjJQQUxoZ0ZReEhuZzJkNnRCNTkxUTlobEhuUTZkOE83dWJuQ2EzSEFsV1cxdVUxQ21FQXJld2VVbE1GRy1LanZ3aFFvQ3NGaXh0RUZlYTNtcDlldDcxQktwbF9FenlUVFZNeg?oc=5",
-      "snippet": "'Her impact was nationwide': B.C. NDP MLA Joan Phillip dead at 74 | CBC News &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Sat, 29 Aug 2026 00:02:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "CAQ and PQ are neck and neck on Day 2 of Quebec election campaign, poll suggests - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOTNDMzdKYkdvRjM4cVNham9Qd2hEVThMeDdISHpieG82bkhfQWRoTlhkdVAzRXRydlYzVkpqSlQzUFplZk10UHVRTmd1dWJFV2ctOEdOWE83eUVrMXpCcnRVNG5TZnpMT2dqR2RGUzdfNnMzdW1Xc0RKUnF5NnN6MGlPdWNXSEZQN3RCQVJnSVM?oc=5",
-      "snippet": "CAQ and PQ are neck and neck on Day 2 of Quebec election campaign, poll suggests &nbsp;&nbsp; Montreal Gazette Dimitri Soudas: Donald Trump is inadvertently reminding Quebec why it",
-      "pub": "Fri, 28 Aug 2026 19:30:06 GMT",
+      "title": "Could Albertans return to the polls next spring for a binding separation vote? - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYkstdzhIRXlIeHNpSFc3N3RWRW5fUGttMms1UEJPajdseF9pUTF5NVJIN0pFekpwVXlnMEMwa3UxZEVNUll1X2hpeGVNYWRFMW00WV9Nb1o0MUNxbTBSck9veHh5clJrQlRtbzZ2Rlk5V2JiVjNzQmt6RUkyMGlWTWVTb1RIWFlZdFpzSFNjZ09DV1RtVWtZa3FFNHpDMGVUTFc4RlBiZmk4OWQ0b2pzSFlHUi1WVnI3Z0xGTlZ0VTFpSm5xY2VabVFJVGoxTkFOVnZPQ0FncFByTlJ4X3FWVzFB?oc=5",
+      "snippet": "Could Albertans return to the polls next spring for a binding separation vote? &nbsp;&nbsp; Calgary Herald Opinion: Look to Quebec, not Alberta, to find the biggest threat to Canad",
+      "pub": "Sat, 29 Aug 2026 03:43:06 GMT",
       "image": ""
     }
   ],
