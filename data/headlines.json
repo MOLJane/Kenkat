@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-08-29T11:14:59.871408+00:00",
+  "generated_at": "2026-08-29T15:42:19.341142+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Holyrood SquidFest Concert Cancelled Due to Water Issues",
+      "link": "https://vocm.com/2026/08/29/308627/",
+      "snippet": "Due to the ongoing water issues in the town of Holyrood, the SquidFest Beach Party Goes Country concert scheduled for tonight has been cancelled. The ...",
+      "pub": "Sat, 29 Aug 2026 15:06:16 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/02/Holyrood.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Holyrood Brings in Water Truck Amid Ongoing Water Supply Issues",
+      "link": "https://vocm.com/2026/08/29/308620/",
+      "snippet": "The Town of Holyrood continues to have serious problems with its water system and has now brought in a water truck to provide services. The ongoing di...",
+      "pub": "Sat, 29 Aug 2026 13:45:06 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/02/Holyrood.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Governments Confident in Burin Peninsula as Location for Space Centre",
+      "link": "https://vocm.com/2026/08/29/308586/",
+      "snippet": "Buoyed by financial support from both the federal and provincial governments, NordSpace plans to launch a satellite into space in a couple of weeks. A...",
+      "pub": "Sat, 29 Aug 2026 13:43:37 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/09/aerial-view-of-nordspaces-atlantic-spaceport-complex-asx-space-launch-complex-slc-02-under-construction-outside-st-lawrence-newfoundland-and-labrador.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "U.S. Announces New Oil Agreement With Venezuela",
+      "link": "https://vocm.com/2026/08/29/u-s-announces-new-oil-agreement-with-venezuela/",
+      "snippet": "The United States has entered into a new oil agreement with Venezuela that could reshape energy ties between the two countries. Reuters reported that ...",
+      "pub": "Sat, 29 Aug 2026 13:07:28 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/08/469421284.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Devastating Nepal Floods Reverberate in Newfoundland",
+      "link": "https://vocm.com/2026/08/29/308606/",
+      "snippet": "The numbers in Nepal keep rising. The latest has more than 600 people dead and about three-thousand missing. No Canadians are among the 121 foreign na...",
+      "pub": "Sat, 29 Aug 2026 13:25:25 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/nepal-flood-red-cross-2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Buddy Bear Program Expands Across Newfoundland and Labrador",
@@ -27,59 +67,35 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/city-of-mount-pearl-commonwealth-avenue-ruth-park-intersection.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Officer Charged Following Watchdog Investigation",
-      "link": "https://vocm.com/2026/08/29/308590/",
-      "snippet": "The lead police watchdog agency in Newfoundland and Labrador has charged a police officer with criminal harassment. Constable Kameron Collins of the R...",
-      "pub": "Sat, 29 Aug 2026 08:56:38 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/12/sirt-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "August 29, 2026 – Do you think NL can become a player in Canada’s aerospace sector with the government funding provided for a proposed spaceport in St. Lawrence?",
-      "link": "https://vocm.com/2026/08/29/august-29-2026-qotd/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13360').",
-      "pub": "Sat, 29 Aug 2026 08:00:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/nordspace-st-lawrence-spaceport-burin-peninsula.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "‘We’re into Some Real Foolishness Now;’ Premiers Chime in on ‘Lake America’",
-      "link": "https://vocm.com/2026/08/28/308575/",
-      "snippet": "Leaders across Canada are chiming in on Donald Trump's latest attempts to get the goat of Canadians. The U.S. President yesterday signed an executive ...",
-      "pub": "Fri, 28 Aug 2026 19:23:32 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/tim-houston-and-wab-kinew.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "C-NLOER Issues Calls for Nominations for Parcels in Offshore",
-      "link": "https://vocm.com/2026/08/28/c-nloer-issues-calls-for-nominations-for-parcels-in-offshore/",
-      "snippet": "The province's offshore oil regulator has issued two calls for nominations for parcels of land off eastern Newfoundland including the Jeanne d'Arc reg...",
-      "pub": "Fri, 28 Aug 2026 18:25:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/ocean.webp"
-    },
-    {
-      "source": "VOCM",
-      "title": "Avoiding ‘American’ Retailers Because of Trade War Could do ‘More Harm Than Good’ says Retail Council",
-      "link": "https://vocm.com/2026/08/28/308548/",
-      "snippet": "Simply choosing to shun an American retailer operating in Canada amid the growing trade tensions might not be the best thing to do. The months of Octo...",
-      "pub": "Fri, 28 Aug 2026 16:55:51 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/03/prepared-in-canada-grocery-store-labels-tariffs-food-tag-label-canadian-buy-local.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "‘We’ve been so worried’: Another B.C. couple missing after Nepal flash flooding - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaV85b2h3NTN6R3ZjSUZhZTV4M3FhVkpEM2pfZjFZYk8yeEVTVXVBU3hTR2o5T2NVWXdpcC1QQ25iOVVxSk8xUXM3eWJ1VEVUZ0ZWSFZjU01tcjVnbXBrQ2hJWWphY3U1d19tWnBSQlkzSVJ5LV9odEtUVkVjUUdodDNHRThRa2ZzVkZz?oc=5",
-      "snippet": "‘We’ve been so worried’: Another B.C. couple missing after Nepal flash flooding &nbsp;&nbsp; Global News Footage of Tibet floods isn't being shown in China - and we know little abo",
-      "pub": "Sat, 29 Aug 2026 01:05:59 GMT",
+      "title": "Untested in court, Trump's new tariffs on Canada raise legal questions - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd0tMdjdsSnR4SFJ4STRYNXItVFNXZXZTTnJ0cnVpM0lkMVp4OGE1X2J0ZEFkekd3ZkVSa0RvcUdVRGN5Tm1sOFVnWGx2YWFZUGpIVWlzR1QyUG5yelRwdk91X3pFSVdraEo2ZjRoYUpfa0Vjc3RITGxIVXBWSVlaci1WaWJBdzBreTNJdjFNVlVwaTlaUzctczltMU9LMUNtRFpsMEppM1hRXzRxUzZnXzF4VGpSeF9oV09TRWt3?oc=5",
+      "snippet": "Untested in court, Trump's new tariffs on Canada raise legal questions &nbsp;&nbsp; CTV News Canada ready to further distance itself from U.S. on military procurement &nbsp;&nbsp; ",
+      "pub": "Sat, 29 Aug 2026 12:46:56 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "What tariffs will really cost Canadians and Americans - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pNmVYUjNqVFpVSm1KX0FkLVVLS2lUa0I2TDNvUmpGcmxObUcwVUIyWC1ZMGpDSkNKdWVfUzgyV3ItRGpEY1hKcDJKMXRaaGF0eTBVbHViXzNldw?oc=5",
-      "snippet": "What tariffs will really cost Canadians and Americans &nbsp;&nbsp; BBC We asked Canadians if they intend to boycott U.S. products. Here’s what they said. &nbsp;&nbsp; CTV News Doug",
-      "pub": "Sat, 29 Aug 2026 00:15:19 GMT",
+      "title": "Live updates: China-Nepal flood death toll passes 600 - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pR2ktbUNXSndQQlFUb01IWmhPdlU4VXIzZ0owTl9sd2pXZ0hYVEZDcTNPU0ZxWmh1NU5TOHo4ckZIamZDcFhjZlNUSUZPU2RhZzZpcDhPZFBCV2doZ2VnWE41VHY2M2dTdGpRQ0U5N185QQ?oc=5",
+      "snippet": "Live updates: China-Nepal flood death toll passes 600 &nbsp;&nbsp; CNN Toronto, Montreal, Ottawa residents among 32 Canadians missing at Nepal-China border &nbsp;&nbsp; CTV News ‘T",
+      "pub": "Sat, 29 Aug 2026 12:16:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "'Sad and pathetic': U.S. politicians condemn Trump’s renaming of Lake Ontario - National Post",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFVSM1ZhNUtYVnJEeGtZdElYcFZCUlBiWGEydGMwWThQYldwczZxRF9hNUozaGI0OExnRjM1MmlEejc1SG1WLUFVbXRYbkhTa3FWV1B6UnBqeGR1UTF5aUUtazV3YmNLS1ZZeVAxVFBCenYtR2hwa0UybVZMNFVyMlhZZ0lTTUo2NjVzbHdGVEY5ZEI5ZE9v?oc=5",
+      "snippet": "'Sad and pathetic': U.S. politicians condemn Trump’s renaming of Lake Ontario &nbsp;&nbsp; National Post These beautiful B.C. landmarks cross the U.S.-Canada border. Will they be t",
+      "pub": "Fri, 28 Aug 2026 20:31:01 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Economists have some ideas about how to Trump-proof the economy - National Post",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNXzdjOUVNeGNrV3Fpd2dlUlNMNHEzdmxkbldFUnZVcmkyb2doSEZJUy1zLXBvSFBUSUFSQTJ1TjFoUGdCZy1Zc1BKbUpYT0F3cGl3MWJ3Y1FpQ2FOTHpqcUE2MHhOeDlpVHAxN1Y0dng4TGNvTzFFeUtSUWU1bWJlRnRJS0hRU01WeXNjV21DcENGWnhIbmN1NnRFbC15dnFGcXc?oc=5",
+      "snippet": "Economists have some ideas about how to Trump-proof the economy &nbsp;&nbsp; National Post Adam Radwanski: Canada’s economy can survive almost anything Donald Trump throws at us — ",
+      "pub": "Sat, 29 Aug 2026 10:02:13 GMT",
       "image": ""
     },
     {
@@ -92,42 +108,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "CAQ and PQ are neck and neck on Day 2 of Quebec election campaign, poll suggests - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOTNDMzdKYkdvRjM4cVNham9Qd2hEVThMeDdISHpieG82bkhfQWRoTlhkdVAzRXRydlYzVkpqSlQzUFplZk10UHVRTmd1dWJFV2ctOEdOWE83eUVrMXpCcnRVNG5TZnpMT2dqR2RGUzdfNnMzdW1Xc0RKUnF5NnN6MGlPdWNXSEZQN3RCQVJnSVM?oc=5",
-      "snippet": "CAQ and PQ are neck and neck on Day 2 of Quebec election campaign, poll suggests &nbsp;&nbsp; Montreal Gazette Taxes, trade war and parental leave dominate Day 2 of Quebec election",
-      "pub": "Fri, 28 Aug 2026 19:30:06 GMT",
+      "title": "At least 37 killed after Russian drone strike triggers major explosion near Kyiv - The Kyiv Independent",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXJsMzRobWdsU3R0SUdZUVQtLTVEYndpRzktdUFaSTltaUMwWEpiazVzQU9LNVdyTklDSTluMUQzbjZPOWNqUTdxQXNibnRyYWIzS0lyLUZNRm9Kak9HLU5mVUo0Z29tV0FoVXpybjcwWWwzOFY3S3hmR0VHYnBOcFNlS29qbU53clByc3lTWlpYSDVLSXJWTHRFSGxfWVBJeW1FWGlR?oc=5",
+      "snippet": "At least 37 killed after Russian drone strike triggers major explosion near Kyiv &nbsp;&nbsp; The Kyiv Independent At least 37 dead and hundreds evacuated after strike on Kyiv weap",
+      "pub": "Sat, 29 Aug 2026 10:14:22 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta’s current, former premiers offer contradicting views on U.S. counter-tariffs - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNakR6SkVnNXYzT2Flbm8tWVR6QWNPd0dvVDFiRTFYenNtLWdZVkVvLU1yWC1RVGRFbFIxYTNSMWV1WUZ0NElkc3Z4V0lBNm0xMlYtZFNqT0pyWHpxanNkeF9hTXdQRDdXdzJMTFNIclFKNFNWbWVWYnFjRnk1R213eDFrbXpzUXFueDBneFpfTVVISmlRVDh2TVptc3JCTktwSk5rS2pxTm9wWnB4aEdfeEdpei1oT3UyOG5PV1RVS3Q1SUtYZW0wN2NIeU1XYzNVOVNYMHgyb014V3lVMW1lS1J2SWl1Zw?oc=5",
-      "snippet": "Alberta’s current, former premiers offer contradicting views on U.S. counter-tariffs &nbsp;&nbsp; CTV News Alberta Premier Danielle Smith to meet with U.S. officials next week amid",
-      "pub": "Sat, 29 Aug 2026 00:32:00 GMT",
+      "title": "An island mysteriously appeared — then disappeared — on B.C.'s largest reservoir - CBC",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3puVFpGYVVvTk9fN3F3YThoaXhjVW5STVR1QTN0LVhqbjZSR0F4bkluVV9od2F1aTNhVGRPQWtHaVhWQ1JrWkdaNzBkWTRhTEN0b1pfdTNlX1luR1N1dzFVVExPcWtmbXhfY3hibU1MaHJuTUdXb3BCQlNrNzZuejBOeERISnNwdVdZMno4cFYwNURZbGc?oc=5",
+      "snippet": "An island mysteriously appeared — then disappeared — on B.C.'s largest reservoir &nbsp;&nbsp; CBC",
+      "pub": "Sat, 29 Aug 2026 11:52:15 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "'Sad and pathetic': U.S. politicians condemn Trump’s renaming of Lake Ontario - National Post",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFVSM1ZhNUtYVnJEeGtZdElYcFZCUlBiWGEydGMwWThQYldwczZxRF9hNUozaGI0OExnRjM1MmlEejc1SG1WLUFVbXRYbkhTa3FWV1B6UnBqeGR1UTF5aUUtazV3YmNLS1ZZeVAxVFBCenYtR2hwa0UybVZMNFVyMlhZZ0lTTUo2NjVzbHdGVEY5ZEI5ZE9v?oc=5",
-      "snippet": "'Sad and pathetic': U.S. politicians condemn Trump’s renaming of Lake Ontario &nbsp;&nbsp; National Post Ottawa couple's 'Lake Ontario' hats selling like hotcakes after Trump's exe",
-      "pub": "Fri, 28 Aug 2026 20:31:01 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "B.C. Conservatives to gather for crisis meeting on Monday after departure of five MLAs - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTk56WkNZSmJ3TEtBckpxakdxbnhFd0NsQ2ljSUZZcXRHbFlmdjRneWhMbWVwV0JxN2ZLOTgwbjVETktsdUhhU0hXZ09ocXFNaWI1SGhlMThmSFNfYkJiaHRjMU5WRGw4UHF1T0dLc3dyVEU3ZEJkajltbkprNWZNcVF2MWZkWmluWDhxaXpkY0pzMUFzd0tjU1ZuUEkwdlF1LWJ3WXg1d0k1RFViY0FJV1JqOVlUQzQ?oc=5",
-      "snippet": "B.C. Conservatives to gather for crisis meeting on Monday after departure of five MLAs &nbsp;&nbsp; The Globe and Mail Calls for unity after wave of exits from B.C. Conservatives &",
-      "pub": "Sat, 29 Aug 2026 00:31:04 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Could Albertans return to the polls next spring for a binding separation vote? - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYkstdzhIRXlIeHNpSFc3N3RWRW5fUGttMms1UEJPajdseF9pUTF5NVJIN0pFekpwVXlnMEMwa3UxZEVNUll1X2hpeGVNYWRFMW00WV9Nb1o0MUNxbTBSck9veHh5clJrQlRtbzZ2Rlk5V2JiVjNzQmt6RUkyMGlWTWVTb1RIWFlZdFpzSFNjZ09DV1RtVWtZa3FFNHpDMGVUTFc4RlBiZmk4OWQ0b2pzSFlHUi1WVnI3Z0xGTlZ0VTFpSm5xY2VabVFJVGoxTkFOVnZPQ0FncFByTlJ4X3FWVzFB?oc=5",
-      "snippet": "Could Albertans return to the polls next spring for a binding separation vote? &nbsp;&nbsp; Calgary Herald Opinion: Look to Quebec, not Alberta, to find the biggest threat to Canad",
-      "pub": "Sat, 29 Aug 2026 03:43:06 GMT",
+      "title": "Alberta's Smith to meet with U.S. officials next week amid trade war - Castanet",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUTZYbDFOY0R3djBxaDZhUm40UVBfMExBaEthR3kzaU1QaV90VmRqM2hkWjRxaDNGcVJNRkRBT0tkSVh2SmZjMFlnelJJOW5PMG8ySXdoSlBiZ3FNeHFyYmxTLXFqSmhxNHg0SGtuTXdodkdMMnAteXZmdmg3Y3RqYjJsZDZMdnB2c25oUkN4Y1l3blIwMFU2V3NGM3lQdW44N3VudEM1T3ppdVdSeHdtcktB?oc=5",
+      "snippet": "Alberta's Smith to meet with U.S. officials next week amid trade war &nbsp;&nbsp; Castanet Alberta Premier Danielle Smith to meet with U.S. officials next week amid trade war &nbsp",
+      "pub": "Sat, 29 Aug 2026 01:38:00 GMT",
       "image": ""
     }
   ],
