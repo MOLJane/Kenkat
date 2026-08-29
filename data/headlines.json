@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-29T21:50:30.127548+00:00",
+  "generated_at": "2026-08-29T23:44:28.364287+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Teen Missing from St. John’s",
+      "link": "https://vocm.com/2026/08/29/teen-missing-from-st-johns/",
+      "snippet": "The RNC is seeking the public's help in locating a 15-year-old girl reported missing from the capital city. Police say Emma Rideout was last seen in t...",
+      "pub": "Sat, 29 Aug 2026 22:16:19 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/emma-rideout-missing.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Tropical Storm ‘Dolly’ Not Expected to Strengthen to Hurricane Status",
@@ -40,7 +48,7 @@
       "link": "https://vocm.com/2026/08/29/308627/",
       "snippet": "Due to the ongoing water issues in the town of Holyrood, the SquidFest Beach Party Goes Country concert scheduled for tonight has been cancelled. The ...",
       "pub": "Sat, 29 Aug 2026 15:06:16 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/02/Holyrood.jpg"
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/07/holyrood-squidfest-hats.jpg"
     },
     {
       "source": "VOCM",
@@ -57,14 +65,6 @@
       "snippet": "Buoyed by financial support from both the federal and provincial governments, NordSpace plans to launch a satellite into space in a couple of weeks. A...",
       "pub": "Sat, 29 Aug 2026 13:43:37 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/09/aerial-view-of-nordspaces-atlantic-spaceport-complex-asx-space-launch-complex-slc-02-under-construction-outside-st-lawrence-newfoundland-and-labrador.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "U.S. Announces New Oil Agreement With Venezuela",
-      "link": "https://vocm.com/2026/08/29/u-s-announces-new-oil-agreement-with-venezuela/",
-      "snippet": "The United States has entered into a new oil agreement with Venezuela that could reshape energy ties between the two countries. Reuters reported that ...",
-      "pub": "Sat, 29 Aug 2026 13:07:28 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/08/469421284.jpg"
     },
     {
       "source": "Google News Canada",
@@ -84,14 +84,6 @@
     },
     {
       "source": "Google News Canada",
-      "title": "‘We’ve been so worried’: Another B.C. couple missing after Nepal flash flooding - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaV85b2h3NTN6R3ZjSUZhZTV4M3FhVkpEM2pfZjFZYk8yeEVTVXVBU3hTR2o5T2NVWXdpcC1QQ25iOVVxSk8xUXM3eWJ1VEVUZ0ZWSFZjU01tcjVnbXBrQ2hJWWphY3U1d19tWnBSQlkzSVJ5LV9odEtUVkVjUUdodDNHRThRa2ZzVkZz?oc=5",
-      "snippet": "‘We’ve been so worried’: Another B.C. couple missing after Nepal flash flooding &nbsp;&nbsp; Global News Family of Canadians missing in Nepal floods on edge as they wait for inform",
-      "pub": "Sat, 29 Aug 2026 01:05:59 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
       "title": "B.C. premier calls byelection in riding where Conservative leader set to run - CTV News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb3h5VDFJZ1NZRzFuUkJsT3VwZ3NPd0pUc0JiNTRyd3dLS2tBcU5ETU9VYUZLVFNvVFVMcXFHNVJGdER2VXozRWVkbE9OVzBOZnFBUVNwb181OGI0RzVIQ1dRcEdzd3VjaFN5d3V3djU3RDZoMW91S04xbmNadThpNExpUTZnck1tNG92cGFwX2xfWXFsM2RUdWxvZnU3VHJ1bGtSUVBzcw?oc=5",
       "snippet": "B.C. premier calls byelection in riding where Conservative leader set to run &nbsp;&nbsp; CTV News Byelection set for riding where B.C. Conservative leader expected to run &nbsp;&n",
@@ -100,34 +92,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Canada poaches dozens of top US researchers for its universities - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkbURWQkN0SGw0MTJCVVF5U2pFQ2ttME1EMTFvNWJrRjhDb0JGZ1FJaFNMdEVBOThLNVNZNHREM3VEd1lZbV84TnJhSldJQjJmNGdmUWZPQjJzQQ?oc=5",
-      "snippet": "Canada poaches dozens of top US researchers for its universities &nbsp;&nbsp; BBC Canada recruited 64 professors with new research fund. Three-quarters are from U.S. schools &nbsp;",
-      "pub": "Fri, 28 Aug 2026 23:47:38 GMT",
+      "title": "‘We’ve been so worried’: Another B.C. couple missing after Nepal flash flooding - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaV85b2h3NTN6R3ZjSUZhZTV4M3FhVkpEM2pfZjFZYk8yeEVTVXVBU3hTR2o5T2NVWXdpcC1QQ25iOVVxSk8xUXM3eWJ1VEVUZ0ZWSFZjU01tcjVnbXBrQ2hJWWphY3U1d19tWnBSQlkzSVJ5LV9odEtUVkVjUUdodDNHRThRa2ZzVkZz?oc=5",
+      "snippet": "‘We’ve been so worried’: Another B.C. couple missing after Nepal flash flooding &nbsp;&nbsp; Global News Nepal floods latest: Rescue efforts enter fifth day with more than 2,400 mi",
+      "pub": "Sat, 29 Aug 2026 01:05:59 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Norway mourns King Harald as new era begins under Haakon VIII - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOW5SMWpOdmVLQkZiZ25odTljUC1Oa1ZNQXl2aHlEU0pVcEFBLWhic09IV3d2enQ2ZTBPZGlheXEzRWRUZXQ2cWx4dWxxTlM4MjdDNHJBZUg2MTlzMzBwcFl6dnQtcHIwSFhDT0ZXSkU2MHNYTm5CcFBFVzJYV0RNQXRYUmZLS3NrMzRKa01rODI1Z0FyellPRVpkbzBZZ0NSYWxsaNIBqgFBVV95cUxOZmNlaTFLNTdrOVl4bTNjcV9wNDZ6N2JYa1ZDQXc5QW1SVFZMZWpuOXlndFZUdmpBZTRuR0s3Q1RHVmFGS1JXai1EV3hpQXJ0RExxakR1cmtNYmxBeEhyNzVoblJMeHA1UGtWR0lnN0lnWnZnS044V2tZeVJ4dTI5ODJQRXd5YzRoV2c5OERCdFJ6Wk9Yc21HWm1jMFpqVG52SjNWVXFrRzA2Zw?oc=5",
-      "snippet": "Norway mourns King Harald as new era begins under Haakon VIII &nbsp;&nbsp; Al Jazeera See more headlines & perspectives on Google News",
-      "pub": "Sat, 29 Aug 2026 09:57:41 GMT",
+      "title": "Alberta Premier Danielle Smith to meet with U.S. officials amid trade war - Global News",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MNXk4ZFhvWDRhUFhlSVdZM18xQVhBdzZpOEJFOElxaEtTd2pLdm9CQ20wN2UxYzYwbGhzSGZDZmtsQXNIdEFXVURZQkpKU2ZKZ3ZGc0Y1RzlEVXpGa0ozM3hxRDlGVUdwUkdpOU5XNUpTWF9ZX2VYVA?oc=5",
+      "snippet": "Alberta Premier Danielle Smith to meet with U.S. officials amid trade war &nbsp;&nbsp; Global News Alberta, Sask. politicians head to the U.S. for conference, trade advocacy &nbsp;",
+      "pub": "Sat, 29 Aug 2026 17:51:07 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘Stop treating Quebecers like idiots’: Liberals. Follow for live updates. - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX3l5eDFlYVE2RG9DNFMzeWY3VTZLU2kzbktNQVdhT1Z2bFo4N3ByWV9YdE1EanJKa2tmMDEzaklxSnNWTUFHSnpPREVnSnVBZ2ZDUkxHUVRPUnZhNW9MSjJrLXV3X0hxN0wwQ0Z5TmVwZDRWNlJuY25VVjFBSlYtQ1RMZE9sTWFVcjRTdHBjc18ySVZtSHY4dF9zV2tJZUNIb3dTdkQ3bXJGX0xPUVl0ZW1MeWtiNFpPT2hKeFAyb3Y?oc=5",
-      "snippet": "‘Stop treating Quebecers like idiots’: Liberals. Follow for live updates. &nbsp;&nbsp; CTV News Dimitri Soudas: Donald Trump is inadvertently reminding Quebec why it needs Canada &",
-      "pub": "Sat, 29 Aug 2026 20:45:16 GMT",
+      "title": "As she launches her campaign, Quebec's Fréchette hopes the Carney formula will work twice - National Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2N5Z1QxMmJTN2VSVmJDWFlMbURmWFNvYll2dkppb1dxLUY1MU1ZbUxmN25ZMjdKbWFwS2gxSGFCV0RIS1dGVWNXUXpEZF9DWWowVTJ5eDVsZlhLZVRjZlRiZ3lqRGlHRXJ3Q09TaVZYbVFrZXVYUnpmdmRGekpGUkNWNG5fRFk3bVFxS192aEVPTkhobjJPVUVwdUUwdDZNN1dVcTRpbExERWdfU2c?oc=5",
+      "snippet": "As she launches her campaign, Quebec's Fréchette hopes the Carney formula will work twice &nbsp;&nbsp; National Post Dimitri Soudas: Donald Trump is inadvertently reminding Quebec ",
+      "pub": "Sat, 29 Aug 2026 10:02:13 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Federal Court staff working weekends, vacations to keep up with cases: chief justice - Global News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNVQ1bFVEQ19QOHpkS1lrMU1FZk9RS3N1aG85S21UdUxzTHI4LTMwRjgzNGVFNjA4V05EeTE3M3N3bHZJaEFNQ1FpZ1BUQ3B5dktaSHBKeExEZVI4VmVpQWY0Y1ptWURmUDZQRW9RVlJ3ZE8yVW52WXlXc0ZadHEycQ?oc=5",
-      "snippet": "Federal Court staff working weekends, vacations to keep up with cases: chief justice &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
-      "pub": "Sat, 29 Aug 2026 13:03:24 GMT",
+      "title": "Days after deadly Nepal flood, families of missing B.C. couples desperate for details - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU21PVkZTV1lkRFdFZnpHM3ExaVktNWRERTJ3R1BsY3FxdDBESVdQVFgySWphX1FsdktHaWJCUkI4VzBMeGxtTDFTYnV1Nm4zM0RXLTZIVldWQ1hPbFdsY3F4bkEtSVF6a05HWEJOTnNrVUZ4Qzd0ekJ5MzFtWWs2cjRrZF82VWNUME5OV19sMWk4V2Z5N1FBamtYV3ZRMm1wYzVR?oc=5",
+      "snippet": "Days after deadly Nepal flood, families of missing B.C. couples desperate for details &nbsp;&nbsp; CBC One Canadian found in Nepal as families of those still missing after floods w",
+      "pub": "Sat, 29 Aug 2026 22:11:14 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "‘Unprecedented’ increase in immigration cases creates unmanageable workloads for Federal Court, says chief justice - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOUpOcFJUOWZIQ3Zua1JEdV9hMjdGbHpYc2lOUDFDS09ZYU13NjYxRWtkRkE2c1BzVkJRSEp4S2VmSnJIUmdEZUpITmFNa3RFWl9HRE5FY0lEREtSeHd6cGlwdGpqQkFVaWI4Mkg5OEJvQmdVZVRGSGwyb1pKN04teFB1andpRmhURGFaZ0hMTDVVbDVIYVQzTGJTSks3RlFwVVhIMjYxWFJVWXAxZTY0ag?oc=5",
+      "snippet": "‘Unprecedented’ increase in immigration cases creates unmanageable workloads for Federal Court, says chief justice &nbsp;&nbsp; The Globe and Mail See more headlines & perspectives",
+      "pub": "Sat, 29 Aug 2026 13:01:20 GMT",
       "image": ""
     }
   ],
