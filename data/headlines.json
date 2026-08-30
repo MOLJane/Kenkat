@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-30T18:06:30.222012+00:00",
+  "generated_at": "2026-08-30T21:17:50.405594+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "First Light Converts Former Medical Hostel into ‘The Lunar Inn’",
+      "link": "https://vocm.com/2026/08/30/308676/",
+      "snippet": "First Light has converted its former medical hostel into an \"immersive overnight experience unlike any hotel in the city.\" The Lunar Inn offers four r...",
+      "pub": "Sun, 30 Aug 2026 19:30:13 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/lunar-inn-5.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Family Honours Jake Anstey’s Memory Through Acts of Kindness Campaign",
+      "link": "https://vocm.com/2026/08/30/308666/",
+      "snippet": "The family of a young boy who passed away nearly two years ago is asking people to share acts of kindness in his memory. Eleven-year-old Jake Anstey p...",
+      "pub": "Sun, 30 Aug 2026 19:25:51 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/jakes-force-day.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Marine Atlantic Reaching the End of a ‘Record Breaking” Season",
+      "link": "https://vocm.com/2026/08/30/308664/",
+      "snippet": "Marine Atlantic was expecting this to be a busy summer for traffic on its crossings, and they say the season has lived up to the hype. The VP of servi...",
+      "pub": "Sun, 30 Aug 2026 18:21:15 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/marine-atlantic-ferry-terminal-stock-picture.jpg"
+    },
     {
       "source": "VOCM",
       "title": "YYT to Mark 25th Anniversary of 9/11 with Commemorative Ceremony",
@@ -43,91 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/akita-equipmment-tch.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "New Tariffs Expected to Significantly Impact Home Construction Industry",
-      "link": "https://vocm.com/2026/08/30/new-tariffs-expected-to-significantly-impact-construction-industry/",
-      "snippet": "People who build and renovate home and property say the new tariffs will have a significant impact on all aspects of their industry. Canada will be ta...",
-      "pub": "Sun, 30 Aug 2026 13:57:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/home-renovations-contractor-painting-housing-construction.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Paul Reynolds Community Centre Pool Closed for Maintenance",
-      "link": "https://vocm.com/2026/08/30/paul-reynolds-community-centre-pool-closed-for-maintenance/",
-      "snippet": "The pool at the Paul Reynolds Community Centre in St. John's will be closed for scheduled maintenance starting today. The closure will be in effect un...",
-      "pub": "Sun, 30 Aug 2026 12:55:02 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/10/paul-reynolds-community-centre-1.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "MUN Eliminating Over 100 Positions As Part of New Budget",
-      "link": "https://vocm.com/2026/08/30/308669/",
-      "snippet": "Memorial University has eliminated more than 100 positions as part of cost-cutting measures outlined in its most recent budget. The university is tryi...",
-      "pub": "Sun, 30 Aug 2026 11:41:40 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/mun-memorial-university-generic-2.png"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Google Maps Now Displays ‘Lake America’ After Trump’s Executive Order Amid U.S.-Canada Trade War - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUW9WU09WVFZDUTdOU2pBQ0dhemNrQjNHZ2RGXzhBcnc3TjJmSDF4MnhNNkl5RmxXSE9WRExiWGNGMnRLb3NMZzU0Mm5iWU1jMmtJamRpcmVxM19wb04wN3loTGlibi1BUi1pS1c4cjlNQjJCMnlCejdfc2hHcGpnYWlpWFI1YTBHX01JVWQydTY1dG5hanEyNDZJa29vY2lSUzdiR0djMTJQQ1JoWENJakd2eHFUblJzTU9rSXVpTUNzNHJRSXJnZW9CckVFMzVBc0pzX0pZemVRRkNn?oc=5",
-      "snippet": "Google Maps Now Displays ‘Lake America’ After Trump’s Executive Order Amid U.S.-Canada Trade War &nbsp;&nbsp; Forbes Canada erects giant ‘Lake Ontario’ sign as spat with Trump over",
-      "pub": "Sun, 30 Aug 2026 13:45:20 GMT",
+      "title": "Google Maps to show ‘Lake Ontario’ in Canada, ‘Lake America’ in U.S. Here’s why - Global News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VX2lYZVZ4M2dXX2xCTXloOXI0SmIwNHpnZ2pMb0puT2dfZ1R0SDhpaWdpNEI2WDc2S21IMUJaQ3VaZDZocnhmUGpDbUU5bkV3bEVRcmxULUl2b2JTVVB3ZTczZWVselc2aUtMQU1ycV9kRWtfbUhrdWN5dlkxdzQ?oc=5",
+      "snippet": "Google Maps to show ‘Lake Ontario’ in Canada, ‘Lake America’ in U.S. Here’s why &nbsp;&nbsp; Global News Google updates maps to display Lake Ontario as Lake America in U.S. &nbsp;&",
+      "pub": "Sun, 30 Aug 2026 17:49:35 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Quebec faces $2-billion blow as Trump’s new tariffs hit province hardest, report warns - Montreal Gazette",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ05pY04yZTdnZ09EWTk2VkN4R3A5X3VXSy1VaWhjZjNoY0xrb2ZjcXp2XzdFVjFNNTk2amNoLTNUUWVvRkR0TGZuZklvRjNtM1lub21rWG5VcHUtRzF2ajJYRkR1Mm5tLTc4TWdsMjRfdUpKbFhOcmoxVG0yNWJWSXQ0YWVCb3ZmMC1vdV82MmVRQXhH?oc=5",
-      "snippet": "Quebec faces $2-billion blow as Trump’s new tariffs hit province hardest, report warns &nbsp;&nbsp; Montreal Gazette This is how the Canada- U.S. trade war has influenced one Toron",
+      "snippet": "Quebec faces $2-billion blow as Trump’s new tariffs hit province hardest, report warns &nbsp;&nbsp; Montreal Gazette Opinion: It’s easier to support a trade war if you can afford o",
       "pub": "Sun, 30 Aug 2026 14:49:32 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump threatens to report journalist Kristen Welker to broadcast regulator - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd01YTXdxVWEyRElkdlFfdmNjV2Y3a0w5TXBHWmxpVEpmYUZxSWVwbGpqWlhVTnliSjBBeXlKREpNZWdZQU9ROWVTcjdYdzlBUEdnXzFnbXNZbktmczF0dk96RTY4ejRETGRZSF9KOE5iRXBCSHd0Qzc5dHBwalhuRS1IcG42RTZUcndOTndZUV9PYmdvVUZPN0tvS2M1NDZHM2FZLW5HWjlCcm83TmZBX0NtMDVxUdIBuwFBVV95cUxOUnhLYWtqZVJCTU5hcDduQzlOWXQ4Vzc2XzE2UXBoeGxvTFJkX2xJaHctOEFlOElORTJ2MjhHRnRCZXpTUlhUemFSQm1wMUlSanlFcU9kcE1CMWxJNEFqOEZjM09kOHZJT0hobHpJdm5ySGxTRXdKNmNVS2FtN3lpRWVWZWUxUmQwNkNtOFJSazF5cFhFQ2l4ZEZCZWlOQ29ybkdKUDFGSjRFdTdObExoZFRFbnJEQjh3UWIw?oc=5",
+      "snippet": "Trump threatens to report journalist Kristen Welker to broadcast regulator &nbsp;&nbsp; Al Jazeera Trump calls for NBC’s Kristen Welker to face ‘rebuke or punishment’ from the FCC ",
+      "pub": "Sun, 30 Aug 2026 17:24:47 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump urges Canadian companies to immediately move to US, says ‘I don’t want Canadian anything’ - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWU51RnB0X01sb2habWcyc3lKcFdoNmtMNlVwQi1KOG1QWDVmakgtQkRPeEx6RDc3a05lMVJZZ09sYnpIWEFuUnY4bklhT0VENkhWbU9uVDN6U1dCekZTQWt4WjhJd1JwWmwwZWJnZE5xdXphZkVkZVFxY3JoNWR2SUxNVjlVMmdUTms2WEMtQllFa2FPQXI5TmlSUVZONzFLTThPTDZEcENuWUNOTkpLRWRkNzZpOW85bnBrenh1WdIBxAFBVV95cUxQWlo3V2JSQmFiWnVFc183WHNIUksxRG9lMkc3cFIwS05VcWhReGNKN2l1eENPVFNfcXM4NjU2YkpyZ2VVR0RZSFkwTE5VdVJUcVhsVmZuYzVMcmRoRDlIUmVRQTdGSk5pNlBwNUpKaWRLdXM1ZlFFNlczUFMtVGJvWGZkMG1nYm1FT3VybHNTUnIwV2lJVklUSmF3X2hScmswU0lwV1ZRYzdQQ0V0bUo4dFpyMEN5eFI1VFB1M1JfbmIxc3Ez?oc=5",
+      "snippet": "Trump urges Canadian companies to immediately move to US, says ‘I don’t want Canadian anything’ &nbsp;&nbsp; Fox Business Trump: ‘I don’t want Canadian anything’ &nbsp;&nbsp; The H",
+      "pub": "Sun, 30 Aug 2026 20:11:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "More than 20 unaccounted for after flash flooding at Grand Canyon - KTAR News 92.3 FM",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oNHU3dU9KaDdqcldCcVdXd29uTGs0dVlBTVZOUUFQbEVTV1l6aEpqbVVkNlA4VzV2eXBkQk53MVFLM256OThxVjk5UTlBREp0SjFSb3dFODJSeHlIMThtQURac1FadVFLRGRlNDMzQ3J3NU04VGhn?oc=5",
+      "snippet": "More than 20 unaccounted for after flash flooding at Grand Canyon &nbsp;&nbsp; KTAR News 92.3 FM More than 20 people may be missing after Grand Canyon flooding, park service says &",
+      "pub": "Sun, 30 Aug 2026 19:44:19 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "‘Canada on notice’: Trump shares news headline after Venezuela oil deal - CP24",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU1Y0Qkhkb3JhZHdlYkhPRi1TN0FWQ1JseEdVdW1BSmhleW9OOENscVlIU1ZjZENhNkx6bkMyNHUybWJYN1lyTkdvTXlEbGk1RFVHbU9nNmZxaEo5eGxvZnd5SmlzemdFUUgxLWhTajVMTEZvNUZ0aGNCUDBQazc5VFRpWW8ySUpwZURVd0cyWWp5Q2lMNHpLVFRvVzhMMTAzQVk1THYybC1MUVZ5QjkxWU5RRzItWDJaZzJEUHJDZGZvOEZYbkk0?oc=5",
+      "snippet": "‘Canada on notice’: Trump shares news headline after Venezuela oil deal &nbsp;&nbsp; CP24 Trump's Venezuelan oil deal: What we know and how it could impact Canada's oil industry &n",
+      "pub": "Sun, 30 Aug 2026 14:08:47 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Both sides of Alberta separation debate rally as momentum kicks up ahead of vote - CBC",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDVQYU15YkRBLWxrbmZtSndjYndzX1BfajlOX2tJZzhqSVlrTkdDMW1nb2FhR0F6OGhSUHZqVW5EOC1lNU9tZzktNGR1cWxRTFNNWTRaUWpCNEtvN0htNXNUb1RmeW81aTJzU2hjOU5QR0hyRV9FdHZmX01VWVNwV01nV2dRbW5EOW82VHVsR1JjY0hxLV9TSDB5SzVTM0daTVdJYVdEUEVGdUNnRGlGZHJuUW5Lel8xcnJVUDJpLUdVZWxabXFQand3?oc=5",
-      "snippet": "Both sides of Alberta separation debate rally as momentum kicks up ahead of vote &nbsp;&nbsp; CBC On the road with pro-independence Albertans, one small town at a time &nbsp;&nbsp;",
+      "snippet": "Both sides of Alberta separation debate rally as momentum kicks up ahead of vote &nbsp;&nbsp; CBC Alberta separatists rally ahead of province’s birthday celebrations &nbsp;&nbsp; T",
       "pub": "Sun, 30 Aug 2026 15:42:03 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "What’s behind the US deal to seize control of Venezuelan oil reserves? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1ZIaUIzTTdrd2s2WWFoTC0zcEtRTkZ5Q25DVmJwaDVobF85NndvQ3FENHRRMTRyLUIzSzhkM1M0Mm1uZ3VFSk00TVVzd2dVRlcyam1BM3FLNEp3SzVZSmdBcXBiNk04aXMwdENGeGYwNTJKM2pxNjVELTEzcUxmSFRnRVpSZDFZMVZlOE03ZFU4eVRzOVR5eFZYYzZDZWxLNm85SHh2OFN2QnA3LUHSAbMBQVVfeXFMTnJMaEk0ODZveWMtUjN2eWtJcWJpVGduVU1Nc2k0N1libHV2TnBhWXN5NU5SY3FiX0ZqakxjOXJtRGxobGFzLTNEOURRSU40dko5VDJEalNlRHJHM2xvRFJ3TktfWlg0VEljNDRlOXZ2RDBXc2I4NGtrbTl5YnRZSzE1enB6SVk4U2VLYjZGU1hxMUNvR0RuWjZYbU9WNlN3Vk1ubjlJSlUzVWVrNlhfZU1ia0U?oc=5",
-      "snippet": "What’s behind the US deal to seize control of Venezuelan oil reserves? &nbsp;&nbsp; Al Jazeera Trump shares a news headline that says ‘Canada on notice’ following Venezuela oil dea",
-      "pub": "Sat, 29 Aug 2026 22:35:29 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Voters head to the polls in three federal byelections in B.C., Ontario and Quebec - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2txT0p0VFA0N2JycDZZeGJoMTRqeXMxaXAwM0FUWFVsTU1tNHVKNWJ1UV9vNUdxcEtYZlAtZjctbHdpdjZyLUM2VE9DUXZianNtdmxWYkNDS0UyNGxlR3U4RGZiU25TQm5ZTFhKWW41bThad3hUVWlBS1BfcWF3N2M1WDkzLVFZOENxai1DNUVIVEJydnNLbHJQYWNmdDd6YkJ6YjFRVXVyOVEwTFV0Y1A2MTJWNl83bVNv?oc=5",
-      "snippet": "Voters head to the polls in three federal byelections in B.C., Ontario and Quebec &nbsp;&nbsp; CTV News Canadians set to cast their ballots in B.C., Ontario and Quebec byelections ",
-      "pub": "Sun, 30 Aug 2026 11:20:17 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Iceland's rejection of accession talks is major blow to EU enlargement - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTUtvR2xDZFVKRGJPZ1dBRTloMW9qbWJkV1dNZUI1NWRVbFQ4d2wyY2VDeGJrb2Q2S0N5OTVkTDZKNWtVLXAtdUdBUTduYU5HdDRHMmkxTm5PMVl0ckV4dlVfQXB2SWpzaWRWV0dYcDdsbndnUFRHVFVQMEhLLW1hSHpzVTBhbmg0VS1RbTFpOWJjMVczMno4RTIyd0UzNXl6TTdGYjY1eWlWV3ZEZ0g0QVRwWngzZFoyOEE?oc=5",
-      "snippet": "Iceland's rejection of accession talks is major blow to EU enlargement &nbsp;&nbsp; Euronews.com Iceland rejects EU accession talks after divisive referendum campaign &nbsp;&nbsp; ",
-      "pub": "Sun, 30 Aug 2026 09:45:19 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "As she launches her campaign, Quebec's Fréchette hopes the Carney formula will work twice - National Post",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2N5Z1QxMmJTN2VSVmJDWFlMbURmWFNvYll2dkppb1dxLUY1MU1ZbUxmN25ZMjdKbWFwS2gxSGFCV0RIS1dGVWNXUXpEZF9DWWowVTJ5eDVsZlhLZVRjZlRiZ3lqRGlHRXJ3Q09TaVZYbVFrZXVYUnpmdmRGekpGUkNWNG5fRFk3bVFxS192aEVPTkhobjJPVUVwdUUwdDZNN1dVcTRpbExERWdfU2c?oc=5",
-      "snippet": "As she launches her campaign, Quebec's Fréchette hopes the Carney formula will work twice &nbsp;&nbsp; National Post Parti Québécois wants to toughen French efforts. Follow for liv",
-      "pub": "Sat, 29 Aug 2026 10:02:13 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Water in Holyrood Back On - VOCM",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwYW9EdExGeHRfaGU1VXZseEhJaG82VnE3M0R0akNNTDNkYTZJT1FVdm9pQVBhcnA1VThYT1hxRUtVX3V6d3JDbmpGWQ?oc=5",
-      "snippet": "Water in Holyrood Back On &nbsp;&nbsp; VOCM 'We are close to crisis mode': Half of Holyrood without water as team works to repair system &nbsp;&nbsp; CBC Holyrood SquidFest Concert",
-      "pub": "Sun, 30 Aug 2026 14:12:00 GMT",
+      "title": "‘Stop treating Quebecers like idiots’: Liberals. Follow for live updates. - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX3l5eDFlYVE2RG9DNFMzeWY3VTZLU2kzbktNQVdhT1Z2bFo4N3ByWV9YdE1EanJKa2tmMDEzaklxSnNWTUFHSnpPREVnSnVBZ2ZDUkxHUVRPUnZhNW9MSjJrLXV3X0hxN0wwQ0Z5TmVwZDRWNlJuY25VVjFBSlYtQ1RMZE9sTWFVcjRTdHBjc18ySVZtSHY4dF9zV2tJZUNIb3dTdkQ3bXJGX0xPUVl0ZW1MeWtiNFpPT2hKeFAyb3Y?oc=5",
+      "snippet": "‘Stop treating Quebecers like idiots’: Liberals. Follow for live updates. &nbsp;&nbsp; CTV News French in Montreal is ‘catastrophic’: Parti Québécois. Follow for live updates. &nbs",
+      "pub": "Sat, 29 Aug 2026 20:45:16 GMT",
       "image": ""
     }
   ],
