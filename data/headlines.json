@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-08-30T02:38:22.972826+00:00",
+  "generated_at": "2026-08-30T08:43:38.897495+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Paradise incident leads to charges for assault with a weapon",
+      "link": "https://vocm.com/2026/08/30/paradise-incident-leads-to-charges-for-assault-with-a-weapon/",
+      "snippet": "A man has been charged with assault with a weapon after an incident in Paradise. It happened around suppertime yesterday, but RNC have not provided mu...",
+      "pub": "Sun, 30 Aug 2026 08:38:46 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc-police-buick.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "August 30, 2026 – Have you made more of a concerted effort to buy Canadian products since trade tensions with the U.S. ramped up again?",
+      "link": "https://vocm.com/2026/08/30/308612/",
+      "snippet": "paste code here window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll",
+      "pub": "Sun, 30 Aug 2026 08:20:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/made-in-canada.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Teen Missing from St. John’s",
@@ -51,67 +67,51 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/07/holyrood-squidfest-hats.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Holyrood Brings in Water Truck Amid Ongoing Water Supply Issues",
-      "link": "https://vocm.com/2026/08/29/308620/",
-      "snippet": "The Town of Holyrood continues to have serious problems with its water system and has now brought in a water truck to provide services. The ongoing di...",
-      "pub": "Sat, 29 Aug 2026 13:45:06 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/02/Holyrood.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Governments Confident in Burin Peninsula as Location for Space Centre",
-      "link": "https://vocm.com/2026/08/29/308586/",
-      "snippet": "Buoyed by financial support from both the federal and provincial governments, NordSpace plans to launch a satellite into space in a couple of weeks. A...",
-      "pub": "Sat, 29 Aug 2026 13:43:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/09/aerial-view-of-nordspaces-atlantic-spaceport-complex-asx-space-launch-complex-slc-02-under-construction-outside-st-lawrence-newfoundland-and-labrador.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "In Ohio, Canada-U.S. trade war sparks anger and uncertainty - CBC",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeWZrQnlrd0Q5bVVCZGFEOFJiZTU2a1F5UF9jb0VWb2tYM3lmcUU4QVJsNlQyTGdKMVVsY0NVVFc4ZnBzMWlyMEU3THJXWVZLODZWVWpLVjAtTzlBX1JSaFl5MDV3VGREZW1CajY3SHdnTVQ2aG9jazRqRGhKeXBMQU1qa2xyQlRnQ1AxSk45enBqUmwtTEJDX1JJYXBJdw?oc=5",
-      "snippet": "In Ohio, Canada-U.S. trade war sparks anger and uncertainty &nbsp;&nbsp; CBC On the American side of Lake Ontario, how Donald Trump has strained the ties that bind: ‘You guys don’t",
+      "snippet": "In Ohio, Canada-U.S. trade war sparks anger and uncertainty &nbsp;&nbsp; CBC Canada has leverage in this trade fight, but economists warn it comes with a cost &nbsp;&nbsp; CBC We a",
       "pub": "Sat, 29 Aug 2026 17:01:05 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ontario premier answers Trump’s ‘Lake America’ with giant ‘Lake Ontario’ sign - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPekRSeFpiMVh4X2NPd1FIX19aOEl5QzJHSno2RWNTYTkzd0g0S3lVQ2ZhSUVhamtZdml1XzdWNnhvQ0tHZzJ3ZXpOOHVuank5YzM1NzI4NWlCQjlMUjdUWHlteENqWUNMTjh0SnNTUEV5aF9lcXhsTngtbkoxSDFMWUg1cHJJTDB1cEpGT0s4a1ppeE1WblBTS0pwT1V2YXM?oc=5",
-      "snippet": "Ontario premier answers Trump’s ‘Lake America’ with giant ‘Lake Ontario’ sign &nbsp;&nbsp; AP News Canada installs large Lake Ontario sign in latest jab at US &nbsp;&nbsp; BBC Onta",
-      "pub": "Sat, 29 Aug 2026 20:22:00 GMT",
+      "title": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnRsekZNNWdwN0hvY1hYMVVVM0tXeU5YaHBlcFZqRFE0eEZWLXN3bUYtWVRoV3JDSmJQNXU4WGhIZUhIY2NsVnhYVWM2SUJnZ2FVTjN6Q0tUWGlKSHVodVFpUzB2UmhYZXpyZkd6QTU2MzQzNEM5Vk1QTllkWWlEVjhDcmNKaS1IdVJnY1psRmdKS1JSa21qTzMzX29UblNGQU1TbTF2ajFTMEQtM0HSAbMBQVVfeXFMTVVPY2VJNmEtSWdEYUpuTmRvOER6Q2dOQUxsc3NMLU5mV3lLUnhCOFNkZmZ1NWg3ZFdkR0lKWElCNWVxQ1FnUHBCUFlVREFXNmY0SkV0MFZ5Z2diT0VLMnVLN1RibHdmZGZ4SFBwMVFCZEg1ZTFkbmoxZUNoSlpzaDBBai1tUy1FUHc1TEZiWENmOFJNMjM4WkxqM0JpR2FCV2lhSlZZZzlSVWl4NjlRWlEzaDQ?oc=5",
+      "snippet": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name &nbsp;&nbsp; Al Jazeera Canada installs large Lake Ontario sign in latest jab at US &nbsp;&nbsp; BBC Ontario",
+      "pub": "Sat, 29 Aug 2026 22:53:55 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "One Canadian found in Nepal as families of those still missing after floods wait for information - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX1JSZXRoM2kxTGRCMkNiYjAyYmtaR3ZRX1E3RV9LalJValJoTGYzTmJ5UjJwamk2VjNUTFJWbkMzZGktdVZpWHhQQjFsRDRvcGM1U19DN3dISmNsWk5sRWpjVF9wUG80S3Q5aWNYRUZRRUl5MlI4RExiUkFNZ1dnWm1fbDdZdk1HUmVQbTFya1JjX2cxN3JxX1JZTGk1QWhERERPa3NNWDBYMGxJXzBUeFMybERwaWExbElkVFFHLVUzZTdpVzRzc0tobVhRQ3ZObWhuTmIzSkI?oc=5",
-      "snippet": "One Canadian found in Nepal as families of those still missing after floods wait for information &nbsp;&nbsp; CP24 Live updates: Death toll rises and thousands still missing in Nep",
-      "pub": "Sat, 29 Aug 2026 21:35:56 GMT",
+      "title": "One Canadian found safe after catastrophic Nepal-Tibet floods, Anand says - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVFfZ2lzRTkwaHA1OXNTanp0eVlKQmdtSU5Ha1VoeUpBYThwX1FCd2I0V19NemUteFBhYzZHcTdxVFB6YUFianJxcjJhekY4QnZOUjlHNVJKTzZDTUtnSXpOZmxxbWd2ZWRrbXMyUE5YeWx2b2ZYQkV2MmE3T19hdFZaaTMtYlQ4cXowTkxBdFRsWmpU?oc=5",
+      "snippet": "One Canadian found safe after catastrophic Nepal-Tibet floods, Anand says &nbsp;&nbsp; The Globe and Mail Rescuers pump air into hydropower tunnel in search for missing workers aft",
+      "pub": "Sat, 29 Aug 2026 21:49:02 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "B.C. premier calls by-election in riding where Conservative leader Kerry-Lynne Findlay is set to run - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcVhVcHdLM2NCT1pYS2t5R25xdmZhMzdnMDdVVGY4Yl9yWldrY3JvM0hPOHRqQXBoT1pzdHpJWlFsMV9TTWR5R2NTSHhDb1ZsWUtPM2paekhPWHFhVUhhbWhZSEJFWXhydUNpb01MVlFLNXlpdGc1bFdNZDItLVczNzNXSWxaMnN4OUFRUzdQUVdYLS1mbDNpdjdKOGZoS3R3VUQyN2Q1MEJ0Z09JbUZsczJ3UU50LVJuSWc?oc=5",
-      "snippet": "B.C. premier calls by-election in riding where Conservative leader Kerry-Lynne Findlay is set to run &nbsp;&nbsp; The Globe and Mail See more headlines & perspectives on Google New",
-      "pub": "Sat, 29 Aug 2026 18:16:58 GMT",
+      "title": "B.C. premier calls byelection in riding where Conservative leader set to run - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb3h5VDFJZ1NZRzFuUkJsT3VwZ3NPd0pUc0JiNTRyd3dLS2tBcU5ETU9VYUZLVFNvVFVMcXFHNVJGdER2VXozRWVkbE9OVzBOZnFBUVNwb181OGI0RzVIQ1dRcEdzd3VjaFN5d3V3djU3RDZoMW91S04xbmNadThpNExpUTZnck1tNG92cGFwX2xfWXFsM2RUdWxvZnU3VHJ1bGtSUVBzcw?oc=5",
+      "snippet": "B.C. premier calls byelection in riding where Conservative leader set to run &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
+      "pub": "Sat, 29 Aug 2026 17:53:44 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada is luring top U.S. scientists with 'almost unheard of' funding amid tense American political climate - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMDZiOEtGclFYNEdCc2hFemlqazM3dzFFMXhza29zQ2ZHU2VEUzUySUEwbjVnZVR1MVBHOWlWeU02YnBoNXFTQ2VDT0VkTThTbTk1RHNpU1RsVHpVdnY5a2tPeVREZzlkUFFhU01fWlZiTkJjZzhYLXBQSER1RDhmTmJMNWsxdUNuN1pqOUFyaTJld1dzTkFEeDFGMHJsYkFBdG1Ea1JFek9zdmFmLXk4NGdiRXRPWDV4bnVEbEhycjVQcFUteHZJUEtZQlp2SU1DS3h0aFZERjRiV2M1N0NIMFpXRjRsTkUyMkE1UWU3TUs3dW1NVDZ4bGowcnZOVjBPX1E?oc=5",
-      "snippet": "Canada is luring top U.S. scientists with 'almost unheard of' funding amid tense American political climate &nbsp;&nbsp; Toronto Star Canada recruited 64 professors with new resear",
-      "pub": "Sat, 29 Aug 2026 04:00:00 GMT",
+      "title": "No One Knows How to End the War with Iran - Rolling Stone",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2VnUW1tNlhmVEFkOXlpWnBDNnN0WHBSZkNzTEI0bWVGQjl1bTRGdFRYNzBfMWhpS2h5UXVvY25hemFyNVhoSkU4QmFlVkpKMzV5a1pXdUF1akNqWk04M2ZpcElGYWtRNU5DWVo1aVpjSG42c0tvdDFvOXFHa1ZYMngwOUpNVW04ZTdrZ254ZWRkVGs0X1BmX2NRVG9tTmZaVmdxcUFxcnd5WmdFcy1qdFdR?oc=5",
+      "snippet": "No One Knows How to End the War with Iran &nbsp;&nbsp; Rolling Stone A power struggle in Iran could decide when Trump’s war ends &nbsp;&nbsp; CNN Mapping the Iran war’s strikes on ",
+      "pub": "Sat, 29 Aug 2026 12:37:08 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta Premier Danielle Smith to meet with U.S. officials amid trade war - Global News",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MNXk4ZFhvWDRhUFhlSVdZM18xQVhBdzZpOEJFOElxaEtTd2pLdm9CQ20wN2UxYzYwbGhzSGZDZmtsQXNIdEFXVURZQkpKU2ZKZ3ZGc0Y1RzlEVXpGa0ozM3hxRDlGVUdwUkdpOU5XNUpTWF9ZX2VYVA?oc=5",
-      "snippet": "Alberta Premier Danielle Smith to meet with U.S. officials amid trade war &nbsp;&nbsp; Global News Alberta’s current, former premiers offer contradicting views on U.S. counter-tari",
-      "pub": "Sat, 29 Aug 2026 17:51:07 GMT",
+      "title": "Trump cannot deport students for criticizing Israel, judge rules - PBS",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXZfbWpLQzZrN3ZBRjBhb2UzMm84TmcySlU3NFNGcFVKUGw4QmR2MzU4STNMT0tZajVYanh2RlZ5Sk5NOVZ4N1hoaWR6RUw2dWJCZHBmQ213dTJNSTNHejVUTHhLRF9ZOEd4TTVDTDZ1VkM1UjJqREUxc3hPOWF0ZjBEek5KSkFoV3gxMXp6aUJGVWRfOVZTSTlZVEpjQlhK?oc=5",
+      "snippet": "Trump cannot deport students for criticizing Israel, judge rules &nbsp;&nbsp; PBS Judge declares Rubio’s speech-based student deportations violate the Constitution &nbsp;&nbsp; Pol",
+      "pub": "Sat, 29 Aug 2026 18:14:48 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Ontario sex offender accused of sexually assaulting a woman he met online - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcVRiNkdhZVNYR3RsbS1xWUN1Y25LaWRpbnhQN3BmZ1RrQmVRYldDTFl5RERlS0M2UHpHc0Y2NW5aXy1oSHVUNlFwSTQzWXVfRzVPWG1POUNLdzJPcU5BWG5TY0Y0bC1MX0tVYkVuaVB3aFR6MHJwWkFrM0dGZkdiWFFEY3RQRmhIcVV2blpVV3ZsVm90Z0JuU3hyYWV1eU1LVVNaZG0zRmJYYWZiOXBHNFNYek5NWEZlNnV6T2lpNTJ2WGxpWjhzRUJFbEk0OUJPN25tQWQyRmxDYXotWnc?oc=5",
-      "snippet": "Ontario sex offender accused of sexually assaulting a woman he met online &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
-      "pub": "Sat, 29 Aug 2026 19:31:08 GMT",
+      "title": "Alberta Premier Danielle Smith to meet with U.S. officials amid trade war - Global News",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MNXk4ZFhvWDRhUFhlSVdZM18xQVhBdzZpOEJFOElxaEtTd2pLdm9CQ20wN2UxYzYwbGhzSGZDZmtsQXNIdEFXVURZQkpKU2ZKZ3ZGc0Y1RzlEVXpGa0ozM3hxRDlGVUdwUkdpOU5XNUpTWF9ZX2VYVA?oc=5",
+      "snippet": "Alberta Premier Danielle Smith to meet with U.S. officials amid trade war &nbsp;&nbsp; Global News Opinion: Using oil to retaliate against the U.S. would be exceedingly stupid &nbs",
+      "pub": "Sat, 29 Aug 2026 17:51:07 GMT",
       "image": ""
     }
   ],
