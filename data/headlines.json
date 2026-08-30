@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-08-30T08:43:38.897495+00:00",
+  "generated_at": "2026-08-30T14:08:08.008909+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Local Trucking Firm Feels Early Impact of U.S.-Canada Trade War",
+      "link": "https://vocm.com/2026/08/30/308656/",
+      "snippet": "A local trucking company is bracing for the impact of the escalating trade war between the U.S. and Canada. Akita Equipment owner Chris Howlett says t...",
+      "pub": "Sun, 30 Aug 2026 14:02:04 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/akita-equipmment-tch.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "New Tariffs Expected to Significantly Impact Home Construction Industry",
+      "link": "https://vocm.com/2026/08/30/new-tariffs-expected-to-significantly-impact-construction-industry/",
+      "snippet": "People who build and renovate home and property say the new tariffs will have a significant impact on all aspects of their industry. Canada will be ta...",
+      "pub": "Sun, 30 Aug 2026 13:57:39 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/home-renovations-contractor-painting-housing-construction.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Paul Reynolds Community Centre Pool Closed for Maintenance",
+      "link": "https://vocm.com/2026/08/30/paul-reynolds-community-centre-pool-closed-for-maintenance/",
+      "snippet": "The pool at the Paul Reynolds Community Centre in St. John's will be closed for scheduled maintenance starting today. The closure will be in effect un...",
+      "pub": "Sun, 30 Aug 2026 12:55:02 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/10/paul-reynolds-community-centre-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "MUN Eliminating Over 100 Positions As Part of New Budget",
+      "link": "https://vocm.com/2026/08/30/308669/",
+      "snippet": "Memorial University has eliminated more than 100 positions as part of cost-cutting measures outlined in its most recent budget. The university is tryi...",
+      "pub": "Sun, 30 Aug 2026 11:41:40 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/mun-memorial-university-generic-2.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "European Central Bankers Worry U.S. Tensions Could Bring More Market Turbulence",
+      "link": "https://vocm.com/2026/08/30/european-central-bankers-worry-u-s-tensions-could-bring-more-market-turbulence/",
+      "snippet": "European central bankers are becoming increasingly concerned that strained relations with the United States could create more uncertainty in global fi...",
+      "pub": "Sun, 30 Aug 2026 10:13:44 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/08/32783947.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Man Lies About his Identity After Car Breaks Down in Centre City",
+      "link": "https://vocm.com/2026/08/30/308645/",
+      "snippet": "The driver of a vehicle which broke down in the center city area of St. John's yesterday afternoon now has more than just the car to worry about. RNC ...",
+      "pub": "Sun, 30 Aug 2026 08:45:20 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Paradise incident leads to charges for assault with a weapon",
@@ -14,120 +62,72 @@
       "source": "VOCM",
       "title": "August 30, 2026 – Have you made more of a concerted effort to buy Canadian products since trade tensions with the U.S. ramped up again?",
       "link": "https://vocm.com/2026/08/30/308612/",
-      "snippet": "paste code here window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13363').",
       "pub": "Sun, 30 Aug 2026 08:20:26 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/made-in-canada.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Teen Missing from St. John’s",
-      "link": "https://vocm.com/2026/08/29/teen-missing-from-st-johns/",
-      "snippet": "The RNC is seeking the public's help in locating a 15-year-old girl reported missing from the capital city. Police say Emma Rideout was last seen in t...",
-      "pub": "Sat, 29 Aug 2026 22:16:19 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/emma-rideout-missing.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Tropical Storm ‘Dolly’ Not Expected to Strengthen to Hurricane Status",
-      "link": "https://vocm.com/2026/08/29/308588/",
-      "snippet": "The latest tropical storm forming in the mid-Atlantic has been named 'Dolly' and, true to its namesake, the storm is not expected to cause any harm. A...",
-      "pub": "Sat, 29 Aug 2026 17:53:48 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/tropical-storm-dolly.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Nurses Union Opposes Sharp Increase in Exam Fees",
-      "link": "https://vocm.com/2026/08/29/308604/",
-      "snippet": "The Registered Nurses Union is adding its voice to those concerned about a substantial increase coming to fees associated with a national nursing exam...",
-      "pub": "Sat, 29 Aug 2026 17:22:25 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/rnu-registered-nurses-union-president-yvette-coffey.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Federal Support Crucial for Bay du Nord, says Minister",
-      "link": "https://vocm.com/2026/08/29/308602/",
-      "snippet": "Energy Minister Lloyd Parrott says he cannot overstate how important it is for the local oil and gas industry to have a government in Ottawa that supp...",
-      "pub": "Sat, 29 Aug 2026 16:19:31 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/energy-and-mines-minister-lloyd-parrott.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "NL Real Estate Association Applauding Creation of New Red Tape Reduction Portfolio",
-      "link": "https://vocm.com/2026/08/29/308598/",
-      "snippet": "The Newfoundland and Labrador Real Estate Association is applauding the creation of a new ministerial red tape reduction portfolio. Lloyd Parrott has ...",
-      "pub": "Sat, 29 Aug 2026 16:11:10 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/09/Bill-Stirling.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Holyrood SquidFest Concert Cancelled Due to Water Issues",
-      "link": "https://vocm.com/2026/08/29/308627/",
-      "snippet": "Due to the ongoing water issues in the town of Holyrood, the SquidFest Beach Party Goes Country concert scheduled for tonight has been cancelled. The ...",
-      "pub": "Sat, 29 Aug 2026 15:06:16 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/07/holyrood-squidfest-hats.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "In Ohio, Canada-U.S. trade war sparks anger and uncertainty - CBC",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeWZrQnlrd0Q5bVVCZGFEOFJiZTU2a1F5UF9jb0VWb2tYM3lmcUU4QVJsNlQyTGdKMVVsY0NVVFc4ZnBzMWlyMEU3THJXWVZLODZWVWpLVjAtTzlBX1JSaFl5MDV3VGREZW1CajY3SHdnTVQ2aG9jazRqRGhKeXBMQU1qa2xyQlRnQ1AxSk45enBqUmwtTEJDX1JJYXBJdw?oc=5",
-      "snippet": "In Ohio, Canada-U.S. trade war sparks anger and uncertainty &nbsp;&nbsp; CBC Canada has leverage in this trade fight, but economists warn it comes with a cost &nbsp;&nbsp; CBC We a",
-      "pub": "Sat, 29 Aug 2026 17:01:05 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnRsekZNNWdwN0hvY1hYMVVVM0tXeU5YaHBlcFZqRFE0eEZWLXN3bUYtWVRoV3JDSmJQNXU4WGhIZUhIY2NsVnhYVWM2SUJnZ2FVTjN6Q0tUWGlKSHVodVFpUzB2UmhYZXpyZkd6QTU2MzQzNEM5Vk1QTllkWWlEVjhDcmNKaS1IdVJnY1psRmdKS1JSa21qTzMzX29UblNGQU1TbTF2ajFTMEQtM0HSAbMBQVVfeXFMTVVPY2VJNmEtSWdEYUpuTmRvOER6Q2dOQUxsc3NMLU5mV3lLUnhCOFNkZmZ1NWg3ZFdkR0lKWElCNWVxQ1FnUHBCUFlVREFXNmY0SkV0MFZ5Z2diT0VLMnVLN1RibHdmZGZ4SFBwMVFCZEg1ZTFkbmoxZUNoSlpzaDBBai1tUy1FUHc1TEZiWENmOFJNMjM4WkxqM0JpR2FCV2lhSlZZZzlSVWl4NjlRWlEzaDQ?oc=5",
-      "snippet": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name &nbsp;&nbsp; Al Jazeera Canada installs large Lake Ontario sign in latest jab at US &nbsp;&nbsp; BBC Ontario",
-      "pub": "Sat, 29 Aug 2026 22:53:55 GMT",
+      "title": "This is how the Canada- U.S. trade war has influenced one Torontonian to shift his habits. Others are following suit, a retail expert says. - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMm5ZNkc5TFZWNHhDbGlPcUFHek9wMlZ5clo1QzQzWVQtM1RMMUdhZmIwWTBnQ250NWhOMTNsV2w5Mlk5OExKOVRvODdwWlZYZFV0b25XQjBpNzBiQmtzVlRaX0RQQno3eTA2MzdBNm1wRzNrS3hPQTdWa1lzQmpIbDdPZWlDNTRoRWlyRWhJdm1PMHZtbWhMYXNFYzFLQzNSSjZnV3R0c2QyQWR5S1RyQnRPdzVGNTB1SU9zU05LRDNBS3FkcnhYMlZZRktLSUhFZGhDVnViWlJLdzdJbDdZdkZwRDJubnFiVkJlVXpoTGpEM09pdlVIakducFlhLW1RTHM0?oc=5",
+      "snippet": "This is how the Canada- U.S. trade war has influenced one Torontonian to shift his habits. Others are following suit, a retail expert says. &nbsp;&nbsp; CTV News Canada has leverag",
+      "pub": "Sun, 30 Aug 2026 10:25:36 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "One Canadian found safe after catastrophic Nepal-Tibet floods, Anand says - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVFfZ2lzRTkwaHA1OXNTanp0eVlKQmdtSU5Ha1VoeUpBYThwX1FCd2I0V19NemUteFBhYzZHcTdxVFB6YUFianJxcjJhekY4QnZOUjlHNVJKTzZDTUtnSXpOZmxxbWd2ZWRrbXMyUE5YeWx2b2ZYQkV2MmE3T19hdFZaaTMtYlQ4cXowTkxBdFRsWmpU?oc=5",
-      "snippet": "One Canadian found safe after catastrophic Nepal-Tibet floods, Anand says &nbsp;&nbsp; The Globe and Mail Rescuers pump air into hydropower tunnel in search for missing workers aft",
+      "snippet": "One Canadian found safe after catastrophic Nepal-Tibet floods, Anand says &nbsp;&nbsp; The Globe and Mail These men had a hellish escape from Nepal’s flooded hydro tunnels. They we",
       "pub": "Sat, 29 Aug 2026 21:49:02 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "B.C. premier calls byelection in riding where Conservative leader set to run - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb3h5VDFJZ1NZRzFuUkJsT3VwZ3NPd0pUc0JiNTRyd3dLS2tBcU5ETU9VYUZLVFNvVFVMcXFHNVJGdER2VXozRWVkbE9OVzBOZnFBUVNwb181OGI0RzVIQ1dRcEdzd3VjaFN5d3V3djU3RDZoMW91S04xbmNadThpNExpUTZnck1tNG92cGFwX2xfWXFsM2RUdWxvZnU3VHJ1bGtSUVBzcw?oc=5",
-      "snippet": "B.C. premier calls byelection in riding where Conservative leader set to run &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Sat, 29 Aug 2026 17:53:44 GMT",
+      "title": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnRsekZNNWdwN0hvY1hYMVVVM0tXeU5YaHBlcFZqRFE0eEZWLXN3bUYtWVRoV3JDSmJQNXU4WGhIZUhIY2NsVnhYVWM2SUJnZ2FVTjN6Q0tUWGlKSHVodVFpUzB2UmhYZXpyZkd6QTU2MzQzNEM5Vk1QTllkWWlEVjhDcmNKaS1IdVJnY1psRmdKS1JSa21qTzMzX29UblNGQU1TbTF2ajFTMEQtM0HSAbMBQVVfeXFMTVVPY2VJNmEtSWdEYUpuTmRvOER6Q2dOQUxsc3NMLU5mV3lLUnhCOFNkZmZ1NWg3ZFdkR0lKWElCNWVxQ1FnUHBCUFlVREFXNmY0SkV0MFZ5Z2diT0VLMnVLN1RibHdmZGZ4SFBwMVFCZEg1ZTFkbmoxZUNoSlpzaDBBai1tUy1FUHc1TEZiWENmOFJNMjM4WkxqM0JpR2FCV2lhSlZZZzlSVWl4NjlRWlEzaDQ?oc=5",
+      "snippet": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name &nbsp;&nbsp; Al Jazeera Large Lake Ontario sign installed in Canada in latest jab at US &nbsp;&nbsp; BBC Goo",
+      "pub": "Sat, 29 Aug 2026 22:53:55 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "No One Knows How to End the War with Iran - Rolling Stone",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2VnUW1tNlhmVEFkOXlpWnBDNnN0WHBSZkNzTEI0bWVGQjl1bTRGdFRYNzBfMWhpS2h5UXVvY25hemFyNVhoSkU4QmFlVkpKMzV5a1pXdUF1akNqWk04M2ZpcElGYWtRNU5DWVo1aVpjSG42c0tvdDFvOXFHa1ZYMngwOUpNVW04ZTdrZ254ZWRkVGs0X1BmX2NRVG9tTmZaVmdxcUFxcnd5WmdFcy1qdFdR?oc=5",
-      "snippet": "No One Knows How to End the War with Iran &nbsp;&nbsp; Rolling Stone A power struggle in Iran could decide when Trump’s war ends &nbsp;&nbsp; CNN Mapping the Iran war’s strikes on ",
-      "pub": "Sat, 29 Aug 2026 12:37:08 GMT",
+      "title": "Iceland's rejection of accession talks is major blow to EU enlargement - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTUtvR2xDZFVKRGJPZ1dBRTloMW9qbWJkV1dNZUI1NWRVbFQ4d2wyY2VDeGJrb2Q2S0N5OTVkTDZKNWtVLXAtdUdBUTduYU5HdDRHMmkxTm5PMVl0ckV4dlVfQXB2SWpzaWRWV0dYcDdsbndnUFRHVFVQMEhLLW1hSHpzVTBhbmg0VS1RbTFpOWJjMVczMno4RTIyd0UzNXl6TTdGYjY1eWlWV3ZEZ0g0QVRwWngzZFoyOEE?oc=5",
+      "snippet": "Iceland's rejection of accession talks is major blow to EU enlargement &nbsp;&nbsp; Euronews.com Icelanders vote to stay out of EU in close-fought referendum &nbsp;&nbsp; CBC Icela",
+      "pub": "Sun, 30 Aug 2026 09:45:19 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump cannot deport students for criticizing Israel, judge rules - PBS",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXZfbWpLQzZrN3ZBRjBhb2UzMm84TmcySlU3NFNGcFVKUGw4QmR2MzU4STNMT0tZajVYanh2RlZ5Sk5NOVZ4N1hoaWR6RUw2dWJCZHBmQ213dTJNSTNHejVUTHhLRF9ZOEd4TTVDTDZ1VkM1UjJqREUxc3hPOWF0ZjBEek5KSkFoV3gxMXp6aUJGVWRfOVZTSTlZVEpjQlhK?oc=5",
-      "snippet": "Trump cannot deport students for criticizing Israel, judge rules &nbsp;&nbsp; PBS Judge declares Rubio’s speech-based student deportations violate the Constitution &nbsp;&nbsp; Pol",
-      "pub": "Sat, 29 Aug 2026 18:14:48 GMT",
+      "title": "Voters head to the polls in three federal byelections in B.C., Ontario and Quebec - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2txT0p0VFA0N2JycDZZeGJoMTRqeXMxaXAwM0FUWFVsTU1tNHVKNWJ1UV9vNUdxcEtYZlAtZjctbHdpdjZyLUM2VE9DUXZianNtdmxWYkNDS0UyNGxlR3U4RGZiU25TQm5ZTFhKWW41bThad3hUVWlBS1BfcWF3N2M1WDkzLVFZOENxai1DNUVIVEJydnNLbHJQYWNmdDd6YkJ6YjFRVXVyOVEwTFV0Y1A2MTJWNl83bVNv?oc=5",
+      "snippet": "Voters head to the polls in three federal byelections in B.C., Ontario and Quebec &nbsp;&nbsp; CTV News Voters set to go to the polls in three by-elections across Canada &nbsp;&nbs",
+      "pub": "Sun, 30 Aug 2026 11:20:17 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘Stop treating Quebecers like idiots’: Liberals. Follow for live updates. - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX3l5eDFlYVE2RG9DNFMzeWY3VTZLU2kzbktNQVdhT1Z2bFo4N3ByWV9YdE1EanJKa2tmMDEzaklxSnNWTUFHSnpPREVnSnVBZ2ZDUkxHUVRPUnZhNW9MSjJrLXV3X0hxN0wwQ0Z5TmVwZDRWNlJuY25VVjFBSlYtQ1RMZE9sTWFVcjRTdHBjc18ySVZtSHY4dF9zV2tJZUNIb3dTdkQ3bXJGX0xPUVl0ZW1MeWtiNFpPT2hKeFAyb3Y?oc=5",
-      "snippet": "‘Stop treating Quebecers like idiots’: Liberals. Follow for live updates. &nbsp;&nbsp; CTV News Dimitri Soudas: Donald Trump is inadvertently reminding Quebec why it needs Canada &",
-      "pub": "Sat, 29 Aug 2026 20:45:16 GMT",
+      "title": "Separatist rally draws sea of Alberta flags to the legislature Sunday - Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQmw5dzl2U3FGZmtOck1aTW85OWxaVG9EYWlic29uWmozSzdKTTd4WkN1TmxJMzBYbzQ0YTRpNk9LbGtnMUh2SFRzTmhpS2dWVUdNdExaSkdjVlJVU2lJZXJ3MV9IVFNTS28yYmRrWndFTGc1Ym1GZ0lQbTRpQmdveXQxY1NVQndhbEgtem9aYTY?oc=5",
+      "snippet": "Separatist rally draws sea of Alberta flags to the legislature Sunday &nbsp;&nbsp; Edmonton Journal Both sides of Alberta separation debate rally as momentum kicks up ahead of vote",
+      "pub": "Sat, 29 Aug 2026 22:32:58 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta Premier Danielle Smith to meet with U.S. officials amid trade war - Global News",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MNXk4ZFhvWDRhUFhlSVdZM18xQVhBdzZpOEJFOElxaEtTd2pLdm9CQ20wN2UxYzYwbGhzSGZDZmtsQXNIdEFXVURZQkpKU2ZKZ3ZGc0Y1RzlEVXpGa0ozM3hxRDlGVUdwUkdpOU5XNUpTWF9ZX2VYVA?oc=5",
-      "snippet": "Alberta Premier Danielle Smith to meet with U.S. officials amid trade war &nbsp;&nbsp; Global News Opinion: Using oil to retaliate against the U.S. would be exceedingly stupid &nbs",
-      "pub": "Sat, 29 Aug 2026 17:51:07 GMT",
+      "title": "Their buildings can become dangerously hot. These Vancouver tenants are finding ways to stay safe - CBC",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaURwYkYyNGxEa0J0LWFiYWhwSE9NbkxJVWdUVks4elFFOEExcXQ4MFVkMU16SU9GTE1CVFEwQUJlNURwT3ZFZTFiMFdic1FHNEI3cXU1OFpHNjJXTFgwdmcxTk94TDR1emllc2JBUHJ0UjFrc1d3a2tWUV96VnY2bDBoOHFHQXBHWHl0UnFDN2VPY1h5Z05aZ2x1dFByYjU2TENPZ2pkM0s4UWpSX3RFd0x6QmJmckE?oc=5",
+      "snippet": "Their buildings can become dangerously hot. These Vancouver tenants are finding ways to stay safe &nbsp;&nbsp; CBC Banding Together to Help DTES Residents Survive Extreme Heat &nbs",
+      "pub": "Sun, 30 Aug 2026 08:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "As she launches her campaign, Quebec's Fréchette hopes the Carney formula will work twice - National Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2N5Z1QxMmJTN2VSVmJDWFlMbURmWFNvYll2dkppb1dxLUY1MU1ZbUxmN25ZMjdKbWFwS2gxSGFCV0RIS1dGVWNXUXpEZF9DWWowVTJ5eDVsZlhLZVRjZlRiZ3lqRGlHRXJ3Q09TaVZYbVFrZXVYUnpmdmRGekpGUkNWNG5fRFk3bVFxS192aEVPTkhobjJPVUVwdUUwdDZNN1dVcTRpbExERWdfU2c?oc=5",
+      "snippet": "As she launches her campaign, Quebec's Fréchette hopes the Carney formula will work twice &nbsp;&nbsp; National Post ‘Stop treating Quebecers like idiots’: Liberals. Follow for liv",
+      "pub": "Sat, 29 Aug 2026 10:02:13 GMT",
       "image": ""
     }
   ],
