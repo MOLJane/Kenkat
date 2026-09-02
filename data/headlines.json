@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-09-02T19:33:48.004027+00:00",
+  "generated_at": "2026-09-02T22:11:05.923748+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "City of St. John’s Launches Survey on Taxes, Services and Priorities",
+      "link": "https://vocm.com/2026/09/02/308925/",
+      "snippet": "If you have ever wanted to give City Hall a piece of your mind regarding your tax bill or services, here's your chance. The City of St. John's has lau...",
+      "pub": "Wed, 02 Sep 2026 20:22:00 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/city-of-st-johns.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Bill C-34 Raises Questions Over Age Verification",
+      "link": "https://vocm.com/2026/09/02/308978/",
+      "snippet": "Questions are being raised about how to enforce or verify the age of young users after the introduction of Bill C-34, new proposed federal legislation...",
+      "pub": "Wed, 02 Sep 2026 19:39:27 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/01/Kevin-Andrews.jpg"
+    },
     {
       "source": "VOCM",
       "title": "PM Carney Condemns Suspected Russian Plot Targeting Ukrainian Planes",
@@ -20,11 +36,11 @@
     },
     {
       "source": "VOCM",
-      "title": "Wildfire Burning Near Port Hope Simpson",
+      "title": "Update: State of Emergency Issued for Port Hope Simpson",
       "link": "https://vocm.com/2026/09/02/wildfire-burning-near-port-hope-simpson/",
-      "snippet": "Waterbombers are on-site as crews battle a wildfire burning in Labrador near the community of Port Hope Simpson. According to a Facebook post from the...",
+      "snippet": "A State of Emergency has been declared in Port Hope Simson due to a wildfire in the area. Residents are being advised to be prepared to evacuate on a ...",
       "pub": "Wed, 02 Sep 2026 18:23:16 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/provincial-newfoundland-and-labrador-water-bomber-waterbomber-wildfire-fire.jpg"
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/a-fire-developing-within-the-town-limits-of-port-hope-simpson-john-martin-facebook.jpg"
     },
     {
       "source": "VOCM",
@@ -51,83 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/bank-of-canada-governor-tiff-mklem.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Rental Property Trashed, Landlord Seeking Accountability for Nightmare Tenants",
-      "link": "https://vocm.com/2026/09/02/308901/",
-      "snippet": "A St. John's landlord is gaining support in her calls for changes to the Landlord Tenancies Act after encountering problems with a nightmare tenant. C...",
-      "pub": "Wed, 02 Sep 2026 15:47:40 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/tenant-3.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Investigation into Dangerous Driving Incident on West Coast Continues",
-      "link": "https://vocm.com/2026/09/02/308918/",
-      "snippet": "RCMP are investigating a recent incident involving a daring and unusual detour taken at a construction site on the province's west coast that was caug...",
-      "pub": "Wed, 02 Sep 2026 15:03:43 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rcmp-nl-facebook-red-pickup-ditch-detour.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Trump floats renaming Strait of Hormuz after himself - thehill.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1gzdGp4Uk81V0ZRT0xGMGZDYkZtekJ6cWl1R1pkU3dsSkFlcUxmNEstM3huMnBtSzJ1RWt5c0QtdXZqN053aVJkT1ByNVhSYWQ3WFgtaC1QMExUdWpaMHNla1F5UXVxWFZmRFlRRWNaMzl2dkZZUkNtM0VjMzI2ZkhzcDBUXzQ?oc=5",
-      "snippet": "Trump floats renaming Strait of Hormuz after himself &nbsp;&nbsp; thehill.com 'Trump Strait': Trump floats renaming Strait of Hormuz &nbsp;&nbsp; CTV News Trump muses about changin",
-      "pub": "Wed, 02 Sep 2026 16:03:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Man dies after driving pick-up truck into Calgary Transit bus - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DTzVfaHJJbms4eEhrcDlpQ3R5TnRGVFo2OUtwc09SUEdyVFpWN0pXejZsdXRUSmVYWEg1ejFSaVlGbm95RzFmcTE2VTRuYVlIVExpRjJSREhQaGhkTHo0VmhvVHhZX0ZvaU94YXVBZl8wOFRScWhQLWd6T2djZw?oc=5",
-      "snippet": "Man dies after driving pick-up truck into Calgary Transit bus &nbsp;&nbsp; Calgary Herald See more headlines & perspectives on Google News",
-      "pub": "Wed, 02 Sep 2026 12:15:23 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "The verdict is in on Trump’s ‘Lake America’ and Canada trade war. It’s not good - CNN",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Jc2t2SmFjdG1UY01jSEo3NkpNNEE5Qk1GRnBiTDBrUnp3U19xZHluN0wwOGM2ZEo3dnRVdEJpb1ZqV3VYUXgyUEtpeUVRb19qbU1YT0ZtR21TUXNfaDJvUUFkYTNOVlItOThIV3I5UTlCSzczUkJYdDZUTQ?oc=5",
-      "snippet": "The verdict is in on Trump’s ‘Lake America’ and Canada trade war. It’s not good &nbsp;&nbsp; CNN Doug Ford’s giant Lake Ontario sign cost $25K, premier’s office confirms &nbsp;&nbs",
-      "pub": "Wed, 02 Sep 2026 04:00:29 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORW5HNl92dGdvR0QwSnY2WGVNYkF4UXlXc21BbWVQNkFULUl2WlJwTm52aGlhSEZHQnRWUG1yVmxJSE9GS3FicEFzY2d1a2dkSW9GUmFfc2VOSEFCS0h4blEtNzRVVUlic2xEMVBFQzJkd3M4MzFjUldaSVVpb0lBZW1YSExrNTZ6S2JqWmJWRTA4UWlYazNZdHQ5OXFPaUxzdG1SMWNoV2lldVhuOEtJ0gG0AUFVX3lxTE5ERFlqT0Rmcm8tX0tBS2xzeW1FV2xzWTN4SV9qV1VtQTJOTjJDa3A3UWtnTjdQVkRpdGlGZU1SY1lTT1p5dHR1MEZicm50SnpCTnNiTDNlNUQzMUUwQU1PRlVqOFlON0JRZEt1Q3JFSlZzMVFyN19ibkdKRmgwWjRIb2M2SFNuN1J5UHFGNm9MSV9kRHZMTEFaUC00VW1lWkE3amh5MmJvTU15aTA1UTFXMEF3VQ?oc=5",
-      "snippet": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik? &nbsp;&nbsp; Al Jazeera Iran retaliates after US strikes, defying Trump’s warning it could be hit ‘much har",
-      "pub": "Wed, 02 Sep 2026 10:59:36 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "‘Good chance’ tornadoes will touch down during severe thunderstorms in southern Ontario. Live updates here. - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONzY2YWZKOWh0OTdVMU1ENmhsT1FpcnBBdGtYRTZnODlVTnVoWlNna3J2MnVhUnR6MEl0VVMxRVpzcG41VWliLTRmNUsxM2Y5Nm9lQk9JbzBuZUJPZWtkTlhJUzJqblBxbEl2MUpKQnJxZ0VGb2VXZHpyeEczSE5CTmRzVkJob3piRjVoRmg0YkpqektoZGdGaGtJcHQ2U1ZQU1J0WXAzWEFCZllJT2F1Z0ZvSWhwcDlINzU2dHlwTThDOUg5WFN1aXdfZ0Q1VUdUU2JQTkIyUUVWVFk?oc=5",
-      "snippet": "‘Good chance’ tornadoes will touch down during severe thunderstorms in southern Ontario. Live updates here. &nbsp;&nbsp; CTV News Toronto under severe thunderstorm warning with ext",
-      "pub": "Wed, 02 Sep 2026 18:46:20 GMT",
+      "title": "Environment Canada warns of 'extremely dangerous' thunderstorm as Toronto under red-level alert - CBC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONDZ4Y1NqMkVKOGJuc2tEUVplY2R6S05XWU9FdUxLNk5LV0lmMWs3TkVxaXF5MnZGNE1XaXp2eERweVl5aFZKZDAtSlM2SS1MQXdGSU9ja0hDTHh5MWFwWnR1RFVvd2JjX0IwUEVoZUliQVNKYVg4NkotZ3FKVXVtYldGa2RYcW9HcTE3M1JJNA?oc=5",
+      "snippet": "Environment Canada warns of 'extremely dangerous' thunderstorm as Toronto under red-level alert &nbsp;&nbsp; CBC Emergency alert sent to phones in GTA as ‘extremely dangerous thund",
+      "pub": "Wed, 02 Sep 2026 21:13:34 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "What happens next if the jury in the Lindsay Clancy murder trial can't reach a verdict? - CTV News",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcUpIbm5QREdKRlVqdEh1d01uZjk1cWpxM3l5QmlBQjNPUDFrbEd3MGh4V0JjWm5WYzR5WlNhckQ4UG5kRU5LQ2ZZSWxHYTJFU3pTY1M3MWRXSFBDdkZ6S0t4ZVFXdkF2V0o4aXJ1bWRnYm02Y0FPT2ozR2w1S2hKcHd0TVV5MElyZ1VDRlJfUFljdGxQbThrSEdiQnAwWHJZeVhpOGpMcHRpNmM2a2RvblJDaEtKbG1zOWpycnNtMTM?oc=5",
-      "snippet": "What happens next if the jury in the Lindsay Clancy murder trial can't reach a verdict? &nbsp;&nbsp; CTV News Live updates: Deliberations continue in Lindsay Clancy trial &nbsp;&nb",
+      "snippet": "What happens next if the jury in the Lindsay Clancy murder trial can't reach a verdict? &nbsp;&nbsp; CTV News Jurors in Clancy trial told to return tomorrow after failing to reach ",
       "pub": "Wed, 02 Sep 2026 09:23:17 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Teachers, students file new wave of lawsuits against OpenAI over Tumbler Ridge shooting - CBC",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR1BTQ29iVmVwd3ZLNXFwVWFCY0pqZ3ZNazRsU3VOcjBZTlZFLVRpeWZrZnROUWd5UmRoaUZnZWxZRWhoY3ctRmFSMVRkTTFlbUdNMnk4WmNrejhXTW92WnVCQTl6OWEzVnByWFB5WEVhU1lWYlM3VS1BS2R2Rzc3QjZ2ZEQxUVpsU25BSXJkUW84V0JkaUdVRUdUU0hmZw?oc=5",
-      "snippet": "Teachers, students file new wave of lawsuits against OpenAI over Tumbler Ridge shooting &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Wed, 02 Sep 2026 15:40:53 GMT",
+      "title": "B.C. Conservative MLA Donegal Wilson quits caucus - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeHFKQUlrOFNGWFE4M2NHMm1PUFNLSjhjNFE1VTl4by05UzRJNW9BNF9vQkRaVHFrNDFyZ214UDh2bTFvVGVOMWhiQURaUDY3cnNiMXpLcnh6OXFab1NOMFBILUh6MzdXZmRuY3ZUWEdpMzNwdmQtMzN5SFRGS3k4VmFB?oc=5",
+      "snippet": "B.C. Conservative MLA Donegal Wilson quits caucus &nbsp;&nbsp; Global News The BC Conservative implosion bodes well for Canadian politics &nbsp;&nbsp; Canada's National Observer B.",
+      "pub": "Wed, 02 Sep 2026 18:10:53 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ontario university student arrested in U.S. espionage case - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQU4wRGpDbkhRNHNuUXFzbjU1d3hXcjdKVnVESkdaN2JMOHJXN0lmWE5nZU03bDhhVVpseUdQZkhWZ1pOWDY0eEVaSFAzMXN6M0ZSSTF1NHNOcUJRX1dCaVBfVjJIT2tyM2ZfeUVJQTVRY0NDdXdiZTRCd29KZFpwdmJlOWtLcUFwRlkzZlJreThzYUZhZjV6d244Wl9YSmpDcHRzb0psYw?oc=5",
-      "snippet": "Ontario university student arrested in U.S. espionage case &nbsp;&nbsp; The Globe and Mail Plane spotter or Chinese spy? Ontario university student suspected of espionage at airpor",
-      "pub": "Wed, 02 Sep 2026 15:22:41 GMT",
+      "title": "Lutnick targets Ontario in ‘51st state’ remarks, says province underperforms - cp24.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUW1HUEZPV0czMUc1MkR4cUdkekdFSDBBcEZGZjVCY0Vlb0xiMkUybVktb25oRVpVVXpaTm5iMnpoNFJOWE5HMERzWGpWcXJKUzd5RXVXc2xxMU9GQlFmaTAxWHFJNnVPMkh1b1JVNWVsSC1UdjF6S3NLZU4wbkZ6NzVCdFF3T1JBQVF3RWpDZjYtMGVnbVFFdldweU9UcTAzMDhNRkk5RTdOVDUwUHl4d1FweHMxbzVrRVJFQw?oc=5",
+      "snippet": "Lutnick targets Ontario in ‘51st state’ remarks, says province underperforms &nbsp;&nbsp; cp24.com See more headlines & perspectives on Google News",
+      "pub": "Wed, 02 Sep 2026 15:54:55 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "'Below the dignity of the office': Canadian officials condemn Pete Hegseth cadet post - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBic0Q5QWJoUnU5VWFBWWowcnF0c3RCMDZMS3J5NzlWYUFvbUpRUFNvQ1RHbmxVMW9BU1YzX3NiNkdrYmVhWkxPV1dVdGY0MnlGS29kdUh5MEdrUQ?oc=5",
+      "snippet": "'Below the dignity of the office': Canadian officials condemn Pete Hegseth cadet post &nbsp;&nbsp; BBC George Clooney slams Pete Hegseth for mocking Canadian cadet program &nbsp;&n",
+      "pub": "Wed, 02 Sep 2026 19:20:50 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV1pMU2x2b2pNQTVaOEdac1h3TTV6dlpLUlIya0RLQy1XaXZjMUxseWpxeFRXdFNqNlU1NmxHa0lEOGdBREZSZEpKT0RWRlY3WHN4RTZHdWRFV1VJLUtCX3F3dTl4TlhvMk9GX2lNU1l0RWJGNUg2NFR5VktpaU5Fakk4QXRJbTVnWms5aUxLdS1zSEZ2emM0Yjd1SQ?oc=5",
+      "snippet": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order &nbsp;&nbsp; The Guardian The verdict is in on Trump’s ‘Lake America’ and Canada trade war. It’s no",
+      "pub": "Wed, 02 Sep 2026 19:06:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Woman whose dogs killed 11-year-old boy in Edmonton to be sentenced - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYk80NkZWaWNSUkRfVFdPSGkzWHhFbXI0bHlpeEtfX0hkekdqQXhDc2xMQzhYWWJjM0NlQjBybF83elk4amp4U1F2aTBkYi1kaHp0S0RzVWFtWWhieFdySlZpdDB6Rzd4Tno5emtxd1dZaTYwVFgzTVlRQkF6bFIxMWF1UkoyWmYyaFhiSEdHUVVkZzJaeEN1Ulc3bHlQQXNKNk1EOGNYY0Y1UVRY?oc=5",
+      "snippet": "Woman whose dogs killed 11-year-old boy in Edmonton to be sentenced &nbsp;&nbsp; CTV News Crown seeks 5 years for Edmonton woman whose dogs fatally mauled boy &nbsp;&nbsp; Edmonton",
+      "pub": "Wed, 02 Sep 2026 20:26:52 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMV90YW15alhlRmlUN1lBSFN2LXhnaEpHTG9tRkVXa2tlZGN2a2xqVW9TU19ldTRZNm9NVDBRV2N5VDlnc0EzMjFldHozVVNGT3k5NkxfTWV0WjRXbndVNjNLMF9xTTNJMzMzOXBUaXhkX3YxOFB2bEY2dXZyWlJIdjR5UnFYUVppOGdjVkNLV1RRU2s?oc=5",
+      "snippet": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI &nbsp;&nbsp; The Guardian Tumbler Ridge mass shooting survivors sue OpenAI, alleging negligence &nbsp;&nbsp;",
+      "pub": "Wed, 02 Sep 2026 13:22:00 GMT",
       "image": ""
     }
   ],
