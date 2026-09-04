@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-09-04T04:49:38.168895+00:00",
+  "generated_at": "2026-09-04T09:12:37.965488+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "DFO Warning of Right Whales Spotted in Conception Bay",
+      "link": "https://vocm.com/2026/09/04/dfo-warning-of-right-whales-spotted-in-conception-bay/",
+      "snippet": "The Department of Fisheries and Oceans is warning mariners of the presence of North Atlantic right whales in Conception Bay. The endangered creatures ...",
+      "pub": "Fri, 04 Sep 2026 08:58:45 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/02/right-whales.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "North Texas Wildfire Destroys 167 Structures Amid Extreme Heat",
+      "link": "https://vocm.com/2026/09/04/north-texas-wildfire-destroys-167-structures-amid-extreme-heat/",
+      "snippet": "A major wildfire in North Texas has burned about 90,400 acres while crews continue working to strengthen containment and control remaining hot spots. ...",
+      "pub": "Fri, 04 Sep 2026 08:17:54 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/09/30510107.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "New Marine Atlantic Ferry Arrives in North Sydney",
+      "link": "https://vocm.com/2026/09/04/new-marine-atlantic-ferry-arrives-in-north-sydney/",
+      "snippet": "Marine Atlantic's newest vessel is in the country.",
+      "pub": "Fri, 04 Sep 2026 08:43:11 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/marine-atlantic-new-vessel-ferry-ile-rouge-ile-rouge.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Child Ticketed After E-Bike/E-Scooter Collision in Downtown St. John’s",
+      "link": "https://vocm.com/2026/09/04/child-ticketed-after-e-bike-e-scooter-collision-involving-in-downtown-st-johns/",
+      "snippet": "A child was issued a ticket after a collision between an e-bike and an e-scooter in the downtown on Wednesday afternoon. Video has been circulating on...",
+      "pub": "Fri, 04 Sep 2026 08:36:16 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc-crest.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Daily Fuel Prices for Friday, September 4, 2026",
+      "link": "https://vocm.com/2026/09/04/daily-fuel-prices-for-friday-september-4-2026/",
+      "snippet": "There's been a slight decrease in the price of gas heading into the long weekend. The PUB has lowered the price by 2 and a half cents per litre. There...",
+      "pub": "Fri, 04 Sep 2026 08:31:12 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/gas-fuel-prices-pumps-gas-station-pub-public-utilities-board.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "September 4, 2026 – Do you have confidence in the public long-term care system?",
+      "link": "https://vocm.com/2026/09/04/september-3-2026-do-you-have-confidence-in-the-public-long-term-care-system/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13409').",
+      "pub": "Fri, 04 Sep 2026 07:30:45 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/04/senior-elderly-aging-long-term-care-personal-care-home-hands.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Parrott Defends Hydro Deal, says Critics Have It Wrong",
@@ -19,99 +67,51 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/joedy-wall.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Women’s Rights Leader Gloria Steinem Dead at 92",
-      "link": "https://vocm.com/2026/09/03/womens-rights-leader-gloria-steinem-dead-at-92/",
-      "snippet": "One of the leading figures in the feminist movement in the United States has passed away. Gloria Steinem passed away on Wednesday at the age of 92. Th...",
-      "pub": "Thu, 03 Sep 2026 19:26:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/gloria-steinem-facebook.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RNC Celebrates Historic First in Welcoming Second Graduating Class This Year",
-      "link": "https://vocm.com/2026/09/03/309143/",
-      "snippet": "The RNC is welcoming a new group of recruits for the second time this year; a first for the organization. Nineteen new officers were sworn in to the R...",
-      "pub": "Thu, 03 Sep 2026 19:12:55 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/rnc-new-recruits.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Fallen RCMP Members Honoured in Memory Garden Service",
-      "link": "https://vocm.com/2026/09/03/309140/",
-      "snippet": "Over 300 members of the RCMP were honoured at an event in St. John's yesterday morning. The annual Memory Garden Service honours those who served with...",
-      "pub": "Thu, 03 Sep 2026 18:58:29 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/bricks-memory-garden.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "St. John’s Mayor Calls for Action on Public Safety Concerns",
-      "link": "https://vocm.com/2026/09/03/309124/",
-      "snippet": "The Mayor of St. John's says residents no longer feel safe or secure, and that's what prompted him to write both levels of government seeking a collab...",
-      "pub": "Thu, 03 Sep 2026 17:54:10 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/st-johns-mayor-danny-breen.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Blood Collection Still Available at Waterford Hospital",
-      "link": "https://vocm.com/2026/09/03/309138/",
-      "snippet": "There is one public service still being offered inside the Waterford Hospital, and there are no timelines available for when it will be moved out. It ...",
-      "pub": "Thu, 03 Sep 2026 17:35:48 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/waterford-hospital-hallway.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Incident in Sheshatshiu Referred to S.I.R.T. for Investigation",
-      "link": "https://vocm.com/2026/09/03/309115/",
-      "snippet": "An arrest in Sheshatshiu that was caught on camera and shared widely online has been referred to the Serious Incident Response Team for review. The vi...",
-      "pub": "Thu, 03 Sep 2026 16:50:49 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/rcmp-innu-6.jpg"
+      "source": "Google News Canada",
+      "title": "Progressive Conservatives, NDP hold on to their seats in Ontario byelections - CP24",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb1k2UUVDRnhGVzIwbUNLalloM1Y3ZTFrbzdVVVJOZUE4bUQ2QzlUbG5teTREU1VGRy1aelZXUWpScmktM01lcjN2T2xIZnZhQThBUkZsYjhsdGRWN2hKS0lfZF8yU2hTZ1lQWkhrSjlkeVNVTU5iTUdZUWs3Z3Rwa01NWjE3bU9sdDBnSE9GOVRsaU04b0VVNDVTbnBheExscmxpRnY0bTVqSmNPa0pmeFd3T0ZxektuazI4MTVZZzZfZF9hUF9QQi0wc19CTWpiZkE?oc=5",
+      "snippet": "Progressive Conservatives, NDP hold on to their seats in Ontario byelections &nbsp;&nbsp; CP24 NDP takes Scarborough Southwest, PCs win in York—Simcoe, Hamilton East—Stoney Creek b",
+      "pub": "Fri, 04 Sep 2026 03:50:00 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Progressive Conservatives, NDP set to hold on to their seats in Ontario byelections - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb1k2UUVDRnhGVzIwbUNLalloM1Y3ZTFrbzdVVVJOZUE4bUQ2QzlUbG5teTREU1VGRy1aelZXUWpScmktM01lcjN2T2xIZnZhQThBUkZsYjhsdGRWN2hKS0lfZF8yU2hTZ1lQWkhrSjlkeVNVTU5iTUdZUWs3Z3Rwa01NWjE3bU9sdDBnSE9GOVRsaU04b0VVNDVTbnBheExscmxpRnY0bTVqSmNPa0pmeFd3T0ZxektuazI4MTVZZzZfZF9hUF9QQi0wc19CTWpiZkE?oc=5",
-      "snippet": "Progressive Conservatives, NDP set to hold on to their seats in Ontario byelections &nbsp;&nbsp; CP24 NDP takes Scarborough Southwest, PCs win in York—Simcoe, Hamilton East—Stoney ",
-      "pub": "Fri, 04 Sep 2026 03:50:00 GMT",
+      "title": "Vancouver police officer arrested, charged with theft, fraud and breach of trust - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdmZFY2FtNzFnYXJDNHpDMnBIaTdzaVpUUGJ6NWxBVzhJOXFYOHN1S094eHpQS3M2YUhnRzB1bGxQTzd6cWphb3IyYUVIdU8tcjRFb0k5ZkY2LUhfZWVWaDNraThGSnJWU21jVVhmTUJzV2xLUFR4a0VZT3cybEZ4RmFfTkdMd1lITXFfczlGeVF0ZHRWeDFCX1hhbjBqMmtjQ2xDMFN5bXNTOHVrMmE5dkJ1MnVRUzN6Wklz?oc=5",
+      "snippet": "Vancouver police officer arrested, charged with theft, fraud and breach of trust &nbsp;&nbsp; Vancouver Sun Well-known Vancouver Police officer Kal Dosanjh arrested (updates) &nbsp",
+      "pub": "Fri, 04 Sep 2026 00:11:36 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Rogers Stadium in Toronto Is Severely Damaged in Thunderstorm - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmhWVlFVcmhmWWN4LXU4dFlCaVZoWUR5dGY0cXhjOWRBaE8tVXFuY2J4TV80bHJuMjQ1RTMyUGhSRVVSQUlwWm5fUkIxcjFscnZZRE9Ya1NnMWdmMDdvZUFKdjgtTGhJRm85bXVNZGZweG1xYk44elM2UkVfdXpUaGZXTXF5ZFVLWE4yUmY4UHBMS2JpWDFaOFJRbw?oc=5",
-      "snippet": "Rogers Stadium in Toronto Is Severely Damaged in Thunderstorm &nbsp;&nbsp; The New York Times Rogers Stadium sustains ‘significant damage’ after severe thunderstorm &nbsp;&nbsp; th",
+      "snippet": "Rogers Stadium in Toronto Is Severely Damaged in Thunderstorm &nbsp;&nbsp; The New York Times See more headlines & perspectives on Google News",
       "pub": "Thu, 03 Sep 2026 23:28:25 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "High-profile VPD officer and youth charity CEO Kal Dosanjh charged with theft, fraud - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkk2TjQ0WEtDX19zR3lJVWJFOWNuRnpnS1ZESWMwc3VITGp2YjRzZmxwX3hDYXMzcF9qRWdrNDB3ZDhneFliSmNIZDV4c3R2cUxxR2liazJPa0tQdS1WN3FzYW5DYXpsYkc0YWd6d243am5LOWlWckJpX3hBUmFMY243RXJKZw?oc=5",
-      "snippet": "High-profile VPD officer and youth charity CEO Kal Dosanjh charged with theft, fraud &nbsp;&nbsp; CBC Well-known Vancouver Police officer Kal Dosanjh arrested &nbsp;&nbsp; Indo-Can",
-      "pub": "Thu, 03 Sep 2026 23:01:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "South Korea reviewing military options for Hormuz, no decision made, official says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWViay1UelBGa2N2MVRMeTBDRUFURDhZblFPbFcwLXc1VG92Y3ZTeE1ZZHU3b1JicEYxOHBEdWQzSEQ1aXZiNmNCZjBVcUl0Y19yOGRQZE5wZjRkdHFYbzJxZTE3QTZDdlRVUGtFSTRyR0JSNkxRU0dBZGRTT1BWalZjdGpKV1BCRjFQV0dXTzZwZEw4aElNSXhJVy1ldVRZV2VqTlYzejVUdzZ3bUhoMlRpbFFsV2FWUjNYUg?oc=5",
-      "snippet": "South Korea reviewing military options for Hormuz, no decision made, official says &nbsp;&nbsp; Reuters See more headlines & perspectives on Google News",
+      "snippet": "South Korea reviewing military options for Hormuz, no decision made, official says &nbsp;&nbsp; Reuters South Korea pushes back on reports it is readying Hormuz deployment amid US ",
       "pub": "Thu, 03 Sep 2026 22:03:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Bank of Canada's new $20 bill features new security features and Canadian, Indigenous motifs - Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUEFmQ2dXX3dKQUNkUTVYcUU3bnBRVDNmZmt1VHVYVDlRemZsZjNzYllCLWc5SkxXVUtYSloxdXFzM3FVWDRRY3lTX0h1eTFVcDVLUE5mTGgxSGNmMGh4M2xPSi1Eel9IVnZ5aHFDSWprSkp6ekVvWlRnZHJBWnlyMEduTGl2R3pxOXQxb1NUSTU?oc=5",
-      "snippet": "Bank of Canada's new $20 bill features new security features and Canadian, Indigenous motifs &nbsp;&nbsp; Financial Post Bank of Canada unveils new vertical $20 bill featuring King",
-      "pub": "Thu, 03 Sep 2026 18:53:06 GMT",
+      "title": "Charles St-Arnaud: Trump's Venezuelan oil deal is further proof Canada needs to diversify — now - Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZW5MWVFVdXZPSG44cWFDelJWTnpLWUlBSDBJd05qekp3MFY0S3FTV2FqVWlaa1FOTWtZdV82X0huT2dJeTFfcVNxRl9xMWRPQXY3cU93YlRNMXZtMkZTenBtdXZuRTdrclNCd0VyYmlCcHkyLXgxTVl4N0k3RkNoVEM1Qk5ybnp5UzVLSWJTbUxaYmpFT182QnFQOWRNT0Uwb2xn?oc=5",
+      "snippet": "Charles St-Arnaud: Trump's Venezuelan oil deal is further proof Canada needs to diversify — now &nbsp;&nbsp; Financial Post Venezuelans of all stripes are denouncing Trump's 'bigge",
+      "pub": "Thu, 03 Sep 2026 10:05:49 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Nobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkJnaTdha0w1MHE5MkllRnZubDg3N09leFBQU011TmRnQ2dlVFdqcWRNd0JDRGhtMDE2TTJIZFZNc2dsQlBEX2tFUVpKZGQ3RVcyTTNFb2dmZ1M0QlVWNXJKQmlySkZFQ2Y0WkpiTklSdkkweDNLUk8yb0tnN0d4bFhocVYtTWhpemtqaG96YXF5SGh0TVNDaHFma3Z2YVJ6QUVYbDE1R0hmcXN4aVJyZnBmYkhQSGtKLVB4dzV3?oc=5",
-      "snippet": "Nobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal &nbsp;&nbsp; The Guardian Venezuelans of all stripes are denouncing Trump's 'biggest oil ",
-      "pub": "Thu, 03 Sep 2026 20:57:00 GMT",
+      "title": "Elections Alberta changes deadline for vote by mail applications for Oct. 19 referendum - Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1BMbWJCRW5fd1loSnRJY1laY3FLNFZFZkpvQWtUcGhpdEstZ0RRN0RIOXMzQ2lFam56am9JdEhYQWxNVUhKbGZuLWN3R0pDcElySEF5ZVhTU3g5YXNoUVNScHJpZDVFb3ZkRjQzTFlsbDVaaDRvRnh6aTRuSzVrczdvcEZOUm5VUXU5T3VWaUY3bkJHSmQ5Nkdpd29HRDZmODZyZkhtZEFKUUN3UTl0ZUlNUWszWDUtSXJrSWp3Q1lRS00tS3Zz?oc=5",
+      "snippet": "Elections Alberta changes deadline for vote by mail applications for Oct. 19 referendum &nbsp;&nbsp; Edmonton Journal Some referendum ballots missing as Albertans begin to receive ",
+      "pub": "Fri, 04 Sep 2026 02:29:42 GMT",
       "image": ""
     },
     {
@@ -124,10 +124,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Crystal MacDonald trial: Edmonton woman whose dogs killed child sentenced to house arrest - Edmonton Journal",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUNRQU9nYnhFc2x2aUpSRlJFd2NtelItbUNJVVF6X3lTOVY2MEkyRnYxNTdNTG1DdFBnRFQ0NXZyQlV6eE5NZUFCb1dmNFBqRk4tZjNoM01mUEJtUEotbmgzZjc3a1dJSlQyTDJ1akVQQjFKZkZmbHFMc0JfbWtRM2x3RllPaVdObHdJR2lEUlM1SlR0NXlsZHFzeklOQndEaFE?oc=5",
-      "snippet": "Crystal MacDonald trial: Edmonton woman whose dogs killed child sentenced to house arrest &nbsp;&nbsp; Edmonton Journal Community sentence for Edmonton woman whose dogs killed 11-y",
-      "pub": "Fri, 04 Sep 2026 04:07:30 GMT",
+      "title": "Tumbler Ridge shooting survivors launch 30 new lawsuits against tech company OpenAI - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLVliMkowSVBGUXhVUEo0VFpsbkZQblR5eHNXcTcwWkFvWVUyTVR2aWpWY2hibjF2TF9meHlyci03aFVZbTE5Q3llY0dSY2hLSF9NeDlKbHF6YnhISzA2Z3RmVVVfOUJrd3ZCYXQ1OEM0N0d1d1N1Rk53ay0wOWh2VFpEa3VVaVNBQ2UyVDA5UnFUaW9WVWFvYmdTS2Nya3RkMDcwZTdMRDB3NTBZVVNmX0dHaUZyVS1LN0FhWHF4TmszVEU?oc=5",
+      "snippet": "Tumbler Ridge shooting survivors launch 30 new lawsuits against tech company OpenAI &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
+      "pub": "Wed, 02 Sep 2026 16:44:19 GMT",
       "image": ""
     }
   ],
