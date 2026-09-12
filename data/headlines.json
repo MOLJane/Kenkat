@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-09-12T06:02:13.190107+00:00",
+  "generated_at": "2026-09-12T11:01:04.510631+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Lions Club VOCM Cares Radio Bingo Returns Tonight",
+      "link": "https://vocm.com/2026/09/12/310041/",
+      "snippet": "The Lions Club/VOCM Cares Foundation Radio Bingo is back for another season starting tonight. After the summer break, Radio Bingo is back airing every...",
+      "pub": "Sat, 12 Sep 2026 10:09:30 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/VOCM-Cares-Radio-Bingo.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "RCMP Charge Woman with Resisting Following Disturbance in Trinity Bay",
+      "link": "https://vocm.com/2026/09/12/310038/",
+      "snippet": "A 55-year-old woman has been charged following a boisterous disturbance at a home in Old Shop, Trinity Bay Thursday evening. Police were called about ...",
+      "pub": "Sat, 12 Sep 2026 09:02:39 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/rcmp-royal-canadian-mounted-police-patch-stock-logo.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Driver Stopped Near Paddy’s Pond Going More Than 50 km/h Over Limit",
+      "link": "https://vocm.com/2026/09/12/driver-caught-near-paddys-pond-going-more-than-50-km-h-over-limit/",
+      "snippet": "A 23-year-old man is without his licence after being stopped by the RCMP going more than 51 km/h over the posted speed limit. Officers flashed the lig...",
+      "pub": "Sat, 12 Sep 2026 08:58:00 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/05/rcmp-car-vehicle-logo-stock-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Gas, Diesel and Heating Fuel Prices Rise Overnight",
+      "link": "https://vocm.com/2026/09/12/gas-diesel-and-heating-fuel-prices-rise-significantly/",
+      "snippet": "The price of all fuels in the province has shot up significantly. All types of gasoline cost an extra 8 cents per litre this morning while diesel on t...",
+      "pub": "Sat, 12 Sep 2026 08:47:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/gaspump.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "East-West Oil Pipeline Offline After Attacks Spark Fires in Saudi Arabia",
+      "link": "https://vocm.com/2026/09/12/east-west-oil-pipeline-offline-after-attacks-spark-fires-in-saudi-arabia/",
+      "snippet": "Saudi Arabia temporarily shut down its East-West oil pipeline after attacks struck pumping stations and triggered fires, raising fresh concerns about ...",
+      "pub": "Sat, 12 Sep 2026 08:13:30 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/09/77261477.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "September 12, 2026 – Will you be following next week’s special debate in the House of Assembly on the new Churchill Falls agreement?",
+      "link": "https://vocm.com/2026/09/12/september-12-2026-will-you-be-following-next-weeks-special-debate-in-the-house-of-assembly-on-the-new-churchill-falls-agreement/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13433').",
+      "pub": "Sat, 12 Sep 2026 07:30:30 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/hoa.jpg"
+    },
     {
       "source": "VOCM",
       "title": "St. John’s International Marks 25th Anniversary of 9/11 with Solemn Ceremony",
@@ -19,83 +67,43 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/health-care-doctor-hospital-stock-1.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Dean Penney Handed Mandatory Life Sentence for Murder of Jennifer Hillier-Penney",
-      "link": "https://vocm.com/2026/09/11/310018/",
-      "snippet": "Dean Penney, convicted of first-degree murder in the death and disappearance of his estranged wife Jennifer Hillier-Penney in December of 2016, was ha...",
-      "pub": "Fri, 11 Sep 2026 18:16:15 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/dean-penney-provincial-court-june-10-2025.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RNC Asking Public’s Help in Identifying Car Involved in Torbay Hit and Run",
-      "link": "https://vocm.com/2026/09/11/310016/",
-      "snippet": "The RNC is hoping the public can help to identify a car believed to be involved in a recent hit and run in Torbay last Sunday. RNC say the red Toyota ...",
-      "pub": "Fri, 11 Sep 2026 17:58:59 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/hit-and-run.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Four Arrested for Drug Offences in Notorious Downtown Park",
-      "link": "https://vocm.com/2026/09/11/four-arrested-on-drug-related-charges-following-suspicious-activity-in-father-walshs-park/",
-      "snippet": "Four people were arrested on drug-related offences this week in an area of the city that's become a nexus point for illegal activity. The RNC says bas...",
-      "pub": "Fri, 11 Sep 2026 17:48:38 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/father-walshs-park.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Netflix Releases Official Trailer for ‘BELOW’",
-      "link": "https://vocm.com/2026/09/11/309952/",
-      "snippet": "Netflix has released the official trailer for a new series that is based in Newfoundland and was shot on location in the province last summer. BELOW t...",
-      "pub": "Fri, 11 Sep 2026 17:38:56 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/below-netflix.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "U.S. Ambassador in Gander to Commemorate 9/11 Anniversary",
-      "link": "https://vocm.com/2026/09/11/309974/",
-      "snippet": "The U.S. Ambassador to Canada, Pete Hoekstra calls his experience sharing the memories of 9/11 in Gander an \"awesome\" one. Hoekstra's presence garnere...",
-      "pub": "Fri, 11 Sep 2026 16:59:10 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/pete-hoekstra.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Clarke’s Beach United Church Looking for Answers Following Attempted Break-and-Enter",
-      "link": "https://vocm.com/2026/09/11/309942/",
-      "snippet": "Somebody tried to break into the United Church in Clarke's Beach Wednesday night and while they could not get inside, they did cause a lot of damage. ...",
-      "pub": "Fri, 11 Sep 2026 16:09:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/clarkes-beach-united.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Jean Chrétien says 'we bow to no one' in fiery 9/11 speech in Gander, N.L. - CBC",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM2owZ2s5Z3phV0hWd1plX3g2bTFIY1Z1Tm1kbmFXb1pqc1VBTEQ3MF9xMVJ3ZnhiR1VDdjdHV09HaVY2dkExbUxPME1oVDhLX3pFa1hKQXgzSnBELTZRZ2FOc3ZEMWFSTy13aVNLZWtNTG56NHVkSExqN0xlZVh5XzluUFhtanFiams1cmdtZkhrWUxzV25lQkpMdHBzWkFVSHJ2MXR1cHI1MlJGV0tKOTdGRENDQ1ZYWjBJNjRKSVkwckRqNjhWLXM4RnBBQQ?oc=5",
-      "snippet": "Jean Chrétien says 'we bow to no one' in fiery 9/11 speech in Gander, N.L. &nbsp;&nbsp; CBC Former PM Chretien tells U.S. to ‘never mistake our generosity for weakness’ in 9/11 spe",
-      "pub": "Fri, 11 Sep 2026 21:38:42 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Zelenskyy lands in North Bay, Ont., greeted by Ukrainians and allies - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVo4WUxHaWNtelpVRWUxRjNJeXFfQ1M3c0F4OEpKRDVyVW9NS0sxemwzVXZ5S3k2ZVB1QVVYYi1mM0xsSmhjNlktU0tUZW0zVHpjXzdrQzEwTFpXSEw1eFZ4OEJ0czRiNHU0S2I2d3RCd2Q5X2t6WlJ0SzhsQjMzZURGeXZ2UzBTdl82UzhlVTdhYUF3R0RPY3FhQlV3eXJrZzM2RUV5YXNabGVacFNvc1dtNXo?oc=5",
-      "snippet": "Zelenskyy lands in North Bay, Ont., greeted by Ukrainians and allies &nbsp;&nbsp; CTV News Zelenskyy describes Canada-U.S. tensions as 'strange,' draws comparison to Ukraine and Ru",
-      "pub": "Fri, 11 Sep 2026 23:50:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "How Canadians are bracing for the impact of Trump’s trade war - aljazeera.com",
+      "title": "How Canadians are bracing for the impact of Trump’s trade war - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM05DYjZXN1NCQWEtQkRQMFVPMTM0WS1DTlYwcFhlQ1Bzb09RQVp0VHdlbDA3RU9tQlZKbEtaYTQ4ODQxRXd1cENuVmtrendlV1RQQnptdno3NHRUek9NRTlmLV90WEtQUndTV19nRUZJYlZqS1dLTUx2Rk84OU5EMlJtOF93blhvOWhEOXhqQUs2MmxOaXBvSzNSdUNvekhsWGlZNENXUdIBrAFBVV95cUxNNGp3Rmg5Zk5ieUpDeXhSUnYzUUpmclJwbmpFTGZlQk5ValN5NnlzNXdpTVZrb1FJOFVqYzdBZm84S1JjQmZyLWVFTmx2SmdLb0FiTmJNSTc5M3FlbnV0V2dfc1plTlpfRFRHSE52SGFuMEJCWF9yeG05Q0VYaVZyM1hsS09PTFV1RVVaazZkWWxLQjhvWEE2SDBBNEFlZGtfaFFYX0taSjlOVWxI?oc=5",
-      "snippet": "How Canadians are bracing for the impact of Trump’s trade war &nbsp;&nbsp; aljazeera.com PM Carney bolsters plan to ‘build here’ as companies look to avoid Trump’s latest tariffs &",
+      "snippet": "How Canadians are bracing for the impact of Trump’s trade war &nbsp;&nbsp; Al Jazeera Tensions simmer on US-Canada border for two towns relying on each other &nbsp;&nbsp; The Guard",
       "pub": "Sat, 12 Sep 2026 00:55:26 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks - aljazeera.com",
+      "title": "Jean Chrétien says 'we bow to no one' in fiery 9/11 speech in Gander, N.L. - CBC",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM2owZ2s5Z3phV0hWd1plX3g2bTFIY1Z1Tm1kbmFXb1pqc1VBTEQ3MF9xMVJ3ZnhiR1VDdjdHV09HaVY2dkExbUxPME1oVDhLX3pFa1hKQXgzSnBELTZRZ2FOc3ZEMWFSTy13aVNLZWtNTG56NHVkSExqN0xlZVh5XzluUFhtanFiams1cmdtZkhrWUxzV25lQkpMdHBzWkFVSHJ2MXR1cHI1MlJGV0tKOTdGRENDQ1ZYWjBJNjRKSVkwckRqNjhWLXM4RnBBQQ?oc=5",
+      "snippet": "Jean Chrétien says 'we bow to no one' in fiery 9/11 speech in Gander, N.L. &nbsp;&nbsp; CBC Chrétien touts Canada’s values, says ‘we bow to no one’ in speech at 9/11 ceremony in Ga",
+      "pub": "Fri, 11 Sep 2026 21:38:42 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Saudi oil pipeline shut down after attack triggers fires - CNN",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTBNQ1lITW5CMjlZTFM3UktsZUNsaHFyb29zZ1VVMmc4b1N4dTVGMVZjM0FpSTR5eTk2N2hGOGZTSVBaTVlPWG1ZLUhJNUg4MUMzcVo2QUJWVl9aRWRvdUpzOTJndDNTN3NMdk55NWZMdXVRZUtJS0RZTXowZThEOE5BeDFJWlFmY2V1T0Jfc2liY29kdDNVX21NQXJhZjFtc01ORA?oc=5",
+      "snippet": "Saudi oil pipeline shut down after attack triggers fires &nbsp;&nbsp; CNN Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq &nbsp;&nbsp; BBC Saudi Arabia’s ",
+      "pub": "Fri, 11 Sep 2026 16:28:45 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUtvYi1RNjFBN1FmMkNrUTJKRXE2ZElHME5Eekw4OTFXRkJhUkZROXpUQUxQMy0yS2hrUHFPa1VxU2twVUtjZnVCQ3pQSEhodkMtanFMQWRRTlRPcnNEMWg0S3ZaZnVpeU9YanFLWmllNWNkWHEyM25hbGZodXRlZTdxSklwaF9tNk9OQzFLNlkzOWtnMTAtel84QThlVzBa0gGmAUFVX3lxTFBNa3NXa1hyajg4d0hPck1yZGNZcmotdzJGaDRhWlNCSHVvc3c1NGdTRV9xVkNVemN4dXhiNUJiMGFvRzMzTV9VMi0tX2h6eXp1bmdteUw0Q0FtSXVIOVkza2NMSDIybGc2UmhyR01sOXFHNEtPSmNENVFMLTZpS1VCYkpjWkU2cmtlckoyci1zd0lUNTI5RndhamQtdjBlLU9BYkY5X3c?oc=5",
-      "snippet": "How US leaders remembered the 25th anniversary of the 9/11 attacks &nbsp;&nbsp; aljazeera.com 'Number one sponsor of terror.' At 9/11 memorial, Trump defends Iran war &nbsp;&nbsp; ",
+      "snippet": "How US leaders remembered the 25th anniversary of the 9/11 attacks &nbsp;&nbsp; Al Jazeera 'Number one sponsor of terror.' At 9/11 memorial, Trump defends Iran war &nbsp;&nbsp; ca.",
       "pub": "Fri, 11 Sep 2026 19:32:37 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "\"Ukraine Will Retaliate Against Russian Strikes On Energy This Winter,\" Zelenskyy Warns - UNITED24 Media",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRHRhNzM2N1dIekVDSmJfQzhPbVZoMnVlVEtjUjZCU05QVHQwLU0wU0o2WFFLU19jMUM0ZXRqZWlWYnlpQ2JCcVpNWnIxUl9tYjl4cWRxeTNnWjk2bjZwczhuRVA4dWpmbUhWbFRRMV9vV0lVVWdXdk1ZaWo4MlE0dkNxY2VXbnZoMnZ3eDdTclJTWUN6WHplczVIaHFYN3JsdkpoaDNsZ3FMdWczVEItMzZlMmtfV1FobzBMQk9yNE5rTkZFZFo3UTdn?oc=5",
+      "snippet": "\"Ukraine Will Retaliate Against Russian Strikes On Energy This Winter,\" Zelenskyy Warns &nbsp;&nbsp; UNITED24 Media Zelenskiy says no trilateral peace talks before elections in Rus",
+      "pub": "Fri, 11 Sep 2026 20:49:47 GMT",
       "image": ""
     },
     {
@@ -108,26 +116,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "'We will never, ever forget' - Americans remember 9/11 on 25th anniversary - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51UmRVTlRrVjVLb2R4LXRLMUVReWh2d3I5U2stOUcyc0xTcHgwMm80dkpDRlJYMlB2UmlNejZSeHJwcVptRm9fLVM1NUlub05qelRRWVNCSQ?oc=5",
-      "snippet": "'We will never, ever forget' - Americans remember 9/11 on 25th anniversary &nbsp;&nbsp; BBC 'Never, ever forget' - America marks 25th anniversary of 9/11 attacks &nbsp;&nbsp; BBC ‘",
-      "pub": "Fri, 11 Sep 2026 18:05:14 GMT",
+      "title": "Smoke from stubborn, ongoing fire at Calgary landfill leads to air quality advisory - Castanet",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdlJPQm1nM01IcnN0Z0t3WkhxRWd6eVkyS3hVOEJwNXJaMUxaWHFWdnFJWkVDajBNdmtCOEI5WVNONTc0MlVnb2pTVEc4NGlNY1BWQXdWdk92azZBcWcyMWVwWm9LeXlxZGJtU3djWEFiRUx6Tl9ZdHV3aVoycHc3NHo3QTJUOHpLcXdrUE52cC1vU09oUnpPMF95RGs1c0xqcWw4TmxJb3k0MlFhbzh3WTdrU3c4NFp1bGVPbW1xU003MXhuNUE?oc=5",
+      "snippet": "Smoke from stubborn, ongoing fire at Calgary landfill leads to air quality advisory &nbsp;&nbsp; Castanet See more headlines & perspectives on Google News",
+      "pub": "Sat, 12 Sep 2026 01:53:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Man faces 22 charges in connection with multiple Surrey shootings - CityNews Vancouver",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DWkIzb3EzeG1VS3QxY3RnV195THNfZW83cHA3YzBlZHpncC1BeGFJaTU3RmN2NUtCTm1mb0NjblMwYmpZanNCazFSWjQyMFZHaXNhbzFLZUJaWTVkTEpZTVFQSjBVX3M1dnZETDlxRWw?oc=5",
-      "snippet": "Man faces 22 charges in connection with multiple Surrey shootings &nbsp;&nbsp; CityNews Vancouver 37-year-old man faces 22 charges in connection with 4 Surrey shootings &nbsp;&nbsp",
-      "pub": "Fri, 11 Sep 2026 21:59:30 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Arrest made in Brampton home invasion, stabbing and attempted carjackings - CP24",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNREhoYzFFdFZsOVhTZkJ0blptcEFPdHN0S2hsRm82UVpiRmV0M29lYmN1NFFIQ0NPQTRYZ3pnQ3NENVRBT0g0RVVtSmdlVnZUQkhxZXhaMXc4MlkyRWU5TWpKR21iVmdYeEFlcHFhdm9YYTRhSU85THdLVTlkcXA3ekJpNDNYNTZQOHpFakxGZnFMSXJ2MTVZbnZYZUY1YkJYUzVzTUcwOW1keWNtQWQ4am9oaVc2cE9ldXZ3?oc=5",
-      "snippet": "Arrest made in Brampton home invasion, stabbing and attempted carjackings &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
-      "pub": "Fri, 11 Sep 2026 23:05:53 GMT",
+      "title": "Sept. 11 first responders to attend B.C. border ceremony on anniversary of attacks - Castanet",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTklzeUJhd3g1MTRUVExGWFJ0TWRUUl9LVUJWaUFzSWlRZ0k0M0plMXdJdG1La29OaXNocGI1dU9yd0tUT3Y4ZGVPcGczZllwd0lhT2RhTU5WRk51eHhTelJ0cjNfRzBRbzk1Y19xSDAwX3N3U0ZsT3JsakM5VlJocTBGRWN0TGpTU2ExbXgwTEFfbV9fcXpVMzdQeGhjREtBLXoyWUlYRDNVUFRBLTB6NDdiNm9RNHBhLWt1QU9NdC1adXVLYVBkS0p4bmdlZw?oc=5",
+      "snippet": "Sept. 11 first responders to attend B.C. border ceremony on anniversary of attacks &nbsp;&nbsp; Castanet See more headlines & perspectives on Google News",
+      "pub": "Fri, 11 Sep 2026 14:25:00 GMT",
       "image": ""
     }
   ],
