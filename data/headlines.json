@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-13T19:08:04.379773+00:00",
+  "generated_at": "2026-09-13T21:31:08.578929+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
       "title": "Lockheed Martin Invests Millions in St. John’s-Based Company",
-      "link": "http://vocm.com/2026/09/13/lockheed-martin-invests-millions-in-st-johns-based-company/",
+      "link": "https://vocm.com/2026/09/13/lockheed-martin-invests-millions-in-st-johns-based-company/",
       "snippet": "Lockheed Martin is investing $5.6 million in St. John's-based Avalon Holographics. The aerospace giant plans to use the local company's technology for...",
       "pub": "Sun, 13 Sep 2026 18:34:05 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/avalon-hologisitcs-lockheed-investment.png"
@@ -13,7 +13,7 @@
     {
       "source": "VOCM",
       "title": "Researcher to Offer Insight into Gut Health",
-      "link": "http://vocm.com/2026/09/13/researcher-to-offer-insight-into-gut-health/",
+      "link": "https://vocm.com/2026/09/13/researcher-to-offer-insight-into-gut-health/",
       "snippet": "An internationally-recognized researcher will offer some insight into the role that gut bacteria plays in helping to manage obesity, diabetes and othe...",
       "pub": "Sun, 13 Sep 2026 16:30:22 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/dr-raylene-reimer.jpg"
@@ -21,7 +21,7 @@
     {
       "source": "VOCM",
       "title": "Hockey Legends Coming to St. John’s for Veterans’ Meet and Greet",
-      "link": "http://vocm.com/2026/09/13/hockey-tough-guy-turned-puff-guy-coming-to-town/",
+      "link": "https://vocm.com/2026/09/13/hockey-tough-guy-turned-puff-guy-coming-to-town/",
       "snippet": "Two hockey legends are visiting the capital city next month for a meet and greet with local veterans. CannaConnect, a group created to help military a...",
       "pub": "Sun, 13 Sep 2026 15:32:43 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/kirk-muller-and-wendel-clark.jpg"
@@ -29,7 +29,7 @@
     {
       "source": "VOCM",
       "title": "Stars on Ice Returns to St. John’s",
-      "link": "http://vocm.com/2026/09/13/310102/",
+      "link": "https://vocm.com/2026/09/13/310102/",
       "snippet": "Some of the world's best figure skaters will be at the Mary Bown's Centre this December, and there's a familiar name from Newfoundland and Labrador am...",
       "pub": "Sun, 13 Sep 2026 14:29:24 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/stars-on-ice-tour-2026.png"
@@ -37,7 +37,7 @@
     {
       "source": "VOCM",
       "title": "AI-Tainted Education Accord Won’t Be Province’s ‘Blueprint’",
-      "link": "http://vocm.com/2026/09/13/310100/",
+      "link": "https://vocm.com/2026/09/13/310100/",
       "snippet": "The provincial government will not be using the Education Accord report as a \"blueprint\" for changes to the system. The previous Liberal government re...",
       "pub": "Sun, 13 Sep 2026 13:31:44 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/09/education-accord.jpg"
@@ -45,7 +45,7 @@
     {
       "source": "VOCM",
       "title": "Liberals Push For Updates on Churchill Falls Engagement",
-      "link": "http://vocm.com/2026/09/13/310095/",
+      "link": "https://vocm.com/2026/09/13/310095/",
       "snippet": "The Opposition wants an update on public input submitted through EngageNL on the new Churchill Falls agreement. Debate on the new deal begins in the H...",
       "pub": "Sun, 13 Sep 2026 12:37:45 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/lisa-dempster.png"
@@ -53,7 +53,7 @@
     {
       "source": "VOCM",
       "title": "Historic Crime Club to Discuss Three Brutal Murders",
-      "link": "http://vocm.com/2026/09/13/310091/",
+      "link": "https://vocm.com/2026/09/13/310091/",
       "snippet": "History meets true crime as the Historic Crime Club gathers next week to discuss the brutal murders of three people in Harbour Grace nearly 200 years ...",
       "pub": "Sun, 13 Sep 2026 11:36:23 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/robert-crocker-bray.jpg"
@@ -61,17 +61,25 @@
     {
       "source": "VOCM",
       "title": "Tourism Department Looks Back on Stunning Iceberg Season",
-      "link": "http://vocm.com/2026/09/13/tourism-department-looks-back-on-stunning-iceberg-season/",
+      "link": "https://vocm.com/2026/09/13/tourism-department-looks-back-on-stunning-iceberg-season/",
       "snippet": "The iceberg season is long over, but the province's tourism department is looking back fondly on what was a particularly spectacular year that was. Ic...",
       "pub": "Sun, 13 Sep 2026 10:37:52 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/iceberg-sun-tourism.jpg"
     },
     {
       "source": "Google News Canada",
-      "title": "Carney pushes idea of making Canada 'associate member' of EU, WSJ reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1Y5U2xFbGpBM1ppYU9rcmhrdVk5b2hKTkNNZHdyakV6Y0UzS2lJenNKS0s2SjFZdVY0cDBDUm42MnNib1BlYzZLWENheHpobzhOanc1LXVnblVHNFo1MDNtUEFjcE93T0ZIOW85VmcwWk1zOEMtcGh4NXpOSk94dVowaVlya1IzWkJxX2NOcDhtZWhVRURzeGRCWUhHV1FuNGRzSUI0bS1ERVZ3TUdhbUZGOWpwZw?oc=5",
-      "snippet": "Carney pushes idea of making Canada 'associate member' of EU, WSJ reports &nbsp;&nbsp; Reuters Exclusive | Mark Carney’s Audacious Bid to Make Canada an ‘Associate Member’ of the E",
-      "pub": "Sun, 13 Sep 2026 16:22:21 GMT",
+      "title": "Carney pushes idea of making Canada ‘associate member’ of EU, WSJ reports - CP24",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd1EwYUhaX01Ra3RGZUdQNzY5bEE2Sk50X05YOHBMc2Q0VUhEbGt1T2JzcEJCUVhsWkpxY21KbUgxQ016dGVmWU9fNlc3N0YyQ21zaVhHel9admsycVN6MllRR1dVYVRSV1FtUVdCQmtvSDZwVFdKSXNJUTJpeTF0R2xya2NmYXpvMUZTS3ZwY3NMT2RLMFlxNFhWd2lSU1VhVndPOVdOR1pLQzByaGVrcmFVMGtjZw?oc=5",
+      "snippet": "Carney pushes idea of making Canada ‘associate member’ of EU, WSJ reports &nbsp;&nbsp; CP24 Exclusive | Mark Carney’s Audacious Bid to Make Canada an ‘Associate Member’ of the EU &",
+      "pub": "Sun, 13 Sep 2026 19:55:08 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump says ‘very negative forces’ raising exaggerated concerns over AI - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXNTTUx3ZjY4aDh2Z2tzMkYwQ2g2R3ZiZVpHMFhISE9QWXEtU0F6LUk2THpETlVCRXRvVmttT0gwSTdxUXh4NF9TOG9Xak5Ldk5ndGxlU0FKV1k1eFNXd0pHell3OEFMNUE1OUZNZ2RzN3lFOHQxcFhJQUNrVzFqMDZsbFBfbXhyVGVrOXJDdXFnV0dLUEMyaVFHcklERHJYR1F5X3gtR0tuby1QYkE?oc=5",
+      "snippet": "Trump says ‘very negative forces’ raising exaggerated concerns over AI &nbsp;&nbsp; CTV News Trump downplays AI risks after dire expert warnings and calls to slow development down ",
+      "pub": "Sun, 13 Sep 2026 14:49:07 GMT",
       "image": ""
     },
     {
@@ -84,10 +92,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Bye, America: Trump’s rhetoric pushes some Canadians to shun the U.S. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmdabkFyTjFFczEwcE9ubWU1NEtWOXdoVS15SGMzMGlJQlVHZ0FNS1J3NG5zcnd0amt4OWU0SUppVzNOWlViUGJHSDJDQ1RiMzJTUzg1VEFpUDFKcWhMejBPYV9JQnNjaG5hTDBiOW02a183SHZFNFB5VDhFSEV5Yi1KR0stZ3FZdE1hYXFNaTZZRGJLV1NJSDkwYUVEVnE5QlhB?oc=5",
-      "snippet": "Bye, America: Trump’s rhetoric pushes some Canadians to shun the U.S. &nbsp;&nbsp; The Washington Post Why has Canada been targeted for a U.S. trade war? &nbsp;&nbsp; CTV News The ",
-      "pub": "Sun, 13 Sep 2026 17:00:01 GMT",
+      "title": "Albertans to vote on opting out of federal programs — while keeping cash - CBC",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORlloREFUbnF6elRqZ3ZvOFhQcDNTTHQ1WThobXdhUURnZEVBdlUxNGcteTc5c3I2X3FTcGlBVTVpT21WZHFyWVpIQ2pwZHN3N1BjMWJuQUdNWkxmUE5zU3g0SFJWZ0xJVlVxMy03aWhSSnNGS3ItRHRrUEpCV184anhKMFlLZFpDdURLMFlVcTVCaURaSWxUdnV6ZlBoV3lEYkY5YWRTa2pvN2VmYjhEckJLWkRaaFE?oc=5",
+      "snippet": "Albertans to vote on opting out of federal programs — while keeping cash &nbsp;&nbsp; CBC Alberta government launches $4M ad campaign ahead of fall referendum &nbsp;&nbsp; CTV News",
+      "pub": "Sun, 13 Sep 2026 11:00:00 GMT",
       "image": ""
     },
     {
@@ -100,34 +108,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump says Ukrainian attacks on Russian energy are spiking prices - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTQxUmt3czk5RU05RTF4clJIbi05Nm82U1VpRW52VUJkZXhabjlndHNtQTV3NHVRdzBCMUZ5OHByTXhGRXZzbmsyNzMwZHJoREZDeVBOdDZiYUxLR0Z2UjU2bTNKUUtYWWFVWUkzMWs5cWUxb1I1OFFCczl6OFhnZ05oZHpXR0ItMGtPNmZGeVJFS1gySFlrRkNkc2NHcFpHQjVEQkdXSUVoXzJpOHNQQ0tNbk9HbXhfUl9JTzJQemhQWkU5QnZwUg?oc=5",
-      "snippet": "Trump says Ukrainian attacks on Russian energy are spiking prices &nbsp;&nbsp; Euronews.com Trump tells Ukraine to stop targeting Russia’s diesel fuel &nbsp;&nbsp; CNN Trump calls ",
-      "pub": "Sun, 13 Sep 2026 16:02:47 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Gander gave Americans a lift on 9/11. 25 years later, it was the other way around - CBC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOHpNVUFYSkE3QUhQNFVWVjJiVnVQcXV5NWY4WFVIbk8wemt6STRraHVBeDlGNTkzc2VLWEVuMThDUFh1RnloVVphenBYWk9PWVlwek55anN6T1VWUmcwaFpaYVNSZnRTR2FLSDlaWjA2clVtY05YUm42ZXpRVENzN012d0NrUHVRSWJ4ZW1STV9pTmU3dnU4?oc=5",
-      "snippet": "Gander gave Americans a lift on 9/11. 25 years later, it was the other way around &nbsp;&nbsp; CBC Jean Chrétien says 'we bow to no one' in fiery 9/11 speech in Gander, N.L. &nbsp;",
-      "pub": "Fri, 11 Sep 2026 20:55:36 GMT",
+      "title": "Bye, America: Trump’s rhetoric pushes some Canadians to shun the U.S. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmdabkFyTjFFczEwcE9ubWU1NEtWOXdoVS15SGMzMGlJQlVHZ0FNS1J3NG5zcnd0amt4OWU0SUppVzNOWlViUGJHSDJDQ1RiMzJTUzg1VEFpUDFKcWhMejBPYV9JQnNjaG5hTDBiOW02a183SHZFNFB5VDhFSEV5Yi1KR0stZ3FZdE1hYXFNaTZZRGJLV1NJSDkwYUVEVnE5QlhB?oc=5",
+      "snippet": "Bye, America: Trump’s rhetoric pushes some Canadians to shun the U.S. &nbsp;&nbsp; The Washington Post Why has Canada been targeted for a U.S. trade war? &nbsp;&nbsp; CTV News Tari",
+      "pub": "Sun, 13 Sep 2026 17:00:01 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Dawson shooting survivor turned SPVM officer reflects on friend's death 20 years on - CBC",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeElERHRfcHpUdGdoV2dxMXVfcXdERm0zQzNoMm9FRTZud0RUWGVxYXNoVG9IR0NIaEQtbUREY1A1UzYxZEl5QjUtZ0R5RnFrZ0ttQVZvS2ZJYnFkTFVraE1xNUR5aHlaQ3VRNUpHUGgtZ2FKekFTYWtFMEowN2YzNXNRSUhqaUpFcXZaOWFkTUFFSnRtNGZLTjdlSDVDdms?oc=5",
-      "snippet": "Dawson shooting survivor turned SPVM officer reflects on friend's death 20 years on &nbsp;&nbsp; CBC Two decades after school shooting, survivor now serves as a police officer in M",
+      "snippet": "Dawson shooting survivor turned SPVM officer reflects on friend's death 20 years on &nbsp;&nbsp; CBC Open letter: 20 years after Dawson College shooting, survivors, families ask Ca",
       "pub": "Sun, 13 Sep 2026 16:27:20 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Albertans to vote on opting out of federal programs — while keeping cash - CBC",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORlloREFUbnF6elRqZ3ZvOFhQcDNTTHQ1WThobXdhUURnZEVBdlUxNGcteTc5c3I2X3FTcGlBVTVpT21WZHFyWVpIQ2pwZHN3N1BjMWJuQUdNWkxmUE5zU3g0SFJWZ0xJVlVxMy03aWhSSnNGS3ItRHRrUEpCV184anhKMFlLZFpDdURLMFlVcTVCaURaSWxUdnV6ZlBoV3lEYkY5YWRTa2pvN2VmYjhEckJLWkRaaFE?oc=5",
-      "snippet": "Albertans to vote on opting out of federal programs — while keeping cash &nbsp;&nbsp; CBC Alberta government launches $4M ad campaign ahead of fall referendum &nbsp;&nbsp; CTV News",
-      "pub": "Sun, 13 Sep 2026 11:00:00 GMT",
+      "title": "Surrey man awarded $275K in defamation suit after months-long protest in front of his home - CBC",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSTh3Nk5KVmstbThnRkZKRmwzYS1YR1lYWi1NU1NuMktNNFVLY3ppbnBfU09ud2htcmpkUWJDTi1CWTZTSjFuLVB2MGpERDFWX1FzZktyUUc4TkJNUVkyN09sN21CVGF4OGowX0JDWTl6YjljNlRnTjlNbHFiTGJvSUdYTDQ3ZlZEVGREMTRMRm9ZalY5VGdvRVV6SjY1a0lwQnhMb21CZ3VSNHNpdE1FeGNBeGc5T2lQVDdqNWJDZWVoY00yYkRGOEZEZ3Zyc0RoQjBaUzNHRzE3LVNsQVRNdQ?oc=5",
+      "snippet": "Surrey man awarded $275K in defamation suit after months-long protest in front of his home &nbsp;&nbsp; CBC",
+      "pub": "Sun, 13 Sep 2026 18:38:41 GMT",
       "image": ""
     }
   ],
