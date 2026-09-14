@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-09-14T02:33:27.268981+00:00",
+  "generated_at": "2026-09-14T08:20:46.639262+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Trump Vows to Lift Irish Whiskey Tariffs Following Discussions with Irish Leaders",
+      "link": "https://vocm.com/2026/09/14/trump-vows-to-lift-irish-whiskey-tariffs-following-discussions-with-irish-leaders/",
+      "snippet": "President Donald Trump said the United States will remove tariffs on Irish whiskey, making the announcement during the Irish Open trophy ceremony at h...",
+      "pub": "Mon, 14 Sep 2026 07:53:25 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/09/241675436.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "September 14, 2026 – Do you think 36 hours to debate the Churchill Falls deal is enough?",
+      "link": "https://vocm.com/2026/09/14/september-14-2026-do-you-think-36-hours-to-debate-the-churchill-falls-deal-is-enough/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13439').",
+      "pub": "Mon, 14 Sep 2026 08:00:02 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/churchill-falls.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Lockheed Martin Invests Millions in St. John’s-Based Company",
@@ -51,22 +67,6 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/lisa-dempster.png"
     },
     {
-      "source": "VOCM",
-      "title": "Historic Crime Club to Discuss Three Brutal Murders",
-      "link": "https://vocm.com/2026/09/13/310091/",
-      "snippet": "History meets true crime as the Historic Crime Club gathers next week to discuss the brutal murders of three people in Harbour Grace nearly 200 years ...",
-      "pub": "Sun, 13 Sep 2026 11:36:23 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/robert-crocker-bray.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Tourism Department Looks Back on Stunning Iceberg Season",
-      "link": "https://vocm.com/2026/09/13/tourism-department-looks-back-on-stunning-iceberg-season/",
-      "snippet": "The iceberg season is long over, but the province's tourism department is looking back fondly on what was a particularly spectacular year that was. Ic...",
-      "pub": "Sun, 13 Sep 2026 10:37:52 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/iceberg-sun-tourism.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "PM Carney says Canada ‘not looking to become member’ of the EU - CP24",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWNDbHBaRnlkZGgxNWlCX1JLTXdxRUtMYm01N3J5Ymx6VEtPNEx4M1o3UWREMERQTUVUb0Vfa1JsbVRWdTU3WFF4UEVfd3kwcWh5aTg0SGlidFdzNHFnczFDZDNJYk9PTEVXcE9zSk9BcVFIbHJaZjh3Vm8yUUJFS3NkREktbUp4SU83N3A3VGd3emZqOTBlanZqVkZDRzRRS0RiTDR6SDA?oc=5",
@@ -76,50 +76,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump says ‘very negative forces’ raising exaggerated concerns over AI - CTV News",
+      "title": "Trump says ‘very negative forces’ raising exaggerated concerns over AI - ctvnews.ca",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXNTTUx3ZjY4aDh2Z2tzMkYwQ2g2R3ZiZVpHMFhISE9QWXEtU0F6LUk2THpETlVCRXRvVmttT0gwSTdxUXh4NF9TOG9Xak5Ldk5ndGxlU0FKV1k1eFNXd0pHell3OEFMNUE1OUZNZ2RzN3lFOHQxcFhJQUNrVzFqMDZsbFBfbXhyVGVrOXJDdXFnV0dLUEMyaVFHcklERHJYR1F5X3gtR0tuby1QYkE?oc=5",
-      "snippet": "Trump says ‘very negative forces’ raising exaggerated concerns over AI &nbsp;&nbsp; CTV News 'Whoever wins AI wins,' Trump says, calling critics of the technology 'negative forces'",
-      "pub": "Sun, 13 Sep 2026 14:49:07 GMT",
+      "snippet": "Trump says ‘very negative forces’ raising exaggerated concerns over AI &nbsp;&nbsp; ctvnews.ca Trump downplays AI risks after dire expert warnings and calls to slow development dow",
+      "pub": "Sun, 13 Sep 2026 23:57:08 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Carney pitches Canada to global investors as Trump tries to pull investment south - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNXJmcUpBMDNTTk1PMm5idjVnakxqWkNiT3JpNHA4eHVOMDNXSFpxRERzRktqcHM0T2l0NUptN0JIel9LWlZrWGhpQ1JIaDZibU52M2Y5aDI2QkJBRW1oRjYxUk5hbkRHVDkyZWt5a1h1cjB0NEN5eklnYXRqZl9leFN5bkUySFZWTWJMWW52NTQ5RjJiWWRlc2tZcmhTQ0hZZ05xY3hYMmQ?oc=5",
+      "snippet": "Carney pitches Canada to global investors as Trump tries to pull investment south &nbsp;&nbsp; AP News As investors arrive for Carney's summit, what's on the table and what will it",
+      "pub": "Mon, 14 Sep 2026 04:24:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Bye, America: Trump’s rhetoric pushes some Canadians to shun the U.S. - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmdabkFyTjFFczEwcE9ubWU1NEtWOXdoVS15SGMzMGlJQlVHZ0FNS1J3NG5zcnd0amt4OWU0SUppVzNOWlViUGJHSDJDQ1RiMzJTUzg1VEFpUDFKcWhMejBPYV9JQnNjaG5hTDBiOW02a183SHZFNFB5VDhFSEV5Yi1KR0stZ3FZdE1hYXFNaTZZRGJLV1NJSDkwYUVEVnE5QlhB?oc=5",
-      "snippet": "Bye, America: Trump’s rhetoric pushes some Canadians to shun the U.S. &nbsp;&nbsp; The Washington Post Trade 'war' or not, are Canada and the United States now dug in? &nbsp;&nbsp;",
+      "snippet": "Bye, America: Trump’s rhetoric pushes some Canadians to shun the U.S. &nbsp;&nbsp; The Washington Post Why has Canada been targeted for a U.S. trade war? &nbsp;&nbsp; ctvnews.ca Ta",
       "pub": "Sun, 13 Sep 2026 17:00:01 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Stephen Harper to deliver closing speech at Carney's Investment Summit - National Post",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQk5NZjE4cXYzQkRnNGpyOFo3MzNSMkphTy1pS3ptRGJ1Z1ZRTUhYTnhESnVaX09HQkpkOWd4WXQ5ZGhRUVp1MlNTN29LRmdkYndEeGxySHlUbEx6bE1rOUNjd25XZ1U0WS0zNXZZXzlvUHFVR0hXRWg2eUhSSTl4bnE5ZmM3dDA1ZWhCZ3NJSjJaUkpXSmwtaHgyemM4RE1TZVNUMC1fR2ZpR2FX?oc=5",
-      "snippet": "Stephen Harper to deliver closing speech at Carney's Investment Summit &nbsp;&nbsp; National Post Ottawa confident it can secure deals, MOUs at investment summit, Joly says &nbsp;&",
-      "pub": "Sun, 13 Sep 2026 20:01:29 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump drops tariff on Irish whiskey while booze ban looms for Canada - Global News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sNnMwWnIyelNxcGlodTAta3VPU1ZUNXh1a3lzUmVOeVgwb182Y1ZqQUs1dlFabnFCRDRuZGM1WTFwY1JyU3FqdlhTYTJyWEx3UHB5M3Vmc1RlenpnUE1zTy16UTFJVTNRTEphcTdNODlQREpZYS1OWmlCZkE?oc=5",
-      "snippet": "Trump drops tariff on Irish whiskey while booze ban looms for Canada &nbsp;&nbsp; Global News Trump says he will remove all Irish whiskey tariffs as he ends two-day visit &nbsp;&nb",
-      "pub": "Sun, 13 Sep 2026 21:35:01 GMT",
+      "title": "New Quebec prayer restrictions change rules at universities, transit agencies - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnRwUWNPclVKNklnSTNXWnJ2T2ZUNVduTDg4YzExaDdqNk1zUElfYjVLUFZlZVNGS2R1U1lDOVF3MU1BUlJVWWRqdmlYMVVpaXRKcDd5UEhuNkJaakdFMWNsQlFES2xLRE13Y2hPZzAzNE9YVExJdVNpeGVpY2dWT3FNd0RmLXd6UjBOckNTUWFyX2t2aGtLaU5NaXZnUXdKOXpTa2w0ZEVodE1hUDZUT2dfbjBlQQ?oc=5",
+      "snippet": "New Quebec prayer restrictions change rules at universities, transit agencies &nbsp;&nbsp; The Globe and Mail Quebec prayer restrictions reshape rules at transit agency, universiti",
+      "pub": "Sun, 13 Sep 2026 20:05:28 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Motorcyclist seriously injured in Scarborough crash - CityNews Toronto",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa3lZSW5IU0xqZEVOV3oxWTZEdWRudVVIQXZQQl92WWdMNUZ1Qmc5bzIzT0VzZnJBZ1dfcmFmZVh0bmJPak80WkVJbGpMRHc1NndUOGc5eWc1ei1vTEMyMFoyS3R6ejlsUzlBakpNb3k1NDVpV3kxZVZENHFzVVNkVmsxQkZ6aEdYZEZIWjROc3g0MXZFSF9zTA?oc=5",
-      "snippet": "Motorcyclist seriously injured in Scarborough crash &nbsp;&nbsp; CityNews Toronto See more headlines & perspectives on Google News",
+      "snippet": "Motorcyclist seriously injured in Scarborough crash &nbsp;&nbsp; CityNews Toronto Motorcyclist dead following collision in Scarborough &nbsp;&nbsp; CP24 Motorcyclist killed in cras",
       "pub": "Sun, 13 Sep 2026 22:46:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Surrey man awarded $275K in defamation suit after months-long protest in front of his home - CBC",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSTh3Nk5KVmstbThnRkZKRmwzYS1YR1lYWi1NU1NuMktNNFVLY3ppbnBfU09ud2htcmpkUWJDTi1CWTZTSjFuLVB2MGpERDFWX1FzZktyUUc4TkJNUVkyN09sN21CVGF4OGowX0JDWTl6YjljNlRnTjlNbHFiTGJvSUdYTDQ3ZlZEVGREMTRMRm9ZalY5VGdvRVV6SjY1a0lwQnhMb21CZ3VSNHNpdE1FeGNBeGc5T2lQVDdqNWJDZWVoY00yYkRGOEZEZ3Zyc0RoQjBaUzNHRzE3LVNsQVRNdQ?oc=5",
-      "snippet": "Surrey man awarded $275K in defamation suit after months-long protest in front of his home &nbsp;&nbsp; CBC",
-      "pub": "Sun, 13 Sep 2026 18:38:41 GMT",
       "image": ""
     },
     {
@@ -128,6 +120,14 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeElERHRfcHpUdGdoV2dxMXVfcXdERm0zQzNoMm9FRTZud0RUWGVxYXNoVG9IR0NIaEQtbUREY1A1UzYxZEl5QjUtZ0R5RnFrZ0ttQVZvS2ZJYnFkTFVraE1xNUR5aHlaQ3VRNUpHUGgtZ2FKekFTYWtFMEowN2YzNXNRSUhqaUpFcXZaOWFkTUFFSnRtNGZLTjdlSDVDdms?oc=5",
       "snippet": "Dawson shooting survivor turned SPVM officer reflects on friend's death 20 years on &nbsp;&nbsp; CBC Two decades after school shooting, survivor now serves as a police officer in M",
       "pub": "Sun, 13 Sep 2026 16:27:20 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Air quality a concern as fire continues to burn at southeast Calgary landfill - CBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGlBbkEtR1B4NW83UUdyVVc3LVVZNWpmLXVBT1NNR0U1VktwZlJlLXQ5ajNaVzhqc2VobGdzeG9pU3BHVFYycmdfelc0eUl4WnM4LUp1YU54SGlpMERYU1VONGxDN3RlQlhEVGFlV0d4Vi1OX0xXVUQ3cWhTWGNFRTFhRHM5cWJQTGhvZnpFdUFrYXVZNGtxWGZfaHpqVFA1TU84Ng?oc=5",
+      "snippet": "Air quality a concern as fire continues to burn at southeast Calgary landfill &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "pub": "Sun, 13 Sep 2026 21:23:12 GMT",
       "image": ""
     }
   ],
