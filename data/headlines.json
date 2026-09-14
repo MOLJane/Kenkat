@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-14T19:52:57.753031+00:00",
+  "generated_at": "2026-09-14T22:52:53.924087+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Police Conducting Investigation Near Valley Mall in Corner Brook",
+      "link": "https://vocm.com/2026/09/14/police-conducting-investigation-near-valley-mall-in-corner-brook/",
+      "snippet": "The RNC is asking people to stay away from Valley Road, Wellington Street and Mount Bernard Avenue areas of Corner Brook as they conduct an investigat...",
+      "pub": "Mon, 14 Sep 2026 21:25:49 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rnc-corner-brook.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Province Warning of Possible Black Bear Sightings in Pasadena",
+      "link": "https://vocm.com/2026/09/14/310299/",
+      "snippet": "The provincial government has issued a warning following reports of black bears in the west coast community of Pasadena. Residents are being asked to ...",
+      "pub": "Mon, 14 Sep 2026 20:26:04 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/06/black-bear-advisory.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Port aux Basques RCMP Investigating Possible Incident Near Government Wharf",
+      "link": "https://vocm.com/2026/09/14/310296/",
+      "snippet": "RCMP are seeking more information from the public after a concerning report over the weekend. Someone reported hearing a person calling for help in th...",
+      "pub": "Mon, 14 Sep 2026 20:01:07 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/06/RCMP-Police-Car-Logo-Stock-2.jpg"
+    },
     {
       "source": "VOCM",
       "title": "City of St. John’s Working Through Application for Southlands Boulevard Housing Development",
@@ -43,34 +67,18 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/joe-power-tonywakeham-lela-evans-hoa-scrum-2.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "ATV Driver Facing Several Charges After Fleeing From Police in St. Jacques",
-      "link": "https://vocm.com/2026/09/14/310255/",
-      "snippet": "A 48-year-old man has been charged with flight from police after an incident in St. Jacques on the Connaigre Peninsula. Harbour Breton RCMP noticed a ...",
-      "pub": "Mon, 14 Sep 2026 16:42:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/st-jacques.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Debate Begins in HoA Over Churchill Falls Agreement",
-      "link": "https://vocm.com/2026/09/14/310259/",
-      "snippet": "Premier Tony Wakeham calls this week's debate one of \"historic importance.\" He says the members of the House of Assembly have to choose whether to sig...",
-      "pub": "Mon, 14 Sep 2026 16:18:56 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/joe-power-tonywakeham-hoa-scrum-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RCMP Seeking Public’s Help to Find Missing Gander Bay Man",
-      "link": "https://vocm.com/2026/09/14/rcmp-seeking-publics-help-to-find-missing-gander-bay-man/",
-      "snippet": "RCMP are requesting help from the public in locating a man reported missing from Gander Bay. Alexander Forward was last seen on Sunday near Victoria C...",
-      "pub": "Mon, 14 Sep 2026 15:53:24 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/rcmp-missing-man-alexander-forward.jpg"
+      "source": "Google News Canada",
+      "title": "Mitch McConnell seen leaving his home after three-month absence from Capitol Hill due to health issues - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTG5iUHRjdXpqOTlYT0NKTFgxclpTVEpNWU1lSVFjQ0JtV1NNNzNYRmtDTWsyUllXMVN4XzI2T3pmT1Nwclg3djJnakpVcHA1d04tSEM1OHI4LTgydU5MdE9RalBGT0lyTUFQTHNtZmNUdFY1djJBYzNSellvcmIyN2Rn?oc=5",
+      "snippet": "Mitch McConnell seen leaving his home after three-month absence from Capitol Hill due to health issues &nbsp;&nbsp; CNN McConnell returns after months-long absence for crucial vote",
+      "pub": "Mon, 14 Sep 2026 21:49:44 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "European Parliament to open Ottawa office as Carney seeks 'unique alliance' with EU - CBC",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbzRNdzRaMU1BYXlyLWY3Vm5pME1uelJhRk0yNVl4X3pSMXBOZ1ZoNUdOeWNwa1ByNzFsVWFWcVd6V3BjcXVpWjZNS1JnNU9BQV9rNjlOalUxMERRamNwcEpQTWgtNG1fRGJjYUs2STJfWHdYcmYwcWdJSEJYYUFScERR?oc=5",
-      "snippet": "European Parliament to open Ottawa office as Carney seeks 'unique alliance' with EU &nbsp;&nbsp; CBC Ben Woodfinden: The EU is an economic disaster. What exactly is Mark Carney aft",
+      "snippet": "European Parliament to open Ottawa office as Carney seeks 'unique alliance' with EU &nbsp;&nbsp; CBC Exclusive | Mark Carney’s Audacious Bid to Make Canada an ‘Associate Member’ of",
       "pub": "Mon, 14 Sep 2026 18:04:52 GMT",
       "image": ""
     },
@@ -78,56 +86,48 @@
       "source": "Google News Canada",
       "title": "Trump dismisses AI safety alarm, says US already has tools to police industry - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUtaZjljMHRad2I0OEcxUUxHTlhNM1laeGo1TlFPb08yVWdWYnRuLWQwMXhzWTc2N3hBdkwyTmtqSmsyaFBMVjZPdnl5eGtKNnJFdzdBaGQ2cThlckVEOHloT2dDODRDTzlMakFqY3NGblFxbUZXMkVXclJ5ZGlmT2ZNYkx3M3A1ZmxsUnI2TElVTExPaTRxQ3o5cDdramw0SS1F?oc=5",
-      "snippet": "Trump dismisses AI safety alarm, says US already has tools to police industry &nbsp;&nbsp; Reuters Trump dismisses new AI guardrails, says there is a ‘SICK conspiracy’ against AI a",
-      "pub": "Mon, 14 Sep 2026 17:57:45 GMT",
+      "snippet": "Trump dismisses AI safety alarm, says US already has tools to police industry &nbsp;&nbsp; Reuters AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ developm",
+      "pub": "Mon, 14 Sep 2026 21:00:20 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Keith Russell announces split from PC party; will sit as an Independent - CBC",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaEJ6SnZFby11Nml5R09EZWNOUEhxTGVsS0F6LXJ0RFNUMlBuQm1mR0NvQ2pFd3c2RVRBOG5iUXFJSDVHWjhfaVRrb3hLR2RUaGJNdzM2Y04tdzQwX0toNUxmQkNKMkJOM0FRMWJFSHBjbzJmbngxV0RrSnJoMXVxNmJveUNrT3c1WUlEUkVrTmhkMHEtQnpTTkxBbi1xZVFqM0w2ZFVZNFNQRGNqVWx4YmdLZkFXRzhqS2JaNHZFMmhTNTdpQVlfYjRQcEpzQQ?oc=5",
-      "snippet": "Keith Russell announces split from PC party; will sit as an Independent &nbsp;&nbsp; CBC Debate Begins in HoA Over Churchill Falls Agreement &nbsp;&nbsp; VOCM Newfoundland and Labr",
-      "pub": "Mon, 14 Sep 2026 17:28:30 GMT",
+      "title": "‘I welcome the president’s comments’: PM Carney responds to Trump update on Canada-U.S. trade deal - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFpIVWZvYVNPSDEwVVlPdVNHc3NhZHZxb2FoaWtRRTNQWmx3TlYtZmFrRzhzMmthZ3BrLUxuVkM4TTMwbGpiYXhMdUxWbndsRW1ObG9rQnNZSEZtenBXSXBoc1NXQ2w5SlpKVnpLdDZycGNUSlJHdFdsLUEtbUdqV2xKQmNoeEFOV1VmRWU0anhMdllwQzRPMHgyQTFaZU1tS3BmMVh3bXRwLTFVT1ZJc3lzUGt1eGVLRnIyTk9najRwbjROT0JuSm5LSUJGQQ?oc=5",
+      "snippet": "‘I welcome the president’s comments’: PM Carney responds to Trump update on Canada-U.S. trade deal &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
+      "pub": "Mon, 14 Sep 2026 16:52:20 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Air quality a concern as fire continues to burn at southeast Calgary landfill - CBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGlBbkEtR1B4NW83UUdyVVc3LVVZNWpmLXVBT1NNR0U1VktwZlJlLXQ5ajNaVzhqc2VobGdzeG9pU3BHVFYycmdfelc0eUl4WnM4LUp1YU54SGlpMERYU1VONGxDN3RlQlhEVGFlV0d4Vi1OX0xXVUQ3cWhTWGNFRTFhRHM5cWJQTGhvZnpFdUFrYXVZNGtxWGZfaHpqVFA1TU84Ng?oc=5",
-      "snippet": "Air quality a concern as fire continues to burn at southeast Calgary landfill &nbsp;&nbsp; CBC Calgary mayor, councillor seeking clear answers on Ecco landfill fire &nbsp;&nbsp; CT",
-      "pub": "Sun, 13 Sep 2026 21:23:12 GMT",
+      "title": "High-risk sex offender moving into Surrey, B.C., police say - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdnhMbUZwbEtNaHRsQ0xJb1BKS1l1UHlhZHhBWDh6cktuMUNWemFyZlo5RmZzbks3dFdsdHhkZXF4M3l3ZTgwbHdBMjV0cUNJS3R5YUxlRW9VV25mMlNQWWxfU1gtU3NRSXV1ZVliN0hHTnBHeDczako4N3d5Z3NGdnpDWWh4Wk5mODliSElXNmdkRFBRU0hlOTRKMXVMUQ?oc=5",
+      "snippet": "High-risk sex offender moving into Surrey, B.C., police say &nbsp;&nbsp; CTV News High-risk sex offender moving into Surrey, police warn &nbsp;&nbsp; Vancouver Sun High-risk offend",
+      "pub": "Mon, 14 Sep 2026 19:46:03 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "$5.5M daycare built with provincial funds now derelict, scavenged by thieves and damaged by flooding - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQl9tY1FGX09wQkVBd0N3cHRSVDRHaGZsTC1OTV9SWlVfY2VTSDNsS1Qyb3U1el9WSDllNVBMTDM0bmdUcnVJQ1VjM1h0TDNfUElXajV6OFFGeDhwWlRSYVozT3F5Vzl3bkxUQ2V0T3JKR2tyNWUtOTY1Z0IzVEE3aDVWaHBkUQ?oc=5",
-      "snippet": "$5.5M daycare built with provincial funds now derelict, scavenged by thieves and damaged by flooding &nbsp;&nbsp; CBC",
-      "pub": "Mon, 14 Sep 2026 10:00:00 GMT",
+      "title": "Doctor at centre of licensing controversy found guilty of assault, counselling to commit offence - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTXozOVhJU3ZoT2FvYmNjeXQyVmszRGNtNWwtNGZFZENIQ01JRV9BRW9XR1NvMzg0V3RGOHNtSkZWdWR6T3dnbVFYTncwYjVlLWRraFRtd3NmMUVSWjFNd3lfbGZpY2Q3X0xha1M4LUUyeEozYXRIQ3g4bUhjT3RjYU1zVXJUVWxhZkJaczdxaXNHdWJBWTdtMkNxOUNhUGp0dDk0QjU3ekRsTFhDeHZFMDg4V2pVWVFOenc?oc=5",
+      "snippet": "Doctor at centre of licensing controversy found guilty of assault, counselling to commit offence &nbsp;&nbsp; The Globe and Mail See more headlines & perspectives on Google News",
+      "pub": "Mon, 14 Sep 2026 18:17:07 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Carney, premiers pitching major projects at first investment summit - Global News",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mSC04RVpIdU9obk8wMHN1YnZHLVR4NVhsVFB3VE9FeE11cktqbXh2b19JdVJLNWhrRi1Wa2RaWEc2TkhyR2xzUVA3MnhmckdqbzkySHZ1ZkI4VHpqT25KX0hSLWVHellPT1JuWUF3?oc=5",
-      "snippet": "Carney, premiers pitching major projects at first investment summit &nbsp;&nbsp; Global News Carney is seeking $1 trillion in investments. What will it take to land major deals at ",
-      "pub": "Mon, 14 Sep 2026 12:21:27 GMT",
+      "title": "Canada targets the ‘number one criticism’ of doing business here with a new tax shakeup as Mark Carney’s investment summit kicks off - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQYlVlRmktSlNlZlRKZm0wLThZWC1oc0tJQTE1RzNPdjg0TGd1Ynd3MXZKTUQ0d3VyU25TSTlFa3FTZFpOWWVPY3RJVDR2ZWZOUEF0U2FsQVRsZ28zdV9aSTZJdHNkbl9YT2xpWlNJVlFzMVVpRjY4V1BHSUpRT3R2RW5OQzBFdHRQNzNvN0hTY2pUcDZQVzk0N19XanZRQ0gtOGExZi1kN3hDajNPYTQzNkx1bndJVzFkQTYwSXBEMTR4alJ3LW1YWmRyTFBDMGtya0dCcTNIaHR3djRzRFVYck1RRWU4TGZqWWdOd2x1N3I3b2t5a3ExS0tUX0RmejA4c003M184aUJUWFIyR09jTEs2T0dpbEg4R2JUOXpVcElWLW93UlUzZVI5UnA2cFB3djBTQnhFY2o?oc=5",
+      "snippet": "Canada targets the ‘number one criticism’ of doing business here with a new tax shakeup as Mark Carney’s investment summit kicks off &nbsp;&nbsp; Toronto Star 'Cool to be Canadian'",
+      "pub": "Mon, 14 Sep 2026 21:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "2 more people have died exploring Banff National Park, police say - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSE5lNDRkS3JMdkd6YnRLZS1SSzNTYUpqVEdTV3g3WWotaGI2cml3amhRaTJiaVZ6dWs0YzdfN2toOUNQb2lpYjBPZVVNdHlIYjlmUFdfU2ZMZGVWMUJyYTBWN0FCelhjakQ4LTJEc3h4U2JxelhUREtydDVNcXpBNC1nSU9vS0ZwQk1j?oc=5",
-      "snippet": "2 more people have died exploring Banff National Park, police say &nbsp;&nbsp; CBC",
-      "pub": "Mon, 14 Sep 2026 18:37:10 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "N.L. spent $1.1M on forensic audit of travel nurse agency payments, findings remain off limits to public - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUZ4bzBfclRCazVGcXVXN3VPMEdxZ2N6NmItR2FDckVHMlE1UWNGSGR3d3JEUWpNSEhWaVBvM1lOTEt2SXRXZlZFTGJVV0d1ak9QLU5qUHJnRTFUSmRWQVoyUkdVc1A3akdGcDBRYUNybzIzQ1pWSlYwWWZ5R29Tdnluanlnbl85SGhERXl5UFluUV91aFBGaUVGaHVhOEgtaEE?oc=5",
-      "snippet": "N.L. spent $1.1M on forensic audit of travel nurse agency payments, findings remain off limits to public &nbsp;&nbsp; CBC",
-      "pub": "Mon, 14 Sep 2026 18:02:31 GMT",
+      "title": "Protestors Make Their Voices Heard Over Churchill Falls Agreement - VOCM",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54SzRDQlVXUlRMSVNWZXdLbE05emt0UnJFUk1XdXd6M21WeGpzU09HNkJya2pyMEZKVHdJWGdEMThIWE8wOFVKd0QzWQ?oc=5",
+      "snippet": "Protestors Make Their Voices Heard Over Churchill Falls Agreement &nbsp;&nbsp; VOCM Negotiating lead for Churchill Falls deal says he didn't speak to Independent Review Committee &",
+      "pub": "Mon, 14 Sep 2026 17:29:00 GMT",
       "image": ""
     }
   ],
