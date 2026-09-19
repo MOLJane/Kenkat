@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-09-19T07:26:25.133010+00:00",
+  "generated_at": "2026-09-19T11:59:21.730491+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Saint John Sea Dogs Beat The Regiment 4-2 in Season Opener",
+      "link": "https://vocm.com/2026/09/19/310918/",
+      "snippet": "The Saint John Sea Dogs scored early and never looked back in the season opener of the QMJHL at the Mary Brown's Centre last night. They went ahead 4-...",
+      "pub": "Sat, 19 Sep 2026 11:08:29 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/newfoundland-regiment-vs-st-john-sea-dogs.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "UPDATE: McNaughton Drive and Kingsbridge Road Closed Due to Police Investigation",
+      "link": "https://vocm.com/2026/09/19/mcnaughton-drive-and-kingsbridge-road-closed-due-to-police-investigation/",
+      "snippet": "That police operation on New Cove Road in St. John's has wrapped up. The section between McNaughton Drive and Kingsbridge had been closed to accommoda...",
+      "pub": "Sat, 19 Sep 2026 10:16:40 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Police Investigate Vandalism at Whitbourne Elementary Baseball Field",
+      "link": "https://vocm.com/2026/09/19/310892/",
+      "snippet": "RCMP are investigating after the gate to the baseball field at Whitbourne Elementary was vandalized. Police believe the damage happened sometime betwe...",
+      "pub": "Sat, 19 Sep 2026 09:12:32 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/rcmp-whitbourne-elementary-gate-vandalised.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Daily Fuel Prices for Saturday, September 19, 2026",
+      "link": "https://vocm.com/2026/09/19/daily-fuel-prices-for-saturday-september-19-2026/",
+      "snippet": "Diesel fuel on the island and in Labrador West went down overnight by five cents a litre after numerous increases pushed it to record levels. Gas went...",
+      "pub": "Sat, 19 Sep 2026 08:59:37 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/gas-may-2026.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Woman in Custody after Brazil Street Stabbing",
+      "link": "https://vocm.com/2026/09/19/310884/",
+      "snippet": "A 42-year-old woman is being held in custody pending a court appearance on charges of aggravated assault and assault with a weapon in connection with ...",
+      "pub": "Sat, 19 Sep 2026 08:56:17 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc-police-buick.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "AI Error Nearly Led U.S. Military to Intercept Chinese Ship",
+      "link": "https://vocm.com/2026/09/19/ai-error-nearly-led-u-s-military-to-intercept-chinese-ship/",
+      "snippet": "The U.S. military came close to intercepting a Chinese vessel in the Middle East after an intelligence report incorrectly identified its cargo as comp...",
+      "pub": "Sat, 19 Sep 2026 08:12:17 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/09/79716504.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "September 19, 2026 – Do you think the Prime Minister’s work to diversify trade alliances will reap benefits for Canada?",
+      "link": "https://vocm.com/2026/09/19/310872/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13454').",
+      "pub": "Sat, 19 Sep 2026 07:30:52 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/mark-carney-liberal-caucus.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Cybersecurity Incident at Metrobus Impacts Automatic Vehicle Location System",
@@ -11,99 +67,19 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/metrobus-sign-hq.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Corner Brook Regional High School Placed on Lockdown Following Reported Threats",
-      "link": "https://vocm.com/2026/09/18/310868/",
-      "snippet": "Corner Brook Regional High was placed on lockdown earlier today after RNC received a report of online threats against the school. Officers were able t...",
-      "pub": "Fri, 18 Sep 2026 19:35:04 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/corener-brook-regional-high-school-in-2020-cb-regional-high-school-facebook.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Province Issues RFP to Conduct Expansion Assessment for St. Clare’s Mercy Hospital",
-      "link": "https://vocm.com/2026/09/18/310866/",
-      "snippet": "Plans are in motion for the provincial government to conduct an assessment of St. Clare's Mercy Hospital in St. John's. Government has issued an RFP t...",
-      "pub": "Fri, 18 Sep 2026 19:24:18 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/st-clares-main-entrance-sign-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "College Suspends Two Nurses’ Licenses Pending Hearing Results",
-      "link": "https://vocm.com/2026/09/18/nl-college-of-nurses-suspends-two-nurses-licenses-pending-hearing-results/",
-      "snippet": "The NL College of Nurses has suspended the licenses of two nurses pending the result of hearings into their cases. The College says the practicing lic...",
-      "pub": "Fri, 18 Sep 2026 19:13:15 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/nl-newfoundland-and-labrador-college-of-nurses.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Newfoundland Power Ready to Respond as Wind Storm Approaches Island",
-      "link": "https://vocm.com/2026/09/18/310778/",
-      "snippet": "Newfoundland Power is at the ready to respond as a significant wind storm takes aim at the island. There are wind warnings out for about half of the i...",
-      "pub": "Fri, 18 Sep 2026 17:46:55 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/11/newfoundland-power-generic-fall.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Dealing With Quebec ‘Only Option’ on Churchill Falls, says Financial Advisor",
-      "link": "https://vocm.com/2026/09/18/310803/",
-      "snippet": "A local financial advisor is \"cutting the emotion\" from questions related to the new agreement reached with Quebec on Churchill Falls and future hydro...",
-      "pub": "Fri, 18 Sep 2026 16:51:52 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/04/senior-wealth-advisor-with-short-financial-ia-private-wealth-larry-short.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "UPDATE: Traffic Moving in Both Directions Following TCH Accident Near Corner Brook",
-      "link": "https://vocm.com/2026/09/18/310821/",
-      "snippet": "Traffic is moving in both directions but reduced to a single lane following a traffic accident on the TCH near Corner Brook. Drivers are asked to redu...",
-      "pub": "Fri, 18 Sep 2026 16:32:10 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/cb-fire.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "World Facing Energy Crisis as Global Prices Rise; Going to Get Worse, says Watchdog",
-      "link": "https://vocm.com/2026/09/18/310796/",
-      "snippet": "A consumer watchdog says the world is facing an energy crisis as it has never seen before, and things are going to get worse before they get better. H...",
-      "pub": "Fri, 18 Sep 2026 16:20:51 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/fuel-prices-september-13-2026.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDVxdU8tLW5CMWJsU09LZjI2ajNiV3BoeEJzUkMxUHVIUzlMM0owem1TSm9jR2duTDRlMVNVaTR6T3lhQURzbC1hMXF3SUxxamN2TU9qdEVXYXNZa3ZJVDBncWdSU2pqNzdxN014b2hVanlYbE9hLTVHOTV2TkRMWUpXQURUbFo1a1Q4R1NaQjJsdjl3bnZ6Qjc1YnVhY3ZlZklhYlhtOVFqbkR5TGFHUGNSMNIBuAFBVV95cUxNM2hkbUFHWEdiQ1ktblBkWFNyek1ZeUdaZjNpb25aZ2JBa2NYMldMei1tanhYV2hsNUh4VkMxNTRFVHhQVkl2akJscUxraDVNNHh5ckVEcFZvamdVVU1sb253cU5PZXVfV1poeWVQd2J5ZVBwVjVwTDZaeXlsQ3gwNlhaWjJGZDhyYWs4NFFWSzlsYjVFRUVJRnJySW5TQkdxRk02SEdtMVhuS2pOWEtGbm9GNlNqejRU?oc=5",
-      "snippet": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland &nbsp;&nbsp; Al Jazeera US and Denmark reach security deal after Trump’s threats to take over Greenland &",
-      "pub": "Sat, 19 Sep 2026 01:16:39 GMT",
+      "title": "Trump says US has ‘permanent control’ of Greenland security: Does it? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnhLWkZYbzZ4bzJyclo0WmVucHFpX0QycFhtQ0huUXVMajRrVm9FN3Y2V3hKNEpEY0o3VEJkVm5vbzZRQTluWGxqVUc0bUNmampNTk1RaVkwRzdtNnJucC1DcW5HemFzUXN0THRrV25KWGxhb0hBY1Z6REZOc0hsQkRmRFV3bWFMXy1OSlo4ZFBXSWk5dGExNTRXeHJWVWhjWUZ2OFBxYnY3QdIBrwFBVV95cUxQbUlkd1FHVHVyQTctdGFPRkl1ZkVMZW9NaTZGaEZpQ1RfUTFLQ2NMRzdJU0drcGhOckQ2THc3M3pNWWVXVnowdmJ5UmFjYXhRbXhSUHBzUXNZSlpqQnhyS29vZzh5N0lqSmJGQ2wtU2MwaGZTRmhHcFc3SkN1R2YzUE8xQ08zc214Q29Cb3NPZVFyVEV3U2RFSkF3UTRuY19JMk9Fcm05X3ExZmlIamFz?oc=5",
+      "snippet": "Trump says US has ‘permanent control’ of Greenland security: Does it? &nbsp;&nbsp; Al Jazeera US and Denmark reach security deal after Trump’s threats to take over Greenland &nbsp;",
+      "pub": "Sat, 19 Sep 2026 09:52:35 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "RCMP says relationships with allies 'strong' after report FBI stopped co-operation following CBC 9/11 memo - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeGFybzB5b1NPVTJ4X0dWNlgwZlM4V1B1VmRkdUU4TE1uSjI4VU1abUZ3NmtRaVJ1REY4aGh2enFZQTItZzBhUFBPZmV2SXkyLW5hTjRxRlVTOEJlQmZMWHNnR0pTUlNvVGZEcjhNX0trYmJPZTFKNjhSdUV2d3lBUnUwa0twTkE?oc=5",
-      "snippet": "RCMP says relationships with allies 'strong' after report FBI stopped co-operation following CBC 9/11 memo &nbsp;&nbsp; CBC F.B.I. Temporarily Halted Cooperation With Canada Over R",
-      "pub": "Fri, 18 Sep 2026 22:40:08 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "B.C. Conservatives oust Trevor Halford, John Rustad and Claire Rattée from caucus after calls for Findlay to resign - Vancouver Sun",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUW1jdnpzMTZESl82cV9YZGg5dXBSUFdsQ0ZKNmdBSUFSaWp2UmUxOWwwSF9XS0o2NXo4bGk0TktZS0hhb0JPNWtWTU9qNXFvVk1jTWRNSUdhXzVfTjZYY01Uckd4aklDeVZIb05UbmJmMGk5eWZyT0YtWFBUNlE2NDJ6X29FMUJqZjNLTnBxMi1TalRHX0lZ?oc=5",
-      "snippet": "B.C. Conservatives oust Trevor Halford, John Rustad and Claire Rattée from caucus after calls for Findlay to resign &nbsp;&nbsp; Vancouver Sun Ex-B.C. Conservative MLAs and party p",
-      "pub": "Fri, 18 Sep 2026 23:19:32 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "B.C. pauses planned provincial sales tax expansion - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUxCVlVHa2RNZFFrLVRGbnY5UVVjN2NIbHNEeDlCZEh5MFcxVmcwejZRbkFsek1TVl9jVFI4X0M0ODBES1hIOU9nSzVITWpsR1BvMUF5akh0SVNQS3hCeDBXd3BDenNYbXk1MktFd1JuZHNZU0x5dGgzQkExV1E3U2tWQnpyYTF2OEE?oc=5",
-      "snippet": "B.C. pauses planned provincial sales tax expansion &nbsp;&nbsp; Global News B.C. pauses PST expansion to professional services amid ongoing trade uncertainty &nbsp;&nbsp; BC Gov Ne",
-      "pub": "Fri, 18 Sep 2026 17:49:09 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada could become the EU’s first ‘associate member.’ What would it mean for Montreal? - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWExUQVQ0X096WnpiTzBGTVYwN2tHUmdBYnJwd0JCaUx3ZTlvRW50NTJsUkNIVFE1OTVQVXFkdk5mZlZBcDJQcFk0Vy1EUUIwNnVlTFctbXJUdDI2VWkwZ2wzLUFubWp3OGw4THFIWDRTOHBFRVR2X21OV2phZTZYMFVVRHlsVkt4MV9Yc3hmOHpkTzNKME9HQm54OGo1TFNLcXJzRUVJV3FhZ0VqUXpwc2M3d3dzUjQ?oc=5",
-      "snippet": "Canada could become the EU’s first ‘associate member.’ What would it mean for Montreal? &nbsp;&nbsp; Montreal Gazette Far-right German politician heckles Carney with 'U.S.A.' chant",
-      "pub": "Fri, 18 Sep 2026 18:18:03 GMT",
+      "title": "Canada won't pay directly into EU budget under Carney's plan: ambassador-designate - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNalB0N1ZNeUE4Sk1Xd3QwWk1CcDNHb0I2TU93RDJFdUtlMWlDaldDM21PNVFiTFM0X3ZYWmM0cGlWcGxuQ216c3NkT3c5VENIVG1ZcGJKRzNBem5VaDJmOGN0SGhFV2hmWjBvbGlrUFl1RVVMTXNzNnFGbGlTNE9DaFFSUVdlLXJ1bURPWEhwNUhKYlEyTG1nR05jMVQxNmg0WkE?oc=5",
+      "snippet": "Canada won't pay directly into EU budget under Carney's plan: ambassador-designate &nbsp;&nbsp; CBC NP View: Dear Mark, you've got work at home to do &nbsp;&nbsp; National Post Rea",
+      "pub": "Sat, 19 Sep 2026 08:00:00 GMT",
       "image": ""
     },
     {
@@ -116,18 +92,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Centrists, former B.C. Conservatives join forces under Milobar as snap election speculation swirls - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOUEydXlwRHlocTVEVkNWOUh0aldVWXlFZmZqTEtxM2xEN2s2OGNUVVVYY0w0NHpiRi1IRGtqcEh6djBad3lvX1RaRmJuejVmdF9JbGpsY3pybUxPTzVpbFVmbXlnU3M4SjVmNmtXZjVtcWdGVHN1X0dsOGx6UnlqcXVGYnc3TEQwRmlSei1DeXFKeDk4YmhFV3EtcThySzNtRk5PdDVWVkZlNkQxb3hsYktfT3RYamtyWC1XRU42LXltc3BzMU5zT0h3?oc=5",
-      "snippet": "Centrists, former B.C. Conservatives join forces under Milobar as snap election speculation swirls &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Sat, 19 Sep 2026 05:41:36 GMT",
+      "title": "B.C. premier slams the brakes on expanding PST to professional services - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3dETmMzcktjLV9VOHNvcWJMUVQ0Tlp6ZjdZa1N0NlBDWEUxclpVMm5IdUR5RVluSDV0ejFaaDJ3NnJWWS03anZEdzhCZ2p6YUhrbTZDM003Rk0zb1BvWFZ4bWtpOGNFeTZnQzNZazRfVTVyTmVkMGlNWFF2c3VaX044a1Y4TmhDS25Qd3JnSWhRQ3JDbkRobGhVSVRvcWMy?oc=5",
+      "snippet": "B.C. premier slams the brakes on expanding PST to professional services &nbsp;&nbsp; Vancouver Sun B.C. pauses PST expansion to professional services amid ongoing trade uncertainty",
+      "pub": "Sat, 19 Sep 2026 07:44:48 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "GlobalEye surveillance plane under the microscope as Conservatives call for twin probes - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVW4zV2RIdmVNeDlsMnRqYm5HcTVua214WWp5czdNVGtJUVRMN2JpTkpIZjB5RVBWb0U1Z0lDQl9GcDljSzZFMzBjak5LaGZ5cW1lcDEzaFZMRk9VcGVQWUpLUkNRV0kzOWxGMk1ubDIyMVFJaW84ZjdieGRhbHlpa0Z1REc1T2JsN0N6TUNkbw?oc=5",
-      "snippet": "GlobalEye surveillance plane under the microscope as Conservatives call for twin probes &nbsp;&nbsp; CBC",
-      "pub": "Fri, 18 Sep 2026 22:00:00 GMT",
+      "title": "Conservatives in chaos as eight join CentreBC and Eby says no decision on early vote - CHEK News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaW5NY1JHRkNFam5RVVJBVnpFM2YtLVlFMVo0Mnhwdld5X3dpbl8xRXpwNl9rbTNFRlJHZldHNVkyWFo2UTAwUHFZMzc2ZzFIUkU1TW1KZmRJZFNqNmtnSTFqZnp4b01sOW13Y19SZk5hVFF1NTFWcll2bzUwUl9saTdqa0lhZUZOMC1nYm8yU1g5Wkc4LV9VUmNldw?oc=5",
+      "snippet": "Conservatives in chaos as eight join CentreBC and Eby says no decision on early vote &nbsp;&nbsp; CHEK News Centrists, former B.C. Conservatives join forces under Milobar as snap e",
+      "pub": "Fri, 18 Sep 2026 19:49:14 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Politics Insider: Carney promises sweeping new economic legislation - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFk1c2hITU5wTVhjZDQ4ZTBMUmhEQmFrXzZKTEpIeGFoSDNiU05yYko0cDBIT2ItaFF5eGF2Z0JRUDdWaEJsTjljWUtON19qcFdwNERMOGNaQ0djTnN0d19hTHVlV0JGVjY1QWU1TEZOVjFSeUlfVnhva2tmV1FpN2lsZ1VFcWJqeVlzNFh0SmdaZHpZdGdYX25EX0dsZ2tSVkZEbG5jRHVqVDVWWFhiR1h1WjlKUU0?oc=5",
+      "snippet": "Politics Insider: Carney promises sweeping new economic legislation &nbsp;&nbsp; The Globe and Mail Carney promises sweeping economic legislation, fast pace this fall during caucus",
+      "pub": "Sat, 19 Sep 2026 00:13:43 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "BC Conservative leader says she has removed 3 party members from caucus - Global News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmtjX1ZvMnc3NXh0aktsVm5xMUxNU2JLd25GV1kwTkplak5YRXZiUllIdkEyUVg1V3FOcEFzY2JTdDJkY0JrN0hFRWpSX0FiSWFJaXVHV21YVHRKZmd1UC1YaEcxTk95Rno5b1NIYWdpU2p2WHdpZ2ZsV1FJVWxyTjJfVkhtZ1c0QnpkaDZQV0xaanV2WUZwY05R?oc=5",
+      "snippet": "BC Conservative leader says she has removed 3 party members from caucus &nbsp;&nbsp; Global News Ex-B.C. Conservative MLAs and party president say a private investigator was hired ",
+      "pub": "Fri, 18 Sep 2026 21:41:56 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "CRA still owed over $5B in COVID-19 benefits sent to ineligible recipients - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcm52QzJoS2Nqb1c3MWYyS3NjZ0E2WWk4eDdyeHd0RklRdVZoVERqaUhtYnJMRlNheTY2cF9aME55Tmx0UHl1NFJOcGVTOF9pLWxtSW1sbUdKUVBvcmdNT29yaERIMFVseUloMEJRWVhaMTVXUUdPXzE3S1FlSW9YVEZQMk8?oc=5",
+      "snippet": "CRA still owed over $5B in COVID-19 benefits sent to ineligible recipients &nbsp;&nbsp; CBC",
+      "pub": "Fri, 18 Sep 2026 19:50:22 GMT",
       "image": ""
     }
   ],
