@@ -1,10 +1,26 @@
 {
-  "generated_at": "2026-09-19T18:18:18.387167+00:00",
+  "generated_at": "2026-09-19T20:52:36.880328+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "Car Enthusiasts Denouncing Bad Behaviour After Car Meet on Kenmount",
+      "title": "Flight Attendants at PAL Airlines File For Conciliation With Federal Labour Board",
+      "link": "https://vocm.com/2026/09/19/310904/",
+      "snippet": "Flight attendants at PAL Airlines have filed for conciliation with the federal labour board after failing to reach a new contract with their employer....",
+      "pub": "Sat, 19 Sep 2026 19:57:21 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/pal-airplane-facebook.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Prime Minister Visiting Saint Pierre to Meet French President",
+      "link": "https://vocm.com/2026/09/19/310930/",
+      "snippet": "The Prime Minister, fresh off a visit overseas to strengthen Canada's relationship with Europe, is scheduled to meet on Sunday with French President E...",
+      "pub": "Sat, 19 Sep 2026 18:51:45 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/mark-carney-and-emmanuel-macron.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Car Enthusiasts Denounce Bad Behaviour After Car Meet on Kenmount",
       "link": "https://vocm.com/2026/09/19/310889/",
       "snippet": "Car enthusiasts and club members are denouncing recent incidents following a car meet at the A&amp;W on Kenmount Road Thursday evening. A 32-year-old ...",
       "pub": "Sat, 19 Sep 2026 17:59:45 +0000",
@@ -51,83 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/09/dr-shakti-chandra.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Saint John Sea Dogs Beat The Regiment 4-2 in Season Opener",
-      "link": "https://vocm.com/2026/09/19/310918/",
-      "snippet": "The Saint John Sea Dogs scored early and never looked back in the season opener of the QMJHL at the Mary Brown's Centre last night. They went ahead 4-...",
-      "pub": "Sat, 19 Sep 2026 11:08:29 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/newfoundland-regiment-vs-st-john-sea-dogs.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "UPDATE: McNaughton Drive and Kingsbridge Road Open Again After Closure",
-      "link": "https://vocm.com/2026/09/19/mcnaughton-drive-and-kingsbridge-road-closed-due-to-police-investigation/",
-      "snippet": "That police operation on New Cove Road in St. John's has wrapped up. The section between McNaughton Drive and Kingsbridge had been closed to accommoda...",
-      "pub": "Sat, 19 Sep 2026 10:16:40 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Denmark’s leaders cautiously optimistic about Greenland announcement - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTZ3LW9zTzhqLUdfWGVoa0x2NVhicEJpX2FmSmlESW9mSjJQa2pTRnk3aGwzejB6Mnl1QTZrMUNKV3FMMjF5bldrd2Z1REQ5YVhvVkUtOWM3OG5sOVZBeXcxVmhFelBRMmFQSGVnUXlWaURkQjkxZzNEYzNrTnVWaDFzeE1hLTdCdzhlNFRSNVJEdlFQNzFvQ1N3N2podDJWSmIxUGstLTA?oc=5",
-      "snippet": "Denmark’s leaders cautiously optimistic about Greenland announcement &nbsp;&nbsp; CTV News Denmark and Greenland say US military agreement will not compromise Arctic territory’s so",
-      "pub": "Sat, 19 Sep 2026 18:07:27 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Canada won't pay directly into EU budget under Carney's plan: ambassador-designate - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNalB0N1ZNeUE4Sk1Xd3QwWk1CcDNHb0I2TU93RDJFdUtlMWlDaldDM21PNVFiTFM0X3ZYWmM0cGlWcGxuQ216c3NkT3c5VENIVG1ZcGJKRzNBem5VaDJmOGN0SGhFV2hmWjBvbGlrUFl1RVVMTXNzNnFGbGlTNE9DaFFSUVdlLXJ1bURPWEhwNUhKYlEyTG1nR05jMVQxNmg0WkE?oc=5",
-      "snippet": "Canada won't pay directly into EU budget under Carney's plan: ambassador-designate &nbsp;&nbsp; CBC NP View: Dear Mark, you've got work at home to do &nbsp;&nbsp; National Post Sté",
-      "pub": "Sat, 19 Sep 2026 14:08:23 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "'Never giving up': Alberta separatist leaders say referendum vote won't end their fight - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWFFXVkl0S2ZvT1FrT2ZEb3JKUWFlajNTY0FmQzJYWkFoRHJCbFVqV2V5Umdlblc3LXh6TUw1SkRZcGpWODE3S3l6cTlPRkF3LWxucURTMmxBT1ZlRGdnZURRRlJQYVJYb25xOENyS0RlNFU1MzBnVThXZG54RlljUkItbTBDeFhtZ0xFOU9aalY?oc=5",
-      "snippet": "'Never giving up': Alberta separatist leaders say referendum vote won't end their fight &nbsp;&nbsp; CBC Should Alberta separate? Here's why these Canadians feel the way they do &n",
-      "pub": "Fri, 18 Sep 2026 19:38:01 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump signs sweeping Russia sanctions over Ukraine war - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZW53Y3d4N25GZjVKRlJ4RkxiRkZ6Y1NKTVJoUGp3bHFzZTk3OGJvdG1qMm9ubDhqQmo0YVYtQnc4aWNRejUwd2VFX1NVRFRMM1h0QXhLX2VwRTlYM2psTFBWeC1BekxaVUFfQm54bXhpOGtUdTU3MkJKUVV5cHpTcFBpRlQyVXFMVFpFcEVoVnN1S1hxQ0VLaTY0a9IBoAFBVV95cUxQOTFZdG83ZU5IOUxvQ2RqMnhzRnZfY2pZOTIyTHF2YUVSR2pCeGJTV25IWTVCU2w3WEg1LWl3SkdvVXVhZGJONEFZTk5VNlh3VFRnaGphSTlmRGtTaDkyNjM4YVlaOW8wOWZmaWxRNHpQVS1KT1ZyaGVUaUNnTzdQX25HODFUN1ZhcmVuNVZRVnFwNmlrbG1OSmRnTzF6MWFI?oc=5",
-      "snippet": "Trump signs sweeping Russia sanctions over Ukraine war &nbsp;&nbsp; Al Jazeera Trump takes aim at Russia's energy sector with sanctions bill &nbsp;&nbsp; BBC Zelenskyy thanks Trump",
-      "pub": "Sat, 19 Sep 2026 00:49:53 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump threatens to ban three news organisations from the White House - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3VHJLcXFIbl9DTFBsRW51dnQ0bUVXUF9aOU5HbXRtYzc1aE91ejlhajE5eHlCUXU4YkJCaGs3T1Q5eWpvaHFGbGNMNW5KVmJTM3ZISFY3VTJKNUNzR2dPUEhFbVE1SWpTcnpCWUQwYw?oc=5",
-      "snippet": "Trump threatens to ban three news organisations from the White House &nbsp;&nbsp; Euronews.com Trump ramps up feud with media after week of setbacks &nbsp;&nbsp; BBC A ‘ban on the ",
-      "pub": "Fri, 18 Sep 2026 20:26:48 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "How Trump’s Trade War Could Hurt Republican Efforts to Hold the Senate - nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGJsN1hQVG5jd3Q3RDhrV2RCM3Z3d1pIcTd2U3N1VGlvekdySll1bnFwRHZjUDV2bHg4UUNaSDNKamFMNlhxOXVOa0RTXzRYV0xmQUpja3EyRVphZW1qSGlKOEtjNUs4MkJYS0h4d2dQMFI2VlE2aFFOT2tMVTN1VmtlZWJyXzdLMWFudmdWc1lMQjZu?oc=5",
-      "snippet": "How Trump’s Trade War Could Hurt Republican Efforts to Hold the Senate &nbsp;&nbsp; nytimes.com Will the U.S. midterm results affect Trump's tariffs on Canada? Democrats think yes ",
-      "pub": "Sat, 19 Sep 2026 14:35:49 GMT",
+      "title": "Greenland, Denmark say Trump deal won't compromise sovereignty - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUswdG5RR3A3czVTQV82SzUwWDh1ZDZrYjNXcld1cUQwOW9nZENwVlhQRVpfMXRQY2RXZ1pLcVlnal9jeGJxelREVVpWeTZyTTI2bnJKUXlIYUNtNklZQnkyWHNPX1NzZ1lIRVB2SVFfWkJTWkg4ZFM5WE5rdTVISldEczdQX1BIdkRyd21lYVhibzVLRkwwOGVIWXdfODNPRzloNWhEWQ?oc=5",
+      "snippet": "Greenland, Denmark say Trump deal won't compromise sovereignty &nbsp;&nbsp; Reuters Greenland, Denmark say deal with U.S. will not cede sovereignty &nbsp;&nbsp; CBC Donald Trump dr",
+      "pub": "Sat, 19 Sep 2026 18:33:10 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "6 hospitalized after man drives vehicle into crowds at festival in Quebec - CTV News",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmVpQTB3OXhBeHVWczh3cEszanZ4MmFhSlc4ZmlTOTN1S3FXaEZOSzEtU2NndnFyaTlyODhaSVdTMnpIcEJ6ck9xTDhmUHZhcHF1WEY2R0l5UVR4SVJUbzZZeG52YnJPMXMwTkpkZTVNU2VlUDk1bkh0UDhFR2ZsQXBHNXJOdGJpbVVvNC1sTTB2SnZGQXA2Y3Y3bk5zYkM3U1NIbUJDdlpDWlBKWS1wVllEYUthNGZ0bHZ6Q1Nn?oc=5",
-      "snippet": "6 hospitalized after man drives vehicle into crowds at festival in Quebec &nbsp;&nbsp; CTV News 6 injured after vehicle strikes pedestrians at Quebec festival &nbsp;&nbsp; Global N",
-      "pub": "Sat, 19 Sep 2026 17:48:08 GMT",
+      "snippet": "6 hospitalized after man drives vehicle into crowds at festival in Quebec &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
+      "pub": "Sat, 19 Sep 2026 20:38:02 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Strong Wind Storm Making Its Way Across NL Today - VOCM",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0VlN0REaHhQWWoyUjRsTER6cGF6cDh1R1RjQVVfd3FoU1Z4eEdKeFRmWVMwelBtbG01Q29Ub2hxUXJvNFE5SE83Q1FLcGpkcGdqbTB2RmJVUTlDc3Q4ejFTQVBPMVV2bnRmN2RiTFhLWWthWjY2WGdaaV9rOERQSk5IUQ?oc=5",
-      "snippet": "Strong Wind Storm Making Its Way Across NL Today &nbsp;&nbsp; VOCM Wind speeds ramping up, weather warnings in place for majority of Newfoundland &nbsp;&nbsp; CBC Environment Canad",
-      "pub": "Sat, 19 Sep 2026 13:23:00 GMT",
+      "title": "Canada won't pay directly into EU budget under Carney's plan: ambassador-designate - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNalB0N1ZNeUE4Sk1Xd3QwWk1CcDNHb0I2TU93RDJFdUtlMWlDaldDM21PNVFiTFM0X3ZYWmM0cGlWcGxuQ216c3NkT3c5VENIVG1ZcGJKRzNBem5VaDJmOGN0SGhFV2hmWjBvbGlrUFl1RVVMTXNzNnFGbGlTNE9DaFFSUVdlLXJ1bURPWEhwNUhKYlEyTG1nR05jMVQxNmg0WkE?oc=5",
+      "snippet": "Canada won't pay directly into EU budget under Carney's plan: ambassador-designate &nbsp;&nbsp; CBC Canadians warm to EU ‘associate membership’ proposal &nbsp;&nbsp; Al Jazeera NP ",
+      "pub": "Sat, 19 Sep 2026 14:08:23 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump signs sweeping Russia sanctions over Ukraine war - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZW53Y3d4N25GZjVKRlJ4RkxiRkZ6Y1NKTVJoUGp3bHFzZTk3OGJvdG1qMm9ubDhqQmo0YVYtQnc4aWNRejUwd2VFX1NVRFRMM1h0QXhLX2VwRTlYM2psTFBWeC1BekxaVUFfQm54bXhpOGtUdTU3MkJKUVV5cHpTcFBpRlQyVXFMVFpFcEVoVnN1S1hxQ0VLaTY0a9IBoAFBVV95cUxQOTFZdG83ZU5IOUxvQ2RqMnhzRnZfY2pZOTIyTHF2YUVSR2pCeGJTV25IWTVCU2w3WEg1LWl3SkdvVXVhZGJONEFZTk5VNlh3VFRnaGphSTlmRGtTaDkyNjM4YVlaOW8wOWZmaWxRNHpQVS1KT1ZyaGVUaUNnTzdQX25HODFUN1ZhcmVuNVZRVnFwNmlrbG1OSmRnTzF6MWFI?oc=5",
+      "snippet": "Trump signs sweeping Russia sanctions over Ukraine war &nbsp;&nbsp; Al Jazeera Trump takes aim at Russia's energy sector with sanctions bill &nbsp;&nbsp; BBC Opinion | Trump Gets N",
+      "pub": "Sat, 19 Sep 2026 00:49:53 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Canada took the trade war to Trump’s backyard. Americans didn’t care - Global News",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5STWpqbkJXLUlkMXpFVE1OaHlOREtYWmR6ZExpM1dDQ1F4X0gyamNZZTFsVm80NDJhTXl1b0xYVkR0MG00eXBjWVpzSkEtcF94MVVHWGlNbGdSV0xsS1RtdXdTc0t2dWlNXzA4?oc=5",
+      "snippet": "Canada took the trade war to Trump’s backyard. Americans didn’t care &nbsp;&nbsp; Global News This map shows which Canadian cities are most impacted by tariffs &nbsp;&nbsp; CTV New",
+      "pub": "Sat, 19 Sep 2026 10:00:21 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Politics Insider: Carney promises sweeping new economic legislation - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFk1c2hITU5wTVhjZDQ4ZTBMUmhEQmFrXzZKTEpIeGFoSDNiU05yYko0cDBIT2ItaFF5eGF2Z0JRUDdWaEJsTjljWUtON19qcFdwNERMOGNaQ0djTnN0d19hTHVlV0JGVjY1QWU1TEZOVjFSeUlfVnhva2tmV1FpN2lsZ1VFcWJqeVlzNFh0SmdaZHpZdGdYX25EX0dsZ2tSVkZEbG5jRHVqVDVWWFhiR1h1WjlKUU0?oc=5",
+      "snippet": "Politics Insider: Carney promises sweeping new economic legislation &nbsp;&nbsp; The Globe and Mail Carney promises sweeping economic legislation, fast pace this fall during caucus",
+      "pub": "Sat, 19 Sep 2026 00:13:43 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "‘Holy moly!’: Rare shark visit to Bedford Basin inspires shock and awe - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0xZYm03aEx1YXZ5NFJHczU5RC1KZHBJbTkwQ1VmZ0dMZGVhT09aeVZnWmp4cW1STmhtMUs5dElwYkdtLUtQMFAwVE9fRGdta2ZwVVFjMnlOWFF1NlVBOHR5THEzM1RHVXJOWV81aDlOY1hldG5GYmttVDkxdE5CcVBtM2RUeGdPUXFzWjZZMnRSMkZJaVQwRXd0bmJrdlpZeHZrcUlwYUtIWWg4VXBpWTV2cEJGa3FlZVNZ?oc=5",
+      "snippet": "‘Holy moly!’: Rare shark visit to Bedford Basin inspires shock and awe &nbsp;&nbsp; CBC",
+      "pub": "Sat, 19 Sep 2026 17:03:12 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Bill will ‘reduce’ government interventions in strikes: Hajdu - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGdUeU5qckEtRGcyNkV3WDZnMm91NDZuVVJITXVpWTZaaDhDQ3JvY0xCaXZHUkdlNGRybDA2NnNpR2h3QVpock1TWVJCN3k0WERKLVlwNERpQjBVWHFDR0h6dEtsdGo4UU9fbDRibGM3X2hzSDdyTTRnZU84WUhJSGZ6OTRkX0ZVVmFyWWMxM1BmLVVmU3NPWTBlTC1za1Fj?oc=5",
+      "snippet": "Bill will ‘reduce’ government interventions in strikes: Hajdu &nbsp;&nbsp; CTV News Liberals looking to give minister explicit authority to end strikes: sources &nbsp;&nbsp; CBC Fe",
+      "pub": "Sat, 19 Sep 2026 17:56:08 GMT",
       "image": ""
     }
   ],
