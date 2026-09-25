@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-25T20:36:05.485202+00:00",
+  "generated_at": "2026-09-25T23:42:52.838552+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "RCMP Investigating Cause of Damaged Helicopters at Nain Airport",
+      "title": "RCMP Investigating Damage Caused to Helicopters at Nain Airport",
       "link": "https://vocm.com/2026/09/25/rcmp-4/",
       "snippet": "The RCMP is investigating damage caused to helicopters at the Nain Airport earlier today. Police were contacted about tampering and damage caused to t...",
       "pub": "Fri, 25 Sep 2026 18:50:32 +0000",
@@ -20,7 +20,7 @@
     },
     {
       "source": "VOCM",
-      "title": "Placentia Police Investigating Suspicious Fire at St. Luke’s Cultural Heritage Centre",
+      "title": "Suspicious Fire at Former St. Luke’s Anglican Church Under Investigation",
       "link": "https://vocm.com/2026/09/25/311608/",
       "snippet": "A suspicious fire last night at a heritage structure in Placentia was knocked down before further damage could spread through the building. RCMP were ...",
       "pub": "Fri, 25 Sep 2026 17:42:11 +0000",
@@ -36,7 +36,7 @@
     },
     {
       "source": "VOCM",
-      "title": "Application for Indoor Amusement Park Before City Following Parking Challenge",
+      "title": "Owner Hoping for Parking Solution at Propsed Amusement Facility",
       "link": "https://vocm.com/2026/09/25/311588/",
       "snippet": "A St. John's businessman says he's pleased that city council is willing to work with him on an indoor amusement park on Kenmount Road. An application ...",
       "pub": "Fri, 25 Sep 2026 16:25:03 +0000",
@@ -60,7 +60,7 @@
     },
     {
       "source": "VOCM",
-      "title": "One Man in Custody Following Alleged Fraud Against Seniors in Capital City",
+      "title": "Man Accused of Defrauding Seniors – Again",
       "link": "https://vocm.com/2026/09/25/311575/",
       "snippet": "A St. John's area man has once again been charged for allegedly swindling seniors out of cash. The RNC was contacted after James Robert Dwyer allegedl...",
       "pub": "Fri, 25 Sep 2026 14:35:27 +0000",
@@ -68,10 +68,18 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Trump's top trade envoy says U.S. 'comfortable' with state of relationship with Canada - CBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vWHJOVkdaV0JZUndOb1Zyd2JyYjdHSDJJeWl3NGlGWkdUNkxVQW9oZmlaU0RtNmFObXZuVEJsQ0ZfSE9PM0VoVS03bkE0alBlOWxZZlNpcW05TUZLX21QZk5VRW5VTHZGd1pBVjlJMFZmRHkyR25MbQ?oc=5",
-      "snippet": "Trump's top trade envoy says U.S. 'comfortable' with state of relationship with Canada &nbsp;&nbsp; CBC Trump ‘comfortable’ with pause in Canada trade talks, Greer says &nbsp;&nbsp",
-      "pub": "Fri, 25 Sep 2026 18:51:42 GMT",
+      "title": "‘Zero chance’ of U.S. invading Canada, Alaskan Governor says - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHY3SGhoLTlpcEZGNEg2V1gyc1hjaWVlS2NkX1Y4alNLSjNyRFhCTjREcnhFRVUwUVZiQXV6NE9VUDZMMTh0UGl5RTc4a081d2U3cml1YTlQbWlJc0JlSUdfZ2VoUTZFMHJ4cVQ5b1ZPZkhkV0FNb1NfUnE0UGloaTdta3dlM09tQzkyTzVzMXY2TlFoZEEtcmFpSnF5cnk5Rkw1cWxsTEExU3FJN1pOMjAtc05oNjg?oc=5",
+      "snippet": "‘Zero chance’ of U.S. invading Canada, Alaskan Governor says &nbsp;&nbsp; The Globe and Mail ‘It should be zero ... but it’s not,’ says Scaramucci on U.S. military threat &nbsp;&nb",
+      "pub": "Fri, 25 Sep 2026 20:02:05 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump ‘comfortable’ with pause in Canada trade talks, Greer says - Global News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZVBsYnM5VkVXTTJ4RGVZcXV1bU9FTWtyREFtR2R1UmJwNDhNdGZPN2taNHV1eWl1NUFfUFVWZmh4Z2Zrb1BUZ3EwQmVmLS1qWWdaSEpHc1FheVJsQ2dVUjhFZVB2S3QxRHVxaERNanFCOExHU281TUFoeUh5RnJwbldNSjkxZw?oc=5",
+      "snippet": "Trump ‘comfortable’ with pause in Canada trade talks, Greer says &nbsp;&nbsp; Global News Politics Insider: ‘No urgency’ for U.S. to strike trade deal with Canada &nbsp;&nbsp; The ",
+      "pub": "Fri, 25 Sep 2026 20:57:12 GMT",
       "image": ""
     },
     {
@@ -84,50 +92,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "As referendum looms, 70% of Albertans want province to remain in Canada - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEhmYUY4aUlTY25wNnZ6LVNNYVJNRHhvckhwTTRtc3JSZ3QzTFI1MXVpVXB3b3NmS2dhV1EyYUMwc04ydmRjN01Cbm83YWozM3RTUEc0a3o1anJWUDNfZV9UMDIzRkxFVlNqbmlGd3lpQnI5blRnbE5qcjR1ZzJyZndR?oc=5",
-      "snippet": "As referendum looms, 70% of Albertans want province to remain in Canada &nbsp;&nbsp; Global News With time running out, new poll suggests Alberta separatism support is slipping &nb",
-      "pub": "Fri, 25 Sep 2026 10:00:50 GMT",
+      "title": "In win for Trump, U.S. Supreme Court lets states use revamped voter verification system - CBC",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNakFDRVJVZlBVV1lja0Y5MGlOeUx3bDVncldVb0ttR2ZuRm5XTUZCTXJaa19SNU1LR0FpV01MbHFlM0FNc0s5NlhFMlN1Y2ZNRGFNVFVBVkdDYk1ETDNvcGJoTzdpYjh3c0liQlpSZ1c0cENLcEdTWGlXZU9XT2lZMDA5VjFvSWtsTkx0R0tHRXJGQ3YwN3BzeThCVFRBakot?oc=5",
+      "snippet": "In win for Trump, U.S. Supreme Court lets states use revamped voter verification system &nbsp;&nbsp; CBC Supreme Court allows Trump to use SAVE database to check voter citizenship ",
+      "pub": "Fri, 25 Sep 2026 18:07:11 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Supreme Court restores Trump's mass voter verification system - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUJNR0o2X0F6cklkVHU5T1RDYTB3WFhsWXkxT3gxRE9NbHZSbEtMZTU4UU54eURxd1VxdGJzYkVxMk43dER3a2FvSVhaeTc4UlNNdVFzV0tOMWxPeWFma0N6bzFzcFA3aGJCdXhKczJXVWh2c1A0TVlOcDlJMlJNdXZmR18xR2ZjV29ISXNuT3I0SEk4YUgxMG9WNWFRYnRqQ3FpQg?oc=5",
-      "snippet": "Supreme Court restores Trump's mass voter verification system &nbsp;&nbsp; Reuters Supreme Court allows Trump to use SAVE database to check voter citizenship &nbsp;&nbsp; BBC The S",
-      "pub": "Fri, 25 Sep 2026 19:46:34 GMT",
+      "title": "Douglas Todd: B.C. Conservatives oppose David Eby’s upzoning mandates - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ003Uml0MWVBRGNpckdCT0Y2MklFVFBKZVFxb0lRdnFadl85eHlOWUE3X2VvRkFEcXJaUE1pNVVoZlhfQjdHR1JRWmJnQjRVY1hsMmhrS1RKOGdBeGg2d3ZidnNoY01Fdkt3OWdKMUZYTDFUOUs0WmpVd0pSa1JmbmdxbXRtTkRBT1Z4MTNPeE40cTQ?oc=5",
+      "snippet": "Douglas Todd: B.C. Conservatives oppose David Eby’s upzoning mandates &nbsp;&nbsp; Vancouver Sun Opinion: The fix B.C. is in: An election without a reason, an opposition without a ",
+      "pub": "Fri, 25 Sep 2026 13:01:44 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘Ambush’ outside Belleville synagogue was a hate-motivated attack targeting Jewish community, police say - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPakh2cGQ1MDVqa3BuMjhObFBPYkx5dTVuWlJ2UTBWaFd4Z1lQNXY5ekRZRUhMNkx0Wjd6eTZBUUFERF9vX0pQazZhQjdIbFBmcThka0FvMVVWeTB2Tm8yRGEwNU9DeFJiS3BrLUpzUmlzUndTWXVlSDdLajRQaVdqclhPaVRHZmIwQTFMdlJaLUpWWHJ5cGlub29Hdnk4VEVFZnQ5TkZ5MFItYkhzYm41SE9KYzR1YW9FSzRDb2wwcGFqQVV5aUg0TU9oQlA5Q2dKOWNvQU9nWE1CUlRsWEs4em91QVNvLXpVS3VtblFxZFg?oc=5",
-      "snippet": "‘Ambush’ outside Belleville synagogue was a hate-motivated attack targeting Jewish community, police say &nbsp;&nbsp; Toronto Star Synagogue shooting was deliberate hate attack: Be",
-      "pub": "Thu, 24 Sep 2026 22:45:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Why is Canada’s PM Carney not ruling out a possible war with the US - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3Y4QzRSaloxRVp1aDlTdUJORGJ3TlJ2MzBvR280dWRyYWtnZnYxMjV1dVNOSFBQbDZzVFJxZkFRZXNVVHZXQm1CalRpWWp2YjFXb052V0w4SEt3Q3dLNWdzTVZDQ3pOejZ4emFEZDJ2Y1pGZnhQRnlXcGN4eDF5OFAyQzNvcWQyUUYyRDFjTG1vYmRTUVhUQ3BqZnXSAaIBQVVfeXFMTnR4UWdVTS1vOG5ud2V0X3YtQkZYNGhka291NUJLZjNDZ1hNOWpFVHduREJyUmdQT3QtX1pkTktjZkJFcDlfdDBhbnlKX2hOckFWNk1MOXB6ekd4cE1icWluZE1KelJHU2lydTZpV3hLZndJT3pKWkhqSTNTSVJOX2w5Vnh2U0FYWDc0RFZrRDNqNDJmdEFMTEZrLTRXamlQal9n?oc=5",
-      "snippet": "Why is Canada’s PM Carney not ruling out a possible war with the US &nbsp;&nbsp; Al Jazeera 'Zero chance' U.S. attacks Canada, Alaska governor tells conference &nbsp;&nbsp; CTV New",
-      "pub": "Fri, 25 Sep 2026 14:11:48 GMT",
+      "title": "Élections Québec has told employees not to speak English. Does that violate Anglos' rights? - CBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vdkdlMnBWdTNody1FLTQ3aTdzMGJuZ1V5NXRUc2dBYTJMUnNwbFhqc1BsbkNINGpESWhRR0x5RVJXbmRMZDFGdFBKaDVyY1N0Ni1MVVBLeHdfRTU5R1dNUF9fOGxZVlFnNVFscjQzZzFvZkNIeWNuMHFQMW1mUQ?oc=5",
+      "snippet": "Élections Québec has told employees not to speak English. Does that violate Anglos' rights? &nbsp;&nbsp; CBC ‘Non-historic Anglophones’ unable to be served in English at polling st",
+      "pub": "Fri, 25 Sep 2026 22:32:11 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "B.C. attorney general shocked by news report that ChatGPT told Tumbler Ridge shooter how to avoid safeguards - CBC",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEI2UUpjallVR283MkFyUW4wcHQ5Rk5DSzJ4WXdEV0RVcF80cmVEbHNLTWc2M2Nnb1UtOHlrem13X0NWTmFFUGI4bE5XZ25RblNxcmhoZGhIajgyMTJDR1VEN3BzZ3BZZkxvNkdybWdJNlFTQ0hHTFlORHFkSlFJQmthbUswd0xsWkw1UEFfY2dGVkNPTERjTldvZmJYV2ZCS3RsTTNvNV9qUWJ2T3dKQXNxTzI?oc=5",
-      "snippet": "B.C. attorney general shocked by news report that ChatGPT told Tumbler Ridge shooter how to avoid safeguards &nbsp;&nbsp; CBC ChatGPT helped the Tumbler Ridge school shooter focus ",
-      "pub": "Fri, 25 Sep 2026 19:00:43 GMT",
+      "snippet": "B.C. attorney general shocked by news report that ChatGPT told Tumbler Ridge shooter how to avoid safeguards &nbsp;&nbsp; CBC Report on Tumbler Ridge shooter’s ChatGPT conversation",
+      "pub": "Fri, 25 Sep 2026 20:44:40 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "OPP sergeant charged in connection with child sexual exploitation investigation - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekswX1UtZHFQeThEUjdzRDVtTUFnaG5kdDh3dm41VmZmLXBOMi1sSzdObFNhMmRYNDdrT2RIWFZuUXNSU0JzQWx5RlpRa3MzVzFaZC1ydHRsVjNhVDV1d1M5RFRoenVmcXZLY2IxMmJTaEVqWHNkei1zTzI0NGh1Q3Nma0Job1hSRGNrdWhqVF8ybnpaUkthMlNENFhNVEkySnVENjhSNFVfZDExMlJlM2JNMVVGRlF1MXc?oc=5",
-      "snippet": "OPP sergeant charged in connection with child sexual exploitation investigation &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Fri, 25 Sep 2026 14:22:38 GMT",
+      "title": "Marineland belugas that died in Chicago had rocks, maybe paint in stomachs before arrival: initial necropsy - CBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcnh4UExpZnVtR3ppNnhTMm96ZFB2VUFaTmZQSUQ4ZkRtLWJDZEVHOWc0NC1NR3R2WHlIcml0MHM1UmVhYnRjVkFjcWVVdFBQWUFXSGZzWFRIR2p0ZWZ2aVhyMG1LZFVvYzFPWWdwLVNhQlhuLU12MzB5ZDZVRVRzQVpwd1VHR3J3bEJMYmhpUmZTN1lxeHFtdm1KVUUzNW5jQWZ2bi13?oc=5",
+      "snippet": "Marineland belugas that died in Chicago had rocks, maybe paint in stomachs before arrival: initial necropsy &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "pub": "Fri, 25 Sep 2026 22:43:42 GMT",
       "image": ""
     }
   ],
