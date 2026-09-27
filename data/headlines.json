@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-09-26T23:02:11.917798+00:00",
+  "generated_at": "2026-09-27T01:36:41.207655+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "House Fire on Minerals Road in CBS",
+      "link": "https://vocm.com/2026/09/26/311668/",
+      "snippet": "Emergency crews are attending to the scene of a house fire on Minerals Road in CBS. Flame and heavy smoke could be seen throughout a large portion of ...",
+      "pub": "Sat, 26 Sep 2026 23:36:19 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/11/town-of-conception-bay-south-fire-department-truck-cbs.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Ottawa Funds New Mental Health Centre in Sheshatshiu",
@@ -59,19 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "NL Fuel Prices Remain Most Expensive on Average in Canada",
-      "link": "https://vocm.com/2026/09/26/nl-fuel-prices-remain-most-expensive-on-canada/",
-      "snippet": "Newfoundland and Labrador remains the most expensive place in Canada to buy gasoline, following a very minor change at the pumps overnight. The price ...",
-      "pub": "Sat, 26 Sep 2026 08:52:24 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/gas-fuel-prices-pumps-gas-station-pub-public-utilities-board.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Helicopter crashes outside Montreal killing all four occupants - CBC",
+      "title": "Helicopter crashes outside Montreal killing all 4 occupants - CBC",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pOHVCdUdYLXhxMTVsT2lGNWZRcGxFTVQtWFVRb1k5LUdFSjVOSkZVOExSOTdpajBpZ1hFNVhaWEIzaXlLZHJPUER4TVFRZWJzQkJnVFg5YW5jUFdZbERfQUNQVkQxODRwOHB2S2puUGVNRUJheFZ6YVRraS1Sdw?oc=5",
-      "snippet": "Helicopter crashes outside Montreal killing all four occupants &nbsp;&nbsp; CBC Helicopter crashes on South Shore of Montreal leaving 4 dead &nbsp;&nbsp; CTV News 4 killed after he",
-      "pub": "Sat, 26 Sep 2026 22:04:02 GMT",
+      "snippet": "Helicopter crashes outside Montreal killing all 4 occupants &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "pub": "Sat, 26 Sep 2026 20:51:00 GMT",
       "image": ""
     },
     {
@@ -84,34 +84,42 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Russia’s aggression towards NATO is ‘on a new level’: German foreign minister - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2xrd1VYU2lqNmRnb3htTUJXcWdlMFZvNm43MGxCVjBfU3paR01UWTdLdHVxVE5nZF9kTVZPNFpsV3FaSVQ3cUhERGRRM2Y4T2JPczFrTzJJb2FtT3ZFUEg0dXpVM09JWE9leWhvUE1mMEs2dk1MUXRFeVdtYzlfcDFPb0hHMWlra2lXNU91YmY5OVV4dGQyS0ZDcDFVQy1BazFHNE92MUd1Y2oxbDEwdG5lQ3VxZw?oc=5",
-      "snippet": "Russia’s aggression towards NATO is ‘on a new level’: German foreign minister &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Sat, 26 Sep 2026 09:01:33 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz - Al Jazeera",
+      "title": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1VlfSAa4BQVVfeXFMTjljQTNjOXdPLVpNZWhUNTduR2ZZWGN3dDRrak9NOS1WWlBNejVMWDk2aGRkek9CYzB5OWpiTU1BeWtHUkRZZGduc28td2dSZmlsQUM2NTNrQ1M5WU1rcVJoNWZKZlkzNmN5Z1FkWnJFN0FNVDEtQjFKSkYwQ0RQZFpkOWVxNm43dkloMnZtTFFFSy1xVVRYVEJEYkFZdzdBemNCMEJQZGVLZzdvQXlB?oc=5",
-      "snippet": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz &nbsp;&nbsp; Al Jazeera Exclusive | Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms &nbsp;&nb",
-      "pub": "Sat, 26 Sep 2026 18:05:38 GMT",
+      "snippet": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz &nbsp;&nbsp; Al Jazeera Exclusive | Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms &nbsp;&",
+      "pub": "Sun, 27 Sep 2026 00:12:53 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "$750K raised for hero Belleville cop who prevented a Jewish massacre - National Post",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORW50bFl3bm8zY2ROcW5TYUxyWFI2ZHFLT3ZaX2lpVFdCNzBTQ2VCLTdTVUVMRm5uQW5xbEYxYnBZMGpXcUNrZloxVVY5aVlYekZSd1hEY05RQW4xSEZwUGJUYmJXdGVRQXllSlBjcnZwOFNiODRXWlhBc3pyVml2aFg3WHd6R0w3QjAtVHNacUo3dFBHeXBFMTFOdDBuOGVhclFIa3k2cw?oc=5",
-      "snippet": "$750K raised for hero Belleville cop who prevented a Jewish massacre &nbsp;&nbsp; National Post Belleville’s tiny Jewish community vows to carry on after attack &nbsp;&nbsp; The Gl",
-      "pub": "Sat, 26 Sep 2026 10:15:40 GMT",
+      "title": "Canadian citizen detained at U.S. border crossing, questioned for hours about voting - CBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjduVlhmRC1VZXJIQkhjUWJqYWd2OWlVSjY0dXdUa0RMZkwtNmFKdXd4TWZ1TXJLOXYtVUdKR2xGUWlLV3loWTFidUotc3Fobmhhb0xJSGx6eUVhenRSZTZidTR0TWlPMXY1XzRZeTZPSEZKTFZpdVpOemFNMUpidHQ3SG9JMHJ5eTRYU09Jd0lXVlhpMnRzbnozQVVuZE0?oc=5",
+      "snippet": "Canadian citizen detained at U.S. border crossing, questioned for hours about voting &nbsp;&nbsp; CBC",
+      "pub": "Sat, 26 Sep 2026 12:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Élections Québec directs polling staff to avoid speaking English with voters - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUUtbjdLU0pLcWVyM1VrdWhtZDhPNWg0UnNnWXo5QzV2cDdZTlJPRmN0amFUQUQxbUhTUEFwbnkwVG5tamE3bEQ1bS16SHo5U0JTUFAtYW5TbjBILTJYR3hhVHAxNU5XOEZkSG9NckFfSjBMYzdSWTkzQTNWQzlnYUJ0QWYwTTlsQlNISFVwMExHMmtK?oc=5",
-      "snippet": "Élections Québec directs polling staff to avoid speaking English with voters &nbsp;&nbsp; Montreal Gazette Élections Québec has told employees not to speak English. Does that viola",
-      "pub": "Fri, 25 Sep 2026 20:21:31 GMT",
+      "title": "Powerful storm brings flooding, power outages to northeastern United States - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHVSLVpfQnZ4VXIzeE0tNkwxc3djbGNCMkE1Sk1mOUFiTTktRFFGZlNFZTFGTjQ5b0M5d1dyRUFMYnVjSTdhS3I5S3laSjd3Y3E4QzRtbEFrejNOUlZrM21ncjBJTGZxS3ZIOWVqLWFXYi1QSDhSRnNtZEROUXNSbEdob21Da3l5NS1lV2lOUEE3VXU3SXJTbklJQ29fNDVoSC13RExPODlDOElrQUx5NUpkclZjQdIBuwFBVV95cUxQWHZKUTRZQ3lvRlVDQ2NGT0ZZV2pyTUdPNExmYzNRNGpBcHlldGJvb1p0bzRFajhxMzNZVVpKN0NqLWJpQTN3VUpGdGh0UG5JOE55c084SEFZdUVXQmpjOVlHaVhnR3NBYXV6cHpTb0JrOHNIOEI1N1BXM1dxR0hjZGJ4dTR1NkNoTmxVOVlISkVtQm5aUVlrMmhZdng0ZXp1RG1ONG1rTk9PblRGQVJHblZWVk9QcEc2YzdV?oc=5",
+      "snippet": "Powerful storm brings flooding, power outages to northeastern United States &nbsp;&nbsp; Al Jazeera Powerful storm causes widespread flooding, outages in northeast U.S. &nbsp;&nbsp",
+      "pub": "Sat, 26 Sep 2026 22:55:24 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "'Let us raise a cheer to Ottawa': Canada's capital celebrates its 200th birthday - CBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkc0ZSZEdBQWZreXJDTmFwMk1IQzVrNFpDZi16SVF0RENfNjE1TzdFemZaUUE2a1U5c2diSlhZN00xdkxlWUloX2FhYW83WFZSNnZkdG44VllXeEhpZlAxVEVaaEdUUnJuNm9xNzdqdl91b3VNU216R2NNaw?oc=5",
+      "snippet": "'Let us raise a cheer to Ottawa': Canada's capital celebrates its 200th birthday &nbsp;&nbsp; CBC What happened the week Ottawa was born &nbsp;&nbsp; Ottawa Citizen Families ring i",
+      "pub": "Sat, 26 Sep 2026 22:31:47 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Belleville shooting a wake-up call for Canadians, survivor says in new statement - National Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEtaRUlyYnRTUXpyNk5NR3dCNW1uZDN2aEVpMGQ3QWNWMmxoajNNbWpETTRkWldGSENUZnBkX09TRWMwa0pKT1NwUC1xeW04ZDA1RGthRDJISmg1TG0tTDluaW0wZ3NuWGZjcmNHaXJlTU1aV25vNm5fT0VEbXNkcldhd1A2eXBOTndsSU9KSmxvaEU2UW5mMGJEbmN2bTZQWnpjbEZBUUFNSjcxMnc?oc=5",
+      "snippet": "Belleville shooting a wake-up call for Canadians, survivor says in new statement &nbsp;&nbsp; National Post Belleville’s tiny Jewish community vows to carry on after attack &nbsp;&",
+      "pub": "Sat, 26 Sep 2026 10:02:45 GMT",
       "image": ""
     },
     {
@@ -120,14 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVU1OVEhNUEk1OUl3akdJdVBMSFYxZVlMOFBkcEtMN3N4Q1pMbG1fLWIyRGdQdlRsWjZBT2NZa255SDdaalhYcGJYdzdFS0lJTzhGSV9BR1Iyb1liSDlwTExGWnZEeWlUTjE4enZHMThLbUlGYkYzTG5yVnB6Rk9yc1FkR3p0NkJVcGYzR3pqMWpORzRBRGJuWmdR0gGfAUFVX3lxTE5UTDlfc1Ytcmg4Y1EyeVhfWmVGcjZZV2hPYzJQSVI5elhCMjlmTGdKbXdNODY0M0gxOEdiWEZVUHZjZGNhSW5wbkJCNHZiQjNSNFhBS3liV1ZRSWJQcnpFOENRTkJzMkF3RVVMb09ERjJYeVB6eTZxRnFPb2FyTFJfWlNsaVdXaXUwNDVzMUVIOE5pR2ZETm0yanE1aHgtTQ?oc=5",
       "snippet": "Could AI firms be held responsible for mass shootings? &nbsp;&nbsp; Al Jazeera 'Horrifying': Focus on Tumbler Ridge shooter's AI chats &nbsp;&nbsp; Sudbury News Revelations about h",
       "pub": "Sat, 26 Sep 2026 07:48:45 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Albertans set to vote on immigration questions that have only spawned more questions - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYUZOXzdYRThsSVRBanRMSHFpSVJ5a001Q29SWEVCMkxOS1hOMENHVmEwdWdUX2FzQkptRGJxaUxmc1hfZ0NoN2U1YWNoVTJuYTkwOGI5RGtHSWw3bHpwSzBEQW01OXdnTnVJQjVQaXZTb0NlZmpTdW5BV3llbUQ4Y0toYllkbDJRTmwwUnVFTEJ0b0RkYk9kUjNIN2VydjV1cWQ2T0Y2VWROTHAtVVowVFRNN3ZabTlzWFNJclhHUjV1Zw?oc=5",
-      "snippet": "Albertans set to vote on immigration questions that have only spawned more questions &nbsp;&nbsp; CTV News As referendum looms, 70% of Albertans want province to remain in Canada &",
-      "pub": "Sat, 26 Sep 2026 14:06:03 GMT",
       "image": ""
     }
   ],
