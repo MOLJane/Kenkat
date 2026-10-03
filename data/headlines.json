@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-03T03:02:56.290580+00:00",
+  "generated_at": "2026-10-03T09:19:01.244855+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "NL Regiment Wraps Up Season-Opening Homestead this Weekend",
+      "link": "https://vocm.com/2026/10/03/nl-regiment-wraps-up-season-opening-homestead-this-weekend/",
+      "snippet": "The Newfoundland Regiment wraps up its season-opening homestand this weekend with a pair of games against Rouyn Noranda Huskies. The team split its fi...",
+      "pub": "Sat, 03 Oct 2026 08:50:04 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/newfoundland-regiment-hockey-friday-sept-25-2026.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Man Facing Assault Charges After Argument Becomes Physical",
+      "link": "https://vocm.com/2026/10/03/man-facing-assault-charges-after-argument-becomes-physical/",
+      "snippet": "A 39-year-old man is facing a charge of aggravated assault following an incident in Happy Valley - Goose Bay on Thursday. Witnesses reported that the ...",
+      "pub": "Sat, 03 Oct 2026 08:47:37 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Gasoline Skyrockets Over Night, Diesel Down by Five Cents",
+      "link": "https://vocm.com/2026/10/03/gasoline-skyrockets-over-night-diesel-down-by-five-cents/",
+      "snippet": "Anyone gassing up today is in for a jolt in the pocketbook. All types of gasoline skyrocketed by 10 cents at midnight while diesel fuel went down by a...",
+      "pub": "Sat, 03 Oct 2026 08:43:23 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/gas-gasoline-fuel-price-pump-pub-gas-station-3.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "What should government’s priority be if continued high oil prices result in a revenue surplus?",
+      "link": "https://vocm.com/2026/10/03/what-should-governments-priority-be-if-continued-high-oil-prices-result-in-a-revenue-surplus/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13527').",
+      "pub": "Sat, 03 Oct 2026 08:00:57 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/12/canadian-money-dollar-bills-toonie-spending-prce-coins.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Trump Claims Iranian Nuclear Sites Were Also Used as Drug Factories",
+      "link": "https://vocm.com/2026/10/03/trump-claims-iranian-nuclear-sites-were-also-used-as-drug-factories/",
+      "snippet": "President Donald Trump has introduced a new claim about Iranian facilities targeted by the United States, saying some of the sites were also being use...",
+      "pub": "Sat, 03 Oct 2026 07:29:44 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/10/679135312.jpg"
+    },
     {
       "source": "VOCM",
       "title": "UPDATE: Missing Child Found",
@@ -27,98 +67,58 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/5-wing-goose-bay.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "37th Annual Trinity Conception Placentia Health Foundation Telethon Happening This Weekend",
-      "link": "https://vocm.com/2026/10/02/312179/",
-      "snippet": "The foundation which helps raise money for medical facilities in Trinity, Placentia and Conception bays hopes to raise about a million dollars this we...",
-      "pub": "Fri, 02 Oct 2026 19:23:28 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/trinity-telethon.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Local Scientists Rally Against Federal Cuts and Legislative Changes",
-      "link": "https://vocm.com/2026/10/02/312198/",
-      "snippet": "Scientists, dressed in their white lab coats, rallied in St. John's earlier today against cuts and legislative changes affecting them at the federal l...",
-      "pub": "Fri, 02 Oct 2026 19:17:15 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/science-strike-3.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Con O’Brien Thankful for Support Following Lifetime Achievement Award",
-      "link": "https://vocm.com/2026/10/02/312172/",
-      "snippet": "He may have a lifetime achievement award under his belt, but Con O'Brien and the Irish Descendants are far from slowing down. O'Brien received the hon...",
-      "pub": "Fri, 02 Oct 2026 18:49:59 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/con-obrien.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Mechanical Failure Forces Legionnaire Temporarily Out of Service",
-      "link": "https://vocm.com/2026/10/02/312221/",
-      "snippet": "A mechanical failure has taken the Legionnaire out of service on the Bell Island run. The Department of Transportation says technicians have been disp...",
-      "pub": "Fri, 02 Oct 2026 18:41:05 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/legionnaire.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Health Minister Warns Cuts to Federal Funding Could Impact Upcoming Projects",
-      "link": "https://vocm.com/2026/10/02/312175/",
-      "snippet": "Provincial health ministers are warning of a \"fiscal cliff\" coming as $1.2 billion in federal funding for mental health, addictions and home care is d...",
-      "pub": "Fri, 02 Oct 2026 18:07:09 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/joedy-wall.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Tom Mulcair: A defining vote for Quebec. A turning point for Canada. - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM21YekllTXVaWTRTYk9yblZrUlpreUpzazIxSjZHZG1zVzdEbnZaVTAzc2YzV2VFTExKVzBVSG9SYzJaQmlSZTlzX0lpUXFtQVFFdjNsd2hNUmQ5RW95VVNGMWVncy00R0RNSzh4U0Y3dDNGZm9VS3dVTDRqUnNiOXNmcFQwbkFTeEY0S2o3czQ3ZmNvZWg1a2VGcjIxZkNROHNXSi1aMVFYMThWWkIwRVhqZWtfTm91b3R2VmtNZw?oc=5",
-      "snippet": "Tom Mulcair: A defining vote for Quebec. A turning point for Canada. &nbsp;&nbsp; CTV News CTV News Montreal Delivers Comprehensive Election Coverage on October 5 with Live Primeti",
-      "pub": "Fri, 02 Oct 2026 17:56:47 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "What 'Cornell 7' and 'Hockey Canada 5' assault cases reveal about consent and trauma - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVk4bmEwcUYtajFLbkxuTUw1WTM4TG5YaExBZEQ3STFUcUk2dHRlcjRwTWIxWVpXUE15cTR3MlBTY2tFYjhCNkVLamlxYUNUOU5GUUxpOE1yZDJuVHNIdHpvX19MME9KeHNCc3ZoWWJTTXlQWGlQTmtNbzRPbEZFS0hqNHR0SzZPUU1Kb19ua1dZQQ?oc=5",
-      "snippet": "What 'Cornell 7' and 'Hockey Canada 5' assault cases reveal about consent and trauma &nbsp;&nbsp; CBC How a Cornell Student Went From Shame to Action &nbsp;&nbsp; The New York Time",
-      "pub": "Fri, 02 Oct 2026 12:31:51 GMT",
+      "title": "Carney, Smith say new West Coast pipeline could get oil companies building again - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlhGdjdibVNkVzBBU254RHlHR0JNV3pDak05WW1aNWc4VDdEV0JFbENsVEluRnBObm9pbjB0b1UzNnlveTJ1S1hEZjd2ZVVDdmZBaDlQYUFEbVd3endIMGI1Z29iY0tBdWRLbWg5QkdObUd3b0hkX3JrWVF5MGVTZmdUUmM?oc=5",
+      "snippet": "Carney, Smith say new West Coast pipeline could get oil companies building again &nbsp;&nbsp; CBC Another oilsands boom? Smith, Carney say this time Canada will be ready &nbsp;&nbs",
+      "pub": "Fri, 02 Oct 2026 21:27:54 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Terrorist images found on Flydubai suspect’s social media - CNN",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EVTF3MlU2Q2I2T3RrYnhmZVNEeEF2ZU1GSDRDRkFpaTBGallZZkV1cy1nY2JidUpQWk1Pa1hIYjE2cnJTa21jb08wMXctTUJ3b1hqei1FbEl5ZHJiWXZyWndFc0RkLTdNS25UeUo4c3ppNmc?oc=5",
-      "snippet": "Terrorist images found on Flydubai suspect’s social media &nbsp;&nbsp; CNN FlyDubai co-pilot who nearly crashed plane was barred from flying by Oman over extremism concerns &nbsp;&",
+      "snippet": "Terrorist images found on Flydubai suspect’s social media &nbsp;&nbsp; CNN Flydubai co-pilot used crash axe to attack captain, says UAE &nbsp;&nbsp; The Guardian Trump warns Iran o",
       "pub": "Fri, 02 Oct 2026 21:54:06 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Another oilsands boom? Smith, Carney say this time Canada will be ready - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTE0M192aENfdXZObFNuUnhWd1hJWlVoYzlMd0dLZDFTNC1TamQ4Qmx4Yjd4bzkwMk5COHhLdWw4LXNvOTJRWkROYml5dmxrMnNBdndyTVI1ZWVUUEdlaUdxWmZKdGphZGlTS3hBRFJUcGNGVzg1VDFBX3g3dVh5aU9CYzJialViNWEteHMwOA?oc=5",
-      "snippet": "Another oilsands boom? Smith, Carney say this time Canada will be ready &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
-      "pub": "Fri, 02 Oct 2026 20:30:16 GMT",
+      "title": "Tom Mulcair: A defining vote for Quebec. A turning point for Canada. - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM21YekllTXVaWTRTYk9yblZrUlpreUpzazIxSjZHZG1zVzdEbnZaVTAzc2YzV2VFTExKVzBVSG9SYzJaQmlSZTlzX0lpUXFtQVFFdjNsd2hNUmQ5RW95VVNGMWVncy00R0RNSzh4U0Y3dDNGZm9VS3dVTDRqUnNiOXNmcFQwbkFTeEY0S2o3czQ3ZmNvZWg1a2VGcjIxZkNROHNXSi1aMVFYMThWWkIwRVhqZWtfTm91b3R2VmtNZw?oc=5",
+      "snippet": "Tom Mulcair: A defining vote for Quebec. A turning point for Canada. &nbsp;&nbsp; CTV News CTV News Montreal Delivers Comprehensive Election Coverage on October 5 with Live Primeti",
+      "pub": "Fri, 02 Oct 2026 19:45:30 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Toronto soldiers arrested on kidnapping, weapons theft and organized crime charges - National Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRXRNeGFSRFpXQ3BqSHlPNnZuNG5LRzV0VU10a1hFRHJfcnhNUDluQUs3RGFhcExWQTBfekREcmRGWk9OVjFOZXRxSTIxd2tNejJHSTF4Rll6QWhnSnlDOWlic0dOZzNpbk92RURhdHkzM2RaQzNxNEFhLW9zMnlXTUd4RUlRbDhCRDR2ZjFNRFdJNE42bnlmeHYzVE44YWRyVzFxdkVJYk5YYmNiTXpvYkdPbGdRam5yX0E?oc=5",
-      "snippet": "Toronto soldiers arrested on kidnapping, weapons theft and organized crime charges &nbsp;&nbsp; National Post",
-      "pub": "Fri, 02 Oct 2026 21:58:20 GMT",
+      "title": "Alberta referendum panel at U of A brings out heavy hitters - CBC",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMWpob2tiMW11cGNqb29nV0pOeWU4d2YyRmFpcEJUelZ4VzhqOGtrbnlWR0h2V1BHcWc1RlhBa3NISXk1NFRseTcwR2x0bTlHc3pXS1pOcWExeF9xM1luSnpzM0ZxcGJOWTBwOWZDNERiSkVWc1liUEtEN0pPQ0xmdHI5LWlIWEQ0Sk1rbHpIYlVqUkpxdmNGTXQyZlhUcDFF?oc=5",
+      "snippet": "Alberta referendum panel at U of A brings out heavy hitters &nbsp;&nbsp; CBC Poll suggests slight majority of UCP voters favours separation as party stares down ‘tough days’ ahead ",
+      "pub": "Fri, 02 Oct 2026 12:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘God made Trump’ ad and at least 12 others are part of controversial taxpayer-funded ad campaign - CNN",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IRWxQX0Jpa0U2X01ScDg5YlBLM0J1NGhDOE1lZjJqcTNaMnpIRmhQTllETThRNjNXV01KOTlFQXh0MzYweFpXSXRSbDBldndSM3pQRG90QXZGT3E3RG41MXBrSkFscnl2Tm5sdmQtUUk0c00?oc=5",
-      "snippet": "‘God made Trump’ ad and at least 12 others are part of controversial taxpayer-funded ad campaign &nbsp;&nbsp; CNN Campaign-style Trump ads use money meant for border security, memo",
-      "pub": "Fri, 02 Oct 2026 19:13:33 GMT",
+      "title": "Top GOP group pauses spending in North Carolina in latest Senate warning sign - CNN",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pOUxhbjU0TC1IT1RaU2JvOC15emJkaUtkeS0wdFJZb1pMMjdnTURQcjRzektSclViSnBVX1JVbDllb1Bta1RiUUtoRHR3WUFWdzRQSV9uS3JQRHVzVzJLVTF4U1JRRG4zbm1OR2lfd0oxQnhkWEx1eTZtWEJCUmc?oc=5",
+      "snippet": "Top GOP group pauses spending in North Carolina in latest Senate warning sign &nbsp;&nbsp; CNN Top GOP group pauses Senate spending in N.C., goes up in Kansas &nbsp;&nbsp; semafor.",
+      "pub": "Fri, 02 Oct 2026 14:34:32 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Five arrested after year-long probe into extortion at Langley car dealership - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVzdmSGpGMUZiMW8zR0REcUlYRFFTSHM3MURvTVdtLU9ZOUZUSjJKQ0syeGRyeVZrbUVhWU5KREtoZWdRbTdaQVdXQTJ3dXF2aWwwN0RuZG1MSU1YSEtBazQ5QnJrMXFtT3ZwQ0FyVV9uV1VZNWhLR3FEZFNWODBnOEdPVTBRLVVl?oc=5",
+      "snippet": "Five arrested after year-long probe into extortion at Langley car dealership &nbsp;&nbsp; Vancouver Sun See more headlines & perspectives on Google News",
+      "pub": "Sat, 03 Oct 2026 00:31:15 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Actor and advocate Michael J. Fox promoted to companion level in Order of Canada - CBC",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UbTQ2STcwVHZuTVNVamtsRjJHT3RKVHF2WnBIOXVwTHZZZFFZQ1M2Q1hEYm43aDJvNjdzYmxjYkd0akJOdGZwZFV1MkdTN3k1X2ZmWmtsdmxRZXp4bThxVHFPVmFqUjNiMzREODBHQzdMSXY1aFFlNWx3?oc=5",
-      "snippet": "Actor and advocate Michael J. Fox promoted to companion level in Order of Canada &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "snippet": "Actor and advocate Michael J. Fox promoted to companion level in Order of Canada &nbsp;&nbsp; CBC Michael J. Fox, actor and advocate, promoted within Order of Canada &nbsp;&nbsp; G",
       "pub": "Fri, 02 Oct 2026 21:11:50 GMT",
       "image": ""
     },
