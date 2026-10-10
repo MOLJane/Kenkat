@@ -1,11 +1,51 @@
 {
-  "generated_at": "2026-10-10T12:47:34.244210+00:00",
+  "generated_at": "2026-10-10T17:32:53.875830+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
+      "title": "Premier Says He’s Confident in Future of Bay du Nord Project",
+      "link": "http://vocm.com/2026/10/10/312990/",
+      "snippet": "The Premier says he's confident in the future of Bay du Nord with Shell's new 30 per cent stake in the project. BP pulled out of Bay du Nord in July, ...",
+      "pub": "Sat, 10 Oct 2026 17:03:15 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/premier-tony-wakeham-bay-du-nord-update.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Grand Falls-Windsor Hospital Plans for MRI Machine, Staffing May be an Issue",
+      "link": "http://vocm.com/2026/10/10/313001/",
+      "snippet": "A provincial manager with the Canadian Association of Medical Radiation Technologists in Atlantic Canada says announcements about new MRI machines may...",
+      "pub": "Sat, 10 Oct 2026 16:00:07 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/central-newfoundland-regional-health-center-hospital-gfw.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "MUN Cuts Frecker Program, Premier Says University Needs to ‘Reinvent Itself’",
+      "link": "http://vocm.com/2026/10/10/312987/",
+      "snippet": "Memorial University says it's cutting its Frecker Program due to a lack of host families in recent years. The three-month French immersion program was...",
+      "pub": "Sat, 10 Oct 2026 14:57:16 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/mun-memorial-university-generic-2.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "NL Unemployment Rate Jumped to Over 9 Per Cent Last Month",
+      "link": "http://vocm.com/2026/10/10/312994/",
+      "snippet": "The unemployment rate in Newfoundland and Labrador took a hit last month, jumping to over 9 per cent. It had dropped to 8.6 in August, but it was 9.1 ...",
+      "pub": "Sat, 10 Oct 2026 14:13:37 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/generic-satellite-newfoundland-and-labrador.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Beached Fin Whale to Decompose Naturally Near Corner Brook",
+      "link": "http://vocm.com/2026/10/10/312980/",
+      "snippet": "The city of Corner Brook has decided to allow a dead fin whale to decompose naturally after it washed ashore in Wild Cove. While doing so, it expects ...",
+      "pub": "Sat, 10 Oct 2026 12:43:19 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/dead-fin-whale-3.jpg"
+    },
+    {
+      "source": "VOCM",
       "title": "New School Offers Relief for Some Families, Challenges Remain Elsewhere",
-      "link": "https://vocm.com/2026/10/10/kenmount-parent/",
+      "link": "http://vocm.com/2026/10/10/kenmount-parent/",
       "snippet": "A parent in Kenmount Terrace says she's excited about a new school opening in her neighbourhood, but understands the frustration of those living outsi...",
       "pub": "Sat, 10 Oct 2026 10:14:35 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/kenmount-terrace-school-april-2026.jpg"
@@ -13,7 +53,7 @@
     {
       "source": "VOCM",
       "title": "Stephenville Attack Leaves Man With Life-Threatening Injuries",
-      "link": "https://vocm.com/2026/10/10/312999/",
+      "link": "http://vocm.com/2026/10/10/312999/",
       "snippet": "A man has been charged with aggravated assault after somebody was attacked in Stephenville and left with life-threatening injuries. Patrolling RCMP of...",
       "pub": "Sat, 10 Oct 2026 09:41:47 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp.jpg"
@@ -21,65 +61,33 @@
     {
       "source": "VOCM",
       "title": "Police Need Help in Finding Woman on their Wanted List",
-      "link": "https://vocm.com/2026/10/10/312997/",
+      "link": "http://vocm.com/2026/10/10/312997/",
       "snippet": "RCMP on the Burin Peninsula need help in tracking down a woman who is wanted on a warrant. Police say Jodi Lynn Lake, who's 51, is actively evading th...",
       "pub": "Sat, 10 Oct 2026 09:37:49 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/jodi-lyn-lake-wanted-rcmp.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Local Contractor Ready for New Heat Pump Rebate Program",
-      "link": "https://vocm.com/2026/10/10/312899/",
-      "snippet": "The federal government is rolling out a massive $2 billion program to get Canadians off oil heat and onto electric heat pumps. Prime Minister Mark Car...",
-      "pub": "Sat, 10 Oct 2026 09:03:58 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/glen-upshall-and-jo-ann-murphy-cole-air-contracting.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Trump Announces Russian Diesel Deal With Putin as Fuel Prices Remain High",
-      "link": "https://vocm.com/2026/10/10/trump-announces-russian-diesel-deal-with-putin-as-fuel-prices-remain-high/",
-      "snippet": "President Donald Trump has announced an agreement with Russian President Vladimir Putin to increase Russian diesel supplies to the United States and g...",
-      "pub": "Sat, 10 Oct 2026 08:33:58 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/09/593041468.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Man Arrested in St. Bride’s on a Number of Firearm Charges",
-      "link": "https://vocm.com/2026/10/10/312984/",
-      "snippet": "A 23-year-old man was arrested and charged after Placentia-Whitbourne RCMP responded to reports of a man firing a gun in St. Bride's early yesterday m...",
-      "pub": "Sat, 10 Oct 2026 08:55:51 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Another Whopping Increase in Diesel Prices",
-      "link": "https://vocm.com/2026/10/10/transportation-and-heating-fuel-prices-higher-today/",
-      "snippet": "All transportation and heating fuels cost more today. Gas is up by 3.2 cents per litre but diesel shot up another 10 cents on the island and 9 cents i...",
-      "pub": "Sat, 10 Oct 2026 08:42:30 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/gas-fuel-prices-public-utilities-board-car-gasoline-pump-station-fall-2026-3.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Emergency Recall on Local Beer Products",
-      "link": "https://vocm.com/2026/10/10/nlc-recalls-local-brewery-lager/",
-      "snippet": "The NLC is recalling some product due to a serious safety concern. Landwash Smiling Land Light Lager 12-pack cans, lot code February 5, 2026, may be s...",
-      "pub": "Sat, 10 Oct 2026 08:40:34 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/nlc-recalled-landwash-beer-smiling-land.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "With Alberta referendum in sight, the nine other ballot questions are capturing attention - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTEMzMlAwUV9VQTNhOGExeHFtVkVtaDhwcnZfZkx4R05qcnF6VTBBcnBlLXdhakhacHJoSnRvSDV2ZWtxVUlzVUUwdzBvZ3ZxM0pvWTY1WHVtOXN6MnY1aVNNMGpCQS1rakd6QVk0OVlWeEUtV3lRU0l3MVBJWFFUVWtuTmxWWGRBeVU2aXZsOXpFM09fM2Ffa0NkOXlTUU5WNnZtSG1ncDY0QQ?oc=5",
-      "snippet": "With Alberta referendum in sight, the nine other ballot questions are capturing attention &nbsp;&nbsp; The Globe and Mail Tension peaking among Albertans on separation vote &nbsp;&",
-      "pub": "Sat, 10 Oct 2026 01:10:30 GMT",
+      "title": "Ukraine war: Russian glide bomb attack on Zaporizhzhia kills at least 15 people - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VaXBla2l6ZlZUVmJqYWFBOUxocXhWUEVRcEkxOG4wZzIxV0l3UF9nMGV3Ri1zcnpkOHB4X2luNUZUZmxGUks0VVhpVDNPNWo1V0JScXBhX2pVMlk?oc=5",
+      "snippet": "Ukraine war: Russian glide bomb attack on Zaporizhzhia kills at least 15 people &nbsp;&nbsp; BBC Ukraine hit by deadly Russian strikes as ‘thanks’ for Trump diesel deal, Zelenskyy ",
+      "pub": "Sat, 10 Oct 2026 14:16:50 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘Barbaric’: Catholic Leader Condemns Hegseth’s Plan for Public Execution - Rolling Stone",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSDVfZDY2ZEJQRTNxMjhLcTJ1UGJ4VDFfcnRkSzBEczF4TTVvSVhYaklkVkk4azBya3hQYUpwLUI0Y0J0V1dSMEI1WFNHeWhRTmF0cGhLTXNHNTVJcWF5MDlmcUlKNTBEQkZxbWZtQXA0R3gyMDlqV1pLa3Z6NmF5SEVCNXZKVXpoYUxRQXBLWEpZSmtLMloxZjVVLTlwZ2V3VjZMQW1jMlg2dFVjNjM4b0IzM1IyaFdfbmhJ?oc=5",
-      "snippet": "‘Barbaric’: Catholic Leader Condemns Hegseth’s Plan for Public Execution &nbsp;&nbsp; Rolling Stone Army caught off guard by Hegseth’s order to make firing squad execution public &",
-      "pub": "Fri, 09 Oct 2026 16:57:18 GMT",
+      "title": "9 dead after shooting in northern Pennsylvania, circumstances described as ‘deeply disturbing’ - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWFJkcF9oSHpaMlVrTWhUanp4NGhpRlExc3pPM2FqNWQ2dzc5Q211RGNFOE5PdFZsRUFyd1pfLXk2REZpWF9wbmFvaElCT3JtU2FVX2RiTlR4TjFsYXp0RzYybGlia2RhSi1sQUdrc3Awa3FUY3ROcjVGZXF5b210bExSdmdPWDVTUFdBZQ?oc=5",
+      "snippet": "9 dead after shooting in northern Pennsylvania, circumstances described as ‘deeply disturbing’ &nbsp;&nbsp; CTV News Nine dead in mass shooting at Pennsylvania home &nbsp;&nbsp; BB",
+      "pub": "Sat, 10 Oct 2026 15:38:05 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Premier who oversaw Canada's first assisted dying law says he worries it's gone too far - CBC",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWUtuM1EwdUhUaFJPNW1waVk4REs4VmlhNEVoRDU5X1JDN3podlV4Qkp1d3lTNnJGeFJqMm5ZQWJLMFBnNDl2M1NTUFl3WjJMamNtMWNCQ0I0WWhQQWVNMmJyUTJyQnNqeFdfMWxYLVMxNXhFLWQycVQ1MHY5RWppa2Z0VjV5WFlWMUJ6R0tfZGlBNkg1X2xDdQ?oc=5",
+      "snippet": "Premier who oversaw Canada's first assisted dying law says he worries it's gone too far &nbsp;&nbsp; CBC 10 years on, Quebec leads the country in MAID, as debates over its use cont",
+      "pub": "Sat, 10 Oct 2026 08:00:00 GMT",
       "image": ""
     },
     {
@@ -92,42 +100,34 @@
     },
     {
       "source": "Google News Canada",
-      "title": "‘I don’t care if I go to jail’: Video shows defiant 6-year-old moments after shooting teacher - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnFYSlNldkptUTE5U2RJRXo4Q3hjTjE2WEZmSnAyNmEtQnYtY0VuZFFOSlNQblpMODVNQjBWZTdCMEpXYjJXLVV1VF9tcWNXelBwWW5ZbmR5WDg1TFFWcmRFMmRia0hmUjA5V3VkVVdycE00cGI1MkFBYmJhS0g3OVgyMmktbXBwYzZxSUlSbnJnTVlzZmc?oc=5",
-      "snippet": "‘I don’t care if I go to jail’: Video shows defiant 6-year-old moments after shooting teacher &nbsp;&nbsp; CTV News Bodycam Footage Shows the Horrifying Moments After 6-Year-Old Sh",
-      "pub": "Sat, 10 Oct 2026 00:00:00 GMT",
+      "title": "Man dies after tiger attack at wildlife park - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hNVE4NkdyTkFGQVVpeEh4aDBpQWRjT0FBN0xKRV9BdWtWbWg0NjNlV24zWndpRklocW45UllwTGZnZkozbi1sZWsxVDZtNmhqMUxyM3BPdmVpZjg?oc=5",
+      "snippet": "Man dies after tiger attack at wildlife park &nbsp;&nbsp; BBC Man seriously injured after entering tiger enclosure at UK wildlife park, police say &nbsp;&nbsp; CNN Man dies after j",
+      "pub": "Sat, 10 Oct 2026 17:13:32 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "ICE shooting of New York man in car with five-year-old sparks protests - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOckVoeWFRMEpudkFHbm1rd2pMTHA0YWNOM3hYTFVGaG1WUFZhVGtQSWhXLXozNzh5c3lVS2ZDc0E4Zlh0QTMxMUFPa2RwcGNZX0FaWXVVNTZwMVlDdVpDVXhNTjgtckRWTjREM2xDb2l2dm9JTFJqRTQydlBMdThTbmtEUmI1RTJKVngzTXlnUGZ3ck9icldZQm5DVDRFZGFpVjBYUElQSERJQjFBSm1TQdIBtgFBVV95cUxQSDU4Q1FVMFlxamlBa3pUTjZJX05iTlZIb1loOU9aWXZCc3o5dGN1MWZUNGhjN3QzbHp5Z1RJcW1kb1Bsd0J0bHZPZWlPbExLRFA4TlQtWWVxd0NXdUdkOU9Vd3Ixb1JKeGFsZjRlT1lBLU1zc1VLWVhQZUpsSFFyX2R6VHVUQm1YcFI3R0I0bmxkNEtRWVpEVjF5d0RiVnlVck9POUVoT3FkbTJ1NUp5NW5QLWxEQQ?oc=5",
-      "snippet": "ICE shooting of New York man in car with five-year-old sparks protests &nbsp;&nbsp; Al Jazeera Anti-ICE protests continue in NYC after agents shoot man in car with child &nbsp;&nbs",
-      "pub": "Fri, 09 Oct 2026 06:39:15 GMT",
+      "title": "‘Don’t take anything for granted’ when it comes to Quebec’s appetite for a referendum - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTEZmckF6VFFiYTlwZ2hoem9jenhlNHhlc0lMNkZkZTVMbllEdHZjR285eFVpZ3pzNFZXUGRfVl9IRWJWdWxROGpZR0pYYnRHY3ZwRDhROEt1Zk13STZBWU43Nm5SQjZsQU1QRUZsY1FPcEpLYkVmZFpmVzd3LWtMaHN1eVp4RnZrYnh2blJoellYN2NjdEdkM2doNHZSUTNYVjZ3Rm5kOEtuS0tM?oc=5",
+      "snippet": "‘Don’t take anything for granted’ when it comes to Quebec’s appetite for a referendum &nbsp;&nbsp; Montreal Gazette Incoming Parti Québécois eyes friends and foes across the aisle ",
+      "pub": "Sat, 10 Oct 2026 10:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Conservatives vote in favour of Liberals’ Bill C-39, but promise amendments to 'protect the rights of workers' - National Post",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcURhWFBwTmpBRllLWjJYRGJIbzV4bkhISzlacXEyZ002bThWYWhUbzlhVGF2ZW50WmFmREM5RVNUaExGYmRSeUJiaXlJZ1ZzZ0RNNWZOUmxFTVhEdVAycXpabUtHSG9wdXFEMkhfbnhZcHR6eVFkQURhYWFYeVkwTVNndm1YelR6U29ONDF2Tm85X0FBTzdrZTFqd0p5bnZ5dnRVM3VDeFQ4OG9BOFdOeDUtVnFzclVYakdaMlpOaXJCUUxhUmVxMzNtX0lGcGx1M1E?oc=5",
-      "snippet": "Conservatives vote in favour of Liberals’ Bill C-39, but promise amendments to 'protect the rights of workers' &nbsp;&nbsp; National Post See more headlines & perspectives on Googl",
-      "pub": "Thu, 08 Oct 2026 21:05:18 GMT",
+      "title": "Vaughn Palmer: B.C. NDP leader sidesteps repeated questions about election timing - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUUJVTlktUWwxN3RSWmlxSnZra3VaZlpabWtfVUZUd1RDdk5RMjZBbnc5LUw4Y25DSkoxLVFIYmZ0S1I3ak40Ym5malFVOC13VUpDOWZkNVY3S1lwTDA0MDRYZC1leHVJbmZjbnNPTjRqb2JQSW8tY3kzMFBlVEVoNjFpOVhhLV9ab0RRUlN5UmNybDA2cHNSY3NiaFNhOE5lMFBIU0lMZENQbTVyS25IQnphSlNzSk5EbnNNcXVTYw?oc=5",
+      "snippet": "Vaughn Palmer: B.C. NDP leader sidesteps repeated questions about election timing &nbsp;&nbsp; Vancouver Sun Overlapping local, provincial elections in B.C. causing confusion: cand",
+      "pub": "Sat, 10 Oct 2026 13:06:05 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Outgoing Quebec Premier Christine Fréchette pushed off 'glass cliff' in election - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWU5JNU9fZFdfMHVMcjQ2emd4Ukhqamo3MUhmQnpTbUliTnZvTVpINXI5M1Q5bzhlZmtma3BaWkZyMDBNNFdCRVU4c0I0blIwcGVPZ3BxNF82bGlrX3UtUlpUaU5aTnAwSFBEZ2t3M1hibnI2QnlvMi12TmVkWE1PVF9DRnE2TFplY0tOVUMwZnFKZmlkSC1PcWh5bEw0b1hEMXVPaDByUFdvNldkTkllYWU1RUVsa0dhS3I1MjhieVhFc0NJZG9RZi1UUlBNR2l2S0xMcHVqRQ?oc=5",
-      "snippet": "Outgoing Quebec Premier Christine Fréchette pushed off 'glass cliff' in election &nbsp;&nbsp; CTV News Incoming Parti Québécois eyes friends and foes across the aisle &nbsp;&nbsp; ",
-      "pub": "Fri, 09 Oct 2026 10:22:44 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Provincial intervention in city zoning policy 'patently illegal,' Calgary mayor says - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRnVmLWV2bEM2VkVhNDFuY3hneURHM0Q0cS1xUE5RSnRBVTVNck5jd3ctaDFDa2RIRVpBb0dId0Zhak9sNEVEdFBsRjNPZTlPTmI3MDg5bFZvNXNSVzdvOS1MYXZxYjNsM0pJOHZyenZtOURpZTJlLXV5QWloTHVGWGxPZzNnWTBtSnNwQTJmQXVxYXR0emllMW9PTQ?oc=5",
-      "snippet": "Provincial intervention in city zoning policy 'patently illegal,' Calgary mayor says &nbsp;&nbsp; Calgary Herald What’s next for Edmonton infill housing after province orders rule ",
-      "pub": "Fri, 09 Oct 2026 22:01:12 GMT",
+      "title": "Tension peaking among Albertans on separation vote - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwSm0ycWo2dWM3T1hZZVFkZFR1czdGc2k2elItR2ktcTRTUmFhcjRLUkdXLXYyTXNGN0hRVFVISk1BRG9rYXVhT1puZzdXQTZzTmNUZHJuRzZOQmFIQlVKSTdEWTlfZ2tHeXBVcEdXMVJNWUVySTNUVXVn?oc=5",
+      "snippet": "Tension peaking among Albertans on separation vote &nbsp;&nbsp; Global News With Alberta referendum in sight, the nine other ballot questions are capturing attention &nbsp;&nbsp; T",
+      "pub": "Sat, 10 Oct 2026 12:14:57 GMT",
       "image": ""
     }
   ],
