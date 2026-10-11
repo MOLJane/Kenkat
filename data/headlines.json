@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-10-11T13:10:46.719721+00:00",
+  "generated_at": "2026-10-11T18:12:42.325800+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Housing Industry Skeptical of Government’s 10,000-Home Promise",
+      "link": "https://vocm.com/2026/10/11/313031/",
+      "snippet": "The president of the Canadian Home Builders' Association doesn't believe the provincial government will be able to fulfill one of its major campaign p...",
+      "pub": "Sun, 11 Oct 2026 17:04:10 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/curtis-chba.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Film Industry Hits Record Heights in Newfoundland and Labrador",
+      "link": "https://vocm.com/2026/10/11/313037/",
+      "snippet": "The province's film and television industry is generating never-before-seen economic activity, according to PictureNL. There has been a buzz around th...",
+      "pub": "Sun, 11 Oct 2026 16:12:59 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/below-group-shot-netflix.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Premier Wakeham Hints at More Affordability Relief as Oil Revenues Climb",
+      "link": "https://vocm.com/2026/10/11/313043/",
+      "snippet": "The premier is assuring that more affordability measures are in the works as government benefits from revenue generated from rising oil prices. The pr...",
+      "pub": "Sun, 11 Oct 2026 15:25:31 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/07/premier-tony-wakeham-pei-premiers-meeting-1.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "CNA Urged to Disclose Records and Legal Fee Information",
+      "link": "https://vocm.com/2026/10/11/313029/",
+      "snippet": "The privacy commissioner has recommended that the College of the North Atlantic release all responsive records related to an Access to Information Req...",
+      "pub": "Sun, 11 Oct 2026 14:59:12 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/11/cna-college-of-the-north-atlantic-cona-prince-philip-drive-campus.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Gander Exceeds Homebuilding Goal Under Housing Initiative",
+      "link": "https://vocm.com/2026/10/11/313035/",
+      "snippet": "Gander says 136 new housing units have been built in the town over the first two years of new initiatives introduced to accelerate home building. That...",
+      "pub": "Sun, 11 Oct 2026 14:09:56 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/town-of-gander-logo.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Biometric Immigration Services Coming to Labrador",
@@ -27,107 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/elizabeth-gertrude-gallagher.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Local Chef Shares Secrets to the Perfect Thanksgiving Turkey",
-      "link": "https://vocm.com/2026/10/11/313022/",
-      "snippet": "The smell of Thanksgiving turkey will be filling the homes of many families this weekend, and a local chef is providing some tips on how to get the mo...",
-      "pub": "Sun, 11 Oct 2026 08:53:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/chef-chris-chafe-for-turkey-prep.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Tri Pen Osprey Exit U-18 AAA League as Circuit Shrinks to Three Teams",
-      "link": "https://vocm.com/2026/10/11/313020/",
-      "snippet": "Another team has dropped out of the Provincial U-18 AAA Hockey League. The Traction Central Impact out of Grand Falls-Windsor were the first to fold, ...",
-      "pub": "Sun, 11 Oct 2026 08:50:30 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/06/Hockey-Puck-Generic-Rink-.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Trump’s criticism of Ukrainian strikes on Russian oil refineries impacting U.S. fuel costs",
-      "link": "https://vocm.com/2026/10/11/trumps-criticism-of-ukrainian-strikes-on-russian-oil-refineries-impacting-u-s-fuel-costs/",
-      "snippet": "President Donald Trump has called for Ukraine to replace President Volodymyr Zelensky following a growing disagreement over a U.S.-Russia diesel agree...",
-      "pub": "Sun, 11 Oct 2026 08:18:55 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/10/721341672.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Grand Falls-Windsor Break-In Suspect Nabbed After Chase",
-      "link": "https://vocm.com/2026/10/11/313018/",
-      "snippet": "Police in central Newfoundland have arrested a man who they believe was breaking into vehicles, but not before a little adventure. Bradley Pinsent was...",
-      "pub": "Sun, 11 Oct 2026 08:46:51 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "October 11, 2026 – Do you enjoy your Thanksgiving turkey on Sunday or Monday?",
-      "link": "https://vocm.com/2026/10/11/october-11-2026-do-you-enjoy-your-thanksgiving-turkey-on-sunday-or-monday/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13575').",
-      "pub": "Sun, 11 Oct 2026 07:30:09 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/10/Turkey-Dinner-Cook-Thanksgiving.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "‘I think they could actually win’: Low turnout could favour separatists in Alberta referendum, Kenney worries - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZklxMWF6Y1lEX3JGQUxqSU4ycFJGclhiODVaMTExRTlpMlpoRjBpRVM5VHZuZkJmTERPVFFSanUzZmhqRFB5djV3TFZXTkJDakh4YzJrbEJTZnFuYTFZMUEwTnpXakRIaUt4dTFnNG8tWXVJc3psa3lsMlhrU3N4U2dZM2FjdHIxQ2lsMmNLMGczQk5DOTBfbVktTUp6SVpuZnktOGZpdVM4V1Qyb3VSaEpXZkZ0N3ZPcHdJLW50a0ZpMGV1U1lJZnktTlRPNURGYXAxeDMxSENodnlvMGFJal9BSnc0OE1reER2UGxhdG1wZnJEQWc?oc=5",
-      "snippet": "‘I think they could actually win’: Low turnout could favour separatists in Alberta referendum, Kenney worries &nbsp;&nbsp; CTV News Disappointed, angry, excited: Albertans weigh in",
-      "pub": "Sun, 11 Oct 2026 09:00:00 GMT",
+      "title": "Trump says Russia and Ukraine reach ‘energy ceasefire’ but gives no details - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSzJyZ0NzSHd3dmJDd09aYk5qaEc3QWRTSDZGc3RvRWpLNW1QX0s0Mk42TE5QZ3VkbkFxVXEzb3c3S1hfV25LZEp6Zl9pWnkwNkJyZXJnb2ZmTWd0UG9hR3J2RHNIUnFTcU1TUlEwb1d0WVZ6dk90clhOTlg2YmpSa0x5YjhkeDNjXzhLTG5kbERhRHRxRmFxQjlDWFlWSnNuU0Qw?oc=5",
+      "snippet": "Trump says Russia and Ukraine reach ‘energy ceasefire’ but gives no details &nbsp;&nbsp; CTV News Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news t",
+      "pub": "Sun, 11 Oct 2026 17:58:37 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say - Politico",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLU9veWZadWZVVm5GRWdtQS1feGRpLWQ1WXVGbGlsWFhjUVhWRmNfRlRUMVRxMmwzSVpnSlVuYWFuOElLSFIxNThtZVJxbHNlM3cyUmJMbzNEb3VoRGRjOFhiSjQ5ZU1OMEU5WF9HR1JIS2tJVFA4dk9ya0h0ZVJfaUtPSUdpQlBRY1dBT2FVUVNwZF9oU01CM0ZKLXNlcmRhUHJPNWRveTR2aE9nSkY2WFJEU1ZvWFlOVUFnWmJOeWJHR2NwRVJlVGJhQURRWU5FUDZKN2lR?oc=5",
-      "snippet": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say &nbsp;&nbsp; Politico Houthis warn airlines and passengers not to use Saudi Arabian airpo",
-      "pub": "Sat, 10 Oct 2026 23:58:00 GMT",
+      "title": "Danielle Smith's dream: A post-uncertainty Alberta - National Post",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTQ1Q0xZWDdmcE1yWmpsOWJNZzJXT0pMQTlkX1JjLVBGWWNjMEZNQkVvQWZOb0lyN0xENEZXT2Vibm11a25GdlBsWXdWSUo2RmtqWUpUZUJyN05LTl9UeFBTUE1GY2k1UzB2TjRqWkZaZHNhZ0dQZmVBa0hsN1Rha3A5b0s?oc=5",
+      "snippet": "Danielle Smith's dream: A post-uncertainty Alberta &nbsp;&nbsp; National Post Disappointed, angry, excited: Albertans weigh in on looming referendum &nbsp;&nbsp; CBC ‘I think they ",
+      "pub": "Sun, 11 Oct 2026 13:04:34 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Poland on alert amid possible attack on PM, defense minister - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTlmY1pvU0xmYWRqQ0d0RmJ6MlBKbmNNNHVyUU1jT3JvT2xGTmJZcHJKeHh1LVZzZVFuaVc5aW9IYlNIa3R4RUJseXE2SEhpVm1SakVvR1o3N0U3NWFrNXdzdzhhVFZFVkx6QzVaSUg1ekI1cUY0aU1XRHZqSWlzSXBWTlVaU2hfZFZRaG9Dc0pZRjc1cDhF0gGXAUFVX3lxTE81UVJPMU1pdGFYLWZnRl85SVNXb1pYaXVWTWJ6WlFRVUZudUR3YURSaTlQcnZKeTg3SnNlYVRZTjIxck0tQ0NSeWxPUlRGeXFoUV9Wd3lXRUVqdEt5d2VhZUc5VkVsdFFqTGNoNWZBTVRiS0RIeFVxMm52eURid3Z4RUZuV2M2ZEZ6VkdlVDNnbE8taDdTVlE?oc=5",
-      "snippet": "Poland on alert amid possible attack on PM, defense minister &nbsp;&nbsp; DW.com Poland's police warn of a possible plot to attack Prime Minister Donald Tusk &nbsp;&nbsp; CTV News ",
-      "pub": "Sun, 11 Oct 2026 10:50:57 GMT",
+      "title": "Saudi Arabia threatens 'decisive' response after Riyadh airport strike kills at least 12 - France 24",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2R4RTdtNzBfbkplbG5ySFFUVnVwODV0bUNFQ0dnRVhiaTZ6d0tzVFppeE9UN2g5MnZwWHRoaEVuNWdWZzlOc0JHWGx1OEdET0lhZzBYeElqamVYSW85X3p1RzZXdkktQUJIZ1BJcXZ4N1dKcFZWMHdhUXZUQ2pkZjE5bng5STlKdGc1ZksxYmlOV2pOVjd6UGZONDZMeEVwV3Q5MWRXUkF2VGNnUE5zUjktZVJTQzY2bHhMcQ?oc=5",
+      "snippet": "Saudi Arabia threatens 'decisive' response after Riyadh airport strike kills at least 12 &nbsp;&nbsp; France 24 Why are Houthi missiles breaking through Saudi Arabia’s air defences",
+      "pub": "Sun, 11 Oct 2026 06:21:50 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Christa Pike discharged from hospital after surviving execution attempt, attorney says - CBC",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV0ZvcVNJb0FUZTA3VzdpbzM4UWRCMFozZmd1bnJCdUQ0Y2RPeHJKY3FpVW1CWDF2SHpZanlfWVpQRm9vTF9BMzF3Y3hXV2o4dUpQMkNsZkNxcUZjbGU5eExCZURMWm4wcVN1blV6RFlNMFo2MEFZSTNnbHRrTGJqc2E2TlpkVkQyc0h5Y0stY3BYcWhRSGhiaVlZaVBuZw?oc=5",
-      "snippet": "Christa Pike discharged from hospital after surviving execution attempt, attorney says &nbsp;&nbsp; CBC US murderer Christa Pike discharged from hospital 10 days after failed execu",
-      "pub": "Sat, 10 Oct 2026 16:07:03 GMT",
+      "title": "Pope Leo announces he will undergo surgery to remove lung nodule - CNN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DbDlsNXRtTkhBbkI2cWJNcTZjbFgwYk8waENlTFY2RTlTcHdYU1RTX0RWeGZPN3h0YXhwTjZjcVZsRUg4TzVScDhxNTlYckhOMl9kbXBXcjNwM0JaU3RLZ3FKTjF1TmRPSWJjTElZbzE?oc=5",
+      "snippet": "Pope Leo announces he will undergo surgery to remove lung nodule &nbsp;&nbsp; CNN Pope Leo will undergo surgery to remove a nodule on his lung &nbsp;&nbsp; CBC Pope Leo XIV to Unde",
+      "pub": "Sun, 11 Oct 2026 10:58:33 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘Don’t take anything for granted’ when it comes to Quebec’s appetite for a referendum - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTEZmckF6VFFiYTlwZ2hoem9jenhlNHhlc0lMNkZkZTVMbllEdHZjR285eFVpZ3pzNFZXUGRfVl9IRWJWdWxROGpZR0pYYnRHY3ZwRDhROEt1Zk13STZBWU43Nm5SQjZsQU1QRUZsY1FPcEpLYkVmZFpmVzd3LWtMaHN1eVp4RnZrYnh2blJoellYN2NjdEdkM2doNHZSUTNYVjZ3Rm5kOEtuS0tM?oc=5",
-      "snippet": "‘Don’t take anything for granted’ when it comes to Quebec’s appetite for a referendum &nbsp;&nbsp; Montreal Gazette The Québec Election Result Is Worse Than You Think &nbsp;&nbsp; ",
-      "pub": "Sat, 10 Oct 2026 10:00:00 GMT",
+      "title": "Panama declares state of emergency as powerful quake aftershocks rattle communities - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPekF3LVhRR0lOeDFldGdzY0N2VE9aT01TSHBrVXdrdDNlNG9CQmNuVk1JNXZRT1U4S2FYcG9ieW8zSWVHUFpEVE5DN0JiemVTUEJzZ2cyMnhRemQtZ09UektfNE1rQW8zaVJGQ09SVjlBcjdLOTIwWm1DNU5lcUhNSHFB?oc=5",
+      "snippet": "Panama declares state of emergency as powerful quake aftershocks rattle communities &nbsp;&nbsp; CBC ‘We feel very abandoned’: Mother and daughter from Montreal among Canadians str",
+      "pub": "Sun, 11 Oct 2026 12:48:45 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Winds cause power outages for thousands, delay B.C. Ferries sailings - Vancouver Sun",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXzY4X2tnRm4yem5iYlRKV2pvbC1Vb3pHSEdiQnFPR2tVSjg3b0U4dHFXMzQ1OENrMkJZNm93MlhxSldzQnYtaVdwLUFMUDd0SW9vRmNoMTdvalhGMHdyRi1PeHdyTldSTnNWMVF5RS1WMFRZM0lqY0gxZ3dXOVdaWjVwUHVkNEJUaG5BZHRmRFljUnRscEhPSmY2YlFXUQ?oc=5",
-      "snippet": "Winds cause power outages for thousands, delay B.C. Ferries sailings &nbsp;&nbsp; Vancouver Sun See more headlines & perspectives on Google News",
-      "pub": "Sat, 10 Oct 2026 00:39:32 GMT",
+      "title": "Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTZRT0ZmMlNPd21VeXR3bnZsY1kxZ1dSWWlfbWhLU3N0ZmtmWDFhN3VJTzI4NXM5NFpaejlEMkhQTldwaVJyb1JtUWJZcUxGRXhmd2NuQ3RackFvN2pldXhjcVNSeUVnY3NJSDdXZnktR0gzVG1mOXhFaC1FWllWUlduQ0dmcDAxY185dmtyWlh6djJRQmtSOVJVRXJRWXfSAaQBQVVfeXFMTnpqYjJaZldEamhZcUxqb0llRkVUQzl0THREZlR1TE1YcTRXakxTU2xLTWJMVU91MXVxQUVyNjR4ODJVc1NQRXVqMS1xME5rZGF6dkFmTEE4WGZRTEtMbF83cUpuaktFT1B6b2diLVZxRWxWQ25uM01vZnJkckpvbnBwTWF6NE1XbUN3SHNXWGxodWs4T25xcjZBak9tOUZmVFdpazY?oc=5",
+      "snippet": "Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub &nbsp;&nbsp; CNBC Ukraine's Zelenskiy tells ABC he will organize elections if Russia a",
+      "pub": "Sun, 11 Oct 2026 10:37:13 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Could Quebec's new government derail plans for Alto's high-speed train project? - CBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03RExNa0tvdE03QVlXcUI4MWhGYm9LWTVaR182dnA0bTlVR21FamlzQk9SRlhvSDROWDhmNEQycVlldEpCV2JnTlR6YUQ1aV9pd2pKSklxZHJ2THVDYW9IX0ppZERaME5QM0dtT2hzcXJ0bU1qMnZXYw?oc=5",
-      "snippet": "Could Quebec's new government derail plans for Alto's high-speed train project? &nbsp;&nbsp; CBC Kingston city council candidates weigh in on the high-speed rail proposal &nbsp;&nb",
-      "pub": "Sat, 10 Oct 2026 08:00:00 GMT",
+      "title": "Age, speed limits for e-scooters and other personal electric vehicles hitting Manitoba roads next year - CBC",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVlFsVDZPVXFWbk9xOUFrLWxhWW84dVk0Z0xuVXRwcTRzTzdQSnoyejdDTHZWSlhsc3NqcEd3X3UzRUp6VFlPZk1HcG00bmwwODBQZWJTc0dOZEhBa01TWmVNZ3ltcktFOHpJZ05BemtmOHpiX1hTTlFxdWYtY1hva09LeWJiMHptU1g1ZVVkY2JsaE5u?oc=5",
+      "snippet": "Age, speed limits for e-scooters and other personal electric vehicles hitting Manitoba roads next year &nbsp;&nbsp; CBC",
+      "pub": "Sat, 10 Oct 2026 21:19:10 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Conservatives vote with Liberals as Bill C-39 heads to committee - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNERrT01WbjNnT3hILUllOC1SLTZaeTNfSVZzM0F6Uy13MmhuLVNwcG02YTR3V0Z0dGc0Y1V2dG52eDdVX3V4ektvRVNsUTJ6MHl4Z1pSNDIxeG5DRjd0bVozbjVrQWtpeVpJdEhjclUxQWxiSUF2dzNyUEdheGd3RmJNZkZveW5WTGgzajlCd3BaYWpPQV9QSEtmMzFlRUFWeVZ3?oc=5",
-      "snippet": "Conservatives vote with Liberals as Bill C-39 heads to committee &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Thu, 08 Oct 2026 21:16:50 GMT",
+      "title": "Parti Québécois leader asks caucus to stay ready for next election after minority win - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLS1aZUFkc3JsV21DUWZac1IyN2tucE9qYUhyZjJvTHl6RUtoY0EzYzBOcWNoU2RSSlF5ZENqVXN4dVF5RXVsOEFpOEMtLTgwbDBhQkVDa0hMTkd0OEJFaEVSX2QwODN5RU0tbEJmMEFnd0hwLWRSVnowS3YzdDdKV1Q5TDZtSHFnUFRUNXJmSGxHZ045Y09aVldraEtnd2ZUcnJUYXJWRmJxUDBfQzY0UFJzU3I0U0FlMEMxNWRSckZJN1dE?oc=5",
+      "snippet": "Parti Québécois leader asks caucus to stay ready for next election after minority win &nbsp;&nbsp; CTV News Kelly McParland: The PQ should be embarrassed by election outcome &nbsp;",
+      "pub": "Sat, 10 Oct 2026 16:13:42 GMT",
       "image": ""
     }
   ],
