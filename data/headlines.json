@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-10-19T04:59:42.710328+00:00",
+  "generated_at": "2026-10-19T10:35:13.155303+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Tourism Sector Pleased with Return of New York Direct Flight",
+      "link": "https://vocm.com/2026/10/19/tourism-sector-pleased-with-return-of-new-york-direct-flight/",
+      "snippet": "People in the tourism and hospitality sector are welcoming news that the skies over Newfoundland and Labrador are opening up with seasonal non-stop ac...",
+      "pub": "Mon, 19 Oct 2026 10:13:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/united.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Weekend Limeville Protest Halted, Rally Set for November",
+      "link": "https://vocm.com/2026/10/19/313697/",
+      "snippet": "Weather got in the way of a protest in St. John's Saturday afternoon but people against turning a park-like area of the Battery into a residential dev...",
+      "pub": "Mon, 19 Oct 2026 09:39:47 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/limevilleprotest.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Incoming RNCA President Supports Body Cameras for Officers",
+      "link": "https://vocm.com/2026/10/19/incoming-rnca-president-supports-body-cameras-for-officers/",
+      "snippet": "The new President of the Royal Newfoundland Constabulary Association supports greater use of body cams for officers to help document interactions and ...",
+      "pub": "Mon, 19 Oct 2026 09:14:31 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/11/rcmp-body-cam.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "NL’s Net Debt Per Person Remains Among Highest in Canada, According to PAC Report",
+      "link": "https://vocm.com/2026/10/19/313692/",
+      "snippet": "The Public Accounts Committee, the group of politicians which keeps an eye on the province's finances, says that because of government debt, the amoun...",
+      "pub": "Mon, 19 Oct 2026 08:56:06 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/confed-confederation-building-st-johns-provincial-government.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Work to Begin on Twinning TCH in Central",
+      "link": "https://vocm.com/2026/10/19/313684/",
+      "snippet": "The next step in twinning a stretch of the TCH in central Newfoundland has begun, but there's still no specific timeline for construction. Government ...",
+      "pub": "Mon, 19 Oct 2026 08:40:38 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/gfw-divided-highway.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Newfoundland MP Writes Premier Asking for Churchill Falls Referendum",
+      "link": "https://vocm.com/2026/10/19/newfoundland-mp-writes-premier-asking-for-churchill-falls/",
+      "snippet": "The Conservative MP for the Eastern Peninsulas has written to Premier Tony Wakeham, asking him to reconsider his decision not to hold a public referen...",
+      "pub": "Mon, 19 Oct 2026 08:30:23 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/jonathan-rowe-the-eastern-peninsulas.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "October 18, 2026 – Would you support government investing in body cams for police officers?",
+      "link": "https://vocm.com/2026/10/19/october-18-2026-would-you-support-government-investing-in-body-cams-for-police-officers/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13599').",
+      "pub": "Mon, 19 Oct 2026 07:30:06 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/11/rcmp-body-cam.png"
+    },
     {
       "source": "VOCM",
       "title": "TechNL Summit Brings Province’s Tech Leaders Together",
@@ -11,83 +67,27 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/10/technl-innovation-week.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "St. Anthony Port Project Cleared from Environmental Assessment",
-      "link": "https://vocm.com/2026/10/18/313622/",
-      "snippet": "Great Northern Port Incorporated has had the resubmission of its proposed Marine Port Development just outside St. Anthony released from the Environme...",
-      "pub": "Sun, 18 Oct 2026 17:43:37 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/cremaillere-harbour-via-gnp-project.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "‘Major’ Northpine Announcement Coming to Bell Island",
-      "link": "https://vocm.com/2026/10/18/313612/",
-      "snippet": "The Northpine Foundation will be on Bell Island tomorrow for an announcement it says will mark a \"major milestone\" in their future. In July, it was re...",
-      "pub": "Sun, 18 Oct 2026 17:16:44 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/06/Bell-Island.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Heat Pump Industry Ready for New Rebate Programs",
-      "link": "https://vocm.com/2026/10/18/313620/",
-      "snippet": "A local company says it is ready for increased demand for heat pump and mini-split installations in homes. Federal Environment Minister Julie Dabrusin...",
-      "pub": "Sun, 18 Oct 2026 15:31:21 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/quilt-heat-pump.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Milestone Cape to Cabot Race in the Books",
-      "link": "https://vocm.com/2026/10/18/20th-annual-cape-to-cabot-race/",
-      "snippet": "It was a windy one for the 20th annual Cape to Cabot race on Sunday, but that didn't stop the runners who took on the challenging trek from the most e...",
-      "pub": "Sun, 18 Oct 2026 15:23:18 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/cape-to-cabot-feature-photo.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Energy Minister Confident Churchill Falls Deal Will Stay on Track",
-      "link": "https://vocm.com/2026/10/18/energy-minister-confident-churchill-falls-deal-will-stay-on-track/",
-      "snippet": "The federal energy minister believes any assertion that a disagreement between the provincial government and Innu Nation could delay the Churchill Fal...",
-      "pub": "Sun, 18 Oct 2026 15:06:44 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/tim-hodgson.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Fishing Boat Breaks Apart; All Hands Aboard Safe",
-      "link": "https://vocm.com/2026/10/18/fishing-boat-breaks-apart-all-hands-aboard-safe/",
-      "snippet": "It was a harrowing Saturday for the crew of a fishing boat off the Avalon Peninsula when their vessel began taking on water. They were rescued but the...",
-      "pub": "Sun, 18 Oct 2026 14:39:31 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/fv-high-roller-ma.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Water Advisory Continues at 5 Wing Goose Bay",
-      "link": "https://vocm.com/2026/10/18/313610/",
-      "snippet": "A boil water advisory remains in effect at 5 Wing Goose Bay. The directive, issued in September because of cloudiness in the water, has been extended ...",
-      "pub": "Sun, 18 Oct 2026 14:13:19 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/06/5-wing-goose-bay.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "What happened at CFB Wainwright? 4 soldiers dead, 39 wounded. Here are the confirmed facts. - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXJEYVp5LUw5QTNYYkFEWnVMRlRWSW1TQ2czUUNqR0NtNFFjSGFlVUMwU1lVeXF3b29UX1JubjhrR1JBZHBLR2RJbFJCSkFWUFZ3LTAtTnNsbXdYS2prZElFcW1hTjluNEhyRTFDQWlUZHJBOC1JSFlpOUM3cUhvUUtxVDhSWUJ2SlBORnJ6bEQ4MU1IVjctWlp3VFEtcnJKQ2cwYkFqTmRDajkyeno2UlhlTzBXQkhPMzhWMDNsbnk0QXdYb2lv?oc=5",
-      "snippet": "What happened at CFB Wainwright? 4 soldiers dead, 39 wounded. Here are the confirmed facts. &nbsp;&nbsp; CTV News Casualties arrive at hospital after 'serious incident' at CFB Wain",
-      "pub": "Mon, 19 Oct 2026 02:10:00 GMT",
+      "title": "Canadians mourning after fire kills 4 service members at CFB Wainwright - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90ZXBfb1h4Z2dQcVdSanVNZnZ5Nk1mR2lLamJVNEZyX21rb1BocFh1MERScEFyeHRhVkdEc3d2R0hxeVdLZ0xZZXJzb0VuT1NtdzhlRVJPN3AzZHVXRkduQVkzVFlHV1YzTC1tbXV2SjlQaThUSjd3aDhB?oc=5",
+      "snippet": "Canadians mourning after fire kills 4 service members at CFB Wainwright &nbsp;&nbsp; CBC Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds' &nbsp;&nbsp; BB",
+      "pub": "Mon, 19 Oct 2026 01:24:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "French 'lycée' protests spread to Quebec as Montreal students take to streets in solidarity - CBC",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2Qwdzlud2FrWXdpVlVhQlFIUV9ya2o3djEwTElSNndyd3BJNXc0SVh3cFQ1SHpqbFZlbmktME9LcUMtam0tdkVlN0ItY3dxMFN0MHVUUFBiOFJpZHRiYlZnV2drVFU2UEZ4VVJQMXdoc0taZWN6Vm5TdzE0Y1JhSHhOU29SVHAtYVFZZzFQczNEcDlWNHNkaA?oc=5",
-      "snippet": "French 'lycée' protests spread to Quebec as Montreal students take to streets in solidarity &nbsp;&nbsp; CBC Macron calls for calm in France and warns rioting must not escalate &nb",
-      "pub": "Sun, 18 Oct 2026 19:25:58 GMT",
+      "title": "Mark Carney opens door to constitutional change as Alberta heads to referendum - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZG9QejNsMGJJSElnVWNzUzc4eUhGci1sZmtjcHgyU0tFd2ZtaXRiNHhPa2EtSjJVZVRHeUJROUxQWmRNXzlHSUlaWDBJWTQ0Yy1EaEh2RmRfWkViMThxNHA2ZllVcUV1WEJBbTQ0UWp2UWRmZHRMUVM0TjY5a2RTTGNkYXJKYk5rUWUxRFE4ZkVfSFRaMUlvb0lKck53TlptSndQRmZTOVg2TFo4Wmp1Z1hWajZZa3AwT2NwdzByd2syUVM5V2lSRDNhTlFJV05BWGUtZFUxWERqYzhRUDgxQ243X2Z0Ulh2Z0N5SWZieWFWQ3k0UGNN?oc=5",
+      "snippet": "Mark Carney opens door to constitutional change as Alberta heads to referendum &nbsp;&nbsp; Toronto Star Alberta heads to polls to decide whether to hold vote on separation from Ca",
+      "pub": "Sun, 18 Oct 2026 23:15:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Alberta independence referendum: Will separatists survive a loss? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSTJjdmtzcGpqa3kxUV8xaWlRN19aLWhzS3h6UDFRMGt3SmkzMWNwdV9VWWxRdFBWbl81SDIxckpBbG5GVTVVZXNCZ3JjYW5weTcwbk5HSjNudjhDTGl1ZUNJQVpNOHdQT3hfM29haDNCS3VuOUdrN0NtLThjQ1haeXpTVUFMVkxYT2FLbzNNN2hyZGNCcVR5VUJTcmxMZXlXYzZ4bVJaVVTSAa4BQVVfeXFMT1o4NVFESlVLT3dqVUE5VmtWcGhINndFSUhJcW1OVjBjdXlKWnhlRUJtOGo0RnZiOHdXdkgxUUNJQ2t5cDluMmI3aDhXQnhCSy13TlJPZFotYlBlVFN5dGpBRVVTaXU3RWNPb1kwU1ZqZ3ZoUDRVaW1mSnFKNEY1dFJnUHJrdlQyVTZwYjRvMEFzcmI4VXdId293ZDkxR2stUmhmbWZIdms1ZHoyQ2RB?oc=5",
-      "snippet": "Alberta independence referendum: Will separatists survive a loss? &nbsp;&nbsp; Al Jazeera 1.3M votes cast in referendum advance polls: Elections Alberta &nbsp;&nbsp; Global News Al",
-      "pub": "Sun, 18 Oct 2026 21:56:35 GMT",
+      "title": "Looting and buildings ablaze: France's violent Saturday protests in 10 pictures - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0VjY095cC1VSGwxZ09CY082ak5DaThpcHAwelNtRTdJa3RCRjBEXzN6cVBvVmZqZzdPVUdqczlJTkwyX19fUWthakpmV2FMZ1NGdXM3dXNzSm9aazZYWkE1QUdYRDBaaWtjTDhZMzc0VTcxMHhpZ1BxaU9wekh3RkZvYkhJN040WEVRNEdtdk1OOF9wNkdzZUpUdWhJSlVtTzQxRUZVT3FzVTY5SWJVMUM0cw?oc=5",
+      "snippet": "Looting and buildings ablaze: France's violent Saturday protests in 10 pictures &nbsp;&nbsp; Euronews.com France reels from weekend of chaos as violence spreads across Europe &nbsp",
+      "pub": "Sun, 18 Oct 2026 10:02:22 GMT",
       "image": ""
     },
     {
@@ -100,34 +100,34 @@
     },
     {
       "source": "Google News Canada",
-      "title": "McGill University reviewing protocols after convicted murderer found to be studying on campus - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMmpuNGhCZXVPcC0zUHozY3BUV0lkckdFMTlFMTZuTDJVc2JHZTFnOGFKYURUWXFsSGcwS1hhWDVEbVdsOXJHOHJZRzVXeXAxeDFrMEdaY1dCTnlqeF9ZTk5jeHRNaERleElPSDBhM3hUeGc2YnNJNm11WmN0a21HbUhJTG5BVm1ZMXVuLXdEaUlkMGpSM1ozM29ic0pfOVVZTkpvYzJQTkF0TGVMMzh4OE8ySmRPeWpicFdMcVcyUm1yRk1JRDNDLWNpcjJ0WG8?oc=5",
-      "snippet": "McGill University reviewing protocols after convicted murderer found to be studying on campus &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Sat, 17 Oct 2026 19:25:05 GMT",
+      "title": "Abdul El-Sayed Clashes With Voter On Muslim Brotherhood Question - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRG1Nb096b1F2cVlpTElkV3ZiYXJaNlBsekhJRk80QXU3cnVxYURGOUZKVVNuWjQ2WnRhWVI2SXNsR1N6ZW9QT2FZUUFOUVdObGFZclpiZ1JHRW4xSHJ1NnBNeER1SEZQY212OElaVVIyR05MbDlSUHlHbF9VUWVFMVZnMFpnZ1BQQ3JSMmdoMmNnU2hHdlkzWUNRd1MzRzQ?oc=5",
+      "snippet": "Abdul El-Sayed Clashes With Voter On Muslim Brotherhood Question &nbsp;&nbsp; Newsweek El-Sayed’s exchange over Muslim Brotherhood stirs inspiration, condemnation &nbsp;&nbsp; The ",
+      "pub": "Sun, 18 Oct 2026 13:42:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "B.C. Municipal Election: 5 takeaways after a tough night for incumbent mayors - Vancouver Sun",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVWd0cmJHeWdEbG0zdlE4REVWSlNUdFU3TmNnWkNIdW9pMG5FWmJ2REoyVUJsWl9QcHVOUU5xOThZeEpkRkJTR3plckVpY1ZSSF9KQkN6cFkzNTBBOXlwb3V4OFZNSE1HQkRobnVRU0VWQ2JHMmRlcHVVbG1zUHVlOHQ1YlpIUQ?oc=5",
-      "snippet": "B.C. Municipal Election: 5 takeaways after a tough night for incumbent mayors &nbsp;&nbsp; Vancouver Sun B.C. municipal election 2026: Results, ridings and candidates &nbsp;&nbsp; ",
+      "snippet": "B.C. Municipal Election: 5 takeaways after a tough night for incumbent mayors &nbsp;&nbsp; Vancouver Sun New mayors elected in B.C.'s largest cities, including Vancouver and Surrey",
       "pub": "Sun, 18 Oct 2026 08:39:33 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Doug McCallum's Safe Surrey Coalition wins supermajority in City Council - Daily Hive",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVG1lU0JKNTRlalMwMFB5ZC1HWUJLWC1SYUxnLWJrb0t6OS1SVUNFYlV2RTFxbElvVmNlRW5kY2hhZXJBMGxZVU12OTNkckZYeGJVNnBVYmhmRGd3VWpDVTZvamRqYk1LS2RhOFZVd3NyYjNvZnNxUXZfUE1XdWJRRUJRd2hwRTFKVVl0TVNvUUJmdmNHdGFjZjNQNlRtRFpxRWl3U1FMSWVRTm5YNUE?oc=5",
-      "snippet": "Doug McCallum's Safe Surrey Coalition wins supermajority in City Council &nbsp;&nbsp; Daily Hive Doug McCallum projected to reclaim Surrey mayor’s office as Brenda Locke concedes &",
-      "pub": "Sun, 18 Oct 2026 19:38:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "B.C. Conservatives promise to shrink deficit to $10.8B while adding $2.6B in revenue - CBC",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa0YxenJXel85OG05dEd4RTNObmpiX2I4ZnFmN3pEQ29qclBINEFFNFd6TFhmWm4yOU5XdTRKNFNZdnR6SHlRbWJPaE1qcF9nRmh0dkFNajFWZ1NtRkNnekx3SWkyLU1pb2tsMUtkVXZFbC1UZzRDOTVzbkxMdUhRTlpMOFhXenNjUzVLcVJRN3hvdDNHMmM4YUVXMF9DUjRHdHc?oc=5",
-      "snippet": "B.C. Conservatives promise to shrink deficit to $10.8B while adding $2.6B in revenue &nbsp;&nbsp; CBC Costed B.C. Conservative platform promises $2.6 B in growth, $10.8B deficit &n",
+      "snippet": "B.C. Conservatives promise to shrink deficit to $10.8B while adding $2.6B in revenue &nbsp;&nbsp; CBC Fully costed BC Conservative platform coming Sunday, Doerkson promises in Delt",
       "pub": "Mon, 19 Oct 2026 01:42:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Alberta’s only federal minister says Ottawa ‘already engaged’ in immigration autonomy talks with province - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTnpmU3ptaDBGSU5nT0JydUZmdURjcnNFRThIX3gtaEY1NW9PXzBPNG5jektxX2M1dzF0ejVlNjY1ekJUMUQ4X1NzUTRHeENzcEVHRGFHelBBVVo1MWZoT25jbzRkOW8yR1ExMElOUlVGX1hDOGtZbEhxNHdvREc0S2RDc25NWFN3SkJYdzhkcTlBaW9SMG9FMVRvOVM1dFc2TklJMXctNFNZcmJfOW91U3pzYjlkcDY1Q2VRNzk0NGMzUWx0RlU5LW9EcWpuNHVHZ1VOeC01d0ZlWWlWMHF6dzJSdVl1Qk1jejE4UUpLNWx3Zw?oc=5",
+      "snippet": "Alberta’s only federal minister says Ottawa ‘already engaged’ in immigration autonomy talks with province &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
+      "pub": "Sun, 18 Oct 2026 09:00:00 GMT",
       "image": ""
     }
   ],
