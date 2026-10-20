@@ -1,137 +1,74 @@
 {
-  "generated_at": "2026-10-20T10:41:43.857581+00:00",
-  "count": 16,
+  "generated_at": "2026-10-20T15:29:23.231939+00:00",
+  "count": 8,
   "items": [
     {
-      "source": "VOCM",
-      "title": "Work Continues to Get Baltic III to Shore Before Winter",
-      "link": "https://vocm.com/2026/10/20/313798/",
-      "snippet": "A big portion of what's left of the bulk carrier Baltic III is now on land as the salvage operation in Cedar Cove comes another step closer to wrappin...",
-      "pub": "Tue, 20 Oct 2026 10:23:09 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/baltic-iii-october-16-2026.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Driver Charged with Impaired After Hitting Several Vehicles in Gander Parking Lot",
-      "link": "https://vocm.com/2026/10/20/driver-charged-with-impaired-after-hitting-several-vehicles-in-gander-parking-lot/",
-      "snippet": "A 26-year-old man was arrested for impaired after RCMP in Gander received reports of a driver colliding with parked vehicles early Saturday morning. P...",
-      "pub": "Tue, 20 Oct 2026 09:59:47 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/04/rcmp-logo-stock-police-cop-royal-canadian-mounted-police-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "$23M Set Aside for Water and Sewer Upgrades Throughout Province",
-      "link": "https://vocm.com/2026/10/20/23m-set-aside-for-water-and-sewer-upgrades-throughout-province/",
-      "snippet": "Over $23-million has been set aside from all three levels of government for water and sewer upgrades throughout the province. The funding was announce...",
-      "pub": "Tue, 20 Oct 2026 09:38:47 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/city-of-mount-pearl-water-and-sewer-funding-ottawa-government-of-nl.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Labrador MP Remembers Accomplished Aviator",
-      "link": "https://vocm.com/2026/10/20/labrador-mp-remembers-accomplished-aviator/",
-      "snippet": "The MP for Labrador is sharing his condolences on the passing of a well-known and respected resident of Charlottetown. Captain Tony Powell, who enjoye...",
-      "pub": "Tue, 20 Oct 2026 09:12:25 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/captain-tony-powell.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Record-High Oil Revenue Putting Sizable Dent in Province’s Deficit",
-      "link": "https://vocm.com/2026/10/20/record-high-oil-revenue-putting-sizable-dent-in-province/",
-      "snippet": "Increased oil revenue has helped to slice the province's deficit nearly in half. The provincial government projected a deficit of $729 million in the ...",
-      "pub": "Tue, 20 Oct 2026 08:58:59 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/confederation-building-blue-sky.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Team Gushue Highway Extension Opening ‘Soon’",
-      "link": "https://vocm.com/2026/10/20/team-gushue-highway-extension-opening-soon/",
-      "snippet": "The provincial government will soon be ready to open the new extension to the Team Gushue Highway. The final leg of the project, which connects the hi...",
-      "pub": "Tue, 20 Oct 2026 08:43:00 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/team-gushue-highway-extension-final-phase-construction-sign.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Driver Clocked Doing 50 km/h Over Posted Limit Near Gander",
-      "link": "https://vocm.com/2026/10/20/drive-clocked-doing-50-km-h-over-posted-limit-near-gander/",
-      "snippet": "RCMP have ticketed a man who they say was flying down the highway near Gander. The vehicle was pulled over just after 2:00 Monday morning after office...",
-      "pub": "Tue, 20 Oct 2026 08:36:02 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/10/rcmp-police-stock-17.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Alberta Votes Against Referendum to Separate from Canada",
-      "link": "https://vocm.com/2026/10/20/alberta-votes-against-referendum-to-separate-from-canada/",
-      "snippet": "The majority of Albertans have voted to reject a referendum on separation from Canada. The final tally has yet to be completed, however an overwhelmin...",
-      "pub": "Tue, 20 Oct 2026 08:31:14 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/10/Alberta-flag.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Alberta votes to stay in Canada, CBC News projects. Here's how the referendum is unfolding - CBC",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmtYSHRtd09SNWxfWldranNscF9DZnFhVkpXSk1uQnRMQ193RTk5ZWEtc2M2UGRBNm1Ja3djbFVuV0tXQ1Z2TnktbFBWTndVUWcwREZNZHFZaUVIVVVpRDN3clQ2aklHS0lESlR3SEdlVEpPMjhEQTRObjN6dEFzVW1IZnctRU12SFR4ODFQSnc0Q1lRX0s1VjFPZGRzQTNfYUluNHhOU2l4elF4bXFUYzhQZWNXMXRnNWROcWVHYW03c3FV?oc=5",
-      "snippet": "Alberta votes to stay in Canada, CBC News projects. Here's how the referendum is unfolding &nbsp;&nbsp; CBC Albertans support staying in Canada, oppose separation referendum, CTV N",
-      "pub": "Tue, 20 Oct 2026 10:32:34 GMT",
+      "title": "Alberta rejects a move toward independence from Canada in a victory for Carney - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNam5EME1Qam5lQmc2X3BhcDgzXzdMaWJLa1V2akVCc0c2dnJlZmo4bjZ5NEdXZmMxNHp6d1kxV3hEY2QwbkZraktnS1V5a3ItMUFvZmlxb0daZUppSHdqdjBvdUNrNVNueGo0TlROS21OeGl4OTBwM0RlanJuT2pGZjllNWxHMS0wOVFtRV9DOHA0TzZWbkotTGJXMzJHcjJFOHVFbkhnOUk?oc=5",
+      "snippet": "Alberta rejects a move toward independence from Canada in a victory for Carney &nbsp;&nbsp; AP News After decisive defeat, Alberta separatists turn their attention to Smith and the",
+      "pub": "Tue, 20 Oct 2026 13:42:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "How Vancouver’s mayor-elect plans to tackle housing, street disorder - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGc0UFZQX2JqNVVpd09OSDJ0OEVjT0V3U0JaMXVkQ3NlNGxiT3VlNndlcHJ0UzNBRE1rZGdJQ1FQTEdhcDFGeXAwU2ZuM2ZVVVBIcnY5d3U1b3c4TEtQbGF1eVBnanhfV0E5MFZHUmhjc0RYU1hQeWZMWlZVSFA5Z0h1UGt2M1lrMXQ5TFpZdk9IUGN6SlkteTNUdko3UEwxQXVNT1NXLWpCU3RT?oc=5",
-      "snippet": "How Vancouver’s mayor-elect plans to tackle housing, street disorder &nbsp;&nbsp; CTV News Pete Fry’s plans for Vancouver businesses: 6 promises &nbsp;&nbsp; BCBusiness FIRST READI",
-      "pub": "Mon, 19 Oct 2026 23:31:39 GMT",
+      "title": "Lieutenant-governor will skip Quebec cabinet's swearing-in at incoming premier's request - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3N1OWFvbDRJdkd1WmFiZFZRaEEyYXFOd0JqNFVvVW92MklXLWhmU3NSaEZNUm9NN0hCaENhUmxOc1d4UFFFeGhpT2xlMDNMZnFhcHBVczR6NG9TNUs0b0xueXl3MWU1b2VkWlFMTWRBeTJwbEFVSjRISlpZYWFieA?oc=5",
+      "snippet": "Lieutenant-governor will skip Quebec cabinet's swearing-in at incoming premier's request &nbsp;&nbsp; CBC Globe editorial: Memo to the PQ: The Constitution is not a menu &nbsp;&nbs",
+      "pub": "Tue, 20 Oct 2026 14:09:37 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "B.C. soldier who died at CFB Wainwright ‘loved his army family’, mom says - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ1U3RkJ4TWg2c003ZkViVU5uaHBEYkp0N19nZzFxVzBEVC1LaVJxeGxCLUxjMUxad0lRMmdkSHVKNUtQamVLcVVKVXlkbGNhOVhEczY4eW4tNW8wT0I2QU9yaFdLczROOFZfSXdkV3hieVJ1N2ZSWGNzcHIxUDRTRE1Vd29PdGFnVXNxaHZR?oc=5",
-      "snippet": "B.C. soldier who died at CFB Wainwright ‘loved his army family’, mom says &nbsp;&nbsp; Global News Conditions for wildfire were 'extreme' at Wainwright Saturday, experts say &nbsp;",
-      "pub": "Tue, 20 Oct 2026 03:02:43 GMT",
+      "title": "Exclusive poll shows Chow’s lead over Bradford now within margin or error - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWXhWWXdBOE9PSnlXMVdmUkdqREhhTEJmc19lYTRubW1aV2ptX1hmalNsSDdpeDRDQTgwRzZGWUljRGN1OGxfaWFaUVB4bGhWa1VfanNhVDJscU1NQU9pS0VpVXB0SWt4Wm5DZGo4eFNoMjY5RjRHMzBSTmZwNGtvR1hLTE9xOXkwSW1famZDMzhLQzQwTlBSUXhsYXJWWGF5S3VsdnF0cjZUWXdjdGZqa2RsNFlaRDU4ZGZpNkgxTGNJZ3FyQ0V6ano3bDN1dWtTLW1QVTJyWWI4VElfWHpDZmwwMHhOOGNoOWdBdmhjYnpLUQ?oc=5",
+      "snippet": "Exclusive poll shows Chow’s lead over Bradford now within margin or error &nbsp;&nbsp; CTV News Bradford takes narrow lead over Chow in Toronto mayoral race: poll &nbsp;&nbsp; City",
+      "pub": "Tue, 20 Oct 2026 11:14:12 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war' - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFJnZjhpc0RSeEJycTlra3BHZkZGQ3ZKSEhoRDN5R19wQldCSTQ1TUp5OHlMYXd2WFBKOTZSVldpV2h6Sm5xOWZpRWt1M3h3WHVaT1o5dThXWkQ2cm05WkdOZk91a3NETjNRbUtVdjFSOVVpMldfVVN4dnpLTDBTSjhSb2hlbHhFaE8yN1psZ2wycTI3eFczRjhraHJGQjVMUVR4UjVOUnV6TWPSAasBQVVfeXFMTUlrMGRUcmpXVVlUYzZKZ1NkdEZZSFYxQkZVYUt5WHQ4WGZkdm4ycUk1MzE3Q2E1WUJiTF80MTEydklJMXNOdk5RWmpVc290QXJyVmduOHN2NUVuOUVUeENPLXEtQklrWFBjbkxFYWsxU2Q5UFlsQnV0RlBlUHF3U2xHRUJvcGxWd3pRQnB4TGlfZ2JobXdUc0VVWFQyNzJDTUFwNjZzeUU1Mmww?oc=5",
-      "snippet": "Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war' &nbsp;&nbsp; DW.com Trump slams Zelensky after Ukraine defies US president with major attack on Russia",
+      "snippet": "Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war' &nbsp;&nbsp; DW.com Trump’s Push for Deals With Russia Powers His Frustration With Ukraine &nbsp;&nbsp",
       "pub": "Mon, 19 Oct 2026 05:46:59 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "7 wards to watch this municipal election - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMTlCczBNUkFNam5YcmZxWEE5M1VwanBXTGo1ZEUxZ2ZBNVczWlVTbGhvdDl3ZjJsOWY3QW85VkhhQ1c3MHJlTWU2am5KMUFvenBwck9wTFA0YXVMU0tDOEd2bnc0YmlyRmxubWFLY002azI5VW1WalNRSjRyamdYVkJKZmJEYVpoemdleEVzLUI3Zw?oc=5",
-      "snippet": "7 wards to watch this municipal election &nbsp;&nbsp; CBC Roundup: What you may have missed in the municipal election campaign last week &nbsp;&nbsp; Yahoo News Canada Here is how ",
-      "pub": "Mon, 19 Oct 2026 22:58:31 GMT",
+      "title": "'Fear in their faces': Firefighter recalls rescue mission at CFB Wainwright fatal fire scene - Calgary Herald",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLV8xU0FoTGRsRjRrY3lKQVhLNVNZYlBYZURBX01rT1VkT1Rjd21vYWhyVEdfVXZZYWt0QmxrOTZBS3ZBYzVBdjRkbURLU21LQlFjS0lPNGZfcE1FLVRiRTZDX2V5OGRUcFYzNFkxci1ibzdKWXhBMzZMc19pWmZJVWNnYVFhdWNURFdn?oc=5",
+      "snippet": "'Fear in their faces': Firefighter recalls rescue mission at CFB Wainwright fatal fire scene &nbsp;&nbsp; Calgary Herald In just minutes, tiny Wainwright hospital became scene of h",
+      "pub": "Mon, 19 Oct 2026 22:06:43 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Australian MP Helen Haines in critical condition after deliberate vehicle attack, prime minister says - CBC",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWTWhsSkg4RmVfUHA4T1FYQVBzREpUYXMtRzliMVlQRElGTDNPRGxFYUVBczZsVDZWUW5ZVUNHd2I2em5CS1BCMWJ3MWg5endVRmc3Wk50WFVLa2pIeGUyazRvdU5PMjlJMzJZYmJHY3Q?oc=5",
-      "snippet": "Australian MP Helen Haines in critical condition after deliberate vehicle attack, prime minister says &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Mon, 19 Oct 2026 22:34:56 GMT",
+      "title": "How Vancouver’s mayor-elect plans to tackle housing, street disorder - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGc0UFZQX2JqNVVpd09OSDJ0OEVjT0V3U0JaMXVkQ3NlNGxiT3VlNndlcHJ0UzNBRE1rZGdJQ1FQTEdhcDFGeXAwU2ZuM2ZVVVBIcnY5d3U1b3c4TEtQbGF1eVBnanhfV0E5MFZHUmhjc0RYU1hQeWZMWlZVSFA5Z0h1UGt2M1lrMXQ5TFpZdk9IUGN6SlkteTNUdko3UEwxQXVNT1NXLWpCU3RT?oc=5",
+      "snippet": "How Vancouver’s mayor-elect plans to tackle housing, street disorder &nbsp;&nbsp; CTV News Pete Fry’s plans for Vancouver businesses: 6 promises &nbsp;&nbsp; BCBusiness Dan Fumano:",
+      "pub": "Mon, 19 Oct 2026 23:31:39 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "A contractor left this Scarborough man without a roof. His insurance company is denying his claim - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNnFiSGFkV3ozSWY2THAtYU55VDB3YWtROFBFMWVzYUU4RUd4Y1pwZmptRkc5cFd5ckZROGZoaTBuOEMzZHVYSHl1SUpwWUFxbm12M0c4TFFoa0t2UTF6bXpza25zQXNwZHVIM185MU1NMjE2ejY5YTc2MENoUFUtNkVjMGRTdw?oc=5",
-      "snippet": "A contractor left this Scarborough man without a roof. His insurance company is denying his claim &nbsp;&nbsp; CBC",
-      "pub": "Tue, 20 Oct 2026 08:00:00 GMT",
+      "title": "'How hard could it be?': Kelowna candidate with viral signs gets elected - CBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd0dvLVZ1VFFXSHhTS1dObVdONjE1Rlk0endaRmRrOTJ4NTRrcTM2eDE4a2RmUjg5MTM4UjBCZkJDM05BTzdxMXNrZ2hiYmJYaWVtSElVUUU3M3NVNkhNWE4yMHZJSmZVUDE4b0hfWEgwQkF2bDlBUzBrdGNYamhoUURsR3RyQUpTMDhjVzU5Y1RQa0JrSm8wN0NWQzRoUkU?oc=5",
+      "snippet": "'How hard could it be?': Kelowna candidate with viral signs gets elected &nbsp;&nbsp; CBC Humorous campaign signs propel 'unqualified' man to city council &nbsp;&nbsp; upi",
+      "pub": "Tue, 20 Oct 2026 13:43:29 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "As it happened: Melissa Syer elected as Yellowknife’s new mayor - Cabin Radio",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVkljUzRYeE02YkxHN1BZNXFWQ1dSM3VwQ2tEN2F3Rno1YlpXelVmaVRoQWR4VXU4VWtrd1FCU1AwOTczSUN4bHlhSndMTG42RkxmekE4bnNWU1JRem1FZWlIM3BEN2x4LWo5YzNZTmc1bUxiOUJLWDk4UnN3cHN5Y0pRa1NwNGk1YVQ1Z3RwRksyZHVpcVNoWEVUQzJZc0NETGhteWZISXQxbTQ?oc=5",
-      "snippet": "As it happened: Melissa Syer elected as Yellowknife’s new mayor &nbsp;&nbsp; Cabin Radio Yellowknife elects new mayor and council &nbsp;&nbsp; CBC Yellowknifers head to the polls o",
-      "pub": "Tue, 20 Oct 2026 04:58:50 GMT",
+      "title": "Polymarket is banned in Ontario but there’s more than US$400K wagered on Toronto’s mayoral election - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTlU5TndPZl90S2JxNV90TnhjaHFFR3ZLSnJtNjZwbTBNenN0VmFHWVVwcmhoNEhRdk1IZUNfa1Y2WWJSbEE0eDdVVWhLb19vOEY2RzVUdENsVlNpLWdDSEpaN21BbzY1ZlY0bEZCelExc2lpUnRBTFNvX2g0dHJRY2VSNHNWbnEwVnJZRGh0MGo3STFMdG5kcUtIUGdhb2twSm42ZEF0RWprYm5ydmp0a1JNblBlUGk1dTUydlctWFNHVGRqZGxxSVhNdVgwSW4wRWc?oc=5",
+      "snippet": "Polymarket is banned in Ontario but there’s more than US$400K wagered on Toronto’s mayoral election &nbsp;&nbsp; CTV News Even the mayoral race has a prediction market now &nbsp;&n",
+      "pub": "Tue, 20 Oct 2026 10:04:14 GMT",
       "image": ""
     }
   ],
   "errors": [
+    "VOCM failed: <urlopen error timed out>",
     "CBC News failed: The read operation timed out"
   ]
 }
