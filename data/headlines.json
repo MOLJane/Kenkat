@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-10-22T02:36:16.826250+00:00",
+  "generated_at": "2026-10-22T08:08:12.600924+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
+      "title": "October 22, 2026 – Government suggests that it is making good on its commitment for better health care. Do you agree?",
+      "link": "https://vocm.com/2026/10/22/october-22-2026-government-suggests-that-it-is-making-good-on-its-commitment-for-better-health-care-do-you-agree/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13616').",
+      "pub": "Thu, 22 Oct 2026 07:30:18 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/health-care-seniors-health-nursing.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Texas Border Wall Dispute Reaches Supreme Court as Landowners Challenge Construction",
+      "link": "https://vocm.com/2026/10/22/texas-border-wall-dispute-reaches-supreme-court-as-landowners-challenge-construction/",
+      "snippet": "A dispute over border security and land use in West Texas has reached the U.S. Supreme Court, putting the future of construction in the Big Bend regio...",
+      "pub": "Thu, 22 Oct 2026 06:54:48 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/10/323959952.jpg"
+    },
+    {
+      "source": "VOCM",
       "title": "Province to Announce ‘First Phase’ of Affordability Measures on Thursday",
-      "link": "http://vocm.com/2026/10/21/province-to-announce-first-phase-of-affordability-measures-on-thursday/",
+      "link": "https://vocm.com/2026/10/21/province-to-announce-first-phase-of-affordability-measures-on-thursday/",
       "snippet": "What's being called the \"first phase\" of the provincial government's new affordability measures will be announced tomorrow. While government does not ...",
       "pub": "Wed, 21 Oct 2026 20:18:09 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/05/nl-newfoundland-and-labrador-hydro-office.jpg"
@@ -13,7 +29,7 @@
     {
       "source": "VOCM",
       "title": "Great White Shark Providing Researchers with New Data from Newfoundland’s Grand Banks",
-      "link": "http://vocm.com/2026/10/21/314028/",
+      "link": "https://vocm.com/2026/10/21/314028/",
       "snippet": "Researchers are keeping an eye on the activity of a great white shark which seems to have found a comfortable place on the Grand Banks off Newfoundlan...",
       "pub": "Wed, 21 Oct 2026 19:23:12 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/great-white.jpg"
@@ -21,7 +37,7 @@
     {
       "source": "VOCM",
       "title": "Northpine Foundation Announces $2.7 Million Donation to Bell Island Community",
-      "link": "http://vocm.com/2026/10/21/northpine-foundation-announces-2-7-million-donation-to-bell-island-community/",
+      "link": "https://vocm.com/2026/10/21/northpine-foundation-announces-2-7-million-donation-to-bell-island-community/",
       "snippet": "A group of philanthropists has donated $2.7 million to four organizations on Bell Island in an effort to reignite the community's economy. The Northpi...",
       "pub": "Wed, 21 Oct 2026 18:19:27 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/northpine-foundation-announcement.jpg"
@@ -29,7 +45,7 @@
     {
       "source": "VOCM",
       "title": "Province Taking Down Some Websites, Online Services Due to ‘Cybersecurity Vulnerability’",
-      "link": "http://vocm.com/2026/10/21/314056/",
+      "link": "https://vocm.com/2026/10/21/314056/",
       "snippet": "The provincial government is taking its websites and some online services offline as a precautionary measure due to what is being described as a \"newl...",
       "pub": "Wed, 21 Oct 2026 17:45:13 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/govnl-shutdown.jpg"
@@ -37,7 +53,7 @@
     {
       "source": "VOCM",
       "title": "Two Men in Custody in Connection with Attempted ATV Theft in Cape Broyle",
-      "link": "http://vocm.com/2026/10/21/314042/",
+      "link": "https://vocm.com/2026/10/21/314042/",
       "snippet": "Two men were arrested and charged after someone attempted to steal an off-road vehicle in Cape Broyle on Tuesday. RCMP from the Holyrood and Ferryland...",
       "pub": "Wed, 21 Oct 2026 17:32:58 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2022/05/rcmp-car-vehicle-logo-stock-1.jpg"
@@ -45,26 +61,18 @@
     {
       "source": "VOCM",
       "title": "37th Annual St. John’s International Women’s Film Festival Opens with Local Director’s Film Debut",
-      "link": "http://vocm.com/2026/10/21/313980/",
+      "link": "https://vocm.com/2026/10/21/313980/",
       "snippet": "The 37th annual St. John's International Women's Film Festival opened last night with local film Purgatory directed by Lindsay Lanzillotta. Lanzillota...",
       "pub": "Wed, 21 Oct 2026 17:17:48 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/lindsay-lanzillotta-director-purgatory.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Help Available for Displaced Brazil Street Residents, says Minister of Social Supports and Well Being",
-      "link": "http://vocm.com/2026/10/21/314005/",
-      "snippet": "The minister of social supports and well being says that supports are available for those who have been displaced from 91 Brazil Street, but he stoppe...",
-      "pub": "Wed, 21 Oct 2026 16:29:42 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/brazil-street-no-trespassing-gates.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Vaccine Clinics Now Open Across Province as Flu Season Ramps Up",
-      "link": "http://vocm.com/2026/10/21/314018/",
-      "snippet": "The province's flu season is off to an early start with the total number of lab-confirmed cases of the illness at ten as of October 4th. Flu and COVID...",
-      "pub": "Wed, 21 Oct 2026 16:13:51 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/07/covid-vaccine-stock-photo-needle-shot.jpg"
+      "source": "Google News Canada",
+      "title": "US embassy accuses Canada of brushing off allegations of election interference - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCdHY4dUlha05ZVVRXNEd6NXVENjhDUzIxeGIyeGlWeDlzTnlpdTJKZVhsSTV3d0V4RWlUTXhCNS1PcHpKNzNrSlRuRVVyeFpVRy1nVXVSam41OUE?oc=5",
+      "snippet": "US embassy accuses Canada of brushing off allegations of election interference &nbsp;&nbsp; BBC U.S. Embassy says Carney government brushing off 'potential interference' in midterm",
+      "pub": "Thu, 22 Oct 2026 03:05:28 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
@@ -76,26 +84,10 @@
     },
     {
       "source": "Google News Canada",
-      "title": "U.S. Embassy says Carney government brushing off 'potential interference' in midterms - CBC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcG9uLVdhbXZoVS1fY1dPUk0zVXkyQ3MyWXhzeGRGM3pmMzNqOVkwRVlZVlNKaGZwUmZHX2xTQXozamFtTDhxVFR4NEVSVlBLZ2h1cTFXbWxtVm1zWGJ1UlFtbU5HX0NNT1EwQzFXdWk1cGtPQ0NzZ1dfeVNBdFBEYnM1amVLQzV1cl82TlBnYWVHdVU4?oc=5",
-      "snippet": "U.S. Embassy says Carney government brushing off 'potential interference' in midterms &nbsp;&nbsp; CBC U.S. embassy accuses Canadian politicians of interfering in American election",
-      "pub": "Wed, 21 Oct 2026 21:03:27 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Federal government announces billions for tariff-impacted industries in Ontario - CP24",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWmRrS3JKM0g5ODh4NmsydlFfY1dHYjdyUm90YnBrUXkzaGUwSS01Q090eGFmMGlIc1NSRktfS3JHMjR4WDRNNGYwZ3dpeWs5U2E1MDV0NG9tOGJxZlpTblJXUC1Pelo4WWZxa1l2eUVrcXEyQjNVa2syOGg5bFdHdDRFanJTbjB2Vlk0UjFpY2kzS1JuYzBfUkw2OUlTUGNWUWRRQXFnNW54ZTVwX1U0ODl5dk5lcndOM2RSQkpmSVBtN1Jkenc?oc=5",
-      "snippet": "Federal government announces billions for tariff-impacted industries in Ontario &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
-      "pub": "Wed, 21 Oct 2026 13:18:41 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Mother of ISIS terrorist from Ontario running for school board trustee in Milton - National Post",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHJxUGYzbHpnQlhlTmg0TlhEUUZsWXdqc0FCRWJFQzgtUWhVVjAyWDcybjRVWll6OGIwV1hkcm9UX3F6RThOTHhwaHlzZEJUMjEyWWJnQ1B5c0d3bEQwbzFqeHFEbmpJUHE0XzdfalRHTW1yQnV4ZnBzVWthQWFMVWlDZFNHRkxiakIyZE5zaHpSZDZPM2EwV0JUNA?oc=5",
-      "snippet": "Mother of ISIS terrorist from Ontario running for school board trustee in Milton &nbsp;&nbsp; National Post See more headlines & perspectives on Google News",
-      "pub": "Wed, 21 Oct 2026 20:41:07 GMT",
+      "title": "Scott Stinson: Mark Carney sings from the Doug Ford songbook as he announces $9B for Ontario industry - National Post",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTENsaXVBaXNHeTY5NG4wMkVTTlBMdjVRQ25mMDl4aXpCM0lGQWhMSDIwY1E3eDlrZFFkZE9NeGFTcUFzenBBSWFVb21PNUE1ZFRobWdyVG42MThLQkZadThwSTRJOGtCT0lFZXYxRUNmc3Fwem9pcVJUWVdDbkxyQ19odk1hUQ?oc=5",
+      "snippet": "Scott Stinson: Mark Carney sings from the Doug Ford songbook as he announces $9B for Ontario industry &nbsp;&nbsp; National Post Federal government announces billions for tariff-im",
+      "pub": "Wed, 21 Oct 2026 22:37:16 GMT",
       "image": ""
     },
     {
@@ -108,26 +100,34 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Voters said yes to Danielle Smith's questions on immigration. Here's what that might mean for Alberta - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUWFheWhxdUQtUjZxR3F6M3dEWjJJVl92SkNDLTlGZjRYbDVNOFBEMm9Dd2J6TTFIMkVDSXFvd1JuSTZLVE05ZmlCaTdsUW9HYkphMHJLLXBnd3F2akJfN0NGNjlWbmNnQmFFeWxTUEF6VTVfMkpiVGp0M0tuMXFqeXpmN1l2QVU0Nl9hMGZPMWJ6R1dJTlBkdFEzZ0dfTXBBZUFjLVFlRlNxZDdjbE4tWFJycEdlTkU0R1lkWUMwb242VGNNMVRzWnFRaEhPTkd3Y2hnYThxUXRJNkZjcTdVWURJaldfQ09kOUJVUWROUUhmMTc3b3NTNWtOVEpOVkl2NGg5Yg?oc=5",
-      "snippet": "Voters said yes to Danielle Smith's questions on immigration. Here's what that might mean for Alberta &nbsp;&nbsp; Toronto Star What will Alberta’s ‘clear mandate’ on immigration l",
-      "pub": "Wed, 21 Oct 2026 09:00:00 GMT",
+      "title": "St-Pierre Plamondon becomes Quebec premier, names small cabinet including minister for independence - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbVQ4bDFfMGFEaE5JQ3dHa0FvNWhRdFR4SlYxT3hXTnhVdG00M25vN2pueFY3cENscTBuRTU3bTF0QVQwQnMyeWtISUVvdFVxb1g5dXlxc2dMQmt5NHJNelhQOEYzZVFlUVZKcEJHM1JCd1B2aENnZjYxY2Z6YVFFR3B6SjlyQXNjRDhXUVVtc0hEcXpreHRxZVBpTERSV0thVkIwR2FtQTZsTld2S2gyTGdVWkI1N1RlSlBUNXAyQ0p6U1dxS2dvcFFjV0I?oc=5",
+      "snippet": "St-Pierre Plamondon becomes Quebec premier, names small cabinet including minister for independence &nbsp;&nbsp; Montreal Gazette Quebec's new PQ premier unveils smaller cabinet as",
+      "pub": "Thu, 22 Oct 2026 01:32:47 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "27 soldiers still hospitalized, 13 in critical condition after CFB Wainwright fire: Smith - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmhiNy1PR3dCTXhjUU5rckdqNmhnSlBuZDJHQ1VwVTFBelhXOXlMbmMtUnF3VjBIWEtLeDZGbTNvUW83YWFncEk4dG9xWThiU2E4MlhJSmdRUnhaS08tLXlFNjc5a1BOaEp5RWlqQlNtZU5UdkxuSWhGYWpVY1BwaElNZnRJZVZhcEZmR1czaHVOU2planl6bXR1bktJUGtrbWJyWmtGNDRqUVlKR1RvZkRRUGZzVzVyMXlnMVgybEJ0T2xyZ29J?oc=5",
-      "snippet": "27 soldiers still hospitalized, 13 in critical condition after CFB Wainwright fire: Smith &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Wed, 21 Oct 2026 18:57:03 GMT",
+      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zVUxZcy1LUmdGa2UzZEY3czEyMEF2b3BQenFSZFlvMlMyc1pONjRILU1zcllURnozRUh0OGR3cFFuNmhuNmpYNFF5bnc0c0tDSTNDdkY4TFNudXc?oc=5",
+      "snippet": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence &nbsp;&nbsp; BBC ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s ch",
+      "pub": "Tue, 20 Oct 2026 16:11:56 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "‘Please do not send us tips,’ Toronto Crime Stoppers says following data breach - CP24",
+      "title": "More than 176K tips leaked in data breach: Toronto Crime Stoppers - CP24",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRFV0SXVramxmQUZXTGZNWjZCY2J1bGczeHNPQVhRTVBGRUdSQTRMenB3MUE0MUZSZGtmdGowb1dMZFhPSUR2c1VGSHpzZVhJVGx6ckNwb2JuNGliUjRrdWRteklYLXpjQ1V6MW1BUnRxbFU5TTlrOGxibnhOa3FCZkJjNlJZN2VCZDNPMDZKMXMyLWY0bWY4aXo4c0hvOVJCcnVqa3Q4Y0t2dDVoelhrc2Zwb1YyOVZBMFVyX2d1dGE?oc=5",
-      "snippet": "‘Please do not send us tips,’ Toronto Crime Stoppers says following data breach &nbsp;&nbsp; CP24 Toronto Crime Stoppers suspends accepting tips following massive data breach &nbsp",
-      "pub": "Thu, 22 Oct 2026 00:47:00 GMT",
+      "snippet": "More than 176K tips leaked in data breach: Toronto Crime Stoppers &nbsp;&nbsp; CP24 Toronto Crime Stoppers suspends accepting tips following massive data breach &nbsp;&nbsp; CityNe",
+      "pub": "Thu, 22 Oct 2026 01:58:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "19-year-old soldier who died at CFB Wainwright remembered as a great friend - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXRyYzFXdEd4S01BNllIWndmcVo1alJvT3BCNkEwUkxfLU9kSHgtWURlWEFUbmJaenloZmpteW40eUY1VjNXMzBWWGtQcG14Y0lVUmx2VW9tOER5MkJYRWxoR3lucHo4dG9faTZpbXQ2ajFGS0tDRldXV2FXRFd3dDVlVS1XTzhPb2ZRTXcweGhCZU1WaTBDY1ZJUjBpdGxROFE?oc=5",
+      "snippet": "19-year-old soldier who died at CFB Wainwright remembered as a great friend &nbsp;&nbsp; Global News 27 soldiers still hospitalized, 13 in critical condition after CFB Wainwright f",
+      "pub": "Wed, 21 Oct 2026 22:57:14 GMT",
       "image": ""
     }
   ],
