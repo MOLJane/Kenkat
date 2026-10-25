@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-10-25T09:57:30.922913+00:00",
+  "generated_at": "2026-10-25T14:05:15.992750+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Dry Dock Wars; Port of Argentia Signs MOU with Private Sector for Floating Dry Dock",
+      "link": "https://vocm.com/2026/10/25/dry-dock-wars-port-of-argentia-signs-mou-with-private-sector-for-floating-dry-dock/",
+      "snippet": "The province has issued an RFP for a floating dry dock for the Bull Arm site, but it's not the only attempt to have such a facility established in the...",
+      "pub": "Sun, 25 Oct 2026 14:00:22 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/01/port-of-argentia.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Province Set to Announce Vehicle-Related Fee Cuts",
+      "link": "https://vocm.com/2026/10/25/314398/",
+      "snippet": "The province is going to cut some fees as part of its next hit on the cost of living to be unveiled tomorrow morning. We don't have details of the pac...",
+      "pub": "Sun, 25 Oct 2026 12:30:35 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/04/craig-pardy-serious.jpg"
+    },
     {
       "source": "VOCM",
       "title": "One-Man Metro Crime Spree Results in Numerous Charges",
@@ -9,14 +25,6 @@
       "snippet": "A one-man crime spree which included the ramming of a police car and an all-out search in metro involving drones and officers on foot has resulted in ...",
       "pub": "Sun, 25 Oct 2026 09:02:00 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/08/rnc-cop-car-logo-911.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Increased Glovertown Police Presence, No Threat to Public – Says RCMP",
-      "link": "https://vocm.com/2026/10/25/increased-glovertown-police-presence-no-threat-to-public-says-rcmp/",
-      "snippet": "There is an increased police presence in Glovertown this hour. The operation began around 4:30 am in the Stag Pond area. RCMP say there is no threat t...",
-      "pub": "Sun, 25 Oct 2026 08:57:21 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/rcmp-2.jpg"
     },
     {
       "source": "VOCM",
@@ -59,35 +67,11 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/ai-data-centre-open-ai-openai-artificial-intellegence.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Satellite Hip and Knee Surgery Sites Reducing Wait Times, but More Action Needed says Surgeon",
-      "link": "https://vocm.com/2026/10/24/314370/",
-      "snippet": "The introduction of hip and knee replacement surgery at sites outside the metro region has helped to knock down wait lists in the province, but more n...",
-      "pub": "Sat, 24 Oct 2026 18:32:32 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/06/Surgery-Prep-Room-Doctor-Nurse-Hospital.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "B.C. Election Results: Conservative wave sweeps through B.C. as David Eby's snap election call backfires - Vancouver Sun",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFhjZHlLSVo3N1E5TVJFWFIwRlcyQTBpQjZoSE9MREl6LTlnQ052TzBtR1RTU1hLSFBUTExfTVRwOW5ZYlpNVUhuWVlsbmdFM2tkMUpqbWZNY0hhcDAzWkdZSEV6czAzdFE1Ml9wRHAwb2M5bjRpNXJNMi1MT3NiR3B3TQ?oc=5",
-      "snippet": "B.C. Election Results: Conservative wave sweeps through B.C. as David Eby's snap election call backfires &nbsp;&nbsp; Vancouver Sun B.C. Conservatives win majority government, retu",
-      "pub": "Sun, 25 Oct 2026 06:45:55 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUVWS0U4d0pkZjB4bTZFOFI4T3pQQ1hucnZZRG1MbktvUVVhczRwYW1mUzRxWGZjUjBuUURuemNMM3dMMk4tY3RESmtpZU94eTR6djAxX0hmU1d4a0lRc1RjclZzN09nZnpTWFFJVTV4dk9IWEctdWkxY2JqWDVtbzJhQTBFMkR4NHQ3UWI5YUdCQQ?oc=5",
-      "snippet": "Alberta’s Referendum Was Clear, Unlike Danielle Smith’s Future &nbsp;&nbsp; The New York Times Q&A: Premier Danielle Smith says she doesn’t need Alberta separatists’ support &nbsp;",
-      "pub": "Sat, 24 Oct 2026 10:00:03 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnk5QXFZSUVHb3U0WEhGVFZ6YWUwYVdNdFgtOUNqS2VvSTBiYjJXVktNVGhNak5VQnBBSUdXOWxXM29pMkRXWW1OM3JZMlQzS1JQZmd3VTd3VnBFVm9ma3drTzFJTGZiTExQdXpFakhBUVh0TjZRTjRuSUtCbDV4VF9HdHRCR04xVzR2Qld5anpQRHVfVGtwSHhaeU1wdTVuQzhtWmRkM2t0TE5USE1WVNIBtgFBVV95cUxPazFHLUVrT2l3VF9wNWtMZHRXdWVJUlRmRkpESVhpTTNFVVltSXRuSFgwNVZCM1F2WTZlbmVfWG9EdFhvclplVExQQ2ZDbDlteTN3OWQ5dFZiX29GV3VFS1dmTkhFNzNMZXktdXJMbFVKRmRTZEVtU1J3TVpMcTJZOFg4SlhfR0lXY2dTYUFVQkw0MlV0M2Y3c2RnTDZVQkNOWFJsQnZoR2tSQjJKUl9rY3NQNVRaQQ?oc=5",
-      "snippet": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats &nbsp;&nbsp; Al Jazeera Obama attacks Trump as he campaigns for Democrats ahead of midterm elections &nbsp;&nbs",
-      "pub": "Sun, 25 Oct 2026 04:11:11 GMT",
+      "title": "B.C. Conservatives projected to win 1st majority in nearly a century after Eby's election gamble backfires - CBC",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0tYeGxyR3kxZThpMl9YZFM2dElHOGNQYzI4SlFZR1dlSG5sTC1aRmtlU3VEZkVSb1REOGd5UEwyMGVjazNDMk4yN05MMkdXREhfTENWZ3o0ZHZobUZJNkQycDl3T1pmZ3BfM1VSTU5PcDlmRHA2VFU4V1pFRGVRbU1sUEM0ZXhOeUhLc0VNUElTQ01lc0huaE42Z1NWazJXTjRScGhTUmNPQlJYZXJreHpIRTFHd2s?oc=5",
+      "snippet": "B.C. Conservatives projected to win 1st majority in nearly a century after Eby's election gamble backfires &nbsp;&nbsp; CBC B.C. Conservatives win majority government, CTV News dec",
+      "pub": "Sun, 25 Oct 2026 06:40:19 GMT",
       "image": ""
     },
     {
@@ -100,34 +84,50 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Why is Israel launching a new military operation in the occupied West Bank? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcTVxUHFqOWZDUGMzSDYycTBIbFhHRDYtc1p4ODE3Nk9iQlhNcUhlZFBxQy1sS01VQkRpd2prT20yNVFjd0VOT3ZOYWVKczF2Vm53aGpGamxlN0VhVFlqejdVUHFjYk1HQTRaV3hUVHcySDhPSmFCU2c2MVUwSVktaUxNY2JUNHVSa1hDMWdMcXhVMDBtQndDNVp3bVhLeWw5bElIeWkxWjQ1aXRDUG56YVhudEJ3dWvSAbwBQVVfeXFMTmpUMnhhb2ctYmVHbFRfX01CVXNjblh2dEdrd2t1cEtSdmo4WU1PRFBjSjJxdlV5anE0aTVISHpTX1VqS2FfY255eXY5aUR6SWxIczRPY3RGMi1WdFNsSUpBN1NnWW5UN3AxRkdGYVMwbll4WTN6c1JOSGJvbFdWZmVOTFdCc2lESXZVYTBDT0sxeTVid3NtYmZaTVA1N2p1bmhSd0tjS1dJWTczdE1WMlZXRUhWdjBROTdtTHo?oc=5",
-      "snippet": "Why is Israel launching a new military operation in the occupied West Bank? &nbsp;&nbsp; Al Jazeera See more headlines & perspectives on Google News",
-      "pub": "Sat, 24 Oct 2026 15:29:19 GMT",
+      "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnk5QXFZSUVHb3U0WEhGVFZ6YWUwYVdNdFgtOUNqS2VvSTBiYjJXVktNVGhNak5VQnBBSUdXOWxXM29pMkRXWW1OM3JZMlQzS1JQZmd3VTd3VnBFVm9ma3drTzFJTGZiTExQdXpFakhBUVh0TjZRTjRuSUtCbDV4VF9HdHRCR04xVzR2Qld5anpQRHVfVGtwSHhaeU1wdTVuQzhtWmRkM2t0TE5USE1WVNIBtgFBVV95cUxPazFHLUVrT2l3VF9wNWtMZHRXdWVJUlRmRkpESVhpTTNFVVltSXRuSFgwNVZCM1F2WTZlbmVfWG9EdFhvclplVExQQ2ZDbDlteTN3OWQ5dFZiX29GV3VFS1dmTkhFNzNMZXktdXJMbFVKRmRTZEVtU1J3TVpMcTJZOFg4SlhfR0lXY2dTYUFVQkw0MlV0M2Y3c2RnTDZVQkNOWFJsQnZoR2tSQjJKUl9rY3NQNVRaQQ?oc=5",
+      "snippet": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats &nbsp;&nbsp; Al Jazeera Obama attacks Trump as he campaigns for Democrats ahead of midterm elections &nbsp;&nbs",
+      "pub": "Sun, 25 Oct 2026 04:11:11 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "What we know and don't know about the deadly fire at CFB Wainwright - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3pMTTU2bXVCaGNMTUVtWE1fdXR5SUN5cHJZZnQxLW9zVVoyVnBYVXRjNjE3aXZZRkRnaVpYWDVFUEhqVlR1THItX3huMVdyMVhvRVZTYlhiWjVlUi1mZTBldzN6ckwtQ0dEeEVvbFBFUTRrbVNKcWxBTGo3UWZaaF83TTJsY3VZX3JHUU8tLVZiMEpkRE9kY19qNldKT3l5QWs5dVB6MHZMMDg?oc=5",
-      "snippet": "What we know and don't know about the deadly fire at CFB Wainwright &nbsp;&nbsp; CTV News ‘He ran into the fire’: Military medic critically injured saving fellow soldiers in CFB Wa",
-      "pub": "Sat, 24 Oct 2026 19:04:33 GMT",
+      "title": "Elon Musk says he cut back Starlink access in Ukraine, impacting defence operations - BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeXltS0V3VG1PWEliU3loUk5LVVQtYm04Ujh2cGMxZEdmRGlQWXZQTDh5MFRNX2xOREhueGt5QTA2TUVDR0d5WGNHQTNlbkhTUUM3S0Z6SDI2Y0I3NEUweGJwaG9ZUU5aNzdrY3llRUFwaEpCa1U5SHM3OUVBUlhRZ1NYMFFVMDQtUldSY3k5RjJvLVl0bm94Y292QlUtV3ZOT1ZEeGdPX3duR1lUa2o4WTltbTNjdjRZc0dkRWZCaTNsZG9waXIxdGJaYjRRc3hCM2I1T0xjcw?oc=5",
+      "snippet": "Elon Musk says he cut back Starlink access in Ukraine, impacting defence operations &nbsp;&nbsp; BNN Bloomberg Ukraine disputes Elon Musk’s claim that its military violated Starlin",
+      "pub": "Sat, 24 Oct 2026 22:20:30 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Voters head to the polls for B.C. provincial election - CBC",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUxQVlRrVkdaYklYNmhaV3RRdXNINlpoUHdzSXRySEwya0xpaFFHY0tMVXIzaUcwNFN2TEY4b25xZ1pLOWNxM25XNEYtM2IzSlVfdTR0VDBZU3FnUVZVanB4NklIb0FsZkQ0Z3hSMHhtYTR4S1RLS3QxdHJkT1QwVndEeTlsZjJtaGY0N0swU2tYVkhUUGpOb2M5U2QxZUpXY2E1OVVCVHd1QjZ2R1dYMk4yNVU?oc=5",
-      "snippet": "Voters head to the polls for B.C. provincial election &nbsp;&nbsp; CBC David Eby’s surprise B.C. election culminates in narrow race between NDP, Conservatives &nbsp;&nbsp; The Glob",
-      "pub": "Sat, 24 Oct 2026 21:20:56 GMT",
+      "title": "Smith vows cautious approach after narrow win on immigration, muses about referendum on photo radar - Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0N2Ri1sVTJESmRaSzVDWUh6MFlnMTEtU0JyeHJXRFB2QUZodUg3NU9vaUxfN2lJcXlsQVp4V3hjd0hWZnpxdS04MUpndFVaUDFrYmZhenJ1R09Pb0RxRXAxVGQ1QXZORGNJWktQeVd2bUFtTGxwXzluVExrU1lTQWdDR1BjUmJRMzJ2NGlXSFM?oc=5",
+      "snippet": "Smith vows cautious approach after narrow win on immigration, muses about referendum on photo radar &nbsp;&nbsp; Edmonton Journal Richard Warnica: I went to the last heartland of A",
+      "pub": "Sat, 24 Oct 2026 23:04:58 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "More than 1,000 rally for publicly funded education in Victoria Park - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbm5MeHoxdUVjVFQ1alBMdk52LTYweW9jZDdXa0tZSHlTZ1pReWtDN1pqRjdrZTZiTkVybDFyV1o3UHFXblJXYmlpaUhUSkh5MGsxQVdjYVpuT1ltc0pSZ1VIM0ljem9jMVc3bTd1OHdRN3pidENzTjFjMkxLOXVtbnhzdjBIMzBocDduVmRNemtKUmFxd3pELVpNOVdIc05qbGI1REZVblp3UQ?oc=5",
-      "snippet": "More than 1,000 rally for publicly funded education in Victoria Park &nbsp;&nbsp; CTV News Fund our Schools: Join a Rally on October 24 &nbsp;&nbsp; Opseu Hundreds rally in Toronto",
-      "pub": "Sat, 24 Oct 2026 20:47:44 GMT",
+      "title": "First Nations leaders voice priorities ahead of historic meeting in Ottawa - Global News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmxES1ROTHZXQzl2ZXl3RkpscldWR1g1d3lUYjQxb2lvRHlNTWpWMzdPdV85MWo3a0gyYzhCTjU1RThmWDU0NkVtWnFwNzZUTzFENERDczkzZjVEMVQ0VTZ0RVF0SHJHV2dhYm5wU1pkMF9qcFlTNzZzWkhTQnZDMEN5eXRGMkZXc2JpUWNpTzJCN2ZSVy04ZlpVYVJlXzYz?oc=5",
+      "snippet": "First Nations leaders voice priorities ahead of historic meeting in Ottawa &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
+      "pub": "Sat, 24 Oct 2026 14:06:34 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "B.C. election 2026: Eby's job on the line - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2pUcHZDcl9xQS1KLXpqUlZDSmJQT01GbFQyWHdhZjFQRGlFaFBjLUktNEszN1dWQ0FCYW9JMlQwMGNoZ29ieHM3V3dmeGdMMm5mTi1vRjA2MkhRN29NRUZHTUpiUl9uMVZ6THMxSDRldHJaMlJTYmtUV2xhNHRiNElIbmVPbFBKV085OEFtRTRnaHJCdXNGbVNKbUVCUWtGY0hQeFFwTlFMaVFJQlB3aXF3?oc=5",
+      "snippet": "B.C. election 2026: Eby's job on the line &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
+      "pub": "Sat, 24 Oct 2026 11:41:31 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Prince Albert pays tribute to Pte Shaun Farrell with homecoming procession - paNOW",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYjdCQVVwS1JEVjFCdmVyUWUtNHZBeE5WVDZzbUhVZ3NEVEJtaUZyblRQVGtnd3lQZU1PYkJKSXh2c3UtVlZKM05GenIteUk5NUpNTGVhZ3QwRHhtZm4zNGllQm5uM1ctUl9hd1V0Vi1YZThmV2ZWNHZFMWdfUG8tT3YyeGlmVVQ2WWh6Q0JOalN3YkhqdlFlUFFTaWJSNFVUb2pHOEtERQ?oc=5",
+      "snippet": "Prince Albert pays tribute to Pte Shaun Farrell with homecoming procession &nbsp;&nbsp; paNOW See more headlines & perspectives on Google News",
+      "pub": "Sat, 24 Oct 2026 23:29:36 GMT",
       "image": ""
     }
   ],
