@@ -1,20 +1,36 @@
 {
-  "generated_at": "2026-10-27T18:47:48.126080+00:00",
+  "generated_at": "2026-10-27T22:46:06.379623+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
+      "title": "Leo Barry Remembered as One of Province’s ‘Brighter, Deeper Thinkers’",
+      "link": "https://vocm.com/2026/10/27/314661/",
+      "snippet": "A former premier is remembering the late Leo Barry as an intelligent and respected man who didn't suffer fools gladly. Leo Barry, a former cabinet min...",
+      "pub": "Tue, 27 Oct 2026 20:05:57 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/leo-barry-2.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "HV-GB School ‘Lacks a Serious Number of Teachers and Support Staff,’ says Lake Melville MHA",
+      "link": "https://vocm.com/2026/10/27/314654/",
+      "snippet": "A former member of the PC caucus is warning about serious dangers in the school system's staffing levels, including in his own district. The principal...",
+      "pub": "Tue, 27 Oct 2026 18:47:45 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/09/keith-russell-2.jpg"
+    },
+    {
+      "source": "VOCM",
       "title": "Natuashish RCMP Searching for Man Wanted for Aggravated Assault",
       "link": "https://vocm.com/2026/10/27/natuashish-rcmp-searching-for-man-wanted-for-aggravated-assault/",
-      "snippet": "RCMP in Natuashish are seeking the public's help in locating a 23-year-old want on charges including aggravated assault. RCMP are asking anyone with i...",
+      "snippet": "RCMP in Natuashish are seeking the public's help in locating a 23-year-old wanted on charges including aggravated assault. RCMP are asking anyone with...",
       "pub": "Tue, 27 Oct 2026 18:29:42 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/leon-david-ashini-wanted.jpg"
     },
     {
       "source": "VOCM",
-      "title": "Tractor Trailer Blocking Southern Shore Highway; Detour Available via Harbour Drive",
+      "title": "Update: Southern Shore Highway Cleared Up Following Jack-Knife Incident",
       "link": "https://vocm.com/2026/10/27/jack-knifed-tractor-trailer-blocking-southern-shore-highway-near-home-hardware-detour-available-via-harbour-drive/",
-      "snippet": "A tractor trailer has jack-knifed on the Southern Shore Highway near the Home Hardware in Witless Bay, blocking traffic in both directions. RCMP say a...",
+      "snippet": "The Southern Shore Highway has cleared up following an incident near Home Hardware in Witless Bay, where a tractor trailer had jack-knifed and both la...",
       "pub": "Tue, 27 Oct 2026 18:27:36 +0000",
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/07/RCMP-Police-Vehicle-Logo-May-16-2018.jpg"
     },
@@ -51,83 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/12/police-body-camera-stock.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Residents Taking Road Safety Petition to Paradise Town Council",
-      "link": "https://vocm.com/2026/10/27/314640/",
-      "snippet": "A group of residents are presenting a petition before Paradise town council today to bring attention to safety concerns in the St. Thomas Line area. L...",
-      "pub": "Tue, 27 Oct 2026 16:17:53 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/03/town-of-paradise-welcome-sign.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "NLTA Calling on Government to Address ‘Critical Education Issues’, Including Teacher Shortage",
-      "link": "https://vocm.com/2026/10/27/314634/",
-      "snippet": "The Teachers' Association is calling on government for immediate action on \"critical education issues\" now that the legislature is open for the fall s...",
-      "pub": "Tue, 27 Oct 2026 14:56:01 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/nlta-nl-newfoundland-and-labrador-teachers-association-president-dale-lambe-2.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Canada's new relationship with EU will be 'closer to membership' than ever, senior officials say - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlBLYWJvUG5fVHNkOTNJR2VzRnQ4N2ozZ3E5TndkdWk4SWh0RnZXczExWkRDbEpkOHNtNktBVFNKRjVGNVZjZjAxcUVWWnVHT3RtLVZXSE5mLUZ4LUp6dDNmaUVUbTdlZU85eUxsT01PTVV1WkR2Z1Frd1NoTTIyRGlacWdERnc?oc=5",
-      "snippet": "Canada's new relationship with EU will be 'closer to membership' than ever, senior officials say &nbsp;&nbsp; CBC Canada-EU summit to kick off formal talks with Europe on closer ti",
-      "pub": "Tue, 27 Oct 2026 16:46:42 GMT",
+      "title": "Israel election turnout highest in 50 years as voting continues - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWURna2Mxam9qOHZTOHl1ZVpwQ2JIWWZ5N2x2bE44cDRsZVNKSGJBb1N6bkstYXVLdDZtUlI4NzFYdjVIU3VMaWtzV092WUhUNzNvSmpDcDhoTjUwVmZaMjlXUUtsSFFKVnFIdl8tQk1ZcTVsYVFiX2ExUFNlWWpUbkNjWDZWU0hjd3lQdDV2REEyTzZPNV9GTk4yblBWb0xBSkJ4SFl3RnLSAa4BQVVfeXFMTWx4WkJzc3k2ZjhNSHRLUzEzU1Rnd1pId1pIWHU1ZFhXSlhGUHJGcWJfRDNZU3ZXNnBfX3poelotY01Tb0FqV0ozZml4NlBIcVNscUV6WHdSdlY0MlAzbVBSUVpiS2E1dUJyTW1lTGVWTWFCTnJxMnhNV1kydEk3OHNsUHloTndIMjZ4RlU4cGg1dldZUkMxQ09INlphWlRRSExzNnFxUHpMd0tKYzR3?oc=5",
+      "snippet": "Israel election turnout highest in 50 years as voting continues &nbsp;&nbsp; Al Jazeera Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp &nbsp;&nbsp; Al Jazeer",
+      "pub": "Tue, 27 Oct 2026 18:52:38 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Dementia doctors, provinces differ on question of advance consent in MAID - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkNGTjUxVVh3cmlsX3k5bFcwMF9veklmT1NwNnhqOWthOVpqTG1UdUdGaXBXUV93eGt6YkxSZGlKWld6QjNPU2NZQ1Eydm1scE1MeEItVE5zZ0pnRHNIaWgzd3ZqX2lBSjIxZ2xfa1ZCU19ncWgwUEJ5VmZDOHMwRmwxUkJtTXptSEJ4MkV5MnNOR2c2OVppZGFrNUtwLXhJV3Z0WEp5MS1TZndmZ0tUSA?oc=5",
-      "snippet": "Dementia doctors, provinces differ on question of advance consent in MAID &nbsp;&nbsp; CTV News Ottawa tables new MAID legislation, excluding people suffering solely from mental il",
-      "pub": "Tue, 27 Oct 2026 09:34:10 GMT",
+      "title": "Big wins, shocking losses, and goodbye to a 46-year mayor: what to know about Ontario's 400+ elections - CBC",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXJ0V2x3LXduMFVQa0hSVGlRQk43SmVKSmV1T0Z6bVdDdGdvNlg2QnpwMFB0eUVGejlSV1p6aUJQWmlockZWc2FaZUpMb1VGR0wtekM1bEhybXVCNmJlRkRaS0VaQjBDbkZVMUtPRV9qSEFLQTNLbUlKU2VhSmhxeGp1TEJCdm16TUtYaGZhbFAxSy1WTkEzN3UxdUhrT3Zw?oc=5",
+      "snippet": "Big wins, shocking losses, and goodbye to a 46-year mayor: what to know about Ontario's 400+ elections &nbsp;&nbsp; CBC Results from mayoral races in major Ontario cities &nbsp;&nb",
+      "pub": "Tue, 27 Oct 2026 17:23:27 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Andrea Horwath defeated in Hamilton, Keanin Loomis to serve as next mayor - CP24",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZFlOLU9nc3ZvZDZhUWwzaHJ5bXZNQTUtbDJsUU9ubGlOaXRya2dQaVFsQ3JFQXVSUGRIVmJSZmVlT0FydlItWERKSjhvTjc3Z3NuNkN2UUw2TzdId0xrOWswLVNURzYyTEFSYnBWVnY5aGQzeTkxY0pINjd4WnRlekltOHJGd0dmZDc1QjJEWFUzQ05tbGlQMTluQVBsRENWLVhtMHpwLWx1c1RwLXBhRTFEU2NiNXZSX2xB?oc=5",
-      "snippet": "Andrea Horwath defeated in Hamilton, Keanin Loomis to serve as next mayor &nbsp;&nbsp; CP24",
-      "pub": "Tue, 27 Oct 2026 03:08:00 GMT",
+      "title": "EU divisions persist on ‘associate member’ label for Canada - POLITICO.eu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNay1RcWp5akpZR2l3NTVFamYwaDJ4NlVIQzJwSEkyVzkwTlVwak53VUlnd1NSSmZhRVFIc190Mlo1REc3X29yTDVNTVc1NkthQUpMaEZQeTN2aXRPODAwcEJyaGJ5TzhwUzdGQ3VYTzBqMnNIb0RTQWxZcTlxc2NmN1JYNTVFUDM4ajlrdw?oc=5",
+      "snippet": "EU divisions persist on ‘associate member’ label for Canada &nbsp;&nbsp; POLITICO.eu Canada's new relationship with EU will be 'closer to membership' than ever, senior officials sa",
+      "pub": "Tue, 27 Oct 2026 13:07:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Israelis shatter turnout records in election that will pass wartime judgment on Netanyahu - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56WlE2T2dkaVVCdFRzSUxkQWJGVFpQaHQ4YzVrNExqV1RLR1FGa1FHQW00TjlYUjFSRExqMmVlRUhJUWZKdFhqOWtJU0otbElYRUg1N1FDdXpjMld6Y1YzUmNybG8tdw?oc=5",
-      "snippet": "Israelis shatter turnout records in election that will pass wartime judgment on Netanyahu &nbsp;&nbsp; CBC High voter turnout for Israel election with two hours until polls due to ",
-      "pub": "Tue, 27 Oct 2026 15:35:40 GMT",
+      "title": "Canada, U.A.E. sign defence, energy agreements during crown prince's visit - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdjFieXdDTFVZZVV1ckplX3JXZjJ5NHNSeVBnREtKQ1BQTHpiR1h3RHQ5TVpORHZSVFFEcDJkZno1U2ZIc05KNlpaUG1XQW9IbUZRVWhPTkhLRTRCMXpwdUpxQlVGLTlOY1RFRE1DeWlzQ2lBNi0wUTFjaEI1RElhakVtSGFiUQ?oc=5",
+      "snippet": "Canada, U.A.E. sign defence, energy agreements during crown prince's visit &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "pub": "Tue, 27 Oct 2026 19:33:01 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Business leaders and Emirati officials on guest list for Carney’s dinner with Abu Dhabi Crown Prince - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWg3SjM0OUxPejAyNWlBTXluc0NWa3NIZ1pQU0FoT3VoOTlMZUdzMnBLOTlIU3FuMFZlVjVJeG1sSlN0ckZoaWFIODdsQTU4MEUwYXEweXdsVGV4d1dnZ25VOEtDamtEaFpsWTNDZy1vbzgxLWdPbnVMZW9uMS1BS2pWajczQWRwUWE1WjFLcFI5YmpvRENGdjk4VE12b2xUODVKcTZIa1V1Rl92UVNaQ29R?oc=5",
-      "snippet": "Business leaders and Emirati officials on guest list for Carney’s dinner with Abu Dhabi Crown Prince &nbsp;&nbsp; The Globe and Mail See more headlines & perspectives on Google New",
-      "pub": "Tue, 27 Oct 2026 04:33:13 GMT",
+      "title": "Liberals table bill amending Canada’s medical assistance in dying regime - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXA4ODAxbjBiNW5Ka2hrMTA4RHpSYnRLbXJHZHphdnRac2l6bG1EVTgzblB5NkdtbnhydTJOaW15TGdia1BXRW10bFZXVk1TSUVaZUJpVWFEbnBKYXZwXzlRYkFyT2hjRUlNVGxPXzdNb0dHNmRCYTh1RHkwRDQ3a3MxMGVnZ09EMTdDRU1VTGdIMGhwOU1XMG9kMnlvamdGWklYTm1ya3J0elVhOUNv?oc=5",
+      "snippet": "Liberals table bill amending Canada’s medical assistance in dying regime &nbsp;&nbsp; CTV News Ottawa tables new MAID legislation, excluding people suffering solely from mental ill",
+      "pub": "Tue, 27 Oct 2026 21:51:20 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump congratulates PQ leader on winning Oct. 5 election - CTV News",
+      "title": "'He was invited': Carney accuses St-Pierre Plamondon of refusing to attend EU summit dinner - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0kzcUdldVBaYTV0bzlXcHg1c1FBc3FLVVhtSWhXRkRqTFJIV003NXZTX0ZkMWJpemY2TE51T1ZZVVNrZHBicGxCeGVSQ2pHMlc5V3NYd1Vma1dDWldiYjcyM1d3S0VzX0JxOE9aQTFLSU9lU2NneVdMQ2NtU3RRT0dpRURRVUJoTk1qNWk0ZmpFR05yaFQzMmZ2ODJzRV93YlEwSDVtNjZSZEFROVZCRXIydEQ1Y25LMUZSR0psdmZkQnJO?oc=5",
+      "snippet": "'He was invited': Carney accuses St-Pierre Plamondon of refusing to attend EU summit dinner &nbsp;&nbsp; Montreal Gazette See more headlines & perspectives on Google News",
+      "pub": "Tue, 27 Oct 2026 21:04:38 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Alberta bill would stop provincial entities from considering diversity, equity and inclusion in hiring - CBC",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRk5IZHhBVWtrdTdwYndmNVh0bFltNmFBSUlCcTQ2bThmbFRRRlluSEVxRl8yM0dWeTJLckpwQTJ2bzFuQ0hGaVBkb3dOczBjT2dfRzRtVFJOWUd4YjBpNDZnSHBPXy01MkFIMjlNWEs4X2ZGTWV3RDZzbURrSFN3aDBoLVNxc0hTOER2MlV3QXZFcTBu?oc=5",
+      "snippet": "Alberta bill would stop provincial entities from considering diversity, equity and inclusion in hiring &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
+      "pub": "Tue, 27 Oct 2026 21:06:03 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Trump shades PM Carney with congratulation post for PQ leader - CTV News",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN3NhS0JPWms0RzctT2kxTk1NbHJyREp6OV96RVFWbF9CS1RQS1hITnJNbXdjSlhyT0gwZ09Xbjg4V3A0YlYwOEtYSGNXUFRCUUtFeU9RV3FOdlVrdlpHUHVyY1R6bHo3NndhcXAyUTRUQk9QVEJTLWNmZGR6clVIZHNYUDU1OFZ3RXlPdnBwQ0F2dER4TkYydnZ0Mjg?oc=5",
-      "snippet": "Trump congratulates PQ leader on winning Oct. 5 election &nbsp;&nbsp; CTV News Donald Trump congratulates St-Pierre Plamondon on Quebec election victory -- 22 days later &nbsp;&nbs",
+      "snippet": "Trump shades PM Carney with congratulation post for PQ leader &nbsp;&nbsp; CTV News Trump sends message to Quebec separatist leader after election win &nbsp;&nbsp; CTV News Trump w",
       "pub": "Tue, 27 Oct 2026 15:41:01 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Here’s a list of what Olivia Chow has promised to do in her second term - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0VONnoxbWlZRlQ2NG12bWV6dWx2WThPRlAyQkRwZ3hxU1RGQThpZF9DVTFyMXZDR0FyVE5KV0FCMUVTNnBWX0tCY2lkZk1fa00xN012dVhOR0RlbWRLZm5lRlhaYUtaMlFCVGxHWDZTazJfa0pPa25PdzRQV3hocnZwWXZaUVJEWVlxSGViS3FwdEs1aTNCRWNxTnBKU1JMelE?oc=5",
-      "snippet": "Here’s a list of what Olivia Chow has promised to do in her second term &nbsp;&nbsp; CTV News After election victory, Chow to face budget pressure and new deal with Ontario &nbsp;&",
-      "pub": "Tue, 27 Oct 2026 09:05:12 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Alberta's Smith aims to turn the page after referendum as legislature returns - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTW1JZWZpbksxa1V2RXN3b05oZTJsM1lTdkdSNV94N2FYS0lPY2ltWGU4UHdISWJJTVE4WU83bU1TcWV4ZFVhNzBCUmdzYTRad2Q1UGRibGdKUlE1cTVYVWFINWRGbGxvNFJzdTRyTWVJbDFheFlSUHB4cklvN3pHSUdKRm1FdzdXcVZoeFV0T0RDN2pXTVJLaDg5ZnhPOE1qLWo0aE1zY0xNeF9lMjNyVTRUSUs4d0ItUmZuQy1MNA?oc=5",
-      "snippet": "Alberta's Smith aims to turn the page after referendum as legislature returns &nbsp;&nbsp; Castanet Danielle Smith aims to turn the page after referendum as legislature returns &nb",
-      "pub": "Tue, 27 Oct 2026 12:53:00 GMT",
       "image": ""
     }
   ],
