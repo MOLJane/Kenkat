@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-10-28T01:55:34.463368+00:00",
+  "generated_at": "2026-10-28T07:46:15.109891+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "October 28, 2026 – Should government reverse its plan to shut down Horizons 106?",
+      "link": "https://vocm.com/2026/10/28/october-28-2026-should-government-reverse-its-plan-to-shut-down-horizons-106/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13634').",
+      "pub": "Wed, 28 Oct 2026 07:30:27 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/horizons-106-report.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Leo Barry Remembered as One of Province’s ‘Brighter, Deeper Thinkers’",
@@ -59,43 +67,35 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/petten-zero.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Justice Minister says RNC Officers to Start Using Body Cameras Next Year",
-      "link": "https://vocm.com/2026/10/27/314646/",
-      "snippet": "The province's justice minister has confirmed that police officers with the RNC will start wearing body cameras next year. Helen Conway Ottenheimer sa...",
-      "pub": "Tue, 27 Oct 2026 17:03:14 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/12/police-body-camera-stock.jpg"
-    },
-    {
       "source": "Google News Canada",
       "title": "Israel election turnout hits 77.7%, highest since 1999 - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWURna2Mxam9qOHZTOHl1ZVpwQ2JIWWZ5N2x2bE44cDRsZVNKSGJBb1N6bkstYXVLdDZtUlI4NzFYdjVIU3VMaWtzV092WUhUNzNvSmpDcDhoTjUwVmZaMjlXUUtsSFFKVnFIdl8tQk1ZcTVsYVFiX2ExUFNlWWpUbkNjWDZWU0hjd3lQdDV2REEyTzZPNV9GTk4yblBWb0xBSkJ4SFl3RnLSAa4BQVVfeXFMTWx4WkJzc3k2ZjhNSHRLUzEzU1Rnd1pId1pIWHU1ZFhXSlhGUHJGcWJfRDNZU3ZXNnBfX3poelotY01Tb0FqV0ozZml4NlBIcVNscUV6WHdSdlY0MlAzbVBSUVpiS2E1dUJyTW1lTGVWTWFCTnJxMnhNV1kydEk3OHNsUHloTndIMjZ4RlU4cGg1dldZUkMxQ09INlphWlRRSExzNnFxUHpMd0tKYzR3?oc=5",
-      "snippet": "Israel election turnout hits 77.7%, highest since 1999 &nbsp;&nbsp; Al Jazeera Israeli voters have given Binyamin Netanyahu’s coalition a drubbing &nbsp;&nbsp; The Economist Voters",
+      "snippet": "Israel election turnout hits 77.7%, highest since 1999 &nbsp;&nbsp; Al Jazeera Israel election results live: vote count under way as exit polls point to tie between Netanyahu and E",
       "pub": "Wed, 28 Oct 2026 00:01:49 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canada, U.A.E. sign defence, energy agreements during crown prince's visit - CBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdjFieXdDTFVZZVV1ckplX3JXZjJ5NHNSeVBnREtKQ1BQTHpiR1h3RHQ5TVpORHZSVFFEcDJkZno1U2ZIc05KNlpaUG1XQW9IbUZRVWhPTkhLRTRCMXpwdUpxQlVGLTlOY1RFRE1DeWlzQ2lBNi0wUTFjaEI1RElhakVtSGFiUQ?oc=5",
-      "snippet": "Canada, U.A.E. sign defence, energy agreements during crown prince's visit &nbsp;&nbsp; CBC Carney agrees to extradition treaty talks with UAE as he deepens ties with Gulf state &n",
-      "pub": "Tue, 27 Oct 2026 19:33:01 GMT",
+      "title": "Alberta Premier fends off leadership challenge and looks to squelch separatist discord - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDZuX1ZkSXdJbDhiSzdmejY4TjQ5alRPa1VLcDQtYjlxb1daN2tIYk1FN2FhT2pGVFV2ck9MdnZUZ2JNVm5nb3RxV1Zsd1ZCR2xWSlpSQ0dPSFdaZkN0RWVmcGI5REZaMXk3bW5WdnJCR3JYWFFSd016QzdkME5FdG0yaTdWU3R6SXJaYUN1N0xpd2FubnZaTWZfRGc0aTAyTGFHUEJvZ2NzaS1RNWZnTGRHbFhrZw?oc=5",
+      "snippet": "Alberta Premier fends off leadership challenge and looks to squelch separatist discord &nbsp;&nbsp; The Globe and Mail Alberta UCP officials, candidates must now sign pro-Canada pl",
+      "pub": "Wed, 28 Oct 2026 02:25:36 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Results from mayoral races in major Ontario cities - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeTBTWHVrd2h4cGZ2ejl0a3VzcmNpTEEybHJ5dVNRVFdYTzA4c3pUdTBYM29PQnZuVUtYTGk5ZUhpU3g3ZFNiM2VaZ09rRXhRZ1NQczRYOVllVDRfNDlNc0w4NmhoTHVaSnVBbi1tZmxLak1sWTVUUVg3dnJMU2pBWmpza21kbzMtaXRiZWxmelZfMzh6Y0tTOHhmVQ?oc=5",
-      "snippet": "Results from mayoral races in major Ontario cities &nbsp;&nbsp; The Globe and Mail Voters send a ‘warning shot’ as many incumbents lose in fall elections &nbsp;&nbsp; CTV News It’s",
-      "pub": "Tue, 27 Oct 2026 10:34:34 GMT",
+      "title": "Calgary council approves double-digit water rate hikes for residents, businesses - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkZ2RFlxRFpJNkdyRXBpRVM4T0JQencwZXUwc2U0TTYwbEsyc3Q0MnJPM1VxUXRYSUg3d2pXUk9SLXk5WXc5dHVGLW1yaHVPMG45dFJ0NDRuUTdoakt6cmc4RDl2VW04d3lqMkU2Mml6cU4zM01vOWZ4RTFqbjNZY24zZzdrWVJ2TVhmMXVHRVo4QkcwV3NzTV9XeThQNGFFNTZ1U1lmR1VEWURiTWxZMkN2UE5MQUNWSklj?oc=5",
+      "snippet": "Calgary council approves double-digit water rate hikes for residents, businesses &nbsp;&nbsp; CTV News Higher water rates loom for Calgarians; chamber exec calls fee hikes 'egregio",
+      "pub": "Tue, 27 Oct 2026 23:07:32 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Von der Leyen’s Canada ‘associate membership’ spurs battle of words with EU capitals - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1NjV09KOVd5T0R1Tkw5ZHVKX0pKeU82cHNiN29KUUdETTRpV0xjVU8xcEUteFFpLV9KdzQ4MURsUmphdkFSWThNdHhyZFA4YXdQQVdtQXZZbVI5c1FSRVlRYjJMZnZMc3JyLVNhYjMwSVJHbWFCcjAybzV6SHdyX0hvNXZvX2E2V0ZKUlA1S1REVWpFaFd0ZU9tdzFVX1dsNU44UFMxZzJEMjkxRXVxX1loazFmc0hD?oc=5",
-      "snippet": "Von der Leyen’s Canada ‘associate membership’ spurs battle of words with EU capitals &nbsp;&nbsp; Euronews.com Canada's new relationship with EU will be 'closer to membership' than",
-      "pub": "Tue, 27 Oct 2026 15:44:50 GMT",
+      "title": "Canada’s Indian Act was enacted in 1876. First Nations are now asking what happens if it’s reformed - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXdxZm52VUg2cDJUYUVHYnJiRVhhN2cyN1Fka24zNkRRa2VwcmFlM3dydDgyVGJqSExBSVVzTW8zSnpaNlUtWDU5YkduVWxZSUdsTTd3NDAwOTlzYjFXazdKWkdHOUVwdklOcF9vbm4ycTd6aUFLSzV0bE9OYUFBOE5FRjRSTE9nd05nZkl0Q1JBUzF4ODZEVHpHY0ZEM2tsTHg0TndWWHY0aGNTRi1aNXBnOF82V3B1d2NrdVJLVk5XTHcxck11SEk4UXN4UQ?oc=5",
+      "snippet": "Canada’s Indian Act was enacted in 1876. First Nations are now asking what happens if it’s reformed &nbsp;&nbsp; CTV News 'Healthy' to have conversation on abolishing Indian Act, F",
+      "pub": "Wed, 28 Oct 2026 02:01:00 GMT",
       "image": ""
     },
     {
@@ -108,26 +108,26 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Metro Vancouver weather: When will the 'super' El Niño strike the region? - Vancouver Is Awesome",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY2NaZktpb2JiRDBlVlZIWUlhLW5DRkw0NXByeEdFVFMybTVtN21oVWlQVVMyZ1BiTjNWMTZfVXQzMjdVaVlpLW9fNU5NRmdGMHAwN1lBUllXOXJXdWtocFgydEUyWEQ4VFJPckJQeGV3b3hXYkV3V21sTmlpNUVycVFfdTlZU0R0NGZ0a0Vqd2FGR1FyNktBVThn?oc=5",
-      "snippet": "Metro Vancouver weather: When will the 'super' El Niño strike the region? &nbsp;&nbsp; Vancouver Is Awesome This year will be a super-duper El Niño. Here's what Canadians can expec",
-      "pub": "Tue, 27 Oct 2026 20:15:00 GMT",
+      "title": "Olivia Chow renews pledge on Toronto property taxes after historic re-election - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcnpPTU45MVAzdU5NOFdPR0VwVG5HVWRUYnYxeHRwZjN2TnUwaGxDRExmTGdMaW5OUW1zTEpZWW5UdzNDVTIzMk9ZQ2t1SjJBZnNQejhSa09QZmhXS1BYQ3ZxcUl1UUVpUTRHXzFTbWFQUlduUXhlanNSNFVFY1lqQWVaUElsRzN0bGQyUDF1NDRTZ1NUb0phVEVWUzVtZHFfTTRaem85N1p3UVFzRFhMUlQ3V1MyeGczRHozUXFuX1I4NU9SMXNYMjVvMkl2cWk4UmdoS1o0ZzZ6Y1NvUXVzMldQZ0lTNnI3ZlRtNC02aGg0a0k?oc=5",
+      "snippet": "Olivia Chow renews pledge on Toronto property taxes after historic re-election &nbsp;&nbsp; Toronto Star From incumbents losing to voter turnout: These are the top takeaways from t",
+      "pub": "Tue, 27 Oct 2026 20:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump congratulates B.C.’s premier-designate on ‘big victory’ - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVVVN3Y0azlEZlZrRF9QYmExTHZaLUVXcjlhdDV5REZyUWVTNHE0ZTMzZDhOc0xtcE90TVVZTi1TVEd5M0pjSEVKTmRKVVJ6bEh3UW1uR0VQa3NvZU9sbUtULWxwWE1kVWFyUVhsM01wRTRfODR3TU1OaEg5Z2N5LWRZdDhfM0dIQ1h4bFhBYk0xd0tMelFpLWVrbW1VSUk?oc=5",
-      "snippet": "Trump congratulates B.C.’s premier-designate on ‘big victory’ &nbsp;&nbsp; CTV News Trump sends message to Quebec separatist leader after election win &nbsp;&nbsp; CTV News Trump w",
-      "pub": "Tue, 27 Oct 2026 20:09:04 GMT",
+      "title": "Canada's new relationship with EU will be 'closer to membership' than ever, senior officials say - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlBLYWJvUG5fVHNkOTNJR2VzRnQ4N2ozZ3E5TndkdWk4SWh0RnZXczExWkRDbEpkOHNtNktBVFNKRjVGNVZjZjAxcUVWWnVHT3RtLVZXSE5mLUZ4LUp6dDNmaUVUbTdlZU85eUxsT01PTVV1WkR2Z1Frd1NoTTIyRGlacWdERnc?oc=5",
+      "snippet": "Canada's new relationship with EU will be 'closer to membership' than ever, senior officials say &nbsp;&nbsp; CBC Free labour movement not something Canada and EU considering in ne",
+      "pub": "Tue, 27 Oct 2026 22:40:01 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Danielle Smith faces another leadership review call from UCP constituency board - Global News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWRRVVE0cjZtcE9FRERrR0g4Zlg4WHJfZ09yVXlidUxfVmJPR2REcnJEVlMzTXVGVVBkRjFlWEc5VEdjUDVRUEN2aHNDdmoxMFpnb1NzdWNfZXhVcEZiZEZ2c3FJQmRSZEFxVW0wQU81dHhWaG42NVNnZHI1cDh2VnJvYTAyTW9fLVRjUzdlN1JKOUpXSzZF?oc=5",
-      "snippet": "Danielle Smith faces another leadership review call from UCP constituency board &nbsp;&nbsp; Global News Alberta’s UCP introduces pro-Canada pledge for party officials &nbsp;&nbsp;",
-      "pub": "Tue, 27 Oct 2026 21:01:32 GMT",
+      "title": "New Liberal bill allows advance requests for MAID, denies mental illness as sole qualifying condition - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXA4ODAxbjBiNW5Ka2hrMTA4RHpSYnRLbXJHZHphdnRac2l6bG1EVTgzblB5NkdtbnhydTJOaW15TGdia1BXRW10bFZXVk1TSUVaZUJpVWFEbnBKYXZwXzlRYkFyT2hjRUlNVGxPXzdNb0dHNmRCYTh1RHkwRDQ3a3MxMGVnZ09EMTdDRU1VTGdIMGhwOU1XMG9kMnlvamdGWklYTm1ya3J0elVhOUNv?oc=5",
+      "snippet": "New Liberal bill allows advance requests for MAID, denies mental illness as sole qualifying condition &nbsp;&nbsp; CTV News Canada introduces bill to allow people to be euthanized ",
+      "pub": "Tue, 27 Oct 2026 22:38:14 GMT",
       "image": ""
     }
   ],
