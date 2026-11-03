@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-11-02T20:26:30.478215+00:00",
+  "generated_at": "2026-11-03T02:30:16.974644+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "No Whey! High Price of Protein Supplement Linked to Rising Demand, Social Media Trends",
+      "link": "https://vocm.com/2026/11/02/no-whey-high-price-of-protein-supplement-linked-to-rising-demand-social-media-trends/",
+      "snippet": "High demand is driving up the price of a popular dairy byproduct and protein supplement. Whey is a byproduct of the cheesemaking process, and whey pro...",
+      "pub": "Mon, 02 Nov 2026 21:06:15 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/revolution-protein-shake-powder-2.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Local Company Receives $900,000 for New Sea-Lice Treatment System",
+      "link": "https://vocm.com/2026/11/02/315385/",
+      "snippet": "The provincial government is providing nearly $900,000 to a south coast company to support a new sea-lice treatment system designed for smaller vessel...",
+      "pub": "Mon, 02 Nov 2026 20:33:27 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/11/360-marine-ltd-facebook.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Government Open to Exploring the Possible Repurposing of Waterford Hospital",
@@ -51,83 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/11/nunavut-arctic-college-kivalliq-campus.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Nunatsiavut Government to Receive $15.5 Million from Ottawa for Housing",
-      "link": "https://vocm.com/2026/11/02/315356/",
-      "snippet": "The federal government is giving four Indigenous governments, including one in Labrador, millions of dollars for housing. The $130-million top-up is t...",
-      "pub": "Mon, 02 Nov 2026 17:00:32 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/welcome-to-nain-nunatsiavut-government.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "$500 Cost of Living Bonus Coming for Seniors 65+",
-      "link": "https://vocm.com/2026/11/02/315360/",
-      "snippet": "A one-time cost of living bonus is coming for approximately 130,000 seniors across the province. Premier Tony Wakeham made the latest in a series of a...",
-      "pub": "Mon, 02 Nov 2026 15:47:39 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/11/seniors-credit.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Trump official who derailed trade talks is now reviving them. Sources tell CTV News Lutnick led push to re-engage. - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPd1JBMGFFSDVCUlBXekVGRGZHR2hOTk1GcGpCcU9FUVYzYmRHem9ObDl0aHRqeTEyUzlManNYSXZhZFl3UVlicHVPMUstYjJlN3N3NXd6aEZVMFQ2Ym1yUDJGVmQ0VlFjTDRsTXRsWndMLWd0TUhQalZiS2c3ZDFFUUhya2szU3BMdlF4dVo0ejVITmExck1hRDIzTEZTUnBYY0ZRdkNVWHJCc1M2dGxyT0xCZ0hsbE1halZlMk55OFc1Y1JOYmpsaXZuS3d2NmYyZ1FnYnV6MGNZbEVRd3hxallfTXdYQ1VNUmVmZ3lvMmZDdU1ZYVNNWg?oc=5",
-      "snippet": "Trump official who derailed trade talks is now reviving them. Sources tell CTV News Lutnick led push to re-engage. &nbsp;&nbsp; CTV News See more headlines & perspectives on Google",
-      "pub": "Mon, 02 Nov 2026 14:02:55 GMT",
+      "title": "Family members charged in homicide of missing 11-year-old Burnaby, B.C., boy - CBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVN1d0dSVkgxZFp5Q0xhcVBqdlBaSGh4QS13ZHA0cnVDTm5iQjVmOEQyMEpGUUZlQk5XZXBBLUN3U20tTzBqOFpXQnlHeFVNT3VROTVHMWdjOG9pVGUzM1pGY19Ha1RPeWM1ZjljZG1OMEtxTjl3VmdSUjZTRTlwNGRQQjd0WGJxdmM5dnRQd2ZJajBJZDVjVHM1WjAtaG8?oc=5",
+      "snippet": "Family members charged in homicide of missing 11-year-old Burnaby, B.C., boy &nbsp;&nbsp; CBC 2 charged in death of B.C. child reported missing last year &nbsp;&nbsp; CTV News Pair",
+      "pub": "Mon, 02 Nov 2026 22:29:23 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "All nine people died aboard a business jet that crashed into a Florida neighbourhood, transportation secretary says - CP24",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYUFEMWprZTJ3el9PeVhrWEFGaXFyQ09CV01SUWIxb29aMURKU2c1TWw2OGt1NDJkc2RpVkpPX3M2ekNqYWtTcnpoU1VhWm9XX0ZJUXhIZUQ3eWJHal9GWDV1Sk9vV0U1V0VkcGtFbGRQeGM2eUxjb0VPc2p6alpXMzZsaU93VlllSDIzODFhZkptbmZlTjVnSVJOWFNxMlYtZGpXeVNsX2hGdEVUZTU2V2RpNXFiNVJSTW9vVFN1SGZhc1lDbmxUM3RrWlJJSzZoZlk4d2xCNA?oc=5",
-      "snippet": "All nine people died aboard a business jet that crashed into a Florida neighbourhood, transportation secretary says &nbsp;&nbsp; CP24 20-year-old co-pilot among 9 victims in Florid",
-      "pub": "Sun, 01 Nov 2026 22:11:17 GMT",
+      "title": "What is Donald Trump’s closing message to voters? - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2s3d1J6R1dZZzB4TzFMUnlHSTZFenBLVFB4VHJiZ2FRVFl4dVdLdmRkeHlMMGxhZnVWQ2E4VXpPWl9JNHVvMUI2b1IxZ2NqWUt3N3Nzbllwc0JnRndiaVRaSS1HVGhmazRBbjlNa2E3alk4TEtIaXgzUWdYOGlSNWJHWnRFWThZZTV3Z1gtZmhEazBRUnE2bU5ra05ra0Nf?oc=5",
+      "snippet": "What is Donald Trump’s closing message to voters? &nbsp;&nbsp; CTV News Trump rallies for Republicans as parties make final push ahead of U.S. midterms &nbsp;&nbsp; The Globe and M",
+      "pub": "Mon, 02 Nov 2026 23:14:11 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Toronto police chief defends decision not to arrest Bridle Path home invasion suspect at hospital - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYVVYVGZJc051QWlCWE5raGZ1ZkxJS0huYTFiTE5fb09UZVFuQk9SWFBWSWZCZ2hQLXh3akplVkVJR19uSm1ITFhqbmI5WUhtN3gzZzNMRGJqbGVFMGdoN0FMdlROUy12Ti1SNmFhMmJYSmdHQW5BREVpd0ZDTldOZ3hydFJGa2MwYTdKUkR4eXE0NjlYTGw3NzB3eHFSQnR0amEtcFhFTjhyeVJwTVNXNVpfXzFkYXl6WDJTcElMdmt3TlRoNk8yTENidkd6bEN4Qjl3?oc=5",
-      "snippet": "Toronto police chief defends decision not to arrest Bridle Path home invasion suspect at hospital &nbsp;&nbsp; CTV News ‘There’s been no failure,’ police chief says of Bridle Path ",
+      "title": "The impacts of ditching the time change as Monday brings some confusion, chaos - Global News",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xRFNzVUlVUUVSb1NEMHVSMEl0aGFQQ0pmTUY0Yk1KempNaXNpMndUMTcyNlpnbzFhS05aLUVldFhwYmhoQXRWd21aWjd4MmhLX3dnMW9xOTRFdTdGM0Z4ZHh3Tjc5VnpKN3RsSW5DODk?oc=5",
+      "snippet": "The impacts of ditching the time change as Monday brings some confusion, chaos &nbsp;&nbsp; Global News Some hiccups for ferries after B.C. ditches time change &nbsp;&nbsp; Times C",
+      "pub": "Mon, 02 Nov 2026 13:18:21 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Dangerous offender hearing underway in Calgary for man who raped 90-year-old, sexually assaulted 5 kids - CBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmZTRXZRQV9xNGlBOHR6OGhfaGxCU2xmSnRQYmVBM19qUlE2aXlta1lNRHlXMnR4Y3ZUTmhnNE5fWVRjanJCRktnbUFBcUNHaTJ6bmNVakhhTTZGSHdvZ3lmUFRCLUZTMkJuMzY1aWRFZ2VBZEx0eER5ek9vTm00UEpxMzNsc2ZVaWYxbGNPX1A5LWRLeHYxU1hn?oc=5",
+      "snippet": "Dangerous offender hearing underway in Calgary for man who raped 90-year-old, sexually assaulted 5 kids &nbsp;&nbsp; CBC",
+      "pub": "Mon, 02 Nov 2026 18:42:03 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Police chief explains decision not to arrest Bridle Path home invasion suspect at hospital - CP24",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZUlVTHZsQTRFZk50dTVSdlN3UERoMjEwbWU2LUNIOE9RNndOakhySUNhenZ2NmFLazc1R2hLaDlHVzNXamhPOVBYbVdCMlJUQVNCNk16TW9GNXJBMUdIMk5JZ3V3Rmx1VmczRm1JZlVtQXdDSFVxUUJXU19WdkZ1UVZka1ZVZzJtYXZzR1pRZVdvbG1sS0ZuaFE3NnpCTWtlUjZveDEzNzhnenZyU21OcjlobmRMN0o4bDd0UjI5Q3B0aXNCRWZhYU0zSHBIeUJRWGlfOFZseWJrNWZ2?oc=5",
+      "snippet": "Police chief explains decision not to arrest Bridle Path home invasion suspect at hospital &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
       "pub": "Mon, 02 Nov 2026 18:24:03 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Canadian police urge caution after reports of tampered Halloween candy - Global News",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDUUdHS2Y2R1RLTmI2NEk0SF9MaXA4ay1iRW95X1ZwaGZZR0lKRnpTZUxNQnQtcEVpSUt2SFRWQ2lCTVR0UkJuX1hDbE1VeU9aQUtnTW9HRjEzR3AzdlJwZXBBeEg0TVBrS1JVLUxYbktjZTZx?oc=5",
-      "snippet": "Canadian police urge caution after reports of tampered Halloween candy &nbsp;&nbsp; Global News RCMP gets another report of metal object in Halloween chocolate, investigation ongoi",
-      "pub": "Mon, 02 Nov 2026 17:19:27 GMT",
+      "title": "A commander of cadets selling poppies was tripped, punched and stomped at a Mandarin restaurant. The assault caused life-altering injuries - The Spec",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGNiMGt6b0hTN20yNXgwbkc2QTNIajlFODhtMk1aZGNYUUI0WW12WVdsTi1tV2ZPYUd4Q2hRcHdUU3d2X2ZaU01LaXRVamY1ZFhUTWxNZlltMnhiTEdWX0lBbDlNWFQwZ1hGSWF6WVkybnkxSDRpd2dtQS1XMUt6dk1zTDdNOUFhWGhRajhDOV9JUjVmRUdzUjIzOW1VQ3QxbDFmU1dCX1U0a09DZHhUcmJJR3A3Y2RsYmhNV1VXc2F0TXJPU1h0dUl0Z29GQVFfaUVtR2ZMb1lpZw?oc=5",
+      "snippet": "A commander of cadets selling poppies was tripped, punched and stomped at a Mandarin restaurant. The assault caused life-altering injuries &nbsp;&nbsp; The Spec CAF member supervis",
+      "pub": "Mon, 02 Nov 2026 19:00:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Leong: Calgary's water woes only tip of huge infrastructure shortfall iceberg - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTUhfVVZhU1JwSTVVYk5iNVNqVTl6cjZ4X0R3NVRTS2E0Nm5xWjItY29MdFl3bU5fdDBYRkFZUWlaTjlYU2k2Y01GcGpOa01qdi1UYnYxVXUxeWhrYlpiUFBEa05yaDdERnBOYlhpR2wwWnRCR01jdnFweVpYWEJWOEFSZ05oZ3BacG9LOURBbFlmQXM?oc=5",
-      "snippet": "Leong: Calgary's water woes only tip of huge infrastructure shortfall iceberg &nbsp;&nbsp; Calgary Herald Water restrictions returning to Calgary as feeder main repairs near comple",
-      "pub": "Mon, 02 Nov 2026 11:53:41 GMT",
+      "title": "Former Alberta junior hockey executive charged with sex offences against players - CBC",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHdFZ3ZTQW1MR21YTVZaWWRqZS03aG1TeFZ2V29UOGl4SXRtYnpzbjRLbUVHOF9tYzdZTDdlVGlBWW5zUkpzYVJ3Wkx0Wmg2RXRObVZ1dXhNSmF1eTNLRF9sWU53RVNZeXlrT0VSeXQzVTdXMHJZS2tjM3JhQWd4RFlvcTAtMWVuOFN6T25iZUMtODBuR0trR2tFNU8?oc=5",
+      "snippet": "Former Alberta junior hockey executive charged with sex offences against players &nbsp;&nbsp; CBC Former AJHL, BCHL executive, broadcaster charged with sex crimes against minors &n",
+      "pub": "Mon, 02 Nov 2026 22:40:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "More than 150 firefighters battle five-alarm blaze in residential building in Little Burgundy - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONndRNjAxaGVDUHNMNVBNN1gtV1I2eGNlWmtiaWJ0R2pLM1lsdjdueDlLYWNpUVdIQ2FIMzZVOHhaaTRNZWc2QnB4bXdSbGc4QmtaUzBEMW1DOVo2S1dHMVlKbUhUWUU3TmZxQWFxR0tFNjY0UHcwZmNOZk5iZ21xUjdtMFdLZHpUTDc3S0JGSmNkbmtyQ0pZcWJCTXQ5QUliZk9ieXJ6Q0ViOFZabklPaXBzaw?oc=5",
-      "snippet": "More than 150 firefighters battle five-alarm blaze in residential building in Little Burgundy &nbsp;&nbsp; Montreal Gazette Residents gather what's left of their belongings after S",
-      "pub": "Mon, 02 Nov 2026 13:12:08 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "TD tried to make grieving mom pay $38K in student debt after daughter died of cancer - CBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbTNCY2YwLVFwTDhOX1Yyb2ZQZkYwUTNTVkpsSkNMZmdwMnB0czBlYXZweXpRXzhjelhMRlpqejFhNjNnS2tKQ1RjNlFfMXRGX2RCZ3BGdU5KbU14SmJBZVVCbXU4Y2d1UEdCdVB1TkI0OTZRX09tb3U2SVVuTi1nbWhTVVh2SUtMSHkzaA?oc=5",
-      "snippet": "TD tried to make grieving mom pay $38K in student debt after daughter died of cancer &nbsp;&nbsp; CBC",
-      "pub": "Mon, 02 Nov 2026 17:02:55 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "2 charged in death of B.C. child reported missing last year - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWVZZRFdNZW5VNGRLODY3REw4OEd6Tzh5OWt0bW5PS1d4b1dua0Fuc1JMaURBYXJReXp0ZVhSV3lWUFVOTWVDMVpFa0wzNjJ0QVNKUGtiaG5YR1dfSWxoM2pnYlF4Skd2dFZPYXd5d242TU5heGthRlRMTDB0Y1E2Y0lRRXhIOFZ1SUhBSXlYRWZkemxnQmtKa2lJMlpRSFBG?oc=5",
-      "snippet": "2 charged in death of B.C. child reported missing last year &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Mon, 02 Nov 2026 18:42:17 GMT",
+      "title": "Thousands of OSAP applications came from a single IP address, ministry alleges - Global News",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tZlpRREF3MmdIRXB0LWJFdFNmMlZyYmNKSk5Fbk5uanJKMl9aRmZlNjRocXJQWENFMkluWVdJQWhZNFhYbDR0c1lNak5PdGVmdV9hSXh5SjlVVW9wYWRfaUtjZDZQR3RTellpcEQzRF9LZTA?oc=5",
+      "snippet": "Thousands of OSAP applications came from a single IP address, ministry alleges &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
+      "pub": "Mon, 02 Nov 2026 13:12:11 GMT",
       "image": ""
     }
   ],
