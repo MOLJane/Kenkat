@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-11-04T02:30:20.166393+00:00",
+  "generated_at": "2026-11-04T10:11:30.137559+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "NL Bringing in Legislation to Allow for Seizure of Items Connected to Criminal Activity",
+      "link": "https://vocm.com/2026/11/04/nl-bringing-in-legislation-to-allow-for-seizure-of-items-connected-to-criminal-activity/",
+      "snippet": "The provincial government has introduced legislation which it hopes will help disrupt criminal networks and increase public safety. It's called the Ci...",
+      "pub": "Wed, 04 Nov 2026 10:04:55 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/11/helen-conway-ottenheimer-vocm-news-sitting.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Masks Now Mandatory at Health Care Facilities",
+      "link": "https://vocm.com/2026/11/04/315563/",
+      "snippet": "Mandatory masking resumes in all hospitals, health care centres and long-term care homes effective this morning in response to an increase in respirat...",
+      "pub": "Wed, 04 Nov 2026 09:53:16 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/surgical-mask-sick-illness-sickness.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Man Charged Following Armed Robbery in Downtown St. John’s",
+      "link": "https://vocm.com/2026/11/04/man-charged-following-armed-robbery-in-downtown-st-johns/",
+      "snippet": "A man has been charged in connection with an armed robbery involving a firearm in the capital city's downtown. Police rushed to the scene around 11:30...",
+      "pub": "Wed, 04 Nov 2026 09:41:48 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2019/11/RNC-Night.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Sunrise Animal Hospital Forced to Close Due to Vet Shortage",
+      "link": "https://vocm.com/2026/11/04/sunrise-animal-hospital-forced-to-close-due-to-vet-shortage/",
+      "snippet": "One of the metro region's biggest and among the longest-serving vet clinics in the province is vowing it will reopen as it tries to find a way through...",
+      "pub": "Wed, 04 Nov 2026 09:34:48 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/11/sunrise-animal-hospital-mount-pearl.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Gas Drops Below $2/L in Overnight Adjustment",
+      "link": "https://vocm.com/2026/11/04/gas-drops-below-2-l-in-overnight-adjustment/",
+      "snippet": "The price of gas has dropped below the $2 mark for the first time in weeks thanks to a big drop at the pumps. The PUB has lowered the maximum price by...",
+      "pub": "Wed, 04 Nov 2026 09:31:40 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/gas-fuel-prices-public-utilities-board-car-gasoline-pump-station-fall-2026.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "November 4, 2026 – Do you agree with the return of mandatory masking at health care facilities during cold and flu season?",
+      "link": "https://vocm.com/2026/11/04/november-4-2026-do-you-agree-with-the-return-of-mandatory-masking-at-health-care-facilities-during-cold-and-flu-season/",
+      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13671').",
+      "pub": "Wed, 04 Nov 2026 09:00:52 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/10/img-9758.jpeg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Democrats Win Control of Congress in 2026 Midterm Elections",
+      "link": "https://vocm.com/2026/11/04/democrats-win-control-of-congress-in-2026-midterm-elections/",
+      "snippet": "Democrats have won control of both the U.S. House of Representatives and the Senate following the November 3, 2026, midterm elections, changing the ba...",
+      "pub": "Wed, 04 Nov 2026 07:26:26 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/11/8207029.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Mandatory Masking Returning to NL Health-Care Facilities",
@@ -11,123 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/10/img-9758.jpeg"
     },
     {
-      "source": "VOCM",
-      "title": "Parks Canada Burning Brush in Terra Nova National Park",
-      "link": "https://vocm.com/2026/11/03/parks-canada-2/",
-      "snippet": "Don't be alarmed if you see smoke when you're driving through Terra Nova National Park today. Parks Canada says workers will be burning brush that has...",
-      "pub": "Tue, 03 Nov 2026 20:14:54 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/06/northwest-river-terra-nova-national-park.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Eastbound ORR Slowed Down Significantly Between Thorburn Road and TGH",
-      "link": "https://vocm.com/2026/11/03/315536/",
-      "snippet": "Traffic on the Outer Ring Road is slowed at this hour. Construction on a section of the highway between Thorburn Road and the Team Gushue Highway head...",
-      "pub": "Tue, 03 Nov 2026 19:34:01 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2025/06/construction-generic-2.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "Province Announces Community Respect Initiative Targeting Harassment, Intimidation at Municipal Level",
-      "link": "https://vocm.com/2026/11/03/315506/",
-      "snippet": "The province has announced $75,000 for the first phase of a Community Respect initiative aimed at helping to foster respectful governance in the provi...",
-      "pub": "Tue, 03 Nov 2026 19:12:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/05/nl-house-of-aseembly-confederation-building-government-nl-hoa-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Bay St. George RCMP Receive Report of Tampering to Halloween Gum",
-      "link": "https://vocm.com/2026/11/03/315523/",
-      "snippet": "RCMP have received another report of Halloween candy that appears to have been tampered with - this time in the Stephenville area. Police at the Bay S...",
-      "pub": "Tue, 03 Nov 2026 19:04:46 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/11/tampered-gum.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Labrador Affairs Minister Blames Previous Government for Ten Years of ‘Inaction’",
-      "link": "https://vocm.com/2026/11/03/labrador-affairs-minister-blames-previous-government-for-ten-years-of-inaction/",
-      "snippet": "The Minister of Labrador Affairs spoke passionately in the House of Assembly this afternoon, blaming ten years of previous Liberal government inaction...",
-      "pub": "Tue, 03 Nov 2026 18:41:01 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/11/lisa-and-lela.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "New CODCO Reunion Documentary Celebrates Group’s Bold Legacy",
-      "link": "https://vocm.com/2026/11/03/315467/",
-      "snippet": "One of the original members of a ground-breaking comedy sketch group says even today he's amazed at their bold approach to controversial topics. A new...",
-      "pub": "Tue, 03 Nov 2026 18:07:23 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/11/codco.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "RNC Investigating another Random Assault in City’s Downtown",
-      "link": "https://vocm.com/2026/11/03/315477/",
-      "snippet": "RNC is investigating a shocking incident in downtown St. John's captured on video and shared to social media. The video, which has been making the rou...",
-      "pub": "Tue, 03 Nov 2026 17:15:08 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/11/downtown-kick.png"
-    },
-    {
       "source": "Google News Canada",
-      "title": "U.S. midterms: Early results roll in as voters shape Trump's final 2 years in office - CBC",
+      "title": "U.S. midterms: Democrats take control of Congress as voters hand Trump major loss - CBC",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUV2Vy1MdHJvY0VNNVpubWFaWGFzdzZFZDRrd3FLZjVScl9JNi1vdU10QlVxSUthWDQzdUd1QXh2M3Roa3V2ODRWTFg5TEl6QUc4dktyMmdrTjRMaC1vWVI0bFR6U2lqS3BNODh6cHJsU202b2ZOd2ZvTW95OTlWc1dldU80ODAyaWFSQWxCdjBfY0dSUDZTR0FZbw?oc=5",
-      "snippet": "U.S. midterms: Early results roll in as voters shape Trump's final 2 years in office &nbsp;&nbsp; CBC U.S. midterms live results &nbsp;&nbsp; CBC Takeaways from the US midterm elec",
-      "pub": "Wed, 04 Nov 2026 01:12:42 GMT",
+      "snippet": "U.S. midterms: Democrats take control of Congress as voters hand Trump major loss &nbsp;&nbsp; CBC 2026 US midterms: Full live results and maps &nbsp;&nbsp; Le Monde.fr STATE OF PL",
+      "pub": "Wed, 04 Nov 2026 07:08:13 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump’s trade chief pushing him to step up negotiations with Canada - Politico",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUY3c1JIclBSa09VTXM3UlJiMWtrUkxUdFJoRTV6Zl9ZZGJQcUlCTFppQm9ESWhrcGVfTWRHdy1SSkU4U2ktY2ZiMEtWNnBiWkhDQmVuajlhTlFDa3NJM0dESGNTeWdPbmNMWTBxV2swVkhLbV9QdFdhUWhORl9Ca2NHUFlxNEFFamRWNzhQRlJEdFNadkd5M1RQMTM?oc=5",
-      "snippet": "Trump’s trade chief pushing him to step up negotiations with Canada &nbsp;&nbsp; Politico Carney says U.S. 'asking less and offering more' with 'more intense' trade talks underway ",
-      "pub": "Tue, 03 Nov 2026 23:55:00 GMT",
+      "title": "B.C. hockey team says it didn’t know hire was being investigated for sex crimes - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUFN3ZjMtYzZVRDJZSXNUdDBQQnhmbjByQVQ1bXhqTzdOZU5mMko0d2prSmxWenRfS0tVZDBEYjNNa0Y2R2ZNM0d2Snd0X1dGNThFWTdyZ0dfTEdWSm1XUm5PZ1BlcHZzM0QxYTNNeDFqY2JkdXY2OEV0WmtYZkFWX1hXV1BXek9ydUhRckNlZlV1NVp3Sk43ZWJWSmJFOC1oUnNnLXhpWEoxdnF6cnNMQnlPQkduaTJoTkE?oc=5",
+      "snippet": "B.C. hockey team says it didn’t know hire was being investigated for sex crimes &nbsp;&nbsp; CTV News B.C. hockey team says it wasn’t aware new executive was under RCMP probe &nbsp",
+      "pub": "Wed, 04 Nov 2026 00:27:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Senator Jon Ossoff wins reelection, holding Georgia for Democrats - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ05OSFAxbUI3MjloX2Zza2REVE5FcWxJNFNWSzhFbWdOTjRMZnAtbTlycjlnOVE5MHJMalJnZUNQbHlQZE9ZWkV4ei1Ea1BkZlpIeURuSk81X3R4Z21nYTctbS1kTjJ5TUtaTWhwOEJXTm9jNk5ZT0YyblpOcmVCa04wTm9zWUI4Y3VTYW1ueUlfdm43VGtNZGNEb2tObnZsMDgxcXlVRzY?oc=5",
-      "snippet": "Senator Jon Ossoff wins reelection, holding Georgia for Democrats &nbsp;&nbsp; Reuters US midterm elections 2026 live updates: Democrats flip first Senate seat from Republicans; Os",
-      "pub": "Wed, 04 Nov 2026 00:41:00 GMT",
+      "title": "Alberta Premier Danielle Smith defends new 91-seat electoral map - Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGlsTkx6NEFjazJMV3dJLTdCcElEcnhEcmZZbWhWc2ZKck9qTDZCWEx3Nl9MWUhpVUw4bE5iYUUxNExrTVdHOGxzMlZNVi1xMWhuRUE5S2pYWlFSR3UxZVkzWnlzOUtXSHcxODBkb3lwVFFVMWZ5MjRJTXdDZTdZUXI3WHNpbG1YaVVudXFSdzFNdXRJQlRXNy1YN3QydWhaS0E?oc=5",
+      "snippet": "Alberta Premier Danielle Smith defends new 91-seat electoral map &nbsp;&nbsp; Edmonton Journal Smith defends Alberta electoral map against gerrymandering allegations &nbsp;&nbsp; T",
+      "pub": "Wed, 04 Nov 2026 01:06:51 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "B.C. hockey team says it wasn’t aware new executive was under RCMP probe - Global News",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xLUdaMjFpaElRemFiZGlsV3pBd0NxWEJpUlhmbjN5SFJPRWQyczBIYUw4aGpDbUhQSDFHR3NaeWNtTUd2dzJ2LWRlaUlqTVRwSFRhZEpkWHBhWms2MUdnbVJISk5JcmVWOEJwaE12TkFHakdiV0FiVg?oc=5",
-      "snippet": "B.C. hockey team says it wasn’t aware new executive was under RCMP probe &nbsp;&nbsp; Global News Former BCHL assistant GM facing child luring charges &nbsp;&nbsp; TSN Sask. player",
-      "pub": "Tue, 03 Nov 2026 18:31:01 GMT",
+      "title": "Why lettuce was the defining image of Pete Fry's inauguration as mayor of Vancouver - CBC",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZjJTSGRSel9DMzVWWURsMTN5ODh6cjFwM2FFR0hIY0dFNHRONVFJeVowamcwdHZHQThlQlpONlI2cXRfcWoycmMzUDhKVk9Fd25zdVpMd1M5WjBhRVF5NTVYbm9JN1h2c3FzR2FUMHQxRWJUdy1wZkNDYy15WFBjYnhrU2hWaTJ4ZG9PZVhMLXc?oc=5",
+      "snippet": "Why lettuce was the defining image of Pete Fry's inauguration as mayor of Vancouver &nbsp;&nbsp; CBC 'Let's get to work': Vancouver's new mayor strikes collaborative note as counci",
+      "pub": "Wed, 04 Nov 2026 03:27:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "NTSB says crucial plane parts found three miles from Florida crash site - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yQU5Za0o3dnVWTHJHazA1R1lYbnBLQ2tBUTlQMTAwYjNPOWR4SURKWWxDVkZnbDBqZGJrcUlCQWxQUDJGX090S3FOcTc1MDlDQWpnOFNvZ1R3cFU?oc=5",
-      "snippet": "NTSB says crucial plane parts found three miles from Florida crash site &nbsp;&nbsp; BBC ‘Very important’ evidence in Florida plane crash found miles from site: NTSB &nbsp;&nbsp; G",
-      "pub": "Tue, 03 Nov 2026 21:53:38 GMT",
+      "title": "Ontario won’t make career college OSAP audit public, minister says - CP24",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMk1VdFhaVFh4a0dwbkw0cTdhSzZJTDlyNjI5WlpEb2hNS2dNWF94bzZPSHh1ZEpaenNBVEpENUw2b080dmI0MmllT3phTUVqU0xJSHNNNUNGSWZ2OGoxV2dXVGVfblI4YlVBenJSS1MyLTgxYVpfSGNsUHI3TUZ5b29qOTZ5UTdpb2xQWFBQcnlmaENCaVNpcVo1X2xWUVZvVnBIWWYzeEJOakVtbmhfVl9welpBb3N3cUE?oc=5",
+      "snippet": "Ontario won’t make career college OSAP audit public, minister says &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
+      "pub": "Tue, 03 Nov 2026 22:10:23 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Teen injured as dozens ride e-vehicles dangerously on Halloween, Vancouver police say - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2FXZnF0cnhVWnc1a1RTTXNKWXlqbXByTDFGbHlNZklNREk0VUdXWldUVmxIWUdHeUIxcjVVQ05vYVp6Q0U3MnFBcjNDbGlidlUzcW1KMk1GV3l3UmlMZWVRemVvbXRfaDNwbTZMNkkxd242SVJRamxzMEp1a2FOcm9oSi00UlRaZkNBbjFQd0tzTmFFUWNfX2xDT3JEdURzRjQ0WVp4aGV1MlQwWlBWU1BjbXkzczhzVzJXVnJ4a2pIanBn?oc=5",
-      "snippet": "Teen injured as dozens ride e-vehicles dangerously on Halloween, Vancouver police say &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Tue, 03 Nov 2026 18:03:39 GMT",
+      "title": "Meet the Canadian who came home from the U.S. to help build this country’s war machine - Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWk3Qi1xSzB4R2Q5TFk1S1JQY0tVZ2hxSWhxSFotMHJvQXRuODR5TTVJbnZOQXZDRzVoQUtWVnBYcUlyMzZEMkNsNV9kSEhUU1QyakJpOW12NFZUSzNhU1Uwcklaa25fdnpZN0NIOEptOS1BRzlHZXVoWWFZbEo2S1pGZlB0UVRI?oc=5",
+      "snippet": "Meet the Canadian who came home from the U.S. to help build this country’s war machine &nbsp;&nbsp; Financial Post As Ottawa talks up sovereignty, small defence companies say owner",
+      "pub": "Tue, 03 Nov 2026 19:47:48 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "P.E.I. Premier Rob Lantz facing pressure to step down - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclllWG1uUDBtWmhXUktjb216S2FodTZ2RkE3Mklwenc3bzh1OU1MWl9hUjJWVGlUUUpKdzBRc3J6UVZFclM0UnV6OE81VnhHOXVfYnF5d0dCWGpsb1hYMjBHbkdkTWtBcVBCWWRXV2N6dDhNOU1uUl8ySWZmZ3dYT2hycUdwTEJzWDBlcE5VVUNPcGlHaVVtdGVrZFg0NUk2ZlBn?oc=5",
-      "snippet": "P.E.I. Premier Rob Lantz facing pressure to step down &nbsp;&nbsp; CBC",
-      "pub": "Tue, 03 Nov 2026 23:35:16 GMT",
+      "title": "If the Democrats win the U.S. midterms, what would change for Canada? - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85VkJGeHU4QXVpTmpyX0ZSbG92Y2NPZGVmVEcwUVI5S0xBdmJHbjE4Z2RqSVR0aXgwOGFTVGk0Z1VlMVpaaGJRcVNfY2ltX1dVZEI1VWkwZXVIUTNfMTIxb2ZjeURFdw?oc=5",
+      "snippet": "If the Democrats win the U.S. midterms, what would change for Canada? &nbsp;&nbsp; Global News Where to watch the U.S. midterm elections in Ottawa &nbsp;&nbsp; CBC Election Meddlin",
+      "pub": "Tue, 03 Nov 2026 11:00:29 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Ostrich farm sues for loss of dietary pill business, says projected revenue was $200M - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdEN1MnRLLVNkQzNSaGljTnpYSmlwMnY2STV3eXJUSG5kN25aYlVJTW1sYllrUW4wbFhoaXl5MExSbmxDLXhwMzdyZ0E1NjFuUzM5NGVqYkhObHQ2TGhUcHoyR0VUSzhpQTk0SXRpSno3SEd5VGpMd3NTdXFpTWhEOVNYcmRST3ItQWVlV0lSOGRseEJBQjQzNzJTMTFHWENoN2Y3UFljUzBhUDE4M3Y1N0pFa1NyNnpFczNxbE9SM2tpSVk?oc=5",
-      "snippet": "Ostrich farm sues for loss of dietary pill business, says projected revenue was $200M &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Tue, 03 Nov 2026 18:50:50 GMT",
+      "title": "Mother and daughter dead after suspected grizzly attack in Bella Coola - Vancouver Sun",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQelpjbldnS2dXek9haFlxVHNsXzRuRklacmpPWGRmbjFvY1VlMFpPYV9NMlF4UFB4T0VhVlZRajlCYVBwaUE5Z08yTlBFRk9weTZZa181bzNZRUZNOXZKbktEbXdldzNGbUR4YlVFQzBtY0wzRl9tOXFHWmRqbk9MMnNCeEFvb3lySE13ZGhhTlBRZWZmRjhpRUdUdHhkVkFVZzdpYnY1Rm1wb3Ri?oc=5",
+      "snippet": "Mother and daughter dead after suspected grizzly attack in Bella Coola &nbsp;&nbsp; Vancouver Sun Mother and daughter dead in suspected grizzly bear attack near Bella Coola &nbsp;&",
+      "pub": "Wed, 04 Nov 2026 03:15:05 GMT",
       "image": ""
     }
   ],
