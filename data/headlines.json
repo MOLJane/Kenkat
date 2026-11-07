@@ -1,10 +1,42 @@
 {
-  "generated_at": "2026-11-07T13:40:02.284687+00:00",
+  "generated_at": "2026-11-07T18:24:14.492552+00:00",
   "count": 16,
   "items": [
     {
       "source": "VOCM",
-      "title": "Government Considering Adding Atlantic Salmon Populations to Species at Risk Act",
+      "title": "Area MHA “Shocked and Disappointed” Norman Bay was Left out of Recent Home Heating Subsidy",
+      "link": "https://vocm.com/2026/11/07/316010/",
+      "snippet": "The Liberal MHA for Cartwright-L'Anse au Clair says she's \"shocked and disappointed\" an isolated community in her district was left out of the recent ...",
+      "pub": "Sat, 07 Nov 2026 18:13:30 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/11/norman-bay-labrador.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Search Underway for Overdue Boaters off North Coast of Labrador",
+      "link": "https://vocm.com/2026/11/07/search-underway-for-overdue-boaters-off-north-coast-of-labrador/",
+      "snippet": "An all-out search is underway for two overdue boaters on the north coast of Labrador. The vessel - an 18-foot white and blue fibreglass boat - left Na...",
+      "pub": "Sat, 07 Nov 2026 16:56:16 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/11/missing-men.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "Workers Want to See More Improvements for Injured Employee Compensation",
+      "link": "https://vocm.com/2026/11/07/316006/",
+      "snippet": "Organized labour likes what the provincial government is doing with rates of compensation for injured workers - but it would like to see more improvem...",
+      "pub": "Sat, 07 Nov 2026 15:55:55 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/jessica-mccormick.jpg"
+    },
+    {
+      "source": "VOCM",
+      "title": "South Coast Cod Stock Deep in Critical Zone",
+      "link": "https://vocm.com/2026/11/07/316008/",
+      "snippet": "The future of the south coast commercial cod fishery remains in question following recent assessments which show the stock still deep in the critical ...",
+      "pub": "Sat, 07 Nov 2026 14:07:20 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/04/cod-fish.png"
+    },
+    {
+      "source": "VOCM",
+      "title": "Government Considering Adding Some Atlantic Salmon Populations to Species at Risk Act",
       "link": "https://vocm.com/2026/11/07/316004/",
       "snippet": "The federal government has opened up public consultations as it considers the possibility of adding 12 Atlantic salmon populations to the Species at R...",
       "pub": "Sat, 07 Nov 2026 11:50:31 +0000",
@@ -35,99 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2020/03/lotto-max.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Budget 2026 Offers Relief to People Living with Celiac Disease",
-      "link": "https://vocm.com/2026/11/07/316002/",
-      "snippet": "Budget 2026 features a new measure hoped to make life a little bit easier for those living with celiac disease. The autoimmune condition can only be t...",
-      "pub": "Sat, 07 Nov 2026 09:50:26 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2024/01/gluten-free-food-canadian-celiac-association-grocery-food-label-2.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Mount Pearl Halloween Fundraiser Nearly Doubles Last Year’s Amount",
-      "link": "https://vocm.com/2026/11/07/mount-pearl-annual-halloween-fundraiser-nearly-doubles-last-years-amount/",
-      "snippet": "The city of Mount Pearl says its annual Haunting of Power's Pond Halloween fundraising event raised $19,960.50 for local food banks. That's a record a...",
-      "pub": "Sat, 07 Nov 2026 09:45:45 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/10/mount-pearl-water-tower.jpg"
-    },
-    {
-      "source": "VOCM",
-      "title": "Weekend Brings Gasoline Prices Down, but the Cost of Diesel is up",
-      "link": "https://vocm.com/2026/11/07/315998/",
-      "snippet": "It's a mixed bag when it comes to the adjusted fuel prices this morning. All types of gasoline cost nearly five cents less this morning than yesterday...",
-      "pub": "Sat, 07 Nov 2026 09:42:22 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/06/gaspump.png"
-    },
-    {
-      "source": "VOCM",
-      "title": "November 7, 2026 – The federal government is vowing to end homelessness within the next ten years.  Do you think that’s possible?",
-      "link": "https://vocm.com/2026/11/07/november-7-2026/",
-      "snippet": "window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-13680').",
-      "pub": "Sat, 07 Nov 2026 09:36:06 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2023/03/federal-government-parliament-of-canada-ottawa-2.jpg"
+      "source": "Google News Canada",
+      "title": "Premier Scott Moe calls federal budget ‘best in a decade’ - Global News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnQ4el9zNzNXZ05qN2pMTmdkRTZQbkxiQ2dFeE1SdEFOZDRhUHQ1ay1uSE1MSVdhZVdSSE45cXpLNzFqOUE0NzBJMlFGMWZRUDMwRzJxZW9LVVdEZXBwNnhDWkpmMGdPS3hHTDNoak5JdWFTYUJGTEFUazJKZFE1RVdzOW9CYnFWLWFkSUFSV2xkX3JSSGgw?oc=5",
+      "snippet": "Premier Scott Moe calls federal budget ‘best in a decade’ &nbsp;&nbsp; Global News These are all the key tax changes and credits impacting you from the budget &nbsp;&nbsp; Global N",
+      "pub": "Sat, 07 Nov 2026 14:28:05 GMT",
+      "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Budget 2026: Ottawa aims to simplify taxes, addressing corporate loss transfers and preferred shares - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ3lGU2pCMGRmSFVDVjBhMlhUbVBhb1dmTEJJanJ3aHl4OWRtazNQeFZoOGhab2Y0QlZicnhBbl9QZ3NFSnlISzZ0MldxQWJfTzRtNnlUU3ZTbHZ1U1hKMGdpMlpqaERQa3ZLR2lnN3c0VUJfSWllZzVXUHYyM1VyakZ1ejJJQ1NHc1J3S01CQkU4LXBSWmpSM19ibmwzbnpGWHVrb0FmN01xYy1xbDZj?oc=5",
-      "snippet": "Budget 2026: Ottawa aims to simplify taxes, addressing corporate loss transfers and preferred shares &nbsp;&nbsp; The Globe and Mail These are all the key tax changes and credits i",
-      "pub": "Sat, 07 Nov 2026 00:22:22 GMT",
+      "title": "At least five people killed in shooting in Poland’s Krakow - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjVjMS1hRzNkazY0TXRRbzF3YVQ1SnJZR0VIZV9Tak1NV0pQRk84TlpHekpzRWEtTlRFbk1LR08zZXNMVTBxYnNCY25kVTNHSWtrXzRBcEpIVVItc1VOVnMwT0xBODJLT1NwX3pzb0hyeWZQNGZOX3RrbWpEZGJMRVpkdWVCWmVMYmtiWGhqbk5TZUNSZFNHbNIBngFBVV95cUxPOVBoT0tkYk1ja0FRdjRITVpVZnNTVDRfWFgxTk1XUUpGWUtlZG5OLWd2LWJ3WVRzUmJ1MGhiYzUxM2JlaFZ0UlM3VHU3NjBYMHA3VGs4RWpJNFhsODhwMUpGZjhpOFlNQndBbFB6eFFFMi1RRVJRZlY0azZkY0lTdFRybTBEWHRVTkVHMnNVWk54TW1nUGZCaTdDVFRtQQ?oc=5",
+      "snippet": "At least five people killed in shooting in Poland’s Krakow &nbsp;&nbsp; Al Jazeera Krakow shooting updates: At least six killed and about a dozen injured &nbsp;&nbsp; BBC 6 dead, 1",
+      "pub": "Sat, 07 Nov 2026 16:25:07 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Five ways the midterm election results could reshape Donald Trump’s America - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHRDTy1Ga2w3WG1ubWRxWFR5OFduNDN2R0t5b3VxZHlVY2RQMkpTZTB6Qkhlc0ZGeGt1djFjV2NqVTUyT1J4THZVY0tBelVfV093cUpuQUN5bE5qRC1PaFVmU1B5VzRLaXZPSXV5cldReGVHWmJScnBkT1hEZDBIdXhHR3hmQWZrT2FkWGJIQ01LTGNCOERuMk1tRm9XRm5zTm1VSGxSN25GTlhkQ0tJb1ZMM2lCX3c?oc=5",
+      "snippet": "Five ways the midterm election results could reshape Donald Trump’s America &nbsp;&nbsp; The Globe and Mail Healthcare, Iran war & tariffs: Resurgent Democrats set stage to confron",
+      "pub": "Sat, 07 Nov 2026 11:00:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOblZZWERZN1ZWN1E4SG9oci1BSGdyZG8xVEJGbHdfNlZBTEFBUkthT2ppUlo0Szdkb2NMcENRaW5GNFJFQTVwQVNVRHliTGVmY3FOdVNhckk3OFV3U3RRaWJwb1MzaWJMdUxrRkpjbzBic2lLVUkxTEtndTlya3BrMl93UGpwTGttRHJKeDBqWUE5dmYyZWdiQ0FVcjdjXzVCZGNYVnNSRE01Z2FPaEt3Zm81amjSAboBQVVfeXFMTy1ZaVJKcWIydkdaVWZSaXQ5SEhvNW1MMXlIY0dnUDBBVEFUQXoyVDFMNzU4VjE5UjRjdC0xYUVaMTEzQXNNOHZaS040T1lLVE45aThRMzl3aUNweHU2S0w5V0dQRE9nVTNXSGVLMUw4TnJzOGxGbm51NkNnVEEzazAxdVFZQVk2U3FxSHU3LUc4T1NKMHNyc25GXzY4cGlWX2k2NU1OWWVDdXRoOTU1VEd4ellEbDZEZkpn?oc=5",
+      "snippet": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in &nbsp;&nbsp; Al Jazeera ‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves m",
+      "pub": "Sat, 07 Nov 2026 00:42:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Federal government outlines plan to end homelessness in a decade, starting in Winnipeg - The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTdxbnBMN1V0SWJjLUdaYlpMRktoTHBtMm11MnVVYU42UHFGZDEtT0J2b0RrRWhuSTFvZ1RsZjNQOGZQUGc0SHdHWTFfRWZ3MDVBNjRXaXo5bFZmN2VZV0VURDhqNVJjbjVKck5WQW05el85eFZBb29ZQVl5c0tiUEJMd0lmejUyZERjUlNwQ05rV3NKUlFrMXh3?oc=5",
-      "snippet": "Federal government outlines plan to end homelessness in a decade, starting in Winnipeg &nbsp;&nbsp; The Globe and Mail On homelessness, Carney is trying to do what Justin Trudeau c",
+      "snippet": "Federal government outlines plan to end homelessness in a decade, starting in Winnipeg &nbsp;&nbsp; The Globe and Mail Can Ottawa’s 10-year plan end Canada’s homeless crisis? &nbsp",
       "pub": "Fri, 06 Nov 2026 19:24:07 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "$56-million penalty hasn’t stopped alleged cult leader’s attacks on Canadians - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOajIybHdZbzlkc01DVVBfRWN3Sm1GQnNlRllZcGJnajZtMmJMNC16dXdTd3V6ZDV0dENUTVNaVnhZalZPSjVIWnlsdnVtdlY5a1A3NUp4aGNNYk12SHd6YTNrWGl2ZlZqdHVKd1g3OWVQXzJuRldiNjlCdlpndGRkTXJTT2F0MzdZV0tPRWZyRVhkR2hubGtfalJCVFZoSms3Q3JIWGM1aGRMcDVtd3lHQ1ZyVQ?oc=5",
-      "snippet": "$56-million penalty hasn’t stopped alleged cult leader’s attacks on Canadians &nbsp;&nbsp; CTV News Is Liana Shanti a cult leader? Former followers say there’s little doubt &nbsp;&",
-      "pub": "Fri, 06 Nov 2026 13:25:12 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5",
-      "snippet": "US Treasury sanctions Canadian money services firms over Iran-related transactions &nbsp;&nbsp; Reuters U.S. Treasury sanctions Canadian firms connected to Ryan Wedding and Iran &n",
-      "pub": "Fri, 06 Nov 2026 22:46:57 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Ottawa police gave us an insider look at catching speeders - Ottawa Citizen",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3R0VEZFI0Q1FjQ2djMUdCel9ubktoNFpienYyMTZGS2tTVmp2bFF6bFQzV081UWZqaXdiR2lXZ0pqdXlUVGo5c3dVR2x5S29seGV5QmRPbERoUi1RYmNsblZBSFN1QzNmdE43MnI5bWpsdw?oc=5",
-      "snippet": "Ottawa police gave us an insider look at catching speeders &nbsp;&nbsp; Ottawa Citizen ‘That’s stunt driving’: CTV News rides along with Ottawa police during traffic blitz &nbsp;&n",
-      "pub": "Sat, 07 Nov 2026 09:06:28 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Landslide prompts evacuation order for Zeballos on Vancouver Island - CBC",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSmM2OVE2NVpzdmtFQ1J3Qko3RWVsc3o3elNzY1VRbjN4dHFJTWN6VVN0MDd0VHR4N2VGeVdOWnUtblpIMmFrVmxOMk9STTdWMHNqSkFRUUZwOXhVZk5fYVhMQ0VYUm1Ub0dyeXhPS2JmTXJ1Y3NxRVZ6TVFxT3VrdEljcnNVM3poNW95c0M4b2hOeFdjeklHQw?oc=5",
-      "snippet": "Landslide prompts evacuation order for Zeballos on Vancouver Island &nbsp;&nbsp; CBC Metro Vancouver weather: Atmospheric river brings possible flooding, power outages &nbsp;&nbsp;",
+      "snippet": "Landslide prompts evacuation order for Zeballos on Vancouver Island &nbsp;&nbsp; CBC More wind warnings for B.C.'s South Coast after storm plays havoc with power, ferries &nbsp;&nb",
       "pub": "Fri, 06 Nov 2026 23:56:04 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Grief and gratitude: How brothers of B.C. grizzly bear attack victim are processing tragedy - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQam82MkdqNy05Umd3Q1RfMEJzU2ZTUEkyQ25xNzlPZ2NzODVWdHpvTGRiZ3plSUdvZ25tOGozVGE5ZDQzMXhTaVhYTnRjc0hBSkgtX2hfNHBiV0VFSGs0UHluZ2pVaGlVQzNzS2oxQzdOQ0xhS0ppZEExSjIxMlFjMTB3SThLQ0FxVDNGejNlZzhpUjJwY1UyaUdTUG9hYkZ6dmE5WmJPQzY3czhGNVlpeEhjUmFVZkR6VzRJb3ZJbks2d29qS1FsME9B?oc=5",
-      "snippet": "Grief and gratitude: How brothers of B.C. grizzly bear attack victim are processing tragedy &nbsp;&nbsp; CTV News DNA sampling will be used to determine if captured grizzly is behi",
-      "pub": "Sat, 07 Nov 2026 02:46:00 GMT",
+      "title": "Two dead, including infant, in Ontario tractor-trailer crash - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjZvYXBmcVhfR1pTRUxaNkx5b0R1X05EYjdhOFJ3cmhmZ1BBeXRZVGJzN1oxWlhhREh6U3hkcFRVOVprUk9tc0FpUFVxUFNVUS1SYmo2eW1hRTMzbEFldWtCZ1FnblJ1Znd6ZkM4amRFcnp1cDQ3akgtMEoxd21fLVozTzgyand4X2ZHdDlBdWZkckFSb2syT2ExTzdHQQ?oc=5",
+      "snippet": "Two dead, including infant, in Ontario tractor-trailer crash &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
+      "pub": "Sat, 07 Nov 2026 16:45:26 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Seven officers fired, a force under scrutiny: Can Montreal police rebuild public trust? - Global News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNclBpdXBIdmN0TEdVLWdqenRSUXNvdm5JbXI2OGFUYldJVEg1VllGWmc1MDNnYXJUazh2QlVzZU5zQjFkX3NUZFFTejljQ1h3UGZHUmhhZ3phQU5IVmdacXZkZ1BRSDVodXBJV2JYV1JGd0JwVjBveW1UUGlpemxyUHc5ZTR6M0xIRzJLaXdTMA?oc=5",
-      "snippet": "Seven officers fired, a force under scrutiny: Can Montreal police rebuild public trust? &nbsp;&nbsp; Global News See more headlines & perspectives on Google News",
-      "pub": "Sat, 07 Nov 2026 11:00:41 GMT",
+      "title": "BREAKING: Canada identifies economic, family, and humanitarian pathways eligible for 200,000 in-Canada PR spaces - CIC News",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYU1vX2llR01lcmlWYWVURHRER044ajlkMHR3OTRpQ0hhN09PbXVwdG90ckNHWS1DNkZMSEtROW8tc2ZhSkxBeFlGb2RIMzdFd1llTUc4YTVsY296YWp0RmZ6WFhUMTZoTDFjV0JiNW9oa0c0ZndjZ3FyWEFqZUFqbkI5M3FxMk1mN0hIWDRxOTBXaDNhMzNhRUlWWkJxdXppdFFtakxJTmVNTmhrNlZqUmZTeTF4aDVRSW03UUdTR05FLXNBdGNGYmJPZlZ0V0daUndlYVJob3Jfem5s0gHiAUFVX3lxTE5oNWdvWC11RkoycllwVjBzXzQ4SGRRWm5NV2kxQ2xOWEhMZlpWUU9lNndNQ3hJXzB3dFdENGgwLW16ZWM2YllTN3Y1YmhaaHRxUU9LdlUyRXZYWE5WMlJRNEVLcEhHZFB5QTFVOWJhNXNOU3Z5Q082WEpiazlGMDdHR1pnd1otMUU3Zi1kUllSUGhFYldPdzJKUEF5aWhHZDd6ZTJoLU5LdkF2RVgxd2ZieWZSY3RDWVFfVU9RcEJyQkhIcjVHRV8tV2h4VlVzS2R5bXFPNUtlYXJUc2dPNUxSS2c?oc=5",
+      "snippet": "BREAKING: Canada identifies economic, family, and humanitarian pathways eligible for 200,000 in-Canada PR spaces &nbsp;&nbsp; CIC News Carney says new immigration levels plan is 's",
+      "pub": "Fri, 06 Nov 2026 22:46:42 GMT",
       "image": ""
     }
   ],
