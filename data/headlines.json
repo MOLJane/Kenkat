@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T23:11:29.152644+00:00",
+  "generated_at": "2026-11-15T02:54:17.207932+00:00",
   "count": 16,
   "items": [
     {
@@ -76,18 +76,50 @@
     },
     {
       "source": "Google News Canada",
-      "title": "Former environment minister says Canada’s commitment to climate targets ‘factually untrue’ - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GRDdYQ0JZQ3FLbVpXZDUwRENWcUV1Vk51bnhwLTY2M29meFhuMDU5Y0MtVE80SmNSdUtWN3JEZG1KOHI1NkliVkhtclhvODEzLVBtTTZJMkZZN1BiajRRUXlJSHpuazEz?oc=5",
-      "snippet": "Former environment minister says Canada’s commitment to climate targets ‘factually untrue’ &nbsp;&nbsp; Global News As Canada invests in oil and gas, environment minister boasts of",
-      "pub": "Sat, 14 Nov 2026 14:40:16 GMT",
+      "title": "Trump rages at judge holding up DC golf course as president remains focused on renovation projects - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGhUZEVVbGUxMy1NYnVicUR5SDhfVlc2NXd3Z0JNTmVHZVZob3daWjJOUUtucWN5ZTVqanFEbHUyX0ZjS2pfZ1h4clZKTXBpTmhZVTduOTg0NS04WUlyWnhublJDaUJndjgyLTd0NGhzdkl5TjF4eEtYTDQ2X0hEYmRKWUh3d0EzTTFhcXFZMG11dHFzRkF6Q3dtaXFuOEJ6S0VSaXUxTnNKY3FYYXpVTDR3?oc=5",
+      "snippet": "Trump rages at judge holding up DC golf course as president remains focused on renovation projects &nbsp;&nbsp; The Independent Judge halts Trump plan to redevelop Washington, DC, ",
+      "pub": "Sat, 14 Nov 2026 23:25:00 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Man dead in early morning stabbing in Mississauga - CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHVfZmczV3dNRHlfWXNLNHFsdDl1bmZIbGdxVnJjdU5hek1QQ0pqNFlmZ25xal9nMXBPWUprMUN5ak5kU0lPaExKU184QXNoV3FWT3pzS0pyajhFYmdQanVSeHBwdUpMeDlIdk55eTNlMkd6bVJjSXNwbUJ1WHNyTTYtMjBVbWgtVEhVZk1jcFpsRzg?oc=5",
+      "snippet": "Man dead in early morning stabbing in Mississauga &nbsp;&nbsp; CityNews Toronto Man dies following stabbing in Mississauga Saturday morning &nbsp;&nbsp; Toronto Star Man dead after",
+      "pub": "Sat, 14 Nov 2026 11:54:00 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "Faulty equipment blamed by Trump administration for FAA ground stop. Follow for live updates. - CTV News",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMXNmS3RvbEh1R2FQdl9MaDIwU3JWNHFIOWhYelpuXzVWSmFHVGNqN0RfTURlOVBVT3RFTEtySmx3SS0zUHdiRG0wRVpqU0FScUtOaDRrOS15MDJsc3p6LTRvVUJXa3N5dk0xNzJiWDdIcHg5VmprOVRyUUtxOTZIUWFnQ2IyOUdKRllsUHd4bkcybjBLTlVaYzJkOTltc1NhVTlpVXcyVlQwR0hLZjFDb2cxdWhzS0U3Z2lRQkZKLTlzNF9mNjBOVw?oc=5",
-      "snippet": "Faulty equipment blamed by Trump administration for FAA ground stop. Follow for live updates. &nbsp;&nbsp; CTV News November 13, 2026 — Some US flights resume after hours-long grou",
-      "pub": "Sat, 14 Nov 2026 21:15:30 GMT",
+      "snippet": "Faulty equipment blamed by Trump administration for FAA ground stop. Follow for live updates. &nbsp;&nbsp; CTV News Losing communications and surveillance at the same time ‘disturb",
+      "pub": "Sat, 14 Nov 2026 23:12:30 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Former environment ministers say Canada’s commitment to climate targets ‘factually untrue’ - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GRDdYQ0JZQ3FLbVpXZDUwRENWcUV1Vk51bnhwLTY2M29meFhuMDU5Y0MtVE80SmNSdUtWN3JEZG1KOHI1NkliVkhtclhvODEzLVBtTTZJMkZZN1BiajRRUXlJSHpuazEz?oc=5",
+      "snippet": "Former environment ministers say Canada’s commitment to climate targets ‘factually untrue’ &nbsp;&nbsp; Global News As Canada invests in oil and gas, environment minister boasts of",
+      "pub": "Sat, 14 Nov 2026 14:40:16 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Most of Vancouver Island on ‘yellow’ for wind, rain warnings - CHEK News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOS1WYmt0NlN0N3h0eGNvR1FSc2xDbUNHempqZWVPaUltSWtHRnJrejNpZVJ4ejhFX0tjbGhvQ1I5T0c4WHlnT096VWNMQXdhLUhneFFnQUEzTXBYSllkSG9OSUtYb1ZGOFJoYkhvdzl3dkR5RjhnZFNTZng1Z2hSNVBvRjNnQ2ljVWo1cW1VVQ?oc=5",
+      "snippet": "Most of Vancouver Island on ‘yellow’ for wind, rain warnings &nbsp;&nbsp; CHEK News Windstorm raises overnight outage threat across coastal B.C. Saturday &nbsp;&nbsp; The Weather N",
+      "pub": "Sat, 14 Nov 2026 18:48:39 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Mike Morrice — the only candidate on the ballot — wins Green Party leadership with 96.6% of vote - CBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VUHhiNzlLTkdLOXJfdW1POFB1dXhma05PSElzM0tCYV93bWEzNWFfbFRES0s1dlhqanRNMlM4NUw0dm96Qlk4YVBxcHVpR1BVOGNTMXd6VUVZSU1MNE51R0RROHU3RHF0MS1EcnM4cEFvOGhOM3pVUC14U2xEdTg?oc=5",
+      "snippet": "Mike Morrice — the only candidate on the ballot — wins Green Party leadership with 96.6% of vote &nbsp;&nbsp; CBC Althia Raj: Elizabeth May exits Green leadership with a warning ab",
+      "pub": "Sat, 14 Nov 2026 22:51:00 GMT",
       "image": ""
     },
     {
@@ -96,38 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCUUhWZmt2UndEV0QzRFN5bVp6cjkzZGlpV3VmSTVMNGI0RldjUTNRMnAzMFk5UzNwYTAyQnVPV0tQT1M0RVNZaWdZdzUwTHFpZE5hVFJTVF9EYkllMDVRYkpvQy14d2FPSmdYRVFDS2VYemg2aGhLaFM0Ql9odw?oc=5",
       "snippet": "Carney’s big bet on debt &nbsp;&nbsp; The Globe and Mail Metro MP says Budget’s Business Focus Necessary Given Geopolitical Climate &nbsp;&nbsp; VOCM Posthaste: Mark Carney’s budge",
       "pub": "Sat, 14 Nov 2026 11:00:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "$11.5M in drugs seized, one arrested - Thunder Bay News - TBNewsWatch.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUpLMTVzTmhNV0RCT0ZtX0w0LXlCelJvQ3NkWk1tTXBzZ3ZDT1dCc2tIeEtsaGdkQXlYNWNHUXhTUk9fcWxPMFZPbGtHSFRKOXFMNUt0RGN1YXBUTmRjX2hBUTQwTzFmMmE1LWg0TkZyY1gwN3ZRQkh1QjRtOVJ5eVYtY09pcHZH?oc=5",
-      "snippet": "$11.5M in drugs seized, one arrested &nbsp;&nbsp; Thunder Bay News - TBNewsWatch.com See more headlines & perspectives on Google News",
-      "pub": "Fri, 13 Nov 2026 20:24:51 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Bell: Danielle Smith to lay it on the line with rebellious UCP separatists - Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDRLODhxUkJRSEhOVTJUU2FGZG5Vai0wMk54OEhSUXdCbHh1YnBBV3V3WDYtTzFSZVRjcHVDc3ptaVdWSkxvbUFrdVJKeHVkMW9LWUNKa1FsOXEtazlZZWhUZUdpVzJFUnJEaWV1YXBDaDVJYlhGa2RLcl9TNjNiTXpaRnlPaUVPd2tRYzE3c0hrdXJzb2FfcjJkZGtMenVwWC0zRUpWU29xUS1rRF9VdzJCWnFfdkE2WFE?oc=5",
-      "snippet": "Bell: Danielle Smith to lay it on the line with rebellious UCP separatists &nbsp;&nbsp; Calgary Herald See more headlines & perspectives on Google News",
-      "pub": "Sat, 14 Nov 2026 12:05:08 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "More rain expected to hit Sea to Sky starting Saturday afternoon - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcEN2RVE0Smxtaklya1UtQjBqN09yMkxIMGg4Ql9DNXc5b1Awc0RFYi1Sa0VqRUh4ZHB6MmZHWHdLXzFscVpRNmdheHptQ1hmQ0UxalFzdjduelFVaktvZWZQTzZUMWx6aG1feHVuTjFJckVNeXBfSHlFSmZLUEFScWRWdDN1bWhCT3BKYXNlME9hYUlvS0ZVUzY3b0k0LVRvMFBNU0VLdw?oc=5",
-      "snippet": "More rain expected to hit Sea to Sky starting Saturday afternoon &nbsp;&nbsp; Castanet More rain, wind and flood alerts in effect for coastal B.C. &nbsp;&nbsp; Castanet Wet, windy ",
-      "pub": "Sat, 14 Nov 2026 16:30:00 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Montreal student protest turns chaotic as police deploy tear gas and flash bangs - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkRPRGo3U0xma19ueTRFWGNhaDhOUUVnXzJmMFgzNlNnX3R1dXlYYjBwc2ZxenZsSmp5NGJISjB0VFNoejBhWDJFZElSNzUwbm9EekoyQ01BNFMxN2JwVDNfd1JBZS1US19aNGlQTzlGc2liRUJGemFTTURwZVRGenJkdndVX0FhRUFhalROdFlya2lxRmNIQVRFWkJtUHc?oc=5",
-      "snippet": "Montreal student protest turns chaotic as police deploy tear gas and flash bangs &nbsp;&nbsp; Montreal Gazette Quebec assumes parents help pay for post-secondary schooling. Student",
-      "pub": "Sat, 14 Nov 2026 19:31:50 GMT",
       "image": ""
     }
   ],
