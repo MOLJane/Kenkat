@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-11-21T22:37:12.765041+00:00",
+  "generated_at": "2026-11-22T02:45:03.514877+00:00",
   "count": 16,
   "items": [
+    {
+      "source": "VOCM",
+      "title": "Highway Near Flat Bay West Closed Due to Collision",
+      "link": "https://vocm.com/2026/11/21/317411/",
+      "snippet": "A portion of highway, in the islands West Coast, is closed near White's Lane in Flat Bay West following a motor vehicle collision. RCMP say emergency ...",
+      "pub": "Sat, 21 Nov 2026 22:51:22 +0000",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/12/traffic-alert.jpg"
+    },
     {
       "source": "VOCM",
       "title": "Pair Facing Salmon Poaching Charges Following Investigation on GNP",
@@ -59,75 +67,67 @@
       "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2026/11/lloyd-parrott-nov-18.jpg"
     },
     {
-      "source": "VOCM",
-      "title": "Front Entrance of RNC HQ Closing for Repairs Tonight",
-      "link": "https://vocm.com/2026/11/21/317376/",
-      "snippet": "The front entrance of RNC headquarters in St. John's is not going to be accessible to the public for a chunk of the weekend. The exterior of the build...",
-      "pub": "Sat, 21 Nov 2026 11:35:08 +0000",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/900/files/2021/07/rnc-headquarters-2.jpg"
-    },
-    {
       "source": "Google News Canada",
-      "title": "Navdeep Bains named new Ontario Liberal leader - CP24",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEhfd2FKdlZRbm5pbF9JR0tQVEhfZzFMaXFiTkNzNHJTc1htM0tWdmNRcVQ0RGZwTjQwbWFBSE1RMV9wTzN6RHpURHFPUlJldEdGV3ZfVDFpMnUtWWIza0tKSWtQM3VWZkNtU1RnaTRSSVlaOXY1eEFsUFhjWkthRGJnbUp5eGhoZDZ3TWV6WlhYTEZrdTREVUM4Ump4NnFORFE?oc=5",
-      "snippet": "Navdeep Bains named new Ontario Liberal leader &nbsp;&nbsp; CP24 See more headlines & perspectives on Google News",
-      "pub": "Sat, 21 Nov 2026 21:40:37 GMT",
-      "image": ""
-    },
-    {
-      "source": "Google News Canada",
-      "title": "Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees no change - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3VaVTRJN0JLcl9ZRHhiZkRQSUc3TmJwaGVpTHpBX2dNM1cyQnVZNl9UWVFQTEY4WVZNbW4wa1ctMmV3SVZSMWR2MWVtNDVWX2drblNETEZGZXZoZ0N6M1dkQ0ZjSWJ3ZEs4SEJ3ckJlTmhueUxFVkk2LTdPMkh6MmpHMnFocS1WMkE?oc=5",
-      "snippet": "Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees no change &nbsp;&nbsp; CBC Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military &",
-      "pub": "Sat, 21 Nov 2026 19:29:16 GMT",
+      "title": "Canada unaware of U.S. changes to military cooperation policy, McGuinty says - Global News",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wRERidFV2N2tWYWZrYW1KNU1HT25Lbkp1eEhnT1dDOF93cXNRd181eGhrMTBudkNoRk8wM1hIcGtOQ0Z6SldfLUgyTE1pVzU4b0NiZjBXeVVCWUpmekJfTE9pLVM?oc=5",
+      "snippet": "Canada unaware of U.S. changes to military cooperation policy, McGuinty says &nbsp;&nbsp; Global News Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees",
+      "pub": "Sun, 22 Nov 2026 00:37:54 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
       "title": "B.C. premier unveils new cabinet, changing key portfolios from mining to environment - The Narwhal",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwaDItN091VEJZdmVtVUFEYWg4bnNpR2R1MEZHaTFmY0gxUTkwUHFnM1ZvRll3OTRoZE5hLWZ6QUlOSzNYa2JoQnJvMzNYSTA4dkhZRVhvdG1Qem5DR2VBOFBrelJxSGZwZFNIZQ?oc=5",
-      "snippet": "B.C. premier unveils new cabinet, changing key portfolios from mining to environment &nbsp;&nbsp; The Narwhal New cabinet sworn in with focus on restoring confidence, building a st",
+      "snippet": "B.C. premier unveils new cabinet, changing key portfolios from mining to environment &nbsp;&nbsp; The Narwhal Conservative cabinet sworn in with two Vancouver Island ministers &nbs",
       "pub": "Fri, 20 Nov 2026 23:55:23 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Coyote attacks, drags child at Toronto’s Edwards Gardens: police - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOHgzRTJZaklvaHdmN1dILVRMbnRnU1dnQWs0RjhvOTFwMzVHYmZFZlJaY240b3pPV2dwT2NxVnh2clM4VUJZTlljWlBQOUxhN1JMN3hJNGFKelJrT2wxU2ZNdjFDeklvUWNhMWRhMG8zd0NVdlpud0k3aGQ3VnJ6eVZhMEc1RGNOMTVLaVZHQmhWQXNQN3RjcHpmMXZPSThiZnc?oc=5",
-      "snippet": "Coyote attacks, drags child at Toronto’s Edwards Gardens: police &nbsp;&nbsp; CTV News See more headlines & perspectives on Google News",
-      "pub": "Fri, 20 Nov 2026 17:49:35 GMT",
+      "title": "Ontario Liberals elect Navdeep Bains as new party leader - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2tGMVBodWxsQkNwVGRyMndQV1cyTUJQRFZrSVN1S1E1VkdieGV1SFdhSXdNZTM5cFpVUm5mbjdQcFlPWlVlX25UWXphVWRoY0p4LThTX3FOVmMyMWJXcWdKUWRCMUl3QTlrOGdfdk13N05iR3czZmpjZHBCQzlSbGZFQzc5SjQ?oc=5",
+      "snippet": "Ontario Liberals elect Navdeep Bains as new party leader &nbsp;&nbsp; CBC Navdeep Bains named new Ontario Liberal leader &nbsp;&nbsp; Global News Ontario Liberals choose Navdeep Ba",
+      "pub": "Sat, 21 Nov 2026 23:57:32 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Trump trade adviser hurls insults at federal government as Canada-U.S. trade talks heat up - CP24",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVkc4cDlXaF9WbUNLSGF5T2p6SDhOU3Z5Wi1XeUh1ZS1XOEM1M3NvSjJhTWlvZVAtSkVhZk9YQUxSOXp0dVFTQUVtWFpvbFZpNnlGZTFsbEhUSkFPX2hKR0RfYV9jeHJOTVdrdmdxMTg2ektKOUhRN0FxSlVBcmpCa1Y2d3hOVm9CYlhSMHBZQWlCVjdMZ21tMHJFZEdIS1o5akRIVTdNdk90RDNxVG9xbDQwMkpRS1RTOG0wTkR3a1l3TVFvNmw5WndBRVdXUQ?oc=5",
-      "snippet": "Trump trade adviser hurls insults at federal government as Canada-U.S. trade talks heat up &nbsp;&nbsp; CP24 Carney says ‘we’d like to do a deal’ as Canada pushes for an interim U.",
-      "pub": "Fri, 20 Nov 2026 14:49:54 GMT",
+      "title": "Trump orders federal contractors to notify White House before giving Congress information - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYU9ldWxQYWZGaDhyeUpON3JiZm1nY05zWThaTkprVG1IblRUTFgteElCVXBmYlBKM2MyN1JXNFNKQ3ZzeHdaSHM0MHpfSklDeVVZV2daZk1UVkZiUXdIVXY1cUt3YVdFc2pEU3BlMEFUVWxlSl9zQk8yRFdWUk13T0NVSzBIaDFCYjRiakhWd3NKNHZkdWxmZmlCWWNBMDdobGkzbkRfcGJyMGdtNUpUSE51Nk5VRHZKWmMwMENreUFCUmx60gHKAUFVX3lxTFBBMThUbk5HVl90dXJjSXlqdjRrdW5DbDJKdld6bkdZLUZ2N1hHVzNXVlY0UEhWUGk4M0h2eGZGUU1YWUZ0bHVEUnBXelk0MnpWZTRSbk5jdUpLRlVPSlZEMldMajRGaWZlRzZCWmxCM0Z0c0RkLXJCUG9icUFhSmNudURsbXhfR2E5NlJhUlRNanVfWW5FSGRxNmN6OWxacnlVOFNaQXlCR2FXZVRza2JudXd6cjBnZ3d3aktVUHJTUzFUOXhCQkdmUWc?oc=5",
+      "snippet": "Trump orders federal contractors to notify White House before giving Congress information &nbsp;&nbsp; CNBC New Trump executive order seeks to block federal contractors from talkin",
+      "pub": "Sat, 21 Nov 2026 08:54:22 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks? - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX20wNDVSNndfNTJmUTBHRTJrOTc1YTl4QmFQd0kxdFV4cmRUNS1JbUcxMmtTVnNTcTFZOVZsR1FPYU43aEtPTnNpdlA2UVZSalpoSHVmNGJTTUp0OHZaWmxuX0kyNWRESm5IMVdleFpYX0o1SEpEd1FJZngtWFNCNGhCU2FnNUlUQlpSNUU4enZ5cjJTY2NiS0VJZmR6dlpOay0yMk96bw?oc=5",
-      "snippet": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks? &nbsp;&nbsp; The Guardian Opinion: Mark Carney and Canada’s no-question period &nbsp;&",
-      "pub": "Sat, 21 Nov 2026 12:00:00 GMT",
+      "title": "Mexico captures FBI’s most-wanted cartel boss ‘El Chapo Isidro’, triggering violence - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1NGaXhMWmRTR1hiOVN5cW95M1A1OEVPSUNDTEg5Um95b2ptUlRVdTkya0JxVDd6VUZlQW5CbzVOUkVUcl90R2RtOUJnWDZaMmJDMGF2M0dTYk9WZ2Fnc3FOY2lwZzRCZGQ5U01EVEZMNVVDNF9FZkQtZUxzZFJ3NmdvTXVScVBLT2VwaVZLMzFoWlBLbmRLMDVrMVZvY1FrZUViMmUzbWFVdGI5M2kySTRkMWR2eWc?oc=5",
+      "snippet": "Mexico captures FBI’s most-wanted cartel boss ‘El Chapo Isidro’, triggering violence &nbsp;&nbsp; Euronews.com Capture of cartel leader in northern Mexico sets off gunfight that le",
+      "pub": "Sat, 21 Nov 2026 14:20:35 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust - CBC",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ19PZ05JQ2Y0ZTYtYkZNYjYtcHdLdHU5eUtYX2toeDBrY2MydTExa20wTVFjTTNKRnNUWk1tUTJOQ09VMVhfS0VqXzRaVmUzakRZcENNZlNhQUNEeEx6UE1ndUlDQXRnQklHc2xtQnhEVGttYnltUTQtdEd6YXREN1ZuVmlmZVJ4d0ZuaWtMWWJuT0k?oc=5",
-      "snippet": "Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust &nbsp;&nbsp; CBC See more headlines & perspectives on Google News",
-      "pub": "Sat, 21 Nov 2026 21:10:14 GMT",
+      "title": "N.S. reaches new tentative deal with CUPE school workers - CBC",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOE16SU9GQ3dROWRCVWc1NllzNVFYNURfRl9kbFNKVm8tSUtvM0xucUxwZjBLRTJ4dnlYU1dXVDJucDduM0lNd3NISXRSVWZ4VXd3Z2oxYmlNX2M1cTZfaTY4RldabENUaFdrdTJaaV8wTE9zRHBGdVBsZUdXdG1hZjhZRXpYSkJHeTAxalhHSmFaMTY5bHpJT285ckRGOFdxWHI4SGN5UzhUeGs4?oc=5",
+      "snippet": "N.S. reaches new tentative deal with CUPE school workers &nbsp;&nbsp; CBC Union calls for return to bargaining in N.S. school support staff impasse &nbsp;&nbsp; CBC Tentative agree",
+      "pub": "Sat, 21 Nov 2026 19:46:53 GMT",
       "image": ""
     },
     {
       "source": "Google News Canada",
-      "title": "Suspended Vancouver police officer accused of theft and fraud has pay discontinued - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdUdHZkE2b1h4NVBaelI0MGpGZkNSeXpOdms0WUhjU2lMM1daYkwyNkEzMlV1SFpxUnFqbFNkeU5RbU9YTVhaQk1PY3Y5Z0c4Uk5GSnpuMGhFTFRBTF8ySzhwNVJ0WnhKNUhhbU40MGZKOXZad1VZeTRTMnJDUmRXRnUwYS0wRDRqT0U2SDdpaUZtMUNlMFpra0poMVdqVlJ4SDBueVpkVlp3YlFMZWFmUmZBUlVqLU9RbUhxdjBxTDhRQQ?oc=5",
-      "snippet": "Suspended Vancouver police officer accused of theft and fraud has pay discontinued &nbsp;&nbsp; CTV News",
-      "pub": "Sat, 21 Nov 2026 19:45:15 GMT",
+      "title": "2 former Montreal police officers charged in misconduct investigation - Global News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRVpSbjlEVkFuM3hTQXN1QUJKYkF4azFmNEROQlQ3ZjRVa3JXUExYY0JmT0VjRjhZQ3duSTVGOTR3SUxEd2VNZXlsWnBZVEVUTDVhMzZkem1pbm1nWDNCN0ZWZGZDRkI5RjNrdlFSV29TNVAxQXpHcEN6RURqNGwyQ2dqcGJlWDZ3MU5SVktn?oc=5",
+      "snippet": "2 former Montreal police officers charged in misconduct investigation &nbsp;&nbsp; Global News Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach",
+      "pub": "Sat, 21 Nov 2026 23:46:06 GMT",
+      "image": ""
+    },
+    {
+      "source": "Google News Canada",
+      "title": "Environment Canada reissues yellow fog advisory across GTA - CBC",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VbzhHQjA4NDNnZ00tdXlGQlRHSXd0NGxCZ25KazRwQ3gyRmRleEtEak9oY2VwU2haNldnTGU1Tjk2VklsOGhTUHdJUVB5OGNXMkNIZjJteFhNZWlFS0hTSzRRcnZXamd4TWRlbXZvekMwdU0?oc=5",
+      "snippet": "Environment Canada reissues yellow fog advisory across GTA &nbsp;&nbsp; CBC Hazardous travel likely as fog blankets region &nbsp;&nbsp; Guelph News ‘Near-zero visibility’: Fog advi",
+      "pub": "Sat, 21 Nov 2026 17:23:44 GMT",
       "image": ""
     }
   ],
